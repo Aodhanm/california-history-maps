@@ -76,10 +76,10 @@
   <button class="panel-toggle" onclick="document.getElementById('panel').classList.toggle('collapsed');this.textContent=this.textContent==='−'?'+':'−'" title="Toggle">−</button>
   <h3>Imperial Layers</h3>
   <div class="panel-body">
-  <label><input type="checkbox" data-layer="spanMil" checked><span class="dot" style="background:#2e6f40"></span>Spanish Military Expeditions<span class="count">(9)</span></label>
-  <label><input type="checkbox" data-layer="british" checked><span class="dot" style="background:#c0392b"></span>British Naval &amp; Military<span class="count">(12)</span></label>
-  <label><input type="checkbox" data-layer="russian" checked><span class="dot" style="background:#2980b9"></span>Russian Naval &amp; Hunting<span class="count">(9)</span></label>
-  <label><input type="checkbox" data-layer="american" checked><span class="dot" style="background:#1a5276"></span>American Encounters<span class="count">(5)</span></label>
+  <label><input type="checkbox" data-layer="spanMil" checked><span class="dot" style="background:#2e6f40"></span>Spanish Military Expeditions<span class="count">(11)</span></label>
+  <label><input type="checkbox" data-layer="british" checked><span class="dot" style="background:#c0392b"></span>British Naval &amp; Military<span class="count">(13)</span></label>
+  <label><input type="checkbox" data-layer="russian" checked><span class="dot" style="background:#2980b9"></span>Russian Naval &amp; Hunting<span class="count">(16)</span></label>
+  <label><input type="checkbox" data-layer="american" checked><span class="dot" style="background:#1a5276"></span>American Encounters<span class="count">(6)</span></label>
   <label><input type="checkbox" data-layer="bouchard" checked><span class="dot" style="background:#e67e22"></span>Bouchard Raid 1818<span class="count">(4)</span></label>
   <label><input type="checkbox" data-layer="french" checked><span class="dot" style="background:#7d3c98"></span>French<span class="count">(1)</span></label>
   <label><input type="checkbox" data-layer="indigenous" checked><span class="dot" style="background:#d4ac0d"></span>Indigenous Agency<span class="count">(9)</span></label>
@@ -538,6 +538,88 @@ addM(intel, 37.975,-122.530, diamondIcon(IN),
   'Same letter contains Mission San Rafael founding AND Russian threat warning. Dual purpose: health + strategic. Proves mission expansion was explicitly about territorial defense against Russia.',
   'Missions as counter-Russian strategy','',
   'sola-to-viceroy-april-1818.');
+
+// ═══════════════════════════════════════════════════
+// RECENT C-A ARCHIVE FINDS (2026 cataloging — bodega-primary-sources dossier)
+// ═══════════════════════════════════════════════════
+
+// The 1793 occupation attempt itself — the map namesake (C-A 55 / C-A 6 / C-A 15)
+addM(spanMil, 38.335,-123.048, swordIcon(SM),
+  'The 1793 Bodega Occupation Attempt — Matute / Aránzazu','1793',
+  'The occupation the whole story turns on. On the Viceroy\'s order to "reconocer y ocupar dicho Puerto, quitando á extranjeros ese abrigo inmediato á los Presidios," an expedition under Lt. Juan Bautista Matute aboard the Aránzazu was to plant a Spanish establishment at Bodega. Matute reported he "no verificaría aquel año el establecimiento" — the attempt collapsed for want of imperial capacity, not suitable ground.',
+  'The establishment that did not happen — Spain\'s claim north of SF never occupied',
+  '',
+  'C-A 55 Doc 335 (Matute/Aránzazu); occupation order C-A 6 Doc 192 (Revillagigedo, 6 Jul 1793) & C-A 15 Doc 515 (Arrillaga, 16 Jul 1793).');
+
+// The 1794 abandonment (C-A 15)
+addM(spanMil, 38.318,-123.038, circleIcon(SM),
+  'Bodega Establishment Abandoned','July 25, 1794',
+  'Sal reports that "no se efectuará el establecimiento del puerto de Bodega," and that the articles destined for Bodega have been reassigned to the San Francisco presidio. The closing bracket on the 1793 order-and-attempt.',
+  'The Bodega plan formally dead — supplies redirected to SF','',
+  'C-A 15 Doc 520 (Sal → Arrillaga, 25 Jul 1794).');
+
+// Wilcocks at Russian Bodega + the annexation plot (C-A 13)
+addM(american, 38.308,-123.055, shipIcon(AM),
+  'Wilcocks Calls at Russian Bodega — and the Annexation Plot','October 25, 1816',
+  'The American trader James Smith Wilcocks calls at "un establecimiento ruso llamado Bodega" — "los rusos no quisieron comprar nada" — then sells Gov. Solá $700 of blankets for the four presidios. In 1817 he is accused of plotting to "levantarme con las Californias para integrarlas a los anglo-americanos" — the earliest dated articulation of the U.S.-annexation fear the open coast invited.',
+  'Bodega as a (failed) commercial port in the US–Russian–Spanish triangle','',
+  'C-A 13 Doc 19 (Wilcocks affair, 1816–18).');
+
+// Elliot de Castro / Ilmena seized at Refugio (C-A 12)
+addM(russian, 34.47,-120.07, swordIcon(RU),
+  'Elliot de Castro / Ilmena Seized at Refugio','September–October 1815',
+  'The Russian brig Ilmena\'s shore party — John Elliot de Castro, an American, an Aleut and others — is seized at Ortega\'s Refugio rancho, the coast\'s otter-smuggling rendezvous. A $2,000 ransom is offered and refused. Spain/Mexico can catch the people but not stop the trade.',
+  'The Mexican-era sequel — Refugio as a second Bodega-style keyhole','',
+  'C-A 12 C475 + C427 (1815).');
+
+// RAC parlamentario Podushkin on the Chirikoff at Monterey (C-A 13)
+addM(russian, 36.605,-121.895, flagIcon(RU),
+  'RAC Parlamentario — Podushkin on the Chirikoff at Monterey','1817',
+  'Baranov, from Novo-Arkhangelsk, protests the "insults to the Russian Flag and the capture and keeping in cruel bondage of Russians… in the waters and the coasts of California," invokes the 1812 treaty, and sends Lt. Podushkin as a parlamentario aboard the Chirikoff to Monterey. Russia negotiating as a commercial sovereign on Spain\'s claimed coast.',
+  'Russia treats with Spain as an equal power on the California coast','',
+  'C-A 13 Doc 20 (Baranov / Podushkin, 1817).');
+
+// Kuskov RAC letters to the SF commandant (C-A 12)
+addM(russian, 38.514,-123.240, flagIcon(RU),
+  'Kuskov\'s RAC Letters to the SF Commandant','June 1814',
+  'Ivan Kuskov, RAC commercial councillor at Ross, writes directly to the SF commandant "in the name of the Honorable Russian-American Company under special protection of His Majesty the Emperor of all the Russias," sending agent Slobodchikov to settle accounts and pressing for the return of captured Kodiak Aleuts.',
+  'Ross corresponds with SF as one sovereign to another','',
+  'C-A 12 C431 / C433 (Jun 1814).');
+
+// Spanish missions supply Kuskov at Fort Ross (C-A 55)
+addM(russian, 38.510,-123.248, shipIcon(RU),
+  'Spanish Missions Supply Kuskov at Fort Ross','1816',
+  'The Spanish missions supplying Kuskov\'s Russian colony — Spain\'s own establishments provisioning the foreign outpost on the ground it claimed. The open coast as routine economic fact, running in Spain\'s disfavor.',
+  'Spain provisions the colony it was ordered to uproot','',
+  'C-A 55 Doc 243 (1816).');
+
+// Fort Ross abandonment resolved (AVPRI)
+addM(russian, 38.516,-123.238, circleIcon(RU),
+  'Fort Ross Abandonment Resolved','1841',
+  'The RAC Main Board resolves to abandon Ross and "sell or barter for wheat to the inhabitants of San Francisco." The otter gone, Ross is liquidated — the economic close of the arc that opened with the resource.',
+  'Russia leaves — Ross sold to Sutter, a promoter of the US invasion','',
+  'Fort Ross AVPRI, 1841 abandonment resolution (via Gibson & Istomin).');
+
+// Yanovsky RAC trade overture (C-A 55)
+addM(russian, 38.508,-123.244, flagIcon(RU),
+  'Yanovsky\'s RAC Trade Overture','ca. 1820',
+  'RAC chief manager Semyon Yanovsky proposes a joint, equal-shares otter-hunt and open commerce (via Khlebnikov and the Madrid embassy; the Ilmena to supply Ross). Solá replies he cannot grant otter-hunting — only the Viceroy can. The third volume of one continuous Russo-Spanish negotiation.',
+  'Russia again negotiates as a commercial sovereign — Spain defers to Mexico City','',
+  'C-A 55 Docs 323–324 (Yanovsky / Solá, ~1820).');
+
+// The Suvorov at SF + the 1811 RAC proclamation (C-A 12)
+addM(russian, 37.796,-122.402, shipIcon(RU),
+  'The Suvorov at SF + the RAC Proclamation to California','August 1815 (proclamation dated 1811)',
+  'The RAC ship Suvorov (Lazarev) calls at San Francisco carrying a formal RAC directors\' overture "to the noble and honoured Spanish inhabitants of California," invoking Russo-Spanish friendship, the 1812 treaty, and Rezanov\'s 1806 visit — the institutional Russian demand for the California provision trade, arriving by ship.',
+  'The RAC\'s formal trade-opening request, delivered to SF','',
+  'C-A 12 C478 + C479 (Suvorov 1815; passport-proclamation St. Petersburg, 12 Jul 1811).');
+
+// 1799 British squadron — San Diego harbor secretly sounded (C-A 15)
+addM(british, 32.690,-117.235, shipIcon(BR),
+  'British Squadron Sounds San Diego Harbor','1799 (sounding c.1797)',
+  'A sworn 1799 deposition: a British naval squadron awaiting the Manila galleon, with 22 Peru prizes, states a plan to winter at San Diego — whose harbour they had already secretly sounded c.1797, "entered in their boats one moonlit night, sounded the whole harbour," "instruidos por los planos de Nutka." The open coast as an actual reconnaissance ground.',
+  'San Diego\'s harbor already mapped by the enemy — the threat the 1793 order feared','',
+  'C-A 15 Doc 392 (Loreto deposition, 28 Jun 1799).');
 
 // ═══════════════════════════════════════════════════
 // REFERENCE: SPANISH/MEXICAN SETTLEMENTS — by type
