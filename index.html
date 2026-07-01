@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>California History Maps</title>
+<style>
+  :root { --ink:#2b2119; --paper:#f5efe3; --accent:#7a4a25; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #2b2119;
+    background: #f5efe3;
+    line-height: 1.55;
+  }
+  header {
+    padding: 3rem 1.5rem 2rem;
+    text-align: center;
+    background: #2b2119;
+    color: #f5efe3;
+    border-bottom: 4px solid #7a4a25;
+  }
+  header h1 { margin: 0 0 .4rem; font-size: 2rem; letter-spacing: .01em; }
+  header p { margin: 0; color: #d8c9b0; font-style: italic; }
+  main { max-width: 900px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  .grid { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+  a.card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: #fffdf8;
+    border: 1px solid #d8c9b0;
+    border-radius: 6px;
+    padding: 1.25rem 1.35rem;
+    transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+  }
+  a.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(43,33,25,.15);
+    border-color: #7a4a25;
+  }
+  a.card h2 { margin: 0 0 .35rem; font-size: 1.15rem; color: #7a4a25; }
+  a.card .years { font-size: .82rem; color: #8a7a63; letter-spacing: .04em; text-transform: uppercase; }
+  a.card p { margin: .55rem 0 0; font-size: .95rem; }
+  footer { text-align: center; padding: 2rem 1rem; color: #8a7a63; font-size: .85rem; }
+  footer a { color: #7a4a25; }
+</style>
+</head>
+<body>
+<header>
+  <h1>California History Maps</h1>
+  <p>Interactive maps of Spanish- and Mexican-era California expeditions and frontier geography</p>
+</header>
+<main>
+  <div class="grid">
+
+    <a class="card" href="zalvidea-moraga-1806.html">
+      <div class="years">1806–1807</div>
+      <h2>Expeditions of Zalvidea &amp; Moraga</h2>
+      <p>Two interior routes on one map — Zalvidea (Santa Ynez → Cuyama → Kern → San Gabriel) and Moraga (San Juan Bautista → Pacheco Pass → Cosumnes → Kern → San Fernando). Togglable route legs, numbered campsites, indigenous villages, and missions.</p>
+    </a>
+
+    <a class="card" href="moraga-expeditions-master.html">
+      <div class="years">1806–1817</div>
+      <h2>Gabriel Moraga — All Expeditions</h2>
+      <p>A master map collecting Gabriel Moraga's expeditions across the Central Valley and Delta over a decade of Spanish reconnaissance into the California interior.</p>
+    </a>
+
+    <a class="card" href="california-military-battles.html">
+      <div class="years">1769–1840</div>
+      <h2>Military Engagements of California</h2>
+      <p>Armed engagements across the Spanish and Mexican periods — presidio actions, Indian campaigns, and coastal raids — plotted from the archival military record.</p>
+    </a>
+
+    <a class="card" href="borderlands-imperial-frontier.html">
+      <div class="years">1775–1841</div>
+      <h2>Bay Area Borderlands — Imperial Frontier</h2>
+      <p>The contested imperial frontier around San Francisco Bay: Spanish, Russian, and British presence from the founding of the presidio to the twilight of Mexican rule.</p>
+    </a>
+
+  </div>
+</main>
+<footer>
+  Reconstructed from primary sources and secondary scholarship · Built with <a href="https://leafletjs.com">Leaflet</a> &amp; OpenTopoMap
+</footer>
+</body>
+</html>

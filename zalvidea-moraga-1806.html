@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Expeditions of Zalvidea & Moraga, 1806–1807</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English:ital@0;1&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Crimson Pro', Georgia, serif; }
+  #map { width: 100vw; height: 100vh; }
+
+  /* Title cartouche */
+  .cartouche {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    z-index: 1000;
+    background: linear-gradient(135deg, #fdf5e6 0%, #f5e6c8 100%);
+    border: 3px double #5c3a1e;
+    border-radius: 4px;
+    padding: 14px 20px;
+    max-width: 420px;
+    box-shadow: 3px 3px 12px rgba(0,0,0,0.3);
+  }
+  .cartouche h1 {
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 17px;
+    color: #3a1f04;
+    margin-bottom: 3px;
+    line-height: 1.3;
+  }
+  .cartouche h2 {
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 12.5px;
+    color: #6b4226;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 6px;
+    line-height: 1.3;
+  }
+  .cartouche .desc {
+    font-size: 11.5px;
+    color: #5c3a1e;
+    line-height: 1.45;
+    margin-bottom: 4px;
+  }
+  .cartouche .source {
+    font-size: 10.5px;
+    color: #8b7355;
+    font-style: italic;
+    line-height: 1.4;
+  }
+  .cartouche .divider {
+    border: none;
+    border-top: 1px solid #c4a56e;
+    margin: 6px 0;
+  }
+
+  /* Legend */
+  .legend {
+    position: absolute;
+    bottom: 24px;
+    left: 12px;
+    z-index: 1000;
+    background: linear-gradient(135deg, #fdf5e6 0%, #f5e6c8 100%);
+    border: 2px solid #5c3a1e;
+    border-radius: 4px;
+    padding: 10px 14px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.25);
+    font-size: 12px;
+    color: #3a1f04;
+    max-width: 280px;
+  }
+  .legend h3 {
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 13px;
+    margin-bottom: 6px;
+    color: #3a1f04;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+  }
+  .legend-swatch {
+    width: 28px;
+    height: 0;
+    margin-right: 8px;
+    flex-shrink: 0;
+  }
+  .legend-marker {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 8px;
+    border: 1.5px solid #fff;
+    box-shadow: 0 0 2px rgba(0,0,0,0.4);
+    flex-shrink: 0;
+  }
+
+  /* Toggle panel */
+  .toggle-panel {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 1000;
+    background: linear-gradient(135deg, #fdf5e6 0%, #f5e6c8 100%);
+    border: 2px solid #5c3a1e;
+    border-radius: 4px;
+    padding: 10px 14px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.25);
+    font-size: 12px;
+    color: #3a1f04;
+  }
+  .toggle-panel h3 {
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 13px;
+    margin-bottom: 6px;
+  }
+  .toggle-panel label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3px;
+    cursor: pointer;
+  }
+  .toggle-panel input[type="checkbox"] {
+    margin-right: 6px;
+  }
+  .toggle-panel .color-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 1px rgba(0,0,0,0.3);
+  }
+
+  /* Popups */
+  .leaflet-popup-content-wrapper {
+    background: #fdf5e6;
+    border: 1px solid #8b7355;
+    border-radius: 4px;
+    font-family: 'Crimson Pro', Georgia, serif;
+  }
+  .leaflet-popup-content {
+    margin: 8px 12px;
+    font-size: 13px;
+    color: #3a1f04;
+    line-height: 1.45;
+    max-width: 280px;
+  }
+  .leaflet-popup-tip { background: #fdf5e6; }
+  .popup-name {
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #3a1f04;
+    margin-bottom: 3px;
+  }
+  .popup-detail { font-size: 12.5px; color: #5c3a1e; }
+  .popup-note { font-size: 11.5px; color: #8b7355; font-style: italic; margin-top: 3px; }
+  .popup-village { color: #6c3483; font-weight: 600; }
+</style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<div class="cartouche">
+  <h1>Expeditions of Zalvidea &amp; Moraga, 1806–1807</h1>
+  <h2>Route Reconstructions from S. F. Cook</h2>
+  <hr class="divider">
+  <div class="desc">
+    <strong>Zalvidea (Jul–Aug 1806):</strong> Santa Ynez Mission through the Cuyama Valley
+    to Buena Vista Lake and the Kern country; returned via Tejon Pass to San Gabriel Mission.<br>
+    <strong>Moraga (Sep–Oct 1806):</strong> San Juan Bautista east through Pacheco Pass;
+    north up the San Joaquin Valley to the Cosumnes River; south along the Sierra foothills
+    through the Kings, Kaweah, Tule, and Kern rivers; exited via Grapevine Canyon
+    to San Fernando Mission.
+  </div>
+  <hr class="divider">
+  <div class="source">
+    S. F. Cook, <em>Colonial Expeditions to the Interior of California
+    Central Valley, 1800–1820</em>, Ch. III (pp. 245–255), endnotes pp. 136–142.
+    Diary by Fr. Pedro Muñoz (Moraga) and Fr. José María de Zalvidea.
+  </div>
+</div>
+
+<div class="legend">
+  <h3>Legend</h3>
+  <div class="legend-item">
+    <div class="legend-swatch" style="border-top: 3px dashed #b87333;"></div>
+    <span>Zalvidea expedition (Jul–Aug 1806)</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-swatch" style="border-top: 3px dashed #8B2500;"></div>
+    <span>Moraga northbound (Sep 1806)</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-swatch" style="border-top: 3px dashed #1a5276;"></div>
+    <span>Moraga southbound (Oct 1806)</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-marker" style="background: #d4a017;"></div>
+    <span>Mission</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-marker" style="background: #6c3483;"></div>
+    <span>Indigenous village (named)</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-marker" style="background: #b87333;"></div>
+    <span>Zalvidea campsite</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-marker" style="background: #8B2500;"></div>
+    <span>Moraga campsite</span>
+  </div>
+</div>
+
+<div class="toggle-panel">
+  <h3>Show / Hide</h3>
+  <label><input type="checkbox" id="togZalvidea" checked>
+    <span class="color-dot" style="background:#b87333;"></span> Zalvidea 1806</label>
+  <label><input type="checkbox" id="togMoragaNorth" checked>
+    <span class="color-dot" style="background:#8B2500;"></span> Moraga northbound</label>
+  <label><input type="checkbox" id="togMoragaSouth" checked>
+    <span class="color-dot" style="background:#1a5276;"></span> Moraga southbound</label>
+  <label><input type="checkbox" id="togVillages" checked>
+    <span class="color-dot" style="background:#6c3483;"></span> Indigenous villages</label>
+  <label><input type="checkbox" id="togMissions" checked>
+    <span class="color-dot" style="background:#d4a017;"></span> Missions</label>
+  <label><input type="checkbox" id="togModern" checked>
+    <span class="color-dot" style="background:#999;"></span> Modern labels</label>
+</div>
+
+<script>
+// ─── Map ───
+const map = L.map('map', {
+  center: [36.0, -119.8],
+  zoom: 7,
+  zoomControl: true
+});
+
+L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+  maxZoom: 17,
+  attribution: '© OpenTopoMap contributors'
+}).addTo(map);
+
+// ─── Icon factories ───
+function numIcon(num, color, sz=20) {
+  return L.divIcon({
+    className: '',
+    html: `<div style="width:${sz}px;height:${sz}px;background:${color};border:2px solid #fff;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;font-family:'Crimson Pro',serif;font-size:10px;font-weight:700;color:#fff;">${num}</div>`,
+    iconSize: [sz, sz], iconAnchor: [sz/2, sz/2], popupAnchor: [0, -sz/2-2]
+  });
+}
+
+function missionIcon() {
+  return L.divIcon({
+    className: '',
+    html: `<div style="width:28px;height:28px;background:#d4a017;border:3px solid #fff;border-radius:3px;box-shadow:0 1px 5px rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;font-size:15px;">⛪</div>`,
+    iconSize: [28,28], iconAnchor: [14,14], popupAnchor: [0,-16]
+  });
+}
+
+function villageIcon() {
+  return L.divIcon({
+    className: '',
+    html: `<div style="width:16px;height:16px;background:#6c3483;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:bold;">▲</div>`,
+    iconSize: [16,16], iconAnchor: [8,8], popupAnchor: [0,-10]
+  });
+}
+
+function popup(name, detail, note) {
+  let h = `<div class="popup-name">${name}</div>`;
+  if (detail) h += `<div class="popup-detail">${detail}</div>`;
+  if (note) h += `<div class="popup-note">${note}</div>`;
+  return h;
+}
+
+// ─── MISSIONS ───
+const missions = [
+  { lat: 34.5964, lng: -119.7693, name: "Mission Santa Ynez", note: "Founded 1804. Zalvidea departure point." },
+  { lat: 34.0983, lng: -118.1075, name: "Mission San Gabriel", note: "Founded 1771. Zalvidea arrival." },
+  { lat: 36.8446, lng: -121.5385, name: "Mission San Juan Bautista", note: "Founded 1797. Moraga departure point." },
+  { lat: 34.2611, lng: -118.4390, name: "Mission San Fernando", note: "Founded 1797. Moraga arrival." }
+];
+
+// ══════════════════════════════════════════
+// ZALVIDEA EXPEDITION (Jul–Aug 1806)
+// ══════════════════════════════════════════
+const zalvideaStops = [
+  { n:1, lat:34.5964, lng:-119.7693, name:"Mission Santa Ynez", detail:"Departure, July 20, 1806.", note:"" },
+  { n:2, lat:34.6680, lng:-119.7800, name:"Jonatas — Las Olivas", detail:"First stop north of mission, at Las Olivas (present-day Los Olivos area).", note:"Cook note 1" },
+  { n:3, lat:34.6900, lng:-119.8100, name:"Saca — Alamo Pintado Creek", detail:"Village of Saca on Alamo Pintado Creek.", note:"Cook note 1" },
+  { n:4, lat:34.8500, lng:-120.0000, name:"Olomosong — Sisquoc River", detail:"Probably on the Sisquoc R. near the 120th meridian.", note:"Cook note 1: 'After 4 leagues further travel'" },
+  { n:5, lat:34.9200, lng:-119.7500, name:"Geep — South Slope, Sierra Madre", detail:"Apparently on the south slope of the Sierra Madre range. After climbing a mountain they came out onto the Cuyama Valley plains. T 10 N, R 28 W.", note:"Cook note 1" },
+  { n:6, lat:34.9200, lng:-119.6800, name:"Talhulimit", detail:"Two leagues east of Geep, in the Cuyama Valley.", note:"Cook note 1" },
+  { n:7, lat:34.8500, lng:-119.5000, name:"Lisahua — Salisbury Canyon", detail:"Probably in lower Salisbury Canyon. T 9 N, R 26 W.", note:"Cook note 2" },
+  { n:8, lat:34.8500, lng:-119.3700, name:"Camp — Lower Santa Barbara Canyon", detail:"In lower Santa Barbara Canyon. T 9 N, R 25 W.", note:"Cook note (cont.)" },
+  { n:9, lat:34.9500, lng:-119.3700, name:"Sgene — Lower Cuyama Valley", detail:"Party bore more to the north and found Sgene. T 10 N, R 25 W.", note:"Cook note 3" },
+  { n:10, lat:35.1000, lng:-119.6000, name:"Malapoa — Bitterwater / Santiago Creek", detail:"Located by Gifford & Schenck on Bitterwater or Santiago Cr. Identified as Tlamini (Kroeber).", note:"Cook note 4" },
+  { n:11, lat:35.1200, lng:-119.3500, name:"Sispetis — SE Buena Vista Lake", detail:"Considered to be Pohatan Tinliu, at the SE corner of Buena Vista Lake.", note:"Cook note 4: Kroeber (1925, pl. 47)" },
+  { n:12, lat:35.3000, lng:-119.3500, name:"Buenasvista — 8 Leagues North", detail:"Eight leagues north of Bitterwater/Santiago Cr.", note:"Cook note 5" },
+  { n:13, lat:35.0700, lng:-118.8700, name:"Tejon / El Paso Creek — Foothills", detail:"Six leagues from Sispetis to the mouth of Tejon or El Paso Cr. at the edge of the foothills. July 26 reconnaissance explored El Paso, Tejon, and Pastoria creeks.", note:"Cook note 6" },
+  { n:14, lat:35.0400, lng:-118.8200, name:"Tupal — Tejon Ranch on El Paso Creek", detail:"Placed doubtfully by Gifford & Schenck at Tejon Ranch on El Paso Cr.", note:"Cook note 6" },
+  { n:15, lat:34.9700, lng:-118.9800, name:"Tacui — Tecuya Creek", detail:"Party doubled back west past Grapevine Cr. to Tacui, undoubtedly on Tecuya Cr.", note:"Cook note 7" },
+  { n:16, lat:35.1300, lng:-119.0500, name:"Yagueleme — Kern River / Woilo", detail:"Nine leagues north of Tecuya, on the Kern R. Gifford & Schenck identify as Woilo, very close to 9 leagues from Tecuya.", note:"Cook note 8" },
+  { n:17, lat:35.1300, lng:-118.9500, name:"Eastern End of Kern Lake", detail:"The eastern end of Kern Lake.", note:"Cook note 9" },
+  { n:18, lat:35.0000, lng:-118.8800, name:"Tashlpj — Pastoria / Grapevine Creek", detail:"Cook thinks more likely Pastoria on Grapevine Cr. rather than Tejon Cr., since the party arrived at Castaic at the head of Grapevine Cr. on August 7.", note:"Cook note 10" },
+  { n:19, lat:34.8700, lng:-118.8700, name:"Castaic — Head of Grapevine Creek", detail:"Party arrived August 7. Beginning the crossing south.", note:"" },
+  { n:20, lat:34.7500, lng:-118.4000, name:"Antelope Valley", detail:"Crossed into Antelope Valley.", note:"Cook note 11" },
+  { n:21, lat:34.3500, lng:-118.1500, name:"San Gabriel Mountains Crossing", detail:"Party crossed the mountains and went southwest. Several villages of Serrano Indians seen.", note:"Cook note 12" },
+  { n:22, lat:34.0983, lng:-118.1075, name:"Mission San Gabriel", detail:"Arrival at San Gabriel Mission.", note:"Cook note 12" }
+];
+
+// ══════════════════════════════════════════
+// MORAGA EXPEDITION — NORTHBOUND (Sep 1806)
+// ══════════════════════════════════════════
+const moragaNorthStops = [
+  { n:1, lat:36.8446, lng:-121.5385, name:"Mission San Juan Bautista", detail:"Departure, late September 1806. Fr. Pedro Muñoz accompanying as chaplain.", note:"" },
+  { n:2, lat:36.8300, lng:-121.4700, name:"San Benito River Camp", detail:"1½ leagues from the mission, on the San Benito R.", note:"Cook note 13: 'not on Pacheco Cr., as stated by Cutter'" },
+  { n:3, lat:37.0600, lng:-121.0800, name:"San Luis Ranch — Pacheco Pass", detail:"Camp approximately at San Luis Ranch, where Highway 152 crosses San Luis Cr.", note:"Cook note 14" },
+  { n:4, lat:37.0800, lng:-120.7800, name:"Santa Rita Camp", detail:"15 to 20 mi east of San Luis Gonzaga. Near Salt Slough or Paso Slough, 5–6 mi west of the main San Joaquin.", note:"Cook note 15: 'The sloughs and channels of the San Joaquin are difficult to locate with precision on a modern map'" },
+  { n:5, lat:37.1200, lng:-120.6500, name:"Camp on the San Joaquin", detail:"On the San Joaquin R. T 8 S, R 11 E.", note:"Cook note 16: villages effaced so thoroughly that modern informants gave no indication they ever existed" },
+  { n:6, lat:37.2300, lng:-120.5800, name:"Bear Creek", detail:"Rather than Mariposa Cr. Approximately 3 leagues south of the Merced R.", note:"Cook note 18: 'Cutter thinks this was Bear Cr... I see no reason to disagree'" },
+  { n:7, lat:37.3800, lng:-120.7200, name:"Merced River — West of Livingston", detail:"Party which went north reached the Merced R. somewhere west of Livingston, probably at T 6 S, R 11 E.", note:"Cook note 19" },
+  { n:8, lat:37.5000, lng:-120.8200, name:"Dry Creek", detail:"Undoubtedly Dry Cr. 'The description is valid even today.'", note:"Cook note 21" },
+  { n:9, lat:37.5500, lng:-120.8800, name:"Tuolumne River Area", detail:"Villages seen on the Tuolumne but were deserted. Oak forest environment.", note:"Cook notes 20, 24: Taulames village between the Tuolumne and Stanislaus" },
+  { n:10, lat:37.6300, lng:-120.9700, name:"Stanislaus River — Near Modesto", detail:"Remnants of the oak forest can still be seen, extending from the junction with the San Joaquin eastward. Both sides of the river.", note:"Cook note 22: 'if it continued in a northwesterly direction from near Modesto'" },
+  { n:11, lat:37.6800, lng:-120.7200, name:"Upper Stanislaus — Knights Ferry Area", detail:"Six leagues upstream. Vicinity of Ripon, Riverbank, or Knights Ferry. Limestone bluffs, precipitous. The best guess is the vicinity of Knights Ferry.", note:"Cook note 23" },
+  { n:12, lat:37.8500, lng:-121.0000, name:"Calaveras River", detail:"First stream (Rio de ... Franciscos) identified as the Calaveras.", note:"Cook note 25: 'There is little reason to disagree'" },
+  { n:13, lat:38.2500, lng:-121.0500, name:"Cosumnes River — Northernmost Point", detail:"Second stream identified as the Cosumnes. Linguistic border between Miwok and Maidu. The diarist fails to mention the Mokelumne.", note:"Cook note 25: northernmost extent of the expedition" }
+];
+
+// ══════════════════════════════════════════
+// MORAGA EXPEDITION — SOUTHBOUND (Oct 1806)
+// ══════════════════════════════════════════
+const moragaSouthStops = [
+  { n:14, lat:38.2500, lng:-121.0500, name:"Cosumnes River — Turn South", detail:"Party turns south, staying close to the eastern edge of the valley along the Sierra foothills.", note:"" },
+  { n:15, lat:37.6500, lng:-120.7500, name:"Stanislaus / Tuolumne Area (return)", detail:"Passing back through the Stanislaus and Tuolumne country.", note:"" },
+  { n:16, lat:37.3200, lng:-120.2000, name:"Chowchilla / Mariposa Creek", detail:"Santo Domingo identified as Mariposa Cr.; Tecolote as the Chowchilla (Cutter).", note:"Cook note 26" },
+  { n:17, lat:37.0500, lng:-119.8500, name:"Fresno River (Santa Ana)", detail:"The Santa Ana was the Fresno R.", note:"Cook note 27" },
+  { n:18, lat:37.1500, lng:-120.1500, name:"San Joaquin at Pizcache", detail:"Pizcache on the San Joaquin, listed in the appendix. Moraga probably halted approximately north of Fresno, below Le Grand. Distinct absence of permanent Indian settlements on seasonal streams.", note:"Cook note 27" },
+  { n:19, lat:36.9000, lng:-119.7500, name:"Pitkachi Village Area", detail:"Pitkachi 'held the south side of the San Joaquin, living at Kohou, near Herndon or Sycamore; at Weshiu, on a slough; and at Gewachu, still farther downstream.' Village was in the mountains or at least the foothills.", note:"Cook note 28: Gayton / Kroeber disagree on exact location" },
+  { n:20, lat:36.7200, lng:-119.5500, name:"Kings River — Near Sanger", detail:"Kings R. was reached near Sanger or Centerville.", note:"Cook note 31" },
+  { n:21, lat:36.3500, lng:-119.3000, name:"Kaweah Delta — Visalia / Telame", detail:"28th day: scouts reached the great oak forest along the Kaweah delta at or above Visalia. 29th day (Oct. 19): main party arrived. The large village of 600 souls — Telame (the Telamni). 22 persons baptized.", note:"Cook note 33: 'The water evidently was very low — somewhat unusual for this region, even in October'" },
+  { n:22, lat:36.0700, lng:-119.0200, name:"Tule River — Near Porterville", detail:"After a winding course for two days, the party camped on the Tule R. near the foothills, probably not far from Porterville.", note:"Cook note 36" },
+  { n:23, lat:35.9500, lng:-118.9500, name:"Deer Creek", detail:"Probably Deer Cr.", note:"Cook note 37" },
+  { n:24, lat:35.8000, lng:-118.8800, name:"White River", detail:"Probably White R.", note:"Cook note 38" },
+  { n:25, lat:35.6500, lng:-118.8200, name:"Poso Creek", detail:"No distances given, but from the description the most likely stream is Poso Cr.", note:"Cook note 39" },
+  { n:26, lat:35.4500, lng:-118.9500, name:"Kern River — Above Bakersfield", detail:"The Kern R., probably some miles above Bakersfield. A 'long trip' downstream brought them into the slough country south of Bakersfield.", note:"Cook note 40" },
+  { n:27, lat:35.2800, lng:-119.0500, name:"Kern River — Downstream / Slough Country", detail:"South of Bakersfield. Moraga did not get within sight of Buena Vista Lake, to the west.", note:"Cook notes 40–41" },
+  { n:28, lat:35.0500, lng:-118.9000, name:"Grapevine Canyon", detail:"Zalvidea had left an account of the villages in this area from his Aug. 1806 expedition.", note:"Cook note 41" },
+  { n:29, lat:34.9300, lng:-118.8500, name:"Tejon Pass", detail:"On the last three days the party left the valley by way of Grapevine Canyon, over Tejon Pass.", note:"Cook note 42: 'Cutter says the Santa Susanna Range'" },
+  { n:30, lat:34.2611, lng:-118.4390, name:"Mission San Fernando", detail:"Arrival at San Fernando Mission. End of the 1806 expedition.", note:"Cook note 42" }
+];
+
+// ══════════════════════════════════════════
+// INDIGENOUS VILLAGES (named in diary)
+// ══════════════════════════════════════════
+const villages = [
+  // Zalvidea route villages
+  { lat:34.6680, lng:-119.7800, name:"Jonatas", note:"At Las Olivas" },
+  { lat:34.6900, lng:-119.8100, name:"Saca", note:"On Alamo Pintado Cr." },
+  { lat:34.8500, lng:-120.0000, name:"Olomosong", note:"On Sisquoc R." },
+  { lat:34.9200, lng:-119.7500, name:"Geep", note:"South slope Sierra Madre" },
+  { lat:34.9200, lng:-119.6800, name:"Talhulimit", note:"2 leagues east of Geep" },
+  { lat:34.8500, lng:-119.5000, name:"Lisahua", note:"Salisbury Canyon" },
+  { lat:34.9500, lng:-119.3700, name:"Sgene", note:"Lower Cuyama Valley" },
+  { lat:35.1000, lng:-119.6000, name:"Malapoa", note:"Bitterwater/Santiago Cr.; Tlamini" },
+  { lat:35.1200, lng:-119.3500, name:"Sispetis (Pohatan Tinliu)", note:"SE corner Buena Vista Lake" },
+  { lat:35.0400, lng:-118.8200, name:"Tupal", note:"Tejon Ranch, El Paso Cr." },
+  { lat:34.9700, lng:-118.9800, name:"Tacui", note:"Tecuya Creek" },
+  { lat:35.1300, lng:-119.0500, name:"Yagueleme (Woilo)", note:"Kern R. / Kern Lake" },
+  { lat:35.0000, lng:-118.8800, name:"Tashlpj", note:"Pastoria / Grapevine Cr." },
+  // Moraga route villages
+  { lat:37.5700, lng:-120.8500, name:"Taulames (Jahulamne)", note:"Between Tuolumne & Stanislaus; deserted by 1806" },
+  { lat:37.1500, lng:-120.1500, name:"Pizcache", note:"On the San Joaquin, near Le Grand" },
+  { lat:36.9000, lng:-119.7500, name:"Pitkachi", note:"South side San Joaquin; Kohou near Herndon" },
+  { lat:36.3500, lng:-119.3000, name:"Telame (Telamni)", note:"Kaweah delta; 600 souls; 22 baptized Oct. 1806" },
+];
+
+// ══════════════════════════════════════════
+// MODERN LABELS
+// ══════════════════════════════════════════
+const modernLabels = [
+  { lat:34.4208, lng:-119.6982, name:"Santa Barbara" },
+  { lat:34.0522, lng:-118.2437, name:"Los Angeles" },
+  { lat:34.2611, lng:-118.4390, name:"San Fernando" },
+  { lat:35.3733, lng:-119.0187, name:"Bakersfield" },
+  { lat:36.3302, lng:-119.2921, name:"Visalia" },
+  { lat:36.0653, lng:-119.0166, name:"Porterville" },
+  { lat:36.7378, lng:-119.7871, name:"Fresno" },
+  { lat:37.6391, lng:-120.9969, name:"Modesto" },
+  { lat:37.9577, lng:-121.2908, name:"Stockton" },
+  { lat:36.9741, lng:-122.0308, name:"Santa Cruz" },
+  { lat:36.6002, lng:-121.8947, name:"Monterey" },
+  { lat:35.2828, lng:-120.6596, name:"San Luis Obispo" },
+  { lat:36.7200, lng:-119.5500, name:"Sanger" },
+  { lat:37.3800, lng:-120.7200, name:"Livingston" },
+  { lat:37.8300, lng:-120.7400, name:"Knights Ferry" },
+  { lat:34.7500, lng:-118.4000, name:"Lancaster" },
+  { lat:35.1300, lng:-118.4500, name:"Tehachapi" },
+  { lat:35.0500, lng:-118.8700, name:"Fort Tejon" },
+  { lat:35.1500, lng:-119.4600, name:"Taft" },
+];
+
+// ══════════════════════════════════════════
+// POLYLINES
+// ══════════════════════════════════════════
+const dash = '10, 7';
+
+const zalvideaCoords = zalvideaStops.map(s => [s.lat, s.lng]);
+const moragaNorthCoords = moragaNorthStops.map(s => [s.lat, s.lng]);
+const moragaSouthCoords = moragaSouthStops.map(s => [s.lat, s.lng]);
+
+const zalvideaLine = L.polyline(zalvideaCoords, {
+  color: '#b87333', weight: 4, opacity: 0.85, dashArray: dash, lineCap: 'round'
+}).addTo(map);
+
+const moragaNorthLine = L.polyline(moragaNorthCoords, {
+  color: '#8B2500', weight: 4, opacity: 0.85, dashArray: dash, lineCap: 'round'
+}).addTo(map);
+
+const moragaSouthLine = L.polyline(moragaSouthCoords, {
+  color: '#1a5276', weight: 4, opacity: 0.85, dashArray: dash, lineCap: 'round'
+}).addTo(map);
+
+// ─── Direction arrows ───
+function addArrows(line, color) {
+  const coords = line.getLatLngs();
+  const arrowLayer = L.layerGroup();
+  for (let i = 0; i < coords.length - 1; i++) {
+    // Place arrow at 60% of segment for better visual
+    const mid = L.latLng(
+      coords[i].lat * 0.4 + coords[i+1].lat * 0.6,
+      coords[i].lng * 0.4 + coords[i+1].lng * 0.6
+    );
+    const angle = Math.atan2(
+      coords[i+1].lng - coords[i].lng,
+      coords[i+1].lat - coords[i].lat
+    ) * 180 / Math.PI;
+    L.marker(mid, {
+      icon: L.divIcon({
+        className: '',
+        html: `<div style="font-size:14px;color:${color};transform:rotate(${90-angle}deg);text-shadow:0 0 3px #fff,0 0 3px #fff;font-weight:bold;opacity:0.8;">➤</div>`,
+        iconSize: [14,14], iconAnchor: [7,7]
+      }),
+      interactive: false
+    }).addTo(arrowLayer);
+  }
+  arrowLayer.addTo(map);
+  return arrowLayer;
+}
+
+const zalvideaArrows = addArrows(zalvideaLine, '#b87333');
+const moragaNorthArrows = addArrows(moragaNorthLine, '#8B2500');
+const moragaSouthArrows = addArrows(moragaSouthLine, '#1a5276');
+
+// ─── Layer groups ───
+const zalvideaMarkers = L.layerGroup().addTo(map);
+const moragaNorthMarkers = L.layerGroup().addTo(map);
+const moragaSouthMarkers = L.layerGroup().addTo(map);
+const villageLayer = L.layerGroup().addTo(map);
+const missionLayer = L.layerGroup().addTo(map);
+const modernLayer = L.layerGroup().addTo(map);
+
+// ─── Place stop markers ───
+function addStops(stops, group, color) {
+  stops.forEach(s => {
+    const m = L.marker([s.lat, s.lng], { icon: numIcon(s.n, color) })
+      .bindPopup(popup(s.n + '. ' + s.name, s.detail, s.note));
+    group.addLayer(m);
+  });
+}
+
+addStops(zalvideaStops, zalvideaMarkers, '#b87333');
+addStops(moragaNorthStops, moragaNorthMarkers, '#8B2500');
+addStops(moragaSouthStops, moragaSouthMarkers, '#1a5276');
+
+// ─── Mission markers ───
+missions.forEach(m => {
+  const marker = L.marker([m.lat, m.lng], { icon: missionIcon() })
+    .bindPopup(popup(m.name, m.note, ''));
+  missionLayer.addLayer(marker);
+});
+
+// ─── Village markers ───
+villages.forEach(v => {
+  const marker = L.marker([v.lat, v.lng], { icon: villageIcon() })
+    .bindPopup(popup(`<span class="popup-village">${v.name}</span>`, 'Indigenous village', v.note));
+  villageLayer.addLayer(marker);
+});
+
+// ─── Modern labels ───
+modernLabels.forEach(p => {
+  const label = L.marker([p.lat, p.lng], {
+    icon: L.divIcon({
+      className: '',
+      html: `<div style="font-family:'Crimson Pro',serif;font-size:10px;color:#666;background:rgba(255,255,255,0.65);padding:0 3px;border-radius:2px;white-space:nowrap;font-style:italic;">${p.name}</div>`,
+      iconSize: [0,0], iconAnchor: [-8, 6]
+    }),
+    interactive: false
+  });
+  modernLayer.addLayer(label);
+});
+
+// ─── Toggles ───
+function wireToggle(id, line, markers, arrows) {
+  document.getElementById(id).addEventListener('change', function() {
+    if (this.checked) {
+      map.addLayer(line); map.addLayer(markers); if (arrows) map.addLayer(arrows);
+    } else {
+      map.removeLayer(line); map.removeLayer(markers); if (arrows) map.removeLayer(arrows);
+    }
+  });
+}
+wireToggle('togZalvidea', zalvideaLine, zalvideaMarkers, zalvideaArrows);
+wireToggle('togMoragaNorth', moragaNorthLine, moragaNorthMarkers, moragaNorthArrows);
+wireToggle('togMoragaSouth', moragaSouthLine, moragaSouthMarkers, moragaSouthArrows);
+
+document.getElementById('togVillages').addEventListener('change', function() {
+  this.checked ? map.addLayer(villageLayer) : map.removeLayer(villageLayer);
+});
+document.getElementById('togMissions').addEventListener('change', function() {
+  this.checked ? map.addLayer(missionLayer) : map.removeLayer(missionLayer);
+});
+document.getElementById('togModern').addEventListener('change', function() {
+  this.checked ? map.addLayer(modernLayer) : map.removeLayer(modernLayer);
+});
+
+</script>
+</body>
+</html>

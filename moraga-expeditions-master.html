@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gabriel Moraga — All Expeditions, 1806–1817</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English:ital@0;1&display=swap');
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Crimson Pro',Georgia,serif}
+  #map{width:100vw;height:100vh}
+
+  .cartouche{position:absolute;top:10px;left:60px;z-index:1000;background:linear-gradient(135deg,#fdf5e6,#f5e6c8);border:3px double #5c3a1e;border-radius:4px;padding:14px 18px;max-width:440px;box-shadow:3px 3px 12px rgba(0,0,0,.3);transition:max-width .3s ease}
+  .cartouche.collapsed{max-width:200px;padding:8px 12px}
+  .cartouche.collapsed .cartouche-body{display:none}
+  .cartouche.collapsed h1{font-size:13px;margin-bottom:0}
+  .cartouche h1{font-family:'IM Fell English',Georgia,serif;font-size:17px;color:#3a1f04;margin-bottom:2px;line-height:1.3}
+  .cartouche h2{font-family:'IM Fell English',Georgia,serif;font-size:12px;color:#6b4226;font-weight:normal;font-style:italic;margin-bottom:6px}
+  .cartouche .desc{font-size:11px;color:#5c3a1e;line-height:1.4;margin-bottom:4px}
+  .cartouche .src{font-size:10px;color:#8b7355;font-style:italic}
+  .cartouche hr{border:none;border-top:1px solid #c4a56e;margin:5px 0}
+  .cartouche-toggle{position:absolute;top:6px;right:8px;background:none;border:none;font-size:16px;color:#5c3a1e;cursor:pointer;font-family:'IM Fell English',Georgia,serif;line-height:1;padding:2px 4px}
+  .cartouche-toggle:hover{color:#3a1f04}
+
+  .panel{position:absolute;top:10px;right:10px;z-index:1000;background:linear-gradient(135deg,#fdf5e6,#f5e6c8);border:2px solid #5c3a1e;border-radius:4px;padding:10px 14px;box-shadow:2px 2px 8px rgba(0,0,0,.25);font-size:12px;color:#3a1f04;max-width:240px}
+  .panel h3{font-family:'IM Fell English',Georgia,serif;font-size:13px;margin-bottom:6px}
+  .panel label{display:flex;align-items:center;margin-bottom:3px;cursor:pointer;font-size:11.5px}
+  .panel input{margin-right:5px}
+  .dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;border:1px solid #fff;box-shadow:0 0 1px rgba(0,0,0,.3);flex-shrink:0}
+  .panel .section{margin-top:6px;padding-top:4px;border-top:1px solid #c4a56e}
+
+  .legend{position:absolute;bottom:20px;left:10px;z-index:1000;background:linear-gradient(135deg,#fdf5e6,#f5e6c8);border:2px solid #5c3a1e;border-radius:4px;padding:8px 12px;box-shadow:2px 2px 8px rgba(0,0,0,.25);font-size:11px;color:#3a1f04}
+  .legend h3{font-family:'IM Fell English',Georgia,serif;font-size:12px;margin-bottom:5px}
+  .leg-item{display:flex;align-items:center;margin-bottom:3px}
+  .leg-line{width:24px;height:0;margin-right:6px;flex-shrink:0}
+  .leg-dot{width:11px;height:11px;border-radius:50%;margin-right:6px;border:1.5px solid #fff;box-shadow:0 0 2px rgba(0,0,0,.4);flex-shrink:0}
+
+  .leaflet-popup-content-wrapper{background:#fdf5e6;border:1px solid #8b7355;border-radius:4px;font-family:'Crimson Pro',Georgia,serif}
+  .leaflet-popup-content{margin:8px 12px;font-size:13px;color:#3a1f04;line-height:1.4;max-width:300px}
+  .leaflet-popup-tip{background:#fdf5e6}
+  .pn{font-family:'IM Fell English',Georgia,serif;font-size:15px;font-weight:bold;color:#3a1f04;margin-bottom:2px}
+  .pd{font-size:12px;color:#5c3a1e}
+  .pq{font-size:11.5px;color:#6b4226;font-style:italic;margin-top:3px;border-left:2px solid #c4a56e;padding-left:6px}
+  .pc{font-size:11px;color:#8b7355;margin-top:3px}
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<div class="cartouche" id="cartouche">
+  <button class="cartouche-toggle" onclick="document.getElementById('cartouche').classList.toggle('collapsed');this.textContent=this.textContent==='−'?'+':'−'" title="Toggle info panel">−</button>
+  <h1>Gabriel Moraga — All Known Expeditions, 1806–1817</h1>
+  <div class="cartouche-body">
+  <h2>Route Reconstructions from Cook, Bancroft, Langelier & Rosen</h2>
+  <hr>
+  <div class="desc">
+    <b>1806</b>: Central Valley. SJB → Pacheco Pass → Cosumnes → Kern → Tejon → San Fernando. 43 days.<br>
+    <b>1807</b>: Tulares. Monterey → San Miguel → Buena Vista Lake → mountains.<br>
+    <b>1810 May</b>: <em>Suisun Campaign.</em> SF Presidio → Carquinez crossing → Battle at Malaca's ranchería. 17 men vs. ~120 Suisun.<br>
+    <b>1810 Aug</b>: Delta. San José → Antioch → Delta → Gustine → SJB.<br>
+    <b>1810 Oct</b>: Delta (punitive). San José → Bolbones → Merced → Santa Clara.<br>
+    <b>1810 Oct</b>: <em>Bodega Recon.</em> SF → Marin → Bodega Bay. 10-day reconnaissance. Found American ship, Aleut hunters.<br>
+    <b>1812</b>: <em>Fort Ross.</em> SF → Ross. Identified 150-yard stockade + cannon.<br>
+    <b>1813–14</b>: <em>Fort Ross.</em> Two trips. Drove cattle as diplomacy; carried demands for Russian withdrawal.<br>
+    <b>1817</b>: <em>San Rafael.</em> SF → Marin. Selected site for first establishment north of SF Bay.
+  </div>
+  <hr>
+  <div class="src">Cook, <em>Colonial Expeditions</em> (1960); Bancroft, <em>History of California</em>, Vol. II; Langelier & Rosen, <em>Historic Resource Study: Presidio of SF</em> (1992); Vallejo, <em>Recuerdos</em>, i. 131–5.</div>
+  </div>
+</div>
+
+<div class="panel">
+  <h3>Expeditions</h3>
+  <label><input type="checkbox" data-layer="exp1806" checked><span class="dot" style="background:#8B2500"></span>1806 Central Valley</label>
+  <label><input type="checkbox" data-layer="exp1807" checked><span class="dot" style="background:#9b59b6"></span>1807 Tulares</label>
+  <label><input type="checkbox" data-layer="exp1810a" checked><span class="dot" style="background:#2e6f40"></span>1810 August</label>
+  <label><input type="checkbox" data-layer="exp1810b" checked><span class="dot" style="background:#1a5276"></span>1810 Oct — Delta</label>
+  <label><input type="checkbox" data-layer="expSuisun" checked><span class="dot" style="background:#c0392b"></span>1810 May — Suisun Campaign</label>
+  <label><input type="checkbox" data-layer="expBodega" checked><span class="dot" style="background:#e67e22"></span>1810 Oct — Bodega Recon</label>
+  <label><input type="checkbox" data-layer="expRoss1812" checked><span class="dot" style="background:#16a085"></span>1812 — Fort Ross</label>
+  <label><input type="checkbox" data-layer="expRoss1813" checked><span class="dot" style="background:#2ecc71"></span>1813–14 — Fort Ross</label>
+  <label><input type="checkbox" data-layer="expSanRafael" checked><span class="dot" style="background:#3498db"></span>1817 — San Rafael Recon</label>
+  <div class="section">
+    <label><input type="checkbox" data-layer="villages" checked><span class="dot" style="background:#6c3483"></span>Indigenous villages</label>
+    <label><input type="checkbox" data-layer="missions" checked><span class="dot" style="background:#d4a017"></span>Missions</label>
+    <label><input type="checkbox" data-layer="modern" checked><span class="dot" style="background:#999"></span>Modern labels</label>
+  </div>
+</div>
+
+<div class="legend">
+  <h3>Legend</h3>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #8B2500"></div>1806 route</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #9b59b6"></div>1807 route</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #2e6f40"></div>1810 Aug route</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #1a5276"></div>1810 Oct Delta</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #c0392b"></div>1810 Suisun</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #e67e22"></div>1810 Bodega</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #16a085"></div>1812 Fort Ross</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #2ecc71"></div>1813–14 Fort Ross</div>
+  <div class="leg-item"><div class="leg-line" style="border-top:3px dashed #3498db"></div>1817 San Rafael</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#d4a017"></div>Mission</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#6c3483"></div>Village (named)</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#c0392b"></div>Battle / Skirmish</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#2980b9"></div>Water crossing</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#e67e22"></div>Reconnaissance</div>
+</div>
+
+<script>
+const map = L.map('map',{center:[36.8,-120.5],zoom:7,zoomControl:true});
+L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',{maxZoom:17,attribution:'© OpenTopoMap'}).addTo(map);
+
+// ─── Icons ───
+function nI(n,c,s=18){return L.divIcon({className:'',html:`<div style="width:${s}px;height:${s}px;background:${c};border:2px solid #fff;border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;font:bold 9px 'Crimson Pro',serif;color:#fff">${n}</div>`,iconSize:[s,s],iconAnchor:[s/2,s/2],popupAnchor:[0,-s/2-2]})}
+function mI(){return L.divIcon({className:'',html:'<div style="width:26px;height:26px;background:#d4a017;border:3px solid #fff;border-radius:3px;box-shadow:0 1px 5px rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;font-size:14px">⛪</div>',iconSize:[26,26],iconAnchor:[13,13],popupAnchor:[0,-15]})}
+function vI(){return L.divIcon({className:'',html:'<div style="width:14px;height:14px;background:#6c3483;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;font-size:8px;color:#fff;font-weight:bold">▲</div>',iconSize:[14,14],iconAnchor:[7,7],popupAnchor:[0,-9]})}
+function sI(){return L.divIcon({className:'',html:'<div style="width:20px;height:20px;background:#c0392b;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;font-size:11px">⚔</div>',iconSize:[20,20],iconAnchor:[10,10],popupAnchor:[0,-12]})}
+
+function pp(n,d,q,c){let h=`<div class="pn">${n}</div>`;if(d)h+=`<div class="pd">${d}</div>`;if(q)h+=`<div class="pq">${q}</div>`;if(c)h+=`<div class="pc">${c}</div>`;return h}
+
+// ═══════════════════════════════════════════════
+// 1806 EXPEDITION — Muñoz diary, 43 days
+// ═══════════════════════════════════════════════
+const r1806=[
+// Outbound: SJB → Pacheco Pass → San Joaquin
+{n:1,lat:36.8446,lng:-121.5385,name:"Mission San Juan Bautista",d:"Day 1 (Sep 21). Departed ~2pm. Fr. Pedro Muñoz chaplain.",q:"'In resignation and accord we left the mission of San Juan Bautista.'"},
+{n:2,lat:36.83,lng:-121.47,name:"San Benito R. (Huzaymas)",d:"Day 1 camp. 1½ leagues E. Creek with alders, oaks.",c:"Cook note 13"},
+{n:3,lat:37.06,lng:-121.08,name:"San Luis Gonzaga — Pacheco Pass",d:"Day 2 (Sep 22). 8 leagues. Entrance of the Tulare plain. Fair spring.",c:"Cook note 14: San Luis Ranch, Hwy 152 at San Luis Cr."},
+{n:4,lat:37.08,lng:-120.78,name:"Santa Rita",d:"Day 3 (Sep 23). 6–8 leagues E. Base camp for discoveries. Saline soil, tule swamps, deer and antelope.",c:"Cook note 15: 15–20 mi E of San Luis Gonzaga, near Salt Slough"},
+{n:5,lat:37.12,lng:-120.65,name:"San Joaquin River Camp",d:"Day 5 (Sep 25). Camp moved to river. Beaver, salmon. 42 warriors visited — 'friendly, presented us with a little fish.'",c:"Cook note 16: T 8 S, R 11 E"},
+// North along rivers
+{n:6,lat:37.05,lng:-120.50,name:"Nupchenche Village",d:"Day 6 (Sep 26). 3 leagues. ~250 souls, chief Choley. 'Old woman sprinkled us with seeds.' 23 old women + 3 old men baptized.",q:"'They begged to become Christians.'",c:"Cook note 17: east bank of river"},
+{n:7,lat:37.25,lng:-120.60,name:"Bear Creek — Las Mariposas",d:"Day 7 (Sep 27). 3 leagues N. Stream E–W, only pools. Named 'Mariposas' for the butterflies — 'one flew into the ear of a corporal.'",c:"Cook note 18: Bear Cr., 3 leagues S of Merced R."},
+{n:8,lat:37.38,lng:-120.72,name:"Merced River — La Merced",d:"Day 9 (Sep 29). 3 leagues ENE. 'Fine meadows, well populated with heathen Indians.' Old woman baptized — jumped into river to escape, had to be pulled out.",q:"'She preferred to stay with us.'",c:"Cook note 19: west of Livingston. Villages: Chineguis, Yunate, Chamuasi, Latelate, Lachuo"},
+{n:9,lat:37.55,lng:-120.88,name:"Tuolumne River — Río Dolores",d:"Day 11 (Oct 1). 7–8 leagues NW. Big river, narrow banks, saline. Named for Our Lady of Sorrows. Villages deserted.",c:"Cook note 20: near Modesto"},
+{n:10,lat:37.58,lng:-120.92,name:"Dry Creek",d:"Day 12 (Oct 2). 1 league. Dry creek bed, sand.",c:"Cook note 21: 'The description is valid even today.'"},
+{n:11,lat:37.63,lng:-120.97,name:"Stanislaus River — Río Guadalupe",d:"Day 12 (Oct 2). 2 leagues further. Oak forest 'without end' — 4 leagues wide. Camp on river. Wild grapevines.",c:"Cook note 22: at or east of Ripon. Oak forest from San Joaquin junction to beyond Oakdale."},
+{n:12,lat:37.8283,lng:-120.6717,name:"Taulamne Village — Knights Ferry",d:"Day 13 (Oct 3). 6 leagues E. ~200 souls. 'Situated on steep cliffs, inaccessible. Indians live in caves.' Refused to descend. Said 'soldiers killed and captured people.'",q:"'They all wanted to become Christians and have a mission.'",c:"Cook note 23: vicinity of Knights Ferry. Limestone bluffs.",type:"village-stop"},
+// Northernmost extent
+{n:13,lat:37.93,lng:-121.25,name:"Calaveras River — Río San Francisco",d:"Day 14 (Oct 4). 6 leagues NW from Stanislaus. Dry bed, 'heavily overgrown with ash trees and wild vines.' No mention of Mokelumne (all-year stream) — puzzles Cook.",c:"Cook note 25: Cutter identifies as Calaveras. 6 leagues NW from Ripon area."},
+{n:14,lat:38.30,lng:-121.15,name:"Cosumnes River — Río de la Pasión",d:"Day 14 (Oct 4). 9 leagues further N. 'River of great volume.' Different language (Miwok→Maidu border). 'Want a mission.' Excellent land. Turned back to Stanislaus camp. Cook notes 30-league round trip is 'incredible' — possibly Mokelumne instead.",c:"Cook note 25: Cosumnes. Linguistic border Miwok/Maidu. NORTHERNMOST POINT."},
+// Return south
+{n:15,lat:37.63,lng:-120.97,name:"Return to Stanislaus (Guadalupe)",d:"Day 15–16 (Oct 5–6). 40 armed Indians with feather flag. Skirmish diplomacy. Moved camp to Tuolumne."},
+{n:16,lat:37.38,lng:-120.72,name:"Return to Merced",d:"Days 17–18 (Oct 7–8). Visited Latelate (200 souls, 6 baptized) and Lachio (200 souls)."},
+// South along foothills
+{n:17,lat:37.30,lng:-120.30,name:"Foothills Heading",d:"Day 19 (Oct 9). 8 leagues E. Dry stream with pools at foot of hill. Rocky, troublesome trail."},
+{n:18,lat:37.20,lng:-120.10,name:"Mariposa Cr. / Chowchilla",d:"Day 20 (Oct 10). Santo Domingo arroyo, then Tecolote. Dry, rocks, 'brilliant pebbles — rock crystal.'",c:"Cook note 26: Cutter identifies Santo Domingo = Mariposa Cr., Tecolote = Chowchilla"},
+{n:19,lat:37.00,lng:-119.85,name:"Fresno River — Santa Ana",d:"Day 21 (Oct 11). 4 leagues E. Dry arroyo with one pool. Then 4 more leagues to San Joaquin R.",c:"Cook note 27: Santa Ana = Fresno R."},
+{n:20,lat:37.10,lng:-120.15,name:"San Joaquin at Pizcache",d:"Days 22–23 (Oct 12–13). Rested. Scouted up/down river. Village of Pizcache, ~200 souls, chief Sujoyucomu. Story of soldiers from 'New Mexico.' 4 baptized.",q:"'Other soldiers from the other side of the mountains appeared about twenty years ago.'",c:"Cook note 27–28: N of Fresno, below Le Grand. Pitkachi near Herndon."},
+{n:21,lat:36.72,lng:-119.55,name:"Kings River — Río de los Santos Reyes",d:"Day 24 (Oct 14). 5 leagues E. 'Excellent pasturage, beaver and fish.' Already discovered in 1805. Rain began.",c:"Cook note 30: near Sanger or Centerville"},
+{n:22,lat:36.35,lng:-119.30,name:"Kaweah Delta — Telame Village",d:"Days 28–33 (Oct 18–23). Great oak forest. Village of 600 souls — Telame. Chief Gucayte. 22 baptized. Muñoz: 'the place most suitable for a mission of all that we have explored.' ~3,000 souls in area.",q:"'All the people of the villages came to visit us, bringing their small possessions and feeling insulted if they were not accepted.'",c:"Cook note 33: Kaweah delta at or above Visalia. Telamni of the ethnographers."},
+{n:23,lat:36.07,lng:-119.02,name:"Tule River — Río San Pedro",d:"Days 35–36 (Oct 25–26). 8 leagues through oak park. Village of Coyehete (~400 people).",c:"Cook note 36: near Porterville"},
+{n:24,lat:35.95,lng:-118.95,name:"Deer Creek — San Cayetano",d:"Day 37 (Oct 27). 1 league upstream, then E. Dry arroyo.",c:"Cook note 37: Probably Deer Cr."},
+{n:25,lat:35.80,lng:-118.88,name:"White River",d:"Day 37 (Oct 27). 4 leagues further E. Dry, few willows.",c:"Cook note 38: Probably White R."},
+{n:26,lat:35.65,lng:-118.80,name:"Poso Creek",d:"Day 37 (Oct 27). Further E. 'Immense area of sand.' Had to dig for water.",c:"Cook note 39: most likely Poso Cr."},
+{n:27,lat:35.45,lng:-118.95,name:"Kern River — Above Bakersfield",d:"Day 38 (Oct 28). 3 leagues. 'Very full of water, even in the dry season.' Most miserable country — 'brush and ground-squirrel holes.'",c:"Cook note 40: probably some miles above Bakersfield"},
+{n:28,lat:35.30,lng:-119.05,name:"Kern R. Downstream — Slough Country",d:"Day 39 (Oct 29). 3 leagues downstream + 1 league from river. 'Much saltpeter and underbrush.'",c:"Cook note 40: slough country S of Bakersfield. Moraga did not sight Buena Vista Lake."},
+{n:29,lat:35.10,lng:-118.90,name:"Grapevine Canyon",d:"Day 41 (Oct 31). South toward mountains. Found village. Sheltered spot with running water and grapevines.",c:"Cook note 41: Grapevine Canyon"},
+{n:30,lat:34.95,lng:-118.85,name:"Tejon Pass Area",d:"Day 42 (Nov 1). Oasis, marsh, oak valley, salt lake. Two villages encountered.",c:"Cook note 42: over Tejon Pass"},
+{n:31,lat:34.2611,lng:-118.4390,name:"Mission San Fernando",d:"Day 43 (Nov 2). Through mountains to ranch, then mission. '141 persons baptized in extremis.'",q:"'All that has been stated represents exactly what I have seen myself.'",c:"Signed: Fray Pedro Muñoz, 2 November 1806"}
+];
+
+// ═══════════════════════════════════════════════
+// 1807 EXPEDITION — Garcia's account (sparse)
+// ═══════════════════════════════════════════════
+const r1807=[
+{n:1,lat:36.60,lng:-121.90,name:"Monterey",d:"Departure. 25 cavalry under Alférez Gabriel Moraga. Sgt. Miguel Espinosa. 8 horses each."},
+{n:2,lat:35.75,lng:-120.70,name:"Mission San Miguel",d:"'We went from Monterey to San Miguel Mission.'"},
+{n:3,lat:35.15,lng:-119.40,name:"Buena Vista Lake",d:"'From there to the Laguna we called Buena Vista in one day and a half.' Went after runaway neophytes — 'did not get any.'",c:"Cook note 46: 'This expedition of 1807 is otherwise unrecorded.'"},
+{n:4,lat:35.40,lng:-118.70,name:"Mountains — Salinas de Cortéz",d:"'We went away into the Snowy Mountains.' Indians stole half the horses and killed two men. 'Portezuelo' with great quantities of nitre.",c:"Cook note 47: possibly entrance to Gorge of Kern R., E of Bakersfield"},
+{n:5,lat:37.10,lng:-120.50,name:"San Joaquin River (crossings)",d:"'We crossed the San Joaquin River several times and everywhere there was Indians.'"},
+{n:6,lat:37.5293,lng:-121.9178,name:"Mission San José",d:"'The Captain made up his mind to go back by the way of San Jose Mission where we arrived in good order.'"}
+];
+
+// ═══════════════════════════════════════════════
+// 1810 AUGUST — Viader Trip 1 (with Moraga)
+// ═══════════════════════════════════════════════
+const r1810a=[
+{n:1,lat:37.5293,lng:-121.9178,name:"Mission San José",d:"Aug 15, 1810. Departed 5:30pm with Lt. Moraga, Cadet Estrada, 1 corporal, 3 soldiers, 4 neophytes."},
+{n:2,lat:37.60,lng:-121.90,name:"Valley of San José — Pool",d:"Aug 15. 6 leagues N. 'Good water. So near and so well known to everyone.'"},
+{n:3,lat:37.91,lng:-122.07,name:"Walnut Creek",d:"Aug 16 (lunch). 6 leagues N. 'Good water but runs in very small amount.' Killed 2 bears and a deer.",c:"Cook note 1: route via Sunol, Dublin, Walnut Creek"},
+{n:4,lat:38.01,lng:-122.00,name:"End of Walnut Creek — Estuaries",d:"Aug 16. 6 more leagues N. 'Beginning of some estuaries on the NE side of a fine plain.' Big walnut trees."},
+{n:5,lat:38.00,lng:-121.81,name:"San Joaquin R. / Tulpunes — Antioch",d:"Aug 18. 7 leagues E. 'Quarter-league wide, apparently very deep, reached by tides.' Large oak forest. Tulpunes not seen.",c:"Cook note 2: at or near Antioch. Julpunes oak forest to Brentwood."},
+{n:6,lat:37.99,lng:-121.71,name:"Oak Forest — Oakley",d:"Aug 18. 2 more leagues E. Good country, no water except the river.",c:"Cook note 2: halt near Oakley"},
+{n:7,lat:37.76,lng:-121.57,name:"Pescadero / Cholvones — Bethany",d:"Aug 19. 10 leagues SE. Lake in oak grove. Interpreter met heathen Guanats. 'Christian fugitives from San Jose on opposite shore.'",c:"Cook note 3: Bethany. Lakes vanished."},
+{n:8,lat:37.77,lng:-121.43,name:"Tomchom Village",d:"Aug 20. 3 leagues SSE. 'No wild Indian showed himself.'",c:"Cook note 4: north of Tracy"},
+{n:9,lat:37.70,lng:-121.35,name:"Cuyens Village",d:"Aug 20. 2½ leagues further. Chief Cuyens. 15 Indians brought fish. 4 stayed the night.",c:"Cook note 4: left bank, 3 mi above highway bridge"},
+{n:10,lat:37.65,lng:-121.26,name:"Maijem Village",d:"Aug 21. 2½–3 leagues. Dry stream bed. Indians came 'with great trepidation' then disappeared.",c:"Cook note 5: ~2 mi NNE of Vernalis"},
+{n:11,lat:37.63,lng:-121.25,name:"Opposite Bozenats Village",d:"Aug 21. 2 leagues. Indians on far bank 'refused to come near, yelled with much vigor.'",c:"Cook note 6: right bank, E of Vernalis"},
+{n:12,lat:37.54,lng:-121.17,name:"SKIRMISH — Tationes / Apaglamenes",d:"Aug 22. 2 leagues + 1 league. 30 armed heathen on opposite bank. Then Tationes village. Apaglamenes and Tationes attacked — 'painted, bedecked with feathers.' 12 shots fired. One Indian hit.",q:"'Soldier Morales came into the skirmish with half his chin shaved.'",c:"Cook note 7: ~2 mi SE of Grayson",type:"skirmish"},
+{n:13,lat:37.47,lng:-121.10,name:"Lakes near Willow Grove",d:"Aug 22 afternoon. 3 leagues. 'Neither firewood nor good land.'",c:"Cook note 8: probably E of Patterson"},
+{n:14,lat:37.44,lng:-121.02,name:"Creek — Orestimba",d:"Aug 23. 3½ leagues. 'Great heat forced us to jump in for a swim.'",c:"Cook note 9: Orestimba Cr., E of Crows Landing"},
+{n:15,lat:37.28,lng:-120.97,name:"Pond — NE of Gustine",d:"Aug 23. 4 leagues. 'No wood or brush to cook supper or even make chocolate.'",c:"Cook note 10: 3–4 mi NE of Gustine. Southernmost point."},
+{n:16,lat:37.06,lng:-121.08,name:"San Luis Gonzaga",d:"Aug 24. Turned back W! 10 leagues. Explored — 'no more water than a few pools.' Not suitable for mission."},
+{n:17,lat:36.88,lng:-121.50,name:"Ausaymas Creek",d:"Aug 26. SW over mountains. 'Caught forty fish including six trout.' Already the plain of San Juan Bautista."},
+{n:18,lat:36.8446,lng:-121.5385,name:"Mission San Juan Bautista",d:"Aug 27. 5 leagues SW. 'With a good breakfast we brought the expedition to an end.' Signed Fr. José Viader, Aug 28, 1810."}
+];
+
+// ═══════════════════════════════════════════════
+// 1810 OCTOBER — Viader Trip 2 (punitive, with Moraga)
+// ═══════════════════════════════════════════════
+const r1810b=[
+{n:1,lat:37.5293,lng:-121.9178,name:"Mission San José",d:"Oct 19, 1810. Left ~2pm with Lt. Moraga, 23 soldiers, ~50 armed Christian Indians."},
+{n:2,lat:37.60,lng:-121.85,name:"Valley of San José",d:"Oct 19. 6 leagues NE. Willow grove with good water."},
+{n:3,lat:37.76,lng:-121.57,name:"Pescadero / Cholvones — Bethany",d:"Oct 20. 9 leagues ENE. 'Arrived very late so as not to be seen or heard. Placed our people in position to attack a dance.'",c:"Cook note 11: Mission San José to Bethany = ~32 mi"},
+{n:4,lat:37.82,lng:-121.51,name:"Bolbones Villages — Old River",d:"Oct 21. 'Before dawn we assaulted a village.' Captured 15 San Jose Christians, 18 heathen men, 51 women. Women released — 'went away very happy.' Two prisoners escaped.",q:"'Frankly military and aggressive character.'",c:"Cook note 12: two villages on Old River / Union I.",type:"skirmish"},
+{n:5,lat:37.77,lng:-121.43,name:"Jusmites",d:"Oct 22. 2½ leagues SE along river. 'Oak groves, willow thickets, ponds.'",c:"Cook note 14"},
+{n:6,lat:37.73,lng:-121.38,name:"Tugites",d:"Oct 22. 2½ more leagues. 'All the country has wood, water in the river and lakes, but the land is low, flooded.'",c:"Cook note 14"},
+{n:7,lat:37.70,lng:-121.35,name:"Cuyens Village",d:"Oct 23. Met friendly Cuyens Indians. 'Bearing as a gift three very big, red, salmon.'"},
+{n:8,lat:37.65,lng:-121.26,name:"Mayem Village",d:"Oct 23. 4 leagues total. 'Approached us with much fear and a tendency to prevaricate.' Deny harboring Christians. Lt. threatens flogging.",c:"Cook note 14: Mayem 9 leagues from Pescadero"},
+{n:9,lat:37.58,lng:-121.15,name:"Ford Opposite Taualames",d:"Oct 23 afternoon. 2 leagues. 'Ford across the river — very bad, wide and deep.' Crossed without incident. Sent boy to village.",c:"Cook note 14–15"},
+{n:10,lat:37.55,lng:-121.10,name:"Toward Tuolumne — Blocked",d:"Oct 24. Scouted N toward Tuolumne (Dolores), 2–3 leagues away. 'On account of so many sloughs, swamps, and ponds we turned back.'"},
+{n:11,lat:37.50,lng:-121.05,name:"Past Apelamenes & Tatives",d:"Oct 24 afternoon. 6 leagues SSE. 'Passed in front of the Apelamenes and Tatives Indians, who had fought us on the former occasion.'"},
+{n:12,lat:37.38,lng:-120.90,name:"Merced River",d:"Oct 24. Reached Merced R. 'Almost swimming the horses.' Much wood — oak, cypress, cottonwood.",c:"Cook note 15"},
+{n:13,lat:37.35,lng:-121.00,name:"Crossed San Joaquin",d:"Oct 25. SW. 'Crossed several other swampy sloughs. Southward no more trees, only tules.'"},
+{n:14,lat:37.42,lng:-121.05,name:"'Battle / Shaving Place'",d:"Oct 25. 2½ leagues downstream. 'At this point now, as previously, the soldiers shave themselves.'"},
+{n:15,lat:37.44,lng:-121.02,name:"Orestimba Creek — Apalamenes",d:"Oct 25. 1 league. 'Allies of the Tatives when they fought us.' Creek dry. 'Least bad spot — only firewood, river water, and good fish.'",c:"Cook note 9/16"},
+{n:16,lat:37.58,lng:-121.15,name:"Opposite Taualames (return)",d:"Oct 25. 2 leagues. 'Refused to come out, saying they were afraid. They guessed right for they would have been taken captive.'"},
+{n:17,lat:37.53,lng:-121.35,name:"Del Puerto Creek — Corpus Christi",d:"Oct 25. 3 leagues W. 'Spent the night without water for the horses. Had to dig a well in the sand.'",c:"Cook note 16: Del Puerto Cr."},
+{n:18,lat:37.45,lng:-121.55,name:"El Toro",d:"Oct 26. 6 leagues W. Mountains, bad trails. Lunch stop."},
+{n:19,lat:37.40,lng:-121.70,name:"San Guillermo",d:"Oct 26. 6 more leagues W. 'Extremely bad trail.' Pools of good water."},
+{n:20,lat:37.38,lng:-121.80,name:"Old Village of Patenos",d:"Oct 27. 6 leagues W. Lunch stop.",c:"Cook note 16: through hills NE of Mt. Hamilton"},
+{n:21,lat:37.3544,lng:-121.9692,name:"Mission Santa Clara",d:"Oct 27. 5 leagues NW. 'In good condition, thanks be to God.' Signed Fr. José Viader, Oct 28, 1810."}
+];
+
+// ═══════════════════════════════════════════════
+// VILLAGES — from Muñoz 1806 village list + diaries
+// ═══════════════════════════════════════════════
+const villages=[
+// 1806 Merced area
+{lat:37.38,lng:-120.68,name:"Nupchenche",pop:"~250",note:"Chief Choley. 28 baptized."},
+{lat:37.40,lng:-120.65,name:"Chineguis",pop:"~250",note:"1 old woman baptized."},
+{lat:37.42,lng:-120.63,name:"Yunate",pop:"~250",note:"1 old man baptized."},
+{lat:37.36,lng:-120.66,name:"Chamuasi",pop:"~250",note:"Everyone hid. No baptisms."},
+{lat:37.39,lng:-120.70,name:"Latelate",pop:"~200",note:"6 old women baptized."},
+{lat:37.37,lng:-120.73,name:"Lachuo",pop:"~200",note:"Everyone hid. No baptisms."},
+{lat:37.35,lng:-120.76,name:"Cutucho",pop:"~400",note:"Near Nupchenche. All fled. Scouted on first (April) expedition."},
+// 1806 Stanislaus area
+{lat:37.8283,lng:-120.6717,name:"Tahualamne",pop:"~200",note:"On steep cliffs. Indians live in caves. Refused to descend. Cook: vicinity of Knights Ferry."},
+// 1806 San Joaquin / foothills
+{lat:37.10,lng:-120.15,name:"Pizcache",pop:"~200",note:"Chief Sujoyucomu. 4 baptized. Story of soldiers from 'New Mexico.'"},
+// 1806 Kings River
+{lat:36.72,lng:-119.48,name:"Ayquiche (Aycayche)",pop:"~60",note:"Chief Achagua. 9 baptized. Plus 6 villages upstream not visited."},
+{lat:36.74,lng:-119.60,name:"Ecsaa",pop:"~100",note:"14 baptized. Chief Chaochay downstream."},
+{lat:36.73,lng:-119.63,name:"Chiaja",pop:"~100",note:"1 old woman baptized."},
+{lat:36.75,lng:-119.66,name:"Xayuase",pop:"~100",note:"9 old women baptized."},
+{lat:36.76,lng:-119.67,name:"Capatau",pop:"~10",note:"Subject to Xayuase chief. 1 baptized."},
+// 1806 Kaweah area
+{lat:36.38,lng:-119.35,name:"Hualo / Vual",pop:"~400",note:"2 old women baptized. Discovered on first (April) expedition."},
+{lat:36.37,lng:-119.33,name:"Tuntache",pop:"~250",note:"1 sick old man baptized."},
+{lat:36.40,lng:-119.30,name:"Notonto 1st",pop:"~300",note:"10 baptized (8 women, 2 dying children — later found dead)."},
+{lat:36.36,lng:-119.28,name:"Notonto 2nd",pop:"~100",note:"2 old women baptized."},
+{lat:36.35,lng:-119.30,name:"Telame 1st",pop:"~600",note:"LARGEST VILLAGE. Chief Gucayte. 22 baptized total across two expeditions. Telamni."},
+{lat:36.33,lng:-119.32,name:"Telame 2nd",pop:"~200",note:"6 old women baptized. Not seen on first expedition."},
+{lat:36.32,lng:-119.34,name:"Uholasi",pop:"~100",note:"3 old women baptized."},
+{lat:36.34,lng:-119.36,name:"Eaguea",pop:"~300",note:"10 baptized. One dying man — found dead on second expedition."},
+{lat:36.31,lng:-119.31,name:"Cohochs",pop:"~100",note:"Chief Chumueu. 11 old women baptized."},
+{lat:36.30,lng:-119.29,name:"Choynoque",pop:"~300",note:"No baptisms — all fled in terror."},
+{lat:36.07,lng:-119.02,name:"Coyehete",pop:"~400",note:"'According to the report of the Indians. We did not see it.'"},
+// 1810 Delta villages
+{lat:37.76,lng:-121.57,name:"Cholvones / Pescadero",pop:"—",note:"At Bethany. Both 1810 trips."},
+{lat:37.77,lng:-121.46,name:"Aupemis",pop:"—",note:"Passed without stopping. Aug 1810."},
+{lat:37.77,lng:-121.43,name:"Tomchom",pop:"—",note:"N of Tracy. No Indians showed themselves."},
+{lat:37.70,lng:-121.35,name:"Cuyens",pop:"—",note:"Friendly. Brought salmon and fish. Both 1810 trips."},
+{lat:37.65,lng:-121.26,name:"Maijem / Mayem",pop:"—",note:"'Approached with much fear and a tendency to prevaricate.' Both trips."},
+{lat:37.63,lng:-121.25,name:"Bozenats",pop:"—",note:"On opposite bank. Refused contact. Aug 1810."},
+{lat:37.58,lng:-121.15,name:"Taualames",pop:"—",note:"On east bank near Tuolumne/Stanislaus. Same people as Tahualamne of 1806. Both 1810 trips."},
+{lat:37.54,lng:-121.13,name:"Apaglamenes / Tationes",pop:"—",note:"Fought Spanish in Aug 1810. Harboring Christian fugitives."},
+{lat:37.77,lng:-121.43,name:"Jusmites",pop:"—",note:"Oct 1810. Near Tomchom."},
+{lat:37.73,lng:-121.38,name:"Tugites / Fugites",pop:"—",note:"Oct 1810. Between Cuyens and Mayem."},
+{lat:37.82,lng:-121.51,name:"Bolbones",pop:"—",note:"Two villages on Old River / Union I. Attacked Oct 21, 1810."},
+];
+
+// ═══════════════════════════════════════════════
+// MISSIONS
+// ═══════════════════════════════════════════════
+const missions=[
+{lat:36.8446,lng:-121.5385,name:"Mission San Juan Bautista",note:"1797. Moraga 1806 departure; Viader 1810 Aug return."},
+{lat:34.2611,lng:-118.4390,name:"Mission San Fernando",note:"1797. Moraga 1806 arrival."},
+{lat:37.5293,lng:-121.9178,name:"Mission San José",note:"1797. Viader/Moraga 1810 departure point."},
+{lat:37.3544,lng:-121.9692,name:"Mission Santa Clara",note:"1777. Viader 1810 Oct return."},
+{lat:35.75,lng:-120.70,name:"Mission San Miguel",note:"1797. Moraga 1807 stop."},
+{lat:36.60,lng:-121.90,name:"Monterey Presidio",note:"Moraga 1807 departure."},
+{lat:37.9735,lng:-122.5311,name:"Mission San Rafael",note:"1817. First establishment north of SF Bay. Site selected by Moraga. Founded 83 days after Hagemeister-Pomo treaty."},
+{lat:38.5133,lng:-123.2442,name:"Fort Ross",note:"1812. Russian-American Company. Kuskov. 95 Russians + ~80 Aleut hunters. Moraga visited 1812, 1813, 1814."},
+{lat:37.7862,lng:-122.4572,name:"Presidio of San Francisco",note:"1776. Founded by José Joaquín Moraga (Gabriel's father). Gabriel served here as Alférez 1806–1818."},
+];
+
+// ═══════════════════════════════════════════════
+// MODERN LABELS
+// ═══════════════════════════════════════════════
+const modernLabels=[
+{lat:37.3382,lng:-121.8863,name:"San José"},{lat:37.6391,lng:-120.9969,name:"Modesto"},
+{lat:37.9577,lng:-121.2908,name:"Stockton"},{lat:37.7397,lng:-121.4252,name:"Tracy"},
+{lat:36.7378,lng:-119.7871,name:"Fresno"},{lat:36.3302,lng:-119.2921,name:"Visalia"},
+{lat:36.0653,lng:-119.0166,name:"Porterville"},{lat:35.3733,lng:-119.0187,name:"Bakersfield"},
+{lat:37.3800,lng:-120.7200,name:"Livingston"},{lat:37.8300,lng:-120.7400,name:"Knights Ferry"},
+{lat:36.7200,lng:-119.5600,name:"Sanger"},{lat:37.0600,lng:-120.8500,name:"Los Banos"},
+{lat:38.0049,lng:-121.8058,name:"Antioch"},{lat:37.9101,lng:-122.0652,name:"Walnut Creek"},
+{lat:34.0522,lng:-118.2437,name:"Los Angeles"},{lat:36.6002,lng:-121.8947,name:"Monterey"},
+{lat:35.0500,lng:-118.8700,name:"Fort Tejon"},{lat:34.7500,lng:-118.4000,name:"Lancaster"},
+{lat:37.4716,lng:-121.1297,name:"Patterson"},{lat:37.2572,lng:-120.9989,name:"Gustine"},
+{lat:37.5618,lng:-121.1855,name:"Grayson"},{lat:36.9741,lng:-122.0308,name:"Santa Cruz"},
+{lat:38.2500,lng:-121.0500,name:"Cosumnes area"},{lat:37.6308,lng:-121.2644,name:"Vernalis"},
+{lat:38.2700,lng:-122.1300,name:"Rockville / Suisun Valley"},{lat:37.9735,lng:-122.5311,name:"San Rafael"},{lat:38.0400,lng:-122.1530,name:"Carquinez Strait"},
+{lat:38.3100,lng:-122.9800,name:"Bodega Bay"},{lat:38.5133,lng:-123.2442,name:"Fort Ross"},{lat:38.1000,lng:-122.7200,name:"Novato"},{lat:38.2324,lng:-122.6367,name:"Petaluma"},
+];
+
+// ═══════════════════════════════════════════════
+// RENDER
+// ═══════════════════════════════════════════════
+const dash='10,7';
+const layers={};
+
+function buildExp(id,stops,color,weight=4){
+  const grp=L.layerGroup();
+  const coords=stops.map(s=>[s.lat,s.lng]);
+  const line=L.polyline(coords,{color,weight,opacity:.85,dashArray:dash,lineCap:'round'});
+  grp.addLayer(line);
+  // arrows
+  for(let i=0;i<coords.length-1;i++){
+    const m=[coords[i][0]*.4+coords[i+1][0]*.6,coords[i][1]*.4+coords[i+1][1]*.6];
+    const a=Math.atan2(coords[i+1][1]-coords[i][1],coords[i+1][0]-coords[i][0])*180/Math.PI;
+    grp.addLayer(L.marker(m,{icon:L.divIcon({className:'',html:`<div style="font-size:13px;color:${color};transform:rotate(${90-a}deg);text-shadow:0 0 3px #fff,0 0 3px #fff;font-weight:bold;opacity:.7">➤</div>`,iconSize:[13,13],iconAnchor:[6,6]}),interactive:false}));
+  }
+  // markers
+  stops.forEach(s=>{
+    let icon;
+    if(s.type==='skirmish')icon=sI();
+    else if(s.type==='crossing')icon=L.divIcon({className:'',html:'<div style="width:20px;height:20px;background:#2980b9;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;font-size:11px;color:#fff;font-weight:bold">⚓</div>',iconSize:[20,20],iconAnchor:[10,10],popupAnchor:[0,-12]});
+    else if(s.type==='village-stop')icon=nI(s.n,'#6c3483');
+    else icon=nI(s.n,color);
+    grp.addLayer(L.marker([s.lat,s.lng],{icon}).bindPopup(pp(s.n+'. '+s.name,s.d,s.q,s.c)));
+  });
+  grp.addTo(map);
+  layers[id]=grp;
+}
+
+// ═══════════════════════════════════════════════
+// 1810 MAY — SUISUN CAMPAIGN
+// ═══════════════════════════════════════════════
+const rSuisun=[
+{n:1,lat:37.7862,lng:-122.4572,name:"Presidio of San Francisco",d:"May 1810. Governor Arrillaga orders Moraga to pursue the Suisun, who have killed 16 Christians over 3 years. Moraga departs with 17 men.",c:"Arrillaga report, Prov. Rec. ix. 122–3 (C-A 25)."},
+{n:2,lat:37.8500,lng:-122.2500,name:"Overland March — East Bay Hills",d:"Route overland from the Presidio, skirting the south shore of the Bay toward the Strait. Exact route unknown but likely through modern Oakland/Richmond hills.",c:"No diary survives for this expedition."},
+{n:3,lat:38.0440,lng:-122.1290,name:"Carquinez Strait Crossing",d:"Troops had no boats. Found a single small vessel. 'With great sacrifice, the Ensign embarked his troops and horses, making several crossings.' Multiple trips across the narrows.",q:"'Las tropas no tienen lanchas; que se encontró una muy chica en la que con sacrificios se embarcó el Alferez su tropa y caballada, haciendo varios viajes.'",c:"Arrillaga report. Vallejo calls it the 'Karkin-aku pass.'",type:"crossing"},
+{n:4,lat:38.1700,lng:-122.0800,name:"Skirmish on Suisun Creek",d:"Initial engagement. After crossing the strait, troops fought Suisun warriors along the banks of a creek. Vallejo (via Sánchez): the Suisun chief drew the Spanish inland toward the main body of warriors. Sgt. Francisco Soto left as rear guard with horses.",q:"'After defeating the Indians on the banks of the Suisun River... pursued them to their last stronghold.'",c:"Vallejo, Recuerdos Históricos, i. 131–5. Vallejo attributes to Sánchez (1817) but likely describes 1810.",type:"skirmish"},
+{n:5,lat:38.2700,lng:-122.1300,name:"Battle at Malaca's Ranchería",d:"Main engagement, May 22, 1810. Captured 18 gentiles (released — too wounded to transport). Survivors retreated into 3 tule huts. 2 corporals (Herrera, Soto) and 2 soldiers (Briones, Zúñiga) wounded. After 2 huts stormed, 3rd set on fire. Defenders burned alive rather than surrender. ~120 Suisun fighters. Chief Malaca's speech: 'It is better to die free than to live as slaves, despised by our Puy.'",q:"'Los valientes indios murieron envueltos en las llamas antes que entregarse.' — Arrillaga",c:"Bancroft II, p. 91 fn. 24. Arrillaga: Prov. Rec. ix. 122–3. Royal Order: Prov. St. Pap. xix. 314. Vallejo: MS. i. 131–5.",type:"skirmish"},
+{n:6,lat:38.0440,lng:-122.1290,name:"Return Crossing — Carquinez Strait",d:"Vallejo: 'At dawn they tried to ford a creek and came back over the Carquines Strait.' Return to south shore after the battle.",c:"Vallejo, Recuerdos, i. 131–5."},
+{n:7,lat:37.7862,lng:-122.4572,name:"Return to Presidio",d:"Moraga returns to the Presidio. Arrillaga reports to the Viceroy on June 20, 1810. Royal Order arrives Nov. 12, 1811: Moraga promoted to brevet Lieutenant of Cavalry."}
+];
+
+// ═══════════════════════════════════════════════
+// 1810 OCT — BODEGA BAY RECONNAISSANCE
+// ═══════════════════════════════════════════════
+const rBodega=[
+{n:1,lat:37.7862,lng:-122.4572,name:"Presidio of San Francisco",d:"October 3, 1810. Governor orders Moraga to investigate Russian fur-hunting at Bodega Bay. 10-day reconnaissance.",c:"Langelier & Rosen, fn. 52: 'Gabriel Moraga's Diary of his Expedition to the Port of Bodega, Oct. 3, 1810, Prov. St. Pap., XII, 276–79.' Diary survives in the Archives of California."},
+{n:2,lat:37.8100,lng:-122.4270,name:"Bay Crossing — to Marin",d:"Crossed the bay from the Presidio to the Marin shore. Method uncertain — possibly native balsas or a borrowed vessel.",c:"SF Presidio had limited boat access. See boat-problem article.",type:"crossing"},
+{n:3,lat:37.9735,lng:-122.5311,name:"San Rafael Area",d:"Passed through future site of Mission San Rafael. Bancroft: 'The site was probably selected on the advice of Moraga, who had several times passed it on his way to and from Bodega.'",c:"Bancroft, II, p. 330."},
+{n:4,lat:38.1000,lng:-122.7200,name:"Novato / Olompali Area",d:"Route north through Marin. Approximate — following the natural corridor through the Novato gap toward Petaluma Creek and the coast.",c:"Exact route not specified in diary abstract."},
+{n:5,lat:38.2300,lng:-122.8800,name:"Petaluma Creek / Estuary",d:"Likely crossed or followed Petaluma Creek toward the coast. Natural route from interior Marin to Bodega Bay.",c:"Route reconstruction based on geography."},
+{n:6,lat:38.3100,lng:-122.9800,name:"Bodega Bay",d:"Arrived at Bodega Bay. Found an American ship and Alaskan Indians (Aleut hunters working for the Russian-American Company). 10-day reconnaissance of the area. Wrote a diary of the expedition.",q:"",c:"Langelier & Rosen: 'finds an American ship and Alaskan Indians.' Diary: Prov. St. Pap., XII, 276–79."},
+{n:7,lat:37.7862,lng:-122.4572,name:"Return to Presidio",d:"Returns after 10 days. Report confirms Russian presence and fur-hunting operations at Bodega."}
+];
+
+// ═══════════════════════════════════════════════
+// 1812 JULY — FORT ROSS INVESTIGATION
+// ═══════════════════════════════════════════════
+const rRoss1812=[
+{n:1,lat:37.7862,lng:-122.4572,name:"Presidio of San Francisco",d:"July 1812. Argüello sends Moraga with 4 men to investigate construction of a small Russian fort on the Sonoma coast. Fort Ross had been dedicated Sept. 10, 1812 — but Kuskov had been building since spring.",c:"Langelier & Rosen, Ch. 3."},
+{n:2,lat:37.8100,lng:-122.4270,name:"Bay Crossing — to Marin",d:"Crossed the bay to the Marin shore.",type:"crossing"},
+{n:3,lat:37.9735,lng:-122.5311,name:"San Rafael Area",d:"Through future Mission San Rafael site. Moraga's repeated passage through here informed his later recommendation of the site."},
+{n:4,lat:38.2300,lng:-122.8800,name:"Petaluma Creek Area",d:"North through Marin toward the coast. Approximate route."},
+{n:5,lat:38.3100,lng:-122.9800,name:"Bodega Bay",d:"Passed through or near Bodega Bay en route to Fort Ross."},
+{n:6,lat:38.5133,lng:-123.2442,name:"Fort Ross",d:"Moraga identifies the Russian settlement: a brigantine-anchored base with a 150-yard-square stockade and cannon. Notes the Russians' friendly manner. Fort Ross had been dedicated by Kuskov with 95 Russians and ~80 Aleut hunters.",q:"",c:"Langelier & Rosen: '150-yard-square stockade and cannon; notes the Russians' friendly manner.'"},
+{n:7,lat:37.7862,lng:-122.4572,name:"Return to Presidio",d:"Returns to SF. Report filed with Argüello."}
+];
+
+// ═══════════════════════════════════════════════
+// 1813 JAN — FORT ROSS DIPLOMACY + 1814 VISIT
+// ═══════════════════════════════════════════════
+const rRoss1813=[
+{n:1,lat:37.7862,lng:-122.4572,name:"Presidio of San Francisco",d:"January 1813. Moraga drives 20 cattle and 3 horses to Fort Ross — practical diplomacy. Returns again in 1814 with Cadet Gervasio Argüello.",c:"Langelier & Rosen, Ch. 3."},
+{n:2,lat:37.8100,lng:-122.4270,name:"Bay Crossing — to Marin",d:"Crossed bay to Marin shore with livestock.",type:"crossing"},
+{n:3,lat:37.9735,lng:-122.5311,name:"San Rafael Area",d:"Through future mission site, driving cattle north."},
+{n:4,lat:38.3100,lng:-122.9800,name:"Bodega Bay Area",d:"Through Bodega country toward Fort Ross."},
+{n:5,lat:38.5133,lng:-123.2442,name:"Fort Ross",d:"Jan. 1813: Delivered 20 cattle, 3 horses as goodwill gesture. 1814 return: accompanied by Cadet Gervasio Argüello. Wrote a report describing 40 gente de razón and many Kodiak Indians, cannon, glass windows in the commandant's house. Also carried official demands for Russian withdrawal.",q:"",c:"Langelier & Rosen: '40 gente de razón and many Kodiak Indians, cannon guarding the place, and glass windows in the commandant's house.'"},
+{n:6,lat:37.7862,lng:-122.4572,name:"Return to Presidio",d:"Returns to SF Presidio."}
+];
+
+// ═══════════════════════════════════════════════
+// 1817 — SAN RAFAEL RECONNAISSANCE
+// ═══════════════════════════════════════════════
+const rSanRafael=[
+{n:1,lat:37.7862,lng:-122.4572,name:"Presidio of San Francisco",d:"c. 1817. Moraga reconnoiters the site north of the Bay for a new establishment. He had passed through this area multiple times on trips to Bodega and Fort Ross since 1810.",c:"Bancroft II, p. 330: 'The site was probably selected on the advice of Moraga.'"},
+{n:2,lat:37.8100,lng:-122.4270,name:"Bay Crossing — to Marin",d:"Crossed the bay to the Marin shore. SF Presidio had no proper boat from Feb. 1816 to Nov. 1818 — crossing method uncertain. Possibly native tule balsas.",c:"See boat-problem article. Vallejo mentions 'a small boat belonging to the San Francisco presidio.'",type:"crossing"},
+{n:3,lat:37.9735,lng:-122.5311,name:"Mission San Rafael Site",d:"Moraga selects this site — 5 leagues north of the Presidio, on the other side of the Bay. Warmer climate, near homeland of many SF neophytes. Mission founded Dec. 14, 1817 under Fr. Luis Gil y Taboada, escorted by Cpl. José Herrera (wounded at Suisun 1810, promoted to Sgt.). Vallejo says the Suisun victory led directly to the decision to found the mission.",q:"'Con la mira tambien de atraer los muchos gentiles que existen por allí.' — Solá to Viceroy, April 3, 1818",c:"Solá letter: Prov. Rec. ix. 583–604 (C-A 25). Founded 83 days after Hagemeister-Pomo treaty."},
+{n:4,lat:37.7862,lng:-122.4572,name:"Return to Presidio",d:"Returns to the Presidio with his recommendation. Governor Solá approves the plan in consultation with Prefect Sarría."}
+];
+
+buildExp('exp1806',r1806,'#8B2500',5);
+buildExp('exp1807',r1807,'#9b59b6',3);
+buildExp('exp1810a',r1810a,'#2e6f40',4);
+buildExp('exp1810b',r1810b,'#1a5276',4);
+buildExp('expSuisun',rSuisun,'#c0392b',4);
+buildExp('expBodega',rBodega,'#e67e22',3);
+buildExp('expRoss1812',rRoss1812,'#16a085',3);
+buildExp('expRoss1813',rRoss1813,'#2ecc71',3);
+buildExp('expSanRafael',rSanRafael,'#3498db',3);
+
+// Villages
+const villageLayer=L.layerGroup();
+villages.forEach(v=>{
+  villageLayer.addLayer(L.marker([v.lat,v.lng],{icon:vI()}).bindPopup(
+    pp(`<span style="color:#6c3483">${v.name}</span>`,
+       v.pop!=='—'?`Population: ${v.pop}`:'',
+       '',v.note)
+  ));
+});
+villageLayer.addTo(map);
+layers.villages=villageLayer;
+
+// Missions
+const missionLayer=L.layerGroup();
+missions.forEach(m=>{
+  missionLayer.addLayer(L.marker([m.lat,m.lng],{icon:mI()}).bindPopup(pp(m.name,'',m.note)));
+});
+missionLayer.addTo(map);
+layers.missions=missionLayer;
+
+// Modern
+const modernLayer=L.layerGroup();
+modernLabels.forEach(p=>{
+  modernLayer.addLayer(L.marker([p.lat,p.lng],{icon:L.divIcon({className:'',html:`<div style="font:italic 10px 'Crimson Pro',serif;color:#666;background:rgba(255,255,255,.6);padding:0 3px;border-radius:2px;white-space:nowrap">${p.name}</div>`,iconSize:[0,0],iconAnchor:[-8,6]}),interactive:false}));
+});
+modernLayer.addTo(map);
+layers.modern=modernLayer;
+
+// Toggles
+document.querySelectorAll('.panel input[data-layer]').forEach(cb=>{
+  cb.addEventListener('change',function(){
+    const l=layers[this.dataset.layer];
+    if(l){this.checked?map.addLayer(l):map.removeLayer(l)}
+  });
+});
+</script>
+</body>
+</html>
