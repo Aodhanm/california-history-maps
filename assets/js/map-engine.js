@@ -239,7 +239,13 @@
       state.allMarkers.some(function (rec) {
         if (rec.feature.id === id) {
           map.setView(rec.feature.coords, Math.max(map.getZoom(), 10));
-          rec.marker.openPopup();
+          var g = state.layerGroups[rec.layerId];
+          if (g && g.zoomToShowLayer && g.hasLayer(rec.marker)) {
+            // marker may be inside a cluster — expand it first
+            g.zoomToShowLayer(rec.marker, function () { rec.marker.openPopup(); });
+          } else {
+            rec.marker.openPopup();
+          }
           return true;
         }
       });
