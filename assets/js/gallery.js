@@ -10,33 +10,115 @@
 
   var data = null;
   var activeGroup = 'all';
+  var query = '';
+  var sortMode = 'theme';   // theme | year
+  var decade = null;        // e.g. 1770 filters 1770-1779
+
+  function itemYear(it) {
+    var m = /(1[5-9]\d\d)/.exec(it.year || '');
+    return m ? +m[1] : null;
+  }
+  function passes(it) {
+    if (query) {
+      var hay = (it.title + ' ' + (it.maker || '') + ' ' + it.year + ' ' + it.caption).toLowerCase();
+      if (hay.indexOf(query) === -1) return false;
+    }
+    if (decade != null) {
+      var y = itemYear(it);
+      if (y == null || y < decade || y >= decade + 10) return false;
+    }
+    return true;
+  }
+  function makeCard(it) {
+    var card = document.createElement('a');
+    card.className = 'card';
+    card.href = '#' + encodeURIComponent(it.id);
+    card.addEventListener('click', function (e) { e.preventDefault(); openViewer(it); });
+    card.innerHTML =
+      '<div class="thumb" style="background-image:url(thumb/' + esc(it.file) + ')"></div>' +
+      '<div class="body"><h3>' + esc(it.title) + '</h3>' +
+      '<p class="meta">' + esc((it.maker ? it.maker + ' · ' : '') + it.year) + '</p></div>';
+    return card;
+  }
 
   function render() {
     var root = document.getElementById('gallery-root');
     root.innerHTML = '';
-    data.groups.forEach(function (g) {
-      if (activeGroup !== 'all' && activeGroup !== g.id) return;
-      var items = data.items.filter(function (it) { return it.group === g.id; });
-      if (!items.length) return;
+    var shown = 0;
+    if (sortMode === 'year') {
+      var items = data.items.filter(function (it) {
+        return (activeGroup === 'all' || it.group === activeGroup) && passes(it);
+      }).sort(function (a, b) { return (itemYear(a) || 9999) - (itemYear(b) || 9999); });
       var sec = document.createElement('section');
-      sec.innerHTML = '<h2>' + esc(g.label) + ' <span class="gcount">' + items.length + '</span></h2>' +
-        '<p class="prose gintro">' + esc(g.intro) + '</p>';
+      sec.innerHTML = '<h2>Chronological <span class="gcount">' + items.length + '</span></h2>';
       var grid = document.createElement('div');
       grid.className = 'card-grid gallery-grid';
-      items.forEach(function (it) {
-        var card = document.createElement('a');
-        card.className = 'card';
-        card.href = '#' + encodeURIComponent(it.id);
-        card.addEventListener('click', function (e) { e.preventDefault(); openViewer(it); });
-        card.innerHTML =
-          '<div class="thumb" style="background-image:url(thumb/' + esc(it.file) + ')"></div>' +
-          '<div class="body"><h3>' + esc(it.title) + '</h3>' +
-          '<p class="meta">' + esc((it.maker ? it.maker + ' · ' : '') + it.year) + '</p></div>';
-        grid.appendChild(card);
-      });
+      items.forEach(function (it) { grid.appendChild(makeCard(it)); });
       sec.appendChild(grid);
       root.appendChild(sec);
+      shown = items.length;
+    } else {
+      data.groups.forEach(function (g) {
+        if (activeGroup !== 'all' && activeGroup !== g.id) return;
+        var items = data.items.filter(function (it) { return it.group === g.id && passes(it); });
+        if (!items.length) return;
+        var sec = document.createElement('section');
+        sec.innerHTML = '<h2>' + esc(g.label) + ' <span class="gcount">' + items.length + '</span></h2>' +
+          '<p class="prose gintro">' + esc(g.intro) + '</p>';
+        var grid = document.createElement('div');
+        grid.className = 'card-grid gallery-grid';
+        items.forEach(function (it) { grid.appendChild(makeCard(it)); });
+        sec.appendChild(grid);
+        root.appendChild(sec);
+        shown += items.length;
+      });
+    }
+    if (!shown) root.innerHTML = '<p class="prose">Nothing matches. Clear the search or decade filter.</p>';
+  }
+
+  function buildTools() {
+    var bar = document.getElementById('tools');
+    if (!bar) return;
+    var search = document.createElement('input');
+    search.type = 'search';
+    search.className = 'gsearch';
+    search.placeholder = 'Search titles, makers, captions…';
+    search.setAttribute('aria-label', 'Search the gallery');
+    search.addEventListener('input', function () { query = this.value.toLowerCase(); render(); });
+    bar.appendChild(search);
+    var sortBtn = document.createElement('button');
+    sortBtn.className = 'chip';
+    sortBtn.textContent = 'Sort: by theme';
+    sortBtn.addEventListener('click', function () {
+      sortMode = sortMode === 'theme' ? 'year' : 'theme';
+      sortBtn.textContent = sortMode === 'theme' ? 'Sort: by theme' : 'Sort: chronological';
+      render();
     });
+    bar.appendChild(sortBtn);
+    // decade strip
+    var years = data.items.map(itemYear).filter(function (y) { return y != null; });
+    var lo = Math.floor(Math.min.apply(null, years) / 10) * 10;
+    var hi = Math.floor(Math.max.apply(null, years) / 10) * 10;
+    var strip = document.createElement('div');
+    strip.className = 'decades';
+    strip.setAttribute('role', 'toolbar');
+    strip.setAttribute('aria-label', 'Filter by decade');
+    for (var d = lo; d <= hi; d += 10) {
+      (function (dd) {
+        var n = years.filter(function (y) { return y >= dd && y < dd + 10; }).length;
+        var b = document.createElement('button');
+        b.className = 'decade' + (n ? '' : ' empty');
+        b.innerHTML = dd + 's' + (n ? ' <span>' + n + '</span>' : '');
+        b.addEventListener('click', function () {
+          decade = (decade === dd) ? null : dd;
+          Array.prototype.forEach.call(strip.children, function (c) { c.classList.remove('active'); });
+          if (decade != null) b.classList.add('active');
+          render();
+        });
+        strip.appendChild(b);
+      })(d);
+    }
+    bar.appendChild(strip);
   }
 
   function buildChips() {
@@ -90,6 +172,7 @@
   fetch('gallery-data.json').then(function (r) { return r.json(); }).then(function (d) {
     data = d;
     document.getElementById('gallery-note').textContent = d.note;
+    buildTools();
     buildChips();
     render();
     var id = decodeURIComponent(location.hash.slice(1));

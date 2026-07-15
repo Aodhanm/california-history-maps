@@ -82,7 +82,7 @@
       h += '<p class="native">Native peoples named in the sources: ' + esc(f.native_groups.join(', ')) + '</p>';
     (f.sources || []).forEach(function (s) {
       h += '<p class="source">' + esc(s.citation);
-      if (s.ca_record) h += ' — <a href="https://aodhanm.github.io/archives-of-california/?record=' +
+      if (s.ca_record) h += ' — <a href="https://aodhanm.github.io/archives-of-california/#' +
         encodeURIComponent(s.ca_record) + '" target="_blank" rel="noopener">View the record →</a>';
       else if (s.ia_leaf_url) h += ' — <a href="' + esc(s.ia_leaf_url) + '" target="_blank" rel="noopener">manuscript leaf →</a>';
       h += '</p>';

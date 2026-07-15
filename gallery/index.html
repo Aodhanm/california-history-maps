@@ -30,6 +30,16 @@
   #viewer-caption { color: #e6dfd3; font-size: 0.9rem; max-width: 62rem; margin: 0; }
   #viewer-credit { color: #9b948a; font-size: 0.76rem; margin: 0.25rem 0 0; }
   .wanted { margin-top: 2.5rem; }
+  .gtools { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem; margin: 0.9rem 0 0; }
+  .gtools .gsearch { flex: 1 1 240px; max-width: 360px; padding: 0.32rem 0.6rem;
+    border: 1px solid var(--rule); border-radius: 4px; background: #fff; font-size: 0.87rem; }
+  .decades { display: flex; flex-wrap: wrap; gap: 0.25rem; width: 100%; }
+  .decade { border: 1px solid var(--rule); background: #fff; color: var(--ink-soft);
+    border-radius: 4px; padding: 0.12rem 0.5rem; font-size: 0.76rem; cursor: pointer; }
+  .decade span { color: var(--accent); font-weight: 600; }
+  .decade.active { background: var(--ink); color: #fff; border-color: var(--ink); }
+  .decade.active span { color: #e8b64c; }
+  .decade.empty { opacity: 0.4; cursor: default; }
   .wanted li { font-size: 0.86rem; color: var(--ink-soft); margin-bottom: 0.25rem; }
 </style>
 </head>
@@ -49,6 +59,7 @@
   collection. Every image is zoomable and links to the archival original. Reproductions are of
   public domain maps; each entry credits its holding institution.</p>
   <p class="gallery-note" id="gallery-note"></p>
+  <div class="gtools" id="tools"></div>
   <div class="chips" id="chips" role="toolbar" aria-label="Filter by group"></div>
   <div id="gallery-root"></div>
   <section class="wanted">
