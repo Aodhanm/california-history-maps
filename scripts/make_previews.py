@@ -13,13 +13,20 @@ W, H = 900, 450
 PARCHMENT = (247, 243, 236)
 SILH = (222, 214, 198)
 
-# geographic frame (whole area of interest)
+# geographic frame (whole area of interest), equirectangular with true aspect
+import math
 LAT0, LAT1 = 31.8, 42.2
 LNG0, LNG1 = -125.2, -113.8
+COSLAT = math.cos(math.radians((LAT0 + LAT1) / 2))
+_gw = (LNG1 - LNG0) * COSLAT   # geographic width, degree-equivalents
+_gh = (LAT1 - LAT0)
+_scale = min((W - 30) / _gw, (H - 20) / _gh)
+_ox = (W - _gw * _scale) / 2
+_oy = (H - _gh * _scale) / 2
 
 def xy(lat, lng):
-    x = (lng - LNG0) / (LNG1 - LNG0) * W
-    y = (LAT1 - lat) / (LAT1 - LAT0) * H
+    x = _ox + (lng - LNG0) * COSLAT * _scale
+    y = _oy + (LAT1 - lat) * _scale
     return x, y
 
 def hex2rgb(h):
