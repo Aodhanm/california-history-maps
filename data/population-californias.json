@@ -1,11 +1,11 @@
 {
  "id": "population-californias",
  "title": "Population of the Californias",
- "subtitle": "Every count in the archive: padrones, censos, and mission registros, 1782–1833",
+ "subtitle": "Every count in the archive: padrones, censos, and mission registros, 1777–1847",
  "abstract": "The population counts of Spanish and Mexican California, settlement by settlement, as the archive recorded them. A note on what these numbers are: they are the counts of a colonial bureaucracy. Padrones undercount, categories like gente de razon and neofito are the empire's constructs, and Native people appear only when and how the state counted them — inside missions, pueblos, and jurisdictions. The map shows what the documents say, in their own units, not how many people lived in California; the nations of the Native California map were mostly never counted at all. Every row cites its document. The headline: in 1790 the entire Spanish population of Alta California was 910 people.",
  "date_range": [
-  1782,
-  1833
+  1777,
+  1847
  ],
  "center": [
   33.5,
@@ -72,6 +72,16 @@
      "C-A 50 Doc 387"
     ],
     [
+     "1822 Apr",
+     "24,990 habitantes: 21,196 neophytes in the 20 missions, 2,994 gente de razon — read into the Diputacion's founding session",
+     "Leg. Rec. (C-A 59) Doc 4"
+    ],
+    [
+     "1829",
+     "school census: 11 schools, ~389 students in the whole territory",
+     "St. Pap. Missions (C-A 51) Doc 3"
+    ],
+    [
      "1827",
      "'under 25,000, mostly Indians'; ~4,000 gente de razon, ~1,800 able to bear arms",
      "Dep. Rec. (C-A 48) Doc 29 — abstract"
@@ -123,6 +133,16 @@
      "1791 Dec",
      "province-wide censo y castas table, 18 poblaciones",
      "C-A 50 Doc 38"
+    ],
+    [
+     "1792",
+     "the Dominican Prior's estado: 4,442 souls in the Baja missions",
+     "Misc. (C-A 62) Doc 24"
+    ],
+    [
+     "1795",
+     "4,337 almas per the P. Presidente's mission states",
+     "Prov. St. Pap. (C-A 10) Doc 19"
     ]
    ],
    "series_label": "Counted",
@@ -158,14 +178,39 @@
    "summary": "The first pueblo, counted at 78 souls in 1790 — one europeo, 33 espanoles, 8 indios, 8 mulatos, 28 otras castas. Four decades later it had grown to 602.",
    "series": [
     [
+     "1777 Nov",
+     "founded with 14 vecinos, 66 souls (Neve's own report)",
+     "Prov. Rec. (C-A 22), tomo pp. 8-9, 17-21"
+    ],
+    [
      "1790",
      "78 souls (1 europeo, 33 espanoles, 8 indios, 8 mulatos, 28 otras castas)",
      "C-A 50 Doc 20; nominal roll Doc 19"
     ],
     [
-     "early 1830s",
-     "602 inhabitants: 431 gente de razon + 171 indigenas avecindados",
-     "St. Pap. M&C (C-A 53) Doc 49"
+     "1793",
+     "nominal padron of the pueblo (named households)",
+     "Prov. Rec. (C-A 24), Sav 319-322"
+    ],
+    [
+     "1800 Dec",
+     "Padron General by Macario de Castro: 30 households, nominal, with demographic columns",
+     "Prov. St. Pap. (C-A 11), n181-183"
+    ],
+    [
+     "1823 Jun",
+     "345 souls (9 born, 3 died); Branciforte 67 and Los Ranchos 50 counted alongside",
+     "Dep. St. Pap. (C-A 27) Doc 26"
+    ],
+    [
+     "1823 Dec",
+     "391 total: 59 men, 114 parvulos, 184 women and girls; + Rancho San Ysidro 66",
+     "Dep. St. Pap. (C-A 27) Docs 22-23"
+    ],
+    [
+     "1834 Dec 31",
+     "602 souls: 431 gente de razon + 171 indigenas avecindados (two independent returns)",
+     "DSP Ben. (C-A 42) Doc 184; St. Pap. M&C (C-A 53) Doc 49"
     ]
    ],
    "series_label": "Counted",
@@ -201,9 +246,29 @@
    "summary": "The pueblo's whole arc in five counts: 139 souls in the 1790 province table, 148 in 1792, 274 in 1817, then the Mexican-era growth to over a thousand — with the padrones counting Indians separately, in the pueblo and on its ranchos.",
    "series": [
     [
+     "1781 Nov",
+     "the founding padron de pobladores, each vecino by name with casta ('fundado el 4 de Set.e de 1781')",
+     "St. Pap. M&C (C-A 52) Doc 26"
+    ],
+    [
+     "1784",
+     "'el pueblo de los Angeles se compone de 8 habitantes' (vecino-pobladores, 3 years in)",
+     "Prov. Rec. (C-A 23) Doc 58"
+    ],
+    [
+     "1785",
+     "pobladores census: 12 households with casta, age, occupation",
+     "Prov. St. Pap. (C-A 14), n325-326"
+    ],
+    [
      "1789",
      "pobladores + agregados roll (named)",
      "C-A 50 Doc 31"
+    ],
+    [
+     "1790 Aug",
+     "nominal household roll: 31 families, 141 souls, with oficio/casta/age/birthplace",
+     "Prov. St. Pap. (C-A 5) Doc 96"
     ],
     [
      "1790",
@@ -243,7 +308,136 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The 1828 vs 1830 drop reflects changing padron scope as much as population; both are shown as recorded."
+   "notes": "The 1790 counts disagree: the province table says 139, the pueblo's own August roll 141 — both shown. The 1828 vs 1830 drop reflects changing padron scope as much as population."
+  },
+  {
+   "id": "pu-branciforte",
+   "register_no": null,
+   "name": "Villa de Branciforte",
+   "date": {
+    "iso": null,
+    "display": "founded 1797",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.9797,
+    -122.026
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "pueblos",
+   "summary": "The third and smallest pueblo, founded 1797 across the river from Mission Santa Cruz. The 1823 padrones catch it at 128 souls, or 67 by the summer count — the two returns are shown as recorded.",
+   "series": [
+    [
+     "1823 Jun",
+     "67 (counted beside San Jose's 345)",
+     "Dep. St. Pap. (C-A 27) Doc 26"
+    ],
+    [
+     "1823 Dec",
+     "128 souls: 66 men, 62 women",
+     "Dep. St. Pap. (C-A 27) Doc 24"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "The June and December 1823 figures differ in scope; both preserved."
+  },
+  {
+   "id": "tw-monterey",
+   "register_no": null,
+   "name": "Monterey (town & jurisdiction)",
+   "date": {
+    "iso": null,
+    "display": "capital",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.6002,
+    -121.8947
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "pueblos",
+   "summary": "The capital counted as a town: the 1826 vecindario census breaks out gente de razon by sex and age beside the Indians living among them; by 1829 the town and its named ranchos held 867.",
+   "series": [
+    [
+     "1826 May",
+     "vecindario: gente de razon 75 men, 98 women, 82 boys, 56 girls (= 311) + Indians counted alongside",
+     "St. Pap. M&C (C-A 53) Doc 24"
+    ],
+    [
+     "1827 May",
+     "rancho census of the jurisdiction: 24 vecino-ranchos with titles",
+     "St. Pap. M&C (C-A 53) Doc 20"
+    ],
+    [
+     "1829",
+     "Monterey 502 souls + named ranchos 365 = 867",
+     "St. Pap. Missions (C-A 51) Doc 5"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "sac-1847",
+   "register_no": null,
+   "name": "Sacramento District (New Helvetia)",
+   "date": {
+    "iso": null,
+    "display": "est. 1839",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.5722,
+    -121.47
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "pueblos",
+   "summary": "The arc's endpoint: the December 1847 statistics of population of the Sacramento district, compiled at Sutter's fort in the first American winter — the count that closes the era this map covers.",
+   "series": [
+    [
+     "1847 Dec",
+     "the Sacramento-district census table ('Statistics of Population &c')",
+     "Unbound Docs (C-A 63) Doc 426"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
   },
   {
    "id": "pr-san-francisco",
@@ -310,6 +504,54 @@
      "1785 Dec",
      "67 heads of household, nominal roll with casta and family",
      "C-A 50 Doc 2"
+    ],
+    [
+     "1801",
+     "garrison census: 189 total population",
+     "Prov. St. Pap. (C-A 11), n48-49"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "pr-san-diego",
+   "register_no": null,
+   "name": "Presidio & town of San Diego",
+   "date": {
+    "iso": null,
+    "display": "founded 1769",
+    "confidence": "exact"
+   },
+   "coords": [
+    32.7573,
+    -117.1966
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "presidios",
+   "summary": "San Diego's late-Mexican padrones count the men who could bear arms: 53 in 1845, 73 in 1846 — the municipality on the eve of the conquest.",
+   "series": [
+    [
+     "1845 Sep",
+     "padron: 53 individuals aged 15-60 (militia-age)",
+     "DSP Ben. (C-A 42) Doc 356"
+    ],
+    [
+     "1846 Jul",
+     "padron: 73 citizens aged 15-60",
+     "DSP Ben. (C-A 42) Doc 590"
     ]
    ],
    "series_label": "Counted",
@@ -578,6 +820,11 @@
      "1789",
      "1,044",
      "Doc 18"
+    ],
+    [
+     "1839",
+     "ex-mission padron: 587 souls",
+     "St. Pap. Missions (C-A 51) Doc 1"
     ]
    ],
    "series_label": "Counted",
@@ -861,6 +1108,125 @@
      "1789",
      "525",
      "Doc 18"
+    ],
+    [
+     "1827",
+     "SB-jurisdiction missions together: 2,061 Indian men + 1,739 women",
+     "St. Pap. Sac. (C-A 56) Doc 446"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "The counts are of people living AT the mission when counted; flight, death, and new baptism churn beneath every figure. A 1795 nominal padron of the Monterey-district missions exists (C-A 50 Doc 54)."
+  },
+  {
+   "id": "mi-santa-cruz",
+   "register_no": null,
+   "name": "Mission Santa Cruz",
+   "date": {
+    "iso": null,
+    "display": "founded 1791",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.9797,
+    -122.0308
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "missions",
+   "summary": "Neophyte population as the annual registros and the 1790 censo campaign recorded it.",
+   "series": [
+    [
+     "1797 Dec",
+     "509 souls: 173 men, 189 women, 108 boys, 99 girls",
+     "Prov. Rec. (C-A 24), Sav 394"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "The counts are of people living AT the mission when counted; flight, death, and new baptism churn beneath every figure. A 1795 nominal padron of the Monterey-district missions exists (C-A 50 Doc 54)."
+  },
+  {
+   "id": "mi-san-juan-bautista",
+   "register_no": null,
+   "name": "Mission San Juan Bautista",
+   "date": {
+    "iso": null,
+    "display": "founded 1797",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.8455,
+    -121.537
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "missions",
+   "summary": "Neophyte population as the annual registros and the 1790 censo campaign recorded it.",
+   "series": [
+    [
+     "1798",
+     "288 souls (63 marriages; 80 boys, 39 girls)",
+     "St. Pap. Sac. (C-A 54) Doc III-14"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "The counts are of people living AT the mission when counted; flight, death, and new baptism churn beneath every figure. A 1795 nominal padron of the Monterey-district missions exists (C-A 50 Doc 54)."
+  },
+  {
+   "id": "mi-san-luis-rey",
+   "register_no": null,
+   "name": "Mission San Luis Rey",
+   "date": {
+    "iso": null,
+    "display": "founded 1798",
+    "confidence": "exact"
+   },
+   "coords": [
+    33.2318,
+    -117.3178
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "missions",
+   "summary": "Neophyte population as the annual registros and the 1790 censo campaign recorded it.",
+   "series": [
+    [
+     "1839 Jul",
+     "40 Indians resident: 29 men, 11 women — the largest mission population in the province, five years after secularization",
+     "DSP Angeles (C-A 35) Doc 150"
     ]
    ],
    "series_label": "Counted",
