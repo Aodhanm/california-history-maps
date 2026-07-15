@@ -41,6 +41,17 @@
 
   function markerFor(f, color) {
     var precision = f.coord_precision || 'place';
+    if (f.polygon) {
+      // territory polygon (rings of [lat,lng]) with a plain-text label at the anchor
+      var poly = L.polygon(f.polygon, {
+        color: color, weight: 1.4, fillColor: color, fillOpacity: 0.16
+      });
+      poly.bindPopup(popupHtml(f), { maxWidth: 380 });
+      poly.bindTooltip(f.name.split(' (')[0], {
+        permanent: true, direction: 'center', className: 'homeland-label'
+      });
+      return poly;
+    }
     if (f.area_radius_km) {
       // soft approximate-homeland circle with a permanent label
       var circ = L.circle(f.coords, {
@@ -77,13 +88,14 @@
     if (badges.length) h += '<p class="badges">' + badges.join(' ') + '</p>';
     if (f.summary) h += '<p>' + esc(f.summary) + '</p>';
     if (f.series && f.series.length) {
-      h += '<table class="series"><thead><tr><th>' + esc(f.series_label || 'Date') +
-           '</th><th></th></tr></thead><tbody>';
+      h += '<details class="series-box"><summary>' + esc(f.series_label || 'Dated series') +
+           ' (' + f.series.length + ' entries)</summary>';
+      h += '<table class="series"><tbody>';
       f.series.forEach(function (row) {
         h += '<tr><td>' + esc(row[0]) + '</td><td>' + esc(row[1]) +
              (row[2] ? ' <span class="cite">' + esc(row[2]) + '</span>' : '') + '</td></tr>';
       });
-      h += '</tbody></table>';
+      h += '</tbody></table></details>';
     }
     if (f.result) h += '<p class="result"><strong>' + esc(f.result) + '</strong></p>';
     if (f.quote && f.quote.es) {
@@ -249,7 +261,8 @@
       });
     });
 
-    L.control.layers(null, overlays, { collapsed: window.innerWidth < 700 }).addTo(map);
+    var lc = L.control.layers(null, overlays, { collapsed: true }).addTo(map);
+    if (window.innerWidth >= 700) lc.expand();
     buildControls(data);
     applyFilters();
 

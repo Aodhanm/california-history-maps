@@ -166,6 +166,10 @@ body {
 }
 
 /* native homelands map */
-.homeland-label { background: none; border: none; box-shadow: none;
+.leaflet-tooltip.homeland-label { background: transparent; border: none; box-shadow: none;
   font-family: var(--serif); font-size: 0.82rem; color: var(--ink);
-  text-shadow: 0 0 3px #fff, 0 0 5px #fff; font-weight: 600; }
+  text-shadow: 0 0 3px #fff, 0 0 5px #fff, 0 0 8px #fff; font-weight: 600;
+  pointer-events: none; }
+.leaflet-tooltip.homeland-label::before { display: none; }
+.popup details.series-box summary { cursor: pointer; font-size: 0.8rem; color: var(--accent-3);
+  margin: 0.3rem 0 0.1rem; }
