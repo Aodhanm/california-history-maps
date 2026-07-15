@@ -103,8 +103,8 @@
     "confidence": "circa"
    },
    "coords": [
-    34.2611,
-    -118.439
+    34.2733,
+    -118.462
    ],
    "coord_precision": "exact",
    "type": "mission",
@@ -155,8 +155,8 @@
     "confidence": "circa"
    },
    "coords": [
-    37.3544,
-    -121.9692
+    37.3496,
+    -121.939
    ],
    "coord_precision": "exact",
    "type": "mission",
@@ -2355,8 +2355,8 @@
       "confidence": "circa"
      },
      "coords": [
-      37.3544,
-      -121.9692
+      37.3496,
+      -121.939
      ],
      "coord_precision": "area",
      "type": "expedition-leg",

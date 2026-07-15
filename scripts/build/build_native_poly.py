@@ -37,6 +37,7 @@ RENAME = {
     "Karok": "Karuk", "Grabrielino": "Tongva (Gabrielino)", "Gabrielino": "Tongva (Gabrielino)",
     "Diegueno": "Kumeyaay (Diegueño)", "Luiseno": "Luiseño", "Cupeno": "Cupeño",
     "Costanoan": "Ohlone (Costanoan)", "Juaneno": "Acjachemen (Juaneño)",
+    "Tipai": "Tipai (Kumeyaay)", "Ipai": "Ipai (Kumeyaay)",
     "Cahuila": "Cahuilla", "Tubatulabal": "Tübatulabal",
 }
 FAM_LAYER = {"Athapaskan": "atha", "Hokan": "hokan", "Penutian": "penutian",
@@ -55,7 +56,8 @@ BLURBS = {
  "Esselen": "The Santa Lucia mountains south of Monterey.",
  "Salinan": "The upper Salinas River country; drawn into Missions San Antonio and San Miguel.",
  "Chumash": "The Santa Barbara Channel, its islands, and the coast from Malibu toward San Luis Obispo. Maritime towns, plank canoes, and the largest mission-era revolt (1824).",
- "Kumeyaay (Diegueño)": "The San Diego country and northern Baja California. From the 1775 destruction of Mission San Diego to the Jacum battle of 1837, the most persistent military resistance on the southern frontier.",
+ "Ipai (Kumeyaay)": "The northern Kumeyaay, from the San Diego coast into the mountains. With the Tipai, the peoples of the most persistent military resistance on the southern frontier, from the 1775 destruction of Mission San Diego onward.",
+ "Tipai (Kumeyaay)": "The southern Kumeyaay, into northern Baja California; the Jacum country of the 1837 battle.",
  "Quechan": "The Colorado River crossing at the Gila junction. Their 1781 victory destroyed two Spanish settlements and closed the overland road to California for the rest of the colonial period.",
  "Mojave": "The Colorado River above the Quechan; their reach extended west to the coast missions in the 1810s.",
  "Wintu": "The upper Sacramento Valley and Trinity foothills.",
