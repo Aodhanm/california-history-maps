@@ -1,0 +1,3168 @@
+{
+ "id": "borderlands-frontier",
+ "title": "The Bay Area Imperial Frontier",
+ "subtitle": "Spain, Russia, Britain, and Native polities north of San Francisco Bay, 1775–1841",
+ "abstract": "Spain's northern frontier as a contested borderland: Spanish expeditions and defensive works, Russian hunting and Fort Ross, British and American visits, and the Native peoples whose knowledge and choices shaped all of it. Compiled from the C-A transcripts, Wagner, and the printed voyage accounts.",
+ "date_range": [
+  1775,
+  1841
+ ],
+ "center": [
+  38.15,
+  -122.6
+ ],
+ "zoom": 8,
+ "cite_key": "borderlands",
+ "last_updated": "2026-07-14",
+ "layers": [
+  {
+   "id": "spanMil",
+   "label": "Spanish Military Expeditions",
+   "color": "#2e6f40"
+  },
+  {
+   "id": "british",
+   "label": "British Naval & Military",
+   "color": "#c0392b"
+  },
+  {
+   "id": "russian",
+   "label": "Russian Naval & Hunting",
+   "color": "#2980b9"
+  },
+  {
+   "id": "american",
+   "label": "American Encounters",
+   "color": "#1a5276"
+  },
+  {
+   "id": "bouchard",
+   "label": "Bouchard Raid (1818)",
+   "color": "#e67e22"
+  },
+  {
+   "id": "french",
+   "label": "French Visits",
+   "color": "#7d3c98"
+  },
+  {
+   "id": "indigenous",
+   "label": "Indigenous Agency",
+   "color": "#d4ac0d"
+  },
+  {
+   "id": "intel",
+   "label": "Intelligence & Defense Decay",
+   "color": "#8e44ad"
+  },
+  {
+   "id": "spanSet",
+   "label": "Spanish/Mexican Settlements (reference)",
+   "color": "#6b6257"
+  },
+  {
+   "id": "rusSet",
+   "label": "Russian Settlements (reference)",
+   "color": "#1B4F72"
+  },
+  {
+   "id": "modern",
+   "label": "Modern City Labels",
+   "color": "#9a938a"
+  }
+ ],
+ "features": [
+  {
+   "id": "golden-gate-crossing-borrowed-launches",
+   "register_no": null,
+   "name": "Golden Gate Crossing — Borrowed Launches",
+   "date": {
+    "iso": "1793-08-01",
+    "display": "August 1–2, 1793",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.813,
+    -122.478
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "32 horses ferried across the Golden Gate using launches borrowed from visiting San Blas frigates Princesa and Aranzazu. Spain cannot cross its own bay without foreign ships.",
+   "result": "Spain depends on visiting vessels to cross its own frontier",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 14 p. 113. Arrillaga.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "goycoechea-s-overland-expedition-to-bodega",
+   "register_no": null,
+   "name": "Goycoechea's Overland Expedition to Bodega",
+   "date": {
+    "iso": "1793-08-05",
+    "display": "August 5–14, 1793",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.33,
+    -123.05
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "10 soldiers + sergeant march overland from SF via Bolinas and Tomales Bay to Bodega. Coast Miwok direct them to harder western route — later admitted \"deceived.\" Territory 45 miles north of SF is \"tierra incognita.\"",
+   "result": "\"Tierra incognita\" — Spain's own governor admits unknown territory",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Wagner 1931:342–345; C-A 14 p. 113.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "moraga-s-1st-interior-expedition",
+   "register_no": null,
+   "name": "Moraga's 1st Interior Expedition",
+   "date": {
+    "iso": "1806",
+    "display": "September–October 1806",
+    "confidence": "range"
+   },
+   "coords": [
+    38.58,
+    -121.49
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "First major Central Valley expedition. Named the Sacramento River. 30+ stops, 17 villages contacted. No permanent occupation.",
+   "result": "Reconnaissance only — a round trip",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Cook 1960; gabriel-moraga-military-campaigns.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "moraga-s-2nd-expedition-sacramento-valley",
+   "register_no": null,
+   "name": "Moraga's 2nd Expedition — Sacramento Valley",
+   "date": {
+    "iso": "1808",
+    "display": "September–October 1808",
+    "confidence": "range"
+   },
+   "coords": [
+    38.7,
+    -121.55
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "Second interior campaign. Again, a round trip.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Cutter 1957.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "battle-of-suisun",
+   "register_no": null,
+   "name": "Battle of Suisun",
+   "date": {
+    "iso": "1810-05-22",
+    "display": "May 22, 1810",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.063,
+    -122.226
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "17 men cross Carquinez Strait by boat to attack Suisun ranchería. Suisun had killed 16 Christians over prior 3 years. Hard fight — survivors in huts preferred to \"perish in the flames\" rather than surrender. Moraga received royal commendations.",
+   "result": "Spanish tactical victory at the frontier chokepoint",
+   "quote": {
+    "es": "",
+    "en": "\"Es mejor morir libres que vivir como esclavos.\"",
+    "source": ""
+   },
+   "sources": [
+    {
+     "citation": "C-A 12; C-A 25; Bancroft II:91 fn.24.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "moraga-investigates-russian-bodega",
+   "register_no": null,
+   "name": "Moraga Investigates Russian Bodega",
+   "date": {
+    "iso": "1810",
+    "display": "September–October 1810",
+    "confidence": "range"
+   },
+   "coords": [
+    38.34,
+    -123.04
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "Moraga goes by boat to Bodega. Finds 40+ Aleut hunting canoes, Russian supply ships at anchor. Reconnaissance, no confrontation. Protests to commandant.",
+   "result": "Round trip — reconnaissance only",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12; gabriel-moraga-military-campaigns.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "moraga-discovers-fort-ross",
+   "register_no": null,
+   "name": "Moraga Discovers Fort Ross",
+   "date": {
+    "iso": "1812",
+    "display": "August–September 1812",
+    "confidence": "range"
+   },
+   "coords": [
+    38.517,
+    -123.248
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "Moraga with 4 soldiers investigates grounded vessel. Discovers Fort Ross: ~80 men, Kuskov commanding, all from Unalaska/Kamchatka. Vessel 8 leagues above Bodega. No opposition.",
+   "result": "Discovery — no confrontation possible",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12; gabriel-moraga-military-campaigns.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "moraga-s-fort-ross-defense-assessment",
+   "register_no": null,
+   "name": "Moraga's Fort Ross Defense Assessment",
+   "date": {
+    "iso": "1814-07-30",
+    "display": "July 30, 1814",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.52,
+    -123.24
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "40 Russians, 80 Aleuts, 12 guns (4-pounder), 3 falconets. Spanish troops: \"no shirts, no pants, no hats.\" The most damning comparison in the archive.",
+   "result": "Russians armed and supplied; Spanish naked",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "gabriel-moraga-military-campaigns.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "arguello-s-northern-expedition",
+   "register_no": null,
+   "name": "Argüello's Northern Expedition",
+   "date": {
+    "iso": "1821-10",
+    "display": "October 1821",
+    "confidence": "month"
+   },
+   "coords": [
+    38.07,
+    -122.22
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "55 men — one of the largest Spanish/Mexican expeditions in CA history. Two full days spent ferrying horses across Carquinez Strait with 4 assembled boats. A power that needs a weekend to cross a channel does not control the territory beyond it.",
+   "result": "Two days to cross the Strait — not an empire moving through its own territory",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Ordaz, Diario, 1821, MS. Bancroft II:444–446.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "colnett-s-argonaut-at-bodega",
+   "register_no": null,
+   "name": "Colnett's Argonaut at Bodega",
+   "date": {
+    "iso": "1790-07",
+    "display": "July 1790",
+    "confidence": "month"
+   },
+   "coords": [
+    38.325,
+    -123.055
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "British ship takes refuge during storm — cuts spars, makes repairs. Later misidentified by Spanish as active English threat. Ghost presence that haunted Spanish intelligence for years.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Wagner 1931:337–338.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "vancouver-s-1st-visit-to-san-francisco",
+   "register_no": null,
+   "name": "Vancouver's 1st Visit to San Francisco",
+   "date": {
+    "iso": "1792-11-14",
+    "display": "November 14, 1792",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.789,
+    -122.455
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "HMS Discovery and Chatham anchor at SF. Warm reception from Commandant Sal. Menzies walks to Fort Point — finds one cannon \"lash'd to a log of Wood.\" British see the weakness firsthand.",
+   "result": "British assess SF defenses — one burst cannon",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Menzies 1924:265; C-A 54 pp. 115–118.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "english-at-bodega-con-los-canones-en-tierra",
+   "register_no": null,
+   "name": "English at Bodega \"con los cañones en tierra\"",
+   "date": {
+    "iso": "1793",
+    "display": "March 15, 1793 (reported)",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.328,
+    -123.06
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "Arrillaga reports an English vessel anchored at Bodega with \"cannons on land.\" Identity uncertain — Colnett traces? New vessel? Rumor? Same year as Spanish Bodega failure.",
+   "result": "Foreign military presence in territory Spain cannot reach",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 14 pp. 93–94.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "menzies-lands-at-tomales-bay",
+   "register_no": null,
+   "name": "Menzies Lands at Tomales Bay",
+   "date": {
+    "iso": "1793-10-20",
+    "display": "October 20, 1793",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.225,
+    -122.935
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "Menzies lands from Vancouver's ship. Finds cross made from cask stave, horse tracks from Goycoechea's expedition. Coast Miwok calling \"Amico,\" speaking Spanish, pointing up lagoon repeating \"Spaniard.\" British find Spanish traces in territory Spain couldn't hold.",
+   "result": "British find evidence of failed Spanish expedition",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Menzies 1924:301–304.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "vancouver-s-2nd-visit-concealment-policy",
+   "register_no": null,
+   "name": "Vancouver's 2nd Visit — Concealment Policy",
+   "date": {
+    "iso": "1793-10-21",
+    "display": "October 21, 1793",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.793,
+    -122.45
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "Dramatic change from 1st visit. Armed guards, 2-mile limit, refused access to mission. But 8 new brass 4-pounders visible on beach, workers building battery. Spain scrambles to hide weakness and show strength simultaneously.",
+   "result": "Concealment policy — Spain hides its defenses from the one power that matters",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Menzies 1924:305–306; C-A 14 pp. 98–99.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "zuniga-shows-bodega-plans-to-british-no-concealm",
+   "register_no": null,
+   "name": "Zúñiga Shows Bodega Plans to British — No Concealment",
+   "date": {
+    "iso": "1793-11",
+    "display": "November 1793",
+    "confidence": "month"
+   },
+   "coords": [
+    32.72,
+    -117.17
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "San Diego commandant Zúñiga freely shows Bodega harbor plans to British officers. No concealment at all — contradicts the tight security at SF. The policy was inconsistent.",
+   "result": "Concealment policy fails at San Diego",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Menzies 1924:335.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "english-launches-at-santa-cruz",
+   "register_no": null,
+   "name": "English Launches at Santa Cruz",
+   "date": {
+    "iso": "1794-11-28",
+    "display": "November 28, 1794",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.978,
+    -122.03
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "English launches spotted off Santa Cruz coast, withdrew. Sgt. Pedro Amador sent as reinforcement. Soldier Mesa punished for misreporting.",
+   "result": "English probe — withdrew",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 7, n33, pp. 81–2.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "english-shipwreck-at-point-reyes-farallones",
+   "register_no": null,
+   "name": "English Shipwreck at Point Reyes / Farallones",
+   "date": {
+    "iso": "1797",
+    "display": "1797",
+    "confidence": "year"
+   },
+   "coords": [
+    38.07,
+    -122.96
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "Ship sinks near Farallones. Indigenous informants report two uniformed Englishmen at Point Reyes. English naval presence at the Bay entrance during wartime. The report comes through indigenous intelligence networks.",
+   "result": "English at the Bay entrance — indigenous networks provide the warning",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 8; ca8-prov-state-papers-xiv-xv-survey, Find #3.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "english-vessel-at-santa-cruz",
+   "register_no": null,
+   "name": "English Vessel at Santa Cruz",
+   "date": {
+    "iso": "1797",
+    "display": "1797",
+    "confidence": "year"
+   },
+   "coords": [
+    36.97,
+    -122.035
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "English ship arrives at Santa Cruz port, 60 miles from SF Bay. Vallejo coordinates with alcalde — no military officer available. Thin defense exposed.",
+   "result": "No military response possible",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 8; ca8-prov-state-papers-xiv-xv-survey, Find #4.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "english-corsair-campaign-gulf-of-california",
+   "register_no": null,
+   "name": "English Corsair Campaign — Gulf of California",
+   "date": {
+    "iso": "1799",
+    "display": "May–September 1799",
+    "confidence": "range"
+   },
+   "coords": [
+    28.0,
+    -111.0
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "4 English frigates (22–24 guns each) raided Gulf of California shipping. Ransomed ships, captured brigs. Governor Arrillaga: \"sin ningunos elementos de defensa.\" Maritime reinforcement route to California contested.",
+   "result": "English naval dominance — supply route threatened",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 14; english-corsair-campaign-1799.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "hms-raccoon-at-san-francisco",
+   "register_no": null,
+   "name": "HMS Raccoon at San Francisco",
+   "date": {
+    "iso": "1814-03",
+    "display": "March 1814",
+    "confidence": "month"
+   },
+   "coords": [
+    37.785,
+    -122.46
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "British warship from Columbia River. HMS Raccoon had seized Fort Astoria Dec 1813. Needed gunpowder. Crew deserting to Spanish protection as \"Roman Catholics.\" Written in English in the archive.",
+   "result": "British warship uses SF as supply port — War of 1812 reaches Pacific",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12; ca12-russian-california-documents.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "eliza-s-activo-at-bodega-spain-s-last-pacific-ex",
+   "register_no": null,
+   "name": "Eliza's Activo at Bodega — Spain's Last Pacific Exploration",
+   "date": {
+    "iso": "1793-08-09",
+    "display": "August 9, 1793",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.332,
+    -123.048
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "Eliza arrives in Activo after near-starvation NW Coast voyage. Spain's last Pacific exploration. The exhausted vessel barely makes it to Bodega — the empire's reach is collapsing.",
+   "result": "Last Spanish Pacific exploration — barely survived",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Wagner 1931; C-A 14.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "rezanov-arrives-on-juno",
+   "register_no": null,
+   "name": "Rezanov Arrives on Juno",
+   "date": {
+    "iso": "1806-04",
+    "display": "April 1806",
+    "confidence": "month"
+   },
+   "coords": [
+    37.787,
+    -122.462
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Nikolai Rezanov — Imperial Chamberlain, RAC shareholder, diplomat. Arrives at SF. Concepción Argüello courtship. Intelligence gathering on Spanish defenses. First Russian official at SF.",
+   "result": "Russia assesses Spanish California firsthand",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft II; Gibson & Istomin 2014.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "rac-fur-collecting-begins-at-bodega",
+   "register_no": null,
+   "name": "RAC Fur-Collecting Begins at Bodega",
+   "date": {
+    "iso": "1807",
+    "display": "1807–1810",
+    "confidence": "range"
+   },
+   "coords": [
+    38.338,
+    -123.042
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "130 Aleut hunters aboard Kodiak. First Russian representative: Tarakanov. 40+ Russians + 150 Indians by 1809 (Argüello report). Moraga protests — ignored.",
+   "result": "Permanent Russian presence established — Spain protests but cannot act",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Milliken 2009:22–25; C-A 12.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "130-bidarkas-in-san-francisco-bay",
+   "register_no": null,
+   "name": "130 Bidarkas in San Francisco Bay",
+   "date": {
+    "iso": "1811",
+    "display": "1811",
+    "confidence": "year"
+   },
+   "coords": [
+    37.78,
+    -122.44
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "130 Aleut bidarkas (kayaks) hunting sea otter inside San Francisco Bay. The Russians are inside Spain's premier port and Spain cannot stop them.",
+   "result": "Russian hunting inside the Bay — sovereignty violated",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12 (Prov. St. Pap. XIX).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "farallon-islands-russian-sealing-station",
+   "register_no": null,
+   "name": "Farallon Islands — Russian Sealing Station",
+   "date": {
+    "iso": "1812",
+    "display": "~1812–1840s",
+    "confidence": "range"
+   },
+   "coords": [
+    37.698,
+    -123.002
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Russian sealing station on the Farallones — 18 miles off the coast of San Francisco. Aleut hunters camped seasonally. Spain/Mexico never contested it.",
+   "result": "Russian territory visible from SF — unchallenged",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft II; Fort Ross sources.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "kotzebue-visits-on-rurik",
+   "register_no": null,
+   "name": "Kotzebue Visits on Rurik",
+   "date": {
+    "iso": "1816-10",
+    "display": "October 1816",
+    "confidence": "month"
+   },
+   "coords": [
+    37.795,
+    -122.448
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Otto von Kotzebue arrives at SF on scientific circumnavigation. Spain demands Ross abandonment. Diplomatic failure — Russia ignores the demand.",
+   "result": "Spanish diplomatic protest — Russia ignores it",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Gibson & Istomin, Doc 32.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "golovnin-on-kamchatka-at-sf",
+   "register_no": null,
+   "name": "Golovnin on Kamchatka at SF",
+   "date": {
+    "iso": "1818-09",
+    "display": "September 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    37.783,
+    -122.465
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Captain Golovnin arrives at SF on world circumnavigation aboard Kamchatka. Same season as Russian Kutuzov and American Ontario. Three-power naval convergence in one month.",
+   "result": "Three-power convergence: Russia + Russia + America in SF at once",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "ca25-tomo-ix-gap-read; Golovnin 1979.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "russian-kutuzov-at-sf",
+   "register_no": null,
+   "name": "Russian Kutuzov at SF",
+   "date": {
+    "iso": "1818-09",
+    "display": "September 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    37.791,
+    -122.442
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "RAC vessel Kutuzov at SF alongside Golovnin's warship and American Ontario. Spanish garrison watches foreign warships parade through their port.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "ca25-tomo-ix-gap-read.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "vasiliev-corvettes-at-sf",
+   "register_no": null,
+   "name": "Vasiliev Corvettes at SF",
+   "date": {
+    "iso": "1820-11",
+    "display": "November 1820",
+    "confidence": "month"
+   },
+   "coords": [
+    37.781,
+    -122.458
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Two Russian warships anchor at SF — sailing past the fortress that had 6 functional cannons and no grapeshot. Argüello follows orders to receive them \"cordially and hospitably.\"",
+   "result": "Russian warships pass indefensible fortress — received as guests",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 13; ca13-prov-state-papers-xx-documents, Doc. 10.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "hagemeister-treaty-with-kashaya-pomo",
+   "register_no": null,
+   "name": "Hagemeister Treaty with Kashaya Pomo",
+   "date": {
+    "iso": "1817",
+    "display": "1817",
+    "confidence": "year"
+   },
+   "coords": [
+    38.514,
+    -123.244
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Russia negotiates land cession with Kashaya Pomo chiefs — not Spanish authorities. \"Allies of Russia\" medals distributed 1819. Russians treat indigenous peoples as sovereign landowners because, north of the Bay, they are.",
+   "result": "Russia treats Pomo as sovereign — Spain does not exist here",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "hagemeister-pomo-treaty-1817; AVPRI documents.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "battle-of-punta-de-guijarros-lelia-byrd",
+   "register_no": null,
+   "name": "Battle of Punta de Guijarros — Lelia Byrd",
+   "date": {
+    "iso": "1803-03-21",
+    "display": "March 21, 1803",
+    "confidence": "exact"
+   },
+   "coords": [
+    32.673,
+    -117.243
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "american",
+   "summary": "First naval engagement between a Spanish battery and foreign vessel. American smuggling + armed rescue + artillery duel. Shaler's crew put pistols to Spanish guards' chests. Ship escaped under grapeshot fire. Spanish soldiers were complicit in the otter skin trade.",
+   "result": "First foreign attack on California — American smugglers",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 11; lelia-byrd-punta-guijarros-1803.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "american-frigate-at-sf-troop-crisis",
+   "register_no": null,
+   "name": "American Frigate at SF — Troop Crisis",
+   "date": {
+    "iso": "1804-01",
+    "display": "January 1804",
+    "confidence": "month"
+   },
+   "coords": [
+    37.775,
+    -122.47
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "american",
+   "summary": "Damaged American frigate anchors in SF port. Argüello forced to pull invalidos (retired soldiers) from San José to augment escorts. Chronic troop shortage: presidio can't staff itself when a foreign ship appears.",
+   "result": "One foreign ship exposes garrison collapse",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "PP 0389; pueblo-papers-project.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "uss-ontario-at-san-francisco",
+   "register_no": null,
+   "name": "USS Ontario at San Francisco",
+   "date": {
+    "iso": "1818-09",
+    "display": "September 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    37.779,
+    -122.455
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "american",
+   "summary": "American warship Ontario at SF — same month as Golovnin's Kamchatka and RAC Kutuzov. Three nations' vessels in the Bay simultaneously. Spain watches.",
+   "result": "American warship in the Bay",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "ca25-tomo-ix-gap-read.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "mercury-trial-capt-eyres",
+   "register_no": null,
+   "name": "Mercury Trial — Capt. Eyres",
+   "date": {
+    "iso": "1813",
+    "display": "1813",
+    "confidence": "year"
+   },
+   "coords": [
+    34.42,
+    -119.7
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "american",
+   "summary": "Boston captain, 8 years trading with Russians and NW Coast Indians. Testimony at Santa Barbara. American commercial penetration of the coast — trading network connecting Boston, Russian Alaska, and California.",
+   "result": "American-Russian commercial network exposed",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12, scan n360.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "anglo-american-vessel-blockades-guaymas",
+   "register_no": null,
+   "name": "Anglo-American Vessel Blockades Guaymas",
+   "date": {
+    "iso": "1818-01",
+    "display": "January 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    27.92,
+    -110.9
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "american",
+   "summary": "Brig \"Cesak,\" Captain \"Clarick,\" raised American flag, fired 3 cannon shots, blockaded Guaymas. American aggression on Pacific coast in same period as Bouchard.",
+   "result": "American naval aggression on Pacific coast",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 13; ca13-prov-state-papers-xx-documents, Doc. 13.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "bouchard-s-attack-on-monterey",
+   "register_no": null,
+   "name": "Bouchard's Attack on Monterey",
+   "date": {
+    "iso": "1818-11-20",
+    "display": "November 20–26, 1818",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.598,
+    -121.888
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "bouchard",
+   "summary": "Argentine privateer: Argentina (38 guns) + Santa Rosa (26 guns), ~285 crew. 400 men landed. Presidio burned. Only time a California capital fell to a foreign enemy. Solá retreated to Salinas with archives + 6,000 cartridges.",
+   "result": "MONTEREY FALLS — only foreign capture of a California capital",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "bouchard-raid-1818; Bancroft II:227–243.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "bouchard-at-refugio",
+   "register_no": null,
+   "name": "Bouchard at Refugio",
+   "date": {
+    "iso": "1818-12-04",
+    "display": "December 4–6, 1818",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.465,
+    -120.07
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "bouchard",
+   "summary": "Bouchard lands, plunders Ortega's rancho, kills cattle. 3 insurgents captured in ambush: Lt. William Taylor (Boston), Martin Romero (Paraguay), Mateo José Pascual.",
+   "result": "Ranch plundered; 3 captured by Spanish ambush",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "bouchard-raid-1818; Bancroft II:236–237.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "bouchard-at-santa-barbara-guerra-s-bluff",
+   "register_no": null,
+   "name": "Bouchard at Santa Barbara — Guerra's Bluff",
+   "date": {
+    "iso": "1818-12",
+    "display": "December 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    34.42,
+    -119.7
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "bouchard",
+   "summary": "Bouchard anchors. Guerra bluffs with marching troops trick — soldiers march around a hill repeatedly to look like a large army. Prisoner exchange. No fighting.",
+   "result": "Bluff succeeds — no attack",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "bouchard-raid-1818; Bancroft II:237–239.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "bouchard-at-san-juan-capistrano",
+   "register_no": null,
+   "name": "Bouchard at San Juan Capistrano",
+   "date": {
+    "iso": "1818-12",
+    "display": "December 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    33.502,
+    -117.663
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "bouchard",
+   "summary": "Bouchard lands. Minor damage — straw houses burned, wine spilled. 4 insurgent deserters surrender.",
+   "result": "Minor damage",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "bouchard-raid-1818; Bancroft II:240–241.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "la-perouse-at-monterey",
+   "register_no": null,
+   "name": "La Pérouse at Monterey",
+   "date": {
+    "iso": "1786-09",
+    "display": "September 1786",
+    "confidence": "month"
+   },
+   "coords": [
+    36.603,
+    -121.892
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "french",
+   "summary": "First foreign account of Spanish military capacity. Governor Fages tells La Pérouse \"North California has no northern boundary at all — it extends to Mount Saint Elias.\" Reality: 282 soldiers for 800+ leagues of coast, 25 missions, ~50,000 Indians, only 10,000 Christian. Continental claim vs. actual control — 7 years before Nootka.",
+   "result": "France sees through the fiction — 282 soldiers for 800 leagues",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "laperouse-voyage-round-world-1799.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "coast-miwok-intelligence-to-sal",
+   "register_no": null,
+   "name": "Coast Miwok Intelligence to Sal",
+   "date": {
+    "iso": "1792-10-08",
+    "display": "October 8, 1792",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.79,
+    -122.457
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Coast Miwok informant tells Commandant Sal two ships at Bodega — soldiers \"dressed like ours turned inside out.\" Earliest warning of foreign presence, 3 weeks before diplomatic intelligence through official channels.",
+   "result": "Indigenous networks faster than imperial intelligence",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 55, vi.67–68.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "coast-miwok-deceive-goycoechea",
+   "register_no": null,
+   "name": "Coast Miwok Deceive Goycoechea",
+   "date": {
+    "iso": "1793-08",
+    "display": "August 1793",
+    "confidence": "month"
+   },
+   "coords": [
+    38.1,
+    -122.85
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Coast Miwok tell Goycoechea the eastern shores are \"impassable\" — he takes the harder western route via Marin headlands. Later admitted he was \"deceived.\" Information control: indigenous peoples directing Spanish military movements.",
+   "result": "Indigenous information warfare — Spain deceived",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Wagner 1931:342–345.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "coast-miwok-calibrated-diplomacy-at-bodega",
+   "register_no": null,
+   "name": "Coast Miwok Calibrated Diplomacy at Bodega",
+   "date": {
+    "iso": "1793-08",
+    "display": "August 1793",
+    "confidence": "month"
+   },
+   "coords": [
+    38.335,
+    -123.05
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Coast Miwok \"prepared to give us battle\" — choose instead to present pinole and fruit. Not submission; calibrated response. They evaluated the Spanish party and chose diplomacy.",
+   "result": "Military capability held in reserve — diplomacy chosen",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Wagner 1931:342–345.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "coast-miwok-bilingual-intermediaries-at-tomales",
+   "register_no": null,
+   "name": "Coast Miwok Bilingual Intermediaries at Tomales",
+   "date": {
+    "iso": "1793-10-20",
+    "display": "October 20, 1793",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.228,
+    -122.933
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Coast Miwok calling \"Amico,\" speaking Spanish, pointing up lagoon repeating \"Spaniard.\" Bilingual intermediaries positioning between British and Spanish empires. They know both powers and broker between them.",
+   "result": "Trilingual positioning between empires",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Menzies 1924:302.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "guirmenes-intel-on-bodega-keep-this-indian-happy",
+   "register_no": null,
+   "name": "Guirmenes Intel on Bodega — \"Keep This Indian Happy\"",
+   "date": {
+    "iso": "1796",
+    "display": "1796",
+    "confidence": "year"
+   },
+   "coords": [
+    38.34,
+    -123.038
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Indigenous informant (Guirmenes) reports no foreign ship at Bodega for 2 years. Governor orders: \"previene se tenga á ese indio contento\" (keep this Indian happy). Indigenous surveillance network sustained across years — Spain depends on it.",
+   "result": "Spain pays for indigenous intelligence",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 24, n80, pp. 90–3.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "suisun-resist-moraga-at-carquinez",
+   "register_no": null,
+   "name": "Suisun Resist Moraga at Carquinez",
+   "date": {
+    "iso": "1810-05",
+    "display": "May 1810",
+    "confidence": "month"
+   },
+   "coords": [
+    38.068,
+    -122.22
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Suisun warriors fight Moraga at the Strait. Had killed 16 Christians over prior 3 years. This is a military frontier — Spain fights across it, does not govern beyond it.",
+   "result": "Indigenous military control of the Strait frontier",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "battle-of-suisun-1810-primary-sources.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "suispaques-evade-cabo-ortega",
+   "register_no": null,
+   "name": "Suispaques Evade Cabo Ortega",
+   "date": {
+    "iso": "1811",
+    "display": "1811",
+    "confidence": "year"
+   },
+   "coords": [
+    38.15,
+    -122.05
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Cabo Ortega dispatched to capture Suispaques/Guispaques — returned without success. Indigenous captain later offered to return fugitives himself — on his own terms.",
+   "result": "Indigenous autonomy — Spanish military cannot operate here",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 26; ca26-prov-rec-xi-xii-survey.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "chief-valli-ela-requests-russian-flag",
+   "register_no": null,
+   "name": "Chief Vallí-éla Requests Russian Flag",
+   "date": {
+    "iso": "1818-09",
+    "display": "September 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    38.337,
+    -123.045
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Chief Vallí-éla of Bodega Miwok requests Russian protection and asks Golovnin for a Russian flag. \"Very glad to have Russian neighbors.\" Three independent accounts (Golovnin, Matiushkin, Lütke). The indigenous chief chooses his empire.",
+   "result": "Indigenous imperial choice — requests Russian protection",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Golovnin 1979:165 via Farris 1998:6; AVPRI deep read lines 176–190.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "gualinela-s-armed-resistance-200-men",
+   "register_no": null,
+   "name": "Gualinela's Armed Resistance — 200 Men",
+   "date": {
+    "iso": "1833",
+    "display": "1833",
+    "confidence": "year"
+   },
+   "coords": [
+    38.342,
+    -123.04
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Chief Gualinela of Tiutume ranchería (Bodega), 43 people. 200 armed men — heathen + Christian neophytes from Mission San Rafael — band together to resist Mexican troops. Cross-mission alliance.",
+   "result": "Armed indigenous coalition — 40 years of continuity at Bodega",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Farris 1998:7 (Vallejo report).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "sal-s-boundary-letter-english-want-sf-bay-for-a",
+   "register_no": null,
+   "name": "Sal's Boundary Letter — \"English Want SF Bay for a Boundary\"",
+   "date": {
+    "iso": "1792-10",
+    "display": "October 1792",
+    "confidence": "month"
+   },
+   "coords": [
+    37.796,
+    -122.449
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Sal to Arrillaga: \"Segun sus opiniones, quieren los ingleses la boca de este puerto por línea divisoria.\" Also reports one burst cannon, two English frigates at Bodega. Intelligence from Bodega y Quadra at Nootka.",
+   "result": "THESIS-CRITICAL — the boundary claim stated explicitly",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 54, MS p. 119; bodega-failure-1793.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "sf-cannon-burst-sole-weapon-destroyed",
+   "register_no": null,
+   "name": "SF Cannon Burst — Sole Weapon Destroyed",
+   "date": {
+    "iso": "1792-09-30",
+    "display": "September 30, 1792",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.811,
+    -122.477
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Cannon exploded during saint's day firing. 10 pieces, fragments reached church 125 varas. Fired by Soldado Arriola. San Francisco's sole defensive weapon destroyed before the Nootka crisis peaked.",
+   "result": "One cannon, and it burst",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 55, MS pp. 65–68.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "arrillaga-presidios-are-indefensible-english-sai",
+   "register_no": null,
+   "name": "Arrillaga: \"Presidios Are Indefensible — English Said So\"",
+   "date": {
+    "iso": "1793",
+    "display": "1793",
+    "confidence": "year"
+   },
+   "coords": [
+    37.8,
+    -122.445
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "\"Los Presidios de Alta Cal. están indefensos, cuya circunstancia ha sido notada por los mismos ingleses... no pueden resistir contra una invasion.\" The governor's own admission to his viceroy.",
+   "result": "THESIS-CRITICAL — Spain admits its own weakness",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 14; ca14-prov-state-papers-xxi-xxii-survey, Find #1.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "arrillaga-tierra-incognita",
+   "register_no": null,
+   "name": "Arrillaga: \"Tierra Incognita\"",
+   "date": {
+    "iso": "1793-08",
+    "display": "August 1793",
+    "confidence": "month"
+   },
+   "coords": [
+    37.802,
+    -122.443
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "\"El grande rodeo y tierra incognita.\" Territory 45 miles north of SF is literally unknown to the Spanish governor after 24 years in California.",
+   "result": "THESIS-CRITICAL — Spain does not know its own territory",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "bodega-failure-1793; Prov. St. Pap., MS., xxi. 113.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "viceroy-orders-bodega-whether-or-not-english-are",
+   "register_no": null,
+   "name": "Viceroy Orders Bodega — \"Whether or Not English Are There\"",
+   "date": {
+    "iso": "1793",
+    "display": "1793",
+    "confidence": "year"
+   },
+   "coords": [
+    37.804,
+    -122.441
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Revilla Gigedo orders Bodega occupied. Full fortification plan for Bodega + SF + Monterey + SD. Never executed. Supplies eventually repurposed (June 10, 1794).",
+   "result": "Order given — never carried out",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 22, ii.144–148; bodega-failure-1793.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "fiscal-fortifications-would-not-prevent-a-landin",
+   "register_no": null,
+   "name": "Fiscal: \"Fortifications Would Not Prevent a Landing\"",
+   "date": {
+    "iso": "1797",
+    "display": "1797",
+    "confidence": "year"
+   },
+   "coords": [
+    36.605,
+    -121.885
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Crown fiscal officer declares defense should be naval; land fortifications useless. Devastating assessment from within the imperial bureaucracy itself.",
+   "result": "Spain's own bureaucracy declares California indefensible",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 8; ca8-prov-state-papers-xiv-xv-survey, Find #5.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "yerba-buena-battery-abandoned",
+   "register_no": null,
+   "name": "Yerba Buena Battery Abandoned",
+   "date": {
+    "iso": "1800",
+    "display": "1800",
+    "confidence": "year"
+   },
+   "coords": [
+    37.808,
+    -122.407
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Argüello reports Yerba Buena Battery unmanned — only a daily visit by the vigía. SF garrison: 1 cabo, 4 artilleros, 3 cabos, 10 soldados. Barely sufficient for Presidio + fort. The key battery controlling the narrows has no one in it.",
+   "result": "Key battery unmanned — \"imaginary\" defense",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 11; ca11-prov-state-papers-xviii-survey.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "pedro-de-nava-isolation-was-deliberate-policy",
+   "register_no": null,
+   "name": "Pedro de Nava: Isolation Was Deliberate Policy",
+   "date": {
+    "iso": "1800",
+    "display": "1800",
+    "confidence": "year"
+   },
+   "coords": [
+    37.798,
+    -122.447
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Comandante General of the Provincias Internas explicitly rejects overland California–New Mexico road. Cites 1786 prohibition. California's territories \"useless.\" Indigenous nations form impassable barrier. The only route is the Sea of Cortez.",
+   "result": "THESIS-CRITICAL — isolation was policy, not accident",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 11, orig. pp. 101–3; ca11-prov-state-papers-xviii-survey.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "fortress-san-joaquin-in-collapse",
+   "register_no": null,
+   "name": "Fortress San Joaquín in Collapse",
+   "date": {
+    "iso": "1820",
+    "display": "1820",
+    "confidence": "year"
+   },
+   "coords": [
+    37.814,
+    -122.475
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Only 8 cannons (2 non-functional), no grapeshot, no forge, no hot-shot furnace, wadding falling apart, cartridges irreplaceable. Two years after Bouchard proved the vulnerability — still not repaired.",
+   "result": "The fortress is a ruin",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 13; ca13-prov-state-papers-xx-documents, Doc. 7.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "sola-to-viceroy-san-rafael-russian-threat",
+   "register_no": null,
+   "name": "Solá to Viceroy: San Rafael + Russian Threat",
+   "date": {
+    "iso": "1818-04",
+    "display": "April 1818",
+    "confidence": "month"
+   },
+   "coords": [
+    37.975,
+    -122.53
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "intel",
+   "summary": "Same letter contains Mission San Rafael founding AND Russian threat warning. Dual purpose: health + strategic. Proves mission expansion was explicitly about territorial defense against Russia.",
+   "result": "Missions as counter-Russian strategy",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "sola-to-viceroy-april-1818.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "the-1793-bodega-occupation-attempt-matute-aranza",
+   "register_no": null,
+   "name": "The 1793 Bodega Occupation Attempt — Matute / Aránzazu",
+   "date": {
+    "iso": "1793",
+    "display": "1793",
+    "confidence": "year"
+   },
+   "coords": [
+    38.335,
+    -123.048
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "The occupation the whole story turns on. On the Viceroy's order to \"reconocer y ocupar dicho Puerto, quitando á extranjeros ese abrigo inmediato á los Presidios,\" an expedition under Lt. Juan Bautista Matute aboard the Aránzazu was to plant a Spanish establishment at Bodega. Matute reported he \"no verificaría aquel año el establecimiento\" — the attempt collapsed for want of imperial capacity, not suitable ground.",
+   "result": "The establishment that did not happen — Spain's claim north of SF never occupied",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 55 Doc 335 (Matute/Aránzazu); occupation order C-A 6 Doc 192 (Revillagigedo, 6 Jul 1793) & C-A 15 Doc 515 (Arrillaga, 16 Jul 1793).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "bodega-establishment-abandoned",
+   "register_no": null,
+   "name": "Bodega Establishment Abandoned",
+   "date": {
+    "iso": "1794-07-25",
+    "display": "July 25, 1794",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.318,
+    -123.038
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanMil",
+   "summary": "Sal reports that \"no se efectuará el establecimiento del puerto de Bodega,\" and that the articles destined for Bodega have been reassigned to the San Francisco presidio. The closing bracket on the 1793 order-and-attempt.",
+   "result": "The Bodega plan formally dead — supplies redirected to SF",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 15 Doc 520 (Sal → Arrillaga, 25 Jul 1794).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "wilcocks-calls-at-russian-bodega-and-the-annexat",
+   "register_no": null,
+   "name": "Wilcocks Calls at Russian Bodega — and the Annexation Plot",
+   "date": {
+    "iso": "1816-10-25",
+    "display": "October 25, 1816",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.308,
+    -123.055
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "american",
+   "summary": "The American trader James Smith Wilcocks calls at \"un establecimiento ruso llamado Bodega\" — \"los rusos no quisieron comprar nada\" — then sells Gov. Solá $700 of blankets for the four presidios. In 1817 he is accused of plotting to \"levantarme con las Californias para integrarlas a los anglo-americanos\" — the earliest dated articulation of the U.S.-annexation fear the open coast invited.",
+   "result": "Bodega as a (failed) commercial port in the US–Russian–Spanish triangle",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 13 Doc 19 (Wilcocks affair, 1816–18).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "elliot-de-castro-ilmena-seized-at-refugio",
+   "register_no": null,
+   "name": "Elliot de Castro / Ilmena Seized at Refugio",
+   "date": {
+    "iso": "1815",
+    "display": "September–October 1815",
+    "confidence": "range"
+   },
+   "coords": [
+    34.47,
+    -120.07
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "The Russian brig Ilmena's shore party — John Elliot de Castro, an American, an Aleut and others — is seized at Ortega's Refugio rancho, the coast's otter-smuggling rendezvous. A $2,000 ransom is offered and refused. Spain/Mexico can catch the people but not stop the trade.",
+   "result": "The Mexican-era sequel — Refugio as a second Bodega-style keyhole",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12 C475 + C427 (1815).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "rac-parlamentario-podushkin-on-the-chirikoff-at",
+   "register_no": null,
+   "name": "RAC Parlamentario — Podushkin on the Chirikoff at Monterey",
+   "date": {
+    "iso": "1817",
+    "display": "1817",
+    "confidence": "year"
+   },
+   "coords": [
+    36.605,
+    -121.895
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Baranov, from Novo-Arkhangelsk, protests the \"insults to the Russian Flag and the capture and keeping in cruel bondage of Russians… in the waters and the coasts of California,\" invokes the 1812 treaty, and sends Lt. Podushkin as a parlamentario aboard the Chirikoff to Monterey. Russia negotiating as a commercial sovereign on Spain's claimed coast.",
+   "result": "Russia treats with Spain as an equal power on the California coast",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 13 Doc 20 (Baranov / Podushkin, 1817).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "kuskov-s-rac-letters-to-the-sf-commandant",
+   "register_no": null,
+   "name": "Kuskov's RAC Letters to the SF Commandant",
+   "date": {
+    "iso": "1814-06",
+    "display": "June 1814",
+    "confidence": "month"
+   },
+   "coords": [
+    38.514,
+    -123.24
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "Ivan Kuskov, RAC commercial councillor at Ross, writes directly to the SF commandant \"in the name of the Honorable Russian-American Company under special protection of His Majesty the Emperor of all the Russias,\" sending agent Slobodchikov to settle accounts and pressing for the return of captured Kodiak Aleuts.",
+   "result": "Ross corresponds with SF as one sovereign to another",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12 C431 / C433 (Jun 1814).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "spanish-missions-supply-kuskov-at-fort-ross",
+   "register_no": null,
+   "name": "Spanish Missions Supply Kuskov at Fort Ross",
+   "date": {
+    "iso": "1816",
+    "display": "1816",
+    "confidence": "year"
+   },
+   "coords": [
+    38.51,
+    -123.248
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "The Spanish missions supplying Kuskov's Russian colony — Spain's own establishments provisioning the foreign outpost on the ground it claimed. The open coast as routine economic fact, running in Spain's disfavor.",
+   "result": "Spain provisions the colony it was ordered to uproot",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 55 Doc 243 (1816).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "fort-ross-abandonment-resolved",
+   "register_no": null,
+   "name": "Fort Ross Abandonment Resolved",
+   "date": {
+    "iso": "1841",
+    "display": "1841",
+    "confidence": "year"
+   },
+   "coords": [
+    38.516,
+    -123.238
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "The RAC Main Board resolves to abandon Ross and \"sell or barter for wheat to the inhabitants of San Francisco.\" The otter gone, Ross is liquidated — the economic close of the arc that opened with the resource.",
+   "result": "Russia leaves — Ross sold to Sutter, a promoter of the US invasion",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Fort Ross AVPRI, 1841 abandonment resolution (via Gibson & Istomin).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "yanovsky-s-rac-trade-overture",
+   "register_no": null,
+   "name": "Yanovsky's RAC Trade Overture",
+   "date": {
+    "iso": "1820",
+    "display": "ca. 1820",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.508,
+    -123.244
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "RAC chief manager Semyon Yanovsky proposes a joint, equal-shares otter-hunt and open commerce (via Khlebnikov and the Madrid embassy; the Ilmena to supply Ross). Solá replies he cannot grant otter-hunting — only the Viceroy can. The third volume of one continuous Russo-Spanish negotiation.",
+   "result": "Russia again negotiates as a commercial sovereign — Spain defers to Mexico City",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 55 Docs 323–324 (Yanovsky / Solá, ~1820).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "the-suvorov-at-sf-the-rac-proclamation-to-califo",
+   "register_no": null,
+   "name": "The Suvorov at SF + the RAC Proclamation to California",
+   "date": {
+    "iso": "1815",
+    "display": "August 1815 (proclamation dated 1811)",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.796,
+    -122.402
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "summary": "The RAC ship Suvorov (Lazarev) calls at San Francisco carrying a formal RAC directors' overture \"to the noble and honoured Spanish inhabitants of California,\" invoking Russo-Spanish friendship, the 1812 treaty, and Rezanov's 1806 visit — the institutional Russian demand for the California provision trade, arriving by ship.",
+   "result": "The RAC's formal trade-opening request, delivered to SF",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 12 C478 + C479 (Suvorov 1815; passport-proclamation St. Petersburg, 12 Jul 1811).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "british-squadron-sounds-san-diego-harbor",
+   "register_no": null,
+   "name": "British Squadron Sounds San Diego Harbor",
+   "date": {
+    "iso": "1799",
+    "display": "1799 (sounding c.1797)",
+    "confidence": "circa"
+   },
+   "coords": [
+    32.69,
+    -117.235
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "british",
+   "summary": "A sworn 1799 deposition: a British naval squadron awaiting the Manila galleon, with 22 Peru prizes, states a plan to winter at San Diego — whose harbour they had already secretly sounded c.1797, \"entered in their boats one moonlit night, sounded the whole harbour,\" \"instruidos por los planos de Nutka.\" The open coast as an actual reconnaissance ground.",
+   "result": "San Diego's harbor already mapped by the enemy — the threat the 1793 order feared",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 15 Doc 392 (Loreto deposition, 28 Jun 1799).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "ref-presidio-of-san-francisco",
+   "register_no": null,
+   "name": "Presidio of San Francisco",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.7862,
+    -122.4572
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "spanSet",
+   "summary": "1776. Northernmost military post. $1,400 total investment by 1793. Garrison: ~35 men.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-fort-san-joaquin-castillo-de-sf",
+   "register_no": null,
+   "name": "Fort San Joaquín (Castillo de SF)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.8107,
+    -122.477
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "spanSet",
+   "summary": "1794. Battery guarding the Golden Gate narrows. 1 cannon (burst 1792), 8 by 1793, 6 functional by 1820. Unmanned by 1800.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-presidio-of-monterey",
+   "register_no": null,
+   "name": "Presidio of Monterey",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    36.6002,
+    -121.8947
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "spanSet",
+   "summary": "1770. Capital of Alta California. Burned by Bouchard 1818.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-presidio-of-santa-barbara",
+   "register_no": null,
+   "name": "Presidio of Santa Bárbara",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    34.3933,
+    -119.6946
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "spanSet",
+   "summary": "1782.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-presidio-of-san-diego",
+   "register_no": null,
+   "name": "Presidio of San Diego",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    32.6734,
+    -117.2428
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "spanSet",
+   "summary": "1769. First presidio. Punta de Guijarros battery.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-mission-san-francisco-de-asis-dolores",
+   "register_no": null,
+   "name": "Mission San Francisco de Asís (Dolores)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.765,
+    -122.427
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "spanSet",
+   "summary": "1776.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-mission-santa-clara",
+   "register_no": null,
+   "name": "Mission Santa Clara",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.3544,
+    -121.9692
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "spanSet",
+   "summary": "1777.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-mission-san-jose",
+   "register_no": null,
+   "name": "Mission San José",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.5293,
+    -121.9178
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "spanSet",
+   "summary": "1797. Staging base for Central Valley expeditions.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-mission-san-rafael",
+   "register_no": null,
+   "name": "Mission San Rafael",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.9735,
+    -122.5311
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "spanSet",
+   "summary": "1817. Anti-Russian buffer. 83 days after Hagemeister treaty. Founded without a boat.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-mission-san-francisco-solano-sonoma",
+   "register_no": null,
+   "name": "Mission San Francisco Solano (Sonoma)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.294,
+    -122.458
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "spanSet",
+   "summary": "1823. Northernmost mission. Altimira: \"you will all be Russians.\"",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-pueblo-de-san-jose",
+   "register_no": null,
+   "name": "Pueblo de San José",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.3382,
+    -121.8863
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "spanSet",
+   "summary": "1777. First civilian settlement in Alta California.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-villa-de-branciforte-santa-cruz",
+   "register_no": null,
+   "name": "Villa de Branciforte (Santa Cruz)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    36.9741,
+    -122.027
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "spanSet",
+   "summary": "1797. Third and last pueblo. Named for Viceroy Branciforte. Planned as strategic settlement near Santa Cruz mission.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-santa-eulalia-cordelia",
+   "register_no": null,
+   "name": "Santa Eulalia (Cordelia)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.23,
+    -122.12
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "spanSet",
+   "summary": "~1824. Mission Solano farming outpost — house for padre, corral, neophyte in charge. Suisun Valley.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-port-rumiantsev-bodega-bay",
+   "register_no": null,
+   "name": "Port Rumiantsev (Bodega Bay)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.333,
+    -123.048
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "rusSet",
+   "summary": "~1807. RAC fur-collecting base. First representative: Tarakanov. Permanent.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-fort-ross-metini",
+   "register_no": null,
+   "name": "Fort Ross (Metini)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.5145,
+    -123.245
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "rusSet",
+   "summary": "1812. Ivan Kuskov. 95 Russians, ~80 Aleut. 12 guns, 3 falconets. No Spanish opposition.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-farallon-islands-sealing-station",
+   "register_no": null,
+   "name": "Farallon Islands Sealing Station",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.698,
+    -123.002
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "rusSet",
+   "summary": "~1812. 18 mi off SF coast. Seasonal Aleut camps. Unchallenged.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-kostromitinov-ranch",
+   "register_no": null,
+   "name": "Kostromitinov Ranch",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.46,
+    -122.92
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "rusSet",
+   "summary": "1833. Russian River near Willow Creek. ~100 acres wheat by 1841.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-khlebnikov-ranch",
+   "register_no": null,
+   "name": "Khlebnikov Ranch",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.34,
+    -122.97
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "rusSet",
+   "summary": "1833. Upper Salmon Creek valley, ~5 mi E of Bodega. Largest ranch — bakery, forge, tobacco shed.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ref-chernykh-ranch",
+   "register_no": null,
+   "name": "Chernykh Ranch",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.41,
+    -122.87
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "rusSet",
+   "summary": "~1833. Near Graton (Purrington Creek). First vineyard in Sonoma County.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-san-francisco",
+   "register_no": null,
+   "name": "San Francisco",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.7749,
+    -122.4194
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-bodega-bay",
+   "register_no": null,
+   "name": "Bodega Bay",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.31,
+    -122.98
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-fort-ross",
+   "register_no": null,
+   "name": "Fort Ross",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.5133,
+    -123.2442
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-carquinez-strait",
+   "register_no": null,
+   "name": "Carquinez Strait",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.04,
+    -122.153
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-monterey",
+   "register_no": null,
+   "name": "Monterey",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    36.6002,
+    -121.8947
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-san-diego",
+   "register_no": null,
+   "name": "San Diego",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    32.7157,
+    -117.1611
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-santa-barbara",
+   "register_no": null,
+   "name": "Santa Barbara",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    34.4208,
+    -119.6982
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-santa-cruz",
+   "register_no": null,
+   "name": "Santa Cruz",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    36.9741,
+    -122.0308
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-san-jose",
+   "register_no": null,
+   "name": "San José",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.3382,
+    -121.8863
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-sonoma",
+   "register_no": null,
+   "name": "Sonoma",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.294,
+    -122.458
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-petaluma",
+   "register_no": null,
+   "name": "Petaluma",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.24,
+    -122.64
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-san-rafael",
+   "register_no": null,
+   "name": "San Rafael",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.92,
+    -122.52
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-tomales-bay",
+   "register_no": null,
+   "name": "Tomales Bay",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.23,
+    -122.93
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-bolinas",
+   "register_no": null,
+   "name": "Bolinas",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.91,
+    -122.69
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-point-reyes",
+   "register_no": null,
+   "name": "Point Reyes",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.07,
+    -122.96
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-golden-gate",
+   "register_no": null,
+   "name": "Golden Gate",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.807,
+    -122.475
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-sacramento",
+   "register_no": null,
+   "name": "Sacramento",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.5816,
+    -121.4944
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-refugio",
+   "register_no": null,
+   "name": "Refugio",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    34.47,
+    -120.07
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "label-san-juan-capistrano",
+   "register_no": null,
+   "name": "San Juan Capistrano",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    33.5,
+    -117.66
+   ],
+   "coord_precision": "exact",
+   "type": "settlement",
+   "layer": "modern",
+   "summary": "",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": ""
+  }
+ ]
+}

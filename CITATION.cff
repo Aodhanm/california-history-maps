@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these maps or their data, please cite them as below."
+type: dataset
+title: "California History Maps: Interactive Cartography of Spanish and Mexican California"
+authors:
+  - family-names: Coyne
+    given-names: Aodhan
+    orcid: "https://orcid.org/0009-0002-8630-3768"
+version: 2.0.0
+date-released: 2026-07-14
+url: "https://aodhanm.github.io/california-history-maps/"
+repository-code: "https://github.com/Aodhanm/california-history-maps"
+license: CC-BY-4.0
+abstract: >-
+  Interactive, source-cited maps of Spanish and Mexican California (1769-1848):
+  military engagements, expeditions, and the imperial frontier, keyed to the
+  manuscript record of the Archives of California (BANC MSS C-A, the Savage
+  transcripts) and the printed primary and secondary literature. The plotted,
+  verified synthesis is the citable object; base tiles and the underlying
+  public-domain sources belong to their institutions.
+keywords:
+  - California history
+  - Spanish California
+  - Mexican California
+  - historical GIS
+  - digital history

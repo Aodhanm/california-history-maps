@@ -26,10 +26,15 @@ for path in sorted(glob.glob(os.path.join(ROOT, "data", "*.json"))):
     ids = set()
     layers = {l["id"] for l in data.get("layers", [])}
     feats = list(data.get("features", []))
+    route_sourced = set()  # stops inherit their route's citation
     for r in data.get("routes", []):
         feats.extend(r.get("stops", []))
         if r.get("layer") and r["layer"] not in layers:
             err(f"{name}: route {r.get('id')} references unknown layer {r['layer']}")
+        if not r.get("citation"):
+            err(f"{name}: route {r.get('id')} has no citation")
+        else:
+            route_sourced.update(s.get("id") for s in r.get("stops", []))
     n_src = 0
     for f in feats:
         fid = f.get("id")
@@ -51,7 +56,7 @@ for path in sorted(glob.glob(os.path.join(ROOT, "data", "*.json"))):
         if f.get("layer") and f["layer"] not in layers:
             err(f"{name}: {fid} references unknown layer {f['layer']}")
         is_ref = "reference" in (f.get("tags") or [])
-        if not is_ref and not f.get("sources"):
+        if not is_ref and not f.get("sources") and fid not in route_sourced:
             err(f"{name}: {fid} has no sources")
         if f.get("sources"):
             n_src += 1

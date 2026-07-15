@@ -3,147 +3,168 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>California History Maps</title>
-<style>
-  :root { --ink:#2b2119; --paper:#f5efe3; --accent:#7a4a25; }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: Georgia, "Times New Roman", serif;
-    color: #2b2119;
-    background: #f5efe3;
-    line-height: 1.6;
-  }
-  header {
-    padding: 3rem 1.5rem 2.25rem;
-    text-align: center;
-    background: #2b2119;
-    color: #f5efe3;
-    border-bottom: 4px solid #7a4a25;
-  }
-  header h1 { margin: 0 0 .5rem; font-size: 2rem; letter-spacing: .01em; }
-  header p { margin: 0 auto; max-width: 640px; color: #d8c9b0; font-style: italic; }
-  main { max-width: 940px; margin: 0 auto; padding: 2.25rem 1.25rem 3rem; }
-  .lede { font-size: 1.02rem; margin: 0 0 2rem; color: #3a2e22; }
-  .grid { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
-  a.card {
-    display: flex; flex-direction: column;
-    text-decoration: none; color: inherit;
-    background: #fffdf8;
-    border: 1px solid #d8c9b0;
-    border-radius: 6px;
-    padding: 1.3rem 1.4rem;
-    transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
-  }
-  a.card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 18px rgba(43,33,25,.15);
-    border-color: #7a4a25;
-  }
-  a.card h2 { margin: 0 0 .35rem; font-size: 1.18rem; color: #7a4a25; }
-  a.card .years { font-size: .8rem; color: #8a7a63; letter-spacing: .05em; text-transform: uppercase; }
-  a.card p { margin: .6rem 0 .35rem; font-size: .95rem; }
-  a.card .src { margin: .35rem 0 .6rem; font-size: .82rem; color: #6a5c48; font-style: italic; }
-  .tags { margin-top: auto; display: flex; flex-wrap: wrap; gap: .35rem; }
-  .tags span {
-    font-size: .72rem; letter-spacing: .02em;
-    background: #efe6d4; color: #6a5c48;
-    border: 1px solid #ddd0b8; border-radius: 3px;
-    padding: .12rem .45rem;
-  }
-  .about {
-    margin-top: 2.75rem; padding: 1.75rem;
-    background: #fffdf8; border: 1px solid #d8c9b0; border-radius: 6px;
-  }
-  .about h2 { margin: 0 0 .75rem; color: #7a4a25; font-size: 1.25rem; }
-  .about h3 { margin: 1.1rem 0 .35rem; font-size: 1rem; }
-  .about p { margin: .4rem 0; font-size: .93rem; }
-  .about ul { margin: .35rem 0; padding-left: 1.2rem; font-size: .93rem; }
-  footer { text-align: center; padding: 2rem 1rem; color: #8a7a63; font-size: .85rem; }
-  footer a, .about a { color: #7a4a25; }
-</style>
+<title>California History Maps — Interactive Cartography of Spanish and Mexican California</title>
+<meta name="description" content="Interactive, source-cited maps of Spanish and Mexican California (1769–1848): military engagements, expeditions, and the imperial frontier, keyed to the manuscript record.">
+<meta property="og:title" content="California History Maps">
+<meta property="og:description" content="Interactive, source-cited maps of Spanish and Mexican California — every pin keyed to the archival record.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/site.css">
 </head>
 <body>
-<header>
-  <h1>California History Maps</h1>
-  <p>Interactive maps of Spanish- and Mexican-era California expeditions and frontier geography, reconstructed from primary archival sources and secondary scholarship</p>
+<header class="site-header">
+  <a class="brand" href="index.html">California History Maps</a>
+  <nav aria-label="Site">
+    <a href="index.html" aria-current="page">Maps</a>
+    <a href="gallery/index.html">Gallery</a>
+    <a href="#about">About</a>
+    <a href="#data">Data</a>
+  </nav>
 </header>
-<main>
-  <p class="lede">Four interactive maps drawn from an ongoing research project on colonial California (1769&ndash;1846). Routes, engagements, and settlements are plotted from expedition diaries, the <em>Archives of California</em> (BANC MSS C&ndash;A), and the standard scholarship; most markers carry primary-source detail in their pop-ups. Click any map to explore.</p>
 
-  <div class="grid">
+<main class="landing">
+  <section class="hero">
+    <h1>Interactive Cartography of Spanish and Mexican California</h1>
+    <p class="lede">Maps of the expeditions, engagements, and imperial contests of California
+    between 1769 and 1848, reconstructed point-by-point from the archival record — above all the
+    <em>Archives of California</em> (BANC MSS C–A), the Savage transcript copies that are the sole
+    surviving record of the province's government archive after 1906. Every pin carries its source;
+    uncertain locations are drawn so you can see the uncertainty.</p>
+    <div class="stats" id="stats" aria-label="Collection statistics">
+      <div class="stat"><b id="stat-maps">–</b><span>interactive maps</span></div>
+      <div class="stat"><b id="stat-features">–</b><span>plotted &amp; cited features</span></div>
+      <div class="stat"><b id="stat-engagements">–</b><span>military engagements</span></div>
+      <div class="stat"><b>1769–1848</b><span>coverage</span></div>
+    </div>
+  </section>
 
-    <a class="card" href="zalvidea-moraga-1806.html">
-      <div class="years">1806&ndash;1807</div>
-      <h2>Expeditions of Zalvidea &amp; Moraga</h2>
-      <p>Two interior routes on one map &mdash; Zalvidea (Santa Ynez &rarr; Cuyama &rarr; Kern &rarr; San Gabriel) and Moraga (San Juan Bautista &rarr; Pacheco Pass &rarr; Cosumnes &rarr; Kern &rarr; San Fernando). 52 numbered campsites and 17 named Indigenous villages, with togglable route legs.</p>
-      <div class="src">Source: S. F. Cook, <em>Colonial Expeditions to the Interior of California</em>, Ch. III; diaries of Fr. Pedro Mu&ntilde;oz &amp; Fr. Jos&eacute; Mar&iacute;a de Zalvidea.</div>
-      <div class="tags"><span>2 routes</span><span>52 stops</span><span>17 villages</span></div>
+  <div class="card-grid" id="map-cards">
+    <a class="card" href="maps/military-engagements.html">
+      <div class="thumb" style="background:linear-gradient(135deg,#7a2e2e33,#efe8db)"></div>
+      <div class="body">
+        <h3>Military Engagements, 1769–1848</h3>
+        <p class="meta" data-count="military-engagements">Battles · raids · revolts · standoffs</p>
+        <p>Every documented engagement from the project's military register — treating Indigenous
+        combatants as military actors, with campaign layers, a timeline, and register-keyed citations.</p>
+      </div>
     </a>
-
-    <a class="card" href="moraga-expeditions-master.html">
-      <div class="years">1806&ndash;1817</div>
-      <h2>Gabriel Moraga &mdash; All Expeditions</h2>
-      <p>A master map of Gabriel Moraga's known expeditions into the Central Valley and Delta across a decade of Spanish reconnaissance &mdash; the 1806 expedition (Mu&ntilde;oz diary, 43 days), the sparsely recorded 1807, and the later 1810&ndash;1818 trips.</p>
-      <div class="src">Route reconstructions from Cook, Bancroft, and Langelier &amp; Rosen.</div>
-      <div class="tags"><span>Central Valley</span><span>Delta</span><span>1806&ndash;1818</span></div>
+    <a class="card" href="maps/borderlands-frontier.html">
+      <div class="thumb" style="background:linear-gradient(135deg,#275d7a33,#efe8db)"></div>
+      <div class="body">
+        <h3>The Bay Area Imperial Frontier, 1775–1841</h3>
+        <p class="meta" data-count="borderlands-frontier">Four empires · Fort Ross · Indigenous agency</p>
+        <p>San Francisco Bay as a contested borderland: Spanish defense and decay, Russian hunting
+        and settlement, British and American probing — and the Native peoples who navigated all of them.</p>
+      </div>
     </a>
-
-    <a class="card" href="california-military-battles.html">
-      <div class="years">1769&ndash;1840</div>
-      <h2>Military Engagements of California</h2>
-      <p>Armed engagements across the Spanish and Mexican periods, plotted from the archival military record &mdash; treating Indigenous combatants as military actors. Togglable campaign layers; pop-ups carry primary-source citations.</p>
-      <div class="src">Eight campaign layers &mdash; San Diego &amp; Coastal (1769&ndash;90) &middot; Yuma &amp; Colorado R. (1781&ndash;1820) &middot; Bay Area Resistance (1790&ndash;1805) &middot; Moraga Interior (1806&ndash;10) &middot; Later Interior (1811&ndash;20) &middot; Maritime &amp; Foreign Defense &middot; Military Infrastructure &middot; Mexican Period (1821&ndash;40) &mdash; plus engagement-type filters.</div>
-      <div class="tags"><span>8 campaign layers</span><span>cited pop-ups</span></div>
+    <a class="card" href="maps/moraga-expeditions.html">
+      <div class="thumb" style="background:linear-gradient(135deg,#2e5a4b33,#efe8db)"></div>
+      <div class="body">
+        <h3>Gabriel Moraga's Expeditions, 1806–1817</h3>
+        <p class="meta" data-count="moraga-expeditions">8 routes · reconstructed from the diaries</p>
+        <p>A decade of interior and northern reconnaissance on one map — the 1806–07 valley probes,
+        the 1810 Suisun and Bodega operations, and the Ross missions of 1812–13.</p>
+      </div>
     </a>
-
-    <a class="card" href="borderlands-imperial-frontier.html">
-      <div class="years">1775&ndash;1841</div>
-      <h2>Bay Area Borderlands</h2>
-      <p>San Francisco Bay as an imperial frontier: the overlapping Spanish, Russian, British, and American presence from the founding of the presidio to the twilight of Mexican rule. Togglable imperial layers.</p>
-      <div class="src">Eight imperial/thematic layers &mdash; Spanish military &middot; British naval &amp; military &middot; Russian naval &amp; hunting &middot; American encounters &middot; Bouchard Raid (1818) &middot; French &middot; Indigenous Agency &middot; Intelligence &amp; Defense Decay &mdash; over Spanish/Mexican &amp; Russian (Fort Ross) settlement layers.</div>
-      <div class="tags"><span>4 empires</span><span>8 layers</span></div>
+    <a class="card" href="maps/zalvidea-moraga-1806.html">
+      <div class="thumb" style="background:linear-gradient(135deg,#b7791f33,#efe8db)"></div>
+      <div class="body">
+        <h3>The 1806 Interior Expeditions</h3>
+        <p class="meta" data-count="zalvidea-moraga-1806">2 expeditions · 52 stops · 17 villages</p>
+        <p>Zalvidea and Moraga's 1806 probes into the Central Valley, camp by camp from the Muñoz
+        and Zalvidea diaries, with the Native villages they passed through as Cook identified them.</p>
+      </div>
     </a>
-
   </div>
 
-  <section class="about">
-    <h2>About &amp; Sources</h2>
-    <p>These maps accompany a long-running research project on Spanish- and Mexican-era California &mdash; the presidios, missions, and pueblos of the northern frontier of New Spain and, after 1821, of Mexican California. They are built to make the geography of the archival record legible: where expeditions actually went, which Indigenous communities they passed through, and how competing empires pressed on San Francisco Bay.</p>
+  <section id="about">
+    <h2>About &amp; Method</h2>
+    <div class="prose">
+      <p>These maps accompany a research project on Spanish- and Mexican-era California. They exist
+      to make the geography of the archival record legible: where expeditions actually went, which
+      Indigenous communities they passed through, and how competing empires pressed on the province.</p>
+      <p><strong>Method.</strong> Routes are reconstructed stop-by-stop from expedition diaries and
+      S.&nbsp;F. Cook's route studies; engagements are plotted from a maintained register compiled out
+      of the C–A transcripts, Bancroft, and printed primary collections, and each map pin is verified
+      against that register before plotting. Coordinates are best-available reconstructions, not
+      surveyed points: solid markers sit at known places, translucent dashed markers are approximate
+      within their district, and hollow markers are conjectural. Dashed route lines mean the party
+      passed <em>roughly</em> this way. A small number of register entries (documents without a
+      plottable location) appear only in the register, not on the map.</p>
+      <p><strong>Native California.</strong> Most of the violence documented here was carried out
+      against, and often alongside, Native Californians — as combatants, auxiliaries, intelligence
+      sources, and polities defending territory. The maps use the sources' own terms inside quotation
+      marks and name Native nations, villages, and leaders wherever the documents allow. "Punitive
+      expedition" and similar phrases are the sources' framing, not an endorsement.</p>
+      <p><strong>AI assistance.</strong> This site is built and maintained with substantial AI
+      assistance (Anthropic's Claude), under the author's direction: the register compilation,
+      verification passes, data files, and site code are AI-drafted and human-reviewed. Errors are
+      mine; corrections are welcome and logged.</p>
+      <p><strong>Companion project.</strong> The same research maintains
+      <a href="https://aodhanm.github.io/archives-of-california/"><em>Archives of California: A
+      Documentary Calendar of the Savage Transcripts</em></a> (DOI
+      <a href="https://doi.org/10.5281/zenodo.21327098">10.5281/zenodo.21327098</a>) — map pins with a
+      catalog record deep-link straight to it, and from there to the manuscript leaf.</p>
+    </div>
 
-    <h3>Method</h3>
-    <ul>
-      <li><strong>Routes</strong> are reconstructed stop-by-stop from expedition diaries and S. F. Cook's route studies, with campsite and village identifications drawn from Cook, Gifford &amp; Schenck (1926), and Kroeber (1925).</li>
-      <li><strong>Engagements and imperial activity</strong> are plotted from the <em>Archives of California</em> (BANC MSS C&ndash;A) &mdash; the Savage transcript copies that are the sole surviving record of colonial California's government after the 1906 destruction of the originals &mdash; and from Bancroft.</li>
-      <li>Coordinates are best-available reconstructions, not surveyed points; where a location is uncertain the pop-up says so.</li>
-    </ul>
+    <h2>Sources</h2>
+    <div class="prose">
+      <p><strong>Primary.</strong> Archives of California (BANC MSS C–A), The Bancroft Library,
+      University of California, Berkeley — the Thomas Savage transcript copies · Diary of Fr. Pedro
+      Muñoz (Moraga expedition, 1806) · Diary of Fr. José María de Zalvidea (1806).</p>
+      <p><strong>Secondary.</strong> Sherburne F. Cook, <em>Colonial Expeditions to the Interior of
+      California: Central Valley, 1800–1820</em> (Berkeley, 1960) · Hubert Howe Bancroft,
+      <em>History of California</em>, 7 vols. (San Francisco, 1884–1890) · John P. Langelier &amp;
+      Daniel B. Rosen, <em>El Presidio de San Francisco</em> (1992) · A. L. Kroeber, <em>Handbook of
+      the Indians of California</em> (1925) · E. W. Gifford &amp; W. E. Schenck, <em>Archaeology of
+      the Southern San Joaquin Valley</em> (1926).</p>
+    </div>
+  </section>
 
-    <h3>Sources</h3>
-    <p><em>Primary</em></p>
-    <ul>
-      <li>Archives of California (BANC MSS C&ndash;A), The Bancroft Library, University of California, Berkeley &mdash; the Thomas Savage transcript copies.</li>
-      <li>Diary of Fr. Pedro Mu&ntilde;oz, Moraga expedition of 1806.</li>
-      <li>Diary of Fr. Jos&eacute; Mar&iacute;a de Zalvidea, 1806.</li>
-    </ul>
-    <p><em>Secondary</em></p>
-    <ul>
-      <li>Sherburne F. Cook, <em>Colonial Expeditions to the Interior of California: Central Valley, 1800&ndash;1820</em>, Anthropological Records (Berkeley: University of California Press, 1960).</li>
-      <li>Hubert Howe Bancroft, <em>History of California</em>, vols. I&ndash;VII (San Francisco, 1884&ndash;1890).</li>
-      <li>John P. Langelier &amp; Daniel B. Rosen, <em>El Presidio de San Francisco</em> (1992).</li>
-      <li>A. L. Kroeber, <em>Handbook of the Indians of California</em> (1925).</li>
-      <li>E. W. Gifford &amp; W. E. Schenck, <em>Archaeology of the Southern San Joaquin Valley, California</em> (1926).</li>
-    </ul>
-
-    <h3>Related</h3>
-    <p>A companion project catalogs the Archives of California document-by-document: <a href="https://aodhanm.github.io/archives-of-california/">the searchable C&ndash;A calendar</a>.</p>
-
-    <h3>Technical</h3>
-    <p>Each map is a self-contained HTML file using <a href="https://leafletjs.com">Leaflet</a> with OpenTopoMap terrain tiles &mdash; no build step, no tracking.</p>
+  <section id="data">
+    <h2>Data &amp; Reuse</h2>
+    <div class="prose">
+      <p>Each map is driven by an open JSON dataset in
+      <a href="https://github.com/Aodhanm/california-history-maps/tree/main/data">the repository's
+      <code>data/</code> directory</a> (schema documented there). Content is licensed
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>, code MIT. To cite a
+      specific feature, use its permalink (the 🔗 link in any popup); to cite a map, use the
+      "Cite this map" button on the map page. No build step, no tracking.</p>
+    </div>
   </section>
 </main>
-<footer>
-  Made by Aodhan Coyne &middot; <span style="letter-spacing:.08em">MMXXVI</span><br>
-  Reconstructed from primary and secondary sources &middot; Built with <a href="https://leafletjs.com">Leaflet</a> &amp; OpenTopoMap
+
+<footer class="site-footer">
+  <p>Aodhan Coyne · <a href="https://orcid.org/0009-0002-8630-3768">ORCID 0009-0002-8630-3768</a> ·
+  <a href="https://github.com/Aodhanm/california-history-maps">Repository &amp; corrections</a> ·
+  Content CC-BY-4.0, code MIT ·
+  Companion: <a href="https://aodhanm.github.io/archives-of-california/">Archives of California</a></p>
 </footer>
+
+<script>
+(function () {
+  var maps = ["military-engagements", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
+  var total = 0, done = 0, engagements = 0;
+  maps.forEach(function (id) {
+    fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {
+      var n = (d.features || []).length;
+      (d.routes || []).forEach(function (r) { n += (r.stops || []).length; });
+      total += n;
+      if (id === "military-engagements") {
+        engagements = (d.features || []).filter(function (f) {
+          return (f.tags || []).indexOf("reference") === -1;
+        }).length;
+      }
+      var meta = document.querySelector('[data-count="' + id + '"]');
+      if (meta) meta.textContent = n + " features · " + meta.textContent;
+      if (++done === maps.length) {
+        document.getElementById("stat-maps").textContent = maps.length;
+        document.getElementById("stat-features").textContent = total.toLocaleString();
+        document.getElementById("stat-engagements").textContent = engagements;
+      }
+    });
+  });
+})();
+</script>
 </body>
 </html>

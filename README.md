@@ -1,18 +1,22 @@
 # California History Maps
 
-Interactive maps of Spanish- and Mexican-era California expeditions and frontier geography, reconstructed from primary sources and secondary scholarship.
+**Live: https://aodhanm.github.io/california-history-maps/**
 
-**Live site:** https://aodhanm.github.io/california-history-maps/
+Interactive, source-cited maps of Spanish and Mexican California (1769–1848),
+data-driven from JSON files and a shared Leaflet engine. Companion to
+[*Archives of California: A Documentary Calendar of the Savage Transcripts*](https://aodhanm.github.io/archives-of-california/).
 
-## Maps
+## Layout
+- `data/*.json` — one dataset per map ([schema](data/schema.md))
+- `assets/js/map-engine.js` — the shared renderer (uncertainty styling, timeline,
+  search, permalinks, citations, DB deep links)
+- `maps/*.html` — thin shells, one per map
+- `gallery/` — curated public-domain historical map gallery
+- `scripts/check_counts.py` — data integrity guard; run before committing data changes
+- Root-level legacy filenames redirect to the new pages.
 
-| Map | Period | Description |
-|-----|--------|-------------|
-| [Zalvidea & Moraga Expeditions](zalvidea-moraga-1806.html) | 1806–1807 | Two interior routes — togglable legs, campsites, Indian villages, missions |
-| [Gabriel Moraga — All Expeditions](moraga-expeditions-master.html) | 1806–1817 | Master map of Moraga's Central Valley and Delta reconnaissance |
-| [Military Engagements of California](california-military-battles.html) | 1769–1840 | Armed engagements across the Spanish and Mexican periods |
-| [Bay Area Borderlands](borderlands-imperial-frontier.html) | 1775–1841 | The contested Spanish/Russian/British imperial frontier around SF Bay |
+## Adding a map
+See [ADD-A-MAP.md](ADD-A-MAP.md) — one JSON file, one shell page, one landing card.
 
-## Technical
-
-Each map is a self-contained HTML file using [Leaflet.js](https://leafletjs.com) with OpenTopoMap tiles — no build step. Waypoints are JS arrays; add stops by pushing `{n, lat, lng, name, detail, note}` objects.
+## License
+Content CC-BY-4.0, code MIT — see [LICENSE](LICENSE). Cite via [CITATION.cff](CITATION.cff).
