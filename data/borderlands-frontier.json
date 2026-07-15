@@ -2264,8 +2264,8 @@
     "confidence": "circa"
    },
    "coords": [
-    34.3933,
-    -119.6946
+    34.4221,
+    -119.6989
    ],
    "coord_precision": "exact",
    "type": "presidio",
@@ -2290,8 +2290,8 @@
     "confidence": "circa"
    },
    "coords": [
-    32.6734,
-    -117.2428
+    32.7573,
+    -117.1966
    ],
    "coord_precision": "exact",
    "type": "presidio",

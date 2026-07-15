@@ -412,8 +412,8 @@
     "confidence": "year"
    },
    "coords": [
-    36.4114,
-    -121.3486
+    36.3969,
+    -121.3344
    ],
    "coord_precision": "exact",
    "type": "mission",
@@ -772,8 +772,8 @@
     "confidence": "year"
    },
    "coords": [
-    33.1092,
-    -116.672
+    33.13,
+    -116.674
    ],
    "coord_precision": "place",
    "type": "mission",
@@ -802,8 +802,8 @@
     "confidence": "year"
    },
    "coords": [
-    34.1264,
-    -117.244
+    34.0455,
+    -117.226
    ],
    "coord_precision": "place",
    "type": "mission",
@@ -982,13 +982,13 @@
     "confidence": "circa"
    },
    "coords": [
-    38.244,
-    -122.04
+    38.232,
+    -122.124
    ],
    "coord_precision": "area",
    "type": "settlement",
    "layer": "outstations",
-   "summary": "The Sonoma mission's grazing outstation on the Suisun plain, in the country of the Suisun Patwin; absorbed into the Vallejo-era ranchos after secularization. Outstation of Mission San Francisco Solano.",
+   "summary": "The Sonoma mission's grazing outstation in the Suisun Valley, at the Rockville and Cordelia end rather than the later town of Fairfield; in the country of the Suisun Patwin, and absorbed into the Vallejo-era ranchos after secularization. Outstation of Mission San Francisco Solano.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1102,8 +1102,8 @@
     "confidence": "circa"
    },
    "coords": [
-    35.652,
-    -120.66
+    35.62,
+    -120.6
    ],
    "coord_precision": "area",
    "type": "settlement",
@@ -1222,8 +1222,8 @@
     "confidence": "circa"
    },
    "coords": [
-    33.925,
-    -116.77
+    33.928,
+    -116.876
    ],
    "coord_precision": "area",
    "type": "settlement",
