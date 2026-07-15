@@ -1,10 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Historical Map Gallery · California History Maps</title>
+<meta name="description" content="A gallery of period maps of Spanish and Mexican California: the 1775 Bodega y Quadra manuscript charts, the Spanish hydrographic atlas of 1799, Duflot de Mofras, Vancouver, and the claims maps of the American conquest.">
+<meta property="og:title" content="Historical Map Gallery — California History Maps">
+<meta property="og:description" content="78 period maps of Spanish and Mexican California with zoomable images and links to the archival originals.">
+<meta property="og:type" content="website">
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../assets/css/site.css">
+<style>
+  .chips { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 1rem 0 0.4rem; }
+  .chip { border: 1px solid var(--rule); background: #fff; color: var(--ink-soft);
+    border-radius: 999px; padding: 0.25rem 0.8rem; font-size: 0.83rem; cursor: pointer; }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .gcount { font-size: 0.8rem; color: var(--ink-soft); font-family: var(--sans); }
+  .gintro { margin-top: 0.1rem; }
+  .gallery-note { font-size: 0.82rem; color: var(--ink-soft); font-style: italic; max-width: 46rem; }
+  #viewer-overlay { display: none; position: fixed; inset: 0; z-index: 3000;
+    background: rgba(29,26,22,0.96); flex-direction: column; padding: 0.8rem 1rem; }
+  #viewer-head { color: #f7f3ec; display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; }
+  #viewer-head h2 { font-family: var(--serif); margin: 0; font-size: 1.1rem; }
+  #viewer-meta { font-size: 0.83rem; color: #cfc7ba; }
+  #viewer-meta a { color: #e8b64c; }
+  #viewer-close { margin-left: auto; background: none; border: 1px solid #7d766b;
+    color: #f7f3ec; border-radius: 4px; padding: 0.2rem 0.8rem; cursor: pointer; }
+  #seadragon { flex: 1; margin: 0.6rem 0; }
+  #viewer-caption { color: #e6dfd3; font-size: 0.9rem; max-width: 62rem; margin: 0; }
+  #viewer-credit { color: #9b948a; font-size: 0.76rem; margin: 0.25rem 0 0; }
+  .wanted { margin-top: 2.5rem; }
+  .wanted li { font-size: 0.86rem; color: var(--ink-soft); margin-bottom: 0.25rem; }
+</style>
 </head>
 <body>
 <header class="site-header">
@@ -18,15 +45,36 @@
 </header>
 <main class="landing">
   <h1>Historical Map Gallery</h1>
-  <p class="lede">A curated selection from the project's collection of period maps —
-  Bodega y Quadra's 1775 manuscript charts, the 1793 Bodega re-survey, Duflot de Mofras,
-  Vancouver's California sheets, Ord's 1849 Los Angeles plan, and more — with catalog
-  metadata and links to the archival originals. <strong>In preparation</strong>; opening
-  with the v2.0 release.</p>
+  <p class="lede">Period maps of Spanish and Mexican California from the project's research
+  collection. Every image is zoomable and links to the archival original. Reproductions are of
+  public domain maps; each entry credits its holding institution.</p>
+  <p class="gallery-note" id="gallery-note"></p>
+  <div class="chips" id="chips" role="toolbar" aria-label="Filter by group"></div>
+  <div id="gallery-root"></div>
+  <section class="wanted">
+    <h2>Wanted: better copies</h2>
+    <p class="prose">Items known but not yet in the gallery, or in the gallery at lower quality
+    than they deserve. Corrections and pointers welcome via the
+    <a href="https://github.com/Aodhanm/california-history-maps/issues">repository</a>.</p>
+    <ul id="wanted-list"></ul>
+  </section>
 </main>
+<div id="viewer-overlay" role="dialog" aria-modal="true" aria-label="Map viewer">
+  <div id="viewer-head">
+    <h2 id="viewer-title"></h2>
+    <span id="viewer-meta"></span>
+    <button id="viewer-close" aria-label="Close viewer">✕ Close</button>
+  </div>
+  <div id="seadragon"></div>
+  <p id="viewer-caption"></p>
+  <p id="viewer-credit"></p>
+</div>
 <footer class="site-footer">
   <p>Aodhan Coyne · <a href="https://orcid.org/0009-0002-8630-3768">ORCID 0009-0002-8630-3768</a> ·
-  <a href="https://github.com/Aodhanm/california-history-maps">Repository</a></p>
+  <a href="https://github.com/Aodhanm/california-history-maps">Repository &amp; corrections</a> ·
+  Content CC-BY-4.0, code MIT</p>
 </footer>
+<script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1.1/build/openseadragon/openseadragon.min.js"></script>
+<script src="../assets/js/gallery.js"></script>
 </body>
 </html>
