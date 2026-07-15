@@ -48,6 +48,16 @@
         combatants as military actors, with campaign layers, a timeline, and register-keyed citations.</p>
       </div>
     </a>
+    <a class="card" href="maps/presidial-system.html">
+      <div class="thumb" style="background:linear-gradient(135deg,#8e44ad33,#efe8db)"></div>
+      <div class="body">
+        <h3>The Presidial System, 1769–1846</h3>
+        <p class="meta" data-count="presidial-system">Every documented count of men and cannon</p>
+        <p>The garrisons and artillery of the four presidios from the muster rolls and ordnance
+        inventories, fort by fort and year by year, with Fort Ross as the benchmark one Russian
+        outpost set for the whole coast.</p>
+      </div>
+    </a>
     <a class="card" href="maps/borderlands-frontier.html">
       <div class="thumb" style="background:linear-gradient(135deg,#275d7a33,#efe8db)"></div>
       <div class="body">
@@ -143,7 +153,7 @@
 
 <script>
 (function () {
-  var maps = ["military-engagements", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
+  var maps = ["military-engagements", "presidial-system", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {

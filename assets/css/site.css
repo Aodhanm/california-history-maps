@@ -90,6 +90,12 @@ body {
 .popup .permalink { margin: 0.35rem 0 0; font-size: 0.76rem; }
 .popup .permalink a { color: var(--ink-soft); text-decoration: none; }
 
+.popup table.series { border-collapse: collapse; margin: 0.35rem 0; font-size: 0.78rem; width: 100%; }
+.popup table.series td, .popup table.series th { border-bottom: 1px solid var(--rule);
+  padding: 0.12rem 0.5rem 0.12rem 0; vertical-align: top; text-align: left; }
+.popup table.series td:first-child { white-space: nowrap; color: var(--ink-soft); }
+.popup table.series .cite { color: var(--ink-soft); font-size: 0.72rem; }
+
 /* layer-control swatches */
 .swatch { display: inline-block; width: 0.8em; height: 0.8em; border-radius: 50%;
   margin-right: 0.15em; vertical-align: baseline; }

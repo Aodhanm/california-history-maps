@@ -64,6 +64,15 @@
       (f.date.confidence && f.date.confidence !== 'exact' ? ' <em>(' + esc(f.date.confidence) + ')</em>' : '') + '</span>');
     if (badges.length) h += '<p class="badges">' + badges.join(' ') + '</p>';
     if (f.summary) h += '<p>' + esc(f.summary) + '</p>';
+    if (f.series && f.series.length) {
+      h += '<table class="series"><thead><tr><th>' + esc(f.series_label || 'Date') +
+           '</th><th></th></tr></thead><tbody>';
+      f.series.forEach(function (row) {
+        h += '<tr><td>' + esc(row[0]) + '</td><td>' + esc(row[1]) +
+             (row[2] ? ' <span class="cite">' + esc(row[2]) + '</span>' : '') + '</td></tr>';
+      });
+      h += '</tbody></table>';
+    }
     if (f.result) h += '<p class="result"><strong>' + esc(f.result) + '</strong></p>';
     if (f.quote && f.quote.es) {
       h += '<blockquote lang="es">' + esc(f.quote.es) + '</blockquote>';
