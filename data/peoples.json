@@ -1,0 +1,661 @@
+{
+ "updated": "2026-07-15",
+ "people": [
+  {
+   "name": "Charagui",
+   "blurb": "Capitanejo who defeated the San Diego column at Jacum in May 1837, holding the field against 25 soldiers and 50 auxiliaries.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-121-the-jacum-battle-capitanejo-charagui-defeats-the",
+     "name": "The Jacum battle — capitanejo Charagui defeats the San Diego column"
+    }
+   ]
+  },
+  {
+   "name": "Estanislao",
+   "blurb": "Ex-alcalde of Mission San José who led the largest neophyte military resistance of the Mexican period from fortified river positions on the Stanislaus, 1829.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "estanislao-s-first-revolt-sanchez-defeated",
+     "name": "Estanislao's First Revolt — Sánchez Defeated"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "estanislao-s-revolt-vallejo-s-expedition",
+     "name": "Estanislao's Revolt — Vallejo's Expedition"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "death-of-yozcolo-at-santa-clara",
+     "name": "Death of Yozcolo at Santa Clara"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "prado-mesa-ambush-on-rio-de-estanislao",
+     "name": "Prado Mesa Ambush on Río de Estanislao"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-95-estanislao-campaign-atrocity-inquiry",
+     "name": "Estanislao-campaign atrocity inquiry"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-109-martinez-s-campana-en-los-rios",
+     "name": "Martínez's 'campaña en los Ríos'"
+    }
+   ]
+  },
+  {
+   "name": "Pomponio",
+   "blurb": "Coast Miwok resistance leader captured after a firefight at the cañada de Novato and executed at Monterey.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-91-capture-execution-of-the-outlaw-pomponio",
+     "name": "Capture & execution of the outlaw Pomponio"
+    }
+   ]
+  },
+  {
+   "name": "Toypurina",
+   "blurb": "Tongva woman who led the 1785 revolt at Mission San Gabriel.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "toypurina-s-revolt-at-san-gabriel",
+     "name": "Toypurina's Revolt at San Gabriel"
+    }
+   ]
+  },
+  {
+   "name": "Zampay",
+   "blurb": "Yoloytoy leader captured in the north-bay campaigns of the late 1830s.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "vallejo-vs-guapos-sotoyomes",
+     "name": "Vallejo vs. Guapos (Sotoyomes)"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "capture-of-zampay-yoloytoy",
+     "name": "Capture of Zampay (Yoloytoy)"
+    }
+   ]
+  },
+  {
+   "name": "Yozcolo",
+   "blurb": "Resistance leader killed at Santa Clara; his death was displayed as a warning.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "death-of-yozcolo-at-santa-clara",
+     "name": "Death of Yozcolo at Santa Clara"
+    }
+   ]
+  },
+  {
+   "name": "Talholostl",
+   "blurb": "Captain killed in the 1798 punitive battle near San Juan Bautista. The reading of his name in the manuscript is uncertain.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-120-punitive-battle-near-san-juan-bautista-death-of",
+     "name": "Punitive battle near San Juan Bautista — death of captain 'Talholostl'[?]"
+    }
+   ]
+  },
+  {
+   "name": "Valli-Ela",
+   "blurb": "Chief who requested a Russian flag, navigating between empires on his own account.",
+   "pins": [
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "chief-valli-ela-requests-russian-flag",
+     "name": "Chief Vallí-éla Requests Russian Flag"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "chief-valli-ela-requests-russian-flag",
+     "name": "Chief Vallí-éla Requests Russian Flag"
+    }
+   ]
+  },
+  {
+   "name": "Guirmenes",
+   "blurb": "The Bodega-area man whose intelligence the Spanish valued enough to order that he be kept happy.",
+   "pins": [
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "guirmenes-intel-on-bodega-keep-this-indian-happy",
+     "name": "Guirmenes Intel on Bodega — \"Keep This Indian Happy\""
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "guirmenes-intel-on-bodega-keep-this-indian-happy",
+     "name": "Guirmenes Intel on Bodega — \"Keep This Indian Happy\""
+    }
+   ]
+  },
+  {
+   "name": "Palma",
+   "blurb": "Quechan leader whose alliance Spain won and then lost; the withheld gifts to Palma are among the named causes of the 1781 Yuma revolt.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "fages-battle-of-october-20",
+     "name": "Fages — Battle of October 20"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-5-spanish-yuma-punitive-campaign",
+     "name": "Spanish Yuma Punitive Campaign"
+    }
+   ]
+  },
+  {
+   "name": "Charquín",
+   "blurb": "Leader of an uprising recorded in the State Papers (register #92).",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-92-the-charquin-uprising-at-mission-san-francisco",
+     "name": "The Charquín uprising at Mission San Francisco"
+    }
+   ]
+  }
+ ],
+ "nations": [
+  {
+   "name": "Coast Miwok",
+   "blurb": "The peoples of the Marin–Bodega coast: guides, intelligence sources, and negotiators between Spain and Russia throughout the corridor's history.",
+   "pins": [
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "goycoechea-s-overland-expedition-to-bodega",
+     "name": "Goycoechea's Overland Expedition to Bodega"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "coast-miwok-intelligence-to-sal",
+     "name": "Coast Miwok Intelligence to Sal"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "coast-miwok-deceive-goycoechea",
+     "name": "Coast Miwok Deceive Goycoechea"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "coast-miwok-calibrated-diplomacy-at-bodega",
+     "name": "Coast Miwok Calibrated Diplomacy at Bodega"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "coast-miwok-bilingual-intermediaries-at-tomales",
+     "name": "Coast Miwok Bilingual Intermediaries at Tomales"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "chief-valli-ela-requests-russian-flag",
+     "name": "Chief Vallí-éla Requests Russian Flag"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "menzies-lands-at-tomales-bay",
+     "name": "Menzies Lands at Tomales Bay"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "goycoechea-s-overland-expedition-to-bodega",
+     "name": "Goycoechea's Overland Expedition to Bodega"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "menzies-lands-at-tomales-bay",
+     "name": "Menzies Lands at Tomales Bay"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "coast-miwok-intelligence-to-sal",
+     "name": "Coast Miwok Intelligence to Sal"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "coast-miwok-deceive-goycoechea",
+     "name": "Coast Miwok Deceive Goycoechea"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "coast-miwok-calibrated-diplomacy-at-bodega",
+     "name": "Coast Miwok Calibrated Diplomacy at Bodega"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "coast-miwok-bilingual-intermediaries-at-tomales",
+     "name": "Coast Miwok Bilingual Intermediaries at Tomales"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "chief-valli-ela-requests-russian-flag",
+     "name": "Chief Vallí-éla Requests Russian Flag"
+    },
+    {
+     "map": "zalvidea-moraga-1806",
+     "map_title": "The 1806 Interior Expeditions — Zalvidea & Moraga",
+     "id": "moraga-north-13-cosumnes-river-northernmost-point",
+     "name": "Cosumnes River — Northernmost Point"
+    }
+   ]
+  },
+  {
+   "name": "Kashaya Pomo",
+   "blurb": "The people on whose land Colony Ross was built; Hagemeister's treaty with them was Russia's answer to Spain's claim.",
+   "pins": [
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "hagemeister-treaty-with-kashaya-pomo",
+     "name": "Hagemeister Treaty with Kashaya Pomo"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "hagemeister-treaty-with-kashaya-pomo",
+     "name": "Hagemeister Treaty with Kashaya Pomo"
+    }
+   ]
+  },
+  {
+   "name": "Kumeyaay",
+   "blurb": "The peoples of the San Diego frontier, from the 1775 destruction of the mission to the Jacum battle of 1837 — on both sides of the presidio's wars.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-114-ibarra-s-punitive-battle-at-santa-isabel-veinte",
+     "name": "Ibarra's punitive battle at Santa Isabel ('veinte pares de orejas')"
+    }
+   ]
+  },
+  {
+   "name": "Cahuilla",
+   "blurb": "Inland southern peoples, appearing in the sources as auxiliaries and as raiders' targets.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-114-ibarra-s-punitive-battle-at-santa-isabel-veinte",
+     "name": "Ibarra's punitive battle at Santa Isabel ('veinte pares de orejas')"
+    }
+   ]
+  },
+  {
+   "name": "Quechan (Yuma)",
+   "blurb": "The Colorado River people whose 1781 victory closed Spain's overland route to California for good.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-5½-yuma-revolt-colorado-river-massacre",
+     "name": "Yuma Revolt (Colorado River Massacre)"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-5½a-death-of-rivera-y-moncada",
+     "name": "Death of Rivera y Moncada"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-72-fages-at-ruins-of-purisima",
+     "name": "Fages at Ruins of Purísima"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-73-yuma-pacification-strategy",
+     "name": "Yuma Pacification Strategy"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "fages-el-canelo-skirmish",
+     "name": "Fages — El Canelo Skirmish"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "fages-battle-of-october-20",
+     "name": "Fages — Battle of October 20"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-5-spanish-yuma-punitive-campaign",
+     "name": "Spanish Yuma Punitive Campaign"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "label-yuma-colorado-r",
+     "name": "Yuma/Colorado R."
+    }
+   ]
+  },
+  {
+   "name": "Chumash",
+   "blurb": "The Channel peoples; their 1824 revolt was the largest mission uprising in California history.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "chumash-revolt-santa-ines",
+     "name": "Chumash Revolt — Santa Inés"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "chumash-revolt-la-purisima-seized",
+     "name": "Chumash Revolt — La Purísima Seized"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "chumash-revolt-santa-barbara",
+     "name": "Chumash Revolt — Santa Barbara"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-107-ambush-of-the-san-diego-pursuit-party-dominican",
+     "name": "Ambush of the San Diego pursuit party (Dominican frontier)"
+    }
+   ]
+  },
+  {
+   "name": "Suisun",
+   "blurb": "The north-bay people Moraga campaigned against in 1810.",
+   "pins": [
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "battle-of-suisun",
+     "name": "Battle of Suisun"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "suisun-resist-moraga-at-carquinez",
+     "name": "Suisun Resist Moraga at Carquinez"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "ref-santa-eulalia-cordelia",
+     "name": "Santa Eulalia (Cordelia)"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-21-battle-of-suisun",
+     "name": "Battle of Suisun"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "label-rockville-suisun-valley",
+     "name": "Rockville / Suisun Valley"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "rsuisun-1-presidio-of-san-francisco",
+     "name": "Presidio of San Francisco"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "rsuisun-4-skirmish-on-suisun-creek",
+     "name": "Skirmish on Suisun Creek"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "rsuisun-5-battle-at-malaca-s-rancheria",
+     "name": "Battle at Malaca's Ranchería"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "rsanrafael-3-mission-san-rafael-site",
+     "name": "Mission San Rafael Site"
+    }
+   ]
+  },
+  {
+   "name": "Saclan (Sacalanes)",
+   "blurb": "East-bay people who defeated a mission recovery party in 1795 and absorbed the punitive response of 1797.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-7-sacalanes-attack-on-neophyte-party",
+     "name": "Sacalanes Attack on Neophyte Party"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-9-amador-vs-sacalanes-cuchillones",
+     "name": "Amador vs. Sacalanes/Cuchillones"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-47-fugitive-neophytes-sacalan-cuchillones",
+     "name": "Fugitive Neophytes: Sacalan & Cuchillones"
+    }
+   ]
+  },
+  {
+   "name": "Mojave (Amajava)",
+   "blurb": "Colorado River people whose reach extended to the coast missions in the 1810s.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-68-moraga-s-failed-expedition-to-amajava",
+     "name": "Moraga's Failed Expedition to Amajava"
+    }
+   ]
+  },
+  {
+   "name": "Chaguanoso raiders",
+   "blurb": "The mixed raiding bands of the 1830s–40s horse trade, striking from the interior deserts.",
+   "pins": [
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "chaguanosos-steal-1-200-horses-from-slo",
+     "name": "Chaguanosos Steal 1,200 Horses from SLO"
+    },
+    {
+     "map": "military-engagements",
+     "map_title": "Military Engagements in Spanish and Mexican California",
+     "id": "reg-112-the-great-1840-horse-raid-campaign-agua-de-ramon",
+     "name": "The great 1840 horse-raid campaign ('agua de Ramón')"
+    }
+   ]
+  },
+  {
+   "name": "Unangan & Alutiiq (Aleut) hunters",
+   "blurb": "Alaska Native hunters brought south by the Russian-American Company; their baidarka fleets worked the Farallones and San Francisco Bay itself.",
+   "pins": [
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "rac-fur-collecting-begins-at-bodega",
+     "name": "RAC Fur-Collecting Begins at Bodega"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "130-bidarkas-in-san-francisco-bay",
+     "name": "130 Bidarkas in San Francisco Bay"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "farallon-islands-russian-sealing-station",
+     "name": "Farallon Islands — Russian Sealing Station"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "kuskov-s-rac-letters-to-the-sf-commandant",
+     "name": "Kuskov's RAC Letters to the SF Commandant"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "aleut-fleet-1811",
+     "name": "The 1811 Aleut otter fleet in San Francisco Bay"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "rbodega-6-bodega-bay",
+     "name": "Bodega Bay"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "rross1812-6-fort-ross",
+     "name": "Fort Ross"
+    },
+    {
+     "map": "bodega-ross-corridor",
+     "map_title": "The Bodega–Ross Corridor",
+     "id": "rross1813-5-fort-ross",
+     "name": "Fort Ross"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "moraga-investigates-russian-bodega",
+     "name": "Moraga Investigates Russian Bodega"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "moraga-s-fort-ross-defense-assessment",
+     "name": "Moraga's Fort Ross Defense Assessment"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "rac-fur-collecting-begins-at-bodega",
+     "name": "RAC Fur-Collecting Begins at Bodega"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "130-bidarkas-in-san-francisco-bay",
+     "name": "130 Bidarkas in San Francisco Bay"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "farallon-islands-russian-sealing-station",
+     "name": "Farallon Islands — Russian Sealing Station"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "elliot-de-castro-ilmena-seized-at-refugio",
+     "name": "Elliot de Castro / Ilmena Seized at Refugio"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "kuskov-s-rac-letters-to-the-sf-commandant",
+     "name": "Kuskov's RAC Letters to the SF Commandant"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "ref-fort-ross-metini",
+     "name": "Fort Ross (Metini)"
+    },
+    {
+     "map": "borderlands-frontier",
+     "map_title": "The Bay Area Imperial Frontier",
+     "id": "ref-farallon-islands-sealing-station",
+     "name": "Farallon Islands Sealing Station"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "ref-fort-ross",
+     "name": "Fort Ross"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "rbodega-6-bodega-bay",
+     "name": "Bodega Bay"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "rross1812-6-fort-ross",
+     "name": "Fort Ross"
+    },
+    {
+     "map": "moraga-expeditions",
+     "map_title": "Gabriel Moraga's Expeditions",
+     "id": "rross1813-5-fort-ross",
+     "name": "Fort Ross"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Native Peoples Index · California History Maps</title>
+<meta name="description" content="An index of Native nations and named individuals as they appear in the plotted sources of Spanish and Mexican California, with links to their map features.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/site.css">
+<style>
+  .entry { margin: 1.4rem 0; }
+  .entry h3 { font-family: var(--serif); margin: 0 0 0.2rem; }
+  .entry .blurb { margin: 0 0 0.3rem; max-width: 46rem; }
+  .pins a { display: inline-block; margin: 0.15rem 0.5rem 0.15rem 0; font-size: 0.83rem;
+    color: var(--accent-3); }
+  .pins .mapname { color: var(--ink-soft); }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html">California History Maps</a>
+  <nav aria-label="Site">
+    <a href="index.html">Maps</a>
+    <a href="gallery/index.html">Gallery</a>
+    <a href="peoples.html" aria-current="page">Peoples</a>
+    <a href="errata.html">Errata</a>
+  </nav>
+</header>
+<main class="landing">
+  <h1>Native Peoples Index</h1>
+  <p class="lede">Native nations and named individuals as they appear in the sources plotted on
+  these maps, with links to every feature that names them. The identifications follow the sources
+  and the project's register; where a source names only "gentiles" of a place, no nation is
+  attributed. This index grows as the maps do.</p>
+  <h2>Named individuals</h2>
+  <div id="people"></div>
+  <h2>Nations and communities</h2>
+  <div id="nations"></div>
+</main>
+<footer class="site-footer">
+  <p>Aodhan Coyne · <a href="https://orcid.org/0009-0002-8630-3768">ORCID 0009-0002-8630-3768</a> ·
+  <a href="https://github.com/Aodhanm/california-history-maps">Repository &amp; corrections</a></p>
+</footer>
+<script>
+fetch('data/peoples.json').then(r => r.json()).then(d => {
+  function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+  function render(list, elId){
+    var el = document.getElementById(elId);
+    list.forEach(e => {
+      var div = document.createElement('div');
+      div.className = 'entry';
+      var pins = e.pins.map(p =>
+        '<a href="maps/' + esc(p.map) + '.html#' + encodeURIComponent(p.id) + '">' +
+        esc(p.name) + ' <span class="mapname">(' + esc(p.map_title) + ')</span></a>').join(' ');
+      div.innerHTML = '<h3>' + esc(e.name) + '</h3><p class="blurb">' + esc(e.blurb) + '</p>' +
+        '<p class="pins">' + pins + '</p>';
+      el.appendChild(div);
+    });
+  }
+  render(d.people, 'people');
+  render(d.nations, 'nations');
+});
+</script>
+</body>
+</html>
