@@ -2,7 +2,7 @@
  "id": "missions-establishments",
  "title": "Missions & Establishments",
  "subtitle": "The 21 missions, their sub-stations, the Russian colony, and New Helvetia, 1769–1846",
- "abstract": "Every fixed establishment of colonial California on one map: the 21 Franciscan missions with founding years, the asistencias and estancias that extended them inland, the Russian-American Company's fort, port, and farm ranches on the Sonoma coast, and Sutter's New Helvetia on the Sacramento. Use the timeline to watch the chain grow north and the rivals appear. Ranch locations are approximate; mission sites are exact.",
+ "abstract": "Every fixed establishment of colonial California on one map: the 21 Franciscan missions with founding years, the asistencias and estancias that extended them inland, a selected layer of the missions' named ranchos and outstations (Suisun and Napa for Sonoma, San Mateo for Dolores, Temecula and San Jacinto for San Luis Rey, and more), the Russian-American Company's fort, port, and farm ranches on the Sonoma coast, and Sutter's New Helvetia on the Sacramento. The outstation list is selected, not exhaustive: the missions ran many more ranchos. Use the timeline to watch the chain grow north and the rivals appear. Outstation and ranch locations are approximate; mission sites are exact.",
  "date_range": [
   1769,
   1846
@@ -24,6 +24,11 @@
    "id": "asistencias",
    "label": "Asistencias & Estancias",
    "color": "#b7791f"
+  },
+  {
+   "id": "outstations",
+   "label": "Mission Ranchos & Outstations (selected)",
+   "color": "#2e5a4b"
   },
   {
    "id": "russian",
@@ -966,6 +971,276 @@
    "native_groups": [],
    "tags": [],
    "notes": ""
+  },
+  {
+   "id": "o-suisun-outstation-solano",
+   "register_no": null,
+   "name": "Suisun outstation (Solano)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.244,
+    -122.04
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "The Sonoma mission's grazing outstation on the Suisun plain, in the country of the Suisun Patwin; absorbed into the Vallejo-era ranchos after secularization. Outstation of Mission San Francisco Solano.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-napa-outstation-solano",
+   "register_no": null,
+   "name": "Napa outstation (Solano)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.2971,
+    -122.2855
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "The mission's station in the lower Napa Valley, likewise folded into private ranchos in the 1830s. Outstation of Mission San Francisco Solano.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-san-pedro-y-san-pablo-san-mateo",
+   "register_no": null,
+   "name": "San Pedro y San Pablo (San Mateo)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    37.563,
+    -122.3244
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "Mission Dolores' farm outstation on the peninsula, established in the 1780s; the 1830 SF padron still lists San Mateo among the jurisdiction's ranchos (C-A 50 Doc 425). Outstation of Mission San Francisco de Asís.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-rancho-san-francisco-xavier",
+   "register_no": null,
+   "name": "Rancho San Francisco Xavier",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    34.44,
+    -118.62
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "San Fernando's northern stock rancho in the Santa Clarita valley; the same Rancho San Francisco where 18 Indians were killed in 1846 (military register #117). Outstation of Mission San Fernando.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-santa-ysabel-rancho-san-miguel",
+   "register_no": null,
+   "name": "Santa Ysabel rancho (San Miguel)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    35.652,
+    -120.66
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "One of San Miguel's named ranchos with an adobe, up the Salinas from the mission. Outstation of Mission San Miguel.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-san-simeon-rancho-san-miguel",
+   "register_no": null,
+   "name": "San Simeon rancho (San Miguel)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    35.643,
+    -121.189
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "San Miguel's coast station at San Simeon bay. Outstation of Mission San Miguel.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-temecula-station-san-luis-rey",
+   "register_no": null,
+   "name": "Temecula station (San Luis Rey)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    33.493,
+    -117.149
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "San Luis Rey's inland station among the Luiseno communities of the Temecula valley. Outstation of Mission San Luis Rey.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-san-jacinto-rancho-san-luis-rey",
+   "register_no": null,
+   "name": "San Jacinto rancho (San Luis Rey)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    33.784,
+    -116.96
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "The mission's easternmost stock rancho, toward the pass country. Outstation of Mission San Luis Rey.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+  },
+  {
+   "id": "o-san-gorgonio-estancia-san-gabriel",
+   "register_no": null,
+   "name": "San Gorgonio estancia (San Gabriel)",
+   "date": {
+    "iso": null,
+    "display": "Mexican-era estate",
+    "confidence": "circa"
+   },
+   "coords": [
+    33.925,
+    -116.77
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "San Gabriel's furthest estancia, in the pass between the mountains; the raiding corridor's doorstep. Outstation of Mission San Gabriel.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Mission-estate outstations per the standard accounts (Engelhardt; county histories); locations approximate. Selected, not exhaustive: the missions ran many more ranchos.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
   },
   {
    "id": "s-sutters-fort-new-helvetia",
