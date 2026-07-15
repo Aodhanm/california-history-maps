@@ -7,7 +7,8 @@
   "Higher resolution Costanso 1770 (1331 px is the John Carter Brown Library's full size; a larger scan would need another holder)",
   "Higher resolution Mitchell 1849 Oregon, Upper California and New Mexico (1200 px is Stanford's full size for this item)",
   "Kotzebue and Choris, chart of San Francisco Bay from the Rurik voyage, 1816 (not on Rumsey; check LOC and Commons)",
-  "Tanner, Map of the United States of Mexico, earlier edition (copy in collection has an unverified edition and is held back)"
+  "Tanner, Map of the United States of Mexico, earlier edition (copy in collection has an unverified edition and is held back)",
+  "A Russian-made chart of Ross or Bodega (RAC/Kuskov era) — none found openly digitized; check RGAVMF/Gibson plates"
  ],
  "groups": [
   {
@@ -28,7 +29,7 @@
   {
    "id": "russian",
    "label": "Russian California and the Duflot de Mofras Atlas",
-   "intro": "The cartography of the Russian presence at Fort Ross and Bodega, mostly through Duflot de Mofras, the French attache whose 1844 atlas recorded the coast in the last years of Mexican rule."
+   "intro": "The cartography of the Russian presence at Fort Ross and Bodega, mostly through Duflot de Mofras, the French attache whose 1844 atlas recorded the coast in the last years of Mexican rule. The group also holds the surviving eyewitness views of Ross and Bodega, Russian and French, since no Russian-made map of the colony is openly digitized yet."
   },
   {
    "id": "foreign",
@@ -1208,6 +1209,76 @@
    "w": 3493,
    "h": 4000,
    "id": "gibbes-1852-new-map-of-california"
+  },
+  {
+   "file": "duhaut-cilly-fort-ross-1828.jpg",
+   "group": "russian",
+   "title": "View of Fort Ross",
+   "maker": "Auguste Duhaut-Cilly",
+   "year": "1828 (published 1834–35)",
+   "source_url": "https://commons.wikimedia.org/wiki/Category:Fort_Ross",
+   "credit": "Wikimedia Commons. Public domain.",
+   "caption": "The classic eyewitness image of Ross: blockhouses, chapel dome, and stockade on the terrace above the cove, drawn by the French trader Duhaut-Cilly on his 1828 visit. Not a map, but the best surviving picture of what the Spanish reconnaissance reports describe.",
+   "better_copy": false,
+   "w": 1280,
+   "h": 572,
+   "id": "duhaut-cilly-fort-ross-1828"
+  },
+  {
+   "file": "duhaut-cilly-bodega-1828.jpg",
+   "group": "russian",
+   "title": "View of Bodega (Port Rumiantsev)",
+   "maker": "Auguste Duhaut-Cilly",
+   "year": "1828 (published 1834–35)",
+   "source_url": "https://commons.wikimedia.org/wiki/Category:Fort_Ross",
+   "credit": "Wikimedia Commons. Public domain.",
+   "caption": "Duhaut-Cilly's eyewitness view of the Russian anchorage at Bodega in 1828. The port Spain discovered in 1775 and never held, as it looked under Russian use.",
+   "better_copy": false,
+   "w": 1280,
+   "h": 732,
+   "id": "duhaut-cilly-bodega-1828"
+  },
+  {
+   "file": "voznesensky-settlement-ross-1841.jpg",
+   "group": "russian",
+   "title": "Settlement Ross, 1841",
+   "maker": "attributed to I. G. Voznesensky",
+   "year": "1841",
+   "source_url": "https://commons.wikimedia.org/wiki/Category:Fort_Ross",
+   "credit": "Wikimedia Commons. Public domain.",
+   "caption": "Ross in its final year before the sale to Sutter: the windmill and the village grown outside the stockade. Voznesensky was the Russian-American Company naturalist at Ross in 1840 and 1841; the attribution is conventional, not documented on the file.",
+   "better_copy": false,
+   "w": 1280,
+   "h": 488,
+   "id": "voznesensky-settlement-ross-1841"
+  },
+  {
+   "file": "voznesensky-ross-1841-variation.jpg",
+   "group": "russian",
+   "title": "Settlement Ross, 1841 (second version)",
+   "maker": "attributed to I. G. Voznesensky",
+   "year": "1841",
+   "source_url": "https://commons.wikimedia.org/wiki/Category:Fort_Ross",
+   "credit": "Wikimedia Commons. Public domain.",
+   "caption": "A second version of the same 1841 view of Ross. Same attribution caveat as its companion.",
+   "better_copy": false,
+   "w": 1280,
+   "h": 499,
+   "id": "voznesensky-ross-1841-variation"
+  },
+  {
+   "file": "voznesensky-chernykh-ranch-1841.jpg",
+   "group": "russian",
+   "title": "Sketch of the Chernykh Ranch",
+   "maker": "I. G. Voznesensky",
+   "year": "1841",
+   "source_url": "https://commons.wikimedia.org/wiki/Category:Fort_Ross",
+   "credit": "Wikimedia Commons. Public domain.",
+   "caption": "The Russian farm inland from Ross, sketched in the colony's last year. The agricultural spread beyond the stockade is what Vallejo's 1833 reconnaissance was tracking.",
+   "better_copy": false,
+   "w": 859,
+   "h": 569,
+   "id": "voznesensky-chernykh-ranch-1841"
   }
  ]
 }
