@@ -41,6 +41,16 @@
   </section>
 
   <div class="card-grid" id="map-cards">
+    <a class="card" href="maps/native-california.html">
+      <div class="thumb" style="background:linear-gradient(135deg,#2e5a4b33,#b7791f22,#efe8db)"></div>
+      <div class="body">
+        <h3>Native California</h3>
+        <p class="meta" data-count="native-california">The nations whose country every other map crosses</p>
+        <p>Approximate homelands of the Native nations of Alta California at contact, labeled
+        without invented boundary lines and grouped by language family. Companion to the
+        Native Peoples Index.</p>
+      </div>
+    </a>
     <a class="card" href="maps/military-engagements.html">
       <div class="thumb" style="background:linear-gradient(135deg,#7a2e2e33,#efe8db)"></div>
       <div class="body">
@@ -166,7 +176,7 @@
 
 <script>
 (function () {
-  var maps = ["military-engagements", "presidial-system", "bodega-ross-corridor", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
+  var maps = ["native-california", "military-engagements", "presidial-system", "bodega-ross-corridor", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {

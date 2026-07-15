@@ -41,6 +41,18 @@
 
   function markerFor(f, color) {
     var precision = f.coord_precision || 'place';
+    if (f.area_radius_km) {
+      // soft approximate-homeland circle with a permanent label
+      var circ = L.circle(f.coords, {
+        radius: f.area_radius_km * 1000, color: color, weight: 1.5,
+        dashArray: '6 5', fillColor: color, fillOpacity: 0.13
+      });
+      circ.bindPopup(popupHtml(f), { maxWidth: 380 });
+      circ.bindTooltip(f.name.split(' (')[0], {
+        permanent: true, direction: 'center', className: 'homeland-label'
+      });
+      return circ;
+    }
     var opts = {
       radius: 7, weight: 2, color: color, fillColor: color, fillOpacity: 0.85
     };

@@ -164,3 +164,8 @@ body {
     display: block; padding: 1rem 1.2rem; color: var(--ink-soft);
   }
 }
+
+/* native homelands map */
+.homeland-label { background: none; border: none; box-shadow: none;
+  font-family: var(--serif); font-size: 0.82rem; color: var(--ink);
+  text-shadow: 0 0 3px #fff, 0 0 5px #fff; font-weight: 600; }

@@ -7,6 +7,8 @@ os.makedirs(os.path.join(ROOT, "downloads"), exist_ok=True)
 rows = []
 for path in sorted(glob.glob(os.path.join(ROOT, "data", "*.json"))):
     d = json.load(open(path))
+    if "id" not in d or "features" not in d:
+        continue  # auxiliary data (e.g. peoples.json), not a map dataset
     feats = list(d.get("features", []))
     for r in d.get("routes", []):
         feats.extend(r.get("stops", []))
