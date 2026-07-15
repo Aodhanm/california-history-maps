@@ -2,12 +2,11 @@
  "updated": "2026-07-14",
  "note": "Captions are working placeholders written from the collection catalog and the holding institutions' records. Dates marked as catalog dates or unverified have not been checked against the sheet imprint.",
  "wanted": [
-  "Duflot de Mofras, Port de Quadra and Nutka plate (file truncated, needs re-download from Rumsey)",
-  "Cartas esfericas sheet 25, Puerto de Santiago (download failed, refetch from LOC)",
   "Narvaez, Plano del Territorio de la Alta California 1830 (digitized on Calisphere, blocked to scripts, needs a manual browser save)",
   "1839 Carta esferica de la costa de la Alta California (CSUMB Hornbeck, gated, manual save)",
-  "Higher resolution Costanso 1770 (current copy 1331 px, JCB can render larger)",
-  "Higher resolution Mitchell 1849 Oregon, Upper California and New Mexico (current copy 1200 px, Stanford IIIF has more)",
+  "Higher resolution Costanso 1770 (1331 px is the John Carter Brown Library's full size; a larger scan would need another holder)",
+  "Higher resolution Mitchell 1849 Oregon, Upper California and New Mexico (1200 px is Stanford's full size for this item)",
+  "Kotzebue and Choris, chart of San Francisco Bay from the Rurik voyage, 1816 (not on Rumsey; check LOC and Commons)",
   "Tanner, Map of the United States of Mexico, earlier edition (copy in collection has an unverified edition and is held back)"
  ],
  "groups": [
@@ -581,6 +580,48 @@
    "id": "loc-cartas-esfericas-1799-sheet24"
   },
   {
+   "file": "loc-cartas-esfericas-1799-sheet25.jpg",
+   "group": "atlas1799",
+   "title": "Cartas esfericas, sheet 25: Puerto de Santiago",
+   "maker": "1779",
+   "year": "1799 (compilation)",
+   "source_url": "https://www.loc.gov/item/2012593219/",
+   "credit": "Library of Congress, Geography and Map Division. Public domain.",
+   "caption": "Sheet 25 of the Spanish Navy's manuscript atlas of Pacific port surveys, 1775 to 1796. Per the contents list it shows Puerto de Santiago, surveyed by 1779. The identification follows the Library of Congress contents list and the sheet order, and has not been confirmed from the sheet itself.",
+   "better_copy": false,
+   "w": 4000,
+   "h": 3569,
+   "id": "loc-cartas-esfericas-1799-sheet25"
+  },
+  {
+   "file": "ca52-plano-pueblo-san-jose-suertes-1782.jpg",
+   "group": "spanmex",
+   "title": "Plano of the Pueblo San Jose suertes",
+   "maker": "Jose Moraga; Savage transcript copy",
+   "year": "1782 (copy ca. 1870s)",
+   "source_url": "https://archive.org/details/bancarchca_81_14/page/n238",
+   "credit": "The Bancroft Library, University of California, Berkeley, via Internet Archive. BANC MSS C-A 52.",
+   "caption": "Plan of the farm plots distributed to the settlers of the Pueblo San Jose, dated April 23, 1782, over Jose Moraga's signature. Each suerte in the grid carries a settler's name, with the Rio de Guadalupe and the acequia drawn alongside. The original burned in 1906; this is the plan as copied into the Savage transcripts, the only surviving version.",
+   "better_copy": false,
+   "w": 2685,
+   "h": 4000,
+   "id": "ca52-plano-pueblo-san-jose-suertes-1782"
+  },
+  {
+   "file": "ca52-plano-pueblo-los-angeles-1786.jpg",
+   "group": "spanmex",
+   "title": "Plano of the Pueblo de la Reina de los Angeles",
+   "maker": "Savage transcript copy of the 1786 original",
+   "year": "1786 (copy ca. 1870s)",
+   "source_url": "https://archive.org/details/bancarchca_81_14/page/n302",
+   "credit": "The Bancroft Library, University of California, Berkeley, via Internet Archive. BANC MSS C-A 52.",
+   "caption": "The earliest town plan of Los Angeles, from the pueblo's 1786 possession papers. It shows the plaza with the church marked by a cross, the grid of house lots and farm plots, the Rio de Porciuncula, and the Acequia Madre. The original burned in 1906; this is the Savage transcript copy. It pairs with the Ord and Hutton survey of 1849 in the Conquest section as the beginning and end of the pueblo era.",
+   "better_copy": false,
+   "w": 2339,
+   "h": 4000,
+   "id": "ca52-plano-pueblo-los-angeles-1786"
+  },
+  {
    "file": "sanson-1657-audience-guadalajara-california-island.jpg",
    "group": "spanmex",
    "title": "Audience de Guadalajara, Nouveau Mexique, Californie",
@@ -761,6 +802,34 @@
    "w": 4000,
    "h": 2753,
    "id": "duflot-1844-rio-colorado-san-diego"
+  },
+  {
+   "file": "duflot-1844-quadra-nutka.jpg",
+   "group": "russian",
+   "title": "Port de Quadra ou de la Decouverte, with the Plan du Port de Nutka",
+   "maker": "Duflot de Mofras",
+   "year": "1844",
+   "source_url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~1800~210013",
+   "credit": "Courtesy David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. CC BY-NC-SA.",
+   "caption": "Two harbor plans on one plate, Port Quadra or Discovery and Nootka with the Cala de los Amigos. These are the Vancouver Island ports where Spain and Britain fought out the Nootka crisis of 1789 to 1794, redrawn by Duflot fifty years later.",
+   "better_copy": false,
+   "w": 4000,
+   "h": 2745,
+   "id": "duflot-1844-quadra-nutka"
+  },
+  {
+   "file": "duflot-1844-mouillage-san-pedro-santa-barbara.jpg",
+   "group": "russian",
+   "title": "Mouillage de San Pedro, with the Mouillage de la Mission de Santa Barbara",
+   "maker": "Duflot de Mofras",
+   "year": "1844",
+   "source_url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~1795~210008",
+   "credit": "Courtesy David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. CC BY-NC-SA.",
+   "caption": "Duflot's anchorage plans for San Pedro and the Santa Barbara roadstead, numbers 12 and 13 of the atlas. These open roadsteads were the working ports of the southern hide trade.",
+   "better_copy": false,
+   "w": 4000,
+   "h": 2744,
+   "id": "duflot-1844-mouillage-san-pedro-santa-barbara"
   },
   {
    "file": "duflot-1844-plan-geometrique-mission-san-luis-rey.jpg",
