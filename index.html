@@ -80,6 +80,15 @@
         with everyone. Companion to a research article in progress.</p>
       </div>
     </a>
+    <a class="card" href="maps/population-californias.html">
+      <div class="thumb" style="background-image:url(assets/previews/population-californias.jpg)"></div>
+      <div class="body">
+        <h3>Population of the Californias, 1782–1833</h3>
+        <p class="meta" data-count="population-californias">Padrones · censos · mission registros</p>
+        <p>Every count in the archive, settlement by settlement, in the documents' own categories.
+        The headline: in 1790 the entire Spanish population of Alta California was 910 people.</p>
+      </div>
+    </a>
     <a class="card" href="maps/missions-establishments.html">
       <div class="thumb" style="background-image:url(assets/previews/missions-establishments.jpg)"></div>
       <div class="body">
@@ -186,7 +195,7 @@
 
 <script>
 (function () {
-  var maps = ["native-california", "military-engagements", "presidial-system", "bodega-ross-corridor", "missions-establishments", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
+  var maps = ["native-california", "military-engagements", "presidial-system", "bodega-ross-corridor", "missions-establishments", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {
