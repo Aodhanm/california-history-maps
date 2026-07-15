@@ -5,7 +5,6 @@
   "Narvaez, Plano del Territorio de la Alta California 1830 (digitized on Calisphere, blocked to scripts, needs a manual browser save)",
   "1839 Carta esferica de la costa de la Alta California (CSUMB Hornbeck, gated, manual save)",
   "Higher resolution Costanso 1770 (1331 px is the John Carter Brown Library's full size; a larger scan would need another holder)",
-  "Higher resolution Mitchell 1849 Oregon, Upper California and New Mexico (1200 px is Stanford's full size for this item)",
   "Kotzebue and Choris, chart of San Francisco Bay from the Rurik voyage, 1816 (not on Rumsey; check LOC and Commons)",
   "Tanner, Map of the United States of Mexico, earlier edition (copy in collection has an unverified edition and is held back)",
   "A Russian-made chart of Ross or Bodega (RAC/Kuskov era) — none found openly digitized; check RGAVMF/Gibson plates"
@@ -1141,18 +1140,18 @@
    "id": "fremont-preuss-1848-oregon-upper-california"
   },
   {
-   "file": "oregon-upper-california-new-mexico-1849.jpg",
+   "file": "mitchell-1849-oregon-uc-nm.jpg",
    "group": "conquest",
    "title": "Oregon, Upper California and New Mexico",
    "maker": "S. Augustus Mitchell",
    "year": "1849",
-   "source_url": "https://purl.stanford.edu/wk370rr6021",
-   "credit": "Stanford Libraries, Barry Lawrence Ruderman Map Collection.",
-   "caption": "The ceded conquest as first mapped for the American public, published in Philadelphia in 1849. Upper or New California still fills the whole interior basin. The maker and date were read from the sheet.",
-   "better_copy": true,
-   "w": 3206,
+   "source_url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~35734~1200960",
+   "credit": "Courtesy David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. CC BY-NC-SA.",
+   "caption": "The ceded conquest as first mapped for the American public, published in Philadelphia in 1849. Upper or New California still fills the whole interior basin. This copy replaces an earlier low resolution scan; the sheet is now fully readable at zoom.",
+   "better_copy": false,
+   "w": 3117,
    "h": 4000,
-   "id": "oregon-upper-california-new-mexico-1849"
+   "id": "mitchell-1849-oregon-uc-nm"
   },
   {
    "file": "ord-hutton-1849-plan-la-LAPL-period.jpg",
@@ -1279,6 +1278,62 @@
    "w": 859,
    "h": 569,
    "id": "voznesensky-chernykh-ranch-1841"
+  },
+  {
+   "file": "ringgold-1851-general-chart-sf-bay.jpg",
+   "group": "conquest",
+   "title": "General Chart, San Francisco Bay",
+   "maker": "Cadwalader Ringgold",
+   "year": "1851 (surveys 1850)",
+   "source_url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24355~890046",
+   "credit": "Courtesy David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. CC BY-NC-SA.",
+   "caption": "From Ringgold's series of charts with sailing directions, the first thorough American survey of the bay after the conquest, made for the Gold Rush shipping that Beechey's old chart could no longer serve.",
+   "better_copy": false,
+   "w": 4000,
+   "h": 2693,
+   "id": "ringgold-1851-general-chart-sf-bay"
+  },
+  {
+   "file": "ringgold-1851-san-pablo-carquinez.jpg",
+   "group": "conquest",
+   "title": "San Pablo Bay and Carquines Straits",
+   "maker": "Cadwalader Ringgold",
+   "year": "1851 (surveys 1850)",
+   "source_url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24346~890037",
+   "credit": "Courtesy David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. CC BY-NC-SA.",
+   "caption": "The strait's first American navigation chart. The narrows the Karkin once controlled, sounded for the river traffic to the gold country.",
+   "better_copy": false,
+   "w": 2665,
+   "h": 4000,
+   "id": "ringgold-1851-san-pablo-carquinez"
+  },
+  {
+   "file": "ringgold-1851-suisun-vallejo-bays.jpg",
+   "group": "conquest",
+   "title": "Suisun and Vallejo Bays",
+   "maker": "Cadwalader Ringgold",
+   "year": "1851 (surveys 1850)",
+   "source_url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24357~890048",
+   "credit": "Courtesy David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. CC BY-NC-SA.",
+   "caption": "Ringgold's chart of Suisun Bay and the Vallejo anchorage, the water road to Sacramento. Solano County's shore in its first American survey.",
+   "better_copy": false,
+   "w": 4000,
+   "h": 2709,
+   "id": "ringgold-1851-suisun-vallejo-bays"
+  },
+  {
+   "file": "beechey-plan-harbour-san-francisco.jpg",
+   "group": "foreign",
+   "title": "Plan of the Harbour of San Francisco and its Vicinity",
+   "maker": "F. W. Beechey",
+   "year": "surveys 1826–28",
+   "source_url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~305712~90076089",
+   "credit": "Courtesy David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. CC BY-NC-SA.",
+   "caption": "A second Beechey sheet of the bay, companion to the harbour chart already in this group. The Royal Navy's survey remained the standard picture of the bay for two decades.",
+   "better_copy": false,
+   "w": 2778,
+   "h": 4000,
+   "id": "beechey-plan-harbour-san-francisco"
   }
  ]
 }
