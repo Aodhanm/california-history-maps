@@ -52,6 +52,15 @@
       });
       return poly;
     }
+    if (f.label_only) {
+      var anchor = L.circleMarker(f.coords, { radius: 3, weight: 1, color: color,
+        fillColor: color, fillOpacity: 0.5, opacity: 0.6 });
+      anchor.bindPopup(popupHtml(f), { maxWidth: 380 });
+      anchor.bindTooltip(f.name.split(' (')[0], {
+        permanent: true, direction: 'top', offset: [0, -2], className: 'homeland-label sub'
+      });
+      return anchor;
+    }
     if (f.area_radius_km) {
       // soft approximate-homeland circle with a permanent label
       var circ = L.circle(f.coords, {
@@ -233,7 +242,7 @@
         ? L.markerClusterGroup({ maxClusterRadius: 36, disableClusteringAtZoom: 9 })
         : L.layerGroup();
       state.layerGroups[ly.id] = g;
-      g.addTo(map);
+      if (!ly.default_off) g.addTo(map);
       overlays['<span class="swatch" style="background:' + ly.color + '"></span> ' + esc(ly.label)] = g;
     });
 
