@@ -12,7 +12,6 @@
   var activeGroup = 'all';
   var query = '';
   var sortMode = 'theme';   // theme | year
-  var decade = null;        // e.g. 1770 filters 1770-1779
 
   function itemYear(it) {
     var m = /(1[5-9]\d\d)/.exec(it.year || '');
@@ -22,10 +21,6 @@
     if (query) {
       var hay = (it.title + ' ' + (it.maker || '') + ' ' + it.year + ' ' + it.caption).toLowerCase();
       if (hay.indexOf(query) === -1) return false;
-    }
-    if (decade != null) {
-      var y = itemYear(it);
-      if (y == null || y < decade || y >= decade + 10) return false;
     }
     return true;
   }
@@ -73,7 +68,7 @@
         shown += items.length;
       });
     }
-    if (!shown) root.innerHTML = '<p class="prose">Nothing matches. Clear the search or decade filter.</p>';
+    if (!shown) root.innerHTML = '<p class="prose">Nothing matches. Clear the search.</p>';
   }
 
   function buildTools() {
@@ -95,30 +90,7 @@
       render();
     });
     bar.appendChild(sortBtn);
-    // decade strip
-    var years = data.items.map(itemYear).filter(function (y) { return y != null; });
-    var lo = Math.floor(Math.min.apply(null, years) / 10) * 10;
-    var hi = Math.floor(Math.max.apply(null, years) / 10) * 10;
-    var strip = document.createElement('div');
-    strip.className = 'decades';
-    strip.setAttribute('role', 'toolbar');
-    strip.setAttribute('aria-label', 'Filter by decade');
-    for (var d = lo; d <= hi; d += 10) {
-      (function (dd) {
-        var n = years.filter(function (y) { return y >= dd && y < dd + 10; }).length;
-        var b = document.createElement('button');
-        b.className = 'decade' + (n ? '' : ' empty');
-        b.innerHTML = dd + 's' + (n ? ' <span>' + n + '</span>' : '');
-        b.addEventListener('click', function () {
-          decade = (decade === dd) ? null : dd;
-          Array.prototype.forEach.call(strip.children, function (c) { c.classList.remove('active'); });
-          if (decade != null) b.classList.add('active');
-          render();
-        });
-        strip.appendChild(b);
-      })(d);
-    }
-    bar.appendChild(strip);
+
   }
 
   function buildChips() {
