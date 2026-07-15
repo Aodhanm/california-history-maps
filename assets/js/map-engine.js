@@ -238,14 +238,11 @@
       if (!id) return;
       state.allMarkers.some(function (rec) {
         if (rec.feature.id === id) {
+          // zoom past the clustering cutoff so the marker stands alone, then open
+          var open = function () { setTimeout(function () { rec.marker.openPopup(); }, 150); };
+          if (map.getZoom() >= 10) { open(); }
+          else { map.once('moveend zoomend', open); }
           map.setView(rec.feature.coords, Math.max(map.getZoom(), 10));
-          var g = state.layerGroups[rec.layerId];
-          if (g && g.zoomToShowLayer && g.hasLayer(rec.marker)) {
-            // marker may be inside a cluster — expand it first
-            g.zoomToShowLayer(rec.marker, function () { rec.marker.openPopup(); });
-          } else {
-            rec.marker.openPopup();
-          }
           return true;
         }
       });
