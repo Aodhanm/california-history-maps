@@ -263,41 +263,41 @@ add("bowen-north-america-composite.jpg", "claims",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~1901~120008", RUM,
     "The standard British mid eighteenth century map of the continent, carrying New Albion on the Pacific coast. The Drake claim, kept alive in print for two hundred years.")
 add("arrowsmith-new-discoveries-north-america.jpg", "claims",
-    "A Map Exhibiting All the New Discoveries in the Interior Parts of North America", "Aaron Arrowsmith", "editions 1795 to 1811 (edition unverified)",
+    "A Map Exhibiting All the New Discoveries in the Interior Parts of North America", "Aaron Arrowsmith", "1814 state (first published 1795)",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~910~50002", RUM,
-    "London's running state of knowledge map of the west and the northwest coast, the Hudson's Bay Company world. The edition of this copy has not been checked against the imprint.")
+    "London's running state of knowledge map of the west and the northwest coast, the Hudson's Bay Company world. This copy is the 1814 state, the plate of 1795 carried forward with additions to 1811 and 1814, the issue that first incorporated the Lewis and Clark discoveries (Stevens and Tree 48; Wheat 313).")
 add("lewis-1804-louisiana.jpg", "claims",
     "Louisiana", "Samuel Lewis", "1804 (catalog date)",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31655~1150131", RUM,
     "The purchase era map of the Louisiana territory, from the Arrowsmith and Lewis atlas. What the United States thought it had just bought.")
 add("humboldt-carte-generale-nouvelle-espagne.jpg", "claims",
-    "Carte generale du Royaume de la Nouvelle Espagne", "Alexander von Humboldt", "1811 atlas (edition unverified)",
+    "Carte generale du Royaume de la Nouvelle Espagne", "Alexander von Humboldt", "1811 atlas (plate engraved 1809)",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~1866~170004", RUM,
-    "Humboldt's general map of New Spain, the most authoritative published picture of Mexico's geography before independence. Every claims map of the next generation argued with this one.")
+    "Humboldt's general map of New Spain, the most authoritative published picture of Mexico's geography before independence. Every claims map of the next generation argued with this one. This is the northern sheet of the Carte generale, drawn at Mexico in 1804 and engraved in 1809, from the first French edition of Humboldt's atlas, 1811 (Wheat 272 to 275).")
 add("melish-1816-united-states.jpg", "claims",
-    "Map of the United States with the Contiguous British and Spanish Possessions", "John Melish", "1816 (edition unverified)",
+    "Map of the United States with the Contiguous British and Spanish Possessions", "John Melish", "1822 second state (first issued 1816)",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281825~90054769", RUM,
-    "American map of the continent. It colors the United States claim west to the Pacific, north of Spanish California, with Spanish possessions south of about 42 degrees. The coloring was read from this copy. Melish reissued the map constantly between 1816 and 1823 and the edition of this copy is unverified. The 42 degree line here anticipates the Adams Onis treaty boundary of 1819.")
+    "American map of the continent, the first to color a United States claim running unbroken to the Pacific. The coloring was read from this copy. This is the second state of the 1822 edition, the improved to 1822 issue and the last Melish published before his death in 1823, of a map he first issued in 1816 (Martin and Ristow 24; Streeter 3812). The 42 degree line here anticipates the Adams Onis treaty boundary of 1819.")
 add("robinson-1819-mexico-louisiana-missouri.jpg", "claims",
     "A Map of Mexico, Louisiana, and the Missouri Territory", "John H. Robinson", "1819",
     "https://www.loc.gov/item/2004631496/", LOC,
     "The maximal American cartographic claim of the treaty moment, published in Philadelphia in 1819. Robinson drew the American case at its most aggressive just as the boundary was being negotiated.")
 add("tanner-1847-map-united-states-of-mexico.jpg", "claims",
-    "Map of the United States of Mexico", "H. S. Tanner", "1847",
+    "Map of the United States of Mexico", "H. S. Tanner", "1847 (Fourth Edition)",
     "https://purl.stanford.edu/nd391yp3930", STA,
-    "The war year edition of Tanner's standard American map of the Mexican republic. The Tanner plate fed directly into the treaty cartography arguments of 1848.")
+    "The Fourth Edition of Tanner's map of the Mexican republic, Philadelphia 1847, the most influential general map of the Mexican American War and the first to carry Fremont's discoveries. This edition is distinguished by its added inset of the harbor of Vera Cruz (Streeter 3825, Wheat 695). An earlier Tanner issue was the source, through the White, Gallaher and White map of 1828, of the boundary that Disturnell's map later carried into the Treaty of Guadalupe Hidalgo.")
 add("disturnell-1847-mapa-estados-unidos-mejico.jpg", "claims",
-    "Mapa de los Estados Unidos de Mejico", "J. Disturnell", "1847",
+    "Mapa de los Estados Unidos de Mejico", "J. Disturnell", "1847 (seventh edition, the Treaty Map)",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~228~20030", RUM,
-    "The Disturnell map, the family of maps referenced by the Treaty of Guadalupe Hidalgo. Disturnell issued at least seven 1847 editions with differing boundaries, and the edition of this copy is unverified, which matters before making any boundary claim from it.")
+    "The Disturnell map, the family of maps referenced by the Treaty of Guadalupe Hidalgo. Disturnell issued several editions in 1847 with differing boundaries. This copy is catalogued as the seventh edition, the one the Rumsey and Streeter records identify as the Treaty Map consulted in the negotiations of February 1848, distinguished by having only two insets in the Gulf of Mexico where later issues have four (Streeter 255, Wheat 540).")
 add("mitchell-1846-texas-oregon-california.jpg", "claims",
-    "A New Map of Texas, Oregon and California", "S. A. Mitchell", "1846 (catalog date)",
+    "A New Map of Texas, Oregon and California", "S. A. Mitchell", "1846 (first issue)",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~238~20003", RUM,
-    "The annexation year synthesis, sold to emigrants and expansionists alike. Texas, Oregon, and California as one connected American question.")
+    "The annexation year synthesis, sold to emigrants and expansionists alike. Texas, Oregon, and California as one connected American question. This is the first issue of 1846, entered for copyright in 1845, before the later editions of 1849, 1851, and 1852 (Wheat 520, Streeter 2511).")
 add("wyld-mexico-british-possessions-composite.jpg", "claims",
-    "Mexico, the British Possessions in North America and the United States", "James Wyld", "1840s (date unverified)",
+    "Mexico, the British Possessions in North America and the United States", "James Wyld", "1846",
     "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~258993~5522262", RUM,
-    "London's view of the continental partition in the Oregon question era, on two sheets joined.")
+    "London's view of the continental partition in the Oregon question era, on two sheets joined. Published by James Wyld in London in 1846, a reduced reissue of his 1824 Map of North America, updated with the Oregon Trail, Fremont's South Pass, and Forts Hall and Boise.")
 
 # ── Conquest and Gold Rush ──
 add("emory-1847-military-reconnaissance.jpg", "conquest",
