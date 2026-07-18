@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15",
+ "updated": "2026-07-17",
  "people": [
   {
    "name": "Charagui",
@@ -278,10 +278,10 @@
      "name": "Chief Vallí-éla Requests Russian Flag"
     },
     {
-     "map": "zalvidea-moraga-1806",
-     "map_title": "The 1806 Interior Expeditions — Zalvidea & Moraga",
-     "id": "moraga-north-13-cosumnes-river-northernmost-point",
-     "name": "Cosumnes River — Northernmost Point"
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-coast-miwok",
+     "name": "Coast Miwok territory"
     }
    ]
   },
@@ -312,6 +312,18 @@
      "map_title": "Military Engagements in Spanish and Mexican California",
      "id": "reg-114-ibarra-s-punitive-battle-at-santa-isabel-veinte",
      "name": "Ibarra's punitive battle at Santa Isabel ('veinte pares de orejas')"
+    },
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-tipai-kumeyaay",
+     "name": "Kumeyaay territory"
+    },
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-ipai-kumeyaay",
+     "name": "Kumeyaay territory"
     }
    ]
   },
@@ -324,6 +336,12 @@
      "map_title": "Military Engagements in Spanish and Mexican California",
      "id": "reg-114-ibarra-s-punitive-battle-at-santa-isabel-veinte",
      "name": "Ibarra's punitive battle at Santa Isabel ('veinte pares de orejas')"
+    },
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-cahuilla",
+     "name": "Cahuilla territory"
     }
    ]
   },
@@ -378,6 +396,12 @@
      "map_title": "Military Engagements in Spanish and Mexican California",
      "id": "label-yuma-colorado-r",
      "name": "Yuma/Colorado R."
+    },
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-quechan",
+     "name": "Quechan (Yuma) territory"
     }
    ]
   },
@@ -408,6 +432,12 @@
      "map_title": "Military Engagements in Spanish and Mexican California",
      "id": "reg-107-ambush-of-the-san-diego-pursuit-party-dominican",
      "name": "Ambush of the San Diego pursuit party (Dominican frontier)"
+    },
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-chumash",
+     "name": "Chumash territory"
     }
    ]
   },
@@ -448,26 +478,8 @@
     {
      "map": "moraga-expeditions",
      "map_title": "Gabriel Moraga's Expeditions",
-     "id": "rsuisun-1-presidio-of-san-francisco",
+     "id": "ref-presidio-of-san-francisco",
      "name": "Presidio of San Francisco"
-    },
-    {
-     "map": "moraga-expeditions",
-     "map_title": "Gabriel Moraga's Expeditions",
-     "id": "rsuisun-4-skirmish-on-suisun-creek",
-     "name": "Skirmish on Suisun Creek"
-    },
-    {
-     "map": "moraga-expeditions",
-     "map_title": "Gabriel Moraga's Expeditions",
-     "id": "rsuisun-5-battle-at-malaca-s-rancheria",
-     "name": "Battle at Malaca's Ranchería"
-    },
-    {
-     "map": "moraga-expeditions",
-     "map_title": "Gabriel Moraga's Expeditions",
-     "id": "rsanrafael-3-mission-san-rafael-site",
-     "name": "Mission San Rafael Site"
     }
    ]
   },
@@ -504,6 +516,12 @@
      "map_title": "Military Engagements in Spanish and Mexican California",
      "id": "reg-68-moraga-s-failed-expedition-to-amajava",
      "name": "Moraga's Failed Expedition to Amajava"
+    },
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-mohave",
+     "name": "Mojave (Amajava) territory"
     }
    ]
   },
@@ -558,24 +576,6 @@
      "map_title": "The Bodega–Ross Corridor",
      "id": "aleut-fleet-1811",
      "name": "The 1811 Aleut otter fleet in San Francisco Bay"
-    },
-    {
-     "map": "bodega-ross-corridor",
-     "map_title": "The Bodega–Ross Corridor",
-     "id": "rbodega-6-bodega-bay",
-     "name": "Bodega Bay"
-    },
-    {
-     "map": "bodega-ross-corridor",
-     "map_title": "The Bodega–Ross Corridor",
-     "id": "rross1812-6-fort-ross",
-     "name": "Fort Ross"
-    },
-    {
-     "map": "bodega-ross-corridor",
-     "map_title": "The Bodega–Ross Corridor",
-     "id": "rross1813-5-fort-ross",
-     "name": "Fort Ross"
     },
     {
      "map": "borderlands-frontier",
@@ -640,22 +640,698 @@
     {
      "map": "moraga-expeditions",
      "map_title": "Gabriel Moraga's Expeditions",
-     "id": "rbodega-6-bodega-bay",
+     "id": "label-bodega-bay",
      "name": "Bodega Bay"
     },
     {
      "map": "moraga-expeditions",
      "map_title": "Gabriel Moraga's Expeditions",
-     "id": "rross1812-6-fort-ross",
+     "id": "ref-fort-ross",
      "name": "Fort Ross"
     },
     {
      "map": "moraga-expeditions",
      "map_title": "Gabriel Moraga's Expeditions",
-     "id": "rross1813-5-fort-ross",
+     "id": "ref-fort-ross",
      "name": "Fort Ross"
     }
    ]
+  },
+  {
+   "name": "Achumawi",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-achumawi",
+     "name": "Achumawi territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Atsugewi",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-atsugewi",
+     "name": "Atsugewi territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Cahto",
+   "blurb": "The Athabaskan-speaking Cahto of the upper Eel River country.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-cahto",
+     "name": "Cahto territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Chemehuevi",
+   "blurb": "The desert west of the Colorado River.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-chemehuevi",
+     "name": "Chemehuevi territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Chilula",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-chilula",
+     "name": "Chilula territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Chimariko",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-chimariko",
+     "name": "Chimariko territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Cupeño",
+   "blurb": "The hot springs country at Warner's ranch.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-cupeno",
+     "name": "Cupeño territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Eastern Miwok",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-eastern-miwok",
+     "name": "Eastern Miwok territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Esselen",
+   "blurb": "The Santa Lucia mountains south of Monterey.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-esselen",
+     "name": "Esselen territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Foothill Yokuts",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-foothill-yokuts",
+     "name": "Foothill Yokuts territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Halchidhoma",
+   "blurb": "Also recorded as Mojave.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-halchidhoma",
+     "name": "Halchidhoma territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Hupa",
+   "blurb": "The Trinity River valley, inland from the Yurok.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-hupa",
+     "name": "Hupa territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Karuk",
+   "blurb": "The middle Klamath River.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-karuk",
+     "name": "Karuk territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Kawaiisu",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-kawaiisu",
+     "name": "Kawaiisu territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Kitanemuk",
+   "blurb": "The Tehachapi country.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-kitanemuk",
+     "name": "Kitanemuk territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Konkow",
+   "blurb": "The Feather River foothills.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-konkow",
+     "name": "Konkow territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Lake Miwok",
+   "blurb": "The Clear Lake basin's southern edge.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-lake-miwok",
+     "name": "Lake Miwok territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Lassik",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-lassik",
+     "name": "Lassik territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Luiseño",
+   "blurb": "The San Luis Rey and San Jacinto country; the people of Mission San Luis Rey. Also recorded as Juaneno, in part.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-luiseno",
+     "name": "Luiseño territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Maidu",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-maidu",
+     "name": "Maidu territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Mattole",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-mattole",
+     "name": "Mattole territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Modoc",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-modoc",
+     "name": "Modoc territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Monache",
+   "blurb": "The upper San Joaquin and Kings River high country (Western Mono).",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-monache",
+     "name": "Monache territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Nisenan",
+   "blurb": "The American, Bear, and Yuba river country.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-nisenan",
+     "name": "Nisenan territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Nomlaki",
+   "blurb": "The west side of the middle Sacramento Valley.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-nomlaki",
+     "name": "Nomlaki territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Nongatl",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-nongatl",
+     "name": "Nongatl territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Northern Paiute",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-northern-paiute",
+     "name": "Northern Paiute territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Northern Valley Yokuts",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-northern-valley-yokuts",
+     "name": "Northern Valley Yokuts territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Ohlone (Costanoan)",
+   "blurb": "The San Francisco peninsula, the East Bay, and the Monterey Bay country; the peoples of Missions Dolores, Santa Clara, San José, and Carmel. Shown here holding both shores of Carquinez Strait through the Karkin: a coastal strip about two miles deep on the north shore, from Crockett past Benicia. An editorial departure from the Handbook plate, which ends Costanoan territory at the south shore.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-ohlone-costanoan",
+     "name": "Ohlone (Costanoan) territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Owens Valley Paiute",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-owens-valley-paiute",
+     "name": "Owens Valley Paiute territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Patwin",
+   "blurb": "The lower west side of the Sacramento Valley; the Suisun people of the 1810–17 campaigns spoke a Patwin language.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-patwin",
+     "name": "Patwin territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Pomo",
+   "blurb": "The Russian River country and Clear Lake; several distinct languages share the name. The Kashaya, on whose coast Fort Ross was built, are the southwestern Pomo people.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-pomo",
+     "name": "Pomo territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Salinan",
+   "blurb": "The upper Salinas River country; drawn into Missions San Antonio and San Miguel.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-salinan",
+     "name": "Salinan territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Serrano",
+   "blurb": "The San Bernardino mountains and the desert beyond Cajon Pass.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-serrano",
+     "name": "Serrano territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Shasta",
+   "blurb": "The Shasta Valley and upper Klamath country.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-shasta",
+     "name": "Shasta territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Sinkyone",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-sinkyone",
+     "name": "Sinkyone territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Southern Paiute",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-southern-paiute",
+     "name": "Southern Paiute territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Southern Valley Yokuts",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-southern-valley-yokuts",
+     "name": "Southern Valley Yokuts territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Tataviam",
+   "blurb": "The upper Santa Clara River, north of the San Fernando Valley.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-tataviam",
+     "name": "Tataviam territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Tolowa",
+   "blurb": "The Smith River country in the far northwest corner.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-tolowa",
+     "name": "Tolowa territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Tongva (Gabrielino)",
+   "blurb": "The Los Angeles basin and the southern Channel Islands; the people of Mission San Gabriel and of Toypurina's 1785 revolt.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-tongva-gabrielino",
+     "name": "Tongva (Gabrielino) territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Tübatulabal",
+   "blurb": "The Kern River forks.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-tubatulabal",
+     "name": "Tübatulabal territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Wailaki",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-wailaki",
+     "name": "Wailaki territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Wappo",
+   "blurb": "The Napa Valley and Mount St. Helena country.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-wappo",
+     "name": "Wappo territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Washoe",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-washoe",
+     "name": "Washoe territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Western Shoshone",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-western-shoshone",
+     "name": "Western Shoshone territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Whilkut",
+   "blurb": "A Native nation of California; territory shown on the Native California map.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-whilkut",
+     "name": "Whilkut territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Wintu",
+   "blurb": "The upper Sacramento Valley and Trinity foothills.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-wintu",
+     "name": "Wintu territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Wiyot",
+   "blurb": "Humboldt Bay and the lower Eel River.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-wiyot",
+     "name": "Wiyot territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Yana",
+   "blurb": "The eastern Sacramento Valley foothills.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-yana",
+     "name": "Yana territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Yuki",
+   "blurb": "Round Valley and the upper Eel River; a language family unique to California.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-yuki",
+     "name": "Yuki territory"
+    }
+   ],
+   "auto": true
+  },
+  {
+   "name": "Yurok",
+   "blurb": "Lower Klamath River and the adjacent coast.",
+   "pins": [
+    {
+     "map": "native-california",
+     "map_title": "Native California",
+     "id": "t-yurok",
+     "name": "Yurok territory"
+    }
+   ],
+   "auto": true
   }
  ]
 }
