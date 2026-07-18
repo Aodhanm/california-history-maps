@@ -1,10 +1,10 @@
 # California History Maps
 
-**Live: https://aodhanm.github.io/california-history-maps/**
+**Live: https://maps.archivesofcalifornia.com/**
 
 Interactive, source-cited maps of Spanish and Mexican California (1769–1848),
 data-driven from JSON files and a shared Leaflet engine. Companion to
-[*Archives of California: A Documentary Calendar of the Savage Transcripts*](https://aodhanm.github.io/archives-of-california/).
+[*Archives of California: A Documentary Calendar of the Savage Transcripts*](https://archivesofcalifornia.com/).
 
 ## Layout
 - `data/*.json` — one dataset per map ([schema](data/schema.md))
