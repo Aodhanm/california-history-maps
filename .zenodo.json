@@ -1,0 +1,35 @@
+{
+  "title": "California History Maps: Interactive Cartography of Spanish and Mexican California",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Coyne, Aodhan",
+      "orcid": "0009-0002-8630-3768"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://maps.archivesofcalifornia.com/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21327098",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ],
+  "keywords": [
+    "California history",
+    "Spanish California",
+    "Mexican California",
+    "historical GIS",
+    "digital history",
+    "historical cartography"
+  ],
+  "description": "Interactive, source-cited maps of Spanish and Mexican California (1769-1848): military engagements, expeditions, mission and presidio systems, population, Native nations, and the imperial frontier, keyed to the manuscript record of the Archives of California (BANC MSS C-A, the Savage transcripts) and the printed primary and secondary literature. The plotted, verified synthesis is the citable object; base tiles and the underlying public-domain sources belong to their institutions. Companion cartographic site to the Archives of California documentary calendar (doi:10.5281/zenodo.21327098). Live interface: https://maps.archivesofcalifornia.com/",
+  "access_right": "open"
+}
