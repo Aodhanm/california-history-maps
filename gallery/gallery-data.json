@@ -7,7 +7,9 @@
   "Higher resolution Costanso 1770 (1331 px is the John Carter Brown Library's full size; a larger scan would need another holder)",
   "Kotzebue and Choris, chart of San Francisco Bay from the Rurik voyage, 1816 (not on Rumsey; check LOC and Commons)",
   "Tanner, Map of the United States of Mexico, earlier edition (copy in collection has an unverified edition and is held back)",
-  "A Russian-made chart of Ross or Bodega (RAC/Kuskov era) — none found openly digitized; check RGAVMF/Gibson plates"
+  "A Russian-made chart of Ross or Bodega (RAC/Kuskov era) — none found openly digitized; check RGAVMF/Gibson plates",
+  "Wilkes 1841, A Correct Map... Monterey to the Sacramento Valley (only found inside the full US Ex.Ex. atlas PDF; extract a clean plate or pull from David Rumsey)",
+  "Pedro Font 1777, map of the Anza expedition / San Francisco Bay (Bancroft brk00012360 + JCB; best open scans are on Calisphere/Bancroft which block scripts — needs a manual browser save)"
  ],
  "groups": [
   {
@@ -1334,6 +1336,45 @@
    "w": 2778,
    "h": 4000,
    "id": "beechey-plan-harbour-san-francisco"
+  },
+  {
+   "file": "fremont-preuss-1845-rocky-mountains-oregon-california.jpg",
+   "group": "conquest",
+   "title": "Map of an Exploring Expedition to the Rocky Mountains, Oregon and North California",
+   "maker": "John C. Fremont and Charles Preuss",
+   "year": "1845",
+   "source_url": "https://www.loc.gov/item/96688042/",
+   "credit": "Library of Congress, Geography and Map Division. Public domain.",
+   "caption": "The map that put California into the American imagination. Charles Preuss drew it from Fremont's expeditions of 1842 to 1844, fixing the Great Salt Lake and the overland trails that carried the migration into Mexican California. It was the most influential map of the West in the decade of the conquest.",
+   "w": 4000,
+   "h": 2373,
+   "id": "fremont-preuss-1845-rocky-mountains-oregon-california"
+  },
+  {
+   "file": "coast-survey-monterey-bay-1857.jpg",
+   "group": "conquest",
+   "title": "Monterey Bay, California (U.S. Coast Survey)",
+   "maker": "US Coast Survey (A. D. Bache)",
+   "year": "1857",
+   "source_url": "https://commons.wikimedia.org/wiki/File:1857_U.S._Coast_Survey_Map_of_Monterey_Bay,_California_-_Geographicus_-_MonterayBay-usca-1857.jpg",
+   "credit": "Wikimedia Commons. Public domain.",
+   "caption": "The federal survey of Monterey Bay, harbor of the old Spanish and Mexican capital, charted by the power that had just taken it. From a trigonometrical survey under A. D. Bache, Superintendent of the Coast Survey.",
+   "w": 2676,
+   "h": 4000,
+   "id": "coast-survey-monterey-bay-1857"
+  },
+  {
+   "file": "coast-survey-san-diego-bay-1857.jpg",
+   "group": "conquest",
+   "title": "San Diego Bay, California (U.S. Coast Survey)",
+   "maker": "US Coast Survey (A. D. Bache)",
+   "year": "1857",
+   "source_url": "https://commons.wikimedia.org/wiki/File:1857_U.S.C.S._Map_of_San_Diego_Bay,_California_-_Geographicus_-_SanDiegoBay-uscs-1857.jpg",
+   "credit": "Wikimedia Commons. Public domain.",
+   "caption": "The Coast Survey chart of San Diego Bay, the southern anchor of the province and the first Spanish landfall of 1769, mapped in detail by the American survey a decade after the conquest.",
+   "w": 3126,
+   "h": 4000,
+   "id": "coast-survey-san-diego-bay-1857"
   }
  ]
 }
