@@ -403,6 +403,121 @@ HEADNOTES = {
                     "know.",
         "look_for": "the first systematic soundings of a bay no European had charted a decade earlier.",
     },
+    "loc-bq05-plano-puerto-capitan-bodega-1775": {
+        "headnote": "The founding map of the Bodega claim. Bodega y Quadra and his pilot Francisco "
+                    "Mourelle drew it in 1775, the year the Sonora entered and named the bay, and it is "
+                    "the document the whole Open Door argument rests on: Spain discovered and charted the "
+                    "anchorage, then left it open. The Library of Congress acquired this manuscript only "
+                    "in 2024.",
+        "look_for": "the keyed points and the soundings at the entrance, the survey Spain made of a port "
+                    "it would claim for seventy years and never hold.",
+    },
+    "loc-bq07-bahia-asumpcion-entrada-ezeta-1775": {
+        "headnote": "The Spanish discovery chart of the Columbia River mouth. Bruno de Hezeta sighted and "
+                    "sketched the entrance in August 1775, seventeen years before the American Robert Gray "
+                    "gave the river its lasting name. It is the northern reach of the same 1775 voyage "
+                    "that charted Bodega.",
+        "look_for": "the bay Hezeta marked at the river's mouth, the basis of a Spanish claim to a coast "
+                    "the United States would later argue was its own by discovery.",
+    },
+    "loc-bq13-plano-san-diego-1782-pantoja": {
+        "headnote": "Pantoja's 1782 chart of San Diego harbor, the base survey behind most later Spanish "
+                    "renderings of the southern anchorage. San Diego was the province's first presidio and "
+                    "its southern gate; this is the port as the Spanish navy fixed it.",
+        "look_for": "the soundings and shoreline that later charts, Spanish and American alike, would "
+                    "copy.",
+    },
+    "duhaut-cilly-fort-ross-1828": {
+        "headnote": "The classic eyewitness image of Fort Ross, drawn by the French trader Auguste "
+                    "Duhaut-Cilly on his 1828 visit and published in his 1834 narrative. It shows the "
+                    "blockhouses, chapel, and stockade on the terrace above the sea, the Russian colony at "
+                    "its height on a coast Spain claimed but never held.",
+        "look_for": "the finished stockade and bastions, the permanence of a settlement Mexico could not "
+                    "dislodge.",
+    },
+    "duhaut-cilly-bodega-1828": {
+        "headnote": "Duhaut-Cilly's eyewitness view of the Russian anchorage at Bodega in 1828, the "
+                    "working harbor that supplied Fort Ross. This is the port Spain discovered in 1775 and "
+                    "ordered occupied in 1793, shown in Russian use a half-century later.",
+        "look_for": "how the Russians used an anchorage the Spanish had charted and then abandoned.",
+    },
+    "voznesensky-settlement-ross-1841": {
+        "headnote": "Fort Ross in its last year, sketched in 1841 before the sale to Sutter, in a view "
+                    "attributed to the Russian naturalist Voznesensky. The windmill and the village have "
+                    "grown outside the stockade: the colony at its fullest, on the eve of withdrawal.",
+        "look_for": "the settlement spread beyond the walls, the scale of what Russia gave up when it "
+                    "sold.",
+    },
+    "la-perouse-monterey": {
+        "headnote": "The French plan of Monterey Bay from La Perouse's 1786 call, the first foreign "
+                    "scientific expedition to visit Spanish California. His hosts received him warmly, and "
+                    "his published account carried the province and its missions into the European "
+                    "Enlightenment's view.",
+        "look_for": "the capital's roadstead as the first outside observers recorded it.",
+    },
+    "wilkes-atlas-entrance-san-francisco": {
+        "headnote": "The American naval survey of the Golden Gate from the Wilkes expedition of 1841, five "
+                    "years before the conquest. The United States was charting the entrance to San "
+                    "Francisco Bay well before it took the bay.",
+        "look_for": "the mouth of the harbor the US Navy would enter in 1846.",
+    },
+    "humboldt-carte-generale-nouvelle-espagne": {
+        "headnote": "Humboldt's general map of New Spain, the most authoritative published picture of "
+                    "Mexico's north for a generation. Drawn from the viceregal archives he was allowed to "
+                    "read, it framed how Europe and the United States alike understood the far northwest, "
+                    "Alta California included.",
+        "look_for": "how the interior west is drawn, the shape later American mapmakers inherited from "
+                    "Humboldt.",
+    },
+    "disturnell-1847-mapa-estados-unidos-mejico": {
+        "headnote": "The Disturnell map, the family of maps named in the Treaty of Guadalupe Hidalgo that "
+                    "ended the war and ceded California. Its errors in placing the Rio Grande and El Paso "
+                    "seeded a boundary dispute the Gadsden Purchase later had to resolve.",
+        "look_for": "the treaty line, drawn on a map whose mistakes became a diplomatic problem.",
+    },
+    "melish-1816-united-states": {
+        "headnote": "The first American map to color a United States claim running unbroken to the "
+                    "Pacific. Melish drew the nation as a transcontinental one three decades before it "
+                    "was, and the forty-second parallel here anticipates the Adams-Onis line of 1819.",
+        "look_for": "the band of US color reaching the Pacific, a claim made on paper long before it was "
+                    "made on the ground.",
+    },
+    "fremont-preuss-1845-rocky-mountains-oregon-california": {
+        "headnote": "The map that put California into the American imagination. Charles Preuss drew it "
+                    "from Fremont's expeditions of the early 1840s, and it gave emigrants and "
+                    "expansionists their first authoritative picture of the overland routes to a province "
+                    "still Mexican.",
+        "look_for": "the trails west, the cartography that helped bring the wagon trains and, behind them, "
+                    "the conquest.",
+    },
+    "ord-hutton-1849-plan-la-LAPL-period": {
+        "headnote": "The first survey of Los Angeles, made in August 1849, the hinge document between the "
+                    "Mexican pueblo and the American city. Lieutenant Ord laid the grid that would govern "
+                    "the town's growth over the old rancho landscape.",
+        "look_for": "the new American survey grid set over the Spanish and Mexican town plan.",
+    },
+    "costanso-1770-carta-reducida-oceano-asiatico": {
+        "headnote": "Costanso's synthesis map from the Portola expedition, dated Mexico, October 1770: the "
+                    "cartographic record of the overland march that founded San Diego and Monterey and "
+                    "first reached San Francisco Bay by land. This is Alta California entering the map as a "
+                    "Spanish possession.",
+        "look_for": "the coast as the Portola party fixed it, the province at the moment of its founding.",
+    },
+    "sanson-1657-audience-guadalajara-california-island": {
+        "headnote": "California as an island, the error that ruled European maps for much of the "
+                    "seventeenth and eighteenth centuries. Sanson's elegant 1657 sheet is the classic "
+                    "statement of the mistake, a reminder of how little the powers that claimed this coast "
+                    "actually knew of it.",
+        "look_for": "the clean channel separating the island of California from the mainland, geography "
+                    "that did not exist.",
+    },
+    "plano-puerto-san-francisco-1825": {
+        "headnote": "The Mexican republic's own chart of San Francisco Bay, engraved in Mexico in 1825, "
+                    "three years after independence. The outline still descends from Canizares' 1775 "
+                    "survey: the new nation inherited the old empire's cartography of its far northwest.",
+        "look_for": "the mission, Alcatraz, and the Farallones named on a chart the republic made of a "
+                    "port it barely governed.",
+    },
 }
 for it in items:
     hn = HEADNOTES.get(it["id"])
