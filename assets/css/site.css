@@ -99,6 +99,16 @@ body {
 /* layer-control swatches */
 .swatch { display: inline-block; width: 0.8em; height: 0.8em; border-radius: 50%;
   margin-right: 0.15em; vertical-align: baseline; }
+.swatch.hist { border-radius: 2px; background: repeating-linear-gradient(45deg,
+  #b98a3e, #b98a3e 3px, #e8d4a8 3px, #e8d4a8 6px); }
+
+/* period-chart opacity slider (appears only while the chart overlay is on) */
+.hist-opacity { background: rgba(255,253,248,0.94); border: 1px solid var(--rule);
+  border-radius: 5px; padding: 0.4rem 0.6rem; box-shadow: 0 1px 6px rgba(43,38,32,0.2);
+  font-size: 0.74rem; color: var(--ink-soft); }
+.hist-opacity label { display: block; margin-bottom: 0.2rem; letter-spacing: 0.02em;
+  text-transform: uppercase; font-size: 0.68rem; }
+.hist-opacity input[type=range] { width: 140px; accent-color: var(--accent); display: block; }
 
 /* cite box */
 .cite-box {

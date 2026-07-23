@@ -235,6 +235,20 @@
 
     var layerColors = {};
     var overlays = {};
+
+    // optional georeferenced period chart (approximate corner-pin); off until toggled
+    var histOverlay = null, histSliderEl = null;
+    if (data.historical_overlay && data.historical_overlay.image && data.historical_overlay.bounds) {
+      var ov = data.historical_overlay;
+      histOverlay = L.imageOverlay(ov.image, ov.bounds, {
+        opacity: ov.opacity != null ? ov.opacity : 0.7,
+        attribution: ov.attribution || '',
+        interactive: false
+      });
+      overlays['<span class="swatch hist"></span> ' + esc(ov.name) +
+        (ov.note ? ' <em>(' + esc(ov.note) + ')</em>' : '')] = histOverlay;
+    }
+
     var useCluster = (data.features || []).length > CLUSTER_THRESHOLD && window.L.markerClusterGroup;
     (data.layers || []).forEach(function (ly) {
       layerColors[ly.id] = ly.color;
@@ -272,6 +286,28 @@
 
     var lc = L.control.layers(null, overlays, { collapsed: true }).addTo(map);
     if (window.innerWidth >= 700) lc.expand();
+
+    // opacity slider for the period chart — visible only while the chart layer is on
+    if (histOverlay) {
+      var startOp = data.historical_overlay.opacity != null ? data.historical_overlay.opacity : 0.7;
+      var opCtl = L.control({ position: 'bottomright' });
+      opCtl.onAdd = function () {
+        var box = el('div', 'hist-opacity');
+        box.innerHTML = '<label>Chart opacity</label>';
+        var s = el('input'); s.type = 'range'; s.min = 0; s.max = 1; s.step = 0.05; s.value = startOp;
+        s.setAttribute('aria-label', 'Historical chart opacity');
+        s.addEventListener('input', function () { histOverlay.setOpacity(+this.value); });
+        box.appendChild(s);
+        box.style.display = 'none';
+        L.DomEvent.disableClickPropagation(box);
+        histSliderEl = box;
+        return box;
+      };
+      opCtl.addTo(map);
+      map.on('overlayadd', function (e) { if (e.layer === histOverlay && histSliderEl) histSliderEl.style.display = 'block'; });
+      map.on('overlayremove', function (e) { if (e.layer === histOverlay && histSliderEl) histSliderEl.style.display = 'none'; });
+    }
+
     buildControls(data);
     applyFilters();
 

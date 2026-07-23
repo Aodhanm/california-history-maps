@@ -3164,5 +3164,22 @@
    ],
    "notes": ""
   }
- ]
+ ],
+ "historical_overlay": {
+  "name": "Beechey's chart of San Francisco Bay (1827)",
+  "image": "../gallery/img/beechey-1833-san-francisco-harbour.jpg",
+  "bounds": [
+   [
+    37.44,
+    -122.6
+   ],
+   [
+    38.06,
+    -121.88
+   ]
+  ],
+  "opacity": 0.6,
+  "attribution": "F. W. Beechey, HMS <em>Blossom</em>, 1827 · David Rumsey Map Collection",
+  "note": "approximate georeferencing"
+ }
 }
