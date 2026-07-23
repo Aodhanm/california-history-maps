@@ -324,6 +324,30 @@
      "map_title": "Native California",
      "id": "t-ipai-kumeyaay",
      "name": "Kumeyaay territory"
+    },
+    {
+     "map": "secularization-missions",
+     "map_title": "The Secularization of the Missions",
+     "id": "vis-southern-1839",
+     "name": "The southern visita: 'los indios son acreedores'"
+    },
+    {
+     "map": "secularization-missions",
+     "map_title": "The Secularization of the Missions",
+     "id": "vis-san-diego-1840",
+     "name": "San Diego district: Pico, Temecula, and inventory fraud"
+    },
+    {
+     "map": "secularization-missions",
+     "map_title": "The Secularization of the Missions",
+     "id": "voice-1833-southern-mobilization",
+     "name": "The southern missions demand the promised land"
+    },
+    {
+     "map": "secularization-missions",
+     "map_title": "The Secularization of the Missions",
+     "id": "voice-feliciana-valdes-1839",
+     "name": "'Como á hija de la Misión': Feliciana Valdés claims land"
     }
    ]
   },
