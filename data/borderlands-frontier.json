@@ -1867,8 +1867,18 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 55 Doc 335 (Matute/Aránzazu); occupation order C-A 6 Doc 192 (Revillagigedo, 6 Jul 1793) & C-A 15 Doc 515 (Arrillaga, 16 Jul 1793).",
-     "ca_record": null,
+     "citation": "C-A 55 Doc 335 (Matute/Aránzazu, 25 Jul 1793).",
+     "ca_record": "ca55-d335",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Occupation order: C-A 6 Doc 192 (Revillagigedo, 6 Jul 1793).",
+     "ca_record": "ca6-d192",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "C-A 15 Doc 515 (presidios & Bodega, 16 Jul 1793).",
+     "ca_record": "ca15-d515",
      "ia_leaf_url": null
     }
    ],
@@ -1898,7 +1908,7 @@
    "sources": [
     {
      "citation": "C-A 15 Doc 520 (Sal → Arrillaga, 25 Jul 1794).",
-     "ca_record": null,
+     "ca_record": "ca15-d520",
      "ia_leaf_url": null
     }
    ],
@@ -1927,8 +1937,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13 Doc 19 (Wilcocks affair, 1816–18).",
-     "ca_record": null,
+     "citation": "C-A 13 Docs 193–206 (the Wilcocks affair; the Bodega call & blanket sale in his voyage account, Doc 206, orig. i.716–726; the annexation accusation denounced in Doc 203). Formerly cited as survey entry 19.",
+     "ca_record": "ca13-d206",
      "ia_leaf_url": null
     }
    ],
@@ -1987,8 +1997,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13 Doc 20 (Baranov / Podushkin, 1817).",
-     "ca_record": null,
+     "citation": "C-A 13 Docs 263–264 (Podushkin's request, 22 Apr 1817; Baranov's protest, 2 Feb 1817). Formerly cited as survey entry 20.",
+     "ca_record": "ca13-d264",
      "ia_leaf_url": null
     }
    ],
@@ -2048,7 +2058,7 @@
    "sources": [
     {
      "citation": "C-A 55 Doc 243 (1816).",
-     "ca_record": null,
+     "ca_record": "ca55-d243",
      "ia_leaf_url": null
     }
    ],
@@ -2108,7 +2118,7 @@
    "sources": [
     {
      "citation": "C-A 55 Docs 323–324 (Yanovsky / Solá, ~1820).",
-     "ca_record": null,
+     "ca_record": "ca55-d323",
      "ia_leaf_url": null
     }
    ],
@@ -2168,7 +2178,7 @@
    "sources": [
     {
      "citation": "C-A 15 Doc 392 (Loreto deposition, 28 Jun 1799).",
-     "ca_record": null,
+     "ca_record": "ca15-d392",
      "ia_leaf_url": null
     }
    ],

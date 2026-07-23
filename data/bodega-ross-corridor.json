@@ -399,7 +399,7 @@
    "sources": [
     {
      "citation": "C-A 55 Doc 243 (1816).",
-     "ca_record": null,
+     "ca_record": "ca55-d243",
      "ia_leaf_url": null
     }
    ],
@@ -458,8 +458,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13 Doc 20 (Baranov / Podushkin, 1817).",
-     "ca_record": null,
+     "citation": "C-A 13 Docs 263–264 (Podushkin's request, 22 Apr 1817; Baranov's protest, 2 Feb 1817). Formerly cited as survey entry 20.",
+     "ca_record": "ca13-d264",
      "ia_leaf_url": null
     }
    ],
@@ -489,7 +489,7 @@
    "sources": [
     {
      "citation": "C-A 55 Docs 323–324 (Yanovsky / Solá, ~1820).",
-     "ca_record": null,
+     "ca_record": "ca55-d323",
      "ia_leaf_url": null
     }
    ],

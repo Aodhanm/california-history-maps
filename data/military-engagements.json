@@ -3026,7 +3026,7 @@
    "sources": [
     {
      "citation": "C-A 55 i.304–5 / scan n68–69 (Doc 135). ⚠ Check Bancroft.",
-     "ca_record": null,
+     "ca_record": "ca55-d135",
      "ia_leaf_url": null
     }
    ],
@@ -3056,7 +3056,7 @@
    "sources": [
     {
      "citation": "C-A 55 i.296 / scan n66–67 (Doc 129).",
-     "ca_record": null,
+     "ca_record": "ca55-d129",
      "ia_leaf_url": null
     }
    ],
@@ -3146,7 +3146,7 @@
    "sources": [
     {
      "citation": "C-A 55 vii.61–62 (Doc 212 Nº3).",
-     "ca_record": null,
+     "ca_record": "ca55-d212",
      "ia_leaf_url": null
     }
    ],
@@ -3505,14 +3505,14 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 54 ii.456+ / scan n211–212 (Doc II-51). ⚠ Reconcile year (Cochrane's Pacific ops ~1822).",
-     "ca_record": null,
+     "citation": "C-A 54 Doc 2051 (tomo II, orig. 456+; scan n211–212): Solá's circular of 30 Mar 1823 on the raid. Cochrane's squadron operated off the Californias in 1822.",
+     "ca_record": "ca54-d2051",
      "ia_leaf_url": null
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "The Savage copy dates Solá’s circular 30 Mar 1823; the raid itself belongs to the 1822 Cochrane operations. Event year shown as circa 1822."
   },
   {
    "id": "reg-88-ambush-near-san-vicente-santa-catalina",
@@ -3750,7 +3750,7 @@
    "sources": [
     {
      "citation": "Dep. St. Pap. (C-A 27), doc 43 (n36)",
-     "ca_record": null,
+     "ca_record": "ca27-d43",
      "ia_leaf_url": null
     }
    ],
@@ -3780,7 +3780,7 @@
    "sources": [
     {
      "citation": "Dep. St. Pap. (C-A 27), doc 134",
-     "ca_record": null,
+     "ca_record": "ca27-d134",
      "ia_leaf_url": null
     }
    ],
