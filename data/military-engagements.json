@@ -4163,8 +4163,8 @@
     "confidence": "exact"
    },
    "coords": [
-    32.7419,
-    -117.1067
+    32.7844,
+    -117.1064
    ],
    "coord_precision": "exact",
    "type": "mission",
@@ -4527,7 +4527,7 @@
     "confidence": "exact"
    },
    "coords": [
-    37.775,
+    37.7644,
     -122.427
    ],
    "coord_precision": "exact",
@@ -4709,8 +4709,8 @@
     "confidence": "exact"
    },
    "coords": [
-    33.9425,
-    -118.2551
+    34.0522,
+    -118.2437
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -5047,8 +5047,8 @@
     "confidence": "exact"
    },
    "coords": [
-    38.31,
-    -122.98
+    38.3244,
+    -123.0386
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -5177,8 +5177,8 @@
     "confidence": "exact"
    },
    "coords": [
-    30.5,
-    -115.5
+    31.6606,
+    -115.8211
    ],
    "coord_precision": "exact",
    "type": "settlement",

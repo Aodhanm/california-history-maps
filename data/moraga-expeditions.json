@@ -545,8 +545,8 @@
     "confidence": "circa"
    },
    "coords": [
-    37.83,
-    -120.74
+    37.8197,
+    -120.6644
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -571,8 +571,8 @@
     "confidence": "circa"
    },
    "coords": [
-    36.72,
-    -119.56
+    36.708,
+    -119.556
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -727,8 +727,8 @@
     "confidence": "circa"
    },
    "coords": [
-    35.05,
-    -118.87
+    34.874,
+    -118.8943
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -753,8 +753,8 @@
     "confidence": "circa"
    },
    "coords": [
-    34.75,
-    -118.4
+    34.683,
+    -118.15
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -910,7 +910,7 @@
    },
    "coords": [
     37.6308,
-    -121.2644
+    -121.2872
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -1013,8 +1013,8 @@
     "confidence": "circa"
    },
    "coords": [
-    38.31,
-    -122.98
+    38.3244,
+    -123.0386
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -1065,8 +1065,8 @@
     "confidence": "circa"
    },
    "coords": [
-    38.1,
-    -122.72
+    38.1075,
+    -122.5697
    ],
    "coord_precision": "exact",
    "type": "settlement",

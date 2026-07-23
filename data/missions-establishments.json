@@ -52,8 +52,8 @@
     "confidence": "year"
    },
    "coords": [
-    32.7419,
-    -117.1067
+    32.7844,
+    -117.1064
    ],
    "coord_precision": "exact",
    "type": "mission",
@@ -412,8 +412,8 @@
     "confidence": "year"
    },
    "coords": [
-    36.3969,
-    -121.3344
+    36.4046,
+    -121.3558
    ],
    "coord_precision": "exact",
    "type": "mission",
@@ -865,7 +865,7 @@
     38.31,
     -123.045
    ],
-   "coord_precision": "exact",
+   "coord_precision": "place",
    "type": "settlement",
    "layer": "russian",
    "summary": "The company's anchorage and warehouses at Bodega Bay, in use from about 1809. The port the Spanish discovered in 1775, working under a Russian name.",
@@ -880,7 +880,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Anchorage in Bodega Harbor; the precise landing/port site is approximate."
   },
   {
    "id": "r-kostromitinov-ranch",

@@ -707,8 +707,8 @@
     "confidence": "exact"
    },
    "coords": [
-    32.7419,
-    -117.1067
+    32.7844,
+    -117.1064
    ],
    "coord_precision": "exact",
    "type": "mission",
@@ -1403,7 +1403,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Two mission sites: the 1774 first site by the modern town (plotted) and the 1802 second site ~2.8 km southwest."
   },
   {
    "id": "bm-san-vicente",

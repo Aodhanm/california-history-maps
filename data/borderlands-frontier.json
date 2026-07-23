@@ -2534,10 +2534,10 @@
     "confidence": "circa"
    },
    "coords": [
-    38.333,
-    -123.048
+    38.31,
+    -123.045
    ],
-   "coord_precision": "exact",
+   "coord_precision": "place",
    "type": "settlement",
    "layer": "rusSet",
    "summary": "~1807. RAC fur-collecting base. First representative: Tarakanov. Permanent.",
@@ -2548,7 +2548,7 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "Anchorage in Bodega Harbor; the precise landing/port site is approximate."
   },
   {
    "id": "ref-fort-ross-metini",
@@ -2612,10 +2612,10 @@
     "confidence": "circa"
    },
    "coords": [
-    38.46,
-    -122.92
+    38.45,
+    -123.1
    ],
-   "coord_precision": "exact",
+   "coord_precision": "area",
    "type": "settlement",
    "layer": "rusSet",
    "summary": "1833. Russian River near Willow Creek. ~100 acres wheat by 1841.",
@@ -2626,7 +2626,7 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "Exact ranch site debated (Osborn); descriptions place it on the south side of the Russian River near its mouth."
   },
   {
    "id": "ref-khlebnikov-ranch",
@@ -2716,8 +2716,8 @@
     "confidence": "circa"
    },
    "coords": [
-    38.31,
-    -122.98
+    38.3244,
+    -123.0386
    ],
    "coord_precision": "exact",
    "type": "settlement",
@@ -2976,8 +2976,8 @@
     "confidence": "circa"
    },
    "coords": [
-    37.92,
-    -122.52
+    37.9736,
+    -122.5311
    ],
    "coord_precision": "exact",
    "type": "settlement",
