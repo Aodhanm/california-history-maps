@@ -18,6 +18,7 @@
   .gcount { font-size: 0.8rem; color: var(--ink-soft); font-family: var(--sans); }
   .gintro { margin-top: 0.1rem; }
   .gallery-note { font-size: 0.82rem; color: var(--ink-soft); font-style: italic; max-width: 46rem; }
+  .card h3 .curated { color: #c08a2b; font-size: 0.72em; vertical-align: 0.12em; }
   #viewer-overlay { display: none; position: fixed; inset: 0; z-index: 3000;
     background: rgba(29,26,22,0.96); flex-direction: column; padding: 0.8rem 1rem; }
   #viewer-head { color: #f7f3ec; display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; }
@@ -27,6 +28,12 @@
   #viewer-close { margin-left: auto; background: none; border: 1px solid #7d766b;
     color: #f7f3ec; border-radius: 4px; padding: 0.2rem 0.8rem; cursor: pointer; }
   #seadragon { flex: 1; margin: 0.6rem 0; }
+  #viewer-headnote { color: #f2ead9; font-size: 0.94rem; line-height: 1.55; max-width: 62rem;
+    margin: 0 0 0.4rem; border-left: 3px solid #e8b64c; padding-left: 0.75rem; }
+  #viewer-headnote::before { content: "Why this chart · "; color: #e8b64c; font-weight: 600; }
+  #viewer-lookfor { color: #cdbf9c; font-size: 0.85rem; font-style: italic; max-width: 62rem;
+    margin: 0 0 0.5rem; padding-left: 0.78rem; }
+  #viewer-lookfor::before { content: "Look for: "; color: #e8b64c; font-style: normal; }
   #viewer-caption { color: #e6dfd3; font-size: 0.9rem; max-width: 62rem; margin: 0; }
   #viewer-credit { color: #9b948a; font-size: 0.76rem; margin: 0.25rem 0 0; }
   .wanted { margin-top: 2.5rem; }
@@ -77,6 +84,8 @@
     <button id="viewer-close" aria-label="Close viewer">✕ Close</button>
   </div>
   <div id="seadragon"></div>
+  <p id="viewer-headnote"></p>
+  <p id="viewer-lookfor"></p>
   <p id="viewer-caption"></p>
   <p id="viewer-credit"></p>
 </div>

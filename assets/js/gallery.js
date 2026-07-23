@@ -19,7 +19,8 @@
   }
   function passes(it) {
     if (query) {
-      var hay = (it.title + ' ' + (it.maker || '') + ' ' + it.year + ' ' + it.caption).toLowerCase();
+      var hay = (it.title + ' ' + (it.maker || '') + ' ' + it.year + ' ' + it.caption +
+        ' ' + (it.headnote || '') + ' ' + (it.look_for || '')).toLowerCase();
       if (hay.indexOf(query) === -1) return false;
     }
     return true;
@@ -31,7 +32,8 @@
     card.addEventListener('click', function (e) { e.preventDefault(); openViewer(it); });
     card.innerHTML =
       '<div class="thumb" style="background-image:url(thumb/' + esc(it.file) + ')"></div>' +
-      '<div class="body"><h3>' + esc(it.title) + '</h3>' +
+      '<div class="body"><h3>' + esc(it.title) +
+      (it.headnote ? ' <span class="curated" title="Curatorial note">&#9733;</span>' : '') + '</h3>' +
       '<p class="meta">' + esc((it.maker ? it.maker + ' · ' : '') + it.year) + '</p></div>';
     return card;
   }
@@ -120,6 +122,12 @@
     document.getElementById('viewer-meta').innerHTML =
       esc((it.maker ? it.maker + ' · ' : '') + it.year) +
       ' · <a href="' + esc(it.source_url) + '" target="_blank" rel="noopener">archival original →</a>';
+    var hn = document.getElementById('viewer-headnote');
+    hn.textContent = it.headnote || '';
+    hn.style.display = it.headnote ? '' : 'none';
+    var lf = document.getElementById('viewer-lookfor');
+    lf.textContent = it.look_for || '';
+    lf.style.display = it.look_for ? '' : 'none';
     document.getElementById('viewer-caption').textContent = it.caption;
     document.getElementById('viewer-credit').textContent = it.credit;
     if (viewer) { viewer.destroy(); viewer = null; }

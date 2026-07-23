@@ -350,6 +350,67 @@ listed = {it["file"] for it in items}
 print("on disk not listed:", sorted(files_on_disk - listed))
 print("listed not on disk:", sorted(listed - files_on_disk))
 
+# ---- curatorial headnotes (the "why this chart" + "what to look for" layer) ----
+# Additive: attached to matching items by id; the working captions above are untouched.
+# Each is verified from the chart's cartobibliography. Extend this dict to curate more maps.
+HEADNOTES = {
+    "sutil-mexicana-1802-carta-esferica": {
+        "headnote": "The California coast as Spain itself charted it, from the 1792 survey of the "
+                    "schooners Sutil and Mexicana and published in the official Relacion of 1802. It is "
+                    "the Spanish-hand chart contemporary with the founding decades, and the same "
+                    "hydrographic source the Bodega project reads for the coast's legal geography: the "
+                    "empire mapping the frontier it claimed but rarely visited.",
+        "look_for": "the still-tentative rendering of the northern anchorages Spain claimed but seldom "
+                    "entered, Bodega and the coast above San Francisco Bay.",
+    },
+    "vancouver-1798-nw-coast": {
+        "headnote": "The outside power charting a coast Spain claimed. Vancouver surveyed this shore in "
+                    "1792 to 1794, during the Nootka-crisis decade when the imperial door was forced "
+                    "open, and his calls at California ports are themselves events in the record. Drawn "
+                    "by the visitor rather than the sovereign, the British survey is often the more "
+                    "accurate one.",
+        "look_for": "how the British survey of New Albion compares with the Spanish Sutil chart of the "
+                    "same coast; the rival's map is frequently the better.",
+    },
+    "duflot-1844-carte-generale-cote-pacifique": {
+        "headnote": "The late-Mexican coast on a single detailed sheet, from a French diplomatic and "
+                    "scientific survey made on the eve of the American conquest. Duflot de Mofras "
+                    "recorded every anchorage from Sitka to San Blas in the last years of Mexican rule, "
+                    "the natural ground for the hide-and-tallow decades and a companion to the Fort Ross "
+                    "and Bodega roadstead plan in the same atlas.",
+        "look_for": "the named coastal establishments and soundings that show how thoroughly foreign "
+                    "navies knew a coast Mexico could barely garrison.",
+    },
+    "beechey-1833-san-francisco-harbour": {
+        "headnote": "The definitive chart of San Francisco Bay, surveyed by Beechey's HMS Blossom in 1826 "
+                    "to 1827, the decade the bay filled with the hide-trade fleet. The Blossom's own call "
+                    "is part of the same maritime record; the chart is the geography of the anchorage "
+                    "where the Boston droghers rode off Yerba Buena.",
+        "look_for": "the anchorage grounds off Yerba Buena, the working geography of the licensed foreign "
+                    "trade.",
+    },
+    "duflot-1844-fort-ross-bodega-mouillage": {
+        "headnote": "The roadstead the Bodega argument turns on, charted by Duflot de Mofras in 1844 as "
+                    "the Russians were withdrawing: the anchorage Spain ordered occupied in 1793 and "
+                    "never held. It shows in detail how shallow and exposed the port actually was.",
+        "look_for": "how open and shallow the Bodega anchorage is, the geographic objection the Bodega "
+                    "study answers.",
+    },
+    "canizares-1781-plano-puerto-san-francisco": {
+        "headnote": "Jose de Canizares was the pilot who first sounded San Francisco Bay aboard Ayala's "
+                    "San Carlos in 1775; this 1781 plano is his worked-up chart of that survey, the "
+                    "earliest Spanish rendering of the harbour every ship of the founding decades came to "
+                    "know.",
+        "look_for": "the first systematic soundings of a bay no European had charted a decade earlier.",
+    },
+}
+for it in items:
+    hn = HEADNOTES.get(it["id"])
+    if hn:
+        it["headnote"] = hn["headnote"]
+        it["look_for"] = hn.get("look_for", "")
+print("headnotes attached:", sum(1 for it in items if it.get("headnote")))
+
 data = {
     "updated": "2026-07-14",
     "note": ("Captions are working placeholders written from the collection catalog and the holding "
