@@ -5218,6 +5218,135 @@
     "reference"
    ],
    "notes": ""
+  },
+  {
+   "id": "pesquisa-domingo-fachicu-1788",
+   "register_no": "122",
+   "name": "The \"Pesquisa del neófito Domingo\" Firefight",
+   "date": {
+    "iso": "1788-01-31",
+    "display": "January 31, 1788",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.52,
+    -119.72
+   ],
+   "coord_precision": "conjectural",
+   "type": "battle",
+   "layer": "phase1",
+   "summary": "Sgt. Pablo Antonio Cota and 12 men rode into the sierra behind Mission Santa Bárbara to extract the fugitive neophyte Domingo (a runaway of over a year who, per his ministers, \"hace robos y muertes en dicha Gentilidad\"). Though interpreters were sent ahead to keep them calm, the gentiles loosed arrows and wounded 3 of the party; the soldiers returned fire, leaving 3 gentiles dead and more than 8 wounded. Domingo escaped; a gentile who had accompanied him was taken prisoner. An early ex-neophyte-turned-raider case, decades before secularization.",
+   "result": "3 gentiles killed, 8+ wounded, 3 soldiers wounded; Domingo escaped",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 4 Doc 193 (n308, Savage 308, orig. pp. 374–376); Goycoechea to Fages. Abstract.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "gentiles of the Santa Bárbara sierra"
+   ],
+   "tags": [],
+   "notes": "Location CONJECTURAL — the ranchería name Bancroft/Savage read as \"Fachicú\" and its exact site are uncertain on the leaf."
+  },
+  {
+   "id": "san-rafael-gentile-attack-1832",
+   "register_no": "123",
+   "name": "Gentile Attack on Mission San Rafael & the Piña Expedition",
+   "date": {
+    "iso": "1832",
+    "display": "1832",
+    "confidence": "year"
+   },
+   "coords": [
+    37.9735,
+    -122.5312
+   ],
+   "coord_precision": "place",
+   "type": "battle",
+   "layer": "mexican",
+   "summary": "Mission San Rafael — its founding padre Amorós dead 14 July 1832, its population collapsing (~970 to ~300) and baptisms crashing (155 to 15) — was attacked by gentiles; a punitive expedition was sent out under Lázaro Piña. Most likely the \"spring 1832 San Rafael revolt\" the Russians at Fort Ross heard of from fugitive-Indian informants.",
+   "result": null,
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft, History of California III:715–716 (cites Vallejo, Documentos MS. i.307). North Bay Indian Crisis dossier, 2026-07-20.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Coast Miwok (gentiles)"
+   ],
+   "tags": [],
+   "notes": "1832 date and Piña command per Bancroft; the underlying Vallejo Documentos i.307 leaf is not yet read — treat the year as attested but not leaf-verified."
+  },
+  {
+   "id": "bodega-mobilization-toribio-1833",
+   "register_no": "124",
+   "name": "The Bodega Mobilization under Toribio",
+   "date": {
+    "iso": "1833-04",
+    "display": "April 1833",
+    "confidence": "month"
+   },
+   "coords": [
+    38.34,
+    -123.0
+   ],
+   "coord_precision": "area",
+   "type": "standoff",
+   "layer": "mexican",
+   "summary": "About 200 armed Indians — gentiles plus Christian fugitives from Mission San Rafael — massed at Bodega under Toribio (Pixpix-uccux), \"armed and ready to die\" rather than be seized, hosted by the Bodega chief Gualinela. Kostromitinov, the RAC manager at Fort Ross, asked Vallejo to help round up the retreating Ross Indians; Vallejo declined and pacified through Gualinela. It worked — Toribio came in peacefully seven months later.",
+   "result": "Defused; Toribio submitted peacefully later in 1833",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Vallejo's Ross–Bodega report, April 1833 (primary). North Bay Indian Crisis dossier, 2026-07-20.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Coast Miwok (Bodega — Gualinela)",
+    "San Rafael fugitives"
+   ],
+   "tags": [],
+   "notes": "Location approximate — the Bodega gathering ground, not a fixed engagement site."
+  },
+  {
+   "id": "mercado-massacre-san-rafael-1833",
+   "register_no": "125",
+   "name": "The Mercado Massacre at San Rafael",
+   "date": {
+    "iso": "1833-11-20",
+    "display": "November 20, 1833",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.9735,
+    -122.5312
+   ],
+   "coord_precision": "place",
+   "type": "battle",
+   "layer": "mexican",
+   "summary": "After a 16 Nov parley — 15 gentiles under Toribio came to talk at Figueroa's encouragement, and Padre Vázquez del Mercado seized them following an overnight robbery — on the morning of 20 Nov 1833 Mercado sent majordomo Molina with 37 armed neophytes against the strangers: 21 killed, many wounded, 20 men, women, and children captured; the mission party lost 5 wounded, 1 mortally. Figueroa, indignant that his promises to the Indians had been broken, had Mercado suspended and summoned for trial; Vallejo freed the captives.",
+   "result": "21 gentiles killed; Mercado suspended; Vallejo freed the captives",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft, History of California III:322–324; C-A 39 Doc 170 (Figueroa to Gómez, \"Asesinato de Indios,\" 5 Dec 1833); C-A 28 Docs 179–180 (Molina expelled 22 Dec 1833; San Rafael pacified 1 Jan 1834).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Coast Miwok gentiles (rancherías incl. \"Pulia\"[?])"
+   ],
+   "tags": [],
+   "notes": "The ranchería name Bancroft reads as \"Pulia\" is unverified against the leaf."
   }
  ]
 }
