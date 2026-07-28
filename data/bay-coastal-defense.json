@@ -1,0 +1,2654 @@
+{
+ "id": "bay-coastal-defense",
+ "title": "Coastal Defense of San Francisco Bay",
+ "subtitle": "Every battery, 1776–1974 — Spanish castillo to Cold War missile",
+ "abstract": "Every documented coastal-defense emplacement of San Francisco Bay across six eras — from the Spanish Castillo de San Joaquín (1794) and the Batería de San José, through the Third System masonry of Fort Point and Alcatraz, the concrete Endicott–Taft gun batteries that ring the Golden Gate, the 16-inch guns and anti-submarine net of World War II, to the Cold War Nike missile sites. Each era is a toggleable layer; each named battery is its own pin. Spanish/Mexican records are anchored in Bancroft; American-era records in Erwin N. Thompson's NPS Historic Resource Study, the Coast Defense Study Group, and FortWiki. Toggle a period to see only the works active then.",
+ "date_range": [
+  1776,
+  1974
+ ],
+ "center": [
+  37.93,
+  -122.2
+ ],
+ "zoom": 9,
+ "cite_key": "baydefense",
+ "last_updated": "2026-07-27",
+ "legend_note": "One layer per era; a fortification active across eras appears in each layer it served. Dashed/hollow pins mark approximate or conjectural locations. ⚠ items in notes await a primary-source firming pass.",
+ "layers": [
+  {
+   "id": "spanish",
+   "label": "Spanish (1776–1821)",
+   "color": "#8c4a2f"
+  },
+  {
+   "id": "mexican",
+   "label": "Mexican (1821–1846)",
+   "color": "#b03a2e"
+  },
+  {
+   "id": "thirdsystem",
+   "label": "Third System / Civil War (1850s–1880s)",
+   "color": "#a9821f"
+  },
+  {
+   "id": "endicott",
+   "label": "Endicott–Taft (1890–1917)",
+   "color": "#2e7d32"
+  },
+  {
+   "id": "wwii",
+   "label": "WWI–WWII (1917–1945)",
+   "color": "#1565c0"
+  },
+  {
+   "id": "coldwar",
+   "label": "Cold War / Nike (1954–1974)",
+   "color": "#6a1b9a"
+  }
+ ],
+ "features": [
+  {
+   "id": "presidio-sf-spanish",
+   "name": "El Presidio Real de San Francisco",
+   "type": "presidio",
+   "layer": "spanish",
+   "coords": [
+    37.79861,
+    -122.45722
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1776",
+    "display": "founded 1776",
+    "confidence": "year"
+   },
+   "summary": "Founded 17 Sep 1776 by José Joaquín Moraga. A 1792 inventory found just one 3-pounder brass cannon; guns were concentrated at the Castillo, not the quadrangle.",
+   "result": "Preserved — NPS/Presidio Trust Main Post",
+   "sources": [
+    {
+     "citation": "Bancroft, History of California, vol. I; NPS Golden Gate NRA",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Vancouver (1792) saw a brass 3-pdr lashed to a log at Fort Point and one on a rotten carriage here."
+  },
+  {
+   "id": "cantil-blanco-earthwork",
+   "name": "Provisional earthwork, Punta del Cantil Blanco",
+   "type": "battery",
+   "layer": "spanish",
+   "coords": [
+    37.81056,
+    -122.47722
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1793",
+    "display": "1793",
+    "confidence": "year"
+   },
+   "summary": "Six mounted guns on a barbette platform Vancouver saw natives erecting in 1793, on Anza's 1776 cross site — superseded that August by the permanent Castillo.",
+   "result": "Superseded; nothing survives",
+   "sources": [
+    {
+     "citation": "Bancroft, History of California, vol. I",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "castillo-san-joaquin",
+   "name": "Castillo de San Joaquín",
+   "type": "castillo",
+   "layer": "spanish",
+   "coords": [
+    37.81056,
+    -122.47722
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1794",
+    "display": "dedicated 8 Dec 1794",
+    "confidence": "exact"
+   },
+   "summary": "The flagship Spanish work, on the Fort Point bluff. Armed 1794 with eleven brass 9-pounders landed from the Aránzazu; rebuilt to a horseshoe c.1815; embrasures for 16 guns. Built by mission Native laborers.",
+   "result": "Demolished 1853 — cliff cut down for Fort Point",
+   "sources": [
+    {
+     "citation": "Bancroft, History of California, vol. I; Thompson, Seacoast Fortifications SF Harbor (HRS 1979)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Six 17th-c. Peruvian bronze cannon survive on the Presidio. Bancroft V: Frémont spiked four guns, 1 July 1846 (not five, per some sources)."
+  },
+  {
+   "id": "bateria-san-jose",
+   "name": "Batería de San José / de Yerba Buena",
+   "type": "battery",
+   "layer": "spanish",
+   "coords": [
+    37.80778,
+    -122.42972
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1797",
+    "display": "Apr–Jun 1797",
+    "confidence": "range"
+   },
+   "summary": "Built under Gov. Borica on Point San José (Black Point) to cover the Yerba Buena anchorage — brushwood fascines, eight embrasures, five bronze 8-pounders sent over from the Castillo. No permanent garrison.",
+   "result": "Gone; site became Fort Mason",
+   "sources": [
+    {
+     "citation": "Bancroft, History of California, vol. I (Prov. St. Pap. xvi.55, xvii.148–9)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Second-oldest Spanish battery on the bay; derelict by 1806."
+  },
+  {
+   "id": "castillo-mexican",
+   "name": "Castillo de San Joaquín (Mexican era)",
+   "type": "castillo",
+   "layer": "mexican",
+   "coords": [
+    37.81056,
+    -122.47722
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1822",
+    "display": "1822–1846",
+    "confidence": "range"
+   },
+   "summary": "Inherited and left to decay by Mexico. An 1843 sketch shows a horseshoe adobe of 16 embrasures with only three obsolete guns and two good bronze pieces; by 1835 essentially one artilleryman.",
+   "result": "Deserted; taken by Frémont 1846",
+   "sources": [
+    {
+     "citation": "Bancroft, History of California, vol. V",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "presidio-mexican",
+   "name": "Presidio of San Francisco (Mexican era)",
+   "type": "presidio",
+   "layer": "mexican",
+   "coords": [
+    37.79861,
+    -122.45722
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1822",
+    "display": "1822–1846",
+    "confidence": "range"
+   },
+   "summary": "Garrison shrank to 15–20 men (1824–25) and was largely relocated to El Cuartel de Sonoma (1835, Vallejo); by the 1840s the presidio was 'entirely dismantled.'",
+   "result": "Preserved as the Main Post",
+   "sources": [
+    {
+     "citation": "Bancroft, History of California; NPS",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "bateria-mexican",
+   "name": "Batería de Yerba Buena (Mexican era)",
+   "type": "battery",
+   "layer": "mexican",
+   "coords": [
+    37.80778,
+    -122.42972
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1822",
+    "display": "1822–1846",
+    "confidence": "range"
+   },
+   "summary": "Already ruinous 'Black Point' under Mexico; no documented refurbishment.",
+   "result": "Ruined; site became Fort Mason",
+   "sources": [
+    {
+     "citation": "Bancroft, History of California, vol. I",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "fort-point",
+   "name": "Fort Point (Fort Winfield Scott)",
+   "type": "fort",
+   "layer": "thirdsystem",
+   "coords": [
+    37.81056,
+    -122.47722
+   ],
+   "coord_precision": "exact",
+   "date": {
+    "iso": "1853",
+    "display": "1853–1861",
+    "confidence": "range"
+   },
+   "summary": "Brick-and-granite casemated fort, four tiers, designed for 126 guns — the only Third System fort west of the Mississippi. Held 40 ten-inch Rodmans in its casemates by 1867.",
+   "result": "Preserved — Fort Point National Historic Site (NPS)",
+   "sources": [
+    {
+     "citation": "NPS Fort Point NHS; Martini, Fort Point (2016); Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Never fired a shot in anger; the Golden Gate Bridge arch was redesigned to span it."
+  },
+  {
+   "id": "fort-alcatraz",
+   "name": "Fort Alcatraz",
+   "type": "fort",
+   "layer": "thirdsystem",
+   "coords": [
+    37.8267,
+    -122.4222
+   ],
+   "coord_precision": "exact",
+   "date": {
+    "iso": "1853",
+    "display": "1853–1859",
+    "confidence": "range"
+   },
+   "summary": "Barbette fortress with a three-story citadel — by 1863 eight batteries (South, North, West, Three-Gun, and officer-named emplacements Halleck, Rosecrans, Mansfield, Tower, McPherson, Prime) ringing the island with ~100 guns.",
+   "result": "GGNRA/NPS — works buried under the later prison",
+   "sources": [
+    {
+     "citation": "Martini, Fortress Alcatraz (1991); Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "The most heavily armed post in the harbor; became a military prison from 1907."
+  },
+  {
+   "id": "black-point-battery",
+   "name": "Black Point Battery (Point San José / Fort Mason)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.80783,
+    -122.4281
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1864",
+    "display": "1864",
+    "confidence": "year"
+   },
+   "summary": "Civil War emergency battery on the old Spanish site: West Battery six 10-inch Rodmans, East Battery six 42-pounder banded rifles.",
+   "result": "West Battery restored 1982 (NPS)",
+   "sources": [
+    {
+     "citation": "NPS Golden Gate NRA; Calif. State Military Museum",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Built amid fear of Confederate raiders (CSS Shenandoah)."
+  },
+  {
+   "id": "angel-pt-stuart-cw",
+   "name": "Point Stuart Battery (Angel Island, Civil War)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.86107,
+    -122.4462
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1863",
+    "display": "1863–1864",
+    "confidence": "range"
+   },
+   "summary": "Earthwork: one 10-inch Columbiad and three 32-pounders.",
+   "result": "Demolished — no trace",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (militarymuseum.org)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "angel-pt-knox-cw",
+   "name": "Point Knox Battery (Angel Island, Civil War)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.8565,
+    -122.4416
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1863",
+    "display": "1863–1864",
+    "confidence": "range"
+   },
+   "summary": "Earthwork: seven 32-pounders, one 8-inch and two 10-inch Rodmans. Site later reused by Endicott Battery Ledyard.",
+   "result": "Demolished — no trace",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (militarymuseum.org)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "angel-pt-blunt-cw",
+   "name": "Point Blunt Battery (Angel Island, Civil War)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.85323,
+    -122.41924
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1863",
+    "display": "1863–1865",
+    "confidence": "range"
+   },
+   "summary": "Earthwork of about seven smoothbores; abandoned 1866. Site later the Nike SF-91 launch area.",
+   "result": "Demolished — no trace",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (militarymuseum.org)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "⚠ Exact calibers unverified — HRS pp. 57–59 to firm."
+  },
+  {
+   "id": "angel-water-battery-cw",
+   "name": "Water Battery (Angel Island, Civil War)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.8605,
+    -122.446
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1864",
+    "display": "1864",
+    "confidence": "year"
+   },
+   "summary": "Planned shoreline battery near Camp Reynolds — never completed.",
+   "result": "Never finished",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (militarymuseum.org)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "lime-point-ridge",
+   "name": "Ridge Battery (Lime Point)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.8281,
+    -122.4817
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1870",
+    "display": "1870 (armed 1893)",
+    "confidence": "year"
+   },
+   "summary": "Four 15-inch Rodman smoothbores on the Lime Point ridge. Battery Spencer was later built into it.",
+   "result": "Emplacements extant (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; NPS Lime Point",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "lime-point-cliff",
+   "name": "Cliff Battery (Lime Point)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.826,
+    -122.48
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1870",
+    "display": "1870",
+    "confidence": "year"
+   },
+   "summary": "Two smoothbores planned; never armed; demolished 1898 to build Battery Spencer.",
+   "result": "Demolished",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum; NPS",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "gravelly-beach-1870",
+   "name": "Gravelly Beach Battery (1870s)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.826,
+    -122.483
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1870",
+    "display": "1870–1876",
+    "confidence": "range"
+   },
+   "summary": "Water battery west of Lime Point; one 15-inch Rodman on a wooden platform — the only gun ever mounted in the 1870s Lime Point complex.",
+   "result": "One magazine remains",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum; NPS",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-cavallo",
+   "name": "Battery Cavallo",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.835332,
+    -122.473076
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1872",
+    "display": "1872–1876",
+    "confidence": "range"
+   },
+   "summary": "Point Cavallo earthwork; planned as a 13-gun water battery (including giant 20-inch Rodmans, never emplaced); as armed c.1900, three 8-inch converted-Rodman rifles.",
+   "result": "Earthwork remnants (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Calif. State Military Museum",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-east-presidio",
+   "name": "Battery East (Presidio)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.808,
+    -122.474
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1870",
+    "display": "1870–1873",
+    "confidence": "range"
+   },
+   "summary": "Post-Civil War Rodman line: twelve 15-inch Rodman guns, built because rifled artillery had made masonry Fort Point obsolete.",
+   "result": "Earthworks and brick magazines extant (NPS)",
+   "sources": [
+    {
+     "citation": "NPS Presidio; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-west-presidio",
+   "name": "Battery West (Presidio)",
+   "type": "battery",
+   "layer": "thirdsystem",
+   "coords": [
+    37.8075,
+    -122.4755
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1870",
+    "display": "1870–1873",
+    "confidence": "range"
+   },
+   "summary": "Twelve 15-inch Rodman guns on the Presidio bluff. Its earthwork was later cut down to build Endicott Batteries Marcus Miller and Cranston.",
+   "result": "Earthen wall and a magazine survive (NPS)",
+   "sources": [
+    {
+     "citation": "NPS Presidio; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "lime-point-casemate-unbuilt",
+   "name": "Lime Point casemate fort (endorsed, never built)",
+   "type": "unbuilt",
+   "layer": "thirdsystem",
+   "coords": [
+    37.8256,
+    -122.4787
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1860",
+    "display": "1860s (planned)",
+    "confidence": "circa"
+   },
+   "summary": "The intended Marin-shore twin to Fort Point, for a crossfire across the Gate. Cliffs were blasted for a sea-level shelf in 1868–69, then abandoned when masonry was judged obsolete.",
+   "result": "Never constructed",
+   "sources": [
+    {
+     "citation": "NPS Lime Point; Calif. State Military Museum",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-spencer",
+   "name": "Battery Spencer",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.827894,
+    -122.481913
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1893",
+    "display": "1893–1897",
+    "confidence": "range"
+   },
+   "summary": "Three 12-inch M1888 guns on barbette carriages, on the Lime Point ridge above the Gate — one of the most famous surviving Endicott batteries.",
+   "result": "Extant (GGNRA) — iconic Gate viewpoint",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-duncan",
+   "name": "Battery Duncan",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.837204,
+    -122.474492
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1898",
+    "display": "1898–1899",
+    "confidence": "range"
+   },
+   "summary": "Two 8-inch M1888 guns on barbette carriages, Fort Baker; guns pulled in the 1917 WWI drawdown.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-kirby",
+   "name": "Battery Kirby",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.827316,
+    -122.490256
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1900",
+    "confidence": "range"
+   },
+   "summary": "Two 12-inch M1895 guns on disappearing carriages, above Kirby Cove, Fort Baker.",
+   "result": "Extant (GGNRA), near Kirby Cove campground",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-wagner-baker",
+   "name": "Battery Orlando Wagner (Fort Baker)",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.827408,
+    -122.485968
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1901",
+    "confidence": "range"
+   },
+   "summary": "Two 5-inch M1897 rapid-fire guns on balanced-pillar carriages, Fort Baker; disarmed 1917.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Distinct from Fort Scott's Battery Arthur Wagner (a 12-inch mortar battery)."
+  },
+  {
+   "id": "battery-yates",
+   "name": "Battery Yates",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.833623,
+    -122.47317
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1903",
+    "display": "1903 (guns 1905)",
+    "confidence": "year"
+   },
+   "summary": "Six 3-inch M1902 rapid-fire guns guarding the minefield, Fort Baker; several guns later moved to WWII beach positions.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-mendell",
+   "name": "Battery Mendell",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.82202,
+    -122.531395
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1901",
+    "display": "1901–1905",
+    "confidence": "range"
+   },
+   "summary": "Two 12-inch M1895 guns on disappearing carriages, Fort Barry, in the Point Bonita area.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-alexander",
+   "name": "Battery Alexander",
+   "type": "mortar-battery",
+   "layer": "endicott",
+   "coords": [
+    37.825997,
+    -122.529533
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1901",
+    "display": "1901–1903",
+    "confidence": "range"
+   },
+   "summary": "Eight 12-inch mortars (four per pit), Fort Barry; reduced to four in 1918.",
+   "result": "Large mortar battery extant (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-guthrie",
+   "name": "Battery Guthrie",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.827311,
+    -122.532127
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1903",
+    "display": "1903–1905",
+    "confidence": "range"
+   },
+   "summary": "Four 6-inch M1900 guns protecting the minefields, Fort Barry; left half redesignated Battery Smith in 1922.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-smith",
+   "name": "Battery Smith",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.82697,
+    -122.53182
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1922",
+    "display": "1905 guns, split 1922",
+    "confidence": "year"
+   },
+   "summary": "Two 6-inch M1900 guns — the left half of Battery Guthrie, together the 'Smith-Guthrie' battery.",
+   "result": "Extant (part of Guthrie)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-rathbone",
+   "name": "Battery Rathbone",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.82666,
+    -122.51833
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1904",
+    "display": "1904–1905",
+    "confidence": "range"
+   },
+   "summary": "Four 6-inch M1900 guns, Fort Barry; east half redesignated Battery McIndoe in 1922.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Rathbone-McIndoe sits east on the Conzelman Road ridge (verified FortWiki), distinct from Guthrie-Smith to the west."
+  },
+  {
+   "id": "battery-mcindoe",
+   "name": "Battery McIndoe",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.82676,
+    -122.51782
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1922",
+    "display": "1905 guns, split 1922",
+    "confidence": "year"
+   },
+   "summary": "Two 6-inch M1900 guns — the east half of Battery Rathbone, together the 'Rathbone-McIndoe' battery.",
+   "result": "Extant (part of Rathbone)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-ororke",
+   "name": "Battery O'Rorke",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.828202,
+    -122.532461
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1903",
+    "display": "1903–1905",
+    "confidence": "range"
+   },
+   "summary": "Four 3-inch M1903 rapid-fire guns for the main channel and northern minefields, Fort Barry.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-godfrey",
+   "name": "Battery Godfrey",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.803611,
+    -122.477222
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1892",
+    "display": "1892–1896",
+    "confidence": "range"
+   },
+   "summary": "Three 12-inch M1888 guns on barbette carriages — the first Endicott battery completed in the San Francisco defenses.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-saffold",
+   "name": "Battery Saffold",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.799756,
+    -122.477498
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1897",
+    "display": "1897",
+    "confidence": "year"
+   },
+   "summary": "Two 12-inch guns on barbette carriages, Fort Scott — built so it could fire seaward and into the bay itself.",
+   "result": "Extant concrete (U.S. Army)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 426",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-lancaster",
+   "name": "Battery Lancaster",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.808072,
+    -122.476163
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1896",
+    "display": "1896–1900",
+    "confidence": "range"
+   },
+   "summary": "Three 12-inch guns on disappearing carriages, Fort Scott; impaired by construction of the Golden Gate Bridge.",
+   "result": "Partly destroyed; emplacement 1 in the toll-plaza walkway",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-cranston",
+   "name": "Battery Cranston",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.807171,
+    -122.476635
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1897",
+    "display": "1897–1898",
+    "confidence": "range"
+   },
+   "summary": "Two 10-inch guns on disappearing carriages, practically identical to adjacent Battery Marcus Miller (whose emplacements were built first).",
+   "result": "Extant — GG Bridge District workshops (not public)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 427",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-marcus-miller",
+   "name": "Battery Marcus Miller",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.805833,
+    -122.476667
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1891",
+    "display": "begun 1891",
+    "confidence": "year"
+   },
+   "summary": "Three 10-inch guns on disappearing carriages, built over the demolished Fort Point West Battery — NPS calls it the first Endicott battery begun in the SF defenses.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; NPS Presidio",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-crosby",
+   "name": "Battery Crosby",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.798412,
+    -122.48032
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1900",
+    "confidence": "range"
+   },
+   "summary": "Two 6-inch M1897 guns on disappearing carriages, on the bluff above Baker Beach, to protect the Golden Gate minefields.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; NPS",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-howe-scott",
+   "name": "Battery Howe (Fort Scott)",
+   "type": "mortar-battery",
+   "layer": "endicott",
+   "coords": [
+    37.802222,
+    -122.471944
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1893",
+    "display": "1893–1895",
+    "confidence": "range"
+   },
+   "summary": "Eight 12-inch mortars — the eastern half of a 16-mortar work, its western pits being Battery Arthur Wagner ('Battery Howe-Wagner').",
+   "result": "Partly buried (pit A visible)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Distinct from Fort Funston's Battery Howe."
+  },
+  {
+   "id": "battery-wagner-scott",
+   "name": "Battery Arthur Wagner (Fort Scott)",
+   "type": "mortar-battery",
+   "layer": "endicott",
+   "coords": [
+    37.802222,
+    -122.471944
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1893",
+    "display": "1893–1895",
+    "confidence": "range"
+   },
+   "summary": "Eight 12-inch mortars — the western half of the Howe-Wagner mortar work, Fort Scott.",
+   "result": "Buried (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-stotsenburg",
+   "name": "Battery Stotsenburg",
+   "type": "mortar-battery",
+   "layer": "endicott",
+   "coords": [
+    37.795292,
+    -122.473789
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1897",
+    "display": "1897–1900",
+    "confidence": "range"
+   },
+   "summary": "Eight 12-inch mortars — originally one 16-mortar battery with McKinnon, divided in two.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 427",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-mckinnon",
+   "name": "Battery William McKinnon",
+   "type": "mortar-battery",
+   "layer": "endicott",
+   "coords": [
+    37.795012,
+    -122.474953
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1898",
+    "display": "1898 (renamed 1906)",
+    "confidence": "year"
+   },
+   "summary": "Eight 12-inch mortars — the other half of the 'McKinnon-Stotsenburg' work.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-boutelle",
+   "name": "Battery Boutelle",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.804444,
+    -122.476944
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1898",
+    "display": "1898–1901",
+    "confidence": "range"
+   },
+   "summary": "Three 5-inch M1897 guns on balanced-pillar carriages, Fort Scott; disarmed 1917.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-sherwood",
+   "name": "Battery Sherwood",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.802222,
+    -122.464167
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1900",
+    "display": "1900",
+    "confidence": "year"
+   },
+   "summary": "Two 5-inch M1900 guns on pedestal mounts in the national-cemetery area, Fort Scott — the only battery of its type in the SF Endicott defenses.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 427",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-slaughter",
+   "name": "Battery Slaughter",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.801944,
+    -122.463056
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1900",
+    "confidence": "range"
+   },
+   "summary": "Three 8-inch M1888 guns on disappearing carriages, Fort Scott; disarmed 1917.",
+   "result": "Mostly buried under Highway 101",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-baldwin",
+   "name": "Battery Baldwin",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.802435,
+    -122.465166
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1901",
+    "display": "1901–1903",
+    "confidence": "range"
+   },
+   "summary": "Two 3-inch (15-pounder) M1898 guns on masking-parapet carriages, Fort Scott.",
+   "result": "Buried (top exposed), GGNRA",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "The often-cited 'Battery Baker' of the Endicott era does not exist — likely a conflation with Baldwin."
+  },
+  {
+   "id": "battery-blaney",
+   "name": "Battery Blaney",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.802016,
+    -122.461755
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1901",
+    "display": "1901–1903",
+    "confidence": "range"
+   },
+   "summary": "Four 3-inch M1898 guns on masking-parapet carriages, Fort Scott; dismounted 1920.",
+   "result": "Extant (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 428",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-dynamite",
+   "name": "Dynamite Battery",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.8045,
+    -122.4775
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1889",
+    "display": "1889–1904",
+    "confidence": "range"
+   },
+   "summary": "Three 15-inch pneumatic dynamite guns — unique on the Pacific Coast (only one other in the U.S., at Sandy Hook). Reused in WWII as the Harbor Defense Command Post.",
+   "result": "Structure intact (U.S. Army, storage)",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum; Thompson HRS 1979 p. 426",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-chamberlin",
+   "name": "Battery Chamberlin",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.794017,
+    -122.482608
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1903",
+    "display": "1903–1948",
+    "confidence": "range"
+   },
+   "summary": "Six-inch guns on disappearing carriages at Baker Beach — the last coast battery deactivated at Fort Scott, with the only operating disappearing-gun display on the West Coast (Smithsonian gun installed 1977).",
+   "result": "Extant (GGNRA) — NPS tours",
+   "sources": [
+    {
+     "citation": "FortWiki; NPS Presidio",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-livingston",
+   "name": "Battery Livingston",
+   "type": "mortar-battery",
+   "layer": "endicott",
+   "coords": [
+    37.783104,
+    -122.501609
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1902",
+    "confidence": "range"
+   },
+   "summary": "Eight 12-inch mortars (originally 16, split 1906), Fort Miley.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-springer",
+   "name": "Battery Springer",
+   "type": "mortar-battery",
+   "layer": "endicott",
+   "coords": [
+    37.783104,
+    -122.501609
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1906",
+    "display": "1899, split 1906",
+    "confidence": "year"
+   },
+   "summary": "Eight 12-inch mortars — the other half of the Livingston mortar block, Fort Miley.",
+   "result": "Extant concrete (GGNRA, storage)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-chester",
+   "name": "Battery Chester",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.782443,
+    -122.508861
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1903",
+    "confidence": "range"
+   },
+   "summary": "Three 12-inch guns (two on disappearing carriages, one barbette), Fort Miley.",
+   "result": "Extant concrete (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-call",
+   "name": "Battery Call",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.781862,
+    -122.507043
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1914",
+    "display": "1914–1916",
+    "confidence": "range"
+   },
+   "summary": "Two 5-inch M1900 guns (from Battery Ledyard, Angel Island), Fort Miley.",
+   "result": "DEMOLISHED — destroyed by VA Hospital expansion",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-burnham",
+   "name": "Battery Burnham (Fort Mason)",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.807445,
+    -122.428
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1900",
+    "confidence": "range"
+   },
+   "summary": "One 8-inch gun on a disappearing carriage atop Point San José, above the Civil War Batteries East and West; short-lived — field of fire blocked by the city.",
+   "result": "Two-story emplacement extant (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-drew",
+   "name": "Battery Drew (Angel Island)",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.855212,
+    -122.43443
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1898",
+    "display": "1898–1900",
+    "confidence": "range"
+   },
+   "summary": "One 8-inch gun on a barbette carriage on Martar Hill — Angel Island's first Endicott battery, twin of Battery Duncan.",
+   "result": "Extant emplacement (State Park)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 428",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-ledyard",
+   "name": "Battery Ledyard (Angel Island)",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.856478,
+    -122.4416
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1900",
+    "display": "1900",
+    "confidence": "year"
+   },
+   "summary": "Two 5-inch M1900 guns on pedestal mounts, on the old Point Knox site; twin of Battery Sherwood. Guns went to Battery Call in 1915.",
+   "result": "Extant emplacement (State Park)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 429",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "⚠ Disarm date 1915 (FortWiki) vs 1920 (militarymuseum)."
+  },
+  {
+   "id": "battery-wallace-angel",
+   "name": "Battery Wallace (Angel Island)",
+   "type": "battery",
+   "layer": "endicott",
+   "coords": [
+    37.85752,
+    -122.440586
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1899",
+    "display": "1899–1900",
+    "confidence": "range"
+   },
+   "summary": "One 8-inch gun on a disappearing carriage — the only disappearing gun on the island; similar to Battery Burnham, Fort Mason.",
+   "result": "Extant emplacement (State Park)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 428",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Distinct from the larger Battery Wallace at Fort Barry."
+  },
+  {
+   "id": "battery-wallace-barry",
+   "name": "Battery Wallace (Fort Barry)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.824608,
+    -122.528262
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1917",
+    "display": "built 1917–21, casemated WWII",
+    "confidence": "range"
+   },
+   "summary": "Two 12-inch M1895 guns on long-range barbette carriages (360°), casemated in 1942–43 — Fort Barry's heaviest surviving long-range battery.",
+   "result": "Massive casemate/tunnel complex extant (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-129",
+   "name": "Battery Construction No. 129 (Fort Barry)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.82711,
+    -122.50024
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1942",
+    "display": "1942–1944 (never armed)",
+    "confidence": "range"
+   },
+   "summary": "Designed for two 16-inch navy guns on Diablo Ridge, over 800 ft — 'one of the highest seacoast batteries in the world.' Tubes arrived but carriages were never delivered; never armed. Would have been the harbor's third 16-inch battery.",
+   "result": "Twin casemates and tunnels extant (GGNRA)",
+   "sources": [
+    {
+     "citation": "Thompson HRS 1979 p. 445",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "On Hawk Hill / Diablo Ridge (~820 ft), Fort Barry — verified via FortWiki (the earlier 'inland error' flag was itself wrong; Hawk Hill really is here). The Nike SF-87 control area later sat on this hill."
+  },
+  {
+   "id": "battery-townsley",
+   "name": "Battery Townsley",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.836225,
+    -122.544057
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1938",
+    "display": "1938–1948",
+    "confidence": "range"
+   },
+   "summary": "Two 16-inch guns on casemated carriages on Wolf Ridge, Fort Cronkhite — the largest guns ever emplaced at the Golden Gate; first fired 1 July 1940, the first 16-inch round on the U.S. Pacific coast.",
+   "result": "Extant casemated battery, partly restored — display 16-inch gun since 2012",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979; Chin, Artillery at the Golden Gate (1994)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "aa-battery-1-cronkhite",
+   "name": "Anti-Aircraft Battery No. 1 (Wolf Ridge)",
+   "type": "AA-battery",
+   "layer": "wwii",
+   "coords": [
+    37.835,
+    -122.543
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1940",
+    "display": "1940–1946",
+    "confidence": "range"
+   },
+   "summary": "Three-inch anti-aircraft guns protecting Battery Townsley, with its own powerhouse and magazine.",
+   "result": "Concrete emplacements survive on Wolf Ridge",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "⚠ Gun count: militarymuseum 3, FortWiki 2."
+  },
+  {
+   "id": "battery-kirby-beach",
+   "name": "Battery Kirby Beach (Gravelly Beach 3-inch)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.827055,
+    -122.489662
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1942",
+    "display": "1942–1944",
+    "confidence": "range"
+   },
+   "summary": "Two 3-inch guns (from Battery Yates), Fort Baker shoreline; octagonal gun blocks; guns later moved to Fort Point.",
+   "result": "Buried; only the site remains",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 446",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-gravelly-amtb",
+   "name": "Battery Gravelly (AMTB, Fort Baker)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.827144,
+    -122.489169
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1943",
+    "display": "1943–1946",
+    "confidence": "range"
+   },
+   "summary": "Two 90 mm guns on fixed mounts and two on mobile mounts, Gravelly (Kirby) Beach; circular gun blocks — the permanent north-shore anti-motor-torpedo-boat battery.",
+   "result": "Partial concrete pads (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 446",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-bonita",
+   "name": "Battery Bonita (AMTB, Fort Barry)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.816,
+    -122.529
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1943",
+    "display": "1943–1944",
+    "confidence": "range"
+   },
+   "summary": "Two 37 mm automatic weapons (1943) replaced by two 40 mm (1944), at Point Bonita.",
+   "result": "Nothing remains",
+   "sources": [
+    {
+     "citation": "Thompson HRS 1979 p. 446",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "cavallo-amtb-wwii",
+   "name": "Cavallo Battery (AMTB, WWII)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.8353,
+    -122.4731
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1943",
+    "display": "1943–1944",
+    "confidence": "range"
+   },
+   "summary": "Two 37 mm (1943) then 40 mm (1944) automatic weapons — one at the tip of Point Cavallo, one on the Fort Baker mine wharf.",
+   "result": "No remains",
+   "sources": [
+    {
+     "citation": "Thompson HRS 1979 p. 446",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-gate",
+   "name": "Battery Gate (Fort Point)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.81056,
+    -122.47722
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1942",
+    "display": "WWII",
+    "confidence": "range"
+   },
+   "summary": "Two 3-inch guns (from Battery Yates) mounted on the barbette tier of the old masonry fort.",
+   "result": "Platforms interpreted at Fort Point (NPS)",
+   "sources": [
+    {
+     "citation": "Thompson HRS 1979 p. 447",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "A distinct battery from Battery Point — together they were the four 3-inch guns on the Fort Point barbette tier."
+  },
+  {
+   "id": "battery-point",
+   "name": "Battery Point (Fort Point)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.81056,
+    -122.47722
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1942",
+    "display": "WWII",
+    "confidence": "range"
+   },
+   "summary": "Two 3-inch guns (from Battery Yates), first at Gravelly Beach, later moved to the Fort Point barbette tier.",
+   "result": "Platforms interpreted at Fort Point (NPS)",
+   "sources": [
+    {
+     "citation": "Thompson HRS 1979 p. 447",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-baker-amtb",
+   "name": "Battery Baker (AMTB, Bakers Beach)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.792731,
+    -122.482808
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1943",
+    "display": "1943–1946",
+    "confidence": "range"
+   },
+   "summary": "Two 90 mm guns on fixed mounts and two on mobile mounts, in front of the mine casemate at Bakers Beach; guarded the minefield and harbor entrance.",
+   "result": "Pads not visible (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 447",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "A real WWII battery — the 'no Battery Baker' note applies only to the Endicott era."
+  },
+  {
+   "id": "battery-scott-amtb",
+   "name": "Battery Scott (AMTB)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.793,
+    -122.48
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1944",
+    "display": "WWII",
+    "confidence": "range"
+   },
+   "summary": "Two 40 mm guns — one at Fort Point, one at Bakers Beach; retained in the 1945 planning supplement.",
+   "result": "Nothing remains",
+   "sources": [
+    {
+     "citation": "Thompson HRS 1979 p. 447",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-lobos",
+   "name": "Battery Lobos (Fort Miley)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.782765,
+    -122.512407
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1942",
+    "display": "1942–1945",
+    "confidence": "range"
+   },
+   "summary": "Two 6-inch navy guns on pedestal mounts, emplaced on Point Lobos.",
+   "result": "Pad 1 partly exposed below the USS San Francisco Memorial",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 448",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-243",
+   "name": "Battery Construction No. 243 (Fort Miley)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.782604,
+    -122.508245
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1943",
+    "display": "1943 (armed 1948)",
+    "confidence": "year"
+   },
+   "summary": "Two 6-inch guns on shielded barbette carriages — the last gun battery armed at San Francisco (guns finally mounted in 1948).",
+   "result": "Extant concrete, trail-accessible (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 448",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-land-amtb",
+   "name": "Battery Land (AMTB, Lands End)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.787946,
+    -122.505729
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1943",
+    "display": "1943–1948",
+    "confidence": "range"
+   },
+   "summary": "Two 90 mm guns on fixed mounts and two on mobile mounts, at Lands End north of Fort Miley.",
+   "result": "Pads visible from above (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 448",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-buck-amtb",
+   "name": "Battery Buck (AMTB, Fort Miley)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.786,
+    -122.507
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1943",
+    "display": "WWII",
+    "confidence": "range"
+   },
+   "summary": "Two 37 mm automatic weapons, later replaced by 40 mm, in the Fort Miley / Lands End vicinity.",
+   "result": "No remains",
+   "sources": [
+    {
+     "citation": "Thompson HRS 1979 p. 448",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-davis",
+   "name": "Battery Davis (Fort Funston)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.71859,
+    -122.50348
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1936",
+    "display": "1936–1948",
+    "confidence": "range"
+   },
+   "summary": "Two 16-inch navy guns in earth-covered concrete casemates — the first casemated 16-inch battery in the United States and the engineering prototype for the whole WWII casemated program. Tubes were originally forged for the cancelled battlecruiser USS Saratoga.",
+   "result": "Extant concrete, largely dune-buried (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979; Chin (1994)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-howe-funston",
+   "name": "Battery Howe (Fort Funston)",
+   "type": "mortar-battery",
+   "layer": "wwii",
+   "coords": [
+    37.726944,
+    -122.506111
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1917",
+    "display": "1917–1918",
+    "confidence": "range"
+   },
+   "summary": "Four 12-inch mortars (from Stotsenburg-McKinnon), in an unusual straight-line pit layout.",
+   "result": "Destroyed/buried under the Great Highway",
+   "sources": [
+    {
+     "citation": "FortWiki; Calif. State Military Museum",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Distinct from Fort Scott's Battery Howe."
+  },
+  {
+   "id": "battery-bruff",
+   "name": "Battery Bruff (Fort Funston)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.714058,
+    -122.50082
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1917",
+    "display": "1917–1918",
+    "confidence": "range"
+   },
+   "summary": "Two 5-inch M1900 guns — the shortest-lived battery in the SF defenses, obsolete about six months after transfer.",
+   "result": "Demolished — no remains",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "A separate battery from Battery Bluff, not a spelling variant."
+  },
+  {
+   "id": "battery-bluff",
+   "name": "Battery Bluff (Fort Funston)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.722337,
+    -122.50605
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1937",
+    "display": "1937–1945",
+    "confidence": "range"
+   },
+   "summary": "Four mobile 155 mm guns on Panama mounts — the only Panama mounts in San Francisco. The original clifftop site eroded, forcing a move south; original mounts remain in the surf.",
+   "result": "Panama mounts visible at the cliff base (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki; Thompson HRS 1979 p. 449",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "'Bluff' is a descriptive name (the ocean bluff), not an officer namesake."
+  },
+  {
+   "id": "battery-aa5-funston",
+   "name": "Battery AA5 (Fort Funston)",
+   "type": "AA-battery",
+   "layer": "wwii",
+   "coords": [
+    37.722893,
+    -122.503867
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1920",
+    "display": "1920–1945",
+    "confidence": "range"
+   },
+   "summary": "Three 3-inch M1917 guns on fixed anti-aircraft mounts — the only named fixed AA battery at Funston.",
+   "result": "Magazine, power room, and three gun blocks extant (GGNRA)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-244-milagra",
+   "name": "Battery Construction No. 244 (Milagra Ridge)",
+   "type": "battery",
+   "layer": "wwii",
+   "coords": [
+    37.64094,
+    -122.48171
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1943",
+    "display": "1943 (armed 1944)",
+    "confidence": "year"
+   },
+   "summary": "Two 6-inch guns on shielded barbette carriages atop Milagra Ridge, Pacifica.",
+   "result": "Extant concrete (GGNRA / City of Pacifica)",
+   "sources": [
+    {
+     "citation": "FortWiki",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "battery-130-milagra",
+   "name": "Battery Construction No. 130 (Milagra, unbuilt)",
+   "type": "unbuilt",
+   "layer": "wwii",
+   "coords": [
+    37.641,
+    -122.482
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1943",
+    "display": "cancelled",
+    "confidence": "circa"
+   },
+   "summary": "Planned two 16-inch casemated battery at Milagra Ridge — cancelled during the war, never started.",
+   "result": "Never built",
+   "sources": [
+    {
+     "citation": "FortWiki (Milagra Ridge Military Reservation)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "angel-amtb-blunt",
+   "name": "Angel Island AMTB batteries (Blunt / Knox / Cove)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    37.849,
+    -122.421
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1942",
+    "display": "planned 1942",
+    "confidence": "circa"
+   },
+   "summary": "Programmed anti-motor-torpedo-boat batteries at Points Blunt, Knox, and Ione (Cove) — 90 mm and 40 mm — plus four mobile 90 mm AA guns sited at the Endicott emplacements.",
+   "result": "⚠ Programmed but not confirmed built",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Point Blunt later overbuilt by the Nike SF-91 site."
+  },
+  {
+   "id": "tiburon-net-depot",
+   "name": "U.S. Navy Net Depot, Tiburon",
+   "type": "underwater-defense",
+   "layer": "wwii",
+   "coords": [
+    37.89028,
+    -122.44722
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1940",
+    "display": "1940–1958",
+    "confidence": "range"
+   },
+   "summary": "Assembled and deployed the roughly 7-mile, 6,000-ton anti-submarine steel net strung across the Golden Gate (terminals at Sausalito/Lime Point and Fort Point) — the physical barrier complementing the minefields.",
+   "result": "Now SF State's Estuary & Ocean Science Center",
+   "sources": [
+    {
+     "citation": "NPS; U.S. Navy Net Depot Tiburon (Wikipedia)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "yerba-buena-mine-building",
+   "name": "Yerba Buena Island Torpedo (Mine) Assembly Building",
+   "type": "underwater-defense",
+   "layer": "wwii",
+   "coords": [
+    37.81471,
+    -122.35921
+   ],
+   "coord_precision": "area",
+   "date": {
+    "iso": "1891",
+    "display": "1891",
+    "confidence": "year"
+   },
+   "summary": "Stored and assembled the controlled submarine mines for the bay defense. Army gun batteries planned for the island (1861, 1868) were never built.",
+   "result": "Island now Navy/Coast Guard and City of SF",
+   "sources": [
+    {
+     "citation": "FortWiki (Camp Yerba Buena Island)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf0809",
+   "name": "Nike SF-08/09 — San Pablo Ridge (Tilden)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.925,
+    -122.26222
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1955",
+    "display": "1955–1963",
+    "confidence": "range"
+   },
+   "summary": "A double Nike Ajax site (09 launch, 08 control) in the Berkeley hills, the two batteries covering each other's dead zones.",
+   "result": "Demolished — now regional parkland (EBRPD)",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database; Calif. State Military Museum",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf25",
+   "name": "Nike SF-25 — Rocky Ridge (San Ramon)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.8125,
+    -122.0425
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1956",
+    "display": "1956–1959",
+    "confidence": "range"
+   },
+   "summary": "A short-lived Nike Ajax site in the Las Trampas hills — one of the briefest in the Bay Area.",
+   "result": "Demolished — Las Trampas Regional Wilderness",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database; San Ramon Valley Historical Society",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf31",
+   "name": "Nike SF-31 — Lake Chabot / Castro Valley",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.72153,
+    -122.09894
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1956",
+    "display": "1956–1974",
+    "confidence": "range"
+   },
+   "summary": "Nike Ajax upgraded to nuclear-capable Hercules; one of the last three Bay-area sites deactivated (March 1974).",
+   "result": "Demolished — East Bay Regional Park District",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf37",
+   "name": "Nike SF-37 — Coyote Hills (Fremont)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.55889,
+    -122.09611
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1955",
+    "display": "1955–1963",
+    "confidence": "range"
+   },
+   "summary": "A Nike Ajax site on the southeast bay shore.",
+   "result": "Demolished — Coyote Hills Regional Park",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf51",
+   "name": "Nike SF-51 — Milagra Ridge / Sweeney Ridge",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.63944,
+    -122.47889
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1956",
+    "display": "1956–1974",
+    "confidence": "range"
+   },
+   "summary": "Launch area at Milagra Ridge, control at Sweeney Ridge; Ajax upgraded to Hercules, lasting to the 1974 stand-down.",
+   "result": "GGNRA parkland (earthworks visible)",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf59",
+   "name": "Nike SF-59 — Fort Funston / Lake Merced",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.71472,
+    -122.50167
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1956",
+    "display": "1956–1963",
+    "confidence": "range"
+   },
+   "summary": "A Nike Ajax site with its launch area at Fort Funston (structure FF-495), the only one of the four GGNRA-area sites south of the Gate.",
+   "result": "Demolished — GGNRA parkland",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database; Thompson HRS 1979 p. 450",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf87",
+   "name": "Nike SF-87 — Fort Cronkhite / Wolf Ridge",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.835,
+    -122.53083
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1955",
+    "display": "1955–1971",
+    "confidence": "range"
+   },
+   "summary": "Ajax then Hercules; control area (87C) sat on top of the casemates of Battery Construction 129. Paired with SF-88.",
+   "result": "Launch area = The Marine Mammal Center; control ruins on trails",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database; Thompson HRS 1979 p. 450",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf88",
+   "name": "Nike SF-88 — Fort Barry",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.82667,
+    -122.5275
+   ],
+   "coord_precision": "exact",
+   "date": {
+    "iso": "1954",
+    "display": "1954–1974",
+    "confidence": "range"
+   },
+   "summary": "Opened 1954 (Ajax); received the first Nike Hercules battery in the Bay Area (1958); deactivated 1974 — the final SF-area Nike stand-down.",
+   "result": "Restored NPS museum — the most complete Nike site in the U.S.",
+   "sources": [
+    {
+     "citation": "Haller & Martini, The Last Missile Site (2010); NPS; Thompson HRS 1979 p. 450",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf89",
+   "name": "Nike SF-89 — Fort Winfield Scott (Presidio)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.79222,
+    -122.47333
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1954",
+    "display": "1954–1963",
+    "confidence": "range"
+   },
+   "summary": "One of the earliest Bay-area Nike Ajax activations, in the Presidio.",
+   "result": "Demolished — Presidio / GGNRA land",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "SF-89 is Fort Winfield Scott (not Fort Cronkhite, a common mislabel)."
+  },
+  {
+   "id": "nike-sf91",
+   "name": "Nike SF-91 — Angel Island",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    37.85639,
+    -122.4225
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1955",
+    "display": "1955–1961",
+    "confidence": "range"
+   },
+   "summary": "A short-lived Nike Ajax site on Angel Island (launch at Point Blunt); its control area sat on Mount Caroline Livermore.",
+   "result": "Demolished — Angel Island State Park",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database; Thompson HRS 1979 p. 449",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-sf93",
+   "name": "Nike SF-93 — San Rafael / Point San Pedro",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    38.02389,
+    -122.52083
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1956",
+    "display": "1956–1971",
+    "confidence": "range"
+   },
+   "summary": "Ajax upgraded to Hercules; launch near Point San Pedro, control toward Peacock Gap.",
+   "result": "Partly built over (Marin wastewater plant) / park",
+   "sources": [
+    {
+     "citation": "Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "benicia-clock-tower",
+   "name": "Benicia Arsenal — Clock Tower Fortress",
+   "type": "fort",
+   "layer": "thirdsystem",
+   "coords": [
+    38.04612,
+    -122.13225
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1859",
+    "display": "1859",
+    "confidence": "year"
+   },
+   "summary": "The fortified sandstone bastion of the Benicia Arsenal on Army Point, built 1859 with gun ports and rifle slits covering the Carquinez Strait and Suisun Bay — called the first stone fortress in the far West. Originally two towers; rebuilt with one after an 1912 powder explosion.",
+   "result": "Survives intact — Benicia community/event center",
+   "sources": [
+    {
+     "citation": "HMDB (Benicia Clock Tower); Benicia Arsenal Historic District",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "The Arsenal (1849–1964) was an ordnance depot, not a coast-defense gun reservation; this bastion is its one true fortification."
+  },
+  {
+   "id": "aa-battery-2-barry",
+   "name": "Anti-Aircraft Battery No. 2 (Fort Barry)",
+   "type": "AA-battery",
+   "layer": "wwii",
+   "coords": [
+    37.8265,
+    -122.53
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1942",
+    "display": "1942–1945",
+    "confidence": "range"
+   },
+   "summary": "Three 3-inch M1917 anti-aircraft guns at Fort Barry (shown on the WWII harbor-defense maps). Exact placement not recorded in the sources.",
+   "result": "Location approximate",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum; northamericanforts.com",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "⚠ No authoritative coordinate exists — pin placed approximately among the Fort Barry works."
+  },
+  {
+   "id": "mare-island-aa",
+   "name": "Mare Island AA defenses (WWII)",
+   "type": "AA-battery",
+   "layer": "wwii",
+   "coords": [
+    38.065,
+    -122.253
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1942",
+    "display": "1942–1945",
+    "confidence": "range"
+   },
+   "summary": "Mare Island Navy Yard was defended in WWII by MOBILE 90 mm AA guns and .50-cal machine guns (211th Coast Artillery, on station a week after Pearl Harbor) plus barrage balloons (309th CA Balloon Bn), in positions spread across the south end, Hwy 37, and North Vallejo. The yard never had a FIXED coastal-defense gun battery — San Pablo Bay was screened by the Golden Gate forts ~20 mi downstream.",
+   "result": "⚠ Mobile AA only — no fixed seacoast battery; air-raid siren tower & shelter booths survive",
+   "sources": [
+    {
+     "citation": "North American Forts (ca-central); Calif. State Military Museum (Mare Island / HDSF)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Civil War: a garrison (soldiers on USS Independence, then Marines), no mounted gun battery. Endicott era: explicitly excluded from the Harbor Defenses of San Francisco. FortWiki lists Mare Island as a Navy yard, not a coast-defense fort. Position approximate (south-end AA site)."
+  },
+  {
+   "id": "crockett-carquinez-amtb",
+   "name": "Carquinez AMTB battery (Crockett / Valona Hill)",
+   "type": "AMTB",
+   "layer": "wwii",
+   "coords": [
+    38.055,
+    -122.225
+   ],
+   "coord_precision": "conjectural",
+   "date": {
+    "iso": "1941",
+    "display": "1941–1944",
+    "confidence": "range"
+   },
+   "summary": "Mobile 90 mm and .50-cal guns (211th Coast Artillery) on the hills around Crockett / Valona, guarding the Carquinez Strait crossing.",
+   "result": "⚠ Approximate — exact position undetermined",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum; northamericanforts.com",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "The inner-bay Carquinez defense complementing the Benicia Arsenal."
+  },
+  {
+   "id": "nike-t10",
+   "name": "Nike T-10 — Elmira (Travis Defense Area)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    38.3172,
+    -121.8936
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1958",
+    "display": "1958–1974",
+    "confidence": "range"
+   },
+   "summary": "A Nike Ajax→Hercules battery of the TRAVIS AFB Defense Area (a separate ring from the San Francisco Defense Area), SW of Vacaville — the area's primary fire-control site.",
+   "result": "Redeveloped as housing",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (Travis Defense Area); Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Travis AFB (Solano Co.) was a SAC base with its own T-## Nike ring — the North Bay sites the SF-## list omits."
+  },
+  {
+   "id": "nike-t33",
+   "name": "Nike T-33 — Dixon / Lambie (Travis Defense Area)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    38.2219,
+    -121.8572
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1957",
+    "display": "1957/58–1959",
+    "confidence": "range"
+   },
+   "summary": "A Nike Ajax battery of the Travis AFB Defense Area near Dixon — one of two Travis sites closed early (Jan 1959) as the area consolidated to two Hercules batteries.",
+   "result": "Closed early; IFC became a conservation/prison camp",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (Travis Defense Area); Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-t53",
+   "name": "Nike T-53 — Potrero Hills (Travis Defense Area)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    38.2028,
+    -121.9356
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1958",
+    "display": "1958–1959",
+    "confidence": "range"
+   },
+   "summary": "A Nike Ajax battery of the Travis AFB Defense Area in the Potrero Hills SE of Fairfield — closed early (Jan 1959).",
+   "result": "Closed early; industrial use",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (Travis Defense Area); Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  },
+  {
+   "id": "nike-t86",
+   "name": "Nike T-86 — Fairfield / Cement Hills (Travis Defense Area)",
+   "type": "nike",
+   "layer": "coldwar",
+   "coords": [
+    38.2761,
+    -122.0022
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1958",
+    "display": "1958–1971",
+    "confidence": "range"
+   },
+   "summary": "A Nike Ajax→Hercules battery of the Travis AFB Defense Area at Cement Hills, Fairfield — one of the two that carried the Travis defense to the 1971 stand-down.",
+   "result": "Mostly intact — county detention center / animal shelter",
+   "sources": [
+    {
+     "citation": "Calif. State Military Museum (Travis Defense Area); Ed Thelen Nike database",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ]
+  }
+ ]
+}

@@ -60,6 +60,16 @@
         combatants as military actors, with campaign layers, a timeline, and register-keyed citations.</p>
       </div>
     </a>
+    <a class="card" href="maps/bay-coastal-defense.html">
+      <div class="thumb" style="background-image:url(assets/previews/bay-coastal-defense.jpg)"></div>
+      <div class="body">
+        <h3>Coastal Defense of San Francisco Bay, 1776–1974</h3>
+        <p class="meta" data-count="bay-coastal-defense">Castillo · Third System · Endicott guns · 16-inch · Nike</p>
+        <p>Every coastal-defense battery of the bay across six eras — from the Spanish Castillo de San
+        Joaquín to the Cold War Nike missiles — one toggleable layer per period, each pin sourced to
+        Bancroft and the NPS historic record.</p>
+      </div>
+    </a>
     <a class="card" href="maps/presidial-system.html">
       <div class="thumb" style="background-image:url(assets/previews/presidial-system.jpg)"></div>
       <div class="body">
@@ -206,7 +216,7 @@
 
 <script>
 (function () {
-  var maps = ["native-california", "military-engagements", "presidial-system", "bodega-ross-corridor", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
+  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {
