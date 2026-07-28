@@ -118,6 +118,7 @@
       if (s.ca_record) h += ' — <a href="https://aodhanm.github.io/archives-of-california/#' +
         encodeURIComponent(s.ca_record) + '" target="_blank" rel="noopener">View the record →</a>';
       else if (s.ia_leaf_url) h += ' — <a href="' + esc(s.ia_leaf_url) + '" target="_blank" rel="noopener">manuscript leaf →</a>';
+      else if (s.url) h += ' — <a href="' + esc(s.url) + '" target="_blank" rel="noopener">source →</a>';
       h += '</p>';
     });
     var pl = PRECISION_LABEL[f.coord_precision || 'place'];
