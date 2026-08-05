@@ -1,6 +1,6 @@
 {
  "id": "military-engagements",
- "title": "Military Engagements in Spanish and Mexican California",
+ "title": "Military Engagements in Spanish, Mexican & Conquest-Era California",
  "subtitle": "Battles, raids, revolts, and standoffs, 1769–1848 — from the military register",
  "abstract": "Every engagement plotted here is documented in the project's military register, compiled from the C-A transcripts (Archives of California), Bancroft, Cook, and printed primary collections. Hollow or dashed markers mean the location is approximate or conjectural — the source names a district, not a spot. Register numbers (#) key each pin to the register's fuller entry and sources.",
  "date_range": [
@@ -59,6 +59,11 @@
    "id": "frontera",
    "label": "Dominican & Colorado Frontier",
    "color": "#a8763e"
+  },
+  {
+   "id": "conquest",
+   "label": "U.S. Conquest (1846–1847)",
+   "color": "#7a2048"
   },
   {
    "id": "missionLayer",
@@ -5347,6 +5352,574 @@
    ],
    "tags": [],
    "notes": "The ranchería name Bancroft reads as \"Pulia\" is unverified against the leaf."
+  },
+  {
+   "id": "reg-126-seizure-of-sonoma",
+   "register_no": "126",
+   "name": "Seizure of Sonoma (Bear Flag)",
+   "date": {
+    "iso": "1846-06-14",
+    "display": "June 14, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    38.2919,
+    -122.458
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "conquest",
+   "summary": "Bear Flag insurgents seize Sonoma at dawn, taking M.G. Vallejo, Salvador Vallejo, Prudon, and Leese prisoner with all of Vallejo's caballada. Bloodless opening of the revolt.",
+   "result": "Sonoma taken; prisoners to Sutter's Fort",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. v ('At Sonoma, June 14th' — leaf-verified in vault txt).",
+     "ca_record": "ca31-d42",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "C-A 31 proclamation naming the prisoners.",
+     "ca_record": "ca31-d99",
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-127-fight-at-olompali",
+   "register_no": "127",
+   "name": "Fight at Olómpali",
+   "date": {
+    "iso": "1846-06-24",
+    "display": "June 24, 1846 (forenoon)",
+    "confidence": "day"
+   },
+   "coords": [
+    38.1526,
+    -122.5714
+   ],
+   "coord_precision": "place",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Ford's 'Bears' surprise Joaquín de la Torre's ~50 men (joined by Padilla's company) at breakfast at Camilo's rancho, midway San Rafael–Petaluma. First real fight of the revolt; one Californian killed.",
+   "result": "Torre defeated, withdraws",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, pp. 165–171 (leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-128-killing-haro-berreyesa",
+   "register_no": "128",
+   "name": "Killing of the de Haro twins & Berreyesa",
+   "date": {
+    "iso": "1846-06-28",
+    "display": "June 28, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    37.945,
+    -122.489
+   ],
+   "coord_precision": "vicinity",
+   "type": "event",
+   "layer": "conquest",
+   "summary": "Francisco and Ramón de Haro (twins, ~20) and José de los Reyes Berreyesa, unarmed, shot at ~50 yards on Frémont's order ('I have no room for prisoners') after landing from San Pablo and walking toward Mission San Rafael.",
+   "result": "Three noncombatants killed",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, pp. 171–174: 'A Dastardly Act by Frémont's Order' (leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Pin between the San Quentin landing point and the mission; exact spot unrecorded."
+  },
+  {
+   "id": "reg-129-capture-of-monterey",
+   "register_no": "129",
+   "name": "Capture of Monterey",
+   "date": {
+    "iso": "1846-07-07",
+    "display": "July 7, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    36.6032,
+    -121.8933
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "conquest",
+   "summary": "Sloat's squadron lands and raises the U.S. flag at the Custom House without resistance. The archive's own record: the landing general order bound into C-A 31, and the closing line 'Los Americanos han tomado á Monterrey.'",
+   "result": "Capital taken bloodlessly",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. ix.",
+     "ca_record": "ca31-d109",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "C-A 31: 'the American squadron took Monterey by landing.'",
+     "ca_record": "ca31-d394",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "C-A 31 closing line.",
+     "ca_record": "ca31-d403",
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-130-capture-yerba-buena",
+   "register_no": "130",
+   "name": "Capture of Yerba Buena",
+   "date": {
+    "iso": "1846-07-09",
+    "display": "July 9, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    37.7952,
+    -122.4046
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "conquest",
+   "summary": "Montgomery lands from the Portsmouth and raises the flag on the plaza (now Portsmouth Square) without resistance.",
+   "result": "Port taken bloodlessly",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. ix.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-131-gillespie-capitulation",
+   "register_no": "131",
+   "name": "Gillespie's capitulation at Los Angeles",
+   "date": {
+    "iso": "1846-09-29/30",
+    "display": "Sept 29–30, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    34.0573,
+    -118.2387
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "conquest",
+   "summary": "Flores's rising forces Gillespie's small garrison to capitulate and evacuate to San Pedro, reversing the first occupation of the south.",
+   "result": "Americans expelled from Los Angeles",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. xii.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-132-fight-at-chino",
+   "register_no": "132",
+   "name": "Fight at Chino Rancho",
+   "date": {
+    "iso": "1846-09-26/27",
+    "display": "Sept 26–27, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    33.977,
+    -117.689
+   ],
+   "coord_precision": "vicinity",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Californians under Varela/Carrillo besiege and burn Isaac Williams's rancho house, capturing ~24 Anglo-American riflemen (the 'Chino prisoners'). One Californian killed.",
+   "result": "Americans captured",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, pp. 311-313 ('fought at the Chino rancho of Isaac Williams... on September 26th-27th' — leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-133-dominguez-rancho",
+   "register_no": "133",
+   "name": "Battle of Dominguez Rancho",
+   "date": {
+    "iso": "1846-10-08",
+    "display": "October 8, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    33.8592,
+    -118.2253
+   ],
+   "coord_precision": "place",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Mervine's ~350 sailors and marines, marching on Los Angeles without artillery, occupy the Dominguez rancho buildings overnight (7th), then are repulsed on the morning of the 8th by Carrillo's horsemen with the 'old woman's gun' pedrero fired by Ignacio Aguilar and dragged off by reatas to reload; ~4-6 Americans killed.",
+   "result": "Mervine repulsed to San Pedro",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, pp. 319-321 ('Mervine's Defeat'; leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-134-natividad",
+   "register_no": "134",
+   "name": "Battle of Natividad",
+   "date": {
+    "iso": "1846-11-16",
+    "display": "Nov 16, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    36.7288,
+    -121.5919
+   ],
+   "coord_precision": "vicinity",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Castro's/Manuel Castro's Californians fight Burroughs's and Thompson's volunteers near Natividad rancho, Salinas plain; Burroughs and Foster killed, ~5–7 dead total. The only pitched fight of the war in the north.",
+   "result": "Drawn; Californians withdraw south",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. xiii ('Foster Killed — Battle of Natividad — Death of Burroughs').",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-135-san-pascual",
+   "register_no": "135",
+   "name": "Battle of San Pascual",
+   "date": {
+    "iso": "1846-12-06",
+    "display": "Dec 6, 1846",
+    "confidence": "day"
+   },
+   "coords": [
+    33.0903,
+    -116.9887
+   ],
+   "coord_precision": "place",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Andrés Pico's lancers maul Kearny's dragoons in the San Pasqual valley at dawn; ~21 Americans killed including three officers — the bloodiest action of the war in California.",
+   "result": "Californio tactical victory",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. xiii (Pico's report of Dec. 6th; casualty roll 'died Dec. 6th' — leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-136-pauma-massacre",
+   "register_no": "136",
+   "name": "Pauma massacre",
+   "date": {
+    "iso": "1846-12",
+    "display": "December 1846",
+    "confidence": "month"
+   },
+   "coords": [
+    33.3064,
+    -116.993
+   ],
+   "coord_precision": "vicinity",
+   "type": "raid",
+   "layer": "conquest",
+   "summary": "Garra's band of Cahuillas and fugitive ex-neophytes of San Luis Rey kill eleven Californios who had retired to Pauma rancho to avoid service for or against Flores; instigated by William Marshall, later hanged for it.",
+   "result": "11 Californios killed",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, p. 567 (leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Cahuilla",
+    "Luiseño"
+   ],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-137-santa-clara",
+   "register_no": "137",
+   "name": "Battle of Santa Clara ('the Mustard Stalks')",
+   "date": {
+    "iso": "1847-01-02",
+    "display": "Jan 2, 1847",
+    "confidence": "day"
+   },
+   "coords": [
+    37.36,
+    -121.96
+   ],
+   "coord_precision": "vicinity",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Marston's marines and volunteers meet Francisco Sánchez's insurgents in the mustard fields near Mission Santa Clara; light casualties, followed by armistice ending the war in the north.",
+   "result": "Sánchez treats; war ends in the north",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. xiii ('on January 2d the enemy was seen on the Santa Clara' — leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-138-rio-san-gabriel",
+   "register_no": "138",
+   "name": "Passage of the Río San Gabriel",
+   "date": {
+    "iso": "1847-01-08",
+    "display": "Jan 8, 1847",
+    "confidence": "day"
+   },
+   "coords": [
+    33.99218,
+    -118.11139
+   ],
+   "coord_precision": "vicinity",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Stockton and Kearny force the river crossing against Flores's artillery and lancers ('Yankees at the crossing'); Californians withdraw toward the Mesa.",
+   "result": "American advance continues",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. xiv ('battle of the S. Gabriel 8th' — leaf-verified in vault txt); CHL No. 385.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "CHL No. 385 marker (NE cor. Washington Blvd & Bluff Rd, Montebello); battle at the river ford across present Whittier/Pico Rivera/Montebello."
+  },
+  {
+   "id": "reg-139-la-mesa",
+   "register_no": "139",
+   "name": "Battle of La Mesa",
+   "date": {
+    "iso": "1847-01-09",
+    "display": "Jan 9, 1847",
+    "confidence": "day"
+   },
+   "coords": [
+    34.00495,
+    -118.23075
+   ],
+   "coord_precision": "vicinity",
+   "type": "battle",
+   "layer": "conquest",
+   "summary": "Final action: Flores's last attack on the American square on the plain south of Los Angeles fails; the pueblo reoccupied next day.",
+   "result": "Last Californio field action fails",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. xiv ('At about 9 o'clock in the morning of January 9th' — leaf-verified); CHL No. 167.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "CHL No. 167 marker (4490 Exchange Ave at Downey Rd, Vernon)."
+  },
+  {
+   "id": "reg-140-cahuenga-capitulation",
+   "register_no": "140",
+   "name": "Capitulation of Cahuenga",
+   "date": {
+    "iso": "1847-01-13",
+    "display": "Jan 13, 1847",
+    "confidence": "day"
+   },
+   "coords": [
+    34.1394,
+    -118.3614
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "conquest",
+   "summary": "Andrés Pico surrenders to Frémont at the Campo de Cahuenga; generous terms end organized resistance in California.",
+   "result": "War in California ends",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft V, ch. xiv ('next morning, January 13th, it received the signatures' — leaf-verified in vault txt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-141-corsairs-at-loreto",
+   "register_no": "141",
+   "name": "Corsair squadron at Loreto",
+   "date": {
+    "iso": "1799",
+    "display": "1799",
+    "confidence": "year"
+   },
+   "coords": [
+    26.0115,
+    -111.3486
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "maritime",
+   "summary": "Three English frigates (22–24 guns, 60–116 crew) anchor in the surgidero of Loreto — the capital itself — seizing a balandra, later ransomed for sugar, chocolate, and a church bell (~$8,000 losses). 'No dejan buque sin d[etener].'",
+   "result": "Capital raided; shipping seized",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 14 (Savage abstracts).",
+     "ca_record": "ca14-d8",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Ransom of the balandra.",
+     "ca_record": "ca14-d9",
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-142-cabo-san-lucas",
+   "register_no": "142",
+   "name": "Executions at Cabo San Lucas",
+   "date": {
+    "iso": "1799",
+    "display": "1799",
+    "confidence": "year"
+   },
+   "coords": [
+    22.881,
+    -109.912
+   ],
+   "coord_precision": "vicinity",
+   "type": "event",
+   "layer": "maritime",
+   "summary": "Four English corsairmen apprehended at Cabo San Lucas; the commander ordered three hanged. A Spanish brig on the Acapulco–San Blas run captured in the same campaign.",
+   "result": "3 English hanged",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 14 (Savage abstracts).",
+     "ca_record": "ca14-d12",
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "reg-143-wilson-pursuit",
+   "register_no": "143",
+   "name": "Wilson's pursuit near San Bernardino",
+   "date": {
+    "iso": "1845",
+    "display": "1845",
+    "confidence": "year"
+   },
+   "coords": [
+    34.0455,
+    -117.226
+   ],
+   "coord_precision": "vicinity",
+   "type": "raid",
+   "layer": "mexican",
+   "summary": "Benjamin (Benito) Wilson with 200 mounted men pursues horse-raiding parties near San Bernardino; expedition diary filed, further campaign and remounts requested.",
+   "result": "Pursuit; raiders not destroyed",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "C-A 30 expedition diary.",
+     "ca_record": "ca30-d277",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Follow-up request.",
+     "ca_record": "ca30-d276",
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
   }
  ]
 }
