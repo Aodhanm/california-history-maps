@@ -1579,8 +1579,8 @@
    "w": 2905,
    "h": 4000,
    "id": "1799-la-perouse-port-of-san-diego",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Engraved for the atlas of the La Perouse expedition and published posthumously in 1797, this plate pairs the Port of San Diego with the Port of San Blas, the Mexican naval base on the mainland that supplied and provisioned Alta California.",
+   "look_for": "the two paired harbor plans and the soundings at each entrance."
   },
   {
    "file": "1802-espinosa-y-tello-plano-puerto-san-diego.jpg",
@@ -1595,8 +1595,8 @@
    "w": 2800,
    "h": 4000,
    "id": "1802-espinosa-y-tello-plano-puerto-san-diego",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A Spanish chart of the port of San Diego associated with the survey of Espinosa y Tello and printed in the Sutil y Mexicana atlas of 1802. San Diego was the southern anchor of the presidio and mission chain.",
+   "look_for": "the presidio site and the harbor entrance."
   },
   {
    "file": "1826-depot-cotes-et-golfe-de-californie.jpg",
@@ -1611,8 +1611,8 @@
    "w": 2729,
    "h": 4000,
    "id": "1826-depot-cotes-et-golfe-de-californie",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A French reduced chart of the coasts and Gulf of California issued by the Depot general de la Marine in 1826, compiled from earlier Spanish surveys. It shows the peninsula and the gulf that the Spanish had called the Vermilion Sea.",
+   "look_for": "the peninsula outline and the gulf."
   },
   {
    "file": "1829-piadyshev-aleutians-nw-coast.jpg",
@@ -1627,8 +1627,8 @@
    "w": 4000,
    "h": 1767,
    "id": "1829-piadyshev-aleutians-nw-coast",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A Russian chart of the Chukotka coast, the Aleutian Islands and the northwest coast of America from Piadyshev's atlas of 1829. It maps the maritime arc of the Russian-American Company, whose southern reach touched California at Fort Ross.",
+   "look_for": "the Aleutian chain linking Kamchatka to the American coast."
   },
   {
    "file": "1845-kaliforniya-russian-map-of-california.jpg",
@@ -1643,8 +1643,8 @@
    "w": 2887,
    "h": 4000,
    "id": "1845-kaliforniya-russian-map-of-california",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A Russian-language map of California dated 1845. Fort Ross had been sold to John Sutter in 1841, but Russian cartographic interest in the province outlasted the settlement.",
+   "look_for": "the Russian rendering of the coastal place-names."
   },
   {
    "file": "1849-ord-los-angeles-plains-survey.jpg",
@@ -1659,8 +1659,8 @@
    "w": 3310,
    "h": 4000,
    "id": "1849-ord-los-angeles-plains-survey",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "E.O.C. Ord's topographical sketch of the Los Angeles plains and vicinity, drawn in 1849 alongside his survey of the city itself. Where the city plan platted the pueblo, this sheet sets it within the wider basin of ranchos and rivers.",
+   "look_for": "the ranchos and river courses ringing the pueblo."
   },
   {
    "file": "1849-ensigns-thayer-gold-regions.jpg",
@@ -1675,8 +1675,8 @@
    "w": 2928,
    "h": 4000,
    "id": "1849-ensigns-thayer-gold-regions",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A commercial map of the California gold regions issued by Ensigns and Thayer in 1849 for the eastern market of gold-seekers.",
+   "look_for": "the diggings named along the Sierra rivers."
   },
   {
    "file": "1851-bache-trinidad-bay.jpg",
@@ -1691,8 +1691,8 @@
    "w": 4000,
    "h": 3519,
    "id": "1851-bache-trinidad-bay",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A U.S. Coast Survey chart of Trinidad Bay on the north coast, from the survey directed by A.D. Bache. In the first years after the American takeover the Coast Survey charted the California shore harbor by harbor.",
+   "look_for": "the soundings and the detailed shoreline."
   },
   {
    "file": "1852-ringgold-farallones-san-francisco-bay.jpg",
@@ -1707,8 +1707,8 @@
    "w": 4000,
    "h": 2689,
    "id": "1852-ringgold-farallones-san-francisco-bay",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Cadwalader Ringgold's chart of the Farallones and the seaward approach to San Francisco Bay, from his privately published survey series.",
+   "look_for": "the offshore islands and the approach line to the Golden Gate."
   },
   {
    "file": "1852-blunt-view-of-benicia.jpg",
@@ -1723,8 +1723,8 @@
    "w": 4000,
    "h": 2900,
    "id": "1852-blunt-view-of-benicia",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A coastal profile view of Benicia from the Ringgold survey, 1852. The town stood on the Carquinez Strait and would briefly serve as the state capital.",
+   "look_for": "the low profile of the town along the strait."
   },
   {
    "file": "1852-cullberg-view-sacramento-city.jpg",
@@ -1739,8 +1739,8 @@
    "w": 4000,
    "h": 2865,
    "id": "1852-cullberg-view-sacramento-city",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A coastal profile view of Sacramento City from the Ringgold survey, 1852, the gold-rush river town at the head of bay navigation.",
+   "look_for": "the waterfront at the river landing."
   },
   {
    "file": "1852-bache-san-pedro-harbor.jpg",
@@ -1755,8 +1755,8 @@
    "w": 4000,
    "h": 2965,
    "id": "1852-bache-san-pedro-harbor",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A U.S. Coast Survey chart of San Pedro Harbor, the port serving Los Angeles, A.D. Bache superintendent, 1852.",
+   "look_for": "the anchorage and the landing."
   },
   {
    "file": "1854-lange-sf-bay-sacramento-german.jpg",
@@ -1771,8 +1771,8 @@
    "w": 4000,
    "h": 3085,
    "id": "1854-lange-sf-bay-sacramento-german",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A German map of San Francisco Bay and the junction of the Sacramento and San Joaquin rivers, Henry Lange, 1854, reflecting European interest in the gold country.",
+   "look_for": "the delta junction of the two great rivers."
   },
   {
    "file": "1858-garcia-cubas-baja-california.jpg",
@@ -1787,8 +1787,8 @@
    "w": 2924,
    "h": 4000,
    "id": "1858-garcia-cubas-baja-california",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Antonio Garcia Cubas's map of Baja California, 1858. Garcia Cubas was the leading Mexican cartographer of the republican era, and this sheet records the peninsula that remained Mexican after 1848.",
+   "look_for": "the peninsula and its mission-era place-names."
   },
   {
    "file": "1869-us-coast-survey-san-francisco-peninsula.jpg",
@@ -1803,8 +1803,8 @@
    "w": 2528,
    "h": 4000,
    "id": "1869-us-coast-survey-san-francisco-peninsula",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A U.S. Coast Survey chart of the San Francisco Peninsula, 1869, mapping the neck of land between the ocean and the bay below the young city.",
+   "look_for": "the ridge line and the bay-and-ocean shores."
   },
   {
    "file": "1877-thompson-santa-rosa-vallejo-sonoma.jpg",
@@ -1819,8 +1819,8 @@
    "w": 4000,
    "h": 2381,
    "id": "1877-thompson-santa-rosa-vallejo-sonoma",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A plate from Thomas H. Thompson's 1877 historical atlas of Sonoma County mapping the Santa Rosa, Vallejo and Sonoma townships, the country that had been the Mexican frontier north of the bay.",
+   "look_for": "the rancho boundaries surviving inside the American survey grid."
   },
   {
    "file": "1877-thompson-bodega-salt-point-coast.jpg",
@@ -1835,8 +1835,8 @@
    "w": 4000,
    "h": 2245,
    "id": "1877-thompson-bodega-salt-point-coast",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A plate from Thompson's 1877 Sonoma County atlas covering the Salt Point and Bodega coast, including the Fort Ross vicinity, three decades after the Russians departed.",
+   "look_for": "the coast around Bodega and the old Ross site."
   },
   {
    "file": "1705-kino-passage-par-terre-a-la-californie.jpg",
@@ -1851,8 +1851,8 @@
    "w": 3577,
    "h": 4000,
    "id": "1705-kino-passage-par-terre-a-la-californie",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Eusebio Kino's map of the overland passage to California, first published in 1705. Kino's land route from Sonora demonstrated that California was a peninsula, not the island that European maps had shown for a century.",
+   "look_for": "the land bridge joining California to the mainland."
   },
   {
    "file": "1772-vaugondy-carte-de-la-californie.jpg",
@@ -1867,8 +1867,8 @@
    "w": 4000,
    "h": 3199,
    "id": "1772-vaugondy-carte-de-la-californie",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Robert de Vaugondy's Carte de la Californie, 1772, a French compilation of the competing ideas of California's shape on the eve of the Spanish overland settlement.",
+   "look_for": "how the mapmaker resolves the peninsula-or-island question."
   },
   {
    "file": "1798-vancouver-view-presidio-of-monterey.jpg",
@@ -1883,8 +1883,8 @@
    "w": 4000,
    "h": 3241,
    "id": "1798-vancouver-view-presidio-of-monterey",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A view of the Presidio of Monterey engraved for George Vancouver's voyage account, 1798. Vancouver visited Alta California between 1792 and 1794 and left the earliest detailed British record of its presidios and missions.",
+   "look_for": "the presidio buildings set above the bay."
   },
   {
    "file": "1798-vancouver-view-mission-san-carlos.jpg",
@@ -1899,8 +1899,8 @@
    "w": 4000,
    "h": 3220,
    "id": "1798-vancouver-view-mission-san-carlos",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A view of the Mission of San Carlos at Carmel from Vancouver's voyage account, 1798, among the earliest published images of a California mission.",
+   "look_for": "the mission church and its quadrangle."
   },
   {
    "file": "1825-vandermaelen-nouvelle-californie.jpg",
@@ -1915,8 +1915,8 @@
    "w": 4000,
    "h": 3066,
    "id": "1825-vandermaelen-nouvelle-californie",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Philippe Vandermaelen's sheet of Nouvelle, or Upper, California from his 1825 universal atlas, the first world atlas printed at a single uniform scale by lithography.",
+   "look_for": "the uniform graticule and the coastal settlements."
   },
   {
    "file": "1827-vandermaelen-vielle-californie.jpg",
@@ -1931,8 +1931,8 @@
    "w": 4000,
    "h": 2961,
    "id": "1827-vandermaelen-vielle-californie",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Vandermaelen's sheet of Vieille, or Lower, California, the Baja peninsula, from the same uniform-scale atlas.",
+   "look_for": "the peninsula and its gulf coast."
   },
   {
    "file": "1827-humboldt-nouvelle-californie-52.jpg",
@@ -1947,8 +1947,8 @@
    "w": 4000,
    "h": 2961,
    "id": "1827-humboldt-nouvelle-californie-52",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A sheet of Nouvelle California derived from Alexander von Humboldt's survey of New Spain, whose data underlay European mapping of Mexico's far northwest for a generation.",
+   "look_for": "the interior drainage and the mission line."
   },
   {
    "file": "1845-fremont-pass-in-the-sierra-nevada.jpg",
@@ -1963,8 +1963,8 @@
    "w": 4000,
    "h": 2586,
    "id": "1845-fremont-pass-in-the-sierra-nevada",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A view of a pass in the Sierra Nevada engraved for John C. Fremont's 1845 expedition report, the document that fixed the American public's image of the route into California.",
+   "look_for": "the snow and the scale of the range."
   },
   {
    "file": "1845-greenhow-western-middle-north-america.jpg",
@@ -1979,8 +1979,8 @@
    "w": 4000,
    "h": 3593,
    "id": "1845-greenhow-western-middle-north-america",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Robert Greenhow's map of the western and middle portions of North America, 1845, prepared as the United States pressed its territorial claims on the eve of the Mexican War.",
+   "look_for": "the disputed western boundaries."
   },
   {
    "file": "1848-bidwell-valley-of-the-sacramento-gold.jpg",
@@ -1995,8 +1995,8 @@
    "w": 3254,
    "h": 4000,
    "id": "1848-bidwell-valley-of-the-sacramento-gold",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "John Bidwell's map of the Sacramento Valley including the gold district, 1848. Bidwell, an associate of Sutter, was among the first to publicize the diggings.",
+   "look_for": "the gold district marked along the American and Feather rivers."
   },
   {
    "file": "1848-mason-gold-mines-south-fork-american.jpg",
@@ -2011,8 +2011,8 @@
    "w": 4000,
    "h": 2208,
    "id": "1848-mason-gold-mines-south-fork-american",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "The map of the upper and lower gold mines on the South Fork of the American River, from Colonel R.B. Mason's official 1848 report. Mason's report and gold sample confirmed the discovery to Washington and helped touch off the rush.",
+   "look_for": "the mining camps strung along the South Fork."
   },
   {
    "file": "1848-california-herald-gold-quicksilver-district.jpg",
@@ -2027,8 +2027,8 @@
    "w": 2608,
    "h": 4000,
    "id": "1848-california-herald-gold-quicksilver-district",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A map of the gold and quicksilver district of California printed by the California Herald in 1848, pairing the new gold fields with the New Almaden mercury mine whose quicksilver would refine the ore.",
+   "look_for": "the gold country and the quicksilver mine together."
   },
   {
    "file": "1849-tyson-section-bodega-bay-to-sierra.jpg",
@@ -2043,8 +2043,8 @@
    "w": 4000,
    "h": 1014,
    "id": "1849-tyson-section-bodega-bay-to-sierra",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Philip T. Tyson's geological section running from Bodega Bay across the Coast Ranges to the Sierra Nevada, 1849, an early scientific transect of the gold country.",
+   "look_for": "the layered profile from coast to mountains."
   },
   {
    "file": "1851-martin-tallis-mexico-california-texas.jpg",
@@ -2059,8 +2059,8 @@
    "w": 4000,
    "h": 2963,
    "id": "1851-martin-tallis-mexico-california-texas",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A British sheet of Mexico, California and Texas issued by R.M. Martin and the Tallis firm about 1851, mapping the border as it stood just after the Treaty of Guadalupe Hidalgo.",
+   "look_for": "the new international line."
   },
   {
    "file": "1852-horn-overland-guide-to-california.jpg",
@@ -2075,8 +2075,8 @@
    "w": 4000,
    "h": 2536,
    "id": "1852-horn-overland-guide-to-california",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "The route map from Hosea B. Horn's Overland Guide to California, 1852, one of the emigrant handbooks that carried wagon parties across the plains to the gold country.",
+   "look_for": "the trail and its measured stopping points."
   },
   {
    "file": "1857-hutton-city-of-los-angeles.jpg",
@@ -2091,8 +2091,8 @@
    "w": 3990,
    "h": 4000,
    "id": "1857-hutton-city-of-los-angeles",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A map of the city of Los Angeles, 1857, drawing on the survey work of William Hutton. It platted the former Mexican pueblo as it passed into the American grid.",
+   "look_for": "the old pueblo core inside the new survey blocks."
   },
   {
    "file": "1861-fremont-las-mariposas-estate.jpg",
@@ -2107,8 +2107,8 @@
    "w": 3127,
    "h": 4000,
    "id": "1861-fremont-las-mariposas-estate",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "A map of John C. Fremont's Las Mariposas Estate in the Sierra foothills, 1861, the large and much-litigated Mexican land grant that made and unmade his fortune in the gold country.",
+   "look_for": "the grant boundary drawn across the mining district."
   },
   {
    "file": "1863-hutawa-map-of-mexico-and-california.jpg",
@@ -2123,8 +2123,8 @@
    "w": 3268,
    "h": 4000,
    "id": "1863-hutawa-map-of-mexico-and-california",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "Julius Hutawa's map of Mexico and California, 1863, a St. Louis lithographer's sheet of the southwestern border country.",
+   "look_for": "the border and the routes across it."
   },
   {
    "file": "1870-wallace-san-joaquin-county.jpg",
@@ -2139,8 +2139,8 @@
    "w": 2686,
    "h": 4000,
    "id": "1870-wallace-san-joaquin-county",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "John Wallace's map of San Joaquin County, 1870, a Central Valley county formed from the Mexican-era ranchos along the San Joaquin.",
+   "look_for": "the ranchos underlying the county's townships."
   },
   {
    "file": "1874-arnold-salt-marsh-san-francisco-bay.jpg",
@@ -2155,8 +2155,8 @@
    "w": 4000,
    "h": 1581,
    "id": "1874-arnold-salt-marsh-san-francisco-bay",
-   "headnote": "",
-   "look_for": ""
+   "headnote": "T.J. Arnold's map of the salt marsh and tide lands adjacent to San Francisco Bay, 1874, documenting the bay margins then being diked and reclaimed.",
+   "look_for": "the marsh and tideland edges around the bay."
   }
  ]
 }
