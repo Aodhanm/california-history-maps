@@ -91,6 +91,16 @@
         with everyone. Companion to a research article in progress.</p>
       </div>
     </a>
+    <a class="card" href="maps/ranchos.html">
+      <div class="thumb" style="background-image:url(assets/previews/ranchos.jpg)"></div>
+      <div class="body">
+        <h3>Ranchos of Mexican California, 1784–1846</h3>
+        <p class="meta" data-count="ranchos">Land grants with surveyed boundaries, colored by governor</p>
+        <p>The private land grants shown as territories, colored by the governor who made each one,
+        from Borica to Pío Pico. About 400 ranchos carry their surveyed boundary; each links, where
+        matched, to its hand-drawn diseño and archival record. The boundary companion to the Diseños gallery.</p>
+      </div>
+    </a>
     <a class="card" href="maps/population-californias.html">
       <div class="thumb" style="background-image:url(assets/previews/population-californias.jpg)"></div>
       <div class="body">
@@ -217,7 +227,7 @@
 
 <script>
 (function () {
-  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
+  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {

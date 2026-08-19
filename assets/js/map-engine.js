@@ -41,6 +41,7 @@
 
   function markerFor(f, color) {
     var precision = f.coord_precision || 'place';
+    var perm = !(state.data && state.data.hover_labels);  // dense maps: hover labels instead of permanent
     if (f.polygon) {
       // territory polygon (rings of [lat,lng]) with a plain-text label at the anchor
       var poly = L.polygon(f.polygon, {
@@ -48,7 +49,7 @@
       });
       poly.bindPopup(popupHtml(f), { maxWidth: 380 });
       poly.bindTooltip(f.name.split(' (')[0], {
-        permanent: true, direction: 'center', className: 'homeland-label'
+        permanent: perm, direction: 'center', className: 'homeland-label'
       });
       return poly;
     }
@@ -57,7 +58,7 @@
         fillColor: color, fillOpacity: 0.5, opacity: 0.6 });
       anchor.bindPopup(popupHtml(f), { maxWidth: 380 });
       anchor.bindTooltip(f.name.split(' (')[0], {
-        permanent: true, direction: 'top', offset: [0, -2], className: 'homeland-label sub'
+        permanent: perm, direction: 'top', offset: [0, -2], className: 'homeland-label sub'
       });
       return anchor;
     }
@@ -69,7 +70,7 @@
       });
       circ.bindPopup(popupHtml(f), { maxWidth: 380 });
       circ.bindTooltip(f.name.split(' (')[0], {
-        permanent: true, direction: 'center', className: 'homeland-label'
+        permanent: perm, direction: 'center', className: 'homeland-label'
       });
       return circ;
     }
