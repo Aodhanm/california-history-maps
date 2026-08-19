@@ -208,9 +208,18 @@
       box = el('div', 'cite-box'); box.id = 'cite-box';
       document.body.appendChild(box);
     }
-    box.innerHTML = '<p>' + esc(txt) + '</p><button onclick="navigator.clipboard&&navigator.clipboard.writeText(' +
-      JSON.stringify(JSON.stringify(txt)) + ');this.textContent=\'Copied\'">Copy</button>' +
-      '<button onclick="this.parentNode.style.display=\'none\'">Close</button>';
+    // The citation text is bound with addEventListener, never spliced into an
+    // onclick attribute: JSON.stringify() output always begins with a double
+    // quote, which closed the attribute and left a truncated, dead handler.
+    box.innerHTML = '<p>' + esc(txt) + '</p>';
+    var copyBtn = el('button'); copyBtn.textContent = 'Copy';
+    copyBtn.addEventListener('click', function () {
+      if (navigator.clipboard) { navigator.clipboard.writeText(txt); }
+      copyBtn.textContent = 'Copied';
+    });
+    var closeBtn = el('button'); closeBtn.textContent = 'Close';
+    closeBtn.addEventListener('click', function () { box.style.display = 'none'; });
+    box.appendChild(copyBtn); box.appendChild(closeBtn);
     box.style.display = 'block';
   }
 
