@@ -44,8 +44,11 @@
     var perm = !(state.data && state.data.hover_labels);  // dense maps: hover labels instead of permanent
     if (f.polygon) {
       // territory polygon (rings of [lat,lng]) with a plain-text label at the anchor
+      var approxPoly = precision === 'conjectural';  // reconstructed/inferred outline -> dashed, faint
       var poly = L.polygon(f.polygon, {
-        color: color, weight: 1.4, fillColor: color, fillOpacity: 0.16
+        color: color, weight: approxPoly ? 1.6 : 1.4,
+        dashArray: approxPoly ? '5 5' : null,
+        fillColor: color, fillOpacity: approxPoly ? 0.07 : 0.16
       });
       poly.bindPopup(popupHtml(f), { maxWidth: 380 });
       poly.bindTooltip(f.name.split(' (')[0], {
