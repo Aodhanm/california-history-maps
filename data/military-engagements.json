@@ -3510,14 +3510,29 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 54 Doc 2051 (tomo II, orig. 456+; scan n211–212): Solá's circular of 30 Mar 1823 on the raid. Cochrane's squadron operated off the Californias in 1822.",
-     "ca_record": "ca54-d2051",
+     "citation": "St. Pap., Sacramento (C-A 54) Doc 149 — Solá's circular, Monterey, 30 Mar 1823, to the friars and commandants of Monterey and San Francisco: ships of 'la Escuadra del Lord Cochrane' entered Cabo San Lucas and attacked Mission Todos Santos on 18 Feb; the inhabitants killed the lieutenant and four men, mortally wounded three, and captured the rest of a thirteen-man raiding party. Solá orders church silver and valuables withdrawn from the coast.",
+     "ca_record": "ca54-d149",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_16/page/n211"
+    },
+    {
+     "citation": "Dep. St. Pap. (C-A 27) Doc 2 — the defence against Cochrane's squadron raiding Baja California, quoting Gov. José Darío Argüello via the mission cordillera.",
+     "ca_record": "ca27-d2",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "St. Pap., Sacramento (C-A 55) Doc 85 — Cochrane's privateers at Cabo San Lucas, February 1822, including the brig *El Alción*.",
+     "ca_record": "ca55-d85",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "St. Pap., Sacramento (C-A 56) Doc 397 — Lt. José Manuel Ruiz, frontier commander, on the insurgent squadron ravaging Baja California, February–March 1822.",
+     "ca_record": "ca56-d397",
      "ia_leaf_url": null
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The Savage copy dates Solá’s circular 30 Mar 1823; the raid itself belongs to the 1822 Cochrane operations. Event year shown as circa 1822."
+   "notes": "The Savage copy dates Solá's circular 30 Mar 1823 and the raid itself 18 Feb; the Cochrane operations off the Californias belong to 1822, and three independent volumes (C-A 27, 55, 56) place the squadron at Cabo San Lucas in February 1822. Event year shown as circa 1822. ⚠ An earlier version of this record cited 'C-A 54 Doc 2051', a document number that no longer exists after the volume was re-itemised; the correct record is C-A 54 Doc 149."
   },
   {
    "id": "reg-88-ambush-near-san-vicente-santa-catalina",

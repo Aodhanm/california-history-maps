@@ -13,7 +13,7 @@
  ],
  "zoom": 6,
  "cite_key": "presidial",
- "last_updated": "2026-07-15",
+ "last_updated": "2026-08-22",
  "layers": [
   {
    "id": "presidios",
@@ -65,6 +65,12 @@
      "1784 Feb",
      "33 men",
      "C-A 54 Doc 40"
+    ],
+    [
+     "1784 Feb 27",
+     "31 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
+     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "ca21-d178"
     ],
     [
      "1787 Jul",
@@ -286,6 +292,12 @@
      "C-A 54 Doc 51"
     ],
     [
+     "1784 Feb 27",
+     "42 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
+     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "ca21-d178"
+    ],
+    [
      "1795 Aug",
      "60 men",
      "C-A 54 Doc III-11"
@@ -311,14 +323,14 @@
      "C-A 54 Doc IV-49"
     ],
     [
-     "1812 Dec",
-     "~84 men + 2 artillerymen",
-     "C-A 54 Doc 67"
-    ],
-    [
      "1812",
      "7 mounted bronze 8-pdrs + 6-pdrs and 3-pdrs; 1,340 iron balls",
      "C-A 55 Docs 102–104"
+    ],
+    [
+     "1812 Dec",
+     "~84 men + 2 artillerymen",
+     "C-A 54 Doc 67"
     ],
     [
      "1816 Nov",
@@ -384,6 +396,12 @@
      "C-A 54 Doc IV-39"
     ],
     [
+     "1784 Feb 27",
+     "58 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
+     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "ca21-d178"
+    ],
+    [
      "1793 Dec",
      "61 men",
      "C-A 54 Doc III-16"
@@ -412,6 +430,12 @@
      "1815",
      "~66 men (Capt. J. Argüello; Tte. de la Guerra)",
      "C-A 54 Doc III-11"
+    ],
+    [
+     "1816 Jul 6",
+     "the jurisdiction could field 135 men — Los Ángeles (4 sergeants, 1 corporal, 15 invalid soldiers, 70 vecinos), the missions San Fernando, San Buenaventura and Purísima, the ranchos Simí and del Refugio, the presidio invalids and 17 vecinos — but held only 32 muskets, 22 swords, 8 pistols and 6 lances for the whole of it",
+     "Prov. St. Pap. (C-A 13) Doc 127 — *Estado* of men fit to bear arms in the Santa Bárbara jurisdiction, signed Guerra y Noriega",
+     "ca13-d127"
     ],
     [
      "1820",
@@ -460,6 +484,12 @@
      "1783 Sep",
      "50 men; 35 pairs pistols, 1 sword, 72 cartridges for the company",
      "C-A 54 Doc II-20"
+    ],
+    [
+     "1784 Feb 27",
+     "48 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
+     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "ca21-d178"
     ],
     [
      "1784 Jan",
@@ -592,6 +622,12 @@
    "layer": "presidios",
    "summary": "The old Baja capital, included for context: its company (47 to 85 men plus a small marine department) was comparable to any Alta California presidio.",
    "series": [
+    [
+     "1784 Feb 27",
+     "44 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
+     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "ca21-d178"
+    ],
     [
      "1784 Jun",
      "47 men + 13 sailors",
@@ -983,6 +1019,45 @@
    "native_groups": [],
    "tags": [],
    "notes": "The 1798 census says 'Mission San Luis' without specifying Obispo or Rey; Obispo is the Monterey-district reading. Flagged."
+  },
+  {
+   "id": "artillery-1818",
+   "register_no": null,
+   "name": "The artillery of California, counted 1818",
+   "date": {
+    "iso": "1818-09-05",
+    "display": "1818 Sep 5",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.6002,
+    -121.8947
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "forts",
+   "summary": "Every gun in the province, listed. Taken in the year of Bouchard's raid, the inventory records 58 pieces by calibre (24, 12, 8, 6, 4, 3, 2 and 1-pounder) and by metal, bronze or iron, at the Castillo de San Joaquín in San Francisco (three 24-pounders, eight bronze 8-pounders and more), the Castillo de San Carlos at Monterey, the Santa Bárbara presidio and its baluarte, San Diego, Los Ángeles, the Pueblo de San José, and the missions San Diego, Santa Inés, San Fernando and San Luis Rey. Three were useless and several *desgranados*; the 24-pounders and San Francisco's iron 12-pounder were corroded; the gun-carriages, campaña, plaza and marina alike, were in poor repair 'por falta de herraje'.",
+   "series": [
+    [
+     "1818 Sep 5",
+     "58 pieces in the whole province; 3 useless, several *desgranados*, the carriages failing for want of ironwork",
+     "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 324 — 'Artillería y pertrechos — Existentes en Cal.'",
+     "ca17-d324"
+    ]
+   ],
+   "series_label": "Counted",
+   "result": "The whole province's ordnance in one table",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 324 — province-wide artillery inventory, Monterey, 5 September 1818.",
+     "ca_record": "ca17-d324",
+     "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n265"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "Placed at Monterey, where the return was drawn. The guns it lists were distributed across the province; see each presidio and fort."
   }
  ]
 }

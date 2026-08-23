@@ -1,7 +1,7 @@
 {
  "id": "native-california",
  "title": "Native California",
- "subtitle": "Territories of the nations of California at contact, after the Handbook of North American Indians",
+ "subtitle": "Territories of the nations of California at contact, after the Handbook of North American Indians — with the rancherías the colonial archive names",
  "abstract": "The nations whose country the other maps on this site cross, with territory boundaries following the standard scholarly map: the Handbook of North American Indians, vol. 8 (1978), digitized by the University of Redlands. A note on the lines: they are the best available reconstruction, not exact borders. Territories interlocked, shifted over time, and are drawn differently by different scholars and by the nations themselves. Language-family colors follow the Handbook's groupings; the larger groupings (Hokan, Penutian) are conventional and linguists treat them as unproven. These are living nations; names use current preferred forms where they differ from the Handbook's. See also the Native Peoples Index for named individuals and communities in this site's sources. A toggleable Subgroups layer adds the prominent regional communities and languages within the larger nations; these are labels at approximate centers, not bounded territories. One editorial deviation from the Handbook plate is drawn and flagged: the Karkin (Ohlone) are shown holding a coastal strip on both shores of Carquinez Strait.",
  "date_range": [
   1769,
@@ -13,7 +13,7 @@
  ],
  "zoom": 6,
  "cite_key": "native",
- "last_updated": "2026-07-15",
+ "last_updated": "2026-08-22",
  "layers": [
   {
    "id": "penutian",
@@ -50,6 +50,11 @@
    "label": "Subgroups & communities (labels)",
    "color": "#4a4238",
    "default_off": true
+  },
+  {
+   "id": "archive-rancherias",
+   "label": "Rancherías named in the archive",
+   "color": "#b5442e"
   }
  ],
  "legend_note": "Boundaries after the Handbook of North American Indians vol. 8 — approximate by nature.",
@@ -21386,6 +21391,216 @@
    "native_groups": [],
    "tags": [],
    "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+  },
+  {
+   "id": "arc-chumash-channel",
+   "register_no": null,
+   "name": "The 19 Chumash rancherías of the channel, counted 1796",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.42,
+    -119.7
+   ],
+   "coord_precision": "area",
+   "type": "event",
+   "layer": "archive-rancherias",
+   "summary": "The colonial state's one attempt to count the people it had not yet reduced. A nominal census of about nineteen coastal Chumash rancherías, each entered with its own name, its captain's name in his own language, its distance from the last, and its number of gentile souls: 1,983 people over 31 leagues of coast. It closes with a proposal to instruct them in their own rancherías rather than force them into the missions, with grain as the inducement.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "St. Pap., Missions (C-A 50) Doc 200 — *Rancherías de Gentiles*, 12 March 1796.",
+     "ca_record": "ca50-d200",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_12/page/n228"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "⚠ Placed on the channel as a group. The nineteen rancherías are named individually in the manuscript; itemising and locating them requires a leaf-by-leaf read, which has not been done. This feature stands for the census, not for a single place."
+  },
+  {
+   "id": "arc-carmel-rancherias",
+   "register_no": null,
+   "name": "The rancherías behind Carmel, in Serra's padrón of 1781",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.5433,
+    -121.919
+   ],
+   "coord_precision": "area",
+   "type": "event",
+   "layer": "archive-rancherias",
+   "summary": "Serra counted his neophytes not as a mission population but by the rancherías they came from: San Carlos 23 married men and 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18 — 96 adult males in all. Behind the mission's single number stand five named communities. Since the mission's founding 659 Indians had been baptised and 243 had died.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 163 — padrón of the neophyte Indians of Mission San Carlos, by Serra, 22 December 1781.",
+     "ca_record": "ca15-d163",
+     "ia_leaf_url": "https://archive.org/details/168035972_79_17_2/page/n130"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "⚠ The ranchería names here are the mission's Spanish names for them, recorded at Carmel. Their locations are not given in the document."
+  },
+  {
+   "id": "arc-coast-miwok-san-rafael",
+   "register_no": null,
+   "name": "Coast Miwok place-names in the limits of Mission San Rafael, 1828",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.08,
+    -122.72
+   ],
+   "coord_precision": "area",
+   "type": "event",
+   "layer": "archive-rancherias",
+   "summary": "A boundary description that is also a gazetteer. Setting the limits of Mission San Rafael, the document runs west some eight leagues to the estero coming from the port of Bodega 'llamado de Tamales' (Tomales), and north nine leagues over the sierra to the plains of Livantonomi[?], where a house and sown fields were to draw the gentilidad in 'con suavidad y blandura'. It carries a dense layer of Coast Miwok names: the ranchería of Olompalí, the Laguna Ocolom, the cañadas de las Gallinas.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Archives of California, Misc. (C-A 62) Doc 57 — *Límites de Misión San Rafael Arcángel*, 1828.",
+     "ca_record": "ca62-d57",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_82_04/page/n75"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "⚠ Placed between San Rafael and Tomales Bay to span the described limits; the boundary itself is not mapped here."
+  },
+  {
+   "id": "arc-amajaba",
+   "register_no": null,
+   "name": "The ranchería de Amajaba (Mojave), 1819",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.8,
+    -114.6
+   ],
+   "coord_precision": "area",
+   "type": "event",
+   "layer": "archive-rancherias",
+   "summary": "The furthest place the Californian military reached toward. In 1819 the ranchería de Amajaba was reported to have threatened Missions San Gabriel and San Fernando, and Moraga was ordered to march with fifty men — thirty-five cavalry from both presidios, fifteen Mazatlán troops under Fabregat, four artillerymen and a cannon with grape and ball — to make the *capitanejos* surrender the fugitive Christian Indians, then leave garrisons of fifteen at each mission.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 296 — order for the Amajaba campaign, Monterey, 1819.",
+     "ca_record": "ca17-d296",
+     "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n235"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "⚠ Placed at the Mojave villages on the Colorado. The document names the people, not a mapped location."
+  },
+  {
+   "id": "arc-sespesuya",
+   "register_no": null,
+   "name": "The ranchería called Sespesuya, across the estero, 1810",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.05,
+    -122.3
+   ],
+   "coord_precision": "conjectural",
+   "type": "event",
+   "layer": "archive-rancherias",
+   "summary": "Arrillaga ordered Alférez Gabriel Moraga of the San Francisco company against the gentiles of the ranchería 'llamada Sespesuya' north of the presidio, who in three years of nominal peace had killed sixteen Christians. The ranchería lay across the estero de San Francisco and the troops had no launches — 'las tropas no tienen lanchas' — so they crossed by relays in one small boat found on the shore. Moraga took eighteen gentile prisoners, released because they were too badly wounded.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. Rec. (C-A 25) Doc 500 — 'Sobre encuentro y campaña con gentiles', 1810.",
+     "ca_record": "ca25-d500",
+     "ia_leaf_url": "https://archive.org/details/168036074_80_7_2/page/n374"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "⚠ CONJECTURAL. The document says only 'north of the presidio' and 'across the estero de San Francisco'. The pin marks the north bay generally and should not be read as a located site."
+  },
+  {
+   "id": "arc-tinoqui",
+   "register_no": null,
+   "name": "The rancherías of Tinoqui and Napalayagua, 1790",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.62,
+    -119.85
+   ],
+   "coord_precision": "conjectural",
+   "type": "event",
+   "layer": "archive-rancherias",
+   "summary": "Interior Chumash politics visible through a colonial patrol. A Santa Bárbara sergeant sent after a deserter to the ranchería de Tinoqui was joined by nine Indians of Napalayagua, 'enemies of Tinoqui'. The camp was attacked from the rear by more than sixty; soldiers Gabriel Espinosa and Ignacio Carlón were killed. The record preserves an alliance and an enmity between two named communities that the territorial map cannot show.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 296 — the 1790 interior-Chumash ambush of a Santa Bárbara patrol.",
+     "ca_record": "ca15-d296",
+     "ia_leaf_url": "https://archive.org/details/168035972_79_17_2/page/n214"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "⚠ CONJECTURAL. Placed in the interior behind Santa Bárbara; neither ranchería's site is given in the document."
+  },
+  {
+   "id": "arc-huilantuliyami",
+   "register_no": null,
+   "name": "The ranchería of Huilantuliyami, 1823",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.6,
+    -120.2
+   ],
+   "coord_precision": "conjectural",
+   "type": "event",
+   "layer": "archive-rancherias",
+   "summary": "A corporal took a small party to the ranchería 'nombrada Huilantuliyami' after runaway Christian Indians, and was reprimanded for it: no such sortie 'debe verificarse sin ántes consultarlo', given the risk to so small a party against 'una Rancheria tan belicosa como es la de Huilantuliyami'. At least ten men should have been sent. The archive names the place because the army was afraid of it.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Dep. St. Pap., Benicia (C-A 46) Doc 88 — headed 'Indios', Monterey, 1823.",
+     "ca_record": "ca46-d88",
+     "ia_leaf_url": "https://archive.org/details/168036065_81_8_regular/page/n65"
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": "⚠ CONJECTURAL. Placed in the San Joaquín/Tulares interior, the usual destination of Monterey-district fugitive pursuits. The document gives no location."
   }
  ]
 }

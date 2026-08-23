@@ -2,7 +2,7 @@
  "id": "moraga-expeditions",
  "title": "Gabriel Moraga's Expeditions",
  "subtitle": "Interior and northern reconnaissance, 1806–1817",
- "abstract": "All of Gabriel Moraga's documented expeditions on one map: the 1806–07 interior reconnaissances, the 1810 Suisun and Bodega operations, the 1812–13 Ross missions, and the 1817 San Rafael founding escort. Routes are RECONSTRUCTED from diaries and reports — dashed lines mean 'he passed roughly this way,' not a surveyed track. Village locations follow Cook's identifications and are approximate.",
+ "abstract": "All of Gabriel Moraga's documented expeditions on one map: the 1806–07 interior reconnaissances, the 1810 Suisun and Bodega operations, the 1812–13 Ross missions, and the 1817 San Rafael founding escort. Routes are RECONSTRUCTED from diaries and reports — dashed lines mean 'he passed roughly this way,' not a surveyed track. Village locations follow Cook's identifications and are approximate. Each route now cites the document it rests on; click the line to open it.",
  "date_range": [
   1806,
   1817
@@ -13,7 +13,7 @@
  ],
  "zoom": 7,
  "cite_key": "moraga",
- "last_updated": "2026-07-14",
+ "last_updated": "2026-08-22",
  "layers": [
   {
    "id": "r1807",
@@ -1115,7 +1115,7 @@
    "layer": "r1807",
    "color": "#b7791f",
    "path_confidence": "reconstructed",
-   "citation": "Cook note 46: 'This expedition of 1807 is otherwise unrecorded.'",
+   "citation": "Prov. Rec. (C-A 26) Doc 983 — *Instrucciones para el reconocimiento del interior*, the instructions for the 1806 expedition with the Cadete Moraga: the object was to learn the country next to the settlements and to enter into friendship with the gentiles. Cook noted the 1807 expedition itself is otherwise unrecorded.",
    "stops": [
     {
      "id": "r1807-1-monterey",
@@ -1273,7 +1273,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca26-d983"
   },
   {
    "id": "r1810a",
@@ -2377,7 +2378,7 @@
    "layer": "rSuisun",
    "color": "#c0392b",
    "path_confidence": "reconstructed",
-   "citation": "Arrillaga report, Prov. Rec. ix. 122–3 (C-A 25).",
+   "citation": "Prov. Rec. (C-A 26) Doc 1203 — the Alférez Gabriel Moraga's sortie of 1810, with Doc 1205 recording his return from the reconnaissance of the Sierra de Santa Clara 'en solicitud de conversiones', bringing in twenty people. See also Prov. Rec. (C-A 25) Doc 500 for the Sespesuya campaign north of the presidio the same year.",
    "stops": [
     {
      "id": "rsuisun-1-presidio-of-san-francisco",
@@ -2595,7 +2596,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca26-d1203"
   },
   {
    "id": "rbodega",
@@ -2603,7 +2605,7 @@
    "layer": "rBodega",
    "color": "#8e44ad",
    "path_confidence": "reconstructed",
-   "citation": "Langelier & Rosen, fn. 52: 'Gabriel Moraga's Diary of his Expedition to the Port of Bodega, Oct. 3, 1810, Prov. St. Pap., XII, 276–79.' Diary survives in the Archives of California.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 335 — Moraga's own overland-and-naval reconnaissance diary of Bodega, 23 Sep–2 Oct 1810 (Savage pp. 276–279, the leaves cited by Langelier & Rosen). At the estero de San Juan Francisco the Indians told him a frigate lay at Bodega and that two Unalaska men had come that morning to look at it.",
    "stops": [
     {
      "id": "rbodega-1-presidio-of-san-francisco",
@@ -2809,7 +2811,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca12-d335"
   },
   {
    "id": "rross1812",
@@ -2817,7 +2820,7 @@
    "layer": "rRoss1812",
    "color": "#8B2500",
    "path_confidence": "reconstructed",
-   "citation": "Langelier & Rosen, Ch. 3.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 407 — Argüello reports Moraga's second reconnaissance, departed with four soldiers and returned 1 September 1812.",
    "stops": [
     {
      "id": "rross1812-1-presidio-of-san-francisco",
@@ -2999,7 +3002,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca12-d407"
   },
   {
    "id": "rross1813",
@@ -3007,7 +3011,7 @@
    "layer": "rRoss1813",
    "color": "#e67e22",
    "path_confidence": "reconstructed",
-   "citation": "Langelier & Rosen, Ch. 3.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 439 — Moraga's detailed reconnaissance and defence assessment of the Russian establishment at Ross: the approach too difficult for artillery without a better road, about forty *personas de razón* and many Kodiaks.",
    "stops": [
     {
      "id": "rross1813-1-presidio-of-san-francisco",
@@ -3165,7 +3169,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca12-d439"
   },
   {
    "id": "rsanrafael",
@@ -3173,7 +3178,7 @@
    "layer": "rSanRafael",
    "color": "#2e6f40",
    "path_confidence": "reconstructed",
-   "citation": "Bancroft II, p. 330: 'The site was probably selected on the advice of Moraga.'",
+   "citation": "Prov. Rec. (C-A 25) Doc 499 — Solá's comprehensive report to the Viceroy, Monterey, 3 April 1818, covering the Russian establishments at Ross and Bodega, Gabriel Moraga's reconnaissances, and the founding of San Rafael.",
    "stops": [
     {
      "id": "rsanrafael-1-presidio-of-san-francisco",
@@ -3293,7 +3298,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca25-d499"
   }
  ]
 }

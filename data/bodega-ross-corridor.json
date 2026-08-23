@@ -13,7 +13,7 @@
  ],
  "zoom": 9,
  "cite_key": "bodega",
- "last_updated": "2026-07-15",
+ "last_updated": "2026-08-22",
  "layers": [
   {
    "id": "spanish",
@@ -1089,14 +1089,19 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "russian",
-   "summary": "Russian-American Company hunting reaches inside the bay itself: an Aleut baidarka fleet works San Francisco Bay for otter in 1811, the year before Ross was founded. Spain's inner waters were already a Russian hunting ground.",
+   "summary": "Russian-American Company hunting reaches inside the bay itself. On 30 May 1811 Argüello reported Aleut baidarkas working the port, up to fifty together, and some 130 counted between Punta Bonita and Punta San Antonio; six neophytes sent across to fish sea lions for their padres were held for some hours as suspected spies before being released. Spain's inner waters were a Russian hunting ground a year before Ross was founded.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (C-A 12)",
-     "ca_record": "ca12-d376b",
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (C-A 12) Doc 381 — Argüello, San Francisco, 30 May 1811: the otter-fishing canoes still working inside the port, up to 50 seen together, and ~130 counted between Puntas de Boneta and San Antonio.",
+     "ca_record": "ca12-d381",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n311"
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 12) Doc 334 — the same hunt a year earlier: ~20 canoes heading into the San José esteros, and gentiles reporting a large ship at Bodega.",
+     "ca_record": "ca12-d334",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n278"
     }
    ],
    "native_groups": [
@@ -1173,7 +1178,7 @@
    "layer": "overland",
    "color": "#8e44ad",
    "path_confidence": "reconstructed",
-   "citation": "Langelier & Rosen, fn. 52: 'Gabriel Moraga's Diary of his Expedition to the Port of Bodega, Oct. 3, 1810, Prov. St. Pap., XII, 276–79.' Diary survives in the Archives of California.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 335 — Moraga's own diary of the Bodega expedition, 23 Sep–2 Oct 1810 (Savage pp. 276–279, the leaves Langelier & Rosen cite at fn. 52). Indians at the estero de San Juan Francisco reported a frigate at Bodega and two Unalaska men who had come that morning to look at it.",
    "stops": [
     {
      "id": "rbodega-1-presidio-of-san-francisco",
@@ -1379,7 +1384,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca12-d335"
   },
   {
    "id": "rross1812",
@@ -1387,7 +1393,7 @@
    "layer": "overland",
    "color": "#8B2500",
    "path_confidence": "reconstructed",
-   "citation": "Langelier & Rosen, Ch. 3.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 407 — Argüello reports Moraga's second reconnaissance, returned 1 September 1812. Cf. Langelier & Rosen, ch. 3.",
    "stops": [
     {
      "id": "rross1812-1-presidio-of-san-francisco",
@@ -1569,7 +1575,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca12-d407"
   },
   {
    "id": "rross1813",
@@ -1577,7 +1584,7 @@
    "layer": "overland",
    "color": "#e67e22",
    "path_confidence": "reconstructed",
-   "citation": "Langelier & Rosen, Ch. 3.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 439 — Moraga's reconnaissance and defence assessment of Ross: artillery could not reach it without a better road; about forty *personas de razón* and many Kodiaks. Cf. Langelier & Rosen, ch. 3.",
    "stops": [
     {
      "id": "rross1813-1-presidio-of-san-francisco",
@@ -1735,7 +1742,8 @@
      "tags": [],
      "notes": ""
     }
-   ]
+   ],
+   "ca_record": "ca12-d439"
   }
  ]
 }

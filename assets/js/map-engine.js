@@ -105,8 +105,13 @@
            ' (' + f.series.length + ' entries)</summary>';
       h += '<table class="series"><tbody>';
       f.series.forEach(function (row) {
-        h += '<tr><td>' + esc(row[0]) + '</td><td>' + esc(row[1]) +
-             (row[2] ? ' <span class="cite">' + esc(row[2]) + '</span>' : '') + '</td></tr>';
+        var srec = row[3] || citeToRecord(row[2], f.ca_volume);
+        var scite = row[2]
+          ? ' <span class="cite">' + (srec
+              ? '<a href="' + caUrl(srec) + '" target="_blank" rel="noopener">' + esc(row[2]) + '</a>'
+              : esc(row[2])) + '</span>'
+          : '';
+        h += '<tr><td>' + esc(row[0]) + '</td><td>' + esc(row[1]) + scite + '</td></tr>';
       });
       h += '</tbody></table></details>';
     }
@@ -119,10 +124,10 @@
       h += '<p class="native">Native peoples named in the sources: ' + esc(f.native_groups.join(', ')) + '</p>';
     (f.sources || []).forEach(function (s) {
       h += '<p class="source">' + esc(s.citation);
-      if (s.ca_record) h += ' — <a href="https://aodhanm.github.io/archives-of-california/#' +
-        encodeURIComponent(s.ca_record) + '" target="_blank" rel="noopener">View the record →</a>';
-      else if (s.ia_leaf_url) h += ' — <a href="' + esc(s.ia_leaf_url) + '" target="_blank" rel="noopener">manuscript leaf →</a>';
-      else if (s.url) h += ' — <a href="' + esc(s.url) + '" target="_blank" rel="noopener">source →</a>';
+      var rec = s.ca_record || citeToRecord(s.citation, f.ca_volume);
+      if (rec) h += ' \u2014' + recordLink(rec);
+      if (s.ia_leaf_url) h += ' \u2014 <a href="' + esc(s.ia_leaf_url) + '" target="_blank" rel="noopener">the manuscript leaf \u2192</a>';
+      if (s.url && !rec) h += ' \u2014 <a href="' + esc(s.url) + '" target="_blank" rel="noopener">source \u2192</a>';
       h += '</p>';
     });
     var pl = PRECISION_LABEL[f.coord_precision || 'place'];
@@ -131,6 +136,29 @@
     if (f.notes) h += '<p class="notes">' + esc(f.notes) + '</p>';
     h += '<p class="permalink"><a href="#' + encodeURIComponent(f.id) + '" onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href.split(\'#\')[0]+\'#' + esc(f.id) + '\');return false;" title="Copy permalink">🔗 permalink</a></p>';
     return h + '</div>';
+  }
+
+
+  // ---------- C-A deep links ----------
+  // The Archives of California catalog resolves #caN-dM to a single record.
+  var CA_BASE = 'https://archivesofcalifornia.com/#';
+  function caUrl(rec) { return CA_BASE + encodeURIComponent(rec); }
+  // Parse a human citation into a record id. Handles "C-A 50 Doc 32",
+  // "Dep. Rec. (C-A 48) Doc 29", and a bare "Doc 10" when the feature
+  // declares a default volume. Returns null when nothing is resolvable.
+  function citeToRecord(text, defaultVol) {
+    if (!text) return null;
+    var m = /C-A\s*(\d{1,2})\D{0,14}?Docs?\.?\s*(\d{1,4})/i.exec(text);
+    if (m) return 'ca' + m[1] + '-d' + m[2];
+    if (defaultVol) {
+      var b = /^\s*Docs?\.?\s*(\d{1,4})/i.exec(text);
+      if (b) return 'ca' + defaultVol + '-d' + b[1];
+    }
+    return null;
+  }
+  function recordLink(rec, label) {
+    return ' <a class="ca-link" href="' + caUrl(rec) + '" target="_blank" rel="noopener">' +
+           (label || 'View the record') + ' \u2192</a>';
   }
 
   // ---------- filtering ----------
@@ -288,6 +316,17 @@
         color: r.color || '#444', weight: 3, opacity: 0.8,
         dashArray: (r.path_confidence && r.path_confidence !== 'documented') ? '8 6' : (r.dash || null)
       });
+      // A route carries its own citation; show it, and link it to the record.
+      if (r.label || r.citation) {
+        var rh = '<div class="popup route-popup"><h3>' + esc(r.label || 'Route') + '</h3>';
+        if (r.path_confidence && r.path_confidence !== 'documented')
+          rh += '<p class="precision">\u2014 reconstructed route: he passed roughly this way, not a surveyed track</p>';
+        if (r.citation) {
+          var rrec = r.ca_record || citeToRecord(r.citation);
+          rh += '<p class="source">' + esc(r.citation) + (rrec ? ' \u2014' + recordLink(rrec) : '') + '</p>';
+        }
+        line.bindPopup(rh + '</div>');
+      }
       var g = state.layerGroups[r.layer];
       (g || map).addLayer ? (g ? g.addLayer(line) : line.addTo(map)) : line.addTo(map);
       state.routeLines.push(line);
