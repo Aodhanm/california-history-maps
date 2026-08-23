@@ -11,7 +11,7 @@ Exits non-zero on any failure. Also prints per-map counts for the landing page.
 import json, sys, glob, os
 
 PREC = {"exact", "place", "area", "conjectural"}
-CONF = {"exact", "month", "year", "circa", "range", "unknown"}
+CONF = {"exact", "month", "year", "circa", "range"}
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 fail = 0
 
