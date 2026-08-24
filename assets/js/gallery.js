@@ -131,14 +131,20 @@
     document.getElementById('viewer-caption').textContent = it.caption;
     document.getElementById('viewer-credit').textContent = it.credit;
     if (viewer) { viewer.destroy(); viewer = null; }
+    // David Rumsey maps expose a IIIF deep-zoom source (often ~10,000px). Stream that
+    // instead of the local 4,000px image so you can zoom as far as on davidrumsey.com.
+    var rmid = (it.source_url || '').match(/(RUMSEY~[^/?#\s]+)/);
+    var local = { type: 'image', url: 'img/' + it.file };
     viewer = OpenSeadragon({
       id: 'seadragon',
       prefixUrl: 'https://cdn.jsdelivr.net/npm/openseadragon@4.1.1/build/openseadragon/images/',
-      tileSources: { type: 'image', url: 'img/' + it.file },
+      tileSources: rmid ? ('https://www.davidrumsey.com/luna/servlet/iiif/' + rmid[1] + '/info.json') : local,
       maxZoomPixelRatio: 2.5,
       showNavigator: true,
       crossOriginPolicy: 'Anonymous'
     });
+    // if the IIIF endpoint ever fails, fall back to the bundled image
+    if (rmid) viewer.addOnceHandler('open-failed', function () { viewer.open(local); });
   }
   function closeViewer() {
     document.getElementById('viewer-overlay').style.display = 'none';
