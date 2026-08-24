@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Index of California Ranchos · California History Maps</title>
+<meta name="description" content="A sortable, searchable index of every Spanish and Mexican land grant of California — year, governor, grantee, acreage, county, and U.S. adjudication — linked to the interactive map.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/site.css">
+<style>
+  .idx-head{padding:14px 20px 6px}
+  .idx-head h1{margin:0 0 4px;font-size:1.5rem}
+  .idx-head p{margin:0;color:#6b6252;font-size:.9rem}
+  .idx-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:8px 20px 12px;position:sticky;top:0;background:#f6f2e9;z-index:5;border-bottom:1px solid #e2d9c6}
+  .idx-controls input[type=search]{flex:1;min-width:220px;padding:8px 12px;border:1px solid #cdbfa3;border-radius:6px;font-size:.95rem}
+  .idx-controls .seg{display:inline-flex;border:1px solid #cdbfa3;border-radius:6px;overflow:hidden}
+  .idx-controls .seg button{border:none;background:#fff;padding:8px 12px;cursor:pointer;font-size:.85rem;color:#4a4335}
+  .idx-controls .seg button.on{background:#5b7f92;color:#fff}
+  .idx-count{font-size:.85rem;color:#6b6252;white-space:nowrap}
+  .idx-wrap{overflow-x:auto;padding:0 12px 40px}
+  table.idx{border-collapse:collapse;width:100%;font-size:.86rem}
+  table.idx th{position:sticky;top:52px;background:#efe8d9;text-align:left;padding:8px 10px;cursor:pointer;user-select:none;white-space:nowrap;border-bottom:2px solid #d8ccb2}
+  table.idx th:hover{background:#e7ddc7}
+  table.idx th .ar{opacity:.4;font-size:.7em}
+  table.idx td{padding:7px 10px;border-bottom:1px solid #ece5d6;vertical-align:top}
+  table.idx tr.mapped{cursor:pointer}
+  table.idx tr.mapped:hover{background:#f0ece0}
+  table.idx tr.nobnd{color:#8a8071}
+  td.acres{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .chip{display:inline-block;padding:1px 7px;border-radius:10px;font-size:.72rem;font-weight:600}
+  .chip.conf{background:#e0efe4;color:#256a3d}
+  .chip.rej{background:#f3e0e4;color:#8f2a3c}
+  .gname{font-weight:600}
+  .nb{font-size:.7rem;background:#eee7d6;color:#8a8071;padding:1px 6px;border-radius:8px;margin-left:6px}
+  .mb{font-size:.7rem;background:#d5e6e4;color:#2a6f6a;padding:1px 6px;border-radius:8px;margin-left:6px}
+  .maplink{color:#5b7f92;text-decoration:none;font-weight:600}
+  .dz{font-variant-numeric:tabular-nums;color:#6b6252}
+  @media (prefers-color-scheme:dark){
+    .idx-controls,table.idx th{background:#26221b} .idx-controls{border-color:#3a3428}
+    table.idx td{border-color:#332e24} table.idx tr.mapped:hover{background:#2c2820}
+  }
+  .dzl{color:#8a6d3b;text-decoration:none;font-size:.78rem;margin-left:8px;white-space:nowrap}
+  .dzl:hover{text-decoration:underline}
+  #ilb{display:none;position:fixed;inset:0;z-index:9999;background:rgba(20,18,14,.92);align-items:center;justify-content:center;padding:24px}
+  #ilb img{max-width:94vw;max-height:90vh;border-radius:4px;box-shadow:0 4px 30px rgba(0,0,0,.6)}
+  #ilb .x{position:fixed;top:14px;right:20px;font-size:34px;color:#fff;background:none;border:none;cursor:pointer}
+</style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html">California History Maps</a>
+  <nav aria-label="Site">
+    <a href="index.html">Maps</a>
+    <a href="gallery/disenos.html">Diseños</a>
+    <a href="ranchos.html">Ranchos</a>
+    <a href="maps/ranchos-experimental.html">Map</a>
+    <a href="ranchos-index.html" aria-current="page">Index</a>
+  </nav>
+</header>
+<div class="idx-head">
+  <h1>Index of California Ranchos</h1>
+  <p id="sub">Loading…</p>
+</div>
+<div class="idx-controls">
+  <input id="q" type="search" placeholder="Search name, grantee, governor, county…" aria-label="Search index">
+  <span class="seg" role="tablist">
+    <button data-f="all" class="on">All</button>
+    <button data-f="mapped">On the map</button>
+    <button data-f="nobnd">No boundary</button>
+    <button data-f="conf">Confirmed</button>
+    <button data-f="rej">Rejected</button>
+  </span>
+  <span class="idx-count" id="count"></span>
+</div>
+<div class="idx-wrap">
+  <table class="idx" id="tbl">
+    <thead><tr>
+      <th data-k="name">Rancho <span class="ar">▲▼</span></th>
+      <th data-k="year">Year <span class="ar">▲▼</span></th>
+      <th data-k="governor">Granted by <span class="ar">▲▼</span></th>
+      <th data-k="grantee">Grantee <span class="ar">▲▼</span></th>
+      <th data-k="acres">Acres <span class="ar">▲▼</span></th>
+      <th data-k="county">County <span class="ar">▲▼</span></th>
+      <th data-k="outcome">U.S. <span class="ar">▲▼</span></th>
+      <th data-k="land_case">Case <span class="ar">▲▼</span></th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+</div>
+<script>
+var DATA=[], filter='all', sortK='name', sortDir=1;
+function esc(s){return (s==null?'':String(s)).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+fetch('gallery/ranchos-index.json').then(function(r){return r.json();}).then(function(j){
+  DATA=j.rows;
+  document.getElementById('sub').innerHTML=j.total+' distinct land grants ('+j.mapped+' mapped with a boundary, '+(j.total-j.mapped)+' documented without one), including ex-mission lands. Of the '+j.total_claims+' total claims filed with the U.S. Land Commission, duplicate claims, sub-claims (&ldquo;part of…&rdquo;) and tiny urban lots are folded into their parent grant rather than listed separately. Click a mapped grant to open it on the map.';
+  render();
+});
+function cmp(a,b,k){
+  if(k==='acres'||k==='year'){var x=parseInt(a[k]||0,10)||0,y=parseInt(b[k]||0,10)||0;return x-y;}
+  return String(a[k]||'').localeCompare(String(b[k]||''));
+}
+function render(){
+  var q=document.getElementById('q').value.toLowerCase().trim();
+  var rows=DATA.filter(function(r){
+    if(filter==='mapped'&&!r.mapped)return false;
+    if(filter==='nobnd'&&r.mapped)return false;
+    if(filter==='conf'&&r.outcome!=='Confirmed')return false;
+    if(filter==='rej'&&r.outcome!=='Rejected')return false;
+    if(!q)return true;
+    return (r.name+' '+r.grantee+' '+r.governor+' '+r.county+' '+r.land_case).toLowerCase().indexOf(q)!==-1;
+  });
+  rows.sort(function(a,b){return cmp(a,b,sortK)*sortDir;});
+  var h='';
+  rows.forEach(function(r){
+    var oc=r.outcome==='Confirmed'?'<span class="chip conf">confirmed</span>':r.outcome==='Rejected'?'<span class="chip rej">rejected</span>':'';
+    var dzl=(r.dz_imgs&&r.dz_imgs.length)?' <a class="dzl" href="#" data-img="'+esc(r.dz_imgs[0])+'" title="View diseño">▦ '+r.dz_n+' diseño'+(r.dz_n>1?'s':'')+'</a>':'';
+    var km=r.kind==='mission'?' <span class="mb">ex-mission</span>':'';
+    var nm=r.mapped?'<a class="maplink" href="maps/ranchos-experimental.html#'+encodeURIComponent(r.id)+'">'+esc(r.name)+'</a>'+km+(r.dz_n?' <span class="dz">('+r.dz_n+' diseño'+(r.dz_n>1?'s':'')+')</span>':''):esc(r.name)+km+'<span class="nb">no boundary</span>'+dzl;
+    h+='<tr class="'+(r.mapped?'mapped':'nobnd')+'"'+(r.mapped?' data-id="'+esc(r.id)+'"':'')+'>'+
+      '<td>'+nm+'</td><td>'+esc(r.year)+'</td><td class="gname">'+esc(r.governor)+'</td><td>'+esc(r.grantee)+'</td>'+
+      '<td class="acres">'+(r.acres?Number(r.acres).toLocaleString():'')+'</td><td>'+esc(r.county)+'</td><td>'+oc+'</td><td>'+esc(r.land_case)+'</td></tr>';
+  });
+  document.getElementById('rows').innerHTML=h;
+  document.getElementById('count').textContent=rows.length+' shown';
+}
+document.getElementById('q').addEventListener('input',render);
+document.querySelectorAll('.seg button').forEach(function(b){b.addEventListener('click',function(){
+  document.querySelectorAll('.seg button').forEach(function(x){x.classList.remove('on');});
+  b.classList.add('on');filter=b.dataset.f;render();});});
+document.querySelectorAll('th[data-k]').forEach(function(th){th.addEventListener('click',function(){
+  var k=th.dataset.k; if(sortK===k)sortDir*=-1; else {sortK=k;sortDir=1;} render();});});
+document.getElementById('rows').addEventListener('click',function(e){
+  var tr=e.target.closest('tr.mapped'); if(tr&&e.target.tagName!=='A')window.location='maps/ranchos-experimental.html#'+encodeURIComponent(tr.dataset.id);});
+</script>
+<div id="ilb"><button class="x" aria-label="Close">×</button><img alt="Diseño"></div>
+<script>
+document.getElementById('rows').addEventListener('click',function(e){
+  var a=e.target.closest('.dzl'); if(a){e.preventDefault();e.stopPropagation();
+    var lb=document.getElementById('ilb'); lb.querySelector('img').src=a.dataset.img; lb.style.display='flex';}
+});
+document.getElementById('ilb').addEventListener('click',function(e){if(e.target.id==='ilb'||e.target.className==='x')this.style.display='none';});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')document.getElementById('ilb').style.display='none';});
+</script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ranchos of Spanish & Mexican California · California History Maps</title>
+<meta name="description" content="The private land grants of Spanish and Mexican California shown with their surveyed boundaries, colored by granting governor, 1784–1846. Each rancho links to its diseño map and archival record.">
+<meta property="og:title" content="Ranchos of Mexican California">
+<meta property="og:description" content="Land grants of Spanish and Mexican California with surveyed boundaries, colored by granting governor. The boundary companion to the diseños gallery.">
+<meta property="og:type" content="website">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" crossorigin="">
+<link rel="stylesheet" href="../assets/css/site.css">
+<style>
+  .diseno-strip{display:flex;gap:6px;overflow-x:auto;padding:8px 0 4px;scroll-snap-type:x mandatory}
+  .diseno-strip a{flex:0 0 auto;scroll-snap-align:start;text-decoration:none}
+  .popup-diseno{display:block;height:150px;width:auto;border-radius:5px;background:#efeae0;box-shadow:0 1px 4px rgba(0,0,0,.25)}
+  .diseno-cap{display:block;font-size:.74rem;opacity:.7;margin-bottom:4px}
+  .leaflet-popup-content{max-height:74vh;overflow-y:auto}
+  .leaflet-popup-content-wrapper{max-width:400px}
+  .popup-diseno{cursor:zoom-in}
+  #diseno-lightbox{display:none;position:fixed;inset:0;z-index:9999;background:rgba(20,18,14,.92);
+    align-items:center;justify-content:center;flex-direction:column;padding:24px;box-sizing:border-box}
+  #dlb-img{max-width:94vw;max-height:88vh;object-fit:contain;border-radius:4px;box-shadow:0 4px 30px rgba(0,0,0,.6)}
+  #dlb-cap{color:#e8e2d4;font-size:.85rem;margin-top:10px;max-width:80vw;text-align:center}
+  #dlb-x{position:fixed;top:14px;right:20px;font-size:34px;line-height:1;color:#fff;background:none;
+    border:none;cursor:pointer;opacity:.85}
+  #dlb-x:hover{opacity:1}
+  .leaflet-interactive:focus{outline:none !important}
+  .rancho-selected{filter:drop-shadow(0 0 5px rgba(59,130,246,.95))}
+  .badge.oc.conf{background:#2f7d4f;color:#fff}
+  .badge.oc.rej{background:#a23b4e;color:#fff}
+</style>
+</head>
+<body class="map-page" data-map="ranchos-experimental">
+<header class="site-header">
+  <a class="brand" href="../index.html">California History Maps</a>
+  <nav aria-label="Site">
+    <a href="../index.html">Maps</a>
+    <a href="../gallery/disenos.html">Diseños</a>
+    <a href="../ranchos.html">Ranchos</a>
+    <a href="../ranchos-index.html">Index</a>
+    <a href="../index.html#about">About</a>
+  </nav>
+</header>
+<div class="map-head">
+  <h1 id="map-title">Ranchos of Mexican California</h1>
+  <p class="subtitle" id="map-subtitle"></p>
+</div>
+<div id="controls" role="toolbar" aria-label="Map filters"></div>
+<div id="map" role="application" aria-label="Interactive historical map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
+<script src="../assets/js/map-engine-experimental.js?v=13"></script>
+</body>
+</html>

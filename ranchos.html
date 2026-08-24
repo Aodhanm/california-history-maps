@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ranchos of California · California History Maps</title>
+<meta name="description" content="Every Spanish and Mexican land grant of California — an interactive boundary map colored by granting governor and a searchable index of all 813 claims, each linked to its owner, land case, and original diseño.">
+<meta property="og:title" content="Ranchos of California">
+<meta property="og:description" content="Interactive map + searchable index of every California land grant, linked to owners, land cases, and diseños.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/site.css">
+<style>
+  .rh-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;padding:4px 20px 30px}
+  .rh-cards .card{display:flex;flex-direction:column}
+  .rh-cards .thumb{height:170px;background-size:cover;background-position:center}
+  .rh-more{padding:0 20px 40px;max-width:720px;color:#5a5241;line-height:1.55}
+  .rh-more h2{font-size:1.1rem;margin:18px 0 6px}
+  @media (prefers-color-scheme:dark){.rh-more{color:#b8ae98}}
+</style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html">California History Maps</a>
+  <nav aria-label="Site">
+    <a href="index.html">Maps</a>
+    <a href="gallery/index.html">Gallery</a>
+    <a href="gallery/disenos.html">Diseños</a>
+    <a href="ranchos.html" aria-current="page">Ranchos</a>
+    <a href="index.html#about">About</a>
+    <a href="index.html#data">Data</a>
+  </nav>
+</header>
+<main class="landing">
+  <section class="hero">
+    <h1>Ranchos of California</h1>
+    <p class="lede">Every private land grant of Spanish and Mexican California, brought together in one place:
+    an interactive boundary map colored by the governor who made each grant, and a searchable index of all the
+    claims later filed with the U.S. Land Commission — each grant linked to its owner, acreage, land case,
+    adjudication, and its original hand-drawn <em>diseño</em>.</p>
+    <div class="stats">
+      <div class="stat"><b>813</b><span>land claims filed</span></div>
+      <div class="stat"><b>511</b><span>mapped with a boundary</span></div>
+      <div class="stat"><b>550</b><span>confirmed by the U.S.</span></div>
+      <div class="stat"><b>1,870</b><span>diseño maps</span></div>
+    </div>
+  </section>
+
+  <div class="rh-cards">
+    <a class="card" href="maps/ranchos-experimental.html">
+      <div class="thumb" style="background-image:url(assets/previews/ranchos.jpg)"></div>
+      <div class="body">
+        <h3>The Interactive Map</h3>
+        <p class="meta">Boundaries colored by granting governor, 1769–1846</p>
+        <p>511 surveyed grant boundaries across the state. Click any rancho for its governor, owner, acreage
+        and size rank, land case, U.S. outcome, and a carousel of its diseño maps. Search a family name to
+        light up every grant that dynasty held.</p>
+      </div>
+    </a>
+    <a class="card" href="ranchos-index.html">
+      <div class="thumb" style="background-image:url(gallery/disenos-thumb/map-of-the-land-of-petaluma-sonoma-co-calif--rec78692.jpg)"></div>
+      <div class="body">
+        <h3>The Searchable Index</h3>
+        <p class="meta">All 662 distinct grants, sortable and filterable</p>
+        <p>Every grant — mapped or not — with year, governor, grantee, acreage, county, and confirmed/rejected
+        status. Sort any column, filter by outcome, and click a grant to jump to it on the map. The ones without
+        a surveyed boundary link straight to their diseño.</p>
+      </div>
+    </a>
+    <a class="card" href="gallery/disenos.html">
+      <div class="thumb" style="background-image:url(gallery/disenos-thumb/dise-o-del-rancho-agua-caliente-sonoma-county-calif--rec78694-1.jpg)"></div>
+      <div class="body">
+        <h3>The Diseños Gallery</h3>
+        <p class="meta">1,870 original land-grant sketch maps</p>
+        <p>The hand-drawn maps the grantees themselves submitted — the visual companion to the boundary map and
+        the index.</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="rh-more">
+    <h2>How the pieces fit</h2>
+    <p>The <strong>map</strong> shows the grants that were surveyed and given an exact boundary. The
+    <strong>index</strong> holds the full universe of claims, so the ones that were rejected or never surveyed
+    still appear — with their diseño where one survives. Boundaries come from the ECAI/UCSD survey reconstruction;
+    grant records from Ogden Hoffman's <em>Reports of Land Cases</em> (1862) and the Bancroft land-case files.
+    Reconstructed or contested grants (Suscol, Mare Island, Yerba Buena Island) are drawn approximately and
+    labeled as such.</p>
+  </div>
+</main>
+</body>
+</html>
