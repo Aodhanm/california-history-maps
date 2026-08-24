@@ -95,7 +95,7 @@
 <script>
 var DATA=[], filter='all', sortK='name', sortDir=1;
 function esc(s){return (s==null?'':String(s)).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
-fetch('gallery/ranchos-index.json').then(function(r){return r.json();}).then(function(j){
+fetch('gallery/ranchos-index.json?v='+Date.now()).then(function(r){return r.json();}).then(function(j){
   DATA=j.rows;
   document.getElementById('sub').innerHTML=j.total+' distinct land grants ('+j.mapped+' mapped with a boundary, '+(j.total-j.mapped)+' documented without one), including ex-mission lands. Of the '+j.total_claims+' total claims filed with the U.S. Land Commission, duplicate claims, sub-claims (&ldquo;part of…&rdquo;) and tiny urban lots are folded into their parent grant rather than listed separately. Click a mapped grant to open it on the map.';
   render();
