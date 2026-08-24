@@ -14,7 +14,7 @@
   .idx-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:8px 20px 12px;position:sticky;top:0;background:#f6f2e9;z-index:5;border-bottom:1px solid #e2d9c6}
   .idx-controls input[type=search]{flex:1;min-width:220px;padding:8px 12px;border:1px solid #cdbfa3;border-radius:6px;font-size:.95rem}
   .idx-controls .seg{display:inline-flex;border:1px solid #cdbfa3;border-radius:6px;overflow:hidden}
-  .idx-controls .seg button{border:none;background:#fff;padding:8px 12px;cursor:pointer;font-size:.85rem;color:#4a4335}
+  .idx-controls .seg button{border:none;background:#fff;padding:8px 12px;cursor:pointer;font-size:.85rem;color:#4a4335;white-space:nowrap}
   .idx-controls .seg button.on{background:#5b7f92;color:#fff}
   .idx-count{font-size:.85rem;color:#6b6252;white-space:nowrap}
   .idx-wrap{overflow-x:auto;padding:0 12px 40px}
@@ -40,6 +40,15 @@
   #ilb{display:none;position:fixed;inset:0;z-index:9999;background:rgba(20,18,14,.92);align-items:center;justify-content:center;padding:24px}
   #ilb img{max-width:94vw;max-height:90vh;border-radius:4px;box-shadow:0 4px 30px rgba(0,0,0,.6)}
   #ilb .x{position:fixed;top:14px;right:20px;font-size:34px;color:#fff;background:none;border:none;cursor:pointer}
+  /* On phones the filter bar wraps and grows tall; sticky headers then collide.
+     Fall back to normal (non-sticky) flow so the table reads top-to-bottom. */
+  @media (max-width:700px){
+    .idx-controls{position:static;top:auto;padding:8px 10px 10px;gap:8px}
+    table.idx th{position:static;top:auto}
+    .idx-controls .seg{max-width:100%;overflow-x:auto}
+    .idx-controls .seg button{padding:7px 8px;font-size:.78rem}
+    .idx-wrap{padding:0 6px 40px}
+  }
 </style>
 </head>
 <body>
