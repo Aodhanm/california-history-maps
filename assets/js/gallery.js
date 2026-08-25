@@ -131,16 +131,53 @@
     document.getElementById('viewer-caption').textContent = it.caption;
     document.getElementById('viewer-credit').textContent = it.credit;
     if (viewer) { viewer.destroy(); viewer = null; }
-    // Serve the locally hosted (downloaded) image. Self-contained and reliable,
-    // no dependency on any external host.
+    var local = { type: 'image', url: 'img/' + it.file };
+    // Always open the locally hosted image first: instant and reliable, so the
+    // viewer can never sit black. For David Rumsey maps we then try to upgrade
+    // to their high-res IIIF deep-zoom source, but only after confirming it
+    // actually loads in the browser. Any failure just leaves the local image.
     viewer = OpenSeadragon({
       id: 'seadragon',
       prefixUrl: 'https://cdn.jsdelivr.net/npm/openseadragon@4.1.1/build/openseadragon/images/',
-      tileSources: { type: 'image', url: 'img/' + it.file },
+      tileSources: local,
       maxZoomPixelRatio: 2.5,
       showNavigator: true,
       crossOriginPolicy: 'Anonymous'
     });
+    var rmid = (it.source_url || '').match(/(RUMSEY~[^/?#\s]+)/);
+    if (rmid) upgradeToIIIF(it.id, rmid[1], local);
+  }
+
+  // Progressive enhancement: swap the local image for David Rumsey's IIIF
+  // deep-zoom source, but only once info.json AND a real tile have loaded.
+  function upgradeToIIIF(mapId, rumseyId, local) {
+    var base = 'https://www.davidrumsey.com/luna/servlet/iiif/' + rumseyId;
+    var v = viewer;
+    function stillCurrent() {
+      return v && viewer === v && decodeURIComponent(location.hash.slice(1)) === mapId;
+    }
+    fetch(base + '/info.json').then(function (r) { return r.ok ? r.json() : null; }).then(function (info) {
+      if (!info || !info.width || !stillCurrent()) return;
+      var probe = new Image();
+      probe.crossOrigin = 'anonymous';
+      probe.onload = function () {
+        if (!stillCurrent() || !v.world) return;
+        // Add the high-res source as a layer ON TOP of the local image (rather
+        // than replacing it). The local stays underneath, so the viewer never
+        // goes black while the deep-zoom tiles load, and if the high-res source
+        // ever fails or drops a tile, the local shows through instead of black.
+        try {
+          v.addTiledImage({
+            tileSource: base + '/info.json',
+            index: 1,
+            success: function () { /* high-res is up; local remains as safety net */ },
+            error: function () { /* keep the local image */ }
+          });
+        } catch (e) { /* keep the local image */ }
+      };
+      probe.onerror = function () { /* tiles blocked -> stay on local */ };
+      probe.src = base + '/full/512,/0/default.jpg';
+    }).catch(function () { /* unreachable -> stay on local */ });
   }
   function closeViewer() {
     document.getElementById('viewer-overlay').style.display = 'none';
