@@ -144,40 +144,94 @@
       showNavigator: true,
       crossOriginPolicy: 'Anonymous'
     });
-    var rmid = (it.source_url || '').match(/(RUMSEY~[^/?#\s]+)/);
-    if (rmid) upgradeToIIIF(it.id, rmid[1], local);
+    upgradeDeepZoom(it.id, it, local);
   }
 
-  // Progressive enhancement: swap the local image for David Rumsey's IIIF
-  // deep-zoom source, but only once info.json AND a real tile have loaded.
-  function upgradeToIIIF(mapId, rumseyId, local) {
-    var base = 'https://www.davidrumsey.com/luna/servlet/iiif/' + rumseyId;
-    var v = viewer;
-    function stillCurrent() {
-      return v && viewer === v && decodeURIComponent(location.hash.slice(1)) === mapId;
-    }
-    fetch(base + '/info.json').then(function (r) { return r.ok ? r.json() : null; }).then(function (info) {
-      if (!info || !info.width || !stillCurrent()) return;
-      var probe = new Image();
-      probe.crossOrigin = 'anonymous';
-      probe.onload = function () {
-        if (!stillCurrent() || !v.world) return;
-        // Add the high-res source as a layer ON TOP of the local image (rather
-        // than replacing it). The local stays underneath, so the viewer never
-        // goes black while the deep-zoom tiles load, and if the high-res source
-        // ever fails or drops a tile, the local shows through instead of black.
-        try {
-          v.addTiledImage({
-            tileSource: base + '/info.json',
-            index: 1,
-            success: function () { /* high-res is up; local remains as safety net */ },
-            error: function () { /* keep the local image */ }
+  // Resolve a browser-loadable deep-zoom source for a map, or null. Returns a
+  // Promise for either a IIIF info.json URL (string) or an OpenSeadragon image
+  // tile source ({type:'image', url}). Each archive has its own scheme; some
+  // need a small metadata fetch (all CORS-enabled) to find the image id.
+  function deepZoomSource(it) {
+    var su = it.source_url || '';
+    // David Rumsey (LUNA IIIF) from its RUMSEY~ id
+    var rum = su.match(/(RUMSEY~[^/?#\s]+)/);
+    if (rum) return Promise.resolve('https://www.davidrumsey.com/luna/servlet/iiif/' + rum[1] + '/info.json');
+    // John Carter Brown Library (same LUNA IIIF pattern)
+    if (su.indexOf('jcb.lunaimaging.com/luna/servlet/detail/') !== -1)
+      return Promise.resolve(su.replace('/luna/servlet/detail/', '/luna/servlet/iiif/') + '/info.json');
+    // LA Public Library (Cantaloupe IIIF); id maps 1:1 from the url
+    var lapl = su.match(/tessa2\.lapl\.org\/digital\/collection\/([^/]+)\/id\/([^/]+)/);
+    if (lapl) return Promise.resolve('https://tessa2.lapl.org/iiif/2/' + lapl[1] + ':' + lapl[2] + '/info.json');
+    // Library of Congress: fetch the item JSON, read its image-services id
+    var locRes = su.match(/www\.loc\.gov\/resource\/([^/?#]+)/);
+    var locLccn = su.match(/lccn\.loc\.gov\/(\d+)/);
+    if (locRes || locLccn) {
+      var sp = (su.match(/[?&]sp=(\d+)/) || [])[1];
+      var jsonUrl = locRes
+        ? 'https://www.loc.gov/resource/' + locRes[1] + '/?fo=json' + (sp ? '&sp=' + sp : '')
+        : 'https://www.loc.gov/item/' + locLccn[1] + '/?fo=json';
+      return fetch(jsonUrl).then(function (r) { return r.ok ? r.text() : null; }).then(function (t) {
+        if (!t) return null;
+        var j = null; try { j = JSON.parse(t); } catch (e) { }
+        var url = null;
+        if (j && j.page && j.page[0] && j.page[0].url) url = j.page[0].url;      // resource + sp shape
+        if (!url && j && j.resources) (j.resources || []).forEach(function (res) {  // lccn/item shape
+          (res.files || []).forEach(function (f) {
+            (Array.isArray(f) ? f : [f]).forEach(function (x) {
+              if (!url && x && x.url && /image-services\/iiif/.test(x.url)) url = x.url;
+            });
           });
-        } catch (e) { /* keep the local image */ }
-      };
-      probe.onerror = function () { /* tiles blocked -> stay on local */ };
-      probe.src = base + '/full/512,/0/default.jpg';
-    }).catch(function () { /* unreachable -> stay on local */ });
+        });
+        var m = (url || t).match(/tile\.loc\.gov\/image-services\/iiif\/service:[^/"\\]+/);
+        return m ? 'https://' + m[0] + '/info.json' : null;
+      }).catch(function () { return null; });
+    }
+    // Stanford PURL: fetch the IIIF manifest, read the image service id
+    var purl = su.match(/purl\.stanford\.edu\/([a-z0-9]+)/i);
+    if (purl) {
+      return fetch('https://purl.stanford.edu/' + purl[1] + '/iiif/manifest').then(function (r) { return r.ok ? r.json() : null; }).then(function (mani) {
+        try { var svc = mani.sequences[0].canvases[0].images[0].resource.service['@id']; return svc ? svc + '/info.json' : null; }
+        catch (e) { return null; }
+      }).catch(function () { return null; });
+    }
+    // Wikimedia Commons: no IIIF; use the full-resolution original (raster files only)
+    var wiki = su.match(/commons\.wikimedia\.org\/wiki\/(File:[^?#]+)/);
+    if (wiki) {
+      var api = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*&prop=imageinfo&iiprop=url|mime&titles=' + encodeURIComponent(decodeURIComponent(wiki[1]));
+      return fetch(api).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+        try {
+          var pages = j.query.pages, ii = pages[Object.keys(pages)[0]].imageinfo[0];
+          return /image\/(jpeg|png|gif)/.test(ii.mime) ? { type: 'image', url: ii.url } : null;  // skip PDFs (thumb ~500px)
+        } catch (e) { return null; }
+      }).catch(function () { return null; });
+    }
+    return Promise.resolve(null);  // archive.org (backend too slow), category-only links, etc. -> stay local
+  }
+
+  // Progressive enhancement: add the deep-zoom source ON TOP of the local image
+  // once it's confirmed to load, so the viewer never goes black. The local stays
+  // underneath as a permanent floor; if the remote source is slow, missing, or
+  // uncooperative, the map simply stays at local resolution instead of blacking.
+  function upgradeDeepZoom(mapId, it, local) {
+    var v = viewer;
+    function stillCurrent() { return v && viewer === v && decodeURIComponent(location.hash.slice(1)) === mapId; }
+    function add(tileSource) {
+      if (!stillCurrent() || !v.world) return;
+      try { v.addTiledImage({ tileSource: tileSource, index: 1, success: function () { }, error: function () { } }); } catch (e) { }
+    }
+    deepZoomSource(it).then(function (src) {
+      if (!src || !stillCurrent() || !v.world) return;
+      if (typeof src === 'string') {
+        // IIIF: confirm one real tile loads with CORS before adding the layer
+        var probe = new Image();
+        probe.crossOrigin = 'anonymous';
+        probe.onload = function () { add(src); };
+        probe.onerror = function () { };
+        probe.src = src.replace(/info\.json$/, 'full/512,/0/default.jpg');
+      } else {
+        add(src);  // single full-resolution image; local stays underneath if it fails
+      }
+    }).catch(function () { });
   }
   function closeViewer() {
     document.getElementById('viewer-overlay').style.display = 'none';
