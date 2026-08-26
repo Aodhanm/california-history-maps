@@ -242,7 +242,7 @@
   document.getElementById('viewer-close').addEventListener('click', closeViewer);
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeViewer(); });
 
-  fetch('gallery-data.json').then(function (r) { return r.json(); }).then(function (d) {
+  fetch('gallery-data.json?v=' + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
     data = d;
     document.getElementById('gallery-note').textContent = d.note;
     buildTools();
