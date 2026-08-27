@@ -1,0 +1,6 @@
+# California History Maps. All crawlers welcome, including AI crawlers.
+# Map data CC BY 4.0. The ranchos live at https://ranchos.archivesofcalifornia.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://maps.archivesofcalifornia.com/sitemap.xml

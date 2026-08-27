@@ -8,8 +8,13 @@ def err(m):
     global fail; fail += 1; print("FAIL:", m)
 
 # 1. every internal href/src in every html resolves to a file
+def _scratch(rel):
+    return any(part.startswith("_") for part in rel.split(os.sep))
+
 for page in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
     rel = os.path.relpath(page, ROOT)
+    if _scratch(rel):
+        continue
     html = open(page).read()
     html = re.sub(r"<script[\s\S]*?</script>", "", html)  # skip JS template strings
     base = os.path.dirname(page)
@@ -38,6 +43,8 @@ with open(os.path.expanduser("~/archives-of-california/ca-catalog-export.csv"), 
 n_links = 0
 for p in glob.glob(os.path.join(ROOT, "data", "*.json")):
     d = json.load(open(p))
+    if not isinstance(d, dict):
+        continue  # bare-list datasets (hoffman-claims.json) are not map envelopes
     feats = list(d.get("features", []))
     for r in d.get("routes", []):
         feats.extend(r.get("stops", []))
@@ -89,6 +96,8 @@ print(f"gallery items: {len(g['items'])}")
 # 5. page head basics
 for page in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
     rel = os.path.relpath(page, ROOT)
+    if _scratch(rel):
+        continue
     if rel.startswith(("california-military", "borderlands", "moraga-exped", "zalvidea")):
         continue  # redirect stubs
     h = open(page).read()
