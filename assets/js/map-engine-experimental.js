@@ -300,12 +300,18 @@
     var map = L.map('map', { center: data.center || [36.5, -120.5], zoom: data.zoom || 6 });
     state.map = map;
     map.createPane('markerTop'); map.getPane('markerTop').style.zIndex = 460;
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
-      maxZoom: 17,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    }).addTo(map);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_only_labels/{z}/{x}/{y}{r}.png',
-      { maxZoom: 17, pane: 'shadowPane' }).addTo(map);
+    // Keyless Esri basemaps (no API key). Topographic is the default; users can switch via the layers control.
+    var esriTopoAttr = 'Tiles &copy; <a href="https://www.esri.com/">Esri</a>, HERE, Garmin, USGS, NGA, EPA, USDA, NPS';
+    var baseTopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
+      { maxZoom: 17, maxNativeZoom: 17, attribution: esriTopoAttr });
+    var baseSatellite = L.layerGroup([
+      L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+        { maxZoom: 17, maxNativeZoom: 17, attribution: 'Imagery &copy; <a href="https://www.esri.com/">Esri</a>, Maxar, Earthstar Geographics' }),
+      L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}',
+        { maxZoom: 17, maxNativeZoom: 16, pane: 'shadowPane' })
+    ]);
+    baseTopo.addTo(map);
+    var baseLayers = { 'Topographic': baseTopo, 'Satellite': baseSatellite };
 
     var layerColors = {};
     var overlays = {};
@@ -369,7 +375,7 @@
       });
     });
 
-    var lc = L.control.layers(null, overlays, { collapsed: true }).addTo(map);
+    var lc = L.control.layers(baseLayers, overlays, { collapsed: true }).addTo(map);
     if (window.innerWidth >= 700) lc.expand();
 
     // opacity slider for the period chart — visible only while the chart layer is on
