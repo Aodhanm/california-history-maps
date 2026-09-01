@@ -84,6 +84,11 @@ body {
 .popup .quote-en { margin: 0 0 0.3rem; color: var(--ink-soft); font-size: 0.8rem; }
 .popup .native { font-size: 0.8rem; color: var(--accent-2); margin: 0.3rem 0; }
 .popup .source { font-size: 0.78rem; color: var(--ink-soft); margin: 0.25rem 0; }
+.popup .source .ca-link { white-space: nowrap; }
+.popup .link-note { font-style: italic; opacity: 0.85; }
+/* A finding-aid popup can list a dozen manuscript links; keep it scrollable
+   instead of letting it run off the map. */
+.popup { max-height: 60vh; overflow-y: auto; }
 .popup .source a { color: var(--accent-3); }
 .popup .precision { font-size: 0.76rem; color: var(--accent); margin: 0.3rem 0 0; }
 .popup .notes { font-size: 0.76rem; color: var(--ink-soft); font-style: italic; }

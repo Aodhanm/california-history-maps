@@ -23,6 +23,11 @@ def err(msg):
 for path in sorted(glob.glob(os.path.join(ROOT, "data", "*.json"))):
     data = json.load(open(path))
     name = os.path.basename(path)
+    # Not every data/*.json is a map: hoffman-claims.json is a bare list dataset.
+    # Without this guard the whole gate dies on it with an AttributeError.
+    if not isinstance(data, dict):
+        print(f"skip {name}: not a map object ({type(data).__name__})")
+        continue
     ids = set()
     layers = {l["id"] for l in data.get("layers", [])}
     feats = list(data.get("features", []))

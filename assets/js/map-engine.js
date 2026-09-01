@@ -128,6 +128,7 @@
       if (rec) h += ' \u2014' + recordLink(rec);
       if (s.ia_leaf_url) h += ' \u2014 <a href="' + esc(s.ia_leaf_url) + '" target="_blank" rel="noopener">the manuscript leaf \u2192</a>';
       if (s.url && !rec) h += ' \u2014 <a href="' + esc(s.url) + '" target="_blank" rel="noopener">source \u2192</a>';
+      if (s.link_note) h += ' <span class="link-note">(' + esc(s.link_note) + ')</span>';
       h += '</p>';
     });
     var pl = PRECISION_LABEL[f.coord_precision || 'place'];
@@ -157,8 +158,13 @@
     return null;
   }
   function recordLink(rec, label) {
+    // Label the link with the record id. A popup can carry several manuscript
+    // links (one per cited document), so a generic 'View the record' would make
+    // them indistinguishable — the id is what a reader cites and searches on.
+    var m = /^ca(\d+)-d(\w+)$/.exec(rec || '');
+    var txt = label || (m ? 'C-A ' + m[1] + ' \u00b7 doc ' + m[2] : 'View the record');
     return ' <a class="ca-link" href="' + caUrl(rec) + '" target="_blank" rel="noopener">' +
-           (label || 'View the record') + ' \u2192</a>';
+           txt + ' \u2192</a>';
   }
 
   // ---------- filtering ----------
