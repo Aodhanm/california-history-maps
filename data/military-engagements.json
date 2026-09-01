@@ -412,7 +412,7 @@
   {
    "id": "reg-65-battle-at-la-cienega",
    "register_no": "65",
-   "name": "Battle at La Ciénega",
+   "name": "Attack at La Cieneguilla (Rivera's march)",
    "date": {
     "iso": "1769",
     "display": "1769",
@@ -422,12 +422,16 @@
     33.1,
     -117.3
    ],
-   "coord_precision": "place",
+   "coord_precision": "conjectural",
    "type": "battle",
    "layer": "phase1",
-   "summary": "From hoja de servicios of Sargento Verdugo: under Capt. Rivera, \"estuvieron el ataque que hicieron los gentiles en el parage de la Ciénega, en que se mataron 3.\"",
-   "result": "3 killed",
-   "quote": null,
+   "summary": "From the hoja de servicios of Sargento Mariano de la Luz Verdugo: in 1769 he was one of the party that, by order of Capt. Fernando de Rivera y Moncada, \"sostuvieron el ataque que hicieron los gentiles en el parage de la Cieneguilla en que se mataron 8\" — the gentiles attacked and the party withstood it, with eight of the attackers killed. Verdugo's earlier 1781 service sheet describes the same action.",
+   "result": "Attack withstood — 8 gentiles killed",
+   "quote": {
+    "es": "sostuvieron el ataque que hicieron los gentiles en el parage de la Cieneguilla en que se mataron 8",
+    "en": "they withstood the attack the gentiles made at the paraje of la Cieneguilla, in which 8 were killed",
+    "source": "C-A 15 Doc 272 (scan n200, Savage 195)"
+   },
    "sources": [
     {
      "citation": "Hoja de servicios of Sargento Mariano de la Luz Verdugo, aged 42, Monterey, 31 Dec. 1786 — Prov. St. Pap., Benicia Mil. (C-A 15), orig. p.335 / Savage pp.195–96, scan n200–n201, Doc 272.",
@@ -442,7 +446,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "I FETCHED AND READ THE LEAF ITSELF (C-A 15, scan n200, Savage stamp 195), and the map's quotation is wrong in three places. The manuscript reads: 'Campañas = \"En toda la exped.n de San Diego y Monterey, y en el año de 1769 fué uno de los de la partida que de órden del Cap.n D.n Fernando de Rivera y Moncada SOSTUVIERON el ataque que hicieron los gentiles en el parage de la CIENEGUILLA en que se mataron 8; y en...\"' Therefore: (1) the number killed is EIGHT, not three — the map's '3 killed' and its result field are wrong, and the catalog's '8 killed' is right; (2) the place is LA CIENEGUILLA, not La Ciénega — the feature name should change; (3) the verb is SOSTUVIERON ('they withstood/sustained'), not 'estuvieron', which also reverses the sense of the action: this was an attack MADE BY the gentiles which Rivera's party withstood, not a Spanish attack. The map's 'result: 3 killed' should become something like 'Spanish party withstands the attack; 8 killed'. Independent confirmation of 'Cieneguilla' comes from Verdugo's earlier 1781 service record (ca15-d82), which describes the same campaign as against 'the Cieneguilla gentiles'. CAUTION FOR THE MAP'S GEOGRAPHY: this is a 1769 action under Rivera y Moncada, whose 1769 march ran from Velicatá in Baja California to San Diego; a paraje called La Cieneguilla could lie on either side of the modern border. Nothing I read places it in Alta California, and I would not pin a coordinate without further evidence."
+   "notes": "⚠ LOCATION UNRESOLVED — the pin is a placeholder, not evidence. Corrected 2026-09-01 from the manuscript leaves themselves (C-A 15 scan n200 = Savage 195, and the parallel 1781 sheet at scan n68): the copy reads sostuvieron (not \"estuvieron\"), la Cieneguilla (not \"La Ciénega\"), and 8 killed (not 3) — the numeral is an unambiguous figure-8 at full resolution. The verb reverses the sense: the gentiles attacked and Rivera's party withstood it. On place: this is a 1769 action on Rivera y Moncada's march, and Portolá's diary (Bancroft I:135 n.16) records camping \"en la cieneguilla, cuio nombre puso el padre jesuita Lino\" on 27 May 1769 while following Rivera's route north from Velicatá; a paraje named by a Jesuit lies in BAJA CALIFORNIA, since the Jesuits never worked in Alta California. Nothing found places this fight in Alta California, so the existing coordinate is retained only as a placeholder and is marked conjectural. The pin should probably move to the Velicatá–San Diego road or the feature be reconsidered — that is Aodhan's call, so no coordinate has been invented. The permalink id (reg-65-battle-at-la-cienega) is deliberately unchanged."
   },
   {
    "id": "toypurina-s-revolt-at-san-gabriel",
