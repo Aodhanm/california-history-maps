@@ -390,7 +390,9 @@
     });
 
     (data.routes || []).forEach(function (r) {
-      var coords = (r.stops || []).map(function (s) { return s.coords; });
+      // a route may carry a dense real-corridor `path`; stops remain the named markers
+      var coords = (r.path && r.path.length) ? r.path
+                 : (r.stops || []).map(function (s) { return s.coords; });
       var line = L.polyline(coords, {
         color: r.color || '#444', weight: 3, opacity: 0.8,
         dashArray: (r.path_confidence && r.path_confidence !== 'documented') ? '8 6' : (r.dash || null)

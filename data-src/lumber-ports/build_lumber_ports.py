@@ -535,6 +535,33 @@ for (nm, p3key, yr, summary, cite) in LIGHTS:
     })
 
 # ---------------- railroads (routes) ----------------
+# Real-corridor geometry (rigor pass 2026-09-13): join by explicit prefix mapping,
+# old p3 route name -> new rail-alignments name. "Fort Bragg Railroad 1885" folds
+# into the Glen Blair branch notes (same Pudding Creek trackage origin).
+PATHS = {}
+_rp = load("rigor-rails.json")["routes"]
+_by_new = {r["name"]: r for r in _rp}
+PATH_JOIN = {
+    "Bear Harbor & Eel River Railroad (Bear Harbor Lumber Co. → Southern Humboldt Lumber Co.)": "Bear Harbor & Eel River Railroad",
+    "California Western Railroad (ex-Fort Bragg Railroad; the Skunk Train)": "California Western Railroad (Fort Bragg-Willits)",
+    "Caspar, South Fork & Eastern Railroad (Caspar Lumber Co.; ex-Jughandle RR, ex-Caspar & Hare Creek RR)": "Caspar, South Fork & Eastern Railroad",
+    "Mendocino Lumber Co. Railroad (Big River)": "Mendocino Lumber Co. Railroad (Big River)",
+    "Albion Lumber Co. line / Albion & Southeastern / Fort Bragg & Southeastern (Albion River to Wendling)": "Albion & Southeastern / Albion River Railroad",
+    "Glen Blair branch (Fort Bragg Railroad 1885 / Glen Blair Lumber Co., junction with CWR)": "Glen Blair Redwood Co. Railroad",
+    "Usal Railroad (Usal Redwood Co. / Robert Dollar)": "Usal Railroad",
+    "Crescent City & Smith River Railroad (Hobbs, Wall & Co.)": "Crescent City & Smith River Railroad (Hobbs Wall)",
+    "Arcata & Mad River Railroad (ex-Union Plank Walk, Rail Track & Wharf Co.)": "Arcata & Mad River Railroad",
+    "Humboldt Bay & Eel River Railroad / Pacific Lumber Co. (Scotia-Alton-Humboldt Bay)": "Humboldt Bay & Eel River Railroad / Pacific Lumber",
+    "Dolbeer & Carson Lumber Co. — Bucksport & Elk River Railroad": "Dolbeer & Carson / Bucksport & Elk River Railroad",
+    "Salt Point horse railroad (quarry/mill to Gerstle Cove landing)": "Salt Point horse tramway",
+    "Duncan's Landing horse tram (Duncans Mills Land & Lumber Co., Wright Ranch)": "Duncan's Landing horse tram",
+    "North Pacific Coast Railroad (Sausalito-Duncans Mills narrow gauge)": "North Pacific Coast Railroad (Sausalito-Duncans Mills)",
+}
+for old_name, new_name in PATH_JOIN.items():
+    if new_name not in _by_new:
+        sys.exit(f"RAIL JOIN FAIL: {new_name!r} missing from rigor-rails.json")
+    PATHS[old_name] = _by_new[new_name]
+
 routes = []
 RAIL_COLOR = "#7f2020"
 for r in RAILS:
@@ -550,7 +577,7 @@ for r in RAILS:
             "notes": "Waypoint source: " + w["source"],
         })
     if len(stops) < 2: continue
-    routes.append({
+    entry = {
         "id": slug(r["name"])[:60],
         "label": r["name"] + " — " + r["gauge"].split("—")[0].strip()[:60],
         "layer": "rails", "color": RAIL_COLOR,
@@ -558,7 +585,71 @@ for r in RAILS:
         "citation": "; ".join(r["sources"])[:400],
         "stops": stops,
         "notes": (r.get("notes") or "")[:500],
-    })
+    }
+    rp = PATHS.get(r["name"])
+    if rp:
+        entry["path"] = rp["path"]
+        entry["path_confidence"] = rp["confidence"] if rp["confidence"] in ("documented", "reconstructed", "conjectural") else entry["path_confidence"]
+        entry["citation"] = ("; ".join(rp["sources"] + r["sources"]))[:500]
+        entry["notes"] = ("Alignment: " + rp["path_source"][:260] + ". " + (rp.get("notes") or "")[:200] + " " + (r.get("notes") or ""))[:700]
+    routes.append(entry)
+
+# ---------------- Reed's sawmill: the Mexican-period prelude (rigor pass 2026-09-13) ----------------
+features.append({
+    "id": "reeds-sawmill-mill-valley", "name": "Reed's Sawmill (Rancho Corte Madera del Presidio) — the Mexican-period prelude",
+    "type": "mill", "layer": "industry", "radius": 6,
+    "coords": [37.9056, -122.5522], "coord_precision": "place",
+    "date": {"iso": "1834", "display": "c.1834–1843 (construction date disputed)", "confidence": "circa"},
+    "active": {"first": 1834, "last": 1849},
+    "summary": ("The first sawmill in Marin County: John Thomas Reed (Juan Read), grantee of Rancho Corte Madera "
+        "del Presidio (Figueroa, 2 Oct 1834), built a water-powered sash-saw mill in the ravine of Cascade Creek. "
+        "Its construction date is genuinely disputed: the landmark tradition (CHL No. 207) says about 1833-34, "
+        "while Munro-Fraser's detailed 1880 account says Reed 'erected his saw-mill in 1843, and had but just got "
+        "it in operation when he died' — cutting lumber for his own adobe. The rancho's name ('cut wood for the "
+        "Presidio') records the older pre-grant woodcutting trade that supplied timbers to the Presidio and Yerba "
+        "Buena, not the mill's output. No Mexican-period landing or embarcadero for the mill is attested; the "
+        "documented rafting of Richardson Bay timber is American-period (1849 on). The structure standing in Old "
+        "Mill Park today is a 1991 reconstruction."),
+    "cargo": ["redwood lumber"], "company": [],
+    "facts": [["Mill type", "water-powered sash saw (Munro-Fraser 1880:388-389)"],
+               ["Grant", "Rancho Corte Madera del Presidio, 2 Oct 1834; judicial possession 28 Nov 1835 (Hoffman's Reports, Land Case 183 ND)"],
+               ["Date dispute", "c.1833-34 (CHL 207, 1935) vs 1843 (Munro-Fraser 1880 township chapter)"]],
+    "sources": [
+        {"citation": "[P] Hoffman's Reports of Land Cases (1862), U.S. v. Heirs of Juan Read, quoted in Munro-Fraser 1880:189", "ca_record": None, "ia_leaf_url": None},
+        {"citation": "J.P. Munro-Fraser, History of Marin County (San Francisco: Alley, Bowen & Co., 1880), pp. 110-111, 385-389", "url": "https://archive.org/details/historyofmarinco00munr", "ca_record": None, "ia_leaf_url": None},
+        {"citation": "Bancroft, History of California, V, Pioneer Register, s.v. 'Read (John)'", "ca_record": None, "ia_leaf_url": None},
+        {"citation": "California Historical Landmark No. 207 (registered 20 June 1935); Mill Valley Historic Resources Inventory (2021), fn. 7", "ca_record": None, "ia_leaf_url": None}],
+    "notes": ("Coordinate = the reconstructed mill in Old Mill Park (the original site 'in the ravine' is conventionally "
+        "identified with it; the CHL plaque stands elsewhere, at Blithedale Ave & Tower Dr — do not confuse). Both "
+        "rancho diseños examined (Bancroft Land Case Maps) show no molino and no landing. Full dossier in the project research files."),
+    "tags": ["mexican-period"],
+})
+
+# ---------------- source upgrades from the audit (rigor pass 2026-09-13) ----------------
+_audit = load("rigor-audit.json")["weak_features"]
+_by_id = {f["id"]: f for f in features}
+_missing_audit = [w["id"] for w in _audit if w["id"] not in _by_id]
+if _missing_audit:
+    sys.exit("AUDIT JOIN FAIL: unknown ids: " + ", ".join(_missing_audit))
+for w in _audit:
+    f = _by_id[w["id"]]
+    have = {s["citation"] for s in f["sources"]}
+    for s in w["better_sources"]:
+        cite = ("[P] " if s["type"].startswith("primary") or s["type"] == "P" else "[S] ") + s["citation"]
+        if cite not in have:
+            e = {"citation": cite, "ca_record": None, "ia_leaf_url": None}
+            if s.get("url"): e["url"] = s["url"]
+            f["sources"].append(e)
+# audit page-cite correction: Mattole's Davidson reference
+mf = _by_id.get("mattole-wharf-sea-lion-rock")
+if mf:
+    for s in mf["sources"]:
+        s["citation"] = s["citation"].replace("p. ~280", "pp. ~300-301 (page cite corrected in the 2026-09-13 audit)")
+# Corte Madera feature: hedge the Reed mill date per the rigor findings
+cm = _by_id.get("corte-madera-creek-landings-ross-landing-baltimore-wharf")
+if cm:
+    cm["notes"] = (cm.get("notes", "") + " Reed's mill date is disputed (c.1834 landmark tradition vs 1843 in "
+                   "Munro-Fraser's detailed account) — see the Reed's Sawmill feature.")
 
 # ---------------- photos (optional overlay: photos.json in this dir) ----------------
 # {feature_id: {"url": direct-or-repo-relative, "credit": "...", "date": "...", "rights": "...", "modern": bool}}
@@ -577,7 +668,7 @@ if os.path.exists(photos_path):
 
 # ---------------- top level ----------------
 era_presets = [
-    {"label": "Pioneer era", "from": 1843, "to": 1869},
+    {"label": "Pioneer era", "from": 1834, "to": 1869},
     {"label": "Chute boom", "from": 1870, "to": 1889},
     {"label": "Steam-schooner era", "from": 1890, "to": 1913},
     {"label": "Decline", "from": 1914, "to": 1945},
@@ -606,8 +697,9 @@ data = {
         "Abe's, Uncle Abe's, Buster's, and Scott's (the last two may be one site). "
         "The sailing lumber fleet these ports loaded survives in exactly one vessel: the schooner "
         "C.A. Thayer (Bendixsen yard, Fairhaven, 1895 — search 'thayer' to follow her thread), "
-        "preserved at San Francisco's Hyde Street Pier."),
-    "date_range": [1843, 1945],
+        "preserved at San Francisco's Hyde Street Pier. "
+        "Full apparatus: see the Sources & Method page linked above the map."),
+    "date_range": [1834, 1945],
     "center": [39.3, -123.0],
     "zoom": 7,
     "cite_key": "lumberports",
@@ -620,7 +712,7 @@ data = {
         {"id": "class-deepwater", "label": "Deepwater & major wharf ports", "color": "#1f4e79"},
         {"id": "rails", "label": "Lumber railroads to tidewater", "color": RAIL_COLOR},
         {"id": "lighthouses", "label": "Lighthouses of the trade", "color": "#c9a227", "default_off": True},
-        {"id": "industry", "label": "Shipyards & feeder mills", "color": "#6b4f82", "default_off": True},
+        {"id": "industry", "label": "Shipyards, mills & feeder sites", "color": "#6b4f82", "default_off": True},
         {"id": "receiving", "label": "The receiving end (SF Bay)", "color": "#556b2f"},
     ],
     "legend_note": ("Pin size = port class (doghole → deepwater). Dashed/hollow pins are approximate. "

@@ -1,0 +1,396 @@
+{
+ "weak_features": [
+  {
+   "id": "partington-cove",
+   "problem": "Sole source is hikinginbigsur.com plus unnamed 'convergent popular accounts' \u2014 no primary or scholarly source for the 1880s tanbark landing, the tunnel, or the hoist",
+   "better_sources": [
+    {
+     "citation": "George Davidson, Pacific Coast Pilot, 4th ed. (Washington: GPO, 1889), p. 132, 'Partington and West Landing' \u2014 open anchorage 3.25 mi SE of Pfeiffer's Point; VERIFIED by full-text search (leaf 335 + index entry 'Partington Landing, 132')",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Willis L. Jepson, California Tanbark Oak, USDA Forest Service Bulletin 75 (Washington: GPO, 1911) \u2014 the tanbark trade incl. the San Mateo\u2013Santa Cruz\u2013Monterey coast district (coverage verified by full-text search)",
+     "type": "primary",
+     "url": "https://archive.org/details/californiatanbar75jeps"
+    },
+    {
+     "citation": "Paul Henson & Donald J. Usner, The Natural History of Big Sur (Berkeley: UC Press, 1993), human-history chapters",
+     "type": "secondary",
+     "url": "https://archive.org/details/naturalhistoryof00hens"
+    }
+   ],
+   "notes": "Davidson names the landing during its working life \u2014 the dataset's already-cited Coast Pilot item covers this feature and nobody noticed. Henson/Usner existence verified (IA + OpenLibrary); its specific Partington passage could not be page-verified (lending copy, fulltext API 403). Tunnel/hoist structural details should cite CA State Parks Julia Pfeiffer Burns SP records, not a hiking site."
+  },
+  {
+   "id": "notleys-landing",
+   "problem": "Wikipedia + one SFGate news story; the 1898\u20131907 village dates, cable/chute description, and schooner names (Confianza, Acme) are uncited to anything primary or scholarly",
+   "better_sources": [
+    {
+     "citation": "Jeff Norman with the Big Sur Historical Society, Big Sur (Arcadia, Images of America, 2004) \u2014 OpenLibrary OL5742601W",
+     "type": "secondary",
+     "url": "https://openlibrary.org/works/OL5742601W"
+    },
+    {
+     "citation": "Henson & Usner, The Natural History of Big Sur (UC Press, 1993)",
+     "type": "secondary",
+     "url": "https://archive.org/details/naturalhistoryof00hens"
+    },
+    {
+     "citation": "Jepson, California Tanbark Oak, USDA FS Bulletin 75 (1911) \u2014 trade context for the Monterey-coast tanbark district",
+     "type": "primary",
+     "url": "https://archive.org/details/californiatanbar75jeps"
+    }
+   ],
+   "notes": "Davidson 1889 predates the landing (a leaf-543 'NOTLEY' OCR hit is garbage). The true primary is the 1909/1917 US Coast Pilot, Pacific Coast \u2014 NOT on archive.org (only Atlantic/Alaska/Philippine volumes found); check HathiTrust. Schooner names remain unverified in any source I could reach."
+  },
+  {
+   "id": "gordons-chute-tunitas-creek",
+   "problem": "Only Pescadero Memories (hobby blog) + Wikipedia for the 1872 build and 1885 storm destruction",
+   "better_sources": [
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), 'Gordon's Chute' entry, San Mateo coast (7\u2153 mi N of Pescadero Point): 'built in 1872, was destroyed in the great southeast gale of November 17th\u2026over one hundred feet high, and securely guyed with wire-cable' \u2014 VERIFIED by full-text search (leaf 391)",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Frank M. Stanger, Sawmills in the Redwoods: Logging on the San Francisco Peninsula, 1849\u20131967 (San Mateo County Historical Assn., 1967) \u2014 OpenLibrary OL7023368W (not online)",
+     "type": "secondary",
+     "url": "https://openlibrary.org/works/OL7023368W"
+    }
+   ],
+   "notes": "Davidson alone covers BOTH load-bearing dates in one primary passage \u2014 this feature can be fully rescued from the item the dataset already cites for 40 other features."
+  },
+  {
+   "id": "davenport-landing",
+   "problem": "Santa Cruz Waves (lifestyle magazine) + Wikipedia only; the 450-ft wharf figure, 1868 date, and 'one of the best landings' quotation are untraceable to any listed source",
+   "better_sources": [
+    {
+     "citation": "Donald T. Clark, Santa Cruz County Place Names: A Geographical Dictionary (Santa Cruz Historical Society, 1986) \u2014 OpenLibrary OL4108490W",
+     "type": "secondary",
+     "url": "https://openlibrary.org/works/OL4108490W"
+    },
+    {
+     "citation": "Edward Martin, History of Santa Cruz County, California (1911) \u2014 Davenport and north-coast town coverage (verified hits)",
+     "type": "secondary",
+     "url": "https://archive.org/details/historyofsantac00mart"
+    },
+    {
+     "citation": "Derek R. Whaley's santacruztrains.com Davenport/coastal-shipping articles \u2014 use its CITED sources per the semi-scholarly rule, not the page itself",
+     "type": "secondary",
+     "url": "https://www.santacruztrains.com/2025/01/curiosities-coastal-shipping.html"
+    }
+   ],
+   "notes": "Verified NEGATIVE result: 'Davenport' has zero hits in both cited Coast Pilots (1869 and 1889 IA copies) \u2014 the wharf's life (1868\u2013c.1880) falls between edition field dates, so no Coast Pilot primary exists; Harrison 1892 has only incidental hits. This feature genuinely lacks an accessible primary; say so rather than laundering Wikipedia."
+  },
+  {
+   "id": "santa-cruz-wharves",
+   "problem": "Three santacruztrains.com posts + Aptos History Museum blog; per the audit rule santacruztrains is semi-scholarly and its underlying sources should be cited for the wharf sequence, Railroad Wharf 1875-76, and the interpretive claim that sea-borne lumber ended a generation early",
+   "better_sources": [
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889) Santa Cruz entry, and Coast Pilot (1869) Santa Cruz anchorage \u2014 port state as of the 1867-69 and 1885-87 surveys",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Rick Hamman, California Central Coast Railways (Boulder: Pruett, 1980) \u2014 SC&F/South Pacific Coast rail-to-wharf history",
+     "type": "secondary",
+     "url": "https://archive.org/details/californiacentra0000hamm"
+    },
+    {
+     "citation": "Edward Martin, History of Santa Cruz County (1911) \u2014 Elihu Anthony's first wharf (verified hit, leaf 58)",
+     "type": "secondary",
+     "url": "https://archive.org/details/historyofsantac00mart"
+    }
+   ],
+   "notes": "The 'ends a generation before the North Coast' framing is interpretive synthesis \u2014 attribute it to the compiler in the methods page or to a named secondary, not to the wharf sources."
+  },
+  {
+   "id": "redwood-city-embarcadero-bayside-reference-point",
+   "problem": "Single source, admitted 'not directly consulted,' no URL",
+   "better_sources": [
+    {
+     "citation": "Frank M. Stanger, Sawmills in the Redwoods (San Mateo County Historical Assn., 1967) \u2014 catalog record; not digitized, consult via SMCHA/library",
+     "type": "secondary",
+     "url": "https://openlibrary.org/works/OL7023368W"
+    }
+   ],
+   "notes": "At minimum attach the catalog record so the citation is checkable; better, read the relevant chapter and add page numbers, or relabel the feature explicitly as 'context, sourced at second hand.'"
+  },
+  {
+   "id": "port-kenyon",
+   "problem": "Cal Poly Humboldt Special Collections web page + Wikipedia; the 1876 founding, wharf/warehouse, and Whitelaw claims lack primary or county-history anchoring",
+   "better_sources": [
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), Eel River section: 'The steamers have a landing at Port Kenyon, three and a half miles up Salt Slough\u2026' \u2014 VERIFIED (leaf 675)",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "W. W. Elliott, History of Humboldt County, California (1881): J. G. Kenyon 'the original owner of the land upon which the shipping point known as Port Kenyon is situated' + Salt River navigability \u2014 VERIFIED (leaves 202, 252; index pp. 126, 158, 196)",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofhumbold00wwel"
+    },
+    {
+     "citation": "Leigh H. Irvine, History of Humboldt County, California (1915) \u2014 Port Kenyon references",
+     "type": "secondary",
+     "url": "https://archive.org/details/historyofhumbold00irvi"
+    }
+   ],
+   "notes": "Elliott 1881 is contemporary with the port's founding and directly covers Kenyon's bar-navigability campaign \u2014 exactly the claims the summary makes."
+  },
+  {
+   "id": "usal",
+   "problem": "Palmer 1880 predates the industrial town; every 1889-1902 claim (mill, wharf, railroad, Dollar) rests on Wikipedia plus a FoundSF lead the dataset admits is blocked",
+   "better_sources": [
+    {
+     "citation": "Robert Dollar, Memoirs of Robert Dollar (San Francisco, 1917): 'In 1893 I started up a mill and lumbering establishment at Usal, in Mendocino County\u2026and ran it for six years,' plus the Newsboy wharf narrative \u2014 VERIFIED (leaf 49)",
+     "type": "primary",
+     "url": "https://archive.org/details/memoirsofrobertd01dollrich"
+    }
+   ],
+   "notes": "This primary RESOLVES the discrepancy the summary flags (Wikipedia's 1889 Dollar-built vs 1894 acquisition): Dollar's own date for starting at Usal is 1893. Also check the MPDF inventory for a Usal entry \u2014 Mendocino County is in its scope and the feature currently doesn't cite it."
+  },
+  {
+   "id": "fields-landing",
+   "problem": "sunnyfortuna.com (hobby rail site) + Wikipedia + a historical-society blog nugget; no primary or scholarly source for the 1884 spur, the wharf, or Pacific Lumber's use",
+   "better_sources": [
+    {
+     "citation": "Irvine, History of Humboldt County (1915): 'Fields Landing or South Bay is but six miles south of Eureka\u2026next to Eureka so far as shipping is concerned' \u2014 VERIFIED (leaf 151)",
+     "type": "secondary",
+     "url": "https://archive.org/details/historyofhumbold00irvi"
+    },
+    {
+     "citation": "Fred A. Stindt, The Northwestern Pacific Railroad (1964) \u2014 the standard reference for ER&E/NWP corporate history",
+     "type": "secondary",
+     "url": "https://archive.org/details/northwesternpaci0000fred"
+    }
+   ],
+   "notes": "The 1940-51 whaling station is outside the map's subject period; consider trimming rather than sourcing it."
+  },
+  {
+   "id": "bucksport",
+   "problem": "Wikipedia is the lead source for the railroad and corporate claims (D&C 1885 line, B&ER 1932); Davidson covers only the wharf",
+   "better_sources": [
+    {
+     "citation": "W. W. Elliott, History of Humboldt County (1881), Bucksport coverage \u2014 VERIFIED (index pp. 95, 110, 150)",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofhumbold00wwel"
+    },
+    {
+     "citation": "Edwin C. Bearss, Redwood National Park: History Basic Data (NPS, 1969), ch. X \u2014 cite via Wayback snapshot; the live nps.gov/parkhistory URL now redirects to a generic page",
+     "type": "secondary",
+     "url": "https://web.archive.org/web/2021/https://www.nps.gov/parkhistory/online_books/redw/history10a.htm"
+    }
+   ],
+   "notes": "The 1932 B&ER incorporation and 1953 truck conversion still need a rail source (Stindt 1964, above, likely covers)."
+  },
+  {
+   "id": "samoa",
+   "problem": "The two load-bearing corporate sources are Wikipedia articles ($1M Hammond purchase, O&E RR dates, WWI shipyard)",
+   "better_sources": [
+    {
+     "citation": "Greg Gordon, When Money Grew on Trees: A. B. Hammond and the Age of the Timber Baron (Norman: U Oklahoma Press, 2014) \u2014 the scholarly biography covering the Vance purchase, Samoa mill, and Hammond's rail/shipping system",
+     "type": "secondary",
+     "url": "https://archive.org/details/whenmoneygrewont0000gord"
+    }
+   ],
+   "notes": "Keep the OAC finding aid and Cal Poly Humboldt page; swap both Wikipedia cites for Gordon 2014 with page numbers."
+  },
+  {
+   "id": "big-lagoon-feeder",
+   "problem": "Wikipedia + Lost Coast Outpost (news blog) only",
+   "better_sources": [
+    {
+     "citation": "Greg Gordon, When Money Grew on Trees (2014) \u2014 Hammond's logging railroads north of Samoa, the 1945 fire, and the Crannell salvage operation",
+     "type": "secondary",
+     "url": "https://archive.org/details/whenmoneygrewont0000gord"
+    }
+   ],
+   "notes": "Feature is a negative finding (not an ocean shipping point) \u2014 one scholarly cite suffices."
+  },
+  {
+   "id": "corte-madera-creek-landings-ross-landing-baltimore-wharf",
+   "problem": "Two museum-blog posts (Marin History Museum, Anne T. Kent Room newsletter) \u2014 no county history or primary",
+   "better_sources": [
+    {
+     "citation": "J. P. Munro-Fraser, History of Marin County, California (San Francisco: Alley, Bowen & Co., 1880) \u2014 Baltimore & Frederick Trading and Mining Company (1849 steam mill) and Ross Landing \u2014 VERIFIED by full-text search",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofmarinco00munr"
+    }
+   ],
+   "notes": "The 1880 county history covers both named landings and the Cape Horn mill story directly; the blog posts can stay as accessible glosses."
+  },
+  {
+   "id": "tomales-keys-creek",
+   "problem": "Marin History Museum blog + Tomales Regional History Center page only",
+   "better_sources": [
+    {
+     "citation": "Munro-Fraser, History of Marin County (1880), Tomales Township: Keys Creek estero, John Keys, Warren Dutton \u2014 VERIFIED by full-text search",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofmarinco00munr"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), Tomales Bay entry",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    }
+   ],
+   "notes": "NPC narrow-gauge claims can additionally cite Stindt 1964 (NWP absorbed the NPC records)."
+  },
+  {
+   "id": "bodega-bay",
+   "problem": "The Stephen Smith 1843 first-steam-sawmill claim rests on an HMDB marker and Wikipedia; Davidson covers only the 1889 harbor state",
+   "better_sources": [
+    {
+     "citation": "History of Sonoma County (San Francisco: Alley, Bowen & Co. [Munro-Fraser], 1880): 'Bodega Port \u2014 This was a shipping place at the head of the bay\u2026' + Stephen Smith and the Fayaway \u2014 VERIFIED by full-text search (leaf 236 and passim)",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofsonomac00alle"
+    }
+   ],
+   "notes": "This is the same county-history tier the Mendocino features already use (Palmer 1880); it closes the tertiary-only gap on the mill claim."
+  },
+  {
+   "id": "san-simeon",
+   "problem": "The wharf (1878, 1,000 ft) and quicksilver-tonnage claims cite visitsansimeonca.com, a visitor bureau",
+   "better_sources": [
+    {
+     "citation": "Myron Angel, History of San Luis Obispo County, California (Oakland: Thompson & West, 1883) \u2014 San Simeon township/wharf and mining chapters \u2014 VERIFIED by full-text search",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofsanluis00ange"
+    }
+   ],
+   "notes": "Keep Davidson 1889 pp. 120-121 for the bay; move the Hearst wharf and mercury figures onto Angel 1883 with page numbers, or mark them unverified."
+  },
+  {
+   "id": "leffingwell-landing-cambria",
+   "problem": "Leffingwell settlement/sawmill claims rest solely on the Cambria Historical Society web page (Davidson covers only the landing's existence)",
+   "better_sources": [
+    {
+     "citation": "Myron Angel, History of San Luis Obispo County (1883) \u2014 Cambria chapter and William Leffingwell Sr. \u2014 VERIFIED by full-text search (11 Leffingwell hits, Cambria chapter)",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofsanluis00ange"
+    }
+   ],
+   "notes": "Low-effort upgrade: same volume as San Simeon."
+  },
+  {
+   "id": "oakland-estuary-lumber-yards",
+   "problem": "The E.K. Wood corporate history (yard dates, incorporation, dock locations) rests on Oakland LocalWiki, an open wiki",
+   "better_sources": [
+    {
+     "citation": "Thomas R. Cox, Mills and Markets: A History of the Pacific Coast Lumber Industry to 1900 (Seattle: U Washington Press, 1974) \u2014 the scholarly study of the trade's marketing/receiving end",
+     "type": "secondary",
+     "url": "https://archive.org/details/millsmarketshist0000coxt"
+    },
+    {
+     "citation": "HAER No. CA-61, C.A. Thayer, data pages (Library of Congress) \u2014 E.K. Wood fleet operations; already cited in this dataset at feature bendixsen-shipyard-fairhaven",
+     "type": "primary",
+     "url": "https://www.loc.gov/item/ca1201/"
+    }
+   ],
+   "notes": "The OAC Lassen log finding aid is good \u2014 keep it; replace LocalWiki, or demote it to 'lead.'"
+  },
+  {
+   "id": "san-francisco-lumber-wharves-and-yards-the-receiving-end",
+   "problem": "keith-skinner.com (personal site) carries part of the load and the structural claims about the dealer/receiving system have no scholarly frame",
+   "better_sources": [
+    {
+     "citation": "Cox, Mills and Markets (1974) \u2014 cargo consignment, dealer row, and fleet ownership structure of the SF receiving trade to 1900",
+     "type": "secondary",
+     "url": "https://archive.org/details/millsmarketshist0000coxt"
+    }
+   ],
+   "notes": "Bear Harbor NR nomination + Forest History Today already cover the specific 1887-directory and 1906 claims; Cox supplies the missing synthesis tier. Not flagging those claims, only the frame and the personal-site cite."
+  },
+  {
+   "id": "mattole-wharf-sea-lion-rock",
+   "problem": "All 1908-14 wharf/railroad detail rests on the Mattole Valley Historical Society blog, and the [P] Davidson cite gives a wrong page ('p. ~280'; Mattole/Punta Gorda text is at pp. ~300-301, leaves 594/638 \u2014 verified)",
+   "better_sources": [
+    {
+     "citation": "W. W. Elliott, History of Humboldt County (1881), 'Point Gorda and Mattole River' coast description and Mattole township \u2014 VERIFIED by full-text search (leaf 25 ff.)",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofhumbold00wwel"
+    }
+   ],
+   "notes": "MVHS is a legitimate local society and can stay for the 1908-14 specifics (it quotes the Clark contract and Vulcan records), but fix the Davidson page and add Elliott for the pre-wharf context. Irvine 1915 has no 'Mattole Lumber' hits (verified negative)."
+  },
+  {
+   "id": "point-arena-lighthouse",
+   "problem": "Sources are 'USCG Historian's Office; lighthousefriends.com' with no URL \u2014 a hobby site and an unlinked institutional name",
+   "better_sources": [
+    {
+     "citation": "Point Arena Light Station, National Register listed 7/16/1991 (Light Stations of California MPS) \u2014 CA OHP listed-resource record N1701 \u2014 VERIFIED live",
+     "type": "primary",
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N1701"
+    },
+    {
+     "citation": "Ralph Shanks & Janetta Thompson Shanks, Lighthouses and Lifeboats on the Redwood Coast (San Anselmo: Costano Books, 1978)",
+     "type": "secondary",
+     "url": "https://archive.org/details/lighthouseslifeb00shan"
+    }
+   ],
+   "notes": "The 1870 first-lighting and 1906 rebuild are both in the NR nomination; retrieve the nomination PDF via NPGallery from the OHP record."
+  },
+  {
+   "id": "trinidad-head-lighthouse",
+   "problem": "Trinidad Museum + unlinked USCG + lighthousefriends \u2014 no register record or scholarly source",
+   "better_sources": [
+    {
+     "citation": "Trinidad Head Light Station, National Register listed 9/3/1991 \u2014 CA OHP listed-resource record N1720 \u2014 VERIFIED live",
+     "type": "primary",
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N1720"
+    },
+    {
+     "citation": "Shanks & Shanks, Lighthouses and Lifeboats on the Redwood Coast (1978)",
+     "type": "secondary",
+     "url": "https://archive.org/details/lighthouseslifeb00shan"
+    }
+   ],
+   "notes": "December 1871 first lighting is in the NR documentation; the lumber-roadstead linkage is also supported by Davidson 1869 pp. 103-104, already cited at the trinidad port feature."
+  },
+  {
+   "id": "punta-gorda-lighthouse",
+   "problem": "lighthousefriends.com + historic-structures.com \u2014 both hobby sites, nothing official at all",
+   "better_sources": [
+    {
+     "citation": "Punta Gorda Light Station, National Register listed 9/1/1976 \u2014 CA OHP listed-resource record N435 \u2014 VERIFIED live",
+     "type": "primary",
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N435"
+    },
+    {
+     "citation": "Shanks & Shanks, Lighthouses and Lifeboats on the Redwood Coast (1978) \u2014 covers Punta Gorda's construction and the wreck sequence incl. the 1907 Columbia/San Pedro collision",
+     "type": "secondary",
+     "url": "https://archive.org/details/lighthouseslifeb00shan"
+    }
+   ],
+   "notes": "The Columbia disaster claim should cite Shanks or the USLHS literature with a page, not remain free-floating."
+  },
+  {
+   "id": "point-cabrillo-lighthouse",
+   "problem": "pointcabrillo.org + an unlinked USLHS Keeper's Log citation; USLHS is acceptable per the audit rules but the citation is unverifiable as written (no issue/date/URL)",
+   "better_sources": [
+    {
+     "citation": "Point Cabrillo Light Station, National Register listed 9/3/1991 \u2014 CA OHP listed-resource record N1723 \u2014 VERIFIED live",
+     "type": "primary",
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N1723"
+    }
+   ],
+   "notes": "Mildest lighthouse flag: the 1909 doghole-protection purpose is exactly what the NR nomination documents; also complete the Keeper's Log citation with volume/issue."
+  },
+  {
+   "id": "peterson-shipyard-little-river",
+   "problem": "Kelley House museum article cited without URL; NOAA page is general, not shipyard-specific",
+   "better_sources": [
+    {
+     "citation": "Lyman L. Palmer, History of Mendocino County (1880), Little River shipbuilding lists \u2014 the same IA item this dataset already cites at little-river-landing",
+     "type": "primary",
+     "url": "https://archive.org/details/historyofmendoci00palm"
+    }
+   ],
+   "notes": "Marginal flag: Palmer's contemporary vessel lists are the checkable core for Petersen's output; add the Kelley House URL or mark it 'consulted offline.'"
+  }
+ ],
+ "methods_notes": "A rigorous Sources & Method page must state: (1) MPDF DRAFT STATUS \u2014 the dataset's backbone, Marx & Jaffke's Northern California Doghole Ports Maritime Cultural Landscape MPDF (CA DPR/OHP), is cited as a DRAFT multiple-property nomination; its inventory numbers, page numbers, and even inclusion decisions can change before listing, and eight features (northport, pallas-bay, bromley-gulch, big-gulch, henleys, chisholm, joe-tongues, stockhoff-cove) rest on bare 'X, via the MPDF' strings with no URL \u2014 i.e., primary sources (Davidson pages, Clark, Rudy, Carranco & Labbe, T-sheets) quoted at second hand and never independently opened. The page must distinguish 'read directly' ([P] tags) from 'inherited from the MPDF inventory.' (2) COAST PILOT DATE LAG \u2014 Davidson 1869 reflects field reconnaissance of c.1867-69 and the 1889 4th edition field data of c.1885-87; a port 'active' or 'abandoned' in the 1889 text is dated to the survey, not the imprint, and ports founded after ~1887 (Notley's 1898, Mattole wharf 1908, Walsh's 1889+) are structurally invisible in it \u2014 absence from Davidson is not evidence of absence. Post-1889 landings need the 1903/1909/1917 US Coast Pilot, which is not on archive.org (verified: only Atlantic/Alaska/Philippine volumes) and is cited in this dataset only at second hand via NOAA. (3) FOUR-TIER CLASSIFICATION BASIS \u2014 the chute-only/pier/river-bar/deepwater tiers must each name their evidentiary warrant: the doghole vessel-size/tonnage ceiling from Walter A. Jackson, The Doghole Schooners (1977; catalog record verified, OpenLibrary OL4449329W \u2014 not online, so the methods page must give the catalog record); pier vs chute assignments from MPDF inventory structure counts and Davidson's loading descriptions; river-bar practice from the HAER No. CA-61 (C.A. Thayer) data pages on bar-harbor passage (loc.gov/item/ca1201); deepwater status from engineered-harbor evidence (Humboldt jetties per Magoon et al., ICCE). State that a class resting on a single T-sheet or one adjectival phrase carries lower confidence, and that the classification of ports with no surviving structure description is inferential. (4) COORDINATE PROVENANCE \u2014 the JSON's coord_precision vocabulary ('place', etc.) must be defined with an error radius and a per-feature provenance regime: T-sheet/Coast Pilot bearing, GNIS name, or visual aerial placement; cliff-edge doghole sites shift interpretation materially at 100 m error. (5) COVERAGE ASYMMETRY \u2014 Mendocino/Sonoma features inherit a dense professional apparatus (MPDF, NOAA GFNMS pages, Fort Ross research design, Palmer 1880); Humboldt/Del Norte lean on Bearss and county histories; Marin, San Mateo, Santa Cruz, Big Sur, and SLO features were assembled from museum blogs, visitor bureaus, Wikipedia, and hobby sites. Uniform symbology masks a non-uniform evidence base \u2014 publish a per-feature source-tier field (primary-read / primary-via-secondary / tertiary-only). (6) SUPERLATIVES POLICY \u2014 'highest and longest' (Needle Rock, from an 1898 Chronicle item quoted in the MPDF) and kindred first/largest claims must stay attributed to their newspaper-era sources, never flattened to fact. (7) LINK ROT AND ACCESS \u2014 the NPS parkhistory online_books URLs for Bearss (cited at four features) now redirect to a generic Park History page (verified); cite Wayback snapshots with capture dates. FoundSF is blocked to scripted fetch (already flagged in-dataset); Calisphere is bot-blocked (leads only); IA lending books (Cox, Shanks, Stindt, Hamman, Gordon, Henson) verify at catalog level but resist page-level remote verification. (8) PHOTO RIGHTS REGIME \u2014 state explicitly that MCMRHS, Kelley House, HMDB, lighthousefriends, and news-site images are NOT cleared for reuse and that the map embeds none of them; HABS/HAER, NOAA, NPS, and USCG images are US-government public domain; pre-1930 county-history plates are public domain; Arcadia and UC Press illustrations remain in copyright. (9) One factual correction found in passing: the mattole feature's [P] Davidson cite says 'p. ~280' but the Mattole/Punta Gorda text sits at ~pp. 300-301; a systematic page audit of all [P] Davidson cites has not been run and should be disclosed as pending.",
+ "gaps": "Verification gaps in this audit: (1) WebSearch budget was exhausted (200/200) before the lighthouse round; lighthouse NR statuses were instead verified against live CA OHP listed-resources pages (Humboldt, Mendocino, Del Norte county lists fetched) \u2014 St. George Reef confirmed NR-listed 12/9/1993 (OHP record N1853, consistent with the dataset's #93001373; add URL https://ohp.parks.ca.gov/ListedResources/Detail/N1853), but the USCG Historian's Office page URL for feature 86-87 citations was never located and remains an unlinked institutional name. (2) Lending-restricted IA books (Cox 1974, Shanks 1978, Stindt 1964, Hamman 1980, Gordon 2014, Henson & Usner 1993) were verified to EXIST via IA/OpenLibrary catalog records, but their specific page-level coverage of the claims could not be confirmed remotely (fulltext API 403) \u2014 flagged per-feature where it matters (Henson's Partington/Notley passages, Shanks's Columbia wreck account). (3) The Pacific-coast 1909/1917 US Coast Pilot \u2014 the missing primary for post-1889 landings (Notley's, Fields Landing, Walsh's) \u2014 was not found on archive.org; HathiTrust should be checked next. (4) The MPDF PDF itself was not text-extracted, so whether its inventory includes Usal and Walsh's entries is unchecked. (5) The routes and unlocated arrays and the hover_labels/era_presets prose were not audited \u2014 only data.features. (6) Google Books API hit its shared daily quota, killing snippet-level verification of the Arcadia/UC Press Big Sur books. (7) ~27 Mendocino features pass unflagged under the MPDF/Davidson umbrella rule, but their post-1889 operational claims (Fort Bragg last sea cargo 1938, Caspar steamship end 1939, Laguna 1904 closure, Greenwood 1932/1936 dates) trace only to MCMRHS/Wikipedia pages; a second-tier sweep anchoring these in Carranco & Labbe, Logging the Redwoods (1975) and Jackson 1977 is recommended but was out of scope. (8) Negative findings worth registering: 'Davenport' absent from both cited Coast Pilots (0 full-text hits in 1869 and 1889 IA copies); Jepson's 1911 tanbark bulletin names the district but not Partington/Notley individually; Irvine 1915 has no 'Mattole Lumber' hits; Bearss ch. X.A (Wayback copy) does not mention Big Lagoon/Samoa/Bucksport by name in that subchapter \u2014 the other X-subchapters were not individually grepped. Working files: /private/tmp/claude-501/-Users-aodhan/5cb0858e-1b33-4cdb-a8f8-06d8ea288992/scratchpad/lumber-ports.json and features-sources.txt."
+}

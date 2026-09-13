@@ -87,3 +87,6 @@ Routes draw a polyline through their stops' coords, in order. `path_confidence` 
   data when omitted.
 - `map.unlocated` — features documented but deliberately NOT pinned (no coords); listed in the
   About panel. The engine ignores this key; check_counts does not require coords for it.
+- `route.path` — optional dense `[[lat,lon], …]` polyline following the real corridor; when
+  present it replaces the stop-to-stop line (stops keep their markers). Added for lumber-ports
+  railroads 2026-09-13.

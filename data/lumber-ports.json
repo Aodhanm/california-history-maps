@@ -2,9 +2,9 @@
  "id": "lumber-ports",
  "title": "Lumber Ports of the California Coast",
  "subtitle": "Doghole chutes to deepwater harbors, c.1850–1940 — with the railroads that fed them",
- "abstract": "Every documented lumber shipping point on the California coast, from chute-only dogholes where two-masted schooners moored under a cliff to the deepwater mills of Humboldt Bay — with the loading technology (trough chute, wire chute, pier), the operating companies, the cargo streams (sawn redwood, railroad ties, tanoak bark, split stuff, cordwood, Douglas fir, farm produce), the logging railroads that reached tidewater, and the lighthouses this deadly trade built. Pin size shows the four-tier port classification; filters cut by class, cargo, and company; era buttons snap the timeline to the trade's four periods. The Sonoma-Mendocino core follows the NRHP Northern California Doghole Ports Maritime Cultural Landscape inventory (57 ports, draft 2021) with dates keyed to the U.S. Coast Pilot editions (1869, 1889, 1909); dates are circa and lag reality by their source's edition. Coordinates carry per-pin provenance (GNIS records, Coast Pilot verbal geometry, NRHP archaeology) and were validated against the inventory's own north-to-south ordering and Davidson's stated inter-port distances. COVERAGE IS ASYMMETRIC: no inventory of comparable rigor exists for Humboldt, Del Norte, or the coast south of the Golden Gate; those zones are assembled from county histories, NPS studies, and the Coast Pilots, and are necessarily less complete. Six documented ports have no confirmed location and are deliberately not pinned: Monroe, Devilbliss, the Unnamed Landing near Uncle Abe's, Uncle Abe's, Buster's, and Scott's (the last two may be one site). The sailing lumber fleet these ports loaded survives in exactly one vessel: the schooner C.A. Thayer (Bendixsen yard, Fairhaven, 1895 — search 'thayer' to follow her thread), preserved at San Francisco's Hyde Street Pier.",
+ "abstract": "Every documented lumber shipping point on the California coast, from chute-only dogholes where two-masted schooners moored under a cliff to the deepwater mills of Humboldt Bay — with the loading technology (trough chute, wire chute, pier), the operating companies, the cargo streams (sawn redwood, railroad ties, tanoak bark, split stuff, cordwood, Douglas fir, farm produce), the logging railroads that reached tidewater, and the lighthouses this deadly trade built. Pin size shows the four-tier port classification; filters cut by class, cargo, and company; era buttons snap the timeline to the trade's four periods. The Sonoma-Mendocino core follows the NRHP Northern California Doghole Ports Maritime Cultural Landscape inventory (57 ports, draft 2021) with dates keyed to the U.S. Coast Pilot editions (1869, 1889, 1909); dates are circa and lag reality by their source's edition. Coordinates carry per-pin provenance (GNIS records, Coast Pilot verbal geometry, NRHP archaeology) and were validated against the inventory's own north-to-south ordering and Davidson's stated inter-port distances. COVERAGE IS ASYMMETRIC: no inventory of comparable rigor exists for Humboldt, Del Norte, or the coast south of the Golden Gate; those zones are assembled from county histories, NPS studies, and the Coast Pilots, and are necessarily less complete. Six documented ports have no confirmed location and are deliberately not pinned: Monroe, Devilbliss, the Unnamed Landing near Uncle Abe's, Uncle Abe's, Buster's, and Scott's (the last two may be one site). The sailing lumber fleet these ports loaded survives in exactly one vessel: the schooner C.A. Thayer (Bendixsen yard, Fairhaven, 1895 — search 'thayer' to follow her thread), preserved at San Francisco's Hyde Street Pier. Full apparatus: see the Sources & Method page linked above the map.",
  "date_range": [
-  1843,
+  1834,
   1945
  ],
  "center": [
@@ -49,7 +49,7 @@
   },
   {
    "id": "industry",
-   "label": "Shipyards & feeder mills",
+   "label": "Shipyards, mills & feeder sites",
    "color": "#6b4f82",
    "default_off": true
   },
@@ -63,7 +63,7 @@
  "era_presets": [
   {
    "label": "Pioneer era",
-   "from": 1843,
+   "from": 1834,
    "to": 1869
   },
   {
@@ -3986,10 +3986,16 @@
      "url": "https://mattolehistory.wordpress.com/category/tanbark-and-wharf/"
     },
     {
-     "citation": "[P] Davidson, Pacific Coast Pilot (1889), p. ~280 (Mattole River breaking through the coast barrier; steam-schooner class described for these northern outports) - read directly",
+     "citation": "[P] Davidson, Pacific Coast Pilot (1889), pp. ~300-301 (page cite corrected in the 2026-09-13 audit) (Mattole River breaking through the coast barrier; steam-schooner class described for these northern outports) - read directly",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[P] W. W. Elliott, History of Humboldt County (1881), 'Point Gorda and Mattole River' coast description and Mattole township — VERIFIED by full-text search (leaf 25 ff.)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofhumbold00wwel"
     }
    ],
    "active": {
@@ -4171,6 +4177,18 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[P] W. W. Elliott, History of Humboldt County (1881), Bucksport coverage — VERIFIED (index pp. 95, 110, 150)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofhumbold00wwel"
+    },
+    {
+     "citation": "[S] Edwin C. Bearss, Redwood National Park: History Basic Data (NPS, 1969), ch. X — cite via Wayback snapshot; the live nps.gov/parkhistory URL now redirects to a generic page",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://web.archive.org/web/2021/https://www.nps.gov/parkhistory/online_books/redw/history10a.htm"
     }
    ],
    "active": {
@@ -4239,6 +4257,18 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.humboldthistory.org/history-nuggets/2020/11/19/ship-building-on-humboldt-bay"
+    },
+    {
+     "citation": "[S] Irvine, History of Humboldt County (1915): 'Fields Landing or South Bay is but six miles south of Eureka…next to Eureka so far as shipping is concerned' — VERIFIED (leaf 151)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofhumbold00irvi"
+    },
+    {
+     "citation": "[S] Fred A. Stindt, The Northwestern Pacific Railroad (1964) — the standard reference for ER&E/NWP corporate history",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/northwesternpaci0000fred"
     }
    ],
    "active": {
@@ -4319,6 +4349,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://oac.cdlib.org/findaid/ark:/13030/c8sj1rxr"
+    },
+    {
+     "citation": "[S] Greg Gordon, When Money Grew on Trees: A. B. Hammond and the Age of the Timber Baron (Norman: U Oklahoma Press, 2014) — the scholarly biography covering the Vance purchase, Samoa mill, and Hammond's rail/shipping system",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/whenmoneygrewont0000gord"
     }
    ],
    "active": {
@@ -4807,13 +4843,19 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.marinhistory.org/blog/rosslanding/"
+    },
+    {
+     "citation": "[P] J. P. Munro-Fraser, History of Marin County, California (San Francisco: Alley, Bowen & Co., 1880) — Baltimore & Frederick Trading and Mining Company (1849 steam mill) and Ross Landing — VERIFIED by full-text search",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofmarinco00munr"
     }
    ],
    "active": {
     "first": 1849,
     "last": 1870
    },
-   "notes": "Solid local-archival sources (Anne T. Kent California Room); volumes unquantified. Coordinate source: GNIS 1658892 (Kentfield populated place); marinhistory.org 'Ross Landing' (Scott Fletcher)"
+   "notes": "Solid local-archival sources (Anne T. Kent California Room); volumes unquantified. Coordinate source: GNIS 1658892 (Kentfield populated place); marinhistory.org 'Ross Landing' (Scott Fletcher) Reed's mill date is disputed (c.1834 landmark tradition vs 1843 in Munro-Fraser's detailed account) — see the Reed's Sawmill feature."
   },
   {
    "id": "tomales-keys-creek",
@@ -4867,6 +4909,18 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.tomaleshistory.com/the-region"
+    },
+    {
+     "citation": "[P] Munro-Fraser, History of Marin County (1880), Tomales Township: Keys Creek estero, John Keys, Warren Dutton — VERIFIED by full-text search",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofmarinco00munr"
+    },
+    {
+     "citation": "[P] Davidson, Pacific Coast Pilot (1889), Tomales Bay entry",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/cihm_15816"
     }
    ],
    "active": {
@@ -5068,6 +5122,18 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://en.wikipedia.org/wiki/Tunitas_Creek"
+    },
+    {
+     "citation": "[P] Davidson, Pacific Coast Pilot (1889), 'Gordon's Chute' entry, San Mateo coast (7⅓ mi N of Pescadero Point): 'built in 1872, was destroyed in the great southeast gale of November 17th…over one hundred feet high, and securely guyed with wire-cable' — VERIFIED by full-text search (leaf 391)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[S] Frank M. Stanger, Sawmills in the Redwoods: Logging on the San Francisco Peninsula, 1849–1967 (San Mateo County Historical Assn., 1967) — OpenLibrary OL7023368W (not online)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://openlibrary.org/works/OL7023368W"
     }
    ],
    "active": {
@@ -5132,6 +5198,24 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://en.wikipedia.org/wiki/Davenport,_California"
+    },
+    {
+     "citation": "[S] Donald T. Clark, Santa Cruz County Place Names: A Geographical Dictionary (Santa Cruz Historical Society, 1986) — OpenLibrary OL4108490W",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://openlibrary.org/works/OL4108490W"
+    },
+    {
+     "citation": "[S] Edward Martin, History of Santa Cruz County, California (1911) — Davenport and north-coast town coverage (verified hits)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofsantac00mart"
+    },
+    {
+     "citation": "[S] Derek R. Whaley's santacruztrains.com Davenport/coastal-shipping articles — use its CITED sources per the semi-scholarly rule, not the page itself",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://www.santacruztrains.com/2025/01/curiosities-coastal-shipping.html"
     }
    ],
    "active": {
@@ -5207,6 +5291,24 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://aptoshistory.org/?p=589"
+    },
+    {
+     "citation": "[P] Davidson, Pacific Coast Pilot (1889) Santa Cruz entry, and Coast Pilot (1869) Santa Cruz anchorage — port state as of the 1867-69 and 1885-87 surveys",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[S] Rick Hamman, California Central Coast Railways (Boulder: Pruett, 1980) — SC&F/South Pacific Coast rail-to-wharf history",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/californiacentra0000hamm"
+    },
+    {
+     "citation": "[S] Edward Martin, History of Santa Cruz County (1911) — Elihu Anthony's first wharf (verified hit, leaf 58)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofsantac00mart"
     }
    ],
    "active": {
@@ -5267,6 +5369,12 @@
      "citation": "Frank M. Stanger, Sawmills in the Redwoods (1967) - key source, not directly consulted; framing corroborated by SM County history museum materials",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[S] Frank M. Stanger, Sawmills in the Redwoods (San Mateo County Historical Assn., 1967) — catalog record; not digitized, consult via SMCHA/library",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://openlibrary.org/works/OL7023368W"
     }
    ],
    "active": {
@@ -5330,6 +5438,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[P] Myron Angel, History of San Luis Obispo County, California (Oakland: Thompson & West, 1883) — San Simeon township/wharf and mining chapters — VERIFIED by full-text search",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofsanluis00ange"
     }
    ],
    "active": {
@@ -5387,6 +5501,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[P] Myron Angel, History of San Luis Obispo County (1883) — Cambria chapter and William Leffingwell Sr. — VERIFIED by full-text search (11 Leffingwell hits, Cambria chapter)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofsanluis00ange"
     }
    ],
    "active": {
@@ -5468,6 +5588,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://foresthistory.org/wp-content/uploads/2016/12/FHT_2006_Redwood-in-1906-san-francisco.pdf"
+    },
+    {
+     "citation": "[S] Cox, Mills and Markets (1974) — cargo consignment, dealer row, and fleet ownership structure of the SF receiving trade to 1900",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/millsmarketshist0000coxt"
     }
    ],
    "active": {
@@ -5547,6 +5673,18 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://oac.cdlib.org/findaid/ark:/13030/c8m3301q/"
+    },
+    {
+     "citation": "[S] Thomas R. Cox, Mills and Markets: A History of the Pacific Coast Lumber Industry to 1900 (Seattle: U Washington Press, 1974) — the scholarly study of the trade's marketing/receiving end",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/millsmarketshist0000coxt"
+    },
+    {
+     "citation": "[P] HAER No. CA-61, C.A. Thayer, data pages (Library of Congress) — E.K. Wood fleet operations; already cited in this dataset at feature bendixsen-shipyard-fairhaven",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://www.loc.gov/item/ca1201/"
     }
    ],
    "active": {
@@ -5631,6 +5769,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://farallones.noaa.gov/heritage/doghole.html"
+    },
+    {
+     "citation": "[P] History of Sonoma County (San Francisco: Alley, Bowen & Co. [Munro-Fraser], 1880): 'Bodega Port — This was a shipping place at the head of the bay…' + Stephen Smith and the Fayaway — VERIFIED by full-text search (leaf 236 and passim)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofsonomac00alle"
     }
    ],
    "notes": "Not one of the MPDF's 57 doghole ports; a lagoon anchorage rather than a chute port. Its lumber significance is early: Stephen Smith's 1843 steam sawmill, California's first. Coordinate source: GNIS 1658093 Bodega Bay populated place (38.33325,-123.0480571); GNIS 254639 Bodega Harbor (38.3235281,-123.0477795)",
@@ -5708,6 +5852,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.foundsf.org/Captain_Robert_Dollar"
+    },
+    {
+     "citation": "[P] Robert Dollar, Memoirs of Robert Dollar (San Francisco, 1917): 'In 1893 I started up a mill and lumbering establishment at Usal, in Mendocino County…and ran it for six years,' plus the Newsboy wharf narrative — VERIFIED (leaf 49)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/memoirsofrobertd01dollrich"
     }
    ],
    "notes": "Not one of the MPDF's 57 (its 'Usal Landing' is an alias of Monroe Landing, a different site). Robert Dollar's purchase of the Usal operation in 1894 and the steam schooner Newsboy he bought to serve it were the seed of the Dollar Steamship empire. Coordinate source: GNIS 236939 Usal Creek (prim/mouth 39.8323738,-123.8519669)"
@@ -5757,6 +5907,24 @@
      "url": "https://en.wikipedia.org/wiki/Port_Kenyon,_California",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[P] Davidson, Pacific Coast Pilot (1889), Eel River section: 'The steamers have a landing at Port Kenyon, three and a half miles up Salt Slough…' — VERIFIED (leaf 675)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[P] W. W. Elliott, History of Humboldt County, California (1881): J. G. Kenyon 'the original owner of the land upon which the shipping point known as Port Kenyon is situated' + Salt River navigability — VERIFIED (leaves 202, 252; index pp. 126, 158, 196)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofhumbold00wwel"
+    },
+    {
+     "citation": "[S] Leigh H. Irvine, History of Humboldt County, California (1915) — Port Kenyon references",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofhumbold00irvi"
     }
    ],
    "notes": "Coordinate source: GNIS 230949 (Port Kenyon populated place, Ferndale quad); Wikipedia 'Port Kenyon, California' 40.595,-124.27972 agrees",
@@ -5813,6 +5981,24 @@
      "url": "https://www.sfgate.com/bayarea/article/Big-Sur-Trust-buys-historic-overlook-Notley-s-2919451.php",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[S] Jeff Norman with the Big Sur Historical Society, Big Sur (Arcadia, Images of America, 2004) — OpenLibrary OL5742601W",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://openlibrary.org/works/OL5742601W"
+    },
+    {
+     "citation": "[S] Henson & Usner, The Natural History of Big Sur (UC Press, 1993)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/naturalhistoryof00hens"
+    },
+    {
+     "citation": "[P] Jepson, California Tanbark Oak, USDA FS Bulletin 75 (1911) — trade context for the Monterey-coast tanbark district",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/californiatanbar75jeps"
     }
    ],
    "notes": "Secondary sourcing; period-source confirmation still pending (Coast Pilot 1909 southern pages, Monterey county histories). Coordinate source: GNIS 1661124 (Notleys Landing populated place, Soberanes Point quad); Wikipedia 'Notleys Landing, California' 36.39833,-121.90361 agrees",
@@ -5860,6 +6046,24 @@
      "url": "https://hikinginbigsur.com/hikes_partingtoncove.html",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[P] George Davidson, Pacific Coast Pilot, 4th ed. (Washington: GPO, 1889), p. 132, 'Partington and West Landing' — open anchorage 3.25 mi SE of Pfeiffer's Point; VERIFIED by full-text search (leaf 335 + index entry 'Partington Landing, 132')",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "[P] Willis L. Jepson, California Tanbark Oak, USDA Forest Service Bulletin 75 (Washington: GPO, 1911) — the tanbark trade incl. the San Mateo–Santa Cruz–Monterey coast district (coverage verified by full-text search)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/californiatanbar75jeps"
+    },
+    {
+     "citation": "[S] Paul Henson & Donald J. Usner, The Natural History of Big Sur (Berkeley: UC Press, 1993), human-history chapters",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/naturalhistoryof00hens"
     }
    ],
    "notes": "Popular sourcing only; verify dates against Monterey county histories before citing in print. Coordinate source: GNIS 277447 (Partington Cove, bay, Partington Ridge quad); GNIS 272884 Partington Point 36.17524,-121.69801 adjacent"
@@ -5963,6 +6167,12 @@
      "citation": "Louis Hough, 'Thomas H. Petersen, Master Shipbuilder' (Kelley House Museum, 2015)",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[P] Lyman L. Palmer, History of Mendocino County (1880), Little River shipbuilding lists — the same IA item this dataset already cites at little-river-landing",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/historyofmendoci00palm"
     }
    ],
    "notes": "Coordinate source: GNIS 227343 (Little River stream, primary point = mouth/cove); kelleyhousemuseum.org 'A Vanished Landmark at Little River'; GNIS 1658981 Little River town 39.27073,-123.78835"
@@ -6115,6 +6325,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://lostcoastoutpost.com/2014/dec/5/whats-story-place-big-lagoons-ghost-town/"
+    },
+    {
+     "citation": "[S] Greg Gordon, When Money Grew on Trees (2014) — Hammond's logging railroads north of Samoa, the 1945 fire, and the Crannell salvage operation",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/whenmoneygrewont0000gord"
     }
    ],
    "notes": "Coordinate = GNIS Big Lagoon (waterbody) vicinity; included to preempt the assumption that every named coastal lumber site shipped by sea."
@@ -6141,6 +6357,18 @@
      "citation": "USCG Historian's Office; lighthousefriends.com (ID 65)",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[P] Point Arena Light Station, National Register listed 7/16/1991 (Light Stations of California MPS) — CA OHP listed-resource record N1701 — VERIFIED live",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N1701"
+    },
+    {
+     "citation": "[S] Ralph Shanks & Janetta Thompson Shanks, Lighthouses and Lifeboats on the Redwood Coast (San Anselmo: Costano Books, 1978)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/lighthouseslifeb00shan"
     }
    ],
    "notes": "Coordinate source: Wikipedia 'Point Arena Light' (geotagged article coordinate); GNIS 253765 Point Arena cape 38.95574,-123.74141 corroborates",
@@ -6172,6 +6400,18 @@
      "citation": "Trinidad Museum; USCG Historian's Office; lighthousefriends.com (ID 61)",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[P] Trinidad Head Light Station, National Register listed 9/3/1991 — CA OHP listed-resource record N1720 — VERIFIED live",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N1720"
+    },
+    {
+     "citation": "[S] Shanks & Shanks, Lighthouses and Lifeboats on the Redwood Coast (1978)",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/lighthouseslifeb00shan"
     }
    ],
    "notes": "Coordinate source: Wikipedia 'Trinidad Head Light' (geotagged article coordinate); GNIS 255158 Trinidad Head 41.05374,-124.15340 corroborates",
@@ -6234,6 +6474,12 @@
      "citation": "Point Cabrillo Light Station (pointcabrillo.org); U.S. Lighthouse Society Keeper's Log",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[P] Point Cabrillo Light Station, National Register listed 9/3/1991 — CA OHP listed-resource record N1723 — VERIFIED live",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N1723"
     }
    ],
    "notes": "Coordinate source: Wikipedia 'Point Cabrillo Light' (geotagged article coordinate); GNIS 230848 Cabrillo Point 39.34934,-123.82835 corroborates",
@@ -6265,6 +6511,18 @@
      "citation": "lighthousefriends.com (ID 63); historic-structures.com",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "[P] Punta Gorda Light Station, National Register listed 9/1/1976 — CA OHP listed-resource record N435 — VERIFIED live",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/N435"
+    },
+    {
+     "citation": "[S] Shanks & Shanks, Lighthouses and Lifeboats on the Redwood Coast (1978) — covers Punta Gorda's construction and the wreck sequence incl. the 1907 Columbia/San Pedro collision",
+     "ca_record": null,
+     "ia_leaf_url": null,
+     "url": "https://archive.org/details/lighthouseslifeb00shan"
     }
    ],
    "notes": "Coordinate source: Wikipedia 'Punta Gorda Light' (geotagged article coordinate); GNIS 231095 Punta Gorda cape 40.26125,-124.36283 for the point itself",
@@ -6273,6 +6531,73 @@
     "credit": "Punta Gorda Light Station — U.S. Coast Guard photo, USCG Historian's Office · USCG service era (pre-1951)",
     "alt": "Punta Gorda Lighthouse"
    }
+  },
+  {
+   "id": "reeds-sawmill-mill-valley",
+   "name": "Reed's Sawmill (Rancho Corte Madera del Presidio) — the Mexican-period prelude",
+   "type": "mill",
+   "layer": "industry",
+   "radius": 6,
+   "coords": [
+    37.9056,
+    -122.5522
+   ],
+   "coord_precision": "place",
+   "date": {
+    "iso": "1834",
+    "display": "c.1834–1843 (construction date disputed)",
+    "confidence": "circa"
+   },
+   "active": {
+    "first": 1834,
+    "last": 1849
+   },
+   "summary": "The first sawmill in Marin County: John Thomas Reed (Juan Read), grantee of Rancho Corte Madera del Presidio (Figueroa, 2 Oct 1834), built a water-powered sash-saw mill in the ravine of Cascade Creek. Its construction date is genuinely disputed: the landmark tradition (CHL No. 207) says about 1833-34, while Munro-Fraser's detailed 1880 account says Reed 'erected his saw-mill in 1843, and had but just got it in operation when he died' — cutting lumber for his own adobe. The rancho's name ('cut wood for the Presidio') records the older pre-grant woodcutting trade that supplied timbers to the Presidio and Yerba Buena, not the mill's output. No Mexican-period landing or embarcadero for the mill is attested; the documented rafting of Richardson Bay timber is American-period (1849 on). The structure standing in Old Mill Park today is a 1991 reconstruction.",
+   "cargo": [
+    "redwood lumber"
+   ],
+   "company": [],
+   "facts": [
+    [
+     "Mill type",
+     "water-powered sash saw (Munro-Fraser 1880:388-389)"
+    ],
+    [
+     "Grant",
+     "Rancho Corte Madera del Presidio, 2 Oct 1834; judicial possession 28 Nov 1835 (Hoffman's Reports, Land Case 183 ND)"
+    ],
+    [
+     "Date dispute",
+     "c.1833-34 (CHL 207, 1935) vs 1843 (Munro-Fraser 1880 township chapter)"
+    ]
+   ],
+   "sources": [
+    {
+     "citation": "[P] Hoffman's Reports of Land Cases (1862), U.S. v. Heirs of Juan Read, quoted in Munro-Fraser 1880:189",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "J.P. Munro-Fraser, History of Marin County (San Francisco: Alley, Bowen & Co., 1880), pp. 110-111, 385-389",
+     "url": "https://archive.org/details/historyofmarinco00munr",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, History of California, V, Pioneer Register, s.v. 'Read (John)'",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "California Historical Landmark No. 207 (registered 20 June 1935); Mill Valley Historic Resources Inventory (2021), fn. 7",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Coordinate = the reconstructed mill in Old Mill Park (the original site 'in the ravine' is conventionally identified with it; the CHL plaque stands elsewhere, at Blithedale Ave & Tower Dr — do not confuse). Both rancho diseños examined (Bancroft Land Case Maps) show no molino and no landing. Full dossier in the project research files.",
+   "tags": [
+    "mexican-period"
+   ]
   }
  ],
  "routes": [
@@ -6282,7 +6607,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "/Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (NRHP draft, Bear Harbor Landing Historical and Archaeological District, read in full: §7 pp.4-20, §8 pp.21-50); https://www.northcoastjournal.com/humboldt/the-bear-harbor-railroad-1892-1905/Content?oid=12185246 (Jerry Rohde); https://en.wikipedia.org/wiki/Andersonia,_California; https://en.wikipedia.org/wiki/Los",
+   "citation": "Carranco & Labbe, Logging the Redwoods (Caxton, 1975), Bear Harbor Lumber Co. chapter; California State Parks, Sinkyone Wilderness SP interpretive materials on the Bear Harbor grade and incline; Project research waypoints supplied with task (pier, incline, Moody, Andersonia); /Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (NRHP draft, Bear Harbor Landing Historical and Archaeological District, read in full: §7 pp.4-20, §8 pp.21-50); https://www.northcoastjo",
    "stops": [
     {
      "id": "bear-harbor-eel-river-railroad-bear-harb-bear-harbor-landing-pier-second-landing-",
@@ -6438,7 +6763,289 @@
      "notes": "Waypoint source: GNIS 1657931 Andersonia (Populated Place); Wikipedia 'Andersonia, California' gives 39.97806, -123.80722 (agrees within ~15 m) — precision: place"
     }
    ],
-   "notes": "TOTAL LENGTH: 17.5 mi (NRHP §7) / 'nearly 18 miles of track ran from Bear Harbor wharf to Andersonia' by fall 1905 (NCJ 22 Nov 2018, quoted in NRHP). INCLINE: three readings — 1,900 ft (archaeological Feature 1, MEN-2149H), 2,000 ft (NRHP §7-8 narrative), 'pushed out 3,000 feet' Aug 1898 (Fort Bragg Advocate 17 Aug 1898); 600-ft rise; 3-rail gravity type with passing loop midway; loaded cars down hauled empties up; horses worked the 2-mile coastal stretch below. LOCOMOTIVES: No. 1 = 1892 Marschu"
+   "notes": "Alignment: Project's fixed waypoints (pier, incline base/top, Anderson/Indian confluence, Moody, Andersonia) densified with USGS NHD large-scale flowlines (hydro.nationalmap.gov nhd MapServer layer 6): GNIS 'Anderson Creek' incline top to confluence, GNIS 'Indian Creek' . 26.5 km total. Coastal terrace leg reconstructed along the shore bench; the gravity incline is drawn as the straight segment [39.9378,-123.9502] to [39.94286,-123.94783], which is faithful to an incli TOTAL LENGTH: 17.5 mi (NRHP §7) / 'nearly 18 miles of track ran from Bear Harbor wharf to Andersonia' by fall 1905 (NCJ 22 Nov 2018, quoted in NRHP). INCLINE: three readings — 1,900 ft (archaeological Feature 1, MEN-2149H), 2,",
+   "path": [
+    [
+     39.91154,
+     -123.93976
+    ],
+    [
+     39.9218,
+     -123.9452
+    ],
+    [
+     39.933,
+     -123.9492
+    ],
+    [
+     39.9378,
+     -123.9502
+    ],
+    [
+     39.94286,
+     -123.94783
+    ],
+    [
+     39.93886,
+     -123.94125
+    ],
+    [
+     39.93996,
+     -123.93958
+    ],
+    [
+     39.93953,
+     -123.93503
+    ],
+    [
+     39.9379,
+     -123.93328
+    ],
+    [
+     39.93317,
+     -123.93273
+    ],
+    [
+     39.931,
+     -123.92824
+    ],
+    [
+     39.93096,
+     -123.92548
+    ],
+    [
+     39.92938,
+     -123.92301
+    ],
+    [
+     39.93288,
+     -123.92039
+    ],
+    [
+     39.93338,
+     -123.91717
+    ],
+    [
+     39.93497,
+     -123.91507
+    ],
+    [
+     39.93408,
+     -123.91331
+    ],
+    [
+     39.93169,
+     -123.91225
+    ],
+    [
+     39.93465,
+     -123.90624
+    ],
+    [
+     39.93394,
+     -123.90304
+    ],
+    [
+     39.93191,
+     -123.9016
+    ],
+    [
+     39.92913,
+     -123.89531
+    ],
+    [
+     39.93219,
+     -123.89272
+    ],
+    [
+     39.93356,
+     -123.8934
+    ],
+    [
+     39.93429,
+     -123.89217
+    ],
+    [
+     39.93842,
+     -123.8923
+    ],
+    [
+     39.94117,
+     -123.89484
+    ],
+    [
+     39.94153,
+     -123.89691
+    ],
+    [
+     39.94332,
+     -123.89812
+    ],
+    [
+     39.94442,
+     -123.89751
+    ],
+    [
+     39.94646,
+     -123.89912
+    ],
+    [
+     39.95056,
+     -123.8959
+    ],
+    [
+     39.95448,
+     -123.89658
+    ],
+    [
+     39.95707,
+     -123.89288
+    ],
+    [
+     39.95966,
+     -123.89304
+    ],
+    [
+     39.96121,
+     -123.89089
+    ],
+    [
+     39.96267,
+     -123.89233
+    ],
+    [
+     39.96343,
+     -123.89173
+    ],
+    [
+     39.96256,
+     -123.88983
+    ],
+    [
+     39.96449,
+     -123.88882
+    ],
+    [
+     39.96343,
+     -123.88657
+    ],
+    [
+     39.96727,
+     -123.88031
+    ],
+    [
+     39.96146,
+     -123.87567
+    ],
+    [
+     39.96195,
+     -123.87205
+    ],
+    [
+     39.96428,
+     -123.87073
+    ],
+    [
+     39.96489,
+     -123.86863
+    ],
+    [
+     39.97067,
+     -123.86587
+    ],
+    [
+     39.97217,
+     -123.86243
+    ],
+    [
+     39.97161,
+     -123.85993
+    ],
+    [
+     39.97258,
+     -123.85751
+    ],
+    [
+     39.97418,
+     -123.85979
+    ],
+    [
+     39.97633,
+     -123.85845
+    ],
+    [
+     39.9767,
+     -123.85708
+    ],
+    [
+     39.97575,
+     -123.85433
+    ],
+    [
+     39.97842,
+     -123.8505
+    ],
+    [
+     39.9798,
+     -123.85132
+    ],
+    [
+     39.98033,
+     -123.85379
+    ],
+    [
+     39.98104,
+     -123.85363
+    ],
+    [
+     39.98171,
+     -123.8484
+    ],
+    [
+     39.98105,
+     -123.84704
+    ],
+    [
+     39.98382,
+     -123.84659
+    ],
+    [
+     39.98527,
+     -123.84272
+    ],
+    [
+     39.98513,
+     -123.84047
+    ],
+    [
+     39.98265,
+     -123.83647
+    ],
+    [
+     39.98436,
+     -123.83655
+    ],
+    [
+     39.9859,
+     -123.83458
+    ],
+    [
+     39.98632,
+     -123.83095
+    ],
+    [
+     39.9838,
+     -123.8215
+    ],
+    [
+     39.9793,
+     -123.812
+    ],
+    [
+     39.97793,
+     -123.80726
+    ]
+   ]
   },
   {
    "id": "bear-harbor-first-landing-rail-line-at-morgan-rock-mccornack",
@@ -6491,7 +7098,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "documented",
-   "citation": "https://en.wikipedia.org/wiki/California_Western_Railroad; https://www.skunktrain.com/pudding-creek-history/; /Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (line ~1772); GNIS",
+   "citation": "Spencer Crump, Redwoods, Iron Horses, and the Pacific: The Story of the California Western Skunk Railroad (Trans-Anglo, 1963); Active heritage operation (Skunk Train), Fort Bragg; line opened to Willits 1911 on the 1885-1905 Fort Bragg RR/CWR alignment; https://en.wikipedia.org/wiki/California_Western_Railroad; https://www.skunktrain.com/pudding-creek-history/; /Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (line ~1772); GNIS",
    "stops": [
     {
      "id": "california-western-railroad-ex-fort-brag-fort-bragg-mill-site-depot",
@@ -6562,7 +7169,389 @@
      "notes": "Waypoint source: GNIS 1652654 Willits (Populated Place) — precision: place"
     }
    ],
-   "notes": "1885 original main ran up Pudding Creek to Glen Blair; the Noyo River alignment with tunnel became the through main, and Pudding Creek became the Glen Blair branch (see Glen Blair route)."
+   "notes": "Alignment: OSM via Overpass API: 78 ways tagged name='California Western Railroad' (railway=rail and railway=disused, operator Sierra Northern Railway) in bbox 39.30..39.48, -123.83..-123.33, stitched Fort Bragg depot to Willits by shortest-path over the way graph; 970 r. Real mapped geometry throughout: Fort Bragg, Pudding Creek, Tunnel 1 crossover into the Noyo watershed at [39.44846,-123.76426], the Noyo canyon, and the summit horseshoe loops west of Willits (the ti 1885 original main ran up Pudding Creek to Glen Blair; the Noyo River alignment with tunnel became the through main, and Pudding Creek became the Glen Blair branch (see Glen Blair route).",
+   "path": [
+    [
+     39.44504,
+     -123.80754
+    ],
+    [
+     39.4513,
+     -123.80154
+    ],
+    [
+     39.44611,
+     -123.79322
+    ],
+    [
+     39.449,
+     -123.78306
+    ],
+    [
+     39.44941,
+     -123.77646
+    ],
+    [
+     39.44703,
+     -123.76826
+    ],
+    [
+     39.44846,
+     -123.76426
+    ],
+    [
+     39.44063,
+     -123.76018
+    ],
+    [
+     39.43915,
+     -123.75312
+    ],
+    [
+     39.43507,
+     -123.75266
+    ],
+    [
+     39.43573,
+     -123.74572
+    ],
+    [
+     39.42852,
+     -123.74093
+    ],
+    [
+     39.42833,
+     -123.73563
+    ],
+    [
+     39.42969,
+     -123.73307
+    ],
+    [
+     39.42574,
+     -123.72744
+    ],
+    [
+     39.42816,
+     -123.72388
+    ],
+    [
+     39.43677,
+     -123.72246
+    ],
+    [
+     39.43803,
+     -123.71713
+    ],
+    [
+     39.43671,
+     -123.71613
+    ],
+    [
+     39.43427,
+     -123.71821
+    ],
+    [
+     39.43309,
+     -123.70932
+    ],
+    [
+     39.44507,
+     -123.69595
+    ],
+    [
+     39.44318,
+     -123.69133
+    ],
+    [
+     39.44084,
+     -123.68988
+    ],
+    [
+     39.44516,
+     -123.67926
+    ],
+    [
+     39.44033,
+     -123.67463
+    ],
+    [
+     39.44215,
+     -123.67184
+    ],
+    [
+     39.44111,
+     -123.66559
+    ],
+    [
+     39.44306,
+     -123.66312
+    ],
+    [
+     39.43922,
+     -123.65722
+    ],
+    [
+     39.43461,
+     -123.65682
+    ],
+    [
+     39.43744,
+     -123.65043
+    ],
+    [
+     39.43325,
+     -123.64697
+    ],
+    [
+     39.43512,
+     -123.64206
+    ],
+    [
+     39.43173,
+     -123.64112
+    ],
+    [
+     39.42998,
+     -123.63531
+    ],
+    [
+     39.4279,
+     -123.63438
+    ],
+    [
+     39.42678,
+     -123.627
+    ],
+    [
+     39.42827,
+     -123.61949
+    ],
+    [
+     39.4236,
+     -123.61896
+    ],
+    [
+     39.42453,
+     -123.61162
+    ],
+    [
+     39.42786,
+     -123.61057
+    ],
+    [
+     39.42908,
+     -123.60421
+    ],
+    [
+     39.43224,
+     -123.60337
+    ],
+    [
+     39.43229,
+     -123.5972
+    ],
+    [
+     39.43549,
+     -123.59355
+    ],
+    [
+     39.43637,
+     -123.58025
+    ],
+    [
+     39.435,
+     -123.578
+    ],
+    [
+     39.43168,
+     -123.58005
+    ],
+    [
+     39.42634,
+     -123.57614
+    ],
+    [
+     39.42819,
+     -123.56977
+    ],
+    [
+     39.42067,
+     -123.5674
+    ],
+    [
+     39.41913,
+     -123.56487
+    ],
+    [
+     39.42145,
+     -123.55247
+    ],
+    [
+     39.41904,
+     -123.54299
+    ],
+    [
+     39.42235,
+     -123.5375
+    ],
+    [
+     39.42159,
+     -123.51741
+    ],
+    [
+     39.41986,
+     -123.50871
+    ],
+    [
+     39.42489,
+     -123.49991
+    ],
+    [
+     39.43139,
+     -123.49431
+    ],
+    [
+     39.43245,
+     -123.48689
+    ],
+    [
+     39.43175,
+     -123.46019
+    ],
+    [
+     39.42912,
+     -123.43954
+    ],
+    [
+     39.4185,
+     -123.43091
+    ],
+    [
+     39.41898,
+     -123.43749
+    ],
+    [
+     39.41714,
+     -123.43197
+    ],
+    [
+     39.41186,
+     -123.43051
+    ],
+    [
+     39.41138,
+     -123.42894
+    ],
+    [
+     39.41516,
+     -123.4268
+    ],
+    [
+     39.42037,
+     -123.4292
+    ],
+    [
+     39.42245,
+     -123.42781
+    ],
+    [
+     39.42339,
+     -123.43009
+    ],
+    [
+     39.42422,
+     -123.42861
+    ],
+    [
+     39.42165,
+     -123.42683
+    ],
+    [
+     39.42019,
+     -123.42785
+    ],
+    [
+     39.41535,
+     -123.42199
+    ],
+    [
+     39.4134,
+     -123.42508
+    ],
+    [
+     39.40964,
+     -123.42392
+    ],
+    [
+     39.41324,
+     -123.4239
+    ],
+    [
+     39.4157,
+     -123.41993
+    ],
+    [
+     39.42057,
+     -123.4233
+    ],
+    [
+     39.42114,
+     -123.42171
+    ],
+    [
+     39.41442,
+     -123.41812
+    ],
+    [
+     39.41224,
+     -123.42018
+    ],
+    [
+     39.40603,
+     -123.41949
+    ],
+    [
+     39.40085,
+     -123.41316
+    ],
+    [
+     39.40348,
+     -123.40345
+    ],
+    [
+     39.40341,
+     -123.38955
+    ],
+    [
+     39.40574,
+     -123.38812
+    ],
+    [
+     39.40761,
+     -123.38064
+    ],
+    [
+     39.40409,
+     -123.37359
+    ],
+    [
+     39.40224,
+     -123.36372
+    ],
+    [
+     39.40287,
+     -123.34789
+    ],
+    [
+     39.40419,
+     -123.34701
+    ],
+    [
+     39.40918,
+     -123.35026
+    ]
+   ]
   },
   {
    "id": "caspar-south-fork-eastern-railroad-caspar-lumber-co-ex-jugha",
@@ -6570,7 +7559,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "https://en.wikipedia.org/wiki/Caspar,_South_Fork_and_Eastern_Railroad; GNIS; NHD",
+   "citation": "Ted Wurm, Mallets on the Mendocino Coast: Caspar Lumber Company Railroads (Trans-Anglo, 1986); Jackson State Forest interpretive record of Caspar Lumber Co. grades in the Caspar Creek and Hare Creek drainages; https://en.wikipedia.org/wiki/Caspar,_South_Fork_and_Eastern_Railroad; GNIS; NHD",
    "stops": [
     {
      "id": "caspar-south-fork-eastern-railroad-caspa-caspar-mill-at-caspar-creek-mouth",
@@ -6641,7 +7630,277 @@
      "notes": "Waypoint source: NHD Hare Creek flowline point ~6 km upstream (hydro.nationalmap.gov) + Wikipedia mileage — precision: area; reconstructed"
     }
    ],
-   "notes": "Ted Wurm, 'Mallets on the Mendocino Coast' is the standard monograph (not consulted directly). The 'South Fork' of the corporate name refers to the later push toward the South Fork Noyo watershed."
+   "notes": "Alignment: NHD flowline GNIS 'Caspar Creek' from the tidewater mill at Caspar anchorage upstream ~11 km, then a 1.9 km connector over the low divide (the straight step [39.37593,-123.71673] to [39.3876,-123.73232]), then NHD GNIS 'Hare Creek' upper flowline southeast to . 18.1 km drawn. The divide connector into the Hare Creek watershed is conjectural in its exact crossing point; the creek corridors on either side are the sourced route. OSM contains one short way named Ted Wurm, 'Mallets on the Mendocino Coast' is the standard monograph (not consulted directly). The 'South Fork' of the corporate name refers to the later push toward the South Fork Noyo watershed.",
+   "path": [
+    [
+     39.3627,
+     -123.8177
+    ],
+    [
+     39.36134,
+     -123.81411
+    ],
+    [
+     39.36161,
+     -123.81187
+    ],
+    [
+     39.35933,
+     -123.80879
+    ],
+    [
+     39.35993,
+     -123.80403
+    ],
+    [
+     39.35712,
+     -123.79911
+    ],
+    [
+     39.35771,
+     -123.79586
+    ],
+    [
+     39.35648,
+     -123.79321
+    ],
+    [
+     39.35638,
+     -123.79011
+    ],
+    [
+     39.35275,
+     -123.78275
+    ],
+    [
+     39.35337,
+     -123.78051
+    ],
+    [
+     39.35333,
+     -123.77938
+    ],
+    [
+     39.35208,
+     -123.77786
+    ],
+    [
+     39.35176,
+     -123.77579
+    ],
+    [
+     39.35072,
+     -123.7739
+    ],
+    [
+     39.352,
+     -123.7717
+    ],
+    [
+     39.35206,
+     -123.77095
+    ],
+    [
+     39.35033,
+     -123.76827
+    ],
+    [
+     39.35022,
+     -123.76701
+    ],
+    [
+     39.34929,
+     -123.76554
+    ],
+    [
+     39.34878,
+     -123.76052
+    ],
+    [
+     39.34745,
+     -123.75961
+    ],
+    [
+     39.3486,
+     -123.75893
+    ],
+    [
+     39.34887,
+     -123.75783
+    ],
+    [
+     39.34799,
+     -123.75644
+    ],
+    [
+     39.34635,
+     -123.75535
+    ],
+    [
+     39.3464,
+     -123.75286
+    ],
+    [
+     39.34603,
+     -123.75114
+    ],
+    [
+     39.34719,
+     -123.74693
+    ],
+    [
+     39.34701,
+     -123.74548
+    ],
+    [
+     39.34644,
+     -123.74486
+    ],
+    [
+     39.3464,
+     -123.7432
+    ],
+    [
+     39.3478,
+     -123.74132
+    ],
+    [
+     39.34845,
+     -123.73901
+    ],
+    [
+     39.34804,
+     -123.73737
+    ],
+    [
+     39.34717,
+     -123.73625
+    ],
+    [
+     39.34879,
+     -123.73507
+    ],
+    [
+     39.35125,
+     -123.73566
+    ],
+    [
+     39.35193,
+     -123.73666
+    ],
+    [
+     39.35256,
+     -123.73643
+    ],
+    [
+     39.35303,
+     -123.73537
+    ],
+    [
+     39.3536,
+     -123.73507
+    ],
+    [
+     39.36209,
+     -123.73551
+    ],
+    [
+     39.36344,
+     -123.73418
+    ],
+    [
+     39.364,
+     -123.73099
+    ],
+    [
+     39.36486,
+     -123.73026
+    ],
+    [
+     39.3656,
+     -123.72732
+    ],
+    [
+     39.36668,
+     -123.72529
+    ],
+    [
+     39.37027,
+     -123.7233
+    ],
+    [
+     39.37211,
+     -123.72074
+    ],
+    [
+     39.37356,
+     -123.72031
+    ],
+    [
+     39.37451,
+     -123.71804
+    ],
+    [
+     39.37593,
+     -123.71673
+    ],
+    [
+     39.3876,
+     -123.73232
+    ],
+    [
+     39.38609,
+     -123.72711
+    ],
+    [
+     39.38575,
+     -123.72401
+    ],
+    [
+     39.38586,
+     -123.72282
+    ],
+    [
+     39.387,
+     -123.72108
+    ],
+    [
+     39.38683,
+     -123.71908
+    ],
+    [
+     39.38352,
+     -123.71298
+    ],
+    [
+     39.38313,
+     -123.71034
+    ],
+    [
+     39.38208,
+     -123.70821
+    ],
+    [
+     39.38076,
+     -123.70334
+    ],
+    [
+     39.37837,
+     -123.70044
+    ],
+    [
+     39.37798,
+     -123.69935
+    ],
+    [
+     39.37829,
+     -123.69683
+    ],
+    [
+     39.37961,
+     -123.69547
+    ]
+   ]
   },
   {
    "id": "mendocino-lumber-co-railroad-big-river",
@@ -6649,7 +7908,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "https://en.wikipedia.org/wiki/Mendocino_Lumber_Company; http://www.krisweb.com/krisbigriver/krisdb/html/krisweb/history/infrastr.htm; GNIS; NHD (Big River flowline points at 3/6/9 km: 39.30036,-123.76241; 39.29062,-123.74113; 39.29185,-123.72486)",
+   "citation": "W. Francis Jackson, Big River Was Dammed (FMMC Books, 1991); Carranco & Labbe, Logging the Redwoods (1975) on Mendocino Lumber Co. river and rail operations; https://en.wikipedia.org/wiki/Mendocino_Lumber_Company; http://www.krisweb.com/krisbigriver/krisdb/html/krisweb/history/infrastr.htm; GNIS; NHD (Big River flowline points at 3/6/9 km: 39.30036,-123.76241; 39.29062,-123.74113; 39.29185,-123.72486)",
    "stops": [
     {
      "id": "mendocino-lumber-co-railroad-big-river-mendocino-lumber-co-mill-at-big-river-mo",
@@ -6720,7 +7979,221 @@
      "notes": "Waypoint source: GNIS 234124 Laguna Creek (Stream); krisweb Big River infrastructure notes 6 Jul 1900 — precision: place"
     }
    ],
-   "notes": "Unusual layout: the railroad fed logs INTO the river for drives down to the mill pond at tidewater rather than hauling to the wharf."
+   "notes": "Alignment: NHD flowline GNIS 'Big River' from the tidewater mill and boom at the river mouth (Mendocino), followed upstream and trimmed at 13.5 km. Rails ran along the north bank above tidewater; the river centerline is used as the corridor. Terminus at ~8.5 miles is approximate because railheads and camps moved progressively upstream over the co Unusual layout: the railroad fed logs INTO the river for drives down to the mill pond at tidewater rather than hauling to the wharf.",
+   "path": [
+    [
+     39.304,
+     -123.7906
+    ],
+    [
+     39.30218,
+     -123.79349
+    ],
+    [
+     39.30128,
+     -123.79132
+    ],
+    [
+     39.30073,
+     -123.78753
+    ],
+    [
+     39.30081,
+     -123.78689
+    ],
+    [
+     39.30244,
+     -123.78536
+    ],
+    [
+     39.30343,
+     -123.78359
+    ],
+    [
+     39.30392,
+     -123.7806
+    ],
+    [
+     39.3034,
+     -123.77674
+    ],
+    [
+     39.30332,
+     -123.77137
+    ],
+    [
+     39.3014,
+     -123.76755
+    ],
+    [
+     39.30041,
+     -123.76437
+    ],
+    [
+     39.30043,
+     -123.7611
+    ],
+    [
+     39.30126,
+     -123.75551
+    ],
+    [
+     39.3011,
+     -123.75391
+    ],
+    [
+     39.2997,
+     -123.75297
+    ],
+    [
+     39.29536,
+     -123.75307
+    ],
+    [
+     39.29358,
+     -123.75185
+    ],
+    [
+     39.29331,
+     -123.75018
+    ],
+    [
+     39.29561,
+     -123.74641
+    ],
+    [
+     39.29561,
+     -123.74504
+    ],
+    [
+     39.29487,
+     -123.74395
+    ],
+    [
+     39.29318,
+     -123.74339
+    ],
+    [
+     39.29157,
+     -123.74219
+    ],
+    [
+     39.2899,
+     -123.7401
+    ],
+    [
+     39.28957,
+     -123.73872
+    ],
+    [
+     39.28966,
+     -123.73731
+    ],
+    [
+     39.29055,
+     -123.73533
+    ],
+    [
+     39.29568,
+     -123.73359
+    ],
+    [
+     39.29891,
+     -123.73309
+    ],
+    [
+     39.30012,
+     -123.73159
+    ],
+    [
+     39.30048,
+     -123.73057
+    ],
+    [
+     39.30035,
+     -123.72958
+    ],
+    [
+     39.29958,
+     -123.72756
+    ],
+    [
+     39.2987,
+     -123.72681
+    ],
+    [
+     39.29407,
+     -123.72623
+    ],
+    [
+     39.29085,
+     -123.72404
+    ],
+    [
+     39.28801,
+     -123.71862
+    ],
+    [
+     39.28454,
+     -123.71632
+    ],
+    [
+     39.28263,
+     -123.7132
+    ],
+    [
+     39.28267,
+     -123.71108
+    ],
+    [
+     39.28352,
+     -123.70878
+    ],
+    [
+     39.28457,
+     -123.70812
+    ],
+    [
+     39.28611,
+     -123.70825
+    ],
+    [
+     39.28671,
+     -123.70702
+    ],
+    [
+     39.28617,
+     -123.70526
+    ],
+    [
+     39.28355,
+     -123.7011
+    ],
+    [
+     39.28261,
+     -123.697
+    ],
+    [
+     39.28382,
+     -123.69511
+    ],
+    [
+     39.2844,
+     -123.69298
+    ],
+    [
+     39.2862,
+     -123.69092
+    ],
+    [
+     39.28683,
+     -123.68945
+    ],
+    [
+     39.29042,
+     -123.68804
+    ]
+   ]
   },
   {
    "id": "albion-lumber-co-line-albion-southeastern-fort-bragg-southea",
@@ -6728,7 +8201,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "https://en.wikipedia.org/wiki/Fort_Bragg_and_Southeastern_Railroad; https://www.kelleyhousemuseum.org/albions-lost-railroad/; https://www.mendorailhistory.org/1_towns/albion/albion.htm; GNIS; NHD",
+   "citation": "Fred A. Stindt & Guy L. Dunscomb, The Northwestern Pacific Railroad: Redwood Empire Route (1964), Albion branch (the A&SE was absorbed into the NWP system in 1907); Carranco & Labbe, Logging the Redwoods (1975) on the Albion operations; https://en.wikipedia.org/wiki/Fort_Bragg_and_Southeastern_Railroad; https://www.kelleyhousemuseum.org/albions-lost-railroad/; https://www.mendorailhistory.org/1_towns/albion/albion.htm; GNIS; NHD",
    "stops": [
     {
      "id": "albion-lumber-co-line-albion-southeaster-albion-mill-wharf-albion-river-mouth",
@@ -6799,7 +8272,425 @@
      "notes": "Waypoint source: GNIS 229429 Navarro (Populated Place); Wendling was renamed Navarro — precision: place"
     }
    ],
-   "notes": "Despite the 1905 'Fort Bragg' name it never reached Fort Bragg; it was the Albion River line."
+   "notes": "Alignment: NHD flowlines GNIS 'Albion River' and 'South Fork Albion River' from the tidewater mill up the valley; a ~2.6 km conjectural divide crossing from the upper South Fork ([39.23762,-123.60649]) to the Flynn Creek headwaters; NHD GNIS 'Flynn Creek' down to the Nor. 40.2 km drawn, consistent with the ~25-mile Albion-to-Wendling line as completed 1905. The Albion valley and Navarro valley segments are creek-corridor reconstructions; the divide crossing between the Despite the 1905 'Fort Bragg' name it never reached Fort Bragg; it was the Albion River line.",
+   "path": [
+    [
+     39.2266,
+     -123.7654
+    ],
+    [
+     39.22823,
+     -123.76246
+    ],
+    [
+     39.23057,
+     -123.76207
+    ],
+    [
+     39.23144,
+     -123.76007
+    ],
+    [
+     39.23277,
+     -123.75934
+    ],
+    [
+     39.2322,
+     -123.75692
+    ],
+    [
+     39.23285,
+     -123.7553
+    ],
+    [
+     39.23694,
+     -123.75258
+    ],
+    [
+     39.24014,
+     -123.74891
+    ],
+    [
+     39.24102,
+     -123.74526
+    ],
+    [
+     39.23915,
+     -123.74279
+    ],
+    [
+     39.23922,
+     -123.74202
+    ],
+    [
+     39.24124,
+     -123.74063
+    ],
+    [
+     39.24393,
+     -123.73707
+    ],
+    [
+     39.24393,
+     -123.73521
+    ],
+    [
+     39.24217,
+     -123.7313
+    ],
+    [
+     39.23992,
+     -123.72983
+    ],
+    [
+     39.23942,
+     -123.72877
+    ],
+    [
+     39.24432,
+     -123.72616
+    ],
+    [
+     39.24468,
+     -123.72538
+    ],
+    [
+     39.24089,
+     -123.72145
+    ],
+    [
+     39.24051,
+     -123.71995
+    ],
+    [
+     39.2421,
+     -123.71947
+    ],
+    [
+     39.24399,
+     -123.72056
+    ],
+    [
+     39.24583,
+     -123.72052
+    ],
+    [
+     39.24616,
+     -123.71993
+    ],
+    [
+     39.2454,
+     -123.71742
+    ],
+    [
+     39.24563,
+     -123.71533
+    ],
+    [
+     39.2498,
+     -123.71474
+    ],
+    [
+     39.25251,
+     -123.70718
+    ],
+    [
+     39.25758,
+     -123.70549
+    ],
+    [
+     39.25867,
+     -123.70455
+    ],
+    [
+     39.26032,
+     -123.70058
+    ],
+    [
+     39.26047,
+     -123.69787
+    ],
+    [
+     39.26213,
+     -123.69568
+    ],
+    [
+     39.26192,
+     -123.69225
+    ],
+    [
+     39.26109,
+     -123.69174
+    ],
+    [
+     39.26046,
+     -123.6897
+    ],
+    [
+     39.25879,
+     -123.68724
+    ],
+    [
+     39.25725,
+     -123.68606
+    ],
+    [
+     39.25753,
+     -123.68424
+    ],
+    [
+     39.25711,
+     -123.68216
+    ],
+    [
+     39.25597,
+     -123.6794
+    ],
+    [
+     39.2545,
+     -123.67792
+    ],
+    [
+     39.25372,
+     -123.67497
+    ],
+    [
+     39.25273,
+     -123.67675
+    ],
+    [
+     39.25173,
+     -123.67665
+    ],
+    [
+     39.24943,
+     -123.67067
+    ],
+    [
+     39.24605,
+     -123.66879
+    ],
+    [
+     39.2441,
+     -123.66875
+    ],
+    [
+     39.24338,
+     -123.66579
+    ],
+    [
+     39.24214,
+     -123.66431
+    ],
+    [
+     39.24216,
+     -123.66268
+    ],
+    [
+     39.24142,
+     -123.66117
+    ],
+    [
+     39.2418,
+     -123.65939
+    ],
+    [
+     39.24036,
+     -123.65605
+    ],
+    [
+     39.23587,
+     -123.65483
+    ],
+    [
+     39.23223,
+     -123.64676
+    ],
+    [
+     39.22953,
+     -123.64458
+    ],
+    [
+     39.22875,
+     -123.64001
+    ],
+    [
+     39.22561,
+     -123.63616
+    ],
+    [
+     39.22486,
+     -123.62807
+    ],
+    [
+     39.22676,
+     -123.61962
+    ],
+    [
+     39.22736,
+     -123.61912
+    ],
+    [
+     39.22989,
+     -123.62078
+    ],
+    [
+     39.23232,
+     -123.62075
+    ],
+    [
+     39.23817,
+     -123.61761
+    ],
+    [
+     39.23885,
+     -123.6154
+    ],
+    [
+     39.23762,
+     -123.60649
+    ],
+    [
+     39.2143,
+     -123.59946
+    ],
+    [
+     39.21479,
+     -123.60114
+    ],
+    [
+     39.21451,
+     -123.60225
+    ],
+    [
+     39.2035,
+     -123.60643
+    ],
+    [
+     39.2015,
+     -123.60582
+    ],
+    [
+     39.20036,
+     -123.60653
+    ],
+    [
+     39.19133,
+     -123.60356
+    ],
+    [
+     39.19009,
+     -123.60214
+    ],
+    [
+     39.18828,
+     -123.60169
+    ],
+    [
+     39.18596,
+     -123.59968
+    ],
+    [
+     39.18304,
+     -123.59838
+    ],
+    [
+     39.18208,
+     -123.59708
+    ],
+    [
+     39.17979,
+     -123.59624
+    ],
+    [
+     39.17178,
+     -123.58996
+    ],
+    [
+     39.15878,
+     -123.60207
+    ],
+    [
+     39.15813,
+     -123.60164
+    ],
+    [
+     39.15628,
+     -123.59933
+    ],
+    [
+     39.1577,
+     -123.59387
+    ],
+    [
+     39.15569,
+     -123.59411
+    ],
+    [
+     39.15479,
+     -123.59324
+    ],
+    [
+     39.15611,
+     -123.58584
+    ],
+    [
+     39.15715,
+     -123.58544
+    ],
+    [
+     39.15911,
+     -123.58645
+    ],
+    [
+     39.16048,
+     -123.58552
+    ],
+    [
+     39.16091,
+     -123.58229
+    ],
+    [
+     39.16025,
+     -123.57916
+    ],
+    [
+     39.15799,
+     -123.57664
+    ],
+    [
+     39.15624,
+     -123.57616
+    ],
+    [
+     39.15697,
+     -123.57354
+    ],
+    [
+     39.15959,
+     -123.57166
+    ],
+    [
+     39.15963,
+     -123.57055
+    ],
+    [
+     39.15853,
+     -123.56881
+    ],
+    [
+     39.15892,
+     -123.56759
+    ],
+    [
+     39.16002,
+     -123.56704
+    ],
+    [
+     39.1546,
+     -123.5372
+    ]
+   ]
   },
   {
    "id": "glen-blair-branch-fort-bragg-railroad-1885-glen-blair-lumber",
@@ -6807,7 +8698,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "https://mcmrhs.org/mill-towns/glen-blair; https://www.skunktrain.com/glen-blair-bar/; https://en.wikipedia.org/wiki/California_Western_Railroad; GNIS; NHD",
+   "citation": "Spencer Crump, Redwoods, Iron Horses, and the Pacific (1963), Glen Blair Junction and the Glen Blair branch of the CWR; Mendocino County histories of the Glen Blair Redwood Co. mill on upper Pudding Creek; https://mcmrhs.org/mill-towns/glen-blair; https://www.skunktrain.com/glen-blair-bar/; https://en.wikipedia.org/wiki/California_Western_Railroad; GNIS; NHD",
    "stops": [
     {
      "id": "glen-blair-branch-fort-bragg-railroad-18-fort-bragg-mill-wharf-end",
@@ -6861,7 +8752,125 @@
      "notes": "Waypoint source: GNIS 1658616 Glenblair (Populated Place); mcmrhs.org/skunktrain: 'location of the mill is 6.6 miles by rail up Pudding Creek' — precision: place"
     }
    ],
-   "notes": "GNIS spells the place 'Glenblair'. The Glen Blair company also ran its own logging trackage above the mill (not mapped)."
+   "notes": "Alignment: Junction fixed from the OSM California Western geometry at the point where the mapped main line leaves Pudding Creek for Tunnel 1 (39.4485,-123.7643, verified within 77 m of the NHD creek line); branch then follows NHD GNIS 'Pudding Creek' flowline upstream fo. The junction point is solid (it is where today's mapped Skunk Train alignment turns away from Pudding Creek). The terminus is placed 5.2 km up the creek per the roughly 3-mile branch length in CWR acc GNIS spells the place 'Glenblair'. The Glen Blair company also ran its own logging trackage above the mill (not mapped).",
+   "path": [
+    [
+     39.4485,
+     -123.7643
+    ],
+    [
+     39.44787,
+     -123.76468
+    ],
+    [
+     39.44723,
+     -123.76328
+    ],
+    [
+     39.44733,
+     -123.76239
+    ],
+    [
+     39.44798,
+     -123.76104
+    ],
+    [
+     39.44893,
+     -123.76036
+    ],
+    [
+     39.44974,
+     -123.75768
+    ],
+    [
+     39.45163,
+     -123.75528
+    ],
+    [
+     39.45209,
+     -123.75521
+    ],
+    [
+     39.45308,
+     -123.75715
+    ],
+    [
+     39.45374,
+     -123.75769
+    ],
+    [
+     39.45562,
+     -123.7574
+    ],
+    [
+     39.45635,
+     -123.75662
+    ],
+    [
+     39.45593,
+     -123.75459
+    ],
+    [
+     39.45398,
+     -123.75556
+    ],
+    [
+     39.45339,
+     -123.75488
+    ],
+    [
+     39.45376,
+     -123.7524
+    ],
+    [
+     39.45308,
+     -123.74835
+    ],
+    [
+     39.45323,
+     -123.74576
+    ],
+    [
+     39.45269,
+     -123.74551
+    ],
+    [
+     39.45084,
+     -123.74611
+    ],
+    [
+     39.44955,
+     -123.7423
+    ],
+    [
+     39.44827,
+     -123.74074
+    ],
+    [
+     39.44789,
+     -123.73937
+    ],
+    [
+     39.44842,
+     -123.73625
+    ],
+    [
+     39.45055,
+     -123.73555
+    ],
+    [
+     39.45211,
+     -123.73571
+    ],
+    [
+     39.45232,
+     -123.73263
+    ],
+    [
+     39.45381,
+     -123.73156
+    ]
+   ]
   },
   {
    "id": "usal-railroad-usal-redwood-co-robert-dollar",
@@ -6869,7 +8878,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "https://en.wikipedia.org/wiki/Lost_Coast; GNIS; NHD; Calisphere lead (bot-blocked, record only): https://calisphere.org/item/ark:/87293/d3042k/ — 'Usal, California, scene of Robert Dollar's Lumber Mill'",
+   "citation": "Carranco & Labbe, Logging the Redwoods (1975) on the Usal mill and railroad; Robert Dollar, Memoirs of Robert Dollar (1917 and later editions), his Usal operation of the 1890s; https://en.wikipedia.org/wiki/Lost_Coast; GNIS; NHD; Calisphere lead (bot-blocked, record only): https://calisphere.org/item/ark:/87293/d3042k/ — 'Usal, California, scene of Robert Dollar's Lumber Mill'",
    "stops": [
     {
      "id": "usal-railroad-usal-redwood-co-robert-dol-usal-wharf-mill-usal-creek-mouth",
@@ -6923,7 +8932,149 @@
      "notes": "Waypoint source: NHD Usal Creek flowline point ~4.8 km upstream; Wikipedia 'Lost Coast': 'a railroad for transporting logs extended three miles up Usal Creek' — precision: area; derived-from-verbal"
     }
    ],
-   "notes": "Usal townsite itself is not a GNIS feature; Usal Rock GNIS 236940 (39.83238 area) marks the cove. The doghole MPDF covers 'Monroe Landing (Hale's Grove/Usal Landing)' south of Usal as a separate later port."
+   "notes": "Alignment: NHD flowline GNIS 'Usal Creek' from the beach and wharf site at Usal cove, followed upstream and trimmed at 5.5 km (~3.4 mi). Wharf point at the creek mouth; the mill stood just upstream. Creek centerline used as the corridor for the roughly 3-mile line; terminus approximate. Usal townsite itself is not a GNIS feature; Usal Rock GNIS 236940 (39.83238 area) marks the cove. The doghole MPDF covers 'Monroe Landing (Hale's Grove/Usal Landing)' south of Usal as a separate later port.",
+   "path": [
+    [
+     39.8287,
+     -123.8543
+    ],
+    [
+     39.82848,
+     -123.8498
+    ],
+    [
+     39.83123,
+     -123.84966
+    ],
+    [
+     39.83147,
+     -123.84864
+    ],
+    [
+     39.83064,
+     -123.84705
+    ],
+    [
+     39.83061,
+     -123.84612
+    ],
+    [
+     39.83152,
+     -123.84571
+    ],
+    [
+     39.833,
+     -123.84613
+    ],
+    [
+     39.83375,
+     -123.84521
+    ],
+    [
+     39.83426,
+     -123.84352
+    ],
+    [
+     39.83492,
+     -123.84294
+    ],
+    [
+     39.83515,
+     -123.84173
+    ],
+    [
+     39.83579,
+     -123.84094
+    ],
+    [
+     39.83573,
+     -123.8403
+    ],
+    [
+     39.83843,
+     -123.83898
+    ],
+    [
+     39.83884,
+     -123.83715
+    ],
+    [
+     39.84087,
+     -123.83601
+    ],
+    [
+     39.84155,
+     -123.83508
+    ],
+    [
+     39.84229,
+     -123.83359
+    ],
+    [
+     39.84115,
+     -123.83116
+    ],
+    [
+     39.84134,
+     -123.83028
+    ],
+    [
+     39.84202,
+     -123.82953
+    ],
+    [
+     39.844,
+     -123.82929
+    ],
+    [
+     39.8449,
+     -123.82984
+    ],
+    [
+     39.8455,
+     -123.82933
+    ],
+    [
+     39.8465,
+     -123.82968
+    ],
+    [
+     39.85036,
+     -123.83372
+    ],
+    [
+     39.85036,
+     -123.83557
+    ],
+    [
+     39.85115,
+     -123.8371
+    ],
+    [
+     39.85299,
+     -123.83804
+    ],
+    [
+     39.85386,
+     -123.83974
+    ],
+    [
+     39.85457,
+     -123.84012
+    ],
+    [
+     39.85561,
+     -123.83966
+    ],
+    [
+     39.85658,
+     -123.83984
+    ],
+    [
+     39.85904,
+     -123.84211
+    ]
+   ]
   },
   {
    "id": "crescent-city-smith-river-railroad-hobbs-wall-co",
@@ -6931,7 +9082,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "https://wx4.org/to/foam/shortlines/coc/1DelNorteRRs.html; https://www.ijpr.org/show/as-it-was/2019-12-10/as-it-was-lumber-mill-builds-crescent-city-and-smith-river-railroad; https://www.nps.gov/parkhistory/online_books/redw/history10c.htm; https://delnortehistory.org/del-nortes-economic-history/; GNIS",
+   "citation": "A. J. Bledsoe, History of Del Norte County, California (1881), early wharf and railroad of Hobbs, Wall & Co.'s predecessors; Del Norte County Historical Society materials on Hobbs, Wall & Co. and the Crescent City & Smith River Railroad; https://wx4.org/to/foam/shortlines/coc/1DelNorteRRs.html; https://www.ijpr.org/show/as-it-was/2019-12-10/as-it-was-lumber-mill-builds-crescent-city-and-smith-river-railroad; https://www.nps.gov/parkhistory/online_books/redw/history10c.htm; https://delnortehistor",
    "stops": [
     {
      "id": "crescent-city-smith-river-railroad-hobbs-crescent-city-wharf-hobbs-wall-mill",
@@ -7019,7 +9170,89 @@
      "notes": "Waypoint source: GNIS 1659799 Smith River (Populated Place); JPR 'As It Was': rails 'extended from Crescent City out to the south bank of the Smith River' — precision: place"
     }
    ],
-   "notes": "Hobbs, Wall & Co. owned ~8,700 acres between Crescent City and Smith River; the line doubled as a popular passenger picnic railway."
+   "notes": "Alignment: Wharf-to-town leg hand-traced NE from the Crescent City wharf; Elk Valley leg follows the NHD flowline GNIS 'Elk Creek' (Del Norte County) northeast through Elk Valley, trimmed near the mill site; OSM has no historic trace here (the only railway tags in the bb. 6.4 km trunk drawn: wharf, through town, up Elk Valley to the mill area. The town leg is conjectural street-level routing. The NORTHERN BRANCH toward Lake Earl and Smith River (via Fort Dick) is NOT d Hobbs, Wall & Co. owned ~8,700 acres between Crescent City and Smith River; the line doubled as a popular passenger picnic railway.",
+   "path": [
+    [
+     41.744,
+     -124.1885
+    ],
+    [
+     41.7562,
+     -124.1806
+    ],
+    [
+     41.75971,
+     -124.1814
+    ],
+    [
+     41.76066,
+     -124.18116
+    ],
+    [
+     41.76313,
+     -124.17713
+    ],
+    [
+     41.76552,
+     -124.1748
+    ],
+    [
+     41.7672,
+     -124.1741
+    ],
+    [
+     41.7674,
+     -124.17333
+    ],
+    [
+     41.76839,
+     -124.17245
+    ],
+    [
+     41.77188,
+     -124.16674
+    ],
+    [
+     41.77349,
+     -124.16487
+    ],
+    [
+     41.77567,
+     -124.16078
+    ],
+    [
+     41.77337,
+     -124.15462
+    ],
+    [
+     41.77464,
+     -124.15019
+    ],
+    [
+     41.77456,
+     -124.14761
+    ],
+    [
+     41.77646,
+     -124.1448
+    ],
+    [
+     41.77699,
+     -124.14331
+    ],
+    [
+     41.77659,
+     -124.14271
+    ],
+    [
+     41.77663,
+     -124.14124
+    ],
+    [
+     41.77624,
+     -124.14042
+    ]
+   ]
   },
   {
    "id": "arcata-mad-river-railroad-ex-union-plank-walk-rail-track-wha",
@@ -7027,7 +9260,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "documented",
-   "citation": "https://www.pacificng.com/w/index.php?title=Arcata_and_Mad_River_Railroad; https://en.wikipedia.org/wiki/Arcata_and_Mad_River_Railroad; https://www.californiahistoricallandmarks.com/landmarks/chl-842; GNIS",
+   "citation": "Stanley T. Borden's Western Railroader monograph on the Arcata & Mad River R.R.; Lynwood Carranco, Redwood Lumber Industry (Golden West, 1982); the 1854 Union Plank Walk predecessor and the Annie & Mary line; https://www.pacificng.com/w/index.php?title=Arcata_and_Mad_River_Railroad; https://en.wikipedia.org/wiki/Arcata_and_Mad_River_Railroad; https://www.californiahistoricallandmarks.com/landmarks/chl-842; GNIS",
    "stops": [
     {
      "id": "arcata-mad-river-railroad-ex-union-plank-arcata-plaza-wharf-ran-2-mi-11-000-ft-so",
@@ -7098,7 +9331,197 @@
      "notes": "Waypoint source: GNIS 1658920 Korbel (Populated Place) — precision: place"
     }
    ],
-   "notes": "The 1854 plank-walk/wharf horse tramway is the 'oldest railroad in California' claim usually cited for Arcata (CHL 842 marker text: 'the oldest line on the north coast')."
+   "notes": "Alignment: OSM via Overpass: abandoned/disused ways including one tagged 'Arcata and Mad River Railroad', the 'Annie & Mary Bridge', and connected 'Logging Railroad' ways, stitched Arcata to Korbel; one 3.4 km unmapped gap across the Arcata bottoms bridged straight ([40.. 20 km. Path verified to pass Glendale (40.903,-124.041), the Annie & Mary bridge site, and Blue Lake (40.884,-123.994) en route to Korbel on the North Fork Mad River. The wharf leg into Humboldt Bay i The 1854 plank-walk/wharf horse tramway is the 'oldest railroad in California' claim usually cited for Arcata (CHL 842 marker text: 'the oldest line on the north coast').",
+   "path": [
+    [
+     40.8412,
+     -124.097
+    ],
+    [
+     40.8578,
+     -124.0927
+    ],
+    [
+     40.8655,
+     -124.09268
+    ],
+    [
+     40.87267,
+     -124.09005
+    ],
+    [
+     40.87579,
+     -124.09099
+    ],
+    [
+     40.87728,
+     -124.09074
+    ],
+    [
+     40.87861,
+     -124.08965
+    ],
+    [
+     40.87912,
+     -124.08866
+    ],
+    [
+     40.87946,
+     -124.08479
+    ],
+    [
+     40.90501,
+     -124.06917
+    ],
+    [
+     40.90739,
+     -124.06921
+    ],
+    [
+     40.90869,
+     -124.06989
+    ],
+    [
+     40.9101,
+     -124.06489
+    ],
+    [
+     40.90969,
+     -124.06171
+    ],
+    [
+     40.9067,
+     -124.05854
+    ],
+    [
+     40.90665,
+     -124.04952
+    ],
+    [
+     40.90616,
+     -124.04797
+    ],
+    [
+     40.90436,
+     -124.04591
+    ],
+    [
+     40.90331,
+     -124.04342
+    ],
+    [
+     40.90304,
+     -124.03583
+    ],
+    [
+     40.90208,
+     -124.0336
+    ],
+    [
+     40.90056,
+     -124.03197
+    ],
+    [
+     40.90138,
+     -124.02935
+    ],
+    [
+     40.90027,
+     -124.02528
+    ],
+    [
+     40.90072,
+     -124.02241
+    ],
+    [
+     40.90038,
+     -124.01858
+    ],
+    [
+     40.89948,
+     -124.01631
+    ],
+    [
+     40.89946,
+     -124.01343
+    ],
+    [
+     40.90023,
+     -124.01174
+    ],
+    [
+     40.90002,
+     -124.00986
+    ],
+    [
+     40.89612,
+     -124.00697
+    ],
+    [
+     40.89118,
+     -124.0002
+    ],
+    [
+     40.89032,
+     -123.99995
+    ],
+    [
+     40.88868,
+     -124.00063
+    ],
+    [
+     40.88779,
+     -124.00011
+    ],
+    [
+     40.88635,
+     -123.9968
+    ],
+    [
+     40.881,
+     -123.99048
+    ],
+    [
+     40.87964,
+     -123.98784
+    ],
+    [
+     40.87811,
+     -123.98672
+    ],
+    [
+     40.87692,
+     -123.98261
+    ],
+    [
+     40.87501,
+     -123.97981
+    ],
+    [
+     40.8677,
+     -123.97131
+    ],
+    [
+     40.86741,
+     -123.96909
+    ],
+    [
+     40.86848,
+     -123.96618
+    ],
+    [
+     40.86959,
+     -123.9651
+    ],
+    [
+     40.87359,
+     -123.96325
+    ],
+    [
+     40.8748,
+     -123.96334
+    ]
+   ]
   },
   {
    "id": "humboldt-bay-eel-river-railroad-pacific-lumber-co-scotia-alt",
@@ -7106,7 +9529,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "documented",
-   "citation": "https://en.wikipedia.org/wiki/Eel_River_and_Eureka_Railroad; https://en.wikipedia.org/wiki/San_Francisco_and_Northwestern_Railway; https://lostcoastoutpost.com/2018/mar/11/ugly-looking-bluff-lorenzo-painter-and-pacific-lum/ (Scotia Bluffs construction); GNIS",
+   "citation": "Lynwood Carranco, Redwood Lumber Industry (1982), Pacific Lumber and the Humboldt Bay & Eel River lines; Stindt & Dunscomb, The Northwestern Pacific Railroad: Redwood Empire Route (1964); the HB&ER trackage became the NWP main; https://en.wikipedia.org/wiki/Eel_River_and_Eureka_Railroad; https://en.wikipedia.org/wiki/San_Francisco_and_Northwestern_Railway; https://lostcoastoutpost.com/2018/mar/11/ugly-looking-bluff-lorenzo-painter-and-pacific-lum/ (Scotia Bluffs construction); GNIS",
    "stops": [
     {
      "id": "humboldt-bay-eel-river-railroad-pacific--scotia-pacific-lumber-mill-earlier-fores",
@@ -7177,7 +9600,253 @@
      "notes": "Waypoint source: GNIS 1656012 Fields Landing (Populated Place) — precision: place"
     }
    ],
-   "notes": "This corridor became the NWP main; the Scotia Bluffs stretch was notoriously unstable ('Our Doomed Railroad', Lost Coast Outpost)."
+   "notes": "Alignment: OSM via Overpass (kumi.systems mirror): NWP 'Humboldt Bay Block' ways (railway=rail/disused/abandoned), stitched Scotia to Fields Landing (35.7 km, one 1.1 km gap bridged near Alton) and Fields Landing to Bucksport (two gaps totaling 1.7 km bridged), trimmed a. 42.3 km on the surviving NWP corridor, which directly overlies the 1880s-1900s HB&ER/Pacific Lumber route: Scotia mill, down the Eel past Alton (junction of the Carlotta branch, not drawn), through Fo This corridor became the NWP main; the Scotia Bluffs stretch was notoriously unstable ('Our Doomed Railroad', Lost Coast Outpost).",
+   "path": [
+    [
+     40.48534,
+     -124.10475
+    ],
+    [
+     40.48784,
+     -124.10222
+    ],
+    [
+     40.49393,
+     -124.09291
+    ],
+    [
+     40.49694,
+     -124.08991
+    ],
+    [
+     40.50032,
+     -124.08808
+    ],
+    [
+     40.50336,
+     -124.08917
+    ],
+    [
+     40.50616,
+     -124.09258
+    ],
+    [
+     40.50781,
+     -124.09547
+    ],
+    [
+     40.50956,
+     -124.10047
+    ],
+    [
+     40.51198,
+     -124.11171
+    ],
+    [
+     40.51193,
+     -124.11972
+    ],
+    [
+     40.51231,
+     -124.1226
+    ],
+    [
+     40.51802,
+     -124.1359
+    ],
+    [
+     40.52045,
+     -124.14465
+    ],
+    [
+     40.52151,
+     -124.1465
+    ],
+    [
+     40.52327,
+     -124.14819
+    ],
+    [
+     40.52723,
+     -124.15071
+    ],
+    [
+     40.52865,
+     -124.15096
+    ],
+    [
+     40.533,
+     -124.1499
+    ],
+    [
+     40.54158,
+     -124.14415
+    ],
+    [
+     40.54766,
+     -124.1418
+    ],
+    [
+     40.55214,
+     -124.14525
+    ],
+    [
+     40.55376,
+     -124.14589
+    ],
+    [
+     40.57541,
+     -124.14825
+    ],
+    [
+     40.58978,
+     -124.15451
+    ],
+    [
+     40.59485,
+     -124.15873
+    ],
+    [
+     40.59736,
+     -124.16247
+    ],
+    [
+     40.6046,
+     -124.17897
+    ],
+    [
+     40.60539,
+     -124.18228
+    ],
+    [
+     40.6072,
+     -124.18551
+    ],
+    [
+     40.61303,
+     -124.19366
+    ],
+    [
+     40.61615,
+     -124.20183
+    ],
+    [
+     40.61868,
+     -124.20688
+    ],
+    [
+     40.62058,
+     -124.21258
+    ],
+    [
+     40.62299,
+     -124.21716
+    ],
+    [
+     40.62588,
+     -124.22009
+    ],
+    [
+     40.63778,
+     -124.22464
+    ],
+    [
+     40.64306,
+     -124.2248
+    ],
+    [
+     40.64517,
+     -124.2234
+    ],
+    [
+     40.6465,
+     -124.22068
+    ],
+    [
+     40.64614,
+     -124.21556
+    ],
+    [
+     40.64714,
+     -124.21283
+    ],
+    [
+     40.65149,
+     -124.20673
+    ],
+    [
+     40.65458,
+     -124.20136
+    ],
+    [
+     40.6611,
+     -124.19772
+    ],
+    [
+     40.67082,
+     -124.19959
+    ],
+    [
+     40.68171,
+     -124.20007
+    ],
+    [
+     40.69839,
+     -124.20356
+    ],
+    [
+     40.70026,
+     -124.20459
+    ],
+    [
+     40.70623,
+     -124.21031
+    ],
+    [
+     40.71303,
+     -124.21552
+    ],
+    [
+     40.71444,
+     -124.21626
+    ],
+    [
+     40.71821,
+     -124.21653
+    ],
+    [
+     40.72129,
+     -124.21899
+    ],
+    [
+     40.7236,
+     -124.2195
+    ],
+    [
+     40.72521,
+     -124.21905
+    ],
+    [
+     40.73335,
+     -124.21376
+    ],
+    [
+     40.7555,
+     -124.19488
+    ],
+    [
+     40.75766,
+     -124.19433
+    ],
+    [
+     40.77338,
+     -124.19419
+    ],
+    [
+     40.78071,
+     -124.19166
+    ]
+   ]
   },
   {
    "id": "dolbeer-carson-lumber-co-bucksport-elk-river-railroad",
@@ -7185,7 +9854,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "https://oac.cdlib.org/findaid/ark:/13030/tf6n39n91p/ (Dolbeer & Carson records, incl. Bucksport & Elk River Railroad Co.); Calisphere leads (bot-blocked): https://calisphere.org/item/66bc0b9b4ce82259d12d69c35346483e/ and https://calisphere.org/item/23b8e510760de9624cbffc0bdb846f78/ (1934 N.F. Elk River railroad photos); http://www.krisweb.com/krishumboldtbay/krisdb/html/krisweb/humbay_historic/bay",
+   "citation": "Jon Humboldt Gates, Falk's Claim: The Life and Death of a Redwood Lumber Town (1983); Lynwood Carranco, Redwood Lumber Industry (1982) on Dolbeer & Carson and the Elk River operations; Wikipedia, Falk, California (townsite coordinates 40.6895,-124.1308; the mill railroad extended five miles up the canyon in 1903); https://oac.cdlib.org/findaid/ark:/13030/tf6n39n91p/ (Dolbeer & Carson records, incl. Bucksport & Elk River Railroad Co.); Calisphere leads (bot-blocked): https://calisphere.org/item/6",
    "stops": [
     {
      "id": "dolbeer-carson-lumber-co-bucksport-elk-r-bucksport-humboldt-bay-railhead",
@@ -7239,15 +9908,305 @@
      "notes": "Waypoint source: GNIS 255115 North Fork Elk River (Stream); Calisphere 1934 photo captions (bot-blocked, lead only) — precision: area; reconstructed"
     }
    ],
-   "notes": "John Dolbeer patented the steam donkey (1881-82, first used in D&C's Salmon Creek operations). D&C's mill was on the Eureka waterfront (Eureka GNIS 277605: 40.80208,-124.16369). Their separate Humboldt Northern Railway (sold 1927 to Little River Redwood) is a different, more northerly line — do not conflate."
+   "notes": "Alignment: Hand lead-in from Bucksport along the bay shore to the Elk River mouth; then NHD flowlines GNIS 'Elk River' (mainstem) and GNIS 'South Fork Elk River' to Falk at 40.6895,-124.1308 (Wikipedia article coordinates; the South Fork flowline passes 74 m from the tow. 21.3 km including creek meanders. Today's BLM Elk River Trail into Headwaters Forest Reserve overlies the grade near Falk. The creek centerline stands in for the grade, which ran on the adjacent valle John Dolbeer patented the steam donkey (1881-82, first used in D&C's Salmon Creek operations). D&C's mill was on the Eureka waterfront (Eureka GNIS 277605: 40.80208,-124.16369). Their separate Humboldt Northern Railway (sold 1",
+   "path": [
+    [
+     40.779,
+     -124.1877
+    ],
+    [
+     40.7685,
+     -124.1917
+    ],
+    [
+     40.759,
+     -124.1938
+    ],
+    [
+     40.75603,
+     -124.19316
+    ],
+    [
+     40.75555,
+     -124.1901
+    ],
+    [
+     40.75167,
+     -124.18768
+    ],
+    [
+     40.75154,
+     -124.19164
+    ],
+    [
+     40.74789,
+     -124.19572
+    ],
+    [
+     40.74725,
+     -124.19141
+    ],
+    [
+     40.74201,
+     -124.19437
+    ],
+    [
+     40.74031,
+     -124.18709
+    ],
+    [
+     40.73626,
+     -124.19009
+    ],
+    [
+     40.73267,
+     -124.18799
+    ],
+    [
+     40.72876,
+     -124.18739
+    ],
+    [
+     40.72767,
+     -124.18609
+    ],
+    [
+     40.72909,
+     -124.18464
+    ],
+    [
+     40.72873,
+     -124.18137
+    ],
+    [
+     40.73033,
+     -124.18007
+    ],
+    [
+     40.7303,
+     -124.17774
+    ],
+    [
+     40.72942,
+     -124.17981
+    ],
+    [
+     40.72747,
+     -124.18054
+    ],
+    [
+     40.72622,
+     -124.18019
+    ],
+    [
+     40.72677,
+     -124.17822
+    ],
+    [
+     40.72572,
+     -124.1786
+    ],
+    [
+     40.72499,
+     -124.17703
+    ],
+    [
+     40.72283,
+     -124.17626
+    ],
+    [
+     40.72187,
+     -124.17767
+    ],
+    [
+     40.72154,
+     -124.17502
+    ],
+    [
+     40.71831,
+     -124.17695
+    ],
+    [
+     40.71675,
+     -124.17417
+    ],
+    [
+     40.71931,
+     -124.17128
+    ],
+    [
+     40.71848,
+     -124.16935
+    ],
+    [
+     40.71787,
+     -124.16877
+    ],
+    [
+     40.71653,
+     -124.17052
+    ],
+    [
+     40.71403,
+     -124.17009
+    ],
+    [
+     40.71361,
+     -124.16713
+    ],
+    [
+     40.71446,
+     -124.1663
+    ],
+    [
+     40.71229,
+     -124.1633
+    ],
+    [
+     40.71067,
+     -124.16707
+    ],
+    [
+     40.70918,
+     -124.16748
+    ],
+    [
+     40.7106,
+     -124.16316
+    ],
+    [
+     40.70921,
+     -124.16349
+    ],
+    [
+     40.7081,
+     -124.16232
+    ],
+    [
+     40.70599,
+     -124.16312
+    ],
+    [
+     40.70732,
+     -124.16042
+    ],
+    [
+     40.70661,
+     -124.15814
+    ],
+    [
+     40.70572,
+     -124.15857
+    ],
+    [
+     40.7065,
+     -124.15981
+    ],
+    [
+     40.70476,
+     -124.16144
+    ],
+    [
+     40.70495,
+     -124.16277
+    ],
+    [
+     40.70317,
+     -124.16231
+    ],
+    [
+     40.70215,
+     -124.16034
+    ],
+    [
+     40.70415,
+     -124.15666
+    ],
+    [
+     40.70222,
+     -124.15606
+    ],
+    [
+     40.70141,
+     -124.15365
+    ],
+    [
+     40.70221,
+     -124.15186
+    ],
+    [
+     40.70033,
+     -124.15149
+    ],
+    [
+     40.70131,
+     -124.14876
+    ],
+    [
+     40.69831,
+     -124.1493
+    ],
+    [
+     40.69814,
+     -124.14837
+    ],
+    [
+     40.69892,
+     -124.14874
+    ],
+    [
+     40.69966,
+     -124.14704
+    ],
+    [
+     40.69693,
+     -124.14755
+    ],
+    [
+     40.69701,
+     -124.14461
+    ],
+    [
+     40.69573,
+     -124.14299
+    ],
+    [
+     40.69247,
+     -124.14439
+    ],
+    [
+     40.69314,
+     -124.14217
+    ],
+    [
+     40.69141,
+     -124.1415
+    ],
+    [
+     40.6902,
+     -124.13521
+    ],
+    [
+     40.68907,
+     -124.13449
+    ],
+    [
+     40.68967,
+     -124.13252
+    ],
+    [
+     40.68751,
+     -124.131
+    ]
+   ]
   },
   {
    "id": "salt-point-horse-railroad-quarry-mill-to-gerstle-cove-landin",
    "label": "Salt Point horse railroad (quarry/mill to Gerstle Cove landing) — not stated (horse-drawn)",
    "layer": "rails",
    "color": "#7f2020",
-   "path_confidence": "reconstructed",
-   "citation": "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Salt Point Landing, lines ~1725-1750, 2782-2812); https://en.wikipedia.org/wiki/Salt_Point_State_Park; https://www.saltpoint.org/history; GNIS",
+   "path_confidence": "conjectural",
+   "citation": "J. P. Munro-Fraser, History of Sonoma County (Alley, Bowen & Co., 1880), lumbering and chute landings at Salt Point; California State Parks, Salt Point SP interpretive materials on the Gerstle Cove landing; /Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Salt Point Landing, lines ~1725-1750, 2782-2812); https://en.wikipedia.org/wiki/Salt_Point_State_Park; https://www.saltpoint.org/history; GNIS",
    "stops": [
     {
      "id": "salt-point-horse-railroad-quarry-mill-to-salt-point-quarry-outcrops-cut-stone-and",
@@ -7284,7 +10243,29 @@
      "notes": "Waypoint source: GNIS 224133 Gerstle Cove (Bay); doghole MPDF Salt Point Landing section — precision: place"
     }
    ],
-   "notes": "VERIFICATION RESULT on the early-railroad claim: the 1850s activity documented is quarrying + a pier (MPDF); the rail feature documented by Wikipedia/park literature is the HORSE-DRAWN RAILROAD from the Miller sawmill era (1870s), and Wikipedia makes NO 'first railroad in California' claim. Treat any '1850s railroad at Salt Point' statement as UNVERIFIED. Salt Point Landing NRHP district (NRIS RS100007268) is the deeper source to pull if this route is promoted; Douglass 2002 (Sonoma State MA the"
+   "notes": "Alignment: Hand-drawn: no OSM trace, and NHD returned no feature named 'Miller Gulch' in the Salt Point bbox; straight terrace alignment from the Miller Gulch mill area to Gerstle Cove landing. CONJECTURAL throughout, as permitted by the task. Endpoints: mill area placed at the gulch ~1.5 km NW of the cove, landing at Gerstle Cove. Draw dashed. VERIFICATION RESULT on the early-railroad claim: the 1850s activity documented is quarrying + a pier (MPDF); the rail feature documented by Wikipedia/park literature is the HORSE-DRAWN RAILROAD from the Miller sawmill era (1870s), and Wikipedia makes NO 'first railroad in California' claim. Treat any '1850s railroad at Salt Point' statement as UNVERIF",
+   "path": [
+    [
+     38.5795,
+     -123.3438
+    ],
+    [
+     38.5757,
+     -123.3408
+    ],
+    [
+     38.5716,
+     -123.3377
+    ],
+    [
+     38.5684,
+     -123.3352
+    ],
+    [
+     38.5661,
+     -123.3325
+    ]
+   ]
   },
   {
    "id": "duncans-landing-horse-tram-duncans-mills-land-lumber-co-wrig",
@@ -7292,7 +10273,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "reconstructed",
-   "citation": "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Duncan's Landing, lines ~2941-2990); GNIS; https://en.wikipedia.org/wiki/Duncans_Point (lead)",
+   "citation": "A. Bray Dickinson, Narrow Gauge to the Redwoods (1967), the Duncan brothers' original coastal mill and the 1877 move upriver to Duncans Mills; Munro-Fraser, History of Sonoma County (1880); /Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Duncan's Landing, lines ~2941-2990); GNIS; https://en.wikipedia.org/wiki/Duncans_Point (lead)",
    "stops": [
     {
      "id": "duncans-landing-horse-tram-duncans-mills-tram-north-end-near-the-duncan-mill-wrig",
@@ -7346,7 +10327,33 @@
      "notes": "Waypoint source: GNIS 1723325 Duncans Cove (Bay); MPDF Duncan's Landing section — precision: place"
     }
    ],
-   "notes": "This is the 'headland railway' the task asked for: horse-drawn, narrow-gauge, coast-parallel. The Duncans moved their mill upriver to Duncans Mills in 1877 when the NPC arrived."
+   "notes": "Alignment: Hand-drawn coast-parallel alignment on the marine terrace (today's Highway 1 bench) ending at Duncan's Landing cove (38.3927,-123.0947). ~1 mile per the project's research. The landing endpoint is firm (Duncan's Landing/Death Rock, Sonoma Coast SP); the mill endpoint is approximate, placed ~1 mile north on the terrace. If your sources  This is the 'headland railway' the task asked for: horse-drawn, narrow-gauge, coast-parallel. The Duncans moved their mill upriver to Duncans Mills in 1877 when the NPC arrived.",
+   "path": [
+    [
+     38.4079,
+     -123.0958
+    ],
+    [
+     38.4041,
+     -123.0975
+    ],
+    [
+     38.4003,
+     -123.0982
+    ],
+    [
+     38.3968,
+     -123.0972
+    ],
+    [
+     38.3944,
+     -123.0958
+    ],
+    [
+     38.3927,
+     -123.0947
+    ]
+   ]
   },
   {
    "id": "north-pacific-coast-railroad-sausalito-duncans-mills-narrow-",
@@ -7354,7 +10361,7 @@
    "layer": "rails",
    "color": "#7f2020",
    "path_confidence": "documented",
-   "citation": "https://en.wikipedia.org/wiki/North_Pacific_Coast_Railroad; https://www.pacificng.com/template.php?page=roads%2Fca%2Fnpc%2Findex.htm; /Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (lines ~1770-1773, 2990s); GNIS",
+   "citation": "A. Bray Dickinson, Narrow Gauge to the Redwoods: The Story of the North Pacific Coast Railroad (Trans-Anglo, 1967); Modern rail-trail overlays of the grade: Mill Valley-Sausalito Path, Corte Madera Pathway, Cross Marin Trail (all tagged railway=abandoned in OSM); https://en.wikipedia.org/wiki/North_Pacific_Coast_Railroad; https://www.pacificng.com/template.php?page=roads%2Fca%2Fnpc%2Findex.htm; /Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (lines ~1770-1773, ",
    "stops": [
     {
      "id": "north-pacific-coast-railroad-sausalito-d-sausalito-ferry-pier-terminal",
@@ -7459,7 +10466,489 @@
      "notes": "Waypoint source: GNIS 222722 Duncans Mills (Populated Place) — precision: place"
     }
    ],
-   "notes": "Included as the rail alternative that undercut the Sonoma coast doghole trade (Duncan's Landing chutes abandoned by 1889 — Davidson 1889 via MPDF)."
+   "notes": "Alignment: Mostly OSM via Overpass: railway=abandoned ways over the NPC grade stitched in stages (Sausalito shore path, Alto tunnel corridor, old Corte Madera depot at Menke Park, Larkspur, Kentfield, Ross, San Anselmo, Fairfax, White's Hill, Lagunitas Creek/Cross Marin . 113.6 km, simplified hard to the 120-point cap with a step-length constraint so chords do not cut across Richardson or Tomales Bays. Documented (mapped abandoned grade) for roughly Sausalito-Valley Fo Included as the rail alternative that undercut the Sonoma coast doghole trade (Duncan's Landing chutes abandoned by 1889 — Davidson 1889 via MPDF).",
+   "path": [
+    [
+     37.8565,
+     -122.478
+    ],
+    [
+     37.8623,
+     -122.49427
+    ],
+    [
+     37.86702,
+     -122.50085
+    ],
+    [
+     37.87211,
+     -122.50473
+    ],
+    [
+     37.88703,
+     -122.52426
+    ],
+    [
+     37.90215,
+     -122.52704
+    ],
+    [
+     37.91366,
+     -122.52372
+    ],
+    [
+     37.92988,
+     -122.53202
+    ],
+    [
+     37.93827,
+     -122.53478
+    ],
+    [
+     37.94311,
+     -122.53997
+    ],
+    [
+     37.94881,
+     -122.54949
+    ],
+    [
+     37.9587,
+     -122.55293
+    ],
+    [
+     37.96511,
+     -122.55929
+    ],
+    [
+     37.97619,
+     -122.56239
+    ],
+    [
+     37.97795,
+     -122.56911
+    ],
+    [
+     37.98574,
+     -122.58263
+    ],
+    [
+     37.9874,
+     -122.59047
+    ],
+    [
+     37.99449,
+     -122.59493
+    ],
+    [
+     38.00117,
+     -122.6017
+    ],
+    [
+     38.00402,
+     -122.61205
+    ],
+    [
+     38.00603,
+     -122.63235
+    ],
+    [
+     38.0129,
+     -122.64585
+    ],
+    [
+     38.0135,
+     -122.6678
+    ],
+    [
+     38.00989,
+     -122.70198
+    ],
+    [
+     38.00563,
+     -122.70651
+    ],
+    [
+     38.00544,
+     -122.7104
+    ],
+    [
+     38.01076,
+     -122.71162
+    ],
+    [
+     38.01423,
+     -122.7153
+    ],
+    [
+     38.0198,
+     -122.72697
+    ],
+    [
+     38.01787,
+     -122.73298
+    ],
+    [
+     38.02447,
+     -122.7371
+    ],
+    [
+     38.02877,
+     -122.7374
+    ],
+    [
+     38.02861,
+     -122.74436
+    ],
+    [
+     38.03286,
+     -122.74275
+    ],
+    [
+     38.03668,
+     -122.74675
+    ],
+    [
+     38.0425,
+     -122.74622
+    ],
+    [
+     38.04974,
+     -122.76006
+    ],
+    [
+     38.05593,
+     -122.76082
+    ],
+    [
+     38.05884,
+     -122.77206
+    ],
+    [
+     38.06672,
+     -122.77441
+    ],
+    [
+     38.07358,
+     -122.77157
+    ],
+    [
+     38.08019,
+     -122.78217
+    ],
+    [
+     38.07297,
+     -122.78463
+    ],
+    [
+     38.07545,
+     -122.793
+    ],
+    [
+     38.07439,
+     -122.79804
+    ],
+    [
+     38.06856,
+     -122.80013
+    ],
+    [
+     38.06714,
+     -122.80321
+    ],
+    [
+     38.07088,
+     -122.80971
+    ],
+    [
+     38.07133,
+     -122.81443
+    ],
+    [
+     38.07847,
+     -122.81587
+    ],
+    [
+     38.08067,
+     -122.82612
+    ],
+    [
+     38.09142,
+     -122.82528
+    ],
+    [
+     38.10125,
+     -122.83695
+    ],
+    [
+     38.10757,
+     -122.84213
+    ],
+    [
+     38.10827,
+     -122.84514
+    ],
+    [
+     38.11591,
+     -122.85305
+    ],
+    [
+     38.12118,
+     -122.86301
+    ],
+    [
+     38.12756,
+     -122.86285
+    ],
+    [
+     38.13344,
+     -122.87084
+    ],
+    [
+     38.14007,
+     -122.87185
+    ],
+    [
+     38.14394,
+     -122.88109
+    ],
+    [
+     38.14863,
+     -122.88358
+    ],
+    [
+     38.15403,
+     -122.89093
+    ],
+    [
+     38.15916,
+     -122.89442
+    ],
+    [
+     38.16236,
+     -122.89384
+    ],
+    [
+     38.16376,
+     -122.89836
+    ],
+    [
+     38.17455,
+     -122.90379
+    ],
+    [
+     38.1799,
+     -122.90896
+    ],
+    [
+     38.18816,
+     -122.91281
+    ],
+    [
+     38.19044,
+     -122.91727
+    ],
+    [
+     38.19925,
+     -122.92046
+    ],
+    [
+     38.20598,
+     -122.92563
+    ],
+    [
+     38.21531,
+     -122.92524
+    ],
+    [
+     38.22231,
+     -122.92184
+    ],
+    [
+     38.22517,
+     -122.91775
+    ],
+    [
+     38.23288,
+     -122.91583
+    ],
+    [
+     38.23499,
+     -122.91068
+    ],
+    [
+     38.23925,
+     -122.90815
+    ],
+    [
+     38.24775,
+     -122.91438
+    ],
+    [
+     38.24803,
+     -122.90735
+    ],
+    [
+     38.25476,
+     -122.90476
+    ],
+    [
+     38.26148,
+     -122.89916
+    ],
+    [
+     38.26853,
+     -122.90506
+    ],
+    [
+     38.27357,
+     -122.90612
+    ],
+    [
+     38.27943,
+     -122.89788
+    ],
+    [
+     38.29072,
+     -122.89885
+    ],
+    [
+     38.29747,
+     -122.89555
+    ],
+    [
+     38.30297,
+     -122.89858
+    ],
+    [
+     38.30626,
+     -122.91048
+    ],
+    [
+     38.31261,
+     -122.91205
+    ],
+    [
+     38.31361,
+     -122.91964
+    ],
+    [
+     38.3187,
+     -122.9236
+    ],
+    [
+     38.3421,
+     -122.9385
+    ],
+    [
+     38.3556,
+     -122.9445
+    ],
+    [
+     38.3688,
+     -122.9469
+    ],
+    [
+     38.3901,
+     -122.9438
+    ],
+    [
+     38.4076,
+     -122.9481
+    ],
+    [
+     38.41743,
+     -122.95089
+    ],
+    [
+     38.42336,
+     -122.95464
+    ],
+    [
+     38.42542,
+     -122.96008
+    ],
+    [
+     38.42973,
+     -122.96192
+    ],
+    [
+     38.43367,
+     -122.97195
+    ],
+    [
+     38.43997,
+     -122.97669
+    ],
+    [
+     38.44281,
+     -122.976
+    ],
+    [
+     38.44577,
+     -122.98153
+    ],
+    [
+     38.44305,
+     -122.98363
+    ],
+    [
+     38.44273,
+     -122.99335
+    ],
+    [
+     38.44856,
+     -123.00076
+    ],
+    [
+     38.45369,
+     -123.00068
+    ],
+    [
+     38.45792,
+     -123.01023
+    ],
+    [
+     38.46508,
+     -123.00926
+    ],
+    [
+     38.47711,
+     -123.02396
+    ],
+    [
+     38.47109,
+     -123.02766
+    ],
+    [
+     38.46888,
+     -123.03332
+    ],
+    [
+     38.46236,
+     -123.04143
+    ],
+    [
+     38.46563,
+     -123.04877
+    ],
+    [
+     38.46123,
+     -123.05397
+    ],
+    [
+     38.4559,
+     -123.04973
+    ],
+    [
+     38.45153,
+     -123.05078
+    ],
+    [
+     38.4535,
+     -123.0536
+    ]
+   ]
   }
  ],
  "unlocated": [
