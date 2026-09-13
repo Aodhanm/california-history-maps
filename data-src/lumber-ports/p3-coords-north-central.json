@@ -1,0 +1,401 @@
+{
+ "features": [
+  {
+   "name": "Bear Harbor landing (second/main site, Cluster Cone Rocks)",
+   "coords": [
+    39.91154,
+    -123.93975
+   ],
+   "coord_source": "GNIS 221267 (Cluster Cone Rocks); NRHP nomination on disk (bear-harbor-landing-nrhp-nomination.pdf); Davidson 1889 Coast Pilot p.299-300",
+   "precision": "place",
+   "evidence": "NRHP nomination: second landing (1890-1907) had 'a new pier and wire chute... on the cliffside just east of Cluster Cone Rocks'; Davidson 1889 gives Cluster Cone Rock latitude 39\u00b054.x'N matching GNIS. Nomination's district boundary vertex 5 (39.909696,-123.938707) sits immediately adjacent.",
+   "notes": "Coordinate is the GNIS rock; the pier/chute stood on the cliff just east (onshore) of it. First landing (1874-1890) was at Morgan Rock, GNIS 229055: [39.91709,-123.94725] \u2014 Davidson 1889: '1885 wharf built from the cliffs abreast Morgan's Rocks... out as far as the rocks.' If mapping one point, use Cluster Cone; if two phases, plot both."
+  },
+  {
+   "name": "Needle Rock landing",
+   "coords": [
+    39.94454,
+    -123.96866
+   ],
+   "coord_source": "GNIS 229443 (Needle Rock, Bear Harbor quad, Mendocino Co.)",
+   "precision": "place",
+   "evidence": "Bear Harbor NRHP nomination refers repeatedly to 'Needle Rock Landing' with a chute at Needle Rock in the 1890s ('a chute at Needle Rock Landing'); Davidson 1889: Needle Rock 'lies within ten yards of the shore-line... 6-3/4 miles S 62\u00b0 E from Point Delgada.'",
+   "notes": "Sinkyone Wilderness SP visitor center is at the old Needle Rock settlement just inshore."
+  },
+  {
+   "name": "Shelter Cove pier site",
+   "coords": [
+    40.02047,
+    -124.06786
+   ],
+   "coord_source": "Davidson 1889 Coast Pilot (on-disk fulltext): C&GS secondary astronomical station 40\u00b001'13.7\"N, 124\u00b004'04.3\"W on the cliff overlooking the harbor; GNIS 232947 Shelter Cove (bay) 40.02431,-124.06364 corroborates",
+   "precision": "place",
+   "evidence": "Davidson 1889: 'A short distance inside the inner point, where the cliff is sixty or seventy feet high, there has been built out to beyond low water mark a dry stone pier about sixty feet in extent, at which lighters load and unload' (1885); station coords given for 'the southeast part of the cliff overlooking the harbor.'",
+   "notes": "Coordinate is the 1889-datum station on the cliff directly above the pier; expect up to ~100-200 m datum offset vs WGS84. Pier remnant area is at the modern Machi Rd launch shore below."
+  },
+  {
+   "name": "Mattole Wharf (Sea Lion Rock)",
+   "coords": [
+    40.30958,
+    -124.35366
+   ],
+   "coord_source": "GNIS 253832 (Sea Lion Rock, Petrolia quad, Humboldt Co., BGN 1973); mattolehistory.wordpress.com (Mattole Valley Hist. Soc.)",
+   "precision": "place",
+   "evidence": "Mattole history: 1908 contract let Mattole Lumber Co. use 'Sea Lion Rock to build their wharf and set their donkey engine for the purpose of running a high line out to load tanbark onto schooners.' GNIS rock lies on the shore ~0.8 km north of the Mattole River mouth (GNIS river mouth 40.30236,-124.35394), matching 'ranch land on the north side at the mouth of the river.'",
+   "notes": "Wharf operated ~1908-1918, tanbark trade; Punta Gorda is ~6 km south."
+  },
+  {
+   "name": "Eureka waterfront (historic mill district)",
+   "coords": [
+    40.80207,
+    -124.16367
+   ],
+   "coord_source": "GNIS 277605 (Eureka populated place); Davidson 1889 Coast Pilot",
+   "precision": "area",
+   "evidence": "Davidson 1889: 'Eureka is the great lumber center of this region, and its shipping is enormous... [mills] in the immediate vicinity of Eureka'; waterfront fronts the 200-yard-wide Eureka Channel opposite Indian Island. GNIS point is downtown two blocks off the bay front.",
+   "notes": "Mill/wharf line ran along the bay front (1st-2nd St, roughly C St to west of downtown). Area-level by nature \u2014 it is a district, not a point."
+  },
+  {
+   "name": "Bucksport",
+   "coords": [
+    40.77513,
+    -124.19228
+   ],
+   "coord_source": "GNIS 1655852 (Bucksport populated place, Eureka quad)",
+   "precision": "place",
+   "evidence": "GNIS official populated-place record on the Humboldt Bay shore south of Eureka; historic mill town site adjacent to Fort Humboldt (GNIS 1702454, 40.77667,-124.1875).",
+   "notes": ""
+  },
+  {
+   "name": "Fields Landing (Humboldt Bay)",
+   "coords": [
+    40.72457,
+    -124.21506
+   ],
+   "coord_source": "GNIS 1656012 (Fields Landing populated place, Fields Landing quad)",
+   "precision": "place",
+   "evidence": "GNIS official record; town sits on the east shore of South Bay with its wharf frontage (GNIS South Bay 234926 and Southport Channel 235139 adjacent).",
+   "notes": ""
+  },
+  {
+   "name": "Fairhaven / Bendixsen shipyard site (North Spit)",
+   "coords": [
+    40.78513,
+    -124.20284
+   ],
+   "coord_source": "GNIS 1656006 (Fairhaven populated place, Eureka quad); HAER CA-61 (C.A. Thayer) data pages on disk",
+   "precision": "place",
+   "evidence": "HAER CA-61: 'By 1875 he had outgrown that [Eureka] yard, so he moved across the bay to the North Spit, where he established his new yard at Fairhaven... within a few years he had a 14-acre facility with shops, sawmills and cottages for 150 workers.'",
+   "notes": "Yard occupied the bay side of Fairhaven on the North Spit; GNIS town point is the anchor, yard footprint extends to the channel edge."
+  },
+  {
+   "name": "Samoa mill",
+   "coords": [
+    40.81874,
+    -124.18645
+   ],
+   "coord_source": "GNIS 1656274 (Samoa populated place, 2023 record); Wikipedia 'Samoa, California' coordinate 40.81861,-124.18639 agrees",
+   "precision": "place",
+   "evidence": "GNIS and Wikipedia coordinates agree within 20 m for the mill-company town on the North Spit fronting Samoa Channel (GNIS 255973).",
+   "notes": "Company mill town (Vance, later Hammond Lumber); mill stood on the bay side of the townsite."
+  },
+  {
+   "name": "Arcata Wharf (2-mi wharf across the flats)",
+   "coords": [
+    40.85525,
+    -124.09559
+   ],
+   "coord_source": "OSM/Nominatim (Klopp Lake, Arcata) + City of Arcata Marsh Treatment History page + Davidson 1889; wharf corridor derived-from-verbal",
+   "precision": "area",
+   "evidence": "City of Arcata: 'The Arcata Wharf was completed in May 1855 and extended 11,000 feet (almost 2 miles) into Humboldt Bay... The old wharf pilings can still be seen from the outer parking lot of the Marsh Project. A few still remain on the west side of the recreational lake [Klopp Lake].' Davidson 1889: 'a long wharf has been constructed well over the flats... A railroad from the Mad River valley carries lumber to vessels loading at this wharf.'",
+   "notes": "Coordinate is Klopp Lake, on the surviving-piling stretch of the wharf alignment; the wharf ran from Arcata's waterfront (GNIS Arcata 40.86652,-124.08284) south through the present marsh into Arcata Bay; 1875 extension +600 yds. Exact alignment needs a georeferenced T-sheet."
+  },
+  {
+   "name": "Trinidad wharf (Hooper's Wharf) / harbor",
+   "coords": [
+    41.0552,
+    -124.1456
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889 bearings from GNIS 231063 Prisoner Rock (41.05235,-124.14479); GNIS 236544 Trinidad Bay 41.05429,-124.14090",
+   "precision": "place",
+   "evidence": "Davidson 1889: 'The seven-feet rock lies two hundred and ten yards broad off the end of Hooper's Wharf. It is one hundred and fifty-five yards N 27\u00b0 W from the highest part of Prisoners Rock, and three hundred and eighty yards N 34\u00b0 E from the southeast point of the Head.' Derived wharf-end = 210 yd shoreward (N) of the rock computed from those bearings.",
+   "notes": "Derived point falls ~100-150 m from the modern Trinidad Pier (foot of Bay/Edwards St), consistent with the historic wharf position on the north shore of Trinidad Bay under Trinidad Head."
+  },
+  {
+   "name": "Port Kenyon (Salt River nr Ferndale)",
+   "coords": [
+    40.59513,
+    -124.27978
+   ],
+   "coord_source": "GNIS 230949 (Port Kenyon populated place, Ferndale quad); Wikipedia 'Port Kenyon, California' 40.595,-124.27972 agrees",
+   "precision": "place",
+   "evidence": "GNIS official populated-place record for the townsite on the Salt River bank; Wikipedia coordinate agrees within 10 m.",
+   "notes": "River landing (bar-harbor type), so an inland-bank position is correct; Salt River silted out in the 1890s-1900s."
+  },
+  {
+   "name": "Requa / Klamath mouth",
+   "coords": [
+    41.54679,
+    -124.06646
+   ],
+   "coord_source": "GNIS 1659500 (Requa populated place, Requa quad); Wikipedia 'Requa, California' 41.54667,-124.06639 agrees",
+   "precision": "place",
+   "evidence": "GNIS official record; townsite on the north bank of the Klamath River mouth (GNIS Klamath River mouth 41.53306,-124.08113).",
+   "notes": "Landing/cannery site on the river inside the bar \u2014 inland-bank position correct for a bar harbor."
+  },
+  {
+   "name": "Crescent City wharf (Hobbs Wall)",
+   "coords": [
+    41.7465,
+    -124.20452
+   ],
+   "coord_source": "GNIS 218735 (Battery Point); Davidson 1889 Coast Pilot verbal geometry; Wikipedia Battery Point Light 41.7441,-124.2031 corroborates the frame",
+   "precision": "place",
+   "evidence": "Davidson 1889: 'A high and well constructed wharf has been built out from the northeast shore of Battery Point for five hundred yards over the reef and out as far as Flat Rock' (Flat Rock '350 yards off the east side of Battery Point... one-quarter mile ENE from the Light-house'); after the Nov 1885 gales 'another wharf, parallel with the former, has been built out from the shore three hundred feet further to the eastward.' JPR/Del Norte Hist. Soc.: Crescent City & Smith River RR (Hobbs, Wall & Co., 1890-94) ran 'a spur continuing on to the wharf.'",
+   "notes": "Coordinate is GNIS Battery Point; the wharf root was on its NE shore with the deck running ~ENE toward Flat Rock (~41.7458,-124.1984 derived). Modern Citizens Dock is farther east."
+  },
+  {
+   "name": "Smith River mill site",
+   "coords": [
+    41.92817,
+    -124.14703
+   ],
+   "coord_source": "GNIS 1659799 (Smith River populated place = Smith River Corners); NPS Redwood NHP online history (nps.gov/parkhistory/online_books/redw/history10) via search snippet",
+   "precision": "area",
+   "evidence": "NPS Redwood history: 'the Fairbanks Brothers opened a small mill near Smith River Corners'; also 'A.M. Smith built a mill on Smith River, near where it was later spanned by the bridge erected by the Crescent City & Smith River Railroad.' Neither mill is pinned to a parcel in any source found.",
+   "notes": "AREA ONLY \u2014 coordinate is the GNIS townsite (Smith River Corners). The A.M. Smith river-bank mill near the CC&SR bridge is a distinct, unpinned site. Do not map as a structure point."
+  },
+  {
+   "name": "Bolinas (Bolinas Lagoon schooner channel)",
+   "coords": [
+    37.90937,
+    -122.68637
+   ],
+   "coord_source": "GNIS 277476 (Bolinas populated place); Davidson 1869 Coast Pilot (on-disk fulltext); GNIS 219605 Bolinas Lagoon 37.91826,-122.68110",
+   "precision": "place",
+   "evidence": "Davidson 1869 on the lagoon: 'except small crooked channels, [it] is bare at low tides... an entrance of but one hundred yards wide at the southwest part of it. Only a few small vessels run between this place and San Francisco.' The village wharves (Wharf Road) fronted the channel just inside the entrance at the GNIS town point.",
+   "notes": "1850s lumber-boom port; schooner channel hugged the west shore at the village."
+  },
+  {
+   "name": "Corte Madera / Ross Landing",
+   "coords": [
+    37.95222,
+    -122.55722
+   ],
+   "coord_source": "GNIS 1658892 (Kentfield populated place); marinhistory.org 'Ross Landing' (Scott Fletcher)",
+   "precision": "place",
+   "evidence": "Marin History Museum: Ross Landing 'was located near the current location of College Avenue in Kentfield'; 'a good sized bark could land at Kentfield, where the bridge stands today... twenty five scows loading lumber, tan bark, cord wood and hides at one time'; head of navigation on Corte Madera Creek, silted up by the late 1870s.",
+   "notes": "GNIS Kentfield point is within ~100 m of the College Ave crossing of Corte Madera Creek. GNIS Corte Madera Creek (Marin) mouth 258743: 37.94159,-122.50220 if the creek-mouth end is wanted."
+  },
+  {
+   "name": "Tomales (Keys Creek head of navigation)",
+   "coords": [
+    38.24199,
+    -122.90514
+   ],
+   "coord_source": "Derived-from-verbal: marinhistory.org 'How Tomales Came to Be' + OSM node 110396898 (junction CA-1 x Tomales-Petaluma Rd, via Overpass); GNIS 254852 Keys Creek and 236439 Tomales flank it",
+   "precision": "place",
+   "evidence": "Marin History Museum: 'A deep-water tidal pool lay just below the present junction of Route One and the Tomales-Petaluma Road, making a snug, well-protected harbor'; John Keys built dock and warehouse there from 1850; silting plus the 1875 NPC RR ended the trade. Coordinate is that road junction (OSM), with the pool immediately below (downstream, west).",
+   "notes": "Keys Creek = Arroyo de San Antonio. GNIS Keys Creek primary point (38.23325,-122.91416) is the confluence ~1.5 km downstream, not the embarcadero."
+  },
+  {
+   "name": "Waddell's wharf site",
+   "coords": [
+    37.1188,
+    -122.3249
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889 (on-disk fulltext) from GNIS 254568 A\u00f1o Nuevo Island (37.10856,-122.33775)",
+   "precision": "place",
+   "evidence": "Davidson 1889: 'The Point New Year Wharf is built out about three hundred yards to three fathoms of water... The end of the wharf lies one mile northeast (NE.) [of] the eastern end of the islet... known as Waddell's Landing. In 1883 we found the wharf washed away.' Derived point = 1 statute mile NE of the islet.",
+   "notes": "SAME STRUCTURE as the A\u00f1o Nuevo/New Year's Point wharf \u2014 Davidson explicitly equates them ('known as Waddell's Landing'). Uncertainty ~200 m (bearing quantization + islet-end estimate); point falls on the north shore of A\u00f1o Nuevo Bay as expected."
+  },
+  {
+   "name": "A\u00f1o Nuevo / New Year's Point wharf",
+   "coords": [
+    37.1188,
+    -122.3249
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889 from GNIS 254568 A\u00f1o Nuevo Island; GNIS 254566 A\u00f1o Nuevo Bay 37.11050,-122.31525 corroborates the setting",
+   "precision": "place",
+   "evidence": "Davidson 1889: wharf 'built out about three hundred yards to three fathoms... end of the wharf lies one mile northeast of the eastern end of the islet'; mooring buoys laid off the wharf; lumber tramway 'down the west side of the arroyo [A\u00f1o Nuevo Creek]... then for two miles westwardly' to the bay's northwest ledge (destroyed by 1884).",
+   "notes": "Duplicate of Waddell's wharf entry by design \u2014 the task lists both names; Davidson identifies one structure. Wharf root on shore ~275 m NNW of the derived deck-end point."
+  },
+  {
+   "name": "Pigeon Point chute/wharf",
+   "coords": [
+    37.18189,
+    -122.3947
+   ],
+   "coord_source": "GNIS 230645 (Pigeon Point cape); Wikipedia Pigeon Point Lighthouse 37.18175,-122.39392 corroborates",
+   "precision": "place",
+   "evidence": "GNIS cape record pins the point; the loading chute/wharf worked the cove on the north/east side of the point. GNIS and Wikipedia (lighthouse) agree within ~70 m.",
+   "notes": "Structure-level pin would need the T-sheet; cove landing is directly adjacent to the cape point."
+  },
+  {
+   "name": "Gordon's Chute (Tunitas Creek)",
+   "coords": [
+    37.35661,
+    -122.3997
+   ],
+   "coord_source": "GNIS 236624 (Tunitas Creek, primary point = mouth); Wikipedia 'Tunitas Creek' + halfmoonbaymemories.com/pescaderomemories.com; derived-from-verbal",
+   "precision": "place",
+   "evidence": "Wikipedia/local histories: Gordon's Chute was a 45-degree ramp built 1872 by Alexander Gordon into the cliffs 'just north of the creek' at the Tunitas Creek mouth; destroyed by storm 1885; 'eyebolts from the original structure still sit in the cliff face.' Coordinate is the GNIS creek mouth; the chute bluff is within ~150 m north.",
+   "notes": ""
+  },
+  {
+   "name": "Davenport Landing",
+   "coords": [
+    37.02439,
+    -122.2158
+   ],
+   "coord_source": "GNIS 1655952 (Davenport Landing populated place, Davenport quad)",
+   "precision": "place",
+   "evidence": "GNIS official record for the landing hamlet on the small cove at Davenport Landing Beach \u2014 the 1868 Davenport wharf site, distinct from the 1906 cement town of Davenport 1.3 mi SE (GNIS 1655951, 37.01162,-122.19191).",
+   "notes": ""
+  },
+  {
+   "name": "Santa Cruz wharves (Railroad Wharf / Powder Mill Wharf area)",
+   "coords": [
+    36.9615,
+    -122.0208
+   ],
+   "coord_source": "Derived-from-verbal: Wikipedia 'Santa Cruz Wharf' coordinate 36.96149,-122.02187 + mobileranger.com 'Santa Cruz's Many Wharves' and Santa Cruz County history journal 'Notes on the History of Santa Cruz Wharves'",
+   "precision": "place",
+   "evidence": "Histories: Railroad Wharf built 1875 'just west of Gharky's Wharf' (Gharky's, base of Main Street, bought 1865 by California Powder Works = Powder Mill Wharf, dismantled 1882); 'The current Municipal Wharf was built about 100 yards west of the Railroad Wharf' (1914). Derived point = ~90 m east of the Wikipedia Municipal Wharf root.",
+   "notes": "One point covers the paired historic wharves; Powder Mill Wharf root lay slightly farther east at the foot of Main St."
+  },
+  {
+   "name": "SF Mission Creek / Channel St lumber district",
+   "coords": [
+    37.77076,
+    -122.39414
+   ],
+   "coord_source": "GNIS 1657128 (Mission Bay, historical); foundsf.org (Mission Creek; Work on Land & Water 1880-1920)",
+   "precision": "area",
+   "evidence": "FoundSF: late 1880s-90s 'the busiest part of the port' centered on Channel Street's finger piers \u2014 'lumber to be milled on Berry Street'; 'Pope & Talbot, like most of the bigger lumber companies, owned a fleet of lumber schooners to carry the rough-sawn lumber to their Channel and Berry Street yards.' GNIS historical-bay point falls on the surviving Mission Creek Channel between Channel and Berry Sts.",
+   "notes": "District, not a point: yards lined both banks of Mission Creek Channel roughly 3rd-7th Streets."
+  },
+  {
+   "name": "Oakland E.K. Wood lumber yard (estuary)",
+   "coords": [
+    37.77678,
+    -122.23904
+   ],
+   "coord_source": "OSM/Nominatim geocode of 727 Kennedy Street, Oakland (documented company address) + localwiki.org/oakland/E.K._Wood_Lumber_Company",
+   "precision": "area",
+   "evidence": "LocalWiki Oakland: the E.K. Wood Oakland lumberyard stood at 'King and Frederick Streets' [sic \u2014 Kennedy/Frederick, Jingletown] with company docks in Oakland; in 1949 the firm 'built a stylish new office building at 727 Kennedy Street.' Geocoded point is that Kennedy St parcel one block off the estuary bank in Jingletown; the yard/dock frontage ran to the Estuary.",
+   "notes": "Block-level only. Sanborn sheets or the Calisphere photo (calisphere.org/item/ff8cba32c7cbfcda7658cac5f60e7511/ \u2014 bot-blocked, lead only) would pin the wharf line. 'King' in LocalWiki is likely a garble; Frederick St crosses Kennedy St at this block."
+  },
+  {
+   "name": "Notley's Landing (Palo Colorado mouth)",
+   "coords": [
+    36.3983,
+    -121.90357
+   ],
+   "coord_source": "GNIS 1661124 (Notleys Landing populated place, Soberanes Point quad); Wikipedia 'Notleys Landing, California' 36.39833,-121.90361 agrees",
+   "precision": "place",
+   "evidence": "GNIS and Wikipedia agree within 10 m for the clifftop hamlet at the Palo Colorado Canyon mouth; landing chute worked the shore directly below.",
+   "notes": ""
+  },
+  {
+   "name": "Partington Cove",
+   "coords": [
+    36.17496,
+    -121.69773
+   ],
+   "coord_source": "GNIS 277447 (Partington Cove, bay, Partington Ridge quad); GNIS 272884 Partington Point 36.17524,-121.69801 adjacent",
+   "precision": "place",
+   "evidence": "GNIS official bay record for the doghole cove; Partington's 1880s tanbark/lumber hoist worked the east cove through the surviving tunnel.",
+   "notes": ""
+  },
+  {
+   "name": "San Simeon wharf",
+   "coords": [
+    35.64386,
+    -121.19075
+   ],
+   "coord_source": "GNIS 248966 (San Simeon populated place); Davidson 1889 (on-disk fulltext); GNIS 248967 San Simeon Bay 35.63969,-121.18881",
+   "precision": "place",
+   "evidence": "Davidson 1889 uses 'the southwest end of San Simeon Wharf' as a charted bearing datum, placing the wharf off the townsite on the northwest shore of San Simeon Bay in the lee of San Simeon Point (GNIS 248970, 35.63608,-121.19492).",
+   "notes": "Modern 1957 pier stands essentially at the historic wharf ground."
+  },
+  {
+   "name": "Leffingwell Landing (Cambria)",
+   "coords": [
+    35.57497,
+    -121.11464
+   ],
+   "coord_source": "GNIS 1703081 (Leffingwell Cove, Cambria quad); GNIS 244714 Leffingwell Creek mouth 35.58136,-121.11880",
+   "precision": "place",
+   "evidence": "GNIS official record for Leffingwell Cove, the named landing cove; the state-park day-use unit 'Leffingwell Landing' occupies the shore here.",
+   "notes": ""
+  },
+  {
+   "name": "Point Arena Lighthouse",
+   "coords": [
+    38.95475,
+    -123.74061
+   ],
+   "coord_source": "Wikipedia 'Point Arena Light' (geotagged article coordinate); GNIS 253765 Point Arena cape 38.95574,-123.74141 corroborates",
+   "precision": "exact",
+   "evidence": "Wikipedia landmark coordinate for the light tower at the tip of Point Arena; GNIS cape point within ~130 m.",
+   "notes": "Context layer."
+  },
+  {
+   "name": "Trinidad Head Lighthouse",
+   "coords": [
+    41.05194,
+    -124.15144
+   ],
+   "coord_source": "Wikipedia 'Trinidad Head Light' (geotagged article coordinate); GNIS 255158 Trinidad Head 41.05374,-124.15340 corroborates",
+   "precision": "exact",
+   "evidence": "Wikipedia landmark coordinate on the southwest cliff of Trinidad Head, matching the head's GNIS position.",
+   "notes": "Context layer."
+  },
+  {
+   "name": "St. George Reef Lighthouse (Northwest Seal Rock)",
+   "coords": [
+    41.83633,
+    -124.37587
+   ],
+   "coord_source": "Wikipedia 'St. George Reef Light' (geotagged article coordinate); GNIS 276899 North West Seal Rock 41.83734,-124.37731 corroborates",
+   "precision": "exact",
+   "evidence": "Wikipedia landmark coordinate for the tower; GNIS rock record within ~150 m \u2014 the light occupies the rock.",
+   "notes": "Context layer; 6 mi offshore, offshore position is correct here."
+  },
+  {
+   "name": "Point Cabrillo Lighthouse",
+   "coords": [
+    39.3486,
+    -123.82612
+   ],
+   "coord_source": "Wikipedia 'Point Cabrillo Light' (geotagged article coordinate); GNIS 230848 Cabrillo Point 39.34934,-123.82835 corroborates",
+   "precision": "exact",
+   "evidence": "Wikipedia landmark coordinate on the Point Cabrillo headland; GNIS cape point within ~210 m (light stands back from the extreme tip).",
+   "notes": "Context layer."
+  },
+  {
+   "name": "Punta Gorda Lighthouse",
+   "coords": [
+    40.24943,
+    -124.35022
+   ],
+   "coord_source": "Wikipedia 'Punta Gorda Light' (geotagged article coordinate); GNIS 231095 Punta Gorda cape 40.26125,-124.36283 for the point itself",
+   "precision": "exact",
+   "evidence": "Wikipedia coordinate for the 1912 tower on the shore ~1.6 km SSE of the GNIS cape point (the light was deliberately sited south of the point, near Fourmile Creek).",
+   "notes": "Context layer; do not snap it to the GNIS cape."
+  },
+  {
+   "name": "Thomas Peterson shipyard, Little River",
+   "coords": [
+    39.27407,
+    -123.7914
+   ],
+   "coord_source": "GNIS 227343 (Little River stream, primary point = mouth/cove); kelleyhousemuseum.org 'A Vanished Landmark at Little River'; GNIS 1658981 Little River town 39.27073,-123.78835",
+   "precision": "area",
+   "evidence": "Kelley House Museum: the Petersen shipyard 'was at the end of Petersen Lane... down on the shore below the rocky bluff,' with the family house on the bluff above; i.e., on the shore in/behind Little River cove. Coordinate is the GNIS cove/river-mouth point.",
+   "notes": "Area precision per sources \u2014 Petersen Lane is not in OSM/Nominatim; yard active 1869-1880s (Louis Hough, 'Thomas H. Petersen, Master Shipbuilder,' Kelley House 2015)."
+  }
+ ],
+ "gaps": "Not fully pinned: (1) Smith River mill \u2014 no source pins either the Fairbanks Bros. mill (near Smith River Corners) or A.M. Smith's river-bank mill (near the later CC&SR bridge) to a parcel; area precision only. (2) Arcata Wharf \u2014 root-to-terminus alignment needs a georeferenced T-sheet/1870 chart; I anchored it on the surviving pilings at Klopp Lake (City of Arcata) rather than guessing the bay terminus. (3) E.K. Wood Oakland yard \u2014 block-level only (Kennedy/Frederick, Jingletown); LocalWiki's 'King and Frederick Streets' is likely a Kennedy St garble; Sanborn sheets or the Calisphere photo would settle it. (4) Santa Cruz Powder Mill Wharf not separately pinned from the Railroad Wharf (derived point covers the pair; Powder Mill root at foot of Main St slightly east). (5) Shelter Cove pier uses Davidson's 1889-datum station \u2014 possible ~100-200 m datum offset. (6) Waddell's wharf = A\u00f1o Nuevo/New Year's Point wharf per Davidson 1889 ('known as Waddell's Landing') \u2014 the task lists them separately but they are one structure; both entries carry the same derived point (\u00b1200 m). (7) Bear Harbor has two landing phases (Morgan Rock 1874-90, Cluster Cone Rocks 1890-1907); the NRHP nomination gives only district boundary vertices (six lat/lons, incl. 39.909696,-123.938707 adjacent to Cluster Cone), not a landing point \u2014 I used the GNIS rocks. Bot-blocked leads recorded, not used for coords: HMDB Union Plank Walk marker hmdb.org/m.asp?m=248874 (403); Calisphere E.K. Wood item calisphere.org/item/ff8cba32c7cbfcda7658cac5f60e7511/. Lighthouse Wikipedia coords cross-check against independent GNIS features within 10-210 m in all five cases. All coastal-position sanity checks pass; the only deliberately inland points are river/creek bank features (Port Kenyon, Requa, Ross Landing/Kentfield, Tomales/Keys Creek, E.K. Wood, Mission Creek district), which is correct for bar-harbor/estuary sites."
+}

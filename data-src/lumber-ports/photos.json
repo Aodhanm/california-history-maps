@@ -1,0 +1,380 @@
+{
+ "needle-rock-landing": {
+  "url": "https://cdm16166.contentdm.oclc.org/digital/api/singleitem/image/palmquist/2250/default.jpg",
+  "credit": "O. J. Hughes, 'Town of Needlerock, prior to 1900' (2003.01.2094), Palmquist Collection, Cal Poly Humboldt Special Collections",
+  "date": "before 1900",
+  "rights": "likely PD (pre-1900 photograph); repository reuse terms not stated — hotlink/credit Cal Poly Humboldt",
+  "modern": false
+ },
+ "shelter-cove": {
+  "url": "https://cdm16166.contentdm.oclc.org/digital/iiif/palmquist/961/full/!800,800/0/default.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Peter E. Palmquist Working Photograph Collection — \"Shelter Cove Warf 1923\"",
+  "date": "1923",
+  "rights": "likely public domain (1923 US photograph, unknown photographer); hosted by Cal Poly Humboldt Special Collections — hotlink/credit",
+  "modern": false
+ },
+ "mattole-wharf-sea-lion-rock": {
+  "url": "../assets/photos/lumber-ports/mattole-wharf-sea-lion-rock.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Palmquist Collection — \"Mattole Wharf,\" photo by James Joseph McCloskey, 1907",
+  "date": "1907",
+  "rights": "public domain (1907 real-photo postcard, 'McCloskey Foto', pre-1930 US publication)",
+  "modern": false
+ },
+ "eureka-humboldt-bay": {
+  "url": "../assets/photos/lumber-ports/eureka-humboldt-bay.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Palmquist Collection — \"Excelsior Redwood Co.; Eureka Mills, Eureka,\" photo by A.W. Ericson, c. 1890s",
+  "date": "c. 1890s",
+  "rights": "public domain (A.W. Ericson, d. 1927; pre-1923 photograph)",
+  "modern": false
+ },
+ "fields-landing": {
+  "url": "https://cdm16166.contentdm.oclc.org/digital/iiif/shuster/1370/full/!800,800/0/default.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Merle Shuster Aerial Photograph Collection — \"Fields Landing Dock,\" 1947",
+  "date": "1947",
+  "rights": "unknown — Cal Poly Humboldt hosted; hotlink and credit only",
+  "modern": false
+ },
+ "samoa": {
+  "url": "../assets/photos/lumber-ports/samoa.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, A.W. Ericson Photograph Collection — \"Samoa Mill yard, drying lumber\" (location confirmed by Sam Swanlund, 2002)",
+  "date": "c. 1900",
+  "rights": "public domain (A.W. Ericson, d. 1927; pre-1923 photograph)",
+  "modern": false
+ },
+ "arcata-wharf": {
+  "url": "../assets/photos/lumber-ports/arcata-wharf.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, A.W. Ericson Photograph Collection — \"Arcata Wharf, Humboldt County\" (schooner Letitia at dock; Laura Pike under tow)",
+  "date": "c. 1890s",
+  "rights": "public domain (A.W. Ericson, d. 1927; pre-1923 photograph)",
+  "modern": false
+ },
+ "trinidad": {
+  "url": "../assets/photos/lumber-ports/trinidad.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Boyle Photograph Collection — \"Trinidad wharf with steamer Emily loading passengers,\" photo by A.W. Ericson, 1893",
+  "date": "1893",
+  "rights": "public domain (A.W. Ericson photograph, 1893)",
+  "modern": false
+ },
+ "klamath-river-mouth-requa": {
+  "url": "https://cdm16166.contentdm.oclc.org/digital/iiif/schoenrock/93/full/!800,800/0/default.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Schoenrock Collection — \"Requa, Long Before The Fire of 1914\"",
+  "date": "pre-1914",
+  "rights": "unknown — likely public domain (pre-1914 photograph); hotlink/credit Cal Poly Humboldt",
+  "modern": false
+ },
+ "crescent-city": {
+  "url": "../assets/photos/lumber-ports/crescent-city.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Schoenrock Collection — \"The Wharf, Crescent City Calif., Whale Island in Distance\"",
+  "date": "c. 1910",
+  "rights": "likely public domain (real-photo postcard, c. 1908-1915)",
+  "modern": false
+ },
+ "tomales-keys-creek": {
+  "url": "../assets/photos/lumber-ports/tomales-keys-creek.jpg",
+  "credit": "U.S. Coast Survey, \"Tomales Bay California\" (Bache/Patterson), issued 1878 — David Rumsey Map Collection, Stanford Libraries",
+  "date": "1878",
+  "rights": "public domain (1878 US government chart); Rumsey scan CC BY-NC-SA 3.0, credit David Rumsey Map Collection",
+  "modern": false
+ },
+ "pigeon-point-gazos-creek-traffic": {
+  "url": "../assets/photos/lumber-ports/pigeon-point-gazos-creek-traffic.jpg",
+  "credit": "HABS CA-1997-18, Library of Congress — photocopy of ca. 1921 photograph by Arthur Spaulding Co., Pigeon Point Light Station, general view from north",
+  "date": "ca. 1921",
+  "rights": "public domain (pre-1930 photograph reproduced in federal HABS documentation; LOC: no known restrictions)",
+  "modern": false
+ },
+ "gordons-chute-tunitas-creek": {
+  "url": "../assets/photos/lumber-ports/gordons-chute-tunitas-creek.jpg",
+  "credit": "\"Gordon's Chute at Tunitas Creek,\" lithograph from Moore & DePue, The Illustrated History of San Mateo County, 1878",
+  "date": "1878",
+  "rights": "public domain (1878 US publication)",
+  "modern": false
+ },
+ "santa-cruz-wharves": {
+  "url": "../assets/photos/lumber-ports/santa-cruz-wharves.jpg",
+  "credit": "George R. Lawrence, panoramic (kite) photograph \"Santa Cruz, California,\" c. 1906 — Library of Congress, Panoramic Photographs Collection",
+  "date": "c. 1906",
+  "rights": "public domain (LOC: no known restrictions; pre-1930)",
+  "modern": false
+ },
+ "san-francisco-lumber-wharves-and-yards-the-receiving-end": {
+  "url": "../assets/photos/lumber-ports/san-francisco-lumber-wharves-and-yards-the-receiving-end.jpg",
+  "credit": "\"Unloading a lumber schooner, San Francisco, California,\" stereograph by C.H. Graves / Universal Photo Art Co., 1905 — Library of Congress",
+  "date": "1905",
+  "rights": "public domain (1905; LOC: no known restrictions)",
+  "modern": false
+ },
+ "oakland-estuary-lumber-yards": {
+  "url": "../assets/photos/lumber-ports/oakland-estuary-lumber-yards.jpg",
+  "credit": "\"Oaklands' 'Water-Front', April 1st, 1908\" — panoramic photograph, Library of Congress, Panoramic Photographs Collection",
+  "date": "1908",
+  "rights": "public domain (1908; LOC: no known restrictions)",
+  "modern": false
+ },
+ "port-kenyon": {
+  "url": "../assets/photos/lumber-ports/port-kenyon.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, Palmquist Collection — \"Mary D. Hume tied up at the Port Kenyon Wharf,\" photo by Nathan Bixby Strong, c. 1890s",
+  "date": "c. 1890s",
+  "rights": "public domain (photograph created c. 1890s, more than 120 years ago)",
+  "modern": false
+ },
+ "notleys-landing": {
+  "url": "../assets/photos/lumber-ports/notleys-landing.jpg",
+  "credit": "Notley's Landing village, Big Sur coast, photo by Louis S. Slevin, 1914",
+  "date": "1914",
+  "rights": "public domain per Commons (1914 photograph)",
+  "modern": false
+ },
+ "bendixsen-shipyard-fairhaven": {
+  "url": "../assets/photos/lumber-ports/bendixsen-shipyard-fairhaven.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, A.W. Ericson Photograph Collection — \"Bendixsen's Ship Yard,\" 1892 (schooner on the ways, possibly O.M. Kellogg)",
+  "date": "1892",
+  "rights": "public domain (A.W. Ericson, 1892)",
+  "modern": false
+ },
+ "point-arena-lighthouse": {
+  "url": "../assets/photos/lumber-ports/point-arena-lighthouse.jpg",
+  "credit": "Original 1870 brick tower, Point Arena Light Station (destroyed 1906) — U.S. Coast Guard Historian's Office",
+  "date": "1870-1906",
+  "rights": "public domain (US government / USCG Historian's Office; photo 1870-1906)",
+  "modern": false
+ },
+ "trinidad-head-lighthouse": {
+  "url": "../assets/photos/lumber-ports/trinidad-head-lighthouse.jpg",
+  "credit": "Cal Poly Humboldt Library Special Collections, A.W. Ericson Photograph Collection — \"Trinidad Lighthouse and part of Trinidad Head\"",
+  "date": "c. 1890s-1900s",
+  "rights": "public domain (A.W. Ericson, d. 1927; pre-1923 photograph)",
+  "modern": false
+ },
+ "st-george-reef-lighthouse": {
+  "url": "../assets/photos/lumber-ports/st-george-reef-lighthouse.jpg",
+  "credit": "St. George Reef Lighthouse under construction, 1884 — Library of Congress (attrib. Paul J. Pelz)",
+  "date": "1884",
+  "rights": "public domain (1884; Library of Congress)",
+  "modern": false
+ },
+ "point-cabrillo-lighthouse": {
+  "url": "../assets/photos/lumber-ports/point-cabrillo-lighthouse.png",
+  "credit": "Point Cabrillo Lighthouse under construction, 1909 — reproduced in The Keeper's Log 23:4 (2007)",
+  "date": "1909",
+  "rights": "public domain (1909 photograph)",
+  "modern": false
+ },
+ "punta-gorda-lighthouse": {
+  "url": "../assets/photos/lumber-ports/punta-gorda-lighthouse.jpg",
+  "credit": "Punta Gorda Light Station — U.S. Coast Guard photo, USCG Historian's Office",
+  "date": "USCG service era (pre-1951)",
+  "rights": "public domain (US government work, USCG)",
+  "modern": false
+ },
+ "bear-harbor-landing": {
+  "url": "../assets/photos/lumber-ports/bear-harbor-landing.jpg",
+  "credit": "Palmquist Collection, Cal Poly Humboldt University Library ('[Two Ships near Dock]') — location identification tentative per catalog",
+  "date": "undated, ca. 1890s-1900s",
+  "rights": "public domain (pre-1930 US photo); repository states no rights info",
+  "modern": false
+ },
+ "rockport-landing": {
+  "url": "../assets/photos/lumber-ports/rockport-landing.jpg",
+  "credit": "mendorailhistory.org (defunct site), 'The shipping point for the Rockport Mill', via Internet Archive Wayback Machine",
+  "date": "undated, pre-1930",
+  "rights": "underlying photo public domain (pre-1930 US); scan from defunct hobby site — hotlink via Wayback",
+  "modern": false
+ },
+ "hardy-creek-landing": {
+  "url": "../assets/photos/lumber-ports/hardy-creek-landing.jpg",
+  "credit": "mendorailhistory.org (defunct), 'Ship loading lumber by wire chute at Hardy Creek in Northern Mendocino County', via Wayback Machine",
+  "date": "undated, ca. 1900s-1910s",
+  "rights": "underlying photo public domain (pre-1930 US); hotlink via Wayback",
+  "modern": false
+ },
+ "union-landing": {
+  "url": "../assets/photos/lumber-ports/union-landing.jpg",
+  "credit": "mendorailhistory.org (defunct), 'First Union Landing Wharf' (C.A. McFaul's landing), via Wayback Machine",
+  "date": "undated, ca. 1900s",
+  "rights": "underlying photo public domain (pre-1930 US); hotlink via Wayback",
+  "modern": false
+ },
+ "westport-landing": {
+  "url": "../assets/photos/lumber-ports/westport-landing.jpg",
+  "credit": "mendorailhistory.org (defunct), 'The first chute at Westport' (built 1877); postcard inscribed 'The Old Wharf, Westport, Mendocino Co., Cal.', via Wayback Machine",
+  "date": "undated, ca. 1890s-1910s",
+  "rights": "underlying photo public domain (pre-1930 US); hotlink via Wayback",
+  "modern": false
+ },
+ "kibesilah-landing": {
+  "url": "../assets/photos/lumber-ports/kibesilah-landing.jpg",
+  "credit": "Kelley House Museum, Mendocino ('The Fate of Kibesillah' blog post)",
+  "date": "ca. 1870s-early 1880s (town declined after 1885)",
+  "rights": "public domain (pre-1930 US photo); courtesy Kelley House Museum — credit them",
+  "modern": false
+ },
+ "newport-landing": {
+  "url": "../assets/photos/lumber-ports/newport-landing.jpg",
+  "credit": "mendorailhistory.org (defunct), 'The chute at Newport', via Wayback Machine; image captioned 'NEWPORT CHUTE in THE 70s'",
+  "date": "1870s",
+  "rights": "public domain (pre-1930 US); hotlink via Wayback",
+  "modern": false
+ },
+ "laguna-landing": {
+  "url": "../assets/photos/lumber-ports/laguna-landing.jpg",
+  "credit": "mendorailhistory.org (defunct), 'Loading chute at Cleone Point', via Wayback Machine",
+  "date": "ca. 1888-1904 (wharf/chute rights granted 1888)",
+  "rights": "public domain (pre-1930 US); hotlink via Wayback",
+  "modern": false
+ },
+ "fort-bragg-landing": {
+  "url": "../assets/photos/lumber-ports/fort-bragg-landing.jpg",
+  "credit": "Emanuel Fritz, 1920; UC Berkeley Bioscience Library Metcalf collection, via Wikimedia Commons",
+  "date": "1920",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "noyo-landing": {
+  "url": "../assets/photos/lumber-ports/noyo-landing.jpg",
+  "credit": "John P. Soule stereoview, New York Public Library Digital Collections, via Wikimedia Commons",
+  "date": "ca. 1865-1880",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "caspar-landing": {
+  "url": "../assets/photos/lumber-ports/caspar-landing.jpg",
+  "credit": "Library of Congress, LCCN 2007660654, via Wikimedia Commons",
+  "date": "1911",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "mendocino-landing": {
+  "url": "../assets/photos/lumber-ports/mendocino-landing.jpg",
+  "credit": "John P. Soule stereoview, New York Public Library Digital Collections, via Wikimedia Commons",
+  "date": "ca. 1875",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "little-river-landing": {
+  "url": "../assets/photos/lumber-ports/little-river-landing.jpg",
+  "credit": "Carleton Watkins, 1863, via OAC/Bancroft Library and Wikimedia Commons",
+  "date": "1863",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "albion-landing": {
+  "url": "../assets/photos/lumber-ports/albion-landing.jpg",
+  "credit": "S.U. Bunnell panorama, Library of Congress LCCN 2007660589, via Wikimedia Commons",
+  "date": "1911",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "whitesboro-landing": {
+  "url": "../assets/photos/lumber-ports/whitesboro-landing.jpg",
+  "credit": "mendorailhistory.org (defunct), 'The Wharf at Whitesboro', via Wayback Machine",
+  "date": "ca. 1880s-1890s",
+  "rights": "underlying photo public domain (pre-1930 US); hotlink via Wayback",
+  "modern": false
+ },
+ "navarro-landing": {
+  "url": "../assets/photos/lumber-ports/navarro-landing.jpg",
+  "credit": "Martin Mason Hazeltine, via OAC/Bancroft Library and Wikimedia Commons",
+  "date": "ca. 1860s",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "cuffeys-cove-landing": {
+  "url": "../assets/photos/lumber-ports/cuffeys-cove-landing.png",
+  "credit": "From a published history of Mendocino County (Google Books scan), via Wikimedia Commons",
+  "date": "1890",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "greenwood-creek-landing": {
+  "url": "../assets/photos/lumber-ports/greenwood-creek-landing.jpg",
+  "credit": "Library of Congress panoramic photo, LCCN 2007660635, via Wikimedia Commons",
+  "date": "1911",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "arena-cove-landing": {
+  "url": "../assets/photos/lumber-ports/arena-cove-landing.jpg",
+  "credit": "Sonoma County Library heritage collection (item p15763coll11/4512), via Wikimedia Commons",
+  "date": "ca. 1900s",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "bourns-landing": {
+  "url": "../assets/photos/lumber-ports/bourns-landing.jpg",
+  "credit": "Bancroft Library photo (per the defunct mendorailhistory.org page), postcard inscribed 'Bourns Landing', via Wayback Machine",
+  "date": "undated, ca. 1900s-1910s",
+  "rights": "underlying photo public domain (pre-1930 US); Bancroft provenance — hotlink via Wayback",
+  "modern": false
+ },
+ "gualala-landing": {
+  "url": "../assets/photos/lumber-ports/gualala-landing.jpg",
+  "credit": "G.W. Miller photo, 'Gualala Mill, Mendocino Co. California', via defunct mendorailhistory.org / Wayback Machine",
+  "date": "ca. 1900",
+  "rights": "public domain (pre-1930 US); hotlink via Wayback",
+  "modern": false
+ },
+ "stewarts-point-landing": {
+  "url": "../assets/photos/lumber-ports/stewarts-point-landing.jpg",
+  "credit": "San Francisco Maritime National Park E06.531n (SAFR 21374), per NOAA GFNMS caption",
+  "date": "undated, ca. 1890s-1900s",
+  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "fisk-mill-landing": {
+  "url": "../assets/photos/lumber-ports/fisk-mill-landing.jpg",
+  "credit": "Fort Ross Conservancy, per NOAA GFNMS caption",
+  "date": "undated, ca. 1870s-1890s",
+  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "salt-point-landing": {
+  "url": "../assets/photos/lumber-ports/salt-point-landing.jpg",
+  "credit": "Fort Ross Conservancy, per NOAA GFNMS caption",
+  "date": "undated, ca. 1870s-1900s",
+  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "timber-cove-landing": {
+  "url": "../assets/photos/lumber-ports/timber-cove-landing.jpg",
+  "credit": "Fort Ross Conservancy, per NOAA GFNMS caption",
+  "date": "undated, ca. 1870s-1900s",
+  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "fort-ross-landing": {
+  "url": "../assets/photos/lumber-ports/fort-ross-landing.jpg",
+  "credit": "San Francisco Maritime National Historical Park, Mercedes Pearce Staff Collection, E11.19,777pl (SAFR 21374), per NOAA caption",
+  "date": "1892",
+  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "russian-gulch-landing-sonoma": {
+  "url": "../assets/photos/lumber-ports/russian-gulch-landing-sonoma.jpg",
+  "credit": "Sonoma County Library, per NOAA GFNMS caption",
+  "date": "ca. 1904",
+  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "rules-landing": {
+  "url": "../assets/photos/lumber-ports/rules-landing.jpg",
+  "credit": "Thompson & West, Historical Atlas of Sonoma County, 1877; David Rumsey Historical Map Collection, per NOAA caption",
+  "date": "1877",
+  "rights": "public domain (pre-1930 US publication); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "bihler-landing": {
+  "url": "../assets/photos/lumber-ports/bihler-landing.jpg",
+  "credit": "Fort Ross Conservancy, per NOAA GFNMS caption",
+  "date": "undated, ca. 1870s-1900s",
+  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
+  "modern": false
+ },
+ "bodega-bay": {
+  "url": "../assets/photos/lumber-ports/bodega-bay.jpg",
+  "credit": "Sonoma County Library heritage collection (item p15763coll11/5761), via Wikimedia Commons",
+  "date": "ca. 1910",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ }
+}

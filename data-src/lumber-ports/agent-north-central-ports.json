@@ -1,0 +1,1584 @@
+{
+ "region": "California lumber-shipping points outside the Sonoma\u2013Mendocino doghole core, c.1849\u20131940s: (1) Lost Coast / Humboldt / Del Norte; (2) Central Coast + San Francisco Bay outports; (3) the San Francisco / Oakland receiving end",
+ "ports": [
+  {
+   "name": "Bear Harbor Landing",
+   "county": "Mendocino (northernmost Mendocino, functionally Lost Coast / southern Humboldt trade)",
+   "alt_names": [
+    "Morgan Rock landing (first site)",
+    "Cluster Cone Rocks landing (second site)",
+    "Lower Bear Harbor"
+   ],
+   "active_years": "1874-1907 (NR period of significance; first documented vessel shipment Dec 1874 sloop Mayflower; landing/chute built 1884-85; last known product shipment 1907; 1915 pier-rebuild notice with no evidence of reopening)",
+   "heyday": "1898-1902 under Bear Harbor Lumber Co.; 112+ cargoes 1892-1899, peaking at 29 trips in 1899",
+   "loading_method": "Two successive hybrid pier+chute systems: (1) 1885 pier off Morgan Rock with trough-chute apron arm at its end (Peterson 1885 survey; Davidson 1889 describes wharf 'with an apron over fifteen feet of water'); (2) June 1890, new 300-ft pier at Cluster Cone Rocks with WIRE chute at its end ('similar to the one at Noyo Landing'), extended 100 ft in 1892 and again ~1895/1898; SF Chronicle 16 Jan 1898: wharf 250 ft through rocks, wire runs 420 ft to the vessel ~40 ft above water. Donkey engine powered the wire (a spark from the chute's donkey engine burned 400 ft of pier 8 Apr 1903). 1901 rebuild put on 1,500 ties/hour, 'fastest work ever done over a wire chute in Mendocino County' (Ukiah Dispatch 15 Nov 1901)",
+   "wharf": "yes - pier (not a true wharf per NR nomination terminology); 550-600 ft after all extensions; destroyed by 14-ft 'tidal wave' 21 Nov 1899 (2 killed, incl. near-miss of company president Calvin Stewart), rebuilt 1901; burned in part 1903; destroyed again by storms Christmas 1905; partially rebuilt 1906-07",
+   "size_category": "doghole-with-wharf; 15 ft water at pier end at low tide; vessels to ~200 tons under the chute (Peterson 1885), room for 3-4 vessels moored in summer; two-masted schooners (Georgia R. Higgins 95 ft, Gussie Klose 85 ft, both Bendixsen-built at Fairhaven) to 1890, then steam schooners exclusively (Cleone, Laguna, Newburg, Protection, Rival, Tillamook, Westport)",
+   "companies": [
+    "Ray brothers (ranching, late 1860s; no documented shipping)",
+    "Capt. John Morgan & son (1870-74, surf lightering)",
+    "Kiser (Kaiser) brothers (1874-84, chute permits never executed)",
+    "Dr. William A. McCornack of Mendocino (built landing 1884-85; operated to Nov 1889; 59 schooner loadings 1885-89)",
+    "Weller & Stewart (1890-92)",
+    "Bear Harbor Lumber Co. (inc. July 1893, $200,000; Stewart, Cooper, Hunter, Pollard, Dodge)",
+    "Bear Harbor & Eel River Railroad Co. (inc. Sept 1896, $200,000, same directors)",
+    "Southern Humboldt Lumber Co. (Nov 1902, $500,000, pres. Henry Neff Anderson; bought out BHLC 1903)",
+    "SF receivers: Higgins & Collins (Pier 10 Steuart St), Iversen & Jensen, L.E. White, Pollard & Dodge, San Pedro Lumber Co."
+   ],
+   "products": [
+    "tanbark (dominant; 60-220 cords per voyage; 1,300 cords stockpiled Oct 1889)",
+    "railroad ties (redwood; 5,000-9,000 per steamer to southern CA; 65,850 ties on 10 cargoes 1893-96)",
+    "fence posts",
+    "shakes",
+    "cordwood",
+    "occasional lumber (one 150,000 bf cargo under McCornack; 1907 lumber from William M. McKee's sawmill)",
+    "wool",
+    "hides"
+   ],
+   "railroad": "Bear Harbor Lumber Co. railway, completed June 1893: 2.0-mile cable+adhesion line from pier, with 2,000-ft incline rising 600 ft (NR nomination; North Coast Journal gives 1,900 ft at 31% grade) - gravity-balanced, rails splitting at midpoint for passing (NR says three rails; NCJ says four tracks at midpoint); extended to Moody on Indian Creek (10 mi from port), +1.5 mi 1895, +3 mi to Eel River 1898, ~18 mi of track by fall 1905 with dozens of trestles (many >300 ft) and a 200-ft tunnel; Bear Harbor & Eel River RR Co. from Sept 1896. GAUGE CONFLICT: NR narrative says standard gauge; the recorded archaeological feature (MEN-2149H) is narrow-gauge track, and a 1977 CA State Parks inventory found BOTH narrow and standard gauge rails - flag unresolved. Motive power: Shay 0-4-0 'Gypsy' No. 1 (Marschutz & Cantrell, SF); Baldwin 2-4-2T No. 2 (1898); horses along the coast leg. FATE: 1899 wave, 1903 fire, 1904 forest fire (1 mi of track + 2,900 ft of bridges), Anderson killed by falling timber Oct 28/died Nov 4 1905, Christmas 1905 storm destroyed pier, 18 Apr 1906 earthquake wrecked the Andersonia mill, log-pond dam, and track - the $500,000 mill NEVER ran; 5,000,000 ft of sawed logs abandoned in the pond; 1907 last shipment ends activity",
+   "coords_approx": [
+    39.928,
+    -123.978
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "NR nomination Figure 2 reproduces historical photos of the second (Cluster Cone) landing; nomination states NO photos are known of the first Morgan Rock landing",
+    "Thomas H. Peterson 1885 hand-colored doghole-port survey maps, Huntington Library, San Marino (New Zealand Insurance Co. series; copies presented to US Coast Survey 23 Jan 1886)",
+    "North Coast Journal 'The Bear Harbor Railroad, 1892-1905' (15/22 Nov 2018) reproduces photos",
+    "Kelley House Museum, Mendocino (steep-railroads article)"
+   ],
+   "summary": "The definitive Lost Coast doghole port: split-products (above all tanbark) exported by schooner from 1874 and by steam schooner from 1890 over two successive pier-and-chute systems, fed after 1893 by the Bear Harbor & Eel River Railroad with its 2,000-ft gravity incline over the coastal ridge. The Southern Humboldt Lumber Co.'s half-million-dollar Andersonia sawmill was finished in 1905 but destroyed by the 18 April 1906 earthquake before ever cutting lumber; the port shipped its last products in 1907. 46+ vessels carried cargoes to 14 California ports over 33 years.",
+   "confidence_notes": "Exceptionally well documented (2022-23 NR nomination with newspaper-level citations). Discrepancies flagged: incline length 1,900 vs 2,000 ft; 3 vs 4 rails at incline midpoint; railway gauge (standard vs narrow) unresolved; MPDF gives McCornack sale as 1893 but the fuller NR nomination documents Nov 1889 sale to Weller & Stewart. Davidson 1889 says wharf built 1885, NR gives open-for-business 4 July 1885.",
+   "sources": [
+    {
+     "citation": "Bear Harbor Landing Historical and Archaeological District, National Register of Historic Places Registration Form (Doghole Ports MPS), California OHP, listed c.2022-23 - Sections 7-8 read in full",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Mendocino%20County_Doghole%20Ports%20MPS_Bear%20Harbor%20Landing_REDACTED.pdf"
+    },
+    {
+     "citation": "George Davidson, Pacific Coast Pilot, 4th ed. (Washington: GPO, 1889), pp. 299-300 (Bear Harbor Landing, wharf of 1885, apron, moorings, hydrography) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Northern California Doghole Ports Maritime Cultural Landscape MPDF (draft), NPS/OHP, inventory entry 'Bear Harbor Landing (active circa 1884-1909)'",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Sonoma%20and%20Mendocino%20Counties_%20Nor%20Cal%20Doghole%20Ports_MPDF_Draft.pdf"
+    },
+    {
+     "citation": "'The Bear Harbor Railroad, 1892-1905,' North Coast Journal, Nov. 2018",
+     "type": "secondary",
+     "url": "https://www.northcoastjournal.com/humboldt/the-bear-harbor-railroad-1892-1905/Content?oid=12185246"
+    },
+    {
+     "citation": "Thomas H. Peterson, Bear Harbor survey map, Sept. 1885 (Huntington Library) - cited via NR nomination; not directly viewed",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "name": "Needle Rock Landing",
+   "county": "Mendocino (Lost Coast, Sinkyone)",
+   "alt_names": [
+    "Upper Bear Harbor (1890s newspapers used the names interchangeably before Needle Rock Landing prevailed)"
+   ],
+   "active_years": "c.1873-1930 (MPDF); chute era firmly documented 1890s-c.1930",
+   "heyday": "1890s-1900s",
+   "loading_method": "Small pier with WIRE chute 'said to be the highest and longest of any port in Mendocino' (San Francisco Chronicle, 16 Jan 1898, cited in MPDF)",
+   "wharf": "small pier carrying the wire chute (MPDF); no conventional wharf",
+   "size_category": "doghole-chute-only; schooners and steam schooners (traffic shared with Bear Harbor's vessels, e.g. steamer Westport calling at both c.1901)",
+   "companies": [
+    "Capt. Morgan & son (first settlement 1868, with D.W. McCallum built a doghole port)",
+    "J.B. Stetson Jr. (1890: acquired land, built 3.0 miles of rail line, landing, and mill - Carpenter & Millberry 1914:119-120)",
+    "W.P. Thomas, Wiley English, Ed Warren (1896)",
+    "Needle Rock Company (from 1898 to c.1930)",
+    "Olsen shingle mill, Whitethorn Valley ('the product of which has heretofore been shipped at Needle Rock' - Mendocino Beacon 12 Dec 1896, quoted in Bear Harbor NR)",
+    "Calvin Cooper Stewart family ranch (1920s shipping point for ranch produce)"
+   ],
+   "products": [
+    "railroad ties and tanbark (most common - Ukiah Daily Journal 3 Apr 1896)",
+    "shingles (Olsen mill)",
+    "ranch products (1920s)"
+   ],
+   "railroad": "3.0 miles of rail line built 1890 by Stetson connecting timber/mill to the landing (gauge not stated in sources seen)",
+   "coords_approx": [
+    39.965,
+    -123.96
+   ],
+   "coord_precision": "area",
+   "photo_leads": [
+    "California State Parks, Sinkyone Wilderness SP (Needle Rock Visitor Center = 1920s Stewart ranch house; interpretive materials)",
+    "MPDF and Bear Harbor NR nomination figure sets",
+    "SFGate feature 'Inside a Lost Coast' (campfire history of the doghole port)"
+   ],
+   "summary": "The northernmost Mendocino doghole port, half-way between Bear Harbor and Shelter Cove. A wire-chute pier reputedly the highest and longest on the Mendocino coast shipped railroad ties, tanbark, and Whitethorn Valley shingles from the 1890s; a 3-mile railway (1890, Stetson) linked mill and landing. Chute operated until about 1930, making it one of the longest-lived Lost Coast landings.",
+   "confidence_notes": "MPDF entry is the anchor; its 1873 start date is 'circa.' Davidson 1889 describes Needle Rock itself but records no chute at that date on the page read - the chute likely postdates 1889 or Davidson omitted it; flagged.",
+   "sources": [
+    {
+     "citation": "Northern California Doghole Ports MPDF (draft), inventory entry 'Needle Rock Landing (active circa 1873-1930)' - read directly",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Sonoma%20and%20Mendocino%20Counties_%20Nor%20Cal%20Doghole%20Ports_MPDF_Draft.pdf"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), p. 300 (Needle Rock geography) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Bear Harbor NR nomination (Mendocino Beacon 12 Dec 1896 on Olsen shingle mill shipments at Needle Rock)",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Mendocino%20County_Doghole%20Ports%20MPS_Bear%20Harbor%20Landing_REDACTED.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Shelter Cove",
+   "county": "Humboldt (Point Delgada, Lost Coast)",
+   "alt_names": [],
+   "active_years": "c.1860s lightering; pier 1885-1930s (maintenance abandoned in the 1930s)",
+   "heyday": "1880s-1900s as the outlet for southern Humboldt (Briceland/Mattole trail trade); superseded for timber products by Bear Harbor and Needle Rock in the 1890s ('the once busy Shelter Cove Landing... aging shipping facilities that were not maintained' - Bear Harbor NR)",
+   "loading_method": "960-foot pier built 1885 (Humboldt Co. Historical Society); goods previously ferried from the beach; mule trains brought cargo over the coastal trails",
+   "wharf": "yes - 960-ft pier (1885); eucalyptus planted locally for pier/bulkhead timbers; maintenance abandoned 1930s",
+   "size_category": "doghole-with-wharf inside a genuine natural roadstead: Davidson 1889 calls it 'a very good refuge for sailing or steam vessels during heavy summer winds' but 'dangerous anchorage in southeasterly weather'; coastal steamers and steam schooners called (Westport etc. included it on the doghole circuit c.1901)",
+   "companies": [
+    "Ray brothers ('improved' Bear Harbor and Shelter Cove, Mendocino Beacon 25 Jul 1885)",
+    "San Francisco tanbark buyers/investors (per HCHS nugget)",
+    "wool/produce shippers of the South Fork Eel country (pre-1885 'people packed their wool and produce a distance north to Shelter Cove for shipment since that was their only option' - Mendocino Beacon 1 Jan 1881, in Bear Harbor NR)"
+   ],
+   "products": [
+    "tanbark (bark and locally rendered extract)",
+    "wool",
+    "hides",
+    "butter",
+    "fruit",
+    "general merchandise inbound",
+    "NOT a significant lumber exporter on the evidence seen - flag"
+   ],
+   "railroad": "none",
+   "coords_approx": [
+    40.025,
+    -124.058
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Humboldt County Historical Society history nugget (Martha Roscoe, 2023) with photos",
+    "Cal Poly Humboldt Library Special Collections",
+    "Sausalito Historical Society column 'Shelter Cove from Boom to Boneyard' (2022)"
+   ],
+   "summary": "The only semi-sheltered roadstead on the Lost Coast (Davidson 1889 describes it as the standard summer refuge). A 960-ft pier of 1885 served the southern Humboldt backcountry - tanbark, wool, hides, butter out; supplies in - by mule train and later wagon road. Its timber-products traffic was captured by Bear Harbor and Needle Rock in the 1890s, and the pier decayed until maintenance was abandoned in the 1930s; salmon fishing then rum-running sustained the place.",
+   "confidence_notes": "Pier length/date from HCHS (no footnotes given). Lumber as an export is NOT documented in sources seen - Shelter Cove belongs on the map as a tanbark/ranch-produce doghole, not a lumber port proper.",
+   "sources": [
+    {
+     "citation": "Martha Roscoe, 'Shelter Cove,' Humboldt County Historical Society history nugget, 20 Apr 2023",
+     "type": "secondary",
+     "url": "https://www.humboldthistory.org/history-nuggets/2023/4/20/shelter-cove"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), pp. 300-301 (Point Delgada and Shelter Cove) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Bear Harbor NR nomination (Shelter Cove as prior outlet, its 1890s decline)",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Mendocino%20County_Doghole%20Ports%20MPS_Bear%20Harbor%20Landing_REDACTED.pdf"
+    },
+    {
+     "citation": "Resort Improvement District No. 1, 'About' (pier built to ship lumber, wool, hides, butter; commercial fishing from 1900s)",
+     "type": "secondary",
+     "url": "https://sheltercove-ca.gov/about/"
+    }
+   ]
+  },
+  {
+   "name": "Mattole Wharf (Sea Lion Rock)",
+   "county": "Humboldt (mouth of Mattole River, Petrolia)",
+   "alt_names": [
+    "The Landing (Collins Gulch)",
+    "Mattole Landing"
+   ],
+   "active_years": "1908-c.1914 (wharf dedicated 22 Aug 1908; landing 'so badly damaged by storms' Feb 1914 that repair was doubtful; the operating decade is given as 1908-1918 by the Mattole Valley Historical Society)",
+   "heyday": "1908-1913 tanbark seasons ('The vessel has been running regularly this summer... carrying tanbark' - Oct 1913)",
+   "loading_method": "High-line WIRE from a donkey engine set on Sea Lion Rock: bark hoisted from railroad flatcars, run out on the wire to the moored schooner, tipped and dumped aboard. Four-point moorings (outside pair in 11 fathoms, inside in 8, with ~2-ton anchors)",
+   "wharf": "yes - 2,000 ft long, 20 ft wide, half trestle over the beach and half over water, Douglas-fir piles; tracks ran its length from Collins Gulch Landing to the Sea Lion Rock terminus",
+   "size_category": "doghole-with-wharf (open ocean, utterly exposed); coastal schooners/steam schooners on a seasonal S.F. run",
+   "companies": [
+    "Mattole Lumber Company (built wharf and railroad, bought tanbark rights valley-wide, ran the Petrolia store)",
+    "Johnson & Stewart (ordered the locomotive, 1908)",
+    "landowner William Clark (contract of 1 Jul 1908 for Sea Lion Rock)",
+    "competing tannery landowners: Eberhard Tanning Co. (Santa Clara), Kron Tannery (Santa Cruz), Wagner Leather Co. (Stockton)"
+   ],
+   "products": [
+    "tanoak bark, overwhelmingly (to San Francisco tanneries)",
+    "freight inbound",
+    "no evidence seen of sawn-lumber export despite the company name - flag"
+   ],
+   "railroad": "Mattole Lumber Co. narrow gauge, 36-inch: Vulcan Iron Works (Wilkes-Barre, PA) 0-4-2T saddletank 'Mattole Engine No. 1', wood-burning, 17,500 lbs, ordered 11 Jul 1908, arrived at the landing 20 Jul 1909; hauled special flatcars from The Landing near Collins Gulch to the wharf",
+   "coords_approx": [
+    40.297,
+    -124.36
+   ],
+   "coord_precision": "area",
+   "photo_leads": [
+    "Mattole Valley Historical Society / 'West of the Redwoods' blog (Laura Cooskey) reproduces wharf and locomotive photos; MVHS newsletter 'Now... and Then' No. 40",
+    "Cal Poly Humboldt Special Collections",
+    "cited works: Carranco & Sorensen, Steam in the Redwoods (1988); Marlene Greenway DPR Primary Record (1997)"
+   ],
+   "summary": "The Mattole Valley's one industrial shipping point: a 2,000-ft wharf at the river mouth (1908) with a donkey-powered high line from Sea Lion Rock loading tanoak bark onto seasonal schooners for San Francisco tanneries, fed by a 36-inch-gauge railroad with a single Vulcan saddletank engine. Storm-wrecked by February 1914; the trade died with the tanbark. Before 1908 the valley's bark went out by mule and wagon via Shelter Cove.",
+   "confidence_notes": "Primary documentation is newspaper-based via the MVHS compilation (Ferndale Enterprise 1907-09; Susie Van Kirk's Mattole River Newspaper References). End date: damaged Feb 1914, but Cooskey frames the wharf decade as 1908-1918 - final abandonment date unverified.",
+   "sources": [
+    {
+     "citation": "Laura Cooskey, 'Tanbarking in Mattole, Part 1,' West of the Redwoods (Mattole Valley Historical Society), 18 Feb 2020",
+     "type": "secondary",
+     "url": "https://mattolehistory.wordpress.com/2020/02/18/tanbarking-in-mattole-part-1/"
+    },
+    {
+     "citation": "West of the Redwoods, categories 'Tanbark and Wharf' and 'Mattole Lumber Co.' (Clark contract 1 Jul 1908; Vulcan order 11 Jul 1908; Oct 1913 and Feb 1914 reports)",
+     "type": "secondary",
+     "url": "https://mattolehistory.wordpress.com/category/tanbark-and-wharf/"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), p. ~280 (Mattole River breaking through the coast barrier; steam-schooner class described for these northern outports) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    }
+   ]
+  },
+  {
+   "name": "Eureka (Humboldt Bay) - the deepwater lumber capital",
+   "county": "Humboldt",
+   "alt_names": [
+    "Humboldt Bay; Tebenkov's 'Bay of Indians'/'entrance of Rezanoff' (1848 atlas); Indian name Qual-a-waloo (Davidson 1869)"
+   ],
+   "active_years": "1850-1940s+ (first sawmill and first lumber cargo 1850; first redwood cargo 1855; timber port for over a century)",
+   "heyday": "1880s-1914 for the coastwise fleet ('Eureka is the great lumber center of this region, and its shipping is enormous. No less than eight railroads... are built from various points on the shores of Humboldt Bay' - Davidson 1889); post-1906-earthquake boom; after Oct 1914 the NWP railroad progressively replaced steam schooners as the main outlet",
+   "loading_method": "Wharves along the Eureka waterfront - 'Vessels lie at the wharves to load lumber and produce, and rest on the mud at low-tide' (Davidson 1889); mill-side wharves on Indian/Gunther Island ('extensive saw-mill buildings and wharves,' 1889); channel to Eureka dredged by U.S. Engineers (1889). BAR SYSTEM: shifting bar with 13-25 ft; steam tug stationed on the bar from c.1852 - flag hoisted on Red Bluff, tug goes out, 'The best advice we can offer in regard to entering the bay is to wait for the tug' (Davidson 1869); pilots' flagstaff ranges on Red Bluff; lumber-laden vessels detained up to 25-31 days in bad weather (1851, 1861); can-buoy moorings outside (1869). USACE jetties: two-parallel-jetty plan in Chief of Engineers Annual Report 1877; south jetty begun 1889, north jetty 1891 (Magoon, Sloan & Shimizu 1976)",
+   "wharf": "yes - multiple town and mill wharves from the 1850s",
+   "size_category": "deepwater-bay-harbor (bar-limited): full-rigged foreign-trade vessels by 1889 ('a great number of vessels trade directly with foreign ports'; port of entry in the SF collection district), plus the whole schooner / steam-schooner coasting fleet; 1859 bar 'sufficient water for the largest lumber-laden vessels' at best, 13 ft at worst (Davidson 1869)",
+   "companies": [
+    "Ryan & Duff (1852, first successful mill - ship Santa Clara's engines)",
+    "Martin White's Bay Mill (1852) \u2192 John Dolbeer & partners 1856 \u2192 DOLBEER & CARSON (partnership 17 Apr 1863; John Dolbeer invented the donkey engine at Eureka Aug 1881, patent 256,553 issued 18 Apr 1882; William Carson)",
+    "Vance & Garwood 1853/1856 \u2192 John Vance Mill & Lumber Co. (Eureka mill burned 1892)",
+    "Kentfield & Jones (Gunther Island mill from 1866)",
+    "Humboldt Lumber & Manufacturing Co. (1854 pool, $380,000; exported 20,567,000 ft 1854; failed Dec 1854)",
+    "California Redwood Company (Edinburgh syndicate, 1882-c.1892, land-fraud scandal - Shepherd 2010)",
+    "Excelsior Redwood Co. (Freshwater logging railroad c.1890; controlled by Charles A. Hooper - succession from CRC is REPORTED but not verified in this pass)",
+    "Occidental and other waterfront mills (1856: seven sawmills cutting 2,000,000 bf/month - Humboldt Bay Harbor District)"
+   ],
+   "products": [
+    "redwood lumber (premium from 1855)",
+    "spruce, fir, pine lumber (the 1850-55 output)",
+    "laths, pickets, shingles",
+    "railroad ties",
+    "piles and spars"
+   ],
+   "railroad": "Eight railroads feeding the bay by 1889 (Davidson). Documented: Eel River & Eureka RR (organized 14 Nov 1882 by John M. Vance, Wm. Carson et al.; 25 mi Eureka-Burnells, standard gauge, ~2,000-ft Table Bluff tunnel; to SF & Northwestern Oct 1902, NWP later); Pacific Lumber's connection at Alton (1885) and spur to Fields Landing (1884); Bucksport & Elk River RR (Dolbeer & Carson + Elk River Mill, 1885 log line, 12 mi); Eureka & Klamath River RR (inc. 1893, Vance: Samoa-Essex, Eureka by ferry); Humboldt Northern Ry (Carson, 1905, Cole's Landing north toward McKinleyville); Arcata & Mad River (see Arcata); Oregon & Eureka (Hammond, see Samoa). NWP golden spike at Cain Rock 23 Oct 1914 connected Humboldt Bay to San Francisco by rail - rail then replaced steam schooners as the main means of getting Humboldt lumber to market (Timber Heritage Assoc.; Humboldt Co. Hist. Soc.)",
+   "coords_approx": [
+    40.806,
+    -124.17
+   ],
+   "coord_precision": "exact",
+   "photo_leads": [
+    "Cal Poly Humboldt Library Special Collections: Ericson Photograph Collection (A.W. Ericson), Louisiana-Pacific/Hammond Lumber Co. Collection 1871-1992 (OAC ark:/13030/c8sj1rxr), Boyle & Lennon railroad logging notes",
+    "Humboldt County Historical Society",
+    "Clarke Historical Museum, Eureka (lumber and railroad exhibits)",
+    "Bancroft Library: Dolbeer & Carson Lumber Co. Records ca.1884-1941 (OAC ark:/13030/tf6n39n91p) incl. Bucksport & Elk River and Humboldt Northern records",
+    "Swanlund-Baker/HSU images via thehumboldtproject.org"
+   ],
+   "summary": "California's redwood metropolis: nine mills on the bay by 1854, the first redwood cargo 1855, and by 1889 'the great lumber center of this region' with enormous shipping, direct foreign trade, and eight feeder railroads (Davidson). Its notorious shifting bar bred the earliest tug-assisted bar-crossing system on the coast (c.1852) and, from 1889-91, federal jetties. John Dolbeer's donkey engine (Eureka, Aug 1881) mechanized West Coast logging from here. The NWP's completion (23 Oct 1914) turned the lumber flow from sea to rail, though steam schooners persisted into the 1920s-30s.",
+   "confidence_notes": "1850s mill genealogy from Bearss 1969 (NPS History Basic Data, itself census- and newspaper-based). 'First redwood shipped 1855' is Bearss; Carson shipped 20,000 bf redwood via brig Tigress dated 1854-55 in the same source - treat 1855 as the conventional date. Excelsior-CRC succession unverified. Tonnage of largest vessels not pinned in sources seen.",
+   "sources": [
+    {
+     "citation": "George Davidson, Coast Pilot of California, Oregon, and Washington Territory (Washington: GPO, 1869), pp. 98-103 (Humboldt bar history 1851-69, tug system, Eureka, Arcata) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/pacificcoastcoa00survgoog"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), pp. 318-328 (Eureka 'great lumber center,' eight railroads, dredging, Indian Island mills, Fort Humboldt abandoned) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Edwin C. Bearss, Redwood National Park: History Basic Data (NPS, 1969), ch. X.A ('The Lumber Industry in Humboldt County 1850-1860') - read via Wayback",
+     "type": "secondary",
+     "url": "https://www.nps.gov/parkhistory/online_books/redw/history10a.htm"
+    },
+    {
+     "citation": "'John Dolbeer invents the donkey engine... August 1881,' HistoryLink.org Essay 5331 (patent 256,553, 18 Apr 1882)",
+     "type": "secondary",
+     "url": "https://www.historylink.org/File/5331"
+    },
+    {
+     "citation": "Magoon, Sloan & Shimizu, 'Design and Construction of Humboldt Jetties, 1880 to 1975,' Coastal Engineering Proceedings 15 (1976) - quotes Chief of Engineers Annual Report 1877",
+     "type": "secondary",
+     "url": "https://icce-ojs-tamu.tdl.org/icce/article/view/3192"
+    },
+    {
+     "citation": "Humboldt Bay Harbor District, 'Historic Humboldt Bay' (1856: seven sawmills, 2M bf/month)",
+     "type": "secondary",
+     "url": "https://humboldtbay.org/historic-humboldt-bay"
+    },
+    {
+     "citation": "Marvin D. Shepherd, A Scottish Syndicate in the Redwoods: Monopoly & Fraud in the California Redwoods, 1882-1892 - not directly read; identified as the study of the California Redwood Co.",
+     "type": "secondary",
+     "url": "https://www.humboldthistory.org/bookstore/a-scottish-syndicate-in-the-redwoods-monopoly-fraud-in-the-california-redwoods-1882-1892"
+    },
+    {
+     "citation": "Eel River and Eureka Railroad (organized 14 Nov 1882; standard gauge; SF&NW Oct 1902), Wikipedia",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Eel_River_and_Eureka_Railroad"
+    }
+   ]
+  },
+  {
+   "name": "Bucksport",
+   "county": "Humboldt (south Eureka waterfront)",
+   "alt_names": [],
+   "active_years": "townsite 1850 (David A. Buck); town absorbed by Eureka by 1870; rail-to-bay log dump and mill sites 1885-1953",
+   "heyday": "1885-1930s as the bay terminus of the Elk River timber railroads",
+   "loading_method": "log dump and mill wharves on the bay; logs rafted to bay mills",
+   "wharf": "yes (log dump/mill landing; 1869 Davidson noted a wharf reachable with ten feet of water 'when approached from the northward' - 1889 ed. notes Fort Humboldt above it abandoned)",
+   "size_category": "deepwater-bay-harbor sub-point of Humboldt Bay",
+   "companies": [
+    "Dolbeer & Carson (with Elk River Mill & Lumber Co. built the 1885 standard-gauge, 12-mile Elk River log railroad to the bay; 'Three sawmills depended upon railroad deliveries' by 1887)",
+    "Elk River Mill and Lumber Company (Noah Falk, mill and company town of FALK 1884, ~400 residents; mill closed 1937; lumber out via Bucksport)",
+    "Pacific Lumber Co. (operated the Bucksport & Elk River line until 15 Jan 1953)"
+   ],
+   "products": [
+    "redwood logs (to bay mills)",
+    "redwood lumber"
+   ],
+   "railroad": "Elk River log railroad 1885, standard gauge, 12 miles (Dolbeer & Carson + Elk River Mill); formally incorporated as Bucksport & Elk River Railroad Co. 14 May 1932 (J.M. Carson pres.); replaced by log trucks 1953. Falk's locomotive: Marschutz & Cantrell 0-4-0 (1884), preserved (Timber Heritage Assoc.)",
+   "coords_approx": [
+    40.779,
+    -124.19
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Falk Archaeological District NR listing (2024) documentation",
+    "Humboldt County Historical Society 'Falk' nugget (2022)",
+    "Timber Heritage Association collection (Falk No. 1 locomotive)",
+    "Bancroft: Dolbeer & Carson records"
+   ],
+   "summary": "Gold-rush townsite (1850) that faded into south Eureka but became the bay-shore terminus of the Elk River timber railroads: from 1885 Dolbeer & Carson's and the Elk River Mill & Lumber Co.'s standard-gauge line delivered logs and the Falk company town's lumber (1884-1937) to Humboldt Bay wharves here. Rail operation persisted under Pacific Lumber to 1953.",
+   "confidence_notes": "The 1885 line vs. the 1932-incorporated Bucksport & Elk River Co. are distinct legal entities on the same corridor - dates as given by Wikipedia/Bucksport and Falk sources; not checked against ICC records.",
+   "sources": [
+    {
+     "citation": "'Bucksport, California,' Wikipedia (Buck 1850; D&C 1885 standard-gauge 12-mi log railroad; B&ER inc. 14 May 1932; PALCO to 15 Jan 1953)",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Bucksport,_California"
+    },
+    {
+     "citation": "'Falk,' Humboldt County Historical Society nugget (8 Jul 2022); 'Noah Falk...' Redheaded Blackbelt (10 Sep 2024); Falk Archaeological District, Wikipedia",
+     "type": "secondary",
+     "url": "https://www.humboldthistory.org/history-nuggets/2022/7/8/falk"
+    },
+    {
+     "citation": "Davidson, Coast Pilot 1869 p.101 and Pacific Coast Pilot 1889 p.322 (Bucksport wharf; Fort Humboldt) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    }
+   ]
+  },
+  {
+   "name": "Fields Landing",
+   "county": "Humboldt (south Humboldt Bay)",
+   "alt_names": [
+    "South Bay",
+    "South Bay Station",
+    "Adele"
+   ],
+   "active_years": "landing named for Waterman Field (town est. 1862 per Wikipedia); lumber-wharf era 1884-20th c.; whaling station 1940-1951",
+   "heyday": "1884-1914: deepwater outlet for the Eel River valley mills before the NWP was finished",
+   "loading_method": "railroad wharf on the deepwater South Bay channel; lumber transferred rail-to-ship",
+   "wharf": "yes - Eel River & Eureka RR spur reached Fields Landing 1884; 'a large wharf was being built at Fields Landing' (1890s, Eel River valley station history); 'For many years the Pacific Lumber Company used the railroad to move their lumber... to shipping facilities on Humboldt Bay and the wharf at Fields Landing... before completion of the Northwestern Pacific Railroad in 1914'",
+   "size_category": "deepwater-bay-harbor sub-point (deepest natural water in south bay; 20th-c. deepwater terminal, today Humboldt Bay Harbor District's terminal)",
+   "companies": [
+    "Pacific Lumber Company (Scotia mill; principal user of the wharf pre-1914)",
+    "Eel River & Eureka Railroad (spur 1884)",
+    "WWII-era shipyard (wooden tugs for the British Ministry of War - HCHS)",
+    "whaling station operators 1940-1951"
+   ],
+   "products": [
+    "redwood lumber (PL, to San Francisco and foreign markets)"
+   ],
+   "railroad": "Eel River & Eureka RR spur (1884, standard gauge); later NWP",
+   "coords_approx": [
+    40.723,
+    -124.22
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Humboldt Bay Harbor District pages",
+    "HCHS 'Ship Building on Humboldt Bay' nugget (2020)",
+    "Cal Poly Humboldt Special Collections",
+    "sunnyfortuna.com Eel River Valley NWP station histories"
+   ],
+   "summary": "The south-bay deepwater railhead: from 1884 an Eel River & Eureka spur, and above all the Pacific Lumber Company's route from Scotia, put Eel River redwood aboard ships here until the NWP (1914) gave PL an all-rail route south. Later a WWII small-shipyard and (1940-51) California's last shore whaling station.",
+   "confidence_notes": "1862 founding and name sequence from Wikipedia (unverified against county sources). PL wharf construction date not pinned - '1890s' per sunnyfortuna.",
+   "sources": [
+    {
+     "citation": "'Eel River Valley NWP Railroad Stations,' sunnyfortuna.com (ER&E to Fields Landing 1884; PL use of the wharf pre-1914)",
+     "type": "secondary",
+     "url": "http://www.sunnyfortuna.com/railroad/local_stations.htm"
+    },
+    {
+     "citation": "'Fields Landing, California,' Wikipedia (names; whaling station 1940-1951; NWP 1914)",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Fields_Landing,_California"
+    },
+    {
+     "citation": "'Ship Building on Humboldt Bay,' Humboldt County Historical Society (Fields Landing wooden tugs for British Ministry of War)",
+     "type": "secondary",
+     "url": "https://www.humboldthistory.org/history-nuggets/2020/11/19/ship-building-on-humboldt-bay"
+    }
+   ]
+  },
+  {
+   "name": "Fairhaven (Bendixsen shipyard)",
+   "county": "Humboldt (North Spit, opposite Eureka)",
+   "alt_names": [],
+   "active_years": "shipyard 1874-1901 (Bendixsen), successors to c.1920s (WWI wooden steamers)",
+   "heyday": "1875-1901: the West Coast lumber fleet's premier wooden-ship yard",
+   "loading_method": "shipbuilding site rather than cargo port; Davidson 1889 notes on the North Spit 'a saw-mill on the bay side nearly opposite Bucksport, and an extensive ship-yard a little to the north of it'",
+   "wharf": "shipyard ways and fitting-out wharf",
+   "size_category": "deepwater-bay-harbor sub-point",
+   "companies": [
+    "Hans Ditlev Bendixsen (Danish; worked for Euphronius & H. Cousins, own Eureka yard 1869, moved to Fairhaven 1874, sold 1901 shortly before his death; built 92 sailing vessels 1869-1901, 35 of them three-masters, plus steam schooners)",
+    "successor: Rolph/Hanify? (not verified)"
+   ],
+   "products": [
+    "lumber schooners and steam schooners for the redwood fleet - including C.A. THAYER, 3-masted lumber schooner, BUILT 1895 AT BENDIXSEN'S FAIRHAVEN YARD (verified: NPS San Francisco Maritime NHP; 219 ft extreme, 575,000 bf capacity, half on deck; named for Clarence A. Thayer, secretary of the E.K. Wood Lumber Co., her managing owner; ran Grays Harbor-San Francisco 1895-1912; preserved at Hyde Street Pier)",
+    "also Bendixsen-built doghole schooners Georgia R. Higgins (1875) and Gussie Klose (1876) that served Bear Harbor"
+   ],
+   "railroad": "none (yard)",
+   "coords_approx": [
+    40.805,
+    -124.193
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "San Francisco Maritime NHP (C.A. Thayer plans, photos, HAER)",
+    "shipbuildinghistory.com Bendixsen build list",
+    "Cal Poly Humboldt Special Collections; HCHS 'Ship Building on Humboldt Bay'"
+   ],
+   "summary": "Humboldt Bay's shipbuilding annex: Hans D. Bendixsen's Fairhaven yard (1874-1901) built 92 sailing vessels for the Pacific lumber trade, including the surviving schooner C.A. Thayer (1895), plus many of the small schooners that worked the doghole chutes. Hammond's Samoa emergency yard nearby launched seven wooden steamships 1917-19.",
+   "confidence_notes": "Bendixsen career numbers from shipbuildinghistory.com; C.A. Thayer facts cross-checked NPS. Successor-yard detail not pursued.",
+   "sources": [
+    {
+     "citation": "'C.A. Thayer,' San Francisco Maritime NHP (NPS) - built 1895, Bendixsen, Fairhaven",
+     "type": "secondary",
+     "url": "https://nps.gov/safr/learn/historyculture/c-a-thayer.htm"
+    },
+    {
+     "citation": "'Bendixsen Shipbuilding,' shipbuildinghistory.com (Eureka 1869, Fairhaven 1874, sold 1901; 92 vessels)",
+     "type": "secondary",
+     "url": "http://shipbuildinghistory.com/shipyards/19thcentury/bendixsen.htm"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot (1889), p. 323 (sawmill and 'extensive ship-yard' on the North Spit) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Bear Harbor NR nomination (Georgia R. Higgins 1875, Gussie Klose 1876, 'Bendixsen's yard in Fairhaven')",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Mendocino%20County_Doghole%20Ports%20MPS_Bear%20Harbor%20Landing_REDACTED.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Samoa",
+   "county": "Humboldt (North Spit)",
+   "alt_names": [
+    "Vance mill town; 'Brainard's'? (not verified)"
+   ],
+   "active_years": "1892/1894-1940s+ (Vance mill's first lumber 1894; Hammond era 1900-1956; Louisiana-Pacific after)",
+   "heyday": "1900-1920s under Hammond Lumber Co. - largest mill in Humboldt County, own dock and fleet",
+   "loading_method": "mill dock on the deepwater channel behind the North Spit; company steam schooners and steamers loaded alongside",
+   "wharf": "yes - mill wharves",
+   "size_category": "deepwater-bay-harbor sub-point; Hammond's ocean-going lumber carriers",
+   "companies": [
+    "Samoa Land and Improvement Co. (sold frontage 1892)",
+    "Vance Lumber Co. (John Vance's heirs; Samoa mill first lumber 1894, 60-70,000 bf/day; Eureka mill had burned 1892)",
+    "A.B. HAMMOND - bought John Vance Mill & Lumber Co. + Eureka & Klamath River RR for $1,000,000 on 1 Sept 1900; Hammond Lumber Co. (modern new mill, WWI emergency shipyard: 7 wooden steamships 1917-19; company town; sold to Louisiana-Pacific 1956)",
+    "Little River Redwood Co. at Crannell (merged with Hammond 1931 - not verified in this pass)"
+   ],
+   "products": [
+    "redwood lumber on a mass scale",
+    "Douglas fir",
+    "WWI wooden steamships"
+   ],
+   "railroad": "Eureka & Klamath River RR (Vance, inc. 1893: Samoa-Essex, ferry link to Eureka); Hammond's OREGON & EUREKA RR (formed via 1903 agreement with Southern Pacific, 36 miles; extended 1906 to Little River Redwood Co. mill at Crannell; merged into NWP 8 Jan 1907, extended to Trinidad 22 Jun 1907-1 Jul 1911 service; NWP ended Trinidad service 1 Mar 1933 and sold the northern stub back to Hammond); Hammond logging lines north to Little River and BIG LAGOON until the 1945 trestle-destroying wildfire; Samoa shops/roundhouse survive (Timber Heritage Assoc.)",
+   "coords_approx": [
+    40.827,
+    -124.188
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Cal Poly Humboldt Special Collections: 'Samoa - A Lumber Company Town' + Louisiana-Pacific/Hammond Collection (photos, maps, plans, 1871-1992)",
+    "Timber Heritage Association (Samoa roundhouse & shops)",
+    "Heritage Rail Alliance 'The Samoa Shops' (2020)"
+   ],
+   "summary": "The Vance heirs' 1892-94 Samoa mill - largest in Humboldt County - became the West Coast flagship of A.B. Hammond's empire after his $1,000,000 purchase of 1 Sept 1900. Hammond shipped redwood from his own dock in his own vessels, ran the Oregon & Eureka RR up the coast to Crannell/Trinidad (into the NWP 1907), and built seven wooden steamships at Samoa during WWI. Logging lines reached Big Lagoon until fire destroyed the trestles in 1945.",
+   "confidence_notes": "Core dates cross-checked (Wikipedia Hammond Lumber Co.; Cal Poly Humboldt; O&E RR Wikipedia). Crannell/Little River merger date and successor-yard details unverified.",
+   "sources": [
+    {
+     "citation": "'Hammond Lumber Company,' Wikipedia ($1M purchase 1 Sep 1900; Samoa 1892-94; WWI shipyard 1917-19; 1945 fire; Big Lagoon)",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Hammond_Lumber_Company"
+    },
+    {
+     "citation": "'Samoa - A Lumber Company Town,' Cal Poly Humboldt Special Collections",
+     "type": "secondary",
+     "url": "https://www.humboldt.edu/special-collections/samoa-lumber-company-town"
+    },
+    {
+     "citation": "'Oregon and Eureka Railroad,' Wikipedia (1903 SP agreement, 36 mi; Crannell 1906; NWP merger 8 Jan 1907; Trinidad service 1911-1933)",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Oregon_and_Eureka_Railroad"
+    },
+    {
+     "citation": "Louisiana Pacific/Hammond Lumber Company Collection finding aid, OAC",
+     "type": "secondary",
+     "url": "https://oac.cdlib.org/findaid/ark:/13030/c8sj1rxr"
+    }
+   ]
+  },
+  {
+   "name": "Arcata Wharf",
+   "county": "Humboldt (north Humboldt Bay)",
+   "alt_names": [
+    "Union / Uniontown (to 1860)"
+   ],
+   "active_years": "1855-early 20th c. (wharf completed May 1855; USACE-dredged channel and active lumber loading described 1889; superseded in the NWP era - end date unverified)",
+   "heyday": "1855-1870s as supply port for Trinity/Klamath mines and lumber outlet; 1880s-1900s as the Korbel mills' port",
+   "loading_method": "Lumber brought by railroad the length of a wharf running ~1.5-2 miles across the mudflats to reach\u6c34deep water; 'A railroad from the Mad River valley carries lumber to vessels loading at this wharf' (Davidson 1889); US Engineers dredged a 10-ft low-water channel to the wharf (Davidson 1889)",
+   "wharf": "yes - the famous Arcata Wharf: begun Dec 1854 by the Union Wharf & Plank Walk Co., in use Jan 1855, completed May 1855 at 1.5 miles, extended 600 yards in 1875",
+   "size_category": "deepwater-bay-harbor sub-point reached only via dredged channel/high tide; schooners and coastal steamers ('regular communication by steamer with San Francisco,' 1889; pop. 702 in 1880)",
+   "companies": [
+    "Union Wharf and Plank Walk Company (1854)",
+    "Arcata Transportation Co. (steam from 1875)",
+    "Arcata & Mad River Railroad (inc. 22 Jul 1881)",
+    "F. Korbel & Bros. / HUMBOLDT LUMBER MILL CO. at North Fork/Korbel (Korbels bought the railroad 1883; sold to Northern Redwood Lumber Co. 1903)",
+    "Dolly Varden and other Mad River mills"
+   ],
+   "products": [
+    "redwood lumber (Mad River valley mills)",
+    "mine supplies inbound (1850s)",
+    "agricultural and stock products (1889)"
+   ],
+   "railroad": "Union Plank Walk Rail Track: California's earliest state-authorized operating railroad (horse-drawn, Jan 1855) on a one-of-a-kind 45\u00bc-inch gauge 'based on the wheel gauge of its original four wheel horse drawn car' (PacificNG; HMDB gives 3 ft 9\u00bd in); steam 1875; A&MR inc. 1881, Korbel purchase 1883, extended to Korbel mills; dual-gauged (third rail) Korblex-Korbel Aug 1925; standard-gauged Feb 1942; California Historical Landmark No. 842",
+   "coords_approx": [
+    40.85,
+    -124.1
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Cal Poly Humboldt Ericson Collection (A.W. Ericson photographed the wharf and A&MR trains extensively)",
+    "Arcata & Mad River Railroad collection 1885-1935, OAC/texts.cdlib.org ark:/13030/c8x63nkk",
+    "HMDB markers m=248874 (Union Plank Walk) and m=113364 (CHL 842)",
+    "PacificNG article images"
+   ],
+   "summary": "Arcata's mile-and-a-half wharf across the mudflats (1855) plus the 45\u00bc-inch-gauge plank-walk railroad made 'Union' the earliest railroad-served port in California, first as the miners' depot for the Trinity and Klamath diggings, then as the ocean outlet for the Mad River valley mills - above all the Korbel brothers' Humboldt Lumber Mill Co., whose 1883 purchase of the Arcata & Mad River RR tied Korbel's redwood to ships at the wharf until the NWP era.",
+   "confidence_notes": "Gauge stated as 45\u00bc in (PacificNG) vs 3 ft 9\u00bd in = 45.5 in (Wikipedia/HMDB) - one-quarter-inch discrepancy between sources, noted. Date the wharf ceased loading ships unverified.",
+   "sources": [
+    {
+     "citation": "Davidson, Coast Pilot 1869 p.101 ('extensive wharf... vessels can reach at high tides') and Pacific Coast Pilot 1889 p.327 (railroad carrying lumber to vessels; USACE 10-ft dredged channel) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "'Arcata and Mad River Railroad,' PacificNG (45\u00bc-in gauge origin; 1925 third rail; 1942 standard gauge)",
+     "type": "secondary",
+     "url": "https://www.pacificng.com/w/index.php?title=Arcata_and_Mad_River_Railroad"
+    },
+    {
+     "citation": "'Arcata and Mad River Rail Road Company,' California Historical Landmark 842; HMDB 'Union Plank Walk Railtrack' (wharf 1.5 mi May 1855, +600 yd 1875)",
+     "type": "secondary",
+     "url": "https://noehill.com/humboldt/cal0842.asp"
+    },
+    {
+     "citation": "'Arcata and Mad River Railroad,' Wikipedia (inc. 22 Jul 1881; Korbel purchase 1883)",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Arcata_and_Mad_River_Railroad"
+    }
+   ]
+  },
+  {
+   "name": "Trinidad",
+   "county": "Humboldt",
+   "alt_names": [
+    "Port Trinidad (Heceta & Bodega, 1775)",
+    "Warnersville (first town, 1850)"
+   ],
+   "active_years": "1850-c.1920s (gold-rush supply port 1850-50s; lumber wharf by 1869; mill-company port through the 1880s-90s; Hammond owned the waterfront until 1944; whaling pier in the early 20th c.)",
+   "heyday": "1850s (supply link to Klamath/Trinity/Salmon River mines, lumber south to build San Francisco); second wind 1870s-80s under the Trinidad mill",
+   "loading_method": "1869: 'A wharf is now built here, at which vessels lie to load lumber' (Davidson). 1889: vessels do NOT lie at Hooper's Wharf because of swell and undertow - they moor bow-out a few yards off and lumber is LOWERED TO THEIR DECKS BY A DERRICK on the wharf; in the NE part of the bay a saw-mill and a CHUTE, whence lumber goes out on LIGHTERS to vessels at the mill companies' heavy moorings inside Prisoners Rock (Davidson 1889)",
+   "wharf": "yes - Hooper's Wharf (1889 name) on the east side of Trinidad Head; a wharf existed by 1869",
+   "size_category": "doghole-with-wharf in a contracted deepwater roadstead; 'moderately good summer anchorage,' dangerous in winter southeasters (several vessels lost; bark Arcadia lost Feb 1851); schooners at moorings rode out gales on mill-company heavy ground tackle",
+   "companies": [
+    "1850s town merchants and early mills (supply trade)",
+    "Trinidad mill interests behind 'Hooper's Wharf' - the Hooper connection (Charles A./John A. Hooper family, also behind Excelsior Redwood) is INFERRED from the wharf name, not verified",
+    "California Redwood Company (Scottish syndicate) involvement at Trinidad reported in regional histories - unverified in this pass",
+    "Hammond Lumber Co. (owned all Trinidad waterfront until Earl Hallmark's Dec 1944 purchase - Mad River Union)"
+   ],
+   "products": [
+    "redwood lumber (1850s-90s)",
+    "mine freight inbound (1850s)",
+    "whale products (early-20th-c. shore whaling from the pier - local histories; exact years unverified)"
+   ],
+   "railroad": "reached by rail only in 1907-11 (O&E/NWP extension; NWP service to Trinidad 1 Jul 1911-1 Mar 1933) - by then shipping had waned",
+   "coords_approx": [
+    41.057,
+    -124.143
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "HSU/Cal Poly Humboldt Katie Boyle Collection (per Mad River Union pier article)",
+    "Trinidad Museum",
+    "Ericson Collection",
+    "US Coast Survey chart of Trinidad Bay (published by 1869; Coast Survey reports 1854/1859)"
+   ],
+   "summary": "Discovered for the sea by the gold rush (Dec 1849-1850), Trinidad was the miners' landing for the Klamath diggings while 'great amounts of lumber... were shipped south to build San Francisco.' A lumber wharf existed by 1869; by 1889 Davidson describes a fully evolved doghole-style operation inside the rocky roadstead - derrick loading at Hooper's Wharf, a sawmill and chute lightering lumber to schooners on company moorings. The pier passed through Hammond hands until 1944 and hosted early-20th-century whaling.",
+   "confidence_notes": "The 1850s' 'only local seaport to ship lumber from area sawmills' claim is from town-history pages (unfootnoted). Hooper/CRC corporate history at Trinidad needs archival verification. Whaling-station years not pinned (local pages say 'early 1900s').",
+   "sources": [
+    {
+     "citation": "Davidson, Coast Pilot 1869, pp. 103-104 (Trinidad Head and Bay; wharf loading lumber; wreck history) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/pacificcoastcoa00survgoog"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889 (Hooper's Wharf, derrick loading, sawmill and chute with lighters, mill-company moorings) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "'Discover History,' trinidad-ca.com (gold-rush supply port; lumber south; whaling pier)",
+     "type": "secondary",
+     "url": "http://www.trinidad-ca.com/discover/history.html"
+    },
+    {
+     "citation": "Bob Hallmark, 'The fascinating true history of Trinidad Pier,' Mad River Union (Hammond waterfront ownership to Dec 1944)",
+     "type": "secondary",
+     "url": "https://www.madriverunion.com/articles/the-fascinating-true-history-of-trinidad-pier/"
+    }
+   ]
+  },
+  {
+   "name": "Big Lagoon",
+   "county": "Humboldt",
+   "alt_names": [],
+   "active_years": "logging outpost c.1908-1945 (rail), salvage mill 1947+; NOT an ocean shipping point",
+   "heyday": "n/a as a port",
+   "loading_method": "NONE seaward - Big Lagoon is closed by a barrier beach; logs were dumped and boomed IN the lagoon and moved by Hammond's railroad; after the 1945 fire, trucks to Crannell then rail to Samoa",
+   "wharf": "no (lagoon log booms only)",
+   "size_category": "not a seaport - include on the map only as a log-transfer landscape",
+   "companies": [
+    "Hammond Lumber Co. (logging camps, rail lines to Samoa until trestles burned 1945; 1947 salvage mill)",
+    "Big Lagoon Lumber Co. (named among Samoa-region enterprises by 1922 - Hammond Wikipedia)"
+   ],
+   "products": [
+    "redwood logs (internal transfer, not maritime export)"
+   ],
+   "railroad": "Hammond logging railroad branches (via Crannell/O&E-NWP corridor)",
+   "coords_approx": [
+    41.183,
+    -124.128
+   ],
+   "coord_precision": "area",
+   "photo_leads": [
+    "Lost Coast Outpost, 'Big Lagoon's Ghost Town' (2014)",
+    "Louisiana-Pacific/Hammond Collection, Cal Poly Humboldt"
+   ],
+   "summary": "Answering the task's query: Big Lagoon was a Hammond logging-railroad outpost and company hamlet, with logs handled inside the barrier-beach lagoon - no documented ocean loading. Exclude from the shipping-point layer or mark as an inland log-transfer node.",
+   "confidence_notes": "Negative finding based on sources consulted; no source seen claims ocean shipment from Big Lagoon.",
+   "sources": [
+    {
+     "citation": "'Hammond Lumber Company,' Wikipedia (Big Lagoon rail outposts; 1945 fire; 1947 salvage mill trucking to Crannell)",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Hammond_Lumber_Company"
+    },
+    {
+     "citation": "'What's the Story With That Place? Big Lagoon's Ghost Town,' Lost Coast Outpost, 5 Dec 2014",
+     "type": "secondary",
+     "url": "https://lostcoastoutpost.com/2014/dec/5/whats-story-place-big-lagoons-ghost-town/"
+    }
+   ]
+  },
+  {
+   "name": "Klamath River mouth / Requa",
+   "county": "Del Norte",
+   "alt_names": [
+    "Requa"
+   ],
+   "active_years": "1881 mill scheme; ocean log-rafting c.1918-1926+",
+   "heyday": "mid-1920s Davis ocean rafts",
+   "loading_method": "river-mouth log rafting: Davis-patent cabled ocean rafts ('swifters,' 32 patents, several million feet each) assembled in the slough below Douglas Bridge, floated over the bar at flood tide, towed by the small freighter Golden West down the coast to Eureka, where cedar was broken out for export to Japan (Bearss). The bar was nearly impassable - the Humboldt tug failed to enter in 1860 (Davidson 1869)",
+   "wharf": "no",
+   "size_category": "river-bar-harbor (extreme); raft export only",
+   "companies": [
+    "Klamath Commercial Co. (R.D. Hume, 1881: cedar/laurel/oak mill scheme, shipped to Crescent City by small schooner; unsuccessful)",
+    "Bull & Dunn Cedar Co. (post-WWI logging of Klamath Bluff)",
+    "G.G. Davis & sons (raft engineers)"
+   ],
+   "products": [
+    "Port Orford / incense cedar logs (to Eureka, thence Japan)",
+    "small pioneer cedar-lumber shipments (1880s)"
+   ],
+   "railroad": "none",
+   "coords_approx": [
+    41.545,
+    -124.08
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Del Norte County Historical Society",
+    "Bearss 1969 ch. X.C notes Del Norte Record coverage (27 Aug 1881; 25 Sep 1926)"
+   ],
+   "summary": "Not a conventional port but a genuine export point: after failed 1880s mill ventures at the treacherous Klamath bar, Bull & Dunn's 1920s cedar was bound into Davis-patent ocean rafts of several million feet, floated over the bar at flood tide and towed to Eureka for trans-shipment to Japan - the coast's most exotic solution to a barred river mouth.",
+   "confidence_notes": "Entirely from Bearss (NPS 1969), who cites the Del Norte Record; not independently verified.",
+   "sources": [
+    {
+     "citation": "Bearss, Redwood National Park: History Basic Data (1969), ch. X.C \u00a7\u00a74-5 (Klamath sawmills; Davis rafts, Golden West, 1926) - read via Wayback",
+     "type": "secondary",
+     "url": "https://www.nps.gov/parkhistory/online_books/redw/history10c.htm"
+    },
+    {
+     "citation": "Davidson, Coast Pilot 1869, p. 106 (Humboldt tug's failed 1860 attempt to enter the Klamath) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/pacificcoastcoa00survgoog"
+    }
+   ]
+  },
+  {
+   "name": "Crescent City",
+   "county": "Del Norte",
+   "alt_names": [
+    "Tebenkov's 'San Sebastian'"
+   ],
+   "active_years": "1853-1939 as a lumber port (town 1853; first lumber wharf/cargo 1869-70; Hobbs Wall shutdown 22 Feb 1939); harbor breakwater era 1920s+; post-1945 truck-logging revival shipped by other means",
+   "heyday": "1880s-1920s under Hobbs, Wall & Co. - 19,193,800 ft of lumber over the Crescent City wharf in 1908",
+   "loading_method": "Pre-1869: freight lightered at $3/ton; lumber rolled 200 yards on rollers to lighters from the beach. 1869-70: wharf built (contractors Justus Welles & J.K. Johnson); first lumber cargo left aboard schooner Fanny Jane (Capt. Peter Caughell); lighters loaded directly from the wharf as it extended. Battery Point wharf noted by Davidson 1869 ('landing is now easily effected in good weather. In southeasters the breakers wash over it'); coasting steamers anchored close in and discharged into lighters. Rail spur to the wharf (first railroad in Del Norte, Hobbs-Pomeroy 1870s); first locomotive on the new wharf track May 1903",
+   "wharf": "yes - Crescent City Wharf with railroad spur; rebuilt/extended repeatedly; federal outer breakwater works after WWI (Board of Engineers report 20 Dec 1921; today 4,700-ft outer breakwater + 2,400-ft sand barrier to Whaler Island - USACE SPN)",
+   "size_category": "open-roadstead-with-wharf: 'the most dangerous of the roadsteads usually resorted to on the coast... No vessel should think of gaining an anchorage here without a pilot' (Davidson 1869 - bayonet rocks, Fauntleroy Rock); nonetheless served company steamers Del Norte, Mandalay, and Westport running SF and San Pedro on week-to-ten-day round trips (Bearss)",
+   "companies": [
+    "Crescent City Mill & Transportation Co. (community corporation 1869; Lake Earl Mill, 32,000 ft/day 1881, spruce; dam 1880; mill-to-wharf railroad)",
+    "\u2192 J. Wenger & Co. (Lake Earl Mill; burned 1890, rebuilt 1894, 50,000 ft/day; steamers Albion and Scotia; absorbed by Hobbs Wall May 1903; Lake Earl mill closed 1912)",
+    "HOBBS, WALL & CO.: Hobbs, Gilmore & Co. of SF \u2192 Hobbs, Pomeroy & Co. inc. 1871 (Elk Creek mill + box factory, 45-50,000 ft/day 1880); renamed Hobbs, Wall & Co. after David Pomeroy drowned 1879 in the foundering of the Mary D. Pomeroy (lumber-laden for SF); Elk Valley Mill 6M\u21928.5M ft/yr 1880-93; 'the main business artery of the county'; ceased operations Feb-Apr 1939",
+    "Hume, Westbrook & Bomhoff (Smith River mouth mill 1882-83)",
+    "Van Pelt brothers (small Pebble Beach mill, 1860s-70s)"
+   ],
+   "products": [
+    "spruce lumber (dominant early - Lake Earl mill mostly spruce)",
+    "redwood lumber",
+    "boxes (Hobbs box factory: 1,500-2,000/day, spruce/hemlock, for SF bread/sugar packers incl. Cutting & Co.)",
+    "laths",
+    "Sitka spruce for WWI aircraft",
+    "flour and bran (1850s-60s dual mills)"
+   ],
+   "railroad": "Hobbs-Pomeroy spur Elk Valley Mill\u2192wharf (first RR in Del Norte, 1870s); CRESCENT CITY & SMITH RIVER RAILROAD, common carrier, built 1890-1894, 12 miles from the Smith River logging camps to the two mills with spur to the wharf (gauge not verified); Del Norte & Southern RR from 1908 over Howland Hill (7% and 9% switchback grades) into Mill Creek, extended for WWI Sitka spruce, with three inclined railways 1,800-3,600 ft in the 1920s",
+   "coords_approx": [
+    41.745,
+    -124.19
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Library of Congress: Hobbs-Wall Lumber Company photographs (search fa=contributor:hobbs-wall+lumber+company)",
+    "Del Norte County Historical Society, Crescent City",
+    "wx4.org 'Hobbs, Wall & Company Railroads and Others in Del Norte County'",
+    "Bearss 1969 cites National Register forms pp. 353-363 for the Elk Creek mill"
+   ],
+   "summary": "Del Norte's only real port: a rock-strewn open roadstead that Davidson called the most dangerous regularly used on the coast, yet from the 1869 community mill venture and the 1871 arrival of Hobbs, Pomeroy (later Hobbs, Wall & Co.) it shipped spruce and redwood lumber and millions of boxes to San Francisco for seven decades. Hobbs Wall's mills, 12-mile Crescent City & Smith River RR (1890-94), wharf-spur locomotives (1903), and company steamers Del Norte, Mandalay, and Westport made it a company county until the sudden shutdown of February 1939.",
+   "confidence_notes": "Chronology rests on Bearss 1969 (well-documented NPS study). Breakwater construction dates only bracketed (post-1921 report); CC&SR gauge unverified. The 1858 'sawmill landed from the schooner Brother Jonathan at Smith River, eventually Hobbs Wall's first mill' is from Del Norte County Historical Society - note the vessel Brother Jonathan (steamer lost 1865) discrepancy; treat cautiously.",
+   "sources": [
+    {
+     "citation": "Davidson, Coast Pilot 1869, pp. 106-107 (Crescent City Bay dangers, Battery Point wharf, lighters, town statistics 1853/1860) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/pacificcoastcoa00survgoog"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889 (Whaler Island, Fauntleroy Rock buoy 1886-89, anchorage toward 'the saw-mill at the east side of Elk Creek') - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Bearss, Redwood NP History Basic Data (1969), ch. X.B-X.D (Crescent City Mill & Transportation Co.; Hobbs, Pomeroy/Hobbs Wall; J. Wenger; CC&SR RR 1890-94; 1908 wharf tonnage; 1939 shutdown) - read via Wayback",
+     "type": "secondary",
+     "url": "https://www.nps.gov/parkhistory/online_books/redw/history10b.htm"
+    },
+    {
+     "citation": "'Del Norte's Economic History,' Del Norte County Historical Society",
+     "type": "secondary",
+     "url": "https://delnortehistory.org/del-nortes-economic-history/"
+    },
+    {
+     "citation": "USACE San Francisco District, Crescent City Harbor project page (breakwater dimensions); Board of Engineers report 20 Dec 1921 (via search)",
+     "type": "primary",
+     "url": "https://www.spn.usace.army.mil/Missions/Projects-and-Programs/Current-Projects/Crescent-City-Harbor-/"
+    }
+   ]
+  },
+  {
+   "name": "Smith River (mouth)",
+   "county": "Del Norte",
+   "alt_names": [],
+   "active_years": "mill 1882/83-1909 (idle mid-1880s-1894; reopened 1894 with the railroad; closed for good by 1909)",
+   "heyday": "1882-83, 1894-1909 (modest)",
+   "loading_method": "lumber shipped OUT THE SMITH RIVER channel - 'as the channel was constantly shifting this plagued the operators' (Bearss); after 1894 lumber could instead move by the Crescent City & Smith River RR to Crescent City wharf",
+   "wharf": "unknown - river-bank mill landing",
+   "size_category": "river-bar-harbor (small schooners only); largely a failure as a seaport",
+   "companies": [
+    "R.D. Hume, Henry Westbrook & John Bomhoff (built the large mill 1882-83)",
+    "Del Norte Commercial Co. (purchasers; closed the mill)",
+    "Robert Foster's water-powered Smith River Mill 12 mi upstream (1870: 5,000 ft/day redwood)"
+   ],
+   "products": [
+    "redwood lumber"
+   ],
+   "railroad": "Crescent City & Smith River RR reached Smith River 1894",
+   "coords_approx": [
+    41.936,
+    -124.2
+   ],
+   "coord_precision": "area",
+   "photo_leads": [
+    "Del Norte County Historical Society"
+   ],
+   "summary": "A cautionary entry: the 1882-83 Hume-Westbrook-Bomhoff mill at the Smith River mouth was defeated by the shifting river channel, revived briefly by the 1894 railroad connection, and dead by 1909 - leaving Hobbs Wall a county monopoly. Smith River worked better as a timber source (rail to Crescent City) than as a port.",
+   "confidence_notes": "Single-source (Bearss 1969).",
+   "sources": [
+    {
+     "citation": "Bearss, Redwood NP History Basic Data (1969), ch. X.C \u00a73 'Hume, Westbrook & Bomhoff' - read via Wayback",
+     "type": "secondary",
+     "url": "https://www.nps.gov/parkhistory/online_books/redw/history10c.htm"
+    }
+   ]
+  },
+  {
+   "name": "Bolinas",
+   "county": "Marin",
+   "alt_names": [
+    "Ballenas Bay (Davidson/USCS spelling)",
+    "Baulenas; named for Francisco Bolanos, pilot of the 1602-03 Vizcaino expedition"
+   ],
+   "active_years": "c.1849-1870s for lumber (first Marin sawmills; 25,000,000+ bf exported); schooner trade in produce continued to the 1880s-90s",
+   "heyday": "1850s: 'Bolinas becoming the main port for shipping goods to San Francisco... In the early 1850s, the Bolinas township had over half of Marin's population' (Marin History Museum)",
+   "loading_method": "LIGHTER system: the Lighter Wharf (1850s) inside Bolinas Lagoon loaded lumber onto lighters towed through the lagoon channel to ships in deeper Bolinas Bay (CHL No. 221 'Site of the Lighter Wharf at Bolinas'). Davidson 1889: lagoon entrance only ~100 yds wide with ONE FOOT on the bar at low water - 'small produce schooners... must enter and leave at high water as they load on the west side just inside the entrance'",
+   "wharf": "yes - Lighter Wharf inside the lagoon (1850s); no ocean wharf",
+   "size_category": "lagoon-lighter port (smallest class); small schooners only; by the 1880s 'as many as fifteen ships a day' claimed in trade (local history - treat as boosterish)",
+   "companies": [
+    "Dogtown/Pine Gulch sawmill operators (first sawmill in Marin County is CHL No. 207)",
+    "shipbuilders on the lagoon (1860s-80s)"
+   ],
+   "products": [
+    "redwood lumber (25M+ bf total per Marin History Museum)",
+    "cordwood",
+    "later: butter, hogs, produce (Davidson 1889 shows a produce-schooner port)"
+   ],
+   "railroad": "none (the North Pacific Coast RR 1875 ran inland via Tomales; Bolinas trade ended by siltation and the stage road over Bolinas Ridge)",
+   "coords_approx": [
+    37.907,
+    -122.686
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Marin History Museum blog (Scott Fletcher, 'The Early History of Bolinas')",
+    "Anne T. Kent California Room, Marin County Free Library",
+    "CHL 221 and 207 records at OHP"
+   ],
+   "summary": "VERIFIED as a major 1850s lumber port: gold-rush San Francisco's nearest redwood came out of the Bolinas Lagoon by lighter from the 1850s Lighter Wharf, over 25 million board feet in all, with the township briefly holding half of Marin's population. Logging-driven siltation and the exhaustion of accessible timber ended the lumber era; by Davidson's 1889 survey it was a high-water produce-schooner harbor with one foot on the lagoon bar.",
+   "confidence_notes": "'15 ships a day' and the 25M bf total are unfootnoted local-history figures; the structural story (lighter wharf, 1850s primacy, decline by siltation) is corroborated by CHL listings and Davidson 1889's description of the shrunken trade.",
+   "sources": [
+    {
+     "citation": "Scott Fletcher, 'The Early History of Bolinas,' Marin History Museum blog",
+     "type": "secondary",
+     "url": "https://marinhistory.org/blog/post-24/"
+    },
+    {
+     "citation": "California Historical Landmark No. 221, 'Site of the Lighter Wharf at Bolinas,' OHP",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/221"
+    },
+    {
+     "citation": "California Historical Landmark No. 207, 'First Sawmill in Marin County,' OHP",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/ListedResources/Detail/207"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889, p. 191 (Ballenas Bay: lagoon entrance, 1-ft bar, produce schooners, name etymology) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    }
+   ]
+  },
+  {
+   "name": "Corte Madera Creek landings (Ross Landing / Baltimore wharf)",
+   "county": "Marin",
+   "alt_names": [
+    "Ross Landing (Kentfield)",
+    "Baltimore & Frederick Co. wharf (Larkspur, behind today's Hall Middle School)"
+   ],
+   "active_years": "c.1849-1870s (Baltimore & Frederick steam mill arrived Sept 1849; Reed's pioneer mill c.1833-34 in Mill Valley predates commercial export)",
+   "heyday": "1850s (redwood of Baltimore Canyon/Corte Madera del Presidio to San Francisco)",
+   "loading_method": "lumber hauled on a sawdust road and loaded directly onto small sloops and schooners on tidal Corte Madera Creek; bulk of produce shipped to SF via Larkspur and Ross Landing (Anne T. Kent California Room)",
+   "wharf": "yes - creek-bank wharves (Baltimore Co. wharf on the saltmarsh; Ross Landing)",
+   "size_category": "tidal-creek scow/schooner landing (bayside)",
+   "companies": [
+    "Baltimore and Frederick Mining and Trading Company (Maryland argonauts, 15-blade steam mill shipped around the Horn, 1849)",
+    "John T. Reed's water mill (1833-34, first in Marin - for the Presidio trade)"
+   ],
+   "products": [
+    "redwood lumber",
+    "cordwood",
+    "farm produce later"
+   ],
+   "railroad": "none in the shipping era (NPC RR later crossed the area)",
+   "coords_approx": [
+    37.945,
+    -122.51
+   ],
+   "coord_precision": "area",
+   "photo_leads": [
+    "Anne T. Kent California Room newsletter 'When Sawmills Flourished in Larkspur' (Medium)",
+    "Marin History Museum 'Ross Landing' blog"
+   ],
+   "summary": "The gold-rush redwood of Baltimore Canyon went to San Francisco by small schooner from wharves on tidal Corte Madera Creek - the Baltimore & Frederick company's 1849 steam mill (brought around Cape Horn) and Ross Landing at Kentfield being the documented shipping points. A bayside precursor to the ocean lumber trade, exhausted with Marin's accessible timber by the 1860s-70s.",
+   "confidence_notes": "Solid local-archival sources (Anne T. Kent California Room); volumes unquantified.",
+   "sources": [
+    {
+     "citation": "'When Sawmills Flourished in Larkspur,' Anne T. Kent California Room Newsletter (Medium)",
+     "type": "secondary",
+     "url": "https://medium.com/anne-t-kent-california-room-community-newsletter/when-sawmills-flourished-in-larkspur-274b0680362f"
+    },
+    {
+     "citation": "Scott Fletcher, 'Ross Landing,' Marin History Museum blog",
+     "type": "secondary",
+     "url": "https://www.marinhistory.org/blog/rosslanding/"
+    }
+   ]
+  },
+  {
+   "name": "Tomales (Keys Creek)",
+   "county": "Marin",
+   "alt_names": [],
+   "active_years": "1850s-1875 (schooner era; ended by Keys Creek siltation and the North Pacific Coast RR, 1875)",
+   "heyday": "1860s (potato and grain trade)",
+   "loading_method": "schooners docking in tidal Keys Creek (John Keys and Warren Dutton's shipping businesses)",
+   "wharf": "creek landings",
+   "size_category": "tidal-creek schooner port - NOT a lumber port: exports were potatoes, grain, butter, eggs. FLAG: exclude from the lumber layer. (After 1875 the NPC narrow gauge hauled north-coast redwood THROUGH Tomales.)",
+   "companies": [
+    "John Keys; Warren Dutton (shipping businesses)"
+   ],
+   "products": [
+    "potatoes",
+    "grain",
+    "butter",
+    "eggs"
+   ],
+   "railroad": "North Pacific Coast RR (3-ft narrow gauge) Sausalito-Tomales-Cazadero line completed through Tomales 1875 - the rail replacement for the schooner trade",
+   "coords_approx": [
+    38.246,
+    -122.906
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Tomales Regional History Center",
+    "Marin History Museum blog (Scott Fletcher, 'How Tomales Came to Be')"
+   ],
+   "summary": "Included to answer the task's query: Tomales was an agricultural schooner port on Keys Creek (potatoes, grain, dairy), not a lumber shipper. Its relevance to the lumber map is as a station on the North Pacific Coast narrow gauge (1875), which moved Sonoma redwood overland and killed the local schooner trade.",
+   "confidence_notes": "Non-lumber character consistently attested; no source seen claims lumber exports.",
+   "sources": [
+    {
+     "citation": "Scott Fletcher, 'How Tomales Came to Be,' Marin History Museum blog",
+     "type": "secondary",
+     "url": "https://www.marinhistory.org/blog/tomales/"
+    },
+    {
+     "citation": "Tomales Regional History Center, 'The Region'",
+     "type": "secondary",
+     "url": "https://www.tomaleshistory.com/the-region"
+    }
+   ]
+  },
+  {
+   "name": "Waddell's Landing (Waddell Beach)",
+   "county": "Santa Cruz",
+   "alt_names": [
+    "Waddell's (Davidson 1889 index)"
+   ],
+   "active_years": "1862-c.1883 (mill 1861; wharf attempts from 1862; Davidson: 'In 1883 we found the wharf washed away')",
+   "heyday": "1864-1875 (Waddell's mill at peak: 16-20,000 bf/day, the county's highest-capacity mill)",
+   "loading_method": "attempted 1,000-ft wharf at Waddell Beach defeated by solid rock that stopped the pile driver; storm losses Jan 1865 ($7,500) and Apr 1871; the working solution was the wharf 3 miles on at A\u00f1o Nuevo (next entry) reached by horse tramway",
+   "wharf": "yes/failed - the incomplete/repeatedly wrecked beach wharf; washed away by 1883 (Davidson 1889)",
+   "size_category": "doghole-with-wharf (marginal, open beach)",
+   "companies": [
+    "W.W. Waddell & Co. (William White Waddell + William A. Bowles, mill est. 1861 on Waddell Creek 2.5 mi above the mouth)",
+    "lessee Peter Werner 1878",
+    "Union Mill & Lumber Co. (bought Apr 1883; mill burned Sept 1883, never rebuilt)"
+   ],
+   "products": [
+    "redwood lumber"
+   ],
+   "railroad": "horse tramway (redwood-and-oak rails, four horses, 5-20,000 bf/trip twice daily; State Assembly franchise Apr 1868 with 120-ft right-of-way and 25-year shipping monopoly)",
+   "coords_approx": [
+    37.094,
+    -122.277
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Derek Whaley, santacruztrains.com 'Companies: W.W. Waddell & Company' (reproduces images; cites Santa Cruz Sentinel, SF Examiner, Harrison 1892)",
+    "Rancho del Oso Nature Center / Big Basin SP cultural-history pages",
+    "San Mateo Co. History Museum (Stanger files)"
+   ],
+   "summary": "William Waddell's 1861 mill was the biggest in Santa Cruz County, but his beach wharf was a serial casualty - unfinishable on rock, storm-wrecked 1865 and 1871 - forcing the trade three miles up the coast to his A\u00f1o Nuevo wharf. Waddell died of a grizzly-bear mauling (mauled 1 Oct, died 7 Oct 1875); the mill limped on under lessees until fire finished it in September 1883, the same year the Coast Survey found the beach wharf washed away.",
+   "confidence_notes": "Davidson's 'Waddell's Landing... wharf washed away 1883' read directly; the relationship between that wharf and the never-completed 1860s structure is partly OCR-garbled - flagged. Whaley's chronology is newspaper-sourced.",
+   "sources": [
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889, p. 152 area (Point New Year Wharf; 'as Waddell's Landing, In 1883 we found the wharf washed away') - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "Derek R. Whaley, 'Companies: W.W. Waddell & Company,' santacruztrains.com (Nov 2021)",
+     "type": "secondary",
+     "url": "https://www.santacruztrains.com/2021/11/companies-w-w-waddell-company.html"
+    },
+    {
+     "citation": "California State Parks, 'History of Waddell Valley' (Rancho del Oso)",
+     "type": "secondary",
+     "url": "https://www.parks.ca.gov/?page_id=29162"
+    }
+   ]
+  },
+  {
+   "name": "A\u00f1o Nuevo (Point New Year Wharf / Crescent Bay-Cove Beach)",
+   "county": "San Mateo",
+   "alt_names": [
+    "New Year's Point wharf"
+   ],
+   "active_years": "c.1864-1890s (Waddell's 700-ft wharf 1860s-1870s; still an active coaster wharf in Davidson 1889; Steele dairy era thereafter)",
+   "heyday": "1865-1875: 'By 1867, the wharf was handling two million feet of lumber per year' (Mobile Ranger/park histories)",
+   "loading_method": "700-ft wharf at Crescent Bay (Cove Beach) just east of the point, built after the Waddell Beach failure; road+tramway from the mill; Davidson 1889: 'The Point New Year Wharf is built out about three hundred yards to three fathoms of water where coasters can discharge and load... Mooring buoys are laid off the wharf'; southeast gales periodically cut away the sandy beach and shoaled the berth so 'only the lightest vessels can load'",
+   "wharf": "yes (700 ft per park histories; ~300 yards per Davidson 1889)",
+   "size_category": "doghole-with-wharf; coasters and small steamers; 3 fathoms at the wharf end",
+   "companies": [
+    "W.W. Waddell & Co. (builder; right-of-way granted by the Steele brothers across their dairy ranch)",
+    "Steele Bros. dairy (post-lumber users)"
+   ],
+   "products": [
+    "redwood lumber (2M ft/yr at 1867 peak)",
+    "split stuff",
+    "later dairy products"
+   ],
+   "railroad": "Waddell's horse tramway (see previous entry)",
+   "coords_approx": [
+    37.113,
+    -122.325
+   ],
+   "coord_precision": "area",
+   "photo_leads": [
+    "A\u00f1o Nuevo State Park photographic collection (OAC ark:/13030/c8zc87hn)",
+    "CA State Parks A\u00f1o Nuevo cultural-history pages",
+    "Mobile Ranger 'Waddell's Wharf: Ordeals of Shipping Lumber from A\u00f1o Nuevo Bay'"
+   ],
+   "summary": "The working outlet of the Waddell operation: a 700-ft wharf in the lee of New Year's Point shipped up to two million feet of redwood a year in the late 1860s, fed by a horse tramway under a 25-year state franchise. Davidson still records it in 1889 as a functioning coaster wharf with mooring buoys - by then handling the Steele ranches' trade more than lumber.",
+   "confidence_notes": "Wharf length differs between park histories (700 ft) and Davidson (~300 yards \u2248 900 ft) - possibly extensions; flagged.",
+   "sources": [
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889, p. 152 (Point New Year Wharf) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "'Waddell's Wharf: Ordeals of Shipping Lumber from A\u00f1o Nuevo Bay,' Mobile Ranger (Santa Cruz)",
+     "type": "secondary",
+     "url": "http://www.mobileranger.com/santacruz/waddells-wharf-ordeals-of-shipping-lumber-from-ano-nuevo-bay/"
+    },
+    {
+     "citation": "California State Parks, A\u00f1o Nuevo SP cultural history",
+     "type": "secondary",
+     "url": "https://www.parks.ca.gov/?page_id=28978"
+    }
+   ]
+  },
+  {
+   "name": "Pigeon Point (+ Gazos Creek traffic)",
+   "county": "San Mateo",
+   "alt_names": [
+    "Punta de la Ballena (whale point); named for the wreck of the clipper Carrier Pigeon (1853)"
+   ],
+   "active_years": "c.1860-1890s (boom-and-cable rig 1860; wharf and chute early 1870s; chute operating in Davidson 1889)",
+   "heyday": "1860s-1870s (lumber from the Gazos and Butano watersheds; Pescadero-area mills)",
+   "loading_method": "1860: boom and cable rigged to load lumber and crops; early 1870s: wharf and grain chute; Davidson 1889 (read directly): 'a small contracted boat landing, available only in good weather... several large store houses... and a chute, with long outstretching booms and tackle, has been constructed by which small coasting vessels are loaded. But all freight for this place is delivered in surf boats and carried on shore on sailors' backs.' Gazos Creek redwood came by flume to Cloverdale Road and then by wagon to Pigeon Point (Pacific Lumber & Mill Co.)",
+   "wharf": "chute + boat landing; a wharf reported early 1870s (precise structure history unverified)",
+   "size_category": "doghole-chute-only; small coasting schooners; anchorage 'somewhat better than the average of these exposed places' but broad open south (Davidson 1889)",
+   "companies": [
+    "Portuguese shore-whaling company (1860s-90s, sharing the point)",
+    "Pacific Lumber and Mill Company (Gazos Creek, flume; mill closure after Templeton's death 1873 and the Panic of 1873)",
+    "Pescadero-area mill owners (per Stanger, Sawmills in the Redwoods, 1967 - not directly consulted)"
+   ],
+   "products": [
+    "redwood lumber",
+    "shakes/posts (split stuff)",
+    "grain and produce",
+    "whale oil (whaling station)"
+   ],
+   "railroad": "none (the Ocean Shore RR never closed its gap here; lumber hauling stayed on wagons/flumes)",
+   "coords_approx": [
+    37.183,
+    -122.394
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Pescadero Memories (John Vonderlin posts reproduce period accounts/images)",
+    "CA State Parks Pigeon Point Light Station SHP cultural history",
+    "San Mateo County History Museum, Redwood City (Stanger collection)"
+   ],
+   "summary": "The San Mateo ocean coast's chief chute landing: from a 1860 boom-and-cable rig to the booms-and-tackle chute Davidson described in 1889, Pigeon Point loaded small coasters with redwood from the Gazos/Butano mills (delivered by flume and wagon) alongside grain and the Portuguese whaling station's oil - everything else landed by surf boat 'on sailors' backs.'",
+   "confidence_notes": "Chute/wharf construction dates from park and local-history pages (secondary, lightly footnoted); Davidson 1889 is the reliable anchor for the operating method. Stanger 1967 is the key deep source and was not directly accessible online.",
+   "sources": [
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889, pp. 155-156 area (Pigeon Point chute description; Carrier Pigeon naming) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "California State Parks, Pigeon Point Light Station SHP cultural history (1860 boom and cable; early-1870s wharf and grain chute)",
+     "type": "secondary",
+     "url": "https://www.parks.ca.gov/?page_id=28555"
+    },
+    {
+     "citation": "'Gazos Creek: A Historic Road...' Santa Cruz Mountains Stewardship Action Center (Pacific Lumber & Mill flume to Cloverdale Rd, hauled to Pigeon Point)",
+     "type": "secondary",
+     "url": "https://santacruztrails.org/blog/gazos-creek-a-historic-road-in-need-of-timely-care/"
+    },
+    {
+     "citation": "Frank M. Stanger, Sawmills in the Redwoods: Logging on the San Francisco Peninsula, 1849-1967 (San Mateo County Historical Assn., 1967) - KEY SOURCE, print only, not directly consulted",
+     "type": "secondary"
+    }
+   ]
+  },
+  {
+   "name": "Gordon's Chute (Tunitas Creek)",
+   "county": "San Mateo",
+   "alt_names": [],
+   "active_years": "1872-1885 (built by Alexander Gordon; destroyed by storm 1885)",
+   "heyday": "1870s",
+   "loading_method": "gravity slide chute from a 150-ft cliff directly to vessels anchored below - the most spectacular apron chute on the central coast; eyebolts survive in the cliff face",
+   "wharf": "no",
+   "size_category": "doghole-chute-only",
+   "companies": [
+    "Alexander Gordon (farmer/promoter; abandoned chute and farm after 1885, moved to Redwood City)"
+   ],
+   "products": [
+    "FARM PRODUCE primarily (grain, potatoes); FLAG: lumber shipments are claimed in some popular accounts but not verified - treat as a produce chute unless period evidence surfaces"
+   ],
+   "railroad": "none",
+   "coords_approx": [
+    37.357,
+    -122.404
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Pescadero Memories 'Fabulous Gordon's Chute at Tunitas Creek' (reproduces the well-known drawing/photo)",
+    "Half Moon Bay Memories (June Morrall) 'Lumbering Legends: Grabtown & Gordon's Chute'",
+    "San Mateo County History Museum"
+   ],
+   "summary": "Included with an exclusion flag: Alexander Gordon's 1872 cliff chute at Tunitas Creek is the San Mateo coast's iconic chute image, but the documented cargo was farm produce; its lumber role is unproven in sources consulted. Destroyed by storm in 1885.",
+   "confidence_notes": "Popular-history sourcing only; June Morrall's site pairs it with 'lumbering legends' (Grabtown was a mill hamlet above Tunitas), so minor lumber use is plausible but UNVERIFIED.",
+   "sources": [
+    {
+     "citation": "'Fabulous Gordon's Chute at Tunitas Creek,' Pescadero Memories (2008)",
+     "type": "secondary",
+     "url": "https://pescaderomemories.com/2008/06/fabulous-gordons-chute-at-tunitas-creek/"
+    },
+    {
+     "citation": "'Tunitas Creek,' Wikipedia (1872 build, 1885 storm destruction)",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Tunitas_Creek"
+    }
+   ]
+  },
+  {
+   "name": "Davenport Landing",
+   "county": "Santa Cruz",
+   "alt_names": [
+    "Davenport's Landing (Agua Puerca Creek cove)"
+   ],
+   "active_years": "1868-c.1880 (wharf built 1868; landing abandoned by 1880 as silt filled the berth and costs rose)",
+   "heyday": "1868-1875",
+   "loading_method": "450-ft wharf in the cove at the mouth of Agua Puerca Creek - 'considered one of the best landings along the coast'; loaded small sailing vessels for San Francisco",
+   "wharf": "yes - 450 ft (1868)",
+   "size_category": "doghole-with-wharf; small schooners and (attempted) steamers",
+   "companies": [
+    "Capt. John Pope Davenport (whaling captain; shore-whaling station + wharf)",
+    "local timber and tanbark cutters"
+   ],
+   "products": [
+    "timber/lumber",
+    "tanbark",
+    "cordwood",
+    "cedar posts",
+    "whale oil"
+   ],
+   "railroad": "none in the landing's era. LATER RAIL REPLACEMENT: the SAN VICENTE LUMBER CO. (1908-1923) logged the San Vicente/Little Creek basins above Davenport and moved logs entirely by rail (Ocean Shore RR connection) to its Santa Cruz mill - ocean shipping never returned; the 1907+ cement town of (new) Davenport used its own pier for cement, not lumber",
+   "coords_approx": [
+    37.023,
+    -122.216
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Santa Cruz MAH / Santa Cruz Waves local histories",
+    "UCSC Special Collections",
+    "santacruztrains.com articles on the Coast Line and San Vicente Lumber Co."
+   ],
+   "summary": "Whaling captain John P. Davenport's 1868 wharf shipped north-coast Santa Cruz timber, tanbark, cordwood, and posts to San Francisco for a decade before silting and costs closed it by 1880. Its successor economy shows the rail transition perfectly: when logging resumed above Davenport (San Vicente Lumber Co., 1908-23) the product went out by railroad, not by sea.",
+   "confidence_notes": "Dates from consistent local secondary sources (Santa Cruz Waves, Wikipedia); Sandy Lydon's work underlies much Davenport history but was not directly consulted.",
+   "sources": [
+    {
+     "citation": "'How about a little history about Davenport?' and 'Davenport History: Whaling, Cement and Immigrants,' Santa Cruz Waves (2014)",
+     "type": "secondary",
+     "url": "https://www.santacruzwaves.com/2014/03/how-about-a-little-history-about-davenport/"
+    },
+    {
+     "citation": "'Davenport, California,' Wikipedia",
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Davenport,_California"
+    }
+   ]
+  },
+  {
+   "name": "Santa Cruz wharves",
+   "county": "Santa Cruz",
+   "alt_names": [
+    "Cowell's Wharf (Bay St., 1849 chute origin)",
+    "Gharky's Wharf (Main St., 1857)",
+    "Railroad Wharf (Pacific Ave., 1875-76)",
+    "Municipal Wharf (1914)"
+   ],
+   "active_years": "1849-1931 (first chute/wharf 1849; SP removed tracks from the Municipal Wharf 1931)",
+   "heyday": "1850s-1880 ('The three wharves did a bonanza business shipping the redwood timber and quicklime that was rapidly building the nearby metropolis' - Whaley); coastal shipping declined sharply after the South Pacific Coast RR opened through service May 1880",
+   "loading_method": "conventional finger wharves; from 1875-76 the Railroad Wharf transferred lumber directly from Santa Cruz & Felton trains (and the San Lorenzo Valley V-flume's product) onto steamships",
+   "wharf": "yes - four successive major wharves",
+   "size_category": "open-roadstead wharf port on Monterey Bay; schooners and coastal steamers (Pacific Coast Steamship Co. until its 1893-Panic-era collapse locally)",
+   "companies": [
+    "Elihu Anthony & Edward S. Penfield (1849 chute\u2192Cowell's Wharf)",
+    "David Gharky (1857)",
+    "Henry Cowell Lime & Cement Co. (lime; abandoned Cowell's Wharf by 1909 after 1907 storm)",
+    "Santa Cruz & Felton RR (1875, narrow gauge)",
+    "SOUTH PACIFIC COAST RR (3-ft narrow gauge, through service SF-Santa Cruz May 1880 - the rail replacement for coastwise shipping; leased to SP 1887)",
+    "California Powder Works (powder shipments)",
+    "San Lorenzo Valley flume & lumber interests",
+    "LOMA PRIETA LUMBER CO. (1883-1923, Aptos Creek: mill to 140,000 bf/day, standard-gauge Loma Prieta Branch off the SP at Aptos, opened 13 Nov 1883 - entirely RAIL-shipped, 2M-bf storage yard at Pajaro; the type case of Santa Cruz lumber that never touched salt water)"
+   ],
+   "products": [
+    "redwood lumber",
+    "lime (Cowell)",
+    "blasting powder",
+    "leather, produce, firewood"
+   ],
+   "railroad": "Santa Cruz & Felton (1875, narrow gauge, to the Railroad Wharf); Santa Cruz RR (1876, to Watsonville); South Pacific Coast (1880, over the mountains to Alameda/SF); SP standard-gauging early 1900s",
+   "coords_approx": [
+    36.96,
+    -122.024
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "santacruztrains.com (Derek Whaley) articles reproduce wharf photos with citations",
+    "UCSC Special Collections & Archives",
+    "Santa Cruz Museum of Art & History",
+    "Covello & Covello historical photo archive (local)"
+   ],
+   "summary": "Santa Cruz's wharves shipped redwood, lime, and powder from 1849, climaxing with the 1875-76 Railroad Wharf built to put San Lorenzo Valley flume-and-rail lumber straight onto steamers. The South Pacific Coast narrow gauge (May 1880) then made rail to San Francisco cheaper than sea; coastal lumber shipping withered within a decade, and the county's biggest later mills (Loma Prieta, San Vicente) were rail-only operations. Sea-borne lumber here effectively ends a generation before it does on the North Coast.",
+   "confidence_notes": "Chronology from Whaley's heavily newspaper-cited work (secondary but rigorous); PCSS's precise last lumber call not pinned.",
+   "sources": [
+    {
+     "citation": "Derek R. Whaley, 'Curiosities: Coastal Shipping,' santacruztrains.com (24 Jan 2025); also 'Freight Stops: Santa Cruz Wharves' (2020)",
+     "type": "secondary",
+     "url": "https://www.santacruztrains.com/2025/01/curiosities-coastal-shipping.html"
+    },
+    {
+     "citation": "'Railroads: Santa Cruz & Felton Railroad,' santacruztrains.com",
+     "type": "secondary",
+     "url": "https://www.santacruztrains.com/2019/10/railroads-santa-cruz-felton-railroad.html"
+    },
+    {
+     "citation": "'Loma Prieta,' santacruztrains.com (branch opened 13 Nov 1883; 140,000 bf/day; 1883-1923)",
+     "type": "secondary",
+     "url": "https://www.santacruztrains.com/2014/12/loma-prieta.html"
+    },
+    {
+     "citation": "'The Santa Cruz Rail Road, Built by Giants,' Aptos History Museum",
+     "type": "secondary",
+     "url": "https://aptoshistory.org/?p=589"
+    }
+   ]
+  },
+  {
+   "name": "Redwood City embarcadero (bayside reference point)",
+   "county": "San Mateo",
+   "alt_names": [
+    "Embarcadero on Redwood Creek"
+   ],
+   "active_years": "c.1850-1880s for lumber (peninsula redwood era)",
+   "heyday": "1850s-60s",
+   "loading_method": "scow schooners on tidal Redwood Creek",
+   "wharf": "creek wharves",
+   "size_category": "tidal-creek schooner port (bayside)",
+   "companies": [
+    "peninsula mill owners of the Woodside/Kings Mountain belt (documented in Stanger 1967)"
+   ],
+   "products": [
+    "redwood lumber, shingles, cordwood to San Francisco"
+   ],
+   "railroad": "SF & San Jose RR (1863) progressively diverted traffic",
+   "coords_approx": [
+    37.501,
+    -122.223
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "San Mateo County History Museum (Stanger archive)"
+   ],
+   "summary": "Included for completeness of the San Mateo picture the task raises via Stanger: nearly all San Francisco Peninsula redwood went NOT over the ocean coast but by wagon to the bayside embarcadero at Redwood City and thence by scow schooner to San Francisco - context that explains why the ocean-coast chutes (Pigeon Point, Tunitas) stayed small.",
+   "confidence_notes": "Framing claim rests on Stanger 1967 (standard county history, print; not directly consulted in this pass) - marked accordingly.",
+   "sources": [
+    {
+     "citation": "Frank M. Stanger, Sawmills in the Redwoods (1967) - key source, not directly consulted; framing corroborated by SM County history museum materials",
+     "type": "secondary"
+    }
+   ]
+  },
+  {
+   "name": "San Simeon",
+   "county": "San Luis Obispo",
+   "alt_names": [
+    "San Simeon Bay; Hearst wharf"
+   ],
+   "active_years": "whaling/landing 1850s-60s; Hearst's 1,000-ft wharf 1878; pier rebuilt 1957",
+   "heyday": "1867-1870s (quicksilver: $280,000 of mercury out 1867-70) and dairy decades",
+   "loading_method": "wharf in the sheltered north hook of San Simeon Bay; steamers ~3x weekly",
+   "wharf": "yes - 1,000 ft (George Hearst, 1878)",
+   "size_category": "open-roadstead-with-wharf (best natural lee between Monterey and Port San Luis)",
+   "companies": [
+    "George Hearst (rancho, wharf, warehouse)",
+    "Cambria/San Simeon merchants",
+    "coastal steamer lines"
+   ],
+   "products": [
+    "OUTBOUND: quicksilver (mercury), dairy (butter/cheese), hides, wool, cattle, whale oil (earlier). LUMBER WAS AN INBOUND CARGO - including materials for Hearst Castle after 1919. FLAG: exclude from the lumber-EXPORT layer; no source found showing lumber shipped out",
+    "NOT lumber"
+   ],
+   "railroad": "none",
+   "coords_approx": [
+    35.643,
+    -121.189
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Hearst San Simeon SP / parks.ca.gov history pages",
+    "History Center of San Luis Obispo County",
+    "visitsansimeonca.com history timeline"
+   ],
+   "summary": "Verification result the task requested: San Simeon's chute-and-wharf trade was quicksilver, dairy, hides, wool, and cattle OUT, lumber IN (notably for Hearst Castle construction). It belongs on the map as a non-lumber chute/wharf port or should be excluded from a lumber-specific layer.",
+   "confidence_notes": "Negative finding on lumber export, from consistent secondary sources; no period manifest checked.",
+   "sources": [
+    {
+     "citation": "'San Simeon History and Timeline,' visitsansimeonca.com (1878 Hearst wharf; mercury $280,000 1867-70; steamers 3x weekly with Cambria produce)",
+     "type": "secondary",
+     "url": "https://visitsansimeonca.com/san-simeon-history/"
+    },
+    {
+     "citation": "California State Parks, Hearst San Simeon SHM, 'Later mining, agriculture and development'",
+     "type": "secondary",
+     "url": "https://www.parks.ca.gov/?page_id=1098"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889, pp. 120-121 (Bay of San Simeon and approaches; San Simeon wharf bearings; Leffingwell's Landing 'five miles east of San Simeon wharf... a small cove') - read directly (partly OCR-degraded)",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    }
+   ]
+  },
+  {
+   "name": "Leffingwell Landing (Cambria)",
+   "county": "San Luis Obispo",
+   "alt_names": [
+    "Leffingwell Cove"
+   ],
+   "active_years": "c.1859-1880s",
+   "heyday": "1860s-70s",
+   "loading_method": "small cove wharf (Davidson 1889 lists 'Leffingwell's Landing' five miles east of San Simeon wharf); Leffingwell's sawmill was horse- then steam-powered",
+   "wharf": "yes - small wharf 'for some years' (Cambria Historical Society)",
+   "size_category": "doghole-with-wharf (small)",
+   "companies": [
+    "William Leffingwell Sr. (settled 1859; sawmill + wharf)"
+   ],
+   "products": [
+    "LOCAL-USE Monterey pine lumber - 'The early homes were built mainly of rough pine lumber, sawn by Mr. Leffingwell' - i.e., milled FOR Cambria, not documented as exported. General produce/goods over the wharf. FLAG: no evidence of lumber export; include only as a general landing"
+   ],
+   "railroad": "none",
+   "coords_approx": [
+    35.582,
+    -121.121
+   ],
+   "coord_precision": "place",
+   "photo_leads": [
+    "Cambria Historical Society"
+   ],
+   "summary": "Verification result: Leffingwell's landing near Cambria had a genuine sawmill, but its pine lumber built Cambria itself; the wharf's export trade was the region's produce. Like San Simeon, flag as non-lumber-export.",
+   "confidence_notes": "Based on Cambria Historical Society narrative; no period shipping records checked.",
+   "sources": [
+    {
+     "citation": "Cambria Historical Society, 'History' (Leffingwell 1859, sawmill, wharf at the cove)",
+     "type": "secondary",
+     "url": "https://www.cambriahistoricalsociety.com/history.html"
+    },
+    {
+     "citation": "Davidson, Pacific Coast Pilot 1889, p. 121 (Leffingwell's Landing) - read directly",
+     "type": "primary",
+     "url": "https://archive.org/details/cihm_15816"
+    }
+   ]
+  },
+  {
+   "name": "San Francisco lumber wharves and yards (the receiving end)",
+   "county": "San Francisco",
+   "alt_names": [
+    "Steuart Street lumber row",
+    "Mission Creek / Channel Street lumber district",
+    "China Basin"
+   ],
+   "active_years": "1849-1930s (Mission Creek schooner traffic from at least 1855; Channel St. lumber wharves peak 1880s-1910s)",
+   "heyday": "1880s-1906-1920s; explosive post-earthquake demand: 'The amount of redwood shipped to San Francisco in October 1906 was double that of the same month in the previous year, which had also been a record month' (Fradkin, quoted in Forest History Today 2006); the Army built 5,600+ redwood-and-fir relief houses",
+   "loading_method": "DISCHARGE side: lumber schooners and steam schooners unloaded at dealers' finger piers on Channel Street ('deep finger-piers that extended from the back doors of Berry Street wood-finishing businesses out to meet the incoming lumber schooners'; 'the south side of Channel Street, from Fourth to Third, was an open wharf for lumber' - FoundSF/SF Story); big schooners like the 4-masted Okanogan discharged at Pope & Talbot's yard at Third & Berry with its Channel St. wharf; northern waterfront: Steuart St. dealer row - the 1887 SF directory lists NINETY-NINE lumber businesses, incl. Higgins & Collins at Pier 10 Steuart (redwood commission merchants), L.E. White at 15 Steuart (ties and posts), Iversen & Jensen at 18 Market (Corran 1887, via Bear Harbor NR)",
+   "wharf": "yes - dozens of private lumber wharves and yards",
+   "size_category": "metropolitan receiving port: everything from 60-ton doghole schooners to full cargoes of 575,000 bf (C.A. Thayer class) and larger steam schooners",
+   "companies": [
+    "Higgins & Collins (Pier 10 Steuart; principal Bear Harbor receiver; Elisha Higgins + George H. Collins, partnership by 1870, 'one of the powerful San Francisco lumber companies'; owned doghole schooners incl. Gussie Klose)",
+    "L.E. White Lumber Co. (15 Steuart; ties and fence posts)",
+    "Pope & Talbot (Third & Berry yard; Puget Sound fir fleet)",
+    "E.K. Wood Lumber Co. (wholesale yard at foot of Spear St. 1888; inc. 1895; managing owner of C.A. Thayer; Hoquiam fir to its SF/Oakland yards)",
+    "Charles Nelson Co., Charles R. McCormick, Hobbs Wall (own SF yards) - standard trade names, not individually verified in this pass",
+    "tanneries and box factories as end-users (Hobbs, Gilmore & Co. box works fed from Crescent City)"
+   ],
+   "products": [
+    "received: redwood lumber, Douglas fir, railroad ties, shingles/shakes, posts, tanbark, cordwood, lime"
+   ],
+   "railroad": "Southern Pacific/State Belt RR served the yards; after NWP completion (Oct 1914) increasing shares of northern redwood arrived by rail",
+   "coords_approx": [
+    37.776,
+    -122.394
+   ],
+   "coord_precision": "area (Channel St/China Basin); Steuart St row at 37.792,-122.393",
+   "photo_leads": [
+    "San Francisco Maritime NHP: SF Maritime Museum classified photograph collection 1575-1984 (OAC ark:/13030/c8hm5f30 - indexed entries for 'the chutes' and lumber operations)",
+    "FoundSF articles with historical photos",
+    "sanfranciscostory.com 'A Walk on Long Bridge'",
+    "Bancroft Library",
+    "Forest History Today Spring 2006 photo essay (Davenport, Peters collection album of 1906 redwood survivals)"
+   ],
+   "summary": "The redwood fleet's destination: Mission Creek/Channel Street's finger-pier lumber district and the Steuart Street dealer row (99 lumber firms in the 1887 directory) absorbed the coast's schooner cargoes - each doghole port's output consigned to specific dealers (Bear Harbor's tanbark to Higgins & Collins at Pier 10, ties to L.E. White). The 1906 fire doubled record redwood receipts within six months and pulled the whole northern coast into a rebuilding boom; after 1914 rail increasingly displaced the sea leg.",
+   "confidence_notes": "Dealer-level detail is exceptionally well documented via the Bear Harbor NR's use of Corran's 1887 directory. Southern-California re-export geography (San Pedro Lumber Co., Redondo Beach, LA rail companies receiving Bear Harbor ties 1892-99) is documented in the same nomination.",
+   "sources": [
+    {
+     "citation": "Bear Harbor NR nomination (Corran 1887 SF directory: 99 lumber businesses; Higgins & Collins Pier 10 Steuart; L.E. White 15 Steuart; Iversen & Jensen 18 Market; southern-CA destinations incl. San Pedro Lumber Co., 1892-99)",
+     "type": "secondary",
+     "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Mendocino%20County_Doghole%20Ports%20MPS_Bear%20Harbor%20Landing_REDACTED.pdf"
+    },
+    {
+     "citation": "'A Walk on Long Bridge,' San Francisco Story; FoundSF Mission Bay articles (Channel St. finger piers; open lumber wharf Third-Fourth; 1855 schooner traffic)",
+     "type": "secondary",
+     "url": "https://www.sanfranciscostory.com/walk-on-long-bridge/"
+    },
+    {
+     "citation": "Keith Skinner, 'Lumber Schooners of the Redwood Coast' (Okanogan at Pope & Talbot, Third & Berry)",
+     "type": "secondary",
+     "url": "https://keith-skinner.com/lumber-schooners-of-the-redwood-coast/"
+    },
+    {
+     "citation": "'Redwood in the 1906 San Francisco Earthquake & Fires: A Photo Essay,' Forest History Today (Spring 2006) - PDF read directly (Oct 1906 shipments double the prior record)",
+     "type": "secondary",
+     "url": "https://foresthistory.org/wp-content/uploads/2016/12/FHT_2006_Redwood-in-1906-san-francisco.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Oakland (estuary lumber yards)",
+   "county": "Alameda",
+   "alt_names": [
+    "Oakland Estuary / San Antonio Creek waterfront"
+   ],
+   "active_years": "c.1860s-1940s (E.K. Wood dock era c.1891-20th c.)",
+   "heyday": "1900s-1920s",
+   "loading_method": "schooners and steam schooners discharged at private yard docks on the estuary",
+   "wharf": "yes - company docks",
+   "size_category": "bay receiving port; deep-draft steam schooners",
+   "companies": [
+    "E.K. Wood Lumber Co. (Edwin & Marian Wood moved to Oakland 1891; inc. 1895; docks in Oakland and San Pedro, yards in Oakland, LA, San Rafael, San Anselmo, Fresno, SF; fed by its Hoquiam, WA fir mill and vessels incl. C.A. Thayer and steam schooner Lassen, 1917)",
+    "other estuary dealers (unenumerated in this pass)"
+   ],
+   "products": [
+    "received: Douglas fir (Grays Harbor/Puget Sound), redwood, shingles, ties"
+   ],
+   "railroad": "SP/Western Pacific yard trackage",
+   "coords_approx": [
+    37.795,
+    -122.278
+   ],
+   "coord_precision": "area",
+   "photo_leads": [
+    "OAC: '[Lumber schooner on the Oakland Estuary]' (ark:/13030/kt3j49n6c5)",
+    "CALISPHERE LEAD (not fetched, per instructions): E.K. Wood Lumber Company in Oakland - https://calisphere.org/item/ff8cba32c7cbfcda7658cac5f60e7511/",
+    "Oakland LocalWiki E.K. Wood page",
+    "Oakland Public Library History Room"
+   ],
+   "summary": "The East Bay's share of the receiving trade: estuary lumber docks - E.K. Wood Lumber Co.'s above all - took Washington fir and northern California redwood off schooners and steam schooners for the Oakland/inland market. E.K. Wood also closes the loop with Zone 1: the company (SF yard 1888, inc. 1895) was managing owner of the Bendixsen-built C.A. Thayer, resolving the task's 'E.K. Wood' query - a fleet-and-yard firm, not a Humboldt millowner, on the evidence found.",
+   "confidence_notes": "Oakland yard's precise location/dates not pinned beyond LocalWiki/Calisphere leads.",
+   "sources": [
+    {
+     "citation": "'E.K. Wood Lumber Company,' Oakland LocalWiki (1888 Spear St yard; 1891 Oakland; inc. 1895; docks Oakland & San Pedro)",
+     "type": "secondary",
+     "url": "https://localwiki.org/oakland/E.K._Wood_Lumber_Company"
+    },
+    {
+     "citation": "SF Maritime NHP / museumships C.A. Thayer materials (named for E.K. Wood secretary Clarence A. Thayer; E.K. Wood managing owner)",
+     "type": "secondary",
+     "url": "https://nps.gov/safr/learn/historyculture/c-a-thayer.htm"
+    },
+    {
+     "citation": "Guide to the Lassen (steam schooner) pilot house logs 1924-1932, OAC (built Hoquiam 1917 for E.K. Wood; SF, Oakland, Ventura runs)",
+     "type": "primary",
+     "url": "https://oac.cdlib.org/findaid/ark:/13030/c8m3301q/"
+    }
+   ]
+  }
+ ],
+ "general_sources": [
+  "George Davidson, Coast Pilot of California, Oregon, and Washington Territory (U.S. Coast Survey, Washington: GPO, 1869) - PRIMARY, full text downloaded and port sections read directly. https://archive.org/details/pacificcoastcoa00survgoog",
+  "George Davidson, Pacific Coast. Coast Pilot of California, Oregon, and Washington, 4th ed., entirely rewritten (U.S. Coast and Geodetic Survey, Washington: GPO, 1889) - PRIMARY, full text downloaded; Bear Harbor, Needle Rock, Shelter Cove, Ballenas, A\u00f1o Nuevo/Waddell, Pigeon Point, San Simeon, Humboldt, Trinidad, Crescent City sections read directly. https://archive.org/details/cihm_15816",
+  "Bear Harbor Landing Historical and Archaeological District, NRHP Registration Form (Northern California Doghole Ports MPS), California Office of Historic Preservation, c.2022-23 - the deepest single study of a Lost Coast port; newspaper-cited throughout. https://ohp.parks.ca.gov/pages/1067/files/CA_Mendocino%20County_Doghole%20Ports%20MPS_Bear%20Harbor%20Landing_REDACTED.pdf",
+  "Northern California Doghole Ports Maritime Cultural Landscape, NRHP Multiple Property Documentation Form (draft), NPS/State Lands Commission/OHP - region-wide framework with a 57-landing inventory (Duncan's Landing to Needle Rock), chute typology (trough/wire), mooring archaeology. https://ohp.parks.ca.gov/pages/1067/files/CA_Sonoma%20and%20Mendocino%20Counties_%20Nor%20Cal%20Doghole%20Ports_MPDF_Draft.pdf",
+  "Edwin C. Bearss, Redwood National Park: History Basic Data (NPS, 1969), ch. X 'The Lumber Industry 1850-1953' - Humboldt 1850-60 and the whole Del Norte industry (Crescent City Mill & Transportation, Hobbs Wall, Wenger, Smith River, Klamath rafting). Read via Wayback at https://www.nps.gov/parkhistory/online_books/redw/history10a.htm (also 10b, 10c, 10d, 10e)",
+  "O.T. Magoon, R.L. Sloan & N. Shimizu, 'Design and Construction of Humboldt Jetties, 1880 to 1975,' Coastal Engineering Proceedings 15 (1976) - engineering chronology quoting the 1877 Annual Report of the Chief of Engineers. https://icce-ojs-tamu.tdl.org/icce/article/view/3192",
+  "Annual Reports of the Chief of Engineers, U.S. Army (Humboldt Harbor and Bay; Crescent City Harbor) - PRIMARY SERIES identified as the authority (1877 two-jetty recommendation; south jetty begun 1889, north 1891; Board of Engineers Crescent City report 20 Dec 1921) but used in this pass only through quotations in Magoon et al. 1976, Lost Coast Outpost reprints, and USACE SPN pages - direct volume-level use remains to be done (HathiTrust/Google Books hold full runs)",
+  "Thomas H. Peterson doghole-port survey maps for the New Zealand Insurance Company, 1885-86, Huntington Library, San Marino - PRIMARY cartographic series for chute/mooring layouts (known via NR nomination)",
+  "'Redwood in the 1906 San Francisco Earthquake & Fires: A Photo Essay,' Forest History Today, Spring 2006 (Davenport, Peters collection album) - read directly. https://foresthistory.org/wp-content/uploads/2016/12/FHT_2006_Redwood-in-1906-san-francisco.pdf",
+  "Frank M. Stanger, Sawmills in the Redwoods: Logging on the San Francisco Peninsula, 1849-1967 (San Mateo County Historical Association, 1967) - named key secondary for San Mateo; print only, NOT directly consulted",
+  "Sandy Lydon (Cabrillo College) - Santa Cruz coast historiography underlying Davenport/coastside accounts; NOT directly consulted",
+  "Lynwood Carranco & Henry L. Sorensen, Steam in the Redwoods (1988) - standard work on redwood-belt railroads, cited via Mattole Valley Historical Society; not directly consulted",
+  "Marvin D. Shepherd, A Scottish Syndicate in the Redwoods: Monopoly & Fraud in the California Redwoods, 1882-1892 - the study of the California Redwood Company; not directly consulted",
+  "Derek R. Whaley, santacruztrains.com (esp. 'Curiosities: Coastal Shipping,' 24 Jan 2025; 'Companies: W.W. Waddell,' 'Loma Prieta,' 'Freight Stops: Santa Cruz Wharves') - newspaper-cited local railroad/port history",
+  "PacificNG, 'Arcata and Mad River Railroad' - gauge history 45\u00bc in \u2192 dual 1925 \u2192 standard 1942. https://www.pacificng.com/w/index.php?title=Arcata_and_Mad_River_Railroad",
+  "Laura Cooskey / Mattole Valley Historical Society, 'West of the Redwoods' blog, tanbark & wharf series (2020) - Mattole wharf and railroad. https://mattolehistory.wordpress.com/category/tanbark-and-wharf/",
+  "Humboldt County Historical Society history nuggets (Shelter Cove 2023; Falk 2022; Trains into Humboldt 2022; Humboldt Bay 2025; Ship Building 2020). https://www.humboldthistory.org/",
+  "Timber Heritage Association, 'Local History' (Humboldt lumber railroads summary). https://www.timberheritage.org/local-history",
+  "HistoryLink.org Essay 5331, 'John Dolbeer invents the donkey engine... August 1881' (patent 256,553, issued 18 Apr 1882). https://www.historylink.org/File/5331",
+  "NPS San Francisco Maritime NHP, 'C.A. Thayer' (built 1895, Bendixsen, Fairhaven; dimensions, capacity, trade). https://nps.gov/safr/learn/historyculture/c-a-thayer.htm",
+  "shipbuildinghistory.com, 'Bendixsen Shipbuilding' (build list, 1869-1901). http://shipbuildinghistory.com/shipyards/19thcentury/bendixsen.htm",
+  "Wikipedia (cross-checked entries): Hammond Lumber Company; Oregon and Eureka Railroad; Eel River and Eureka Railroad; Arcata and Mad River Railroad; Pacific Lumber Company; Bucksport; Fields Landing; Falk Archaeological District; C.A. Thayer (1895)",
+  "PHOTO/ARCHIVE LEADS (region-wide): Cal Poly Humboldt Library Special Collections (Ericson Photograph Collection; Louisiana-Pacific/Hammond Collection, OAC ark:/13030/c8sj1rxr; Boyle & Lennon railroad notes); Bancroft Library (Dolbeer & Carson records, ark:/13030/tf6n39n91p); SF Maritime NHP classified photograph collection (OAC ark:/13030/c8hm5f30); Library of Congress Hobbs-Wall Lumber Co. photographs (https://www.loc.gov/search/?fa=contributor:hobbs-wall+lumber+company&st=gallery); Huntington Library Peterson maps; San Mateo County History Museum; UCSC Special Collections; Anne T. Kent California Room (Marin); Del Norte County Historical Society; CALISPHERE (recorded as leads only, not fetched): E.K. Wood Oakland item https://calisphere.org/item/ff8cba32c7cbfcda7658cac5f60e7511/"
+ ],
+ "gaps": "Could not verify / remaining work: (1) USACE Annual Reports were used only via quotation (Magoon et al. 1976, USACE SPN pages, local reprints) - direct reading of the Humboldt Harbor & Bay and Crescent City appendices in specific annual volumes (HathiTrust runs exist) is the largest outstanding primary task; the same series would supply Noyo works (outside this brief's zones). (2) Stanger's Sawmills in the Redwoods (1967), Lydon's Santa Cruz work, Carranco & Sorensen's Steam in the Redwoods (1988), and Shepherd's Scottish Syndicate (2010) are named key secondaries not directly readable online - San Mateo coast landings (Gazos, Pescadero, Purisima/Amesport) and the Excelsior Redwood Co.'s corporate descent from the California Redwood Company therefore rest on thinner web sources; Excelsior-CRC succession and any CRC role at Trinidad remain UNVERIFIED. (3) Bear Harbor railway gauge is contradictory in the NR nomination itself (standard-gauge narrative vs narrow-gauge archaeological feature; 1977 survey found both) - unresolved. (4) Trinidad: identity of 'Hooper's Wharf' owners, the 1850s mill company names, closure date of lumber shipping, and exact whaling-station years unverified. (5) Arcata Wharf's last ship-loading date; Crescent City & Smith River RR gauge; Fields Landing PL-wharf construction date; precise vessel-tonnage ceilings for Humboldt bar in each decade - all unpinned. (6) Shelter Cove pier facts (960 ft, 1885) come from an unfootnoted historical-society piece. (7) Davidson's 1858 first-edition Coast Pilot and the 1869/1889 editions' intervening 1878 edition were not consulted - the 1878 could date chute construction at several Zone 2 points more tightly. (8) Klamath/Requa and Smith River rest on Bearss alone. (9) Calisphere items recorded as leads but not opened (site blocks scripted access). (10) I found no evidence of any lumber SHIPPING point on the Humboldt coast between Mattole and Cape Mendocino/Centerville (surf landings may exist in Ferndale-area local histories - unsearched). (11) Suspected but unlocated: period photographs of the first Bear Harbor landing at Morgan Rock (NR nomination states none are known); USACE-era charts of the Arcata wharf channel; Hobbs Wall wharf plans. All coordinates supplied are approximate and flagged by precision; none were taken from the historical documents themselves."
+}

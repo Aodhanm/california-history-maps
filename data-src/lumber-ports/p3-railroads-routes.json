@@ -1,0 +1,714 @@
+{
+ "routes": [
+  {
+   "name": "Bear Harbor & Eel River Railroad (Bear Harbor Lumber Co. \u2192 Southern Humboldt Lumber Co.)",
+   "gauge": "CONTRADICTION \u2014 report both: (a) STANDARD gauge: NRHP nomination Section 8 ('a 2.0-mile-long standard gauge and cable railway', drawing on Bordon 1964 Western Railroader); Mendocino Beacon 12 Dec 1896 ('plans... to build standard gauge railroad'); North Coast Journal (Rohde, 'The Bear Harbor Railroad, 1892-1905'): '2 miles of standard-gauge track north from the wharf', Gypsy locomotives built to 4 ft 8 1/2 in. (b) NARROW gauge: same NRHP nomination Section 7 archaeology \u2014 site CA-MEN-2149H is 'remains of a narrow-gauge rail line' with Feature 1 'in situ, partially buried narrow-gauge tracks' matching the Douohor 1901 survey; and the CSP 1977 Bear Harbor-Usal inventory found 'a roadbed with narrow gauge and standard gauge rails throughout the area'. Do not resolve silently \u2014 the government document contradicts itself between its history and its archaeology sections.",
+   "years": "Built 1892-93 (locomotive No. 1 delivered by steamer 1892; line to Moody with incline completed June 1893); extended 1.5 mi down Indian Creek 1895 and 3.0 mi toward the Eel 1898; Bear Harbor & Eel River Railroad Co. incorporated Sept 1896; Moody\u2192Andersonia extension built 1903-05 under Southern Humboldt Lumber Co.; 18 Apr 1906 earthquake wrecked mill/dam/track, mill never opened; last shipment from Bear Harbor 1907; rails/locomotives abandoned, dismantled 1921",
+   "waypoints": [
+    {
+     "name": "Bear Harbor Landing pier (second landing, Cluster Cone Rocks; 550-600 ft pier w/ wire chute; rails ran the length of the pier)",
+     "coords": [
+      39.91154,
+      -123.93976
+     ],
+     "source": "GNIS 221267 Cluster Cone Rocks (Island); NRHP \u00a77: pier 'extended out from the cliffside just east of Cluster Cone Rocks', operated 1890-1907 \u2014 precision: place"
+    },
+    {
+     "name": "Bear Harbor Gulch storage yard / Bear Harbor cove",
+     "coords": [
+      39.91293,
+      -123.93809
+     ],
+     "source": "GNIS 1666467 Bear Harbor (Bay); NRHP \u00a78 (Ferndale Enterprise 9 Jun 1893): clearing with buildings and storage area beside the tracks just inland of the landing \u2014 precision: place"
+    },
+    {
+     "name": "Railroad Creek railbed corridor (Lost Coast Trail follows the grade; Railroad Camp campsite ~1,375 ft inland of Bear Harbor)",
+     "coords": [
+      39.91791,
+      -123.94605
+     ],
+     "source": "NHD flowline point ~1.0 km up the NW drainage into Bear Harbor (hydro.nationalmap.gov); liveandlethike.com Needle Rock-Wheeler trail description ('the trail along here roughly follows the railbed... along the broader Railroad Creek'); NRHP \u00a77 Railroad Camp \u2014 precision: area; reconstructed"
+    },
+    {
+     "name": "Incline base (cookhouse; 3-rail gravity incline starts 2.0 rail-miles from the landing)",
+     "coords": [
+      39.9378,
+      -123.9502
+     ],
+     "source": "DERIVED-FROM-VERBAL: ~600 m downslope S of the documented incline top (incline length 1,900-2,000 ft, 600-ft rise, NRHP \u00a77-8; Rohde NCJ) \u2014 precision: area; CONJECTURAL bearing"
+    },
+    {
+     "name": "Incline top \u2014 Usal Road at the head of Anderson Creek",
+     "coords": [
+      39.94286,
+      -123.94783
+     ],
+     "source": "NHD Anderson Creek headwater tip, measured 158 m from OSM 'Usal Road' way (Overpass); NRHP \u00a78: 'at the top of the incline, at the head of Anderson Creek at the ridge road (present-day Usal Road)' \u2014 precision: place; derived intersection of two named geometries"
+    },
+    {
+     "name": "Anderson Creek-Indian Creek confluence (line descended to Indian Creek)",
+     "coords": [
+      39.94654,
+      -123.89893
+     ],
+     "source": "GNIS 218252 Anderson Creek (Stream, mouth coords); NRHP \u00a78: from the incline top 'the railway went to Indian Creek' \u2014 precision: place"
+    },
+    {
+     "name": "Moody (engine house, shops, warehouse, hotel/saloon; terminus 10 rail-miles from the port)",
+     "coords": [
+      39.96154,
+      -123.87559
+     ],
+     "source": "GNIS 229000 Moody Creek (Stream, mouth-on-Indian-Creek coords) as proxy; NRHP \u00a78: 'Moody sat on the northwest bank of Indian Creek'; Rohde NCJ same \u2014 precision: place (proxy via eponymous creek confluence)"
+    },
+    {
+     "name": "Indian Creek mouth at South Fork Eel (Andersonia dam & 20-million-ft log pond site)",
+     "coords": [
+      39.97682,
+      -123.80615
+     ],
+     "source": "GNIS 234067 Indian Creek (Stream, mouth coords); NRHP \u00a78: sawmill, dam and mill pond 'sat on Indian Creek where it connected into the south fork of the Eel River across from Piercy' \u2014 precision: place"
+    },
+    {
+     "name": "Andersonia (sawmill town, formerly Camp 10; railhead terminus, ~17.5-18 rail-miles from Bear Harbor)",
+     "coords": [
+      39.97793,
+      -123.80726
+     ],
+     "source": "GNIS 1657931 Andersonia (Populated Place); Wikipedia 'Andersonia, California' gives 39.97806, -123.80722 (agrees within ~15 m) \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "reconstructed \u2014 documented at nodes (pier, incline top, Moody, Andersonia: NRHP + Douohor 1901 survey + Peterson 1885 map + GNIS), reconstructed along the connecting corridor; incline base conjectural",
+   "sources": [
+    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (NRHP draft, Bear Harbor Landing Historical and Archaeological District, read in full: \u00a77 pp.4-20, \u00a78 pp.21-50)",
+    "https://www.northcoastjournal.com/humboldt/the-bear-harbor-railroad-1892-1905/Content?oid=12185246 (Jerry Rohde)",
+    "https://en.wikipedia.org/wiki/Andersonia,_California",
+    "https://en.wikipedia.org/wiki/Lost_Coast",
+    "https://coastview.org/2026/03/21/cluster-cone-rocks-bear-harbor/",
+    "https://liveandlethike.com/2022/06/04/lost-coast-trail-needle-rock-to-wheeler-camp-sinkyone-wilderness-state-park-ca/",
+    "GNIS via carto.nationalmap.gov geonames MapServer",
+    "NHD via hydro.nationalmap.gov",
+    "OSM Overpass (Usal Road geometry)"
+   ],
+   "notes": "TOTAL LENGTH: 17.5 mi (NRHP \u00a77) / 'nearly 18 miles of track ran from Bear Harbor wharf to Andersonia' by fall 1905 (NCJ 22 Nov 2018, quoted in NRHP). INCLINE: three readings \u2014 1,900 ft (archaeological Feature 1, MEN-2149H), 2,000 ft (NRHP \u00a77-8 narrative), 'pushed out 3,000 feet' Aug 1898 (Fort Bragg Advocate 17 Aug 1898); 600-ft rise; 3-rail gravity type with passing loop midway; loaded cars down hauled empties up; horses worked the 2-mile coastal stretch below. LOCOMOTIVES: No. 1 = 1892 Marschutz & Cantrell 0-4-0 'Gypsy' type (NRHP miscalls it a 'Shay'; NCJ: one of ~20 Gypsies built in SF 1882-92); No. 2 = Baldwin 2-4-2T, 1898; both preserved at Fort Humboldt SHP (Wikipedia). Route engineering: dozens of trestles (many >300 ft) and a 200-ft tunnel through solid rock (NCJ quoted in NRHP \u00a78 p.48). Piercy (GNIS 1659386: 39.96626,-123.79532) lies across the SF Eel from Andersonia \u2014 context only, not on the line. Douohor's 1901 survey has the line running north from the pier then turning NW along 'Bear Harbor Creek'; the MEN-2149H site record says ENE along Bear Harbor Creek then north \u2014 drainage naming differs between accounts; the modern park name for the NW drainage the railbed follows is Railroad Creek. Railroad depicted on charts as late as 1941 (NRHP)."
+  },
+  {
+   "name": "Bear Harbor first-landing rail line at Morgan Rock (McCornack; predecessor of the BH&ER \u2014 distinct site)",
+   "gauge": "not stated in sources (animal-powered landing tramway; NRHP records it only as 'lumber rail line')",
+   "years": "circa 1885-1889 (pier and trough chute opened July 1885, abandoned 1890 when the second landing was built 0.5 mi SE)",
+   "waypoints": [
+    {
+     "name": "Morgan Rock (pier crossed the rock; leveled shelf with in-situ wooden planks, Feature 3 of CA-MEN-3852H)",
+     "coords": [
+      39.9171,
+      -123.94726
+     ],
+     "source": "GNIS 229055 Morgan Rock (Arch); NRHP \u00a77: pier and trough chute alignment over Morgan Rock matches Peterson 1885 map \u2014 precision: place"
+    },
+    {
+     "name": "Coastal-terrace rail/landing area (15-acre site, rail-to-pier transition = Feature 1)",
+     "coords": [
+      39.91293,
+      -123.93809
+     ],
+     "source": "GNIS 1666467 Bear Harbor (Bay) as terrace anchor; NRHP \u00a77: site 'west of Briceland Thorn Road and about 1,200 feet northwest of Orchard Camp' \u2014 precision: area; reconstructed"
+    }
+   ],
+   "path_confidence": "documented at Morgan Rock (archaeology + Peterson 1885 map), reconstructed on the terrace",
+   "sources": [
+    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (CA-MEN-3852H, \u00a77 pp.11-12)",
+    "GNIS via carto.nationalmap.gov"
+   ],
+   "notes": "Distinct from the BH&ER: separate NRHP contributing site (MEN-3852H, 'lumber rail line, circa 1885 to 1889') at the FIRST landing; the 1892-93 railroad served the SECOND landing (MEN-2149H). Horse haulage is documented on the second landing's coastal stretch; motive power on the 1885-89 line is not stated \u2014 do not label it 'horse tram' as fact."
+  },
+  {
+   "name": "California Western Railroad (ex-Fort Bragg Railroad; the Skunk Train)",
+   "gauge": "standard (4 ft 8.5 in) \u2014 Wikipedia 'California Western Railroad'",
+   "years": "Opened 1885 as Fort Bragg Railroad (Fort Bragg Redwood Co., 6.6 mi up Pudding Creek to Glen Blair); renamed California Western Railroad & Navigation Co. 1905 under Union Lumber; completed 40 mi to NWP interchange at Willits 1911 (doghole MPDF: 'interconnected with the Northwestern Pacific Railroad in 1911'); still operating as tourist line",
+   "waypoints": [
+    {
+     "name": "Fort Bragg (mill site/depot)",
+     "coords": [
+      39.44573,
+      -123.80531
+     ],
+     "source": "GNIS 1656027 Fort Bragg (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Northspur (mid-line station on the Noyo River)",
+     "coords": [
+      39.42267,
+      -123.55197
+     ],
+     "source": "GNIS 1659255 Northspur (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Irmulco (Irvine & Muir Lumber Co. station)",
+     "coords": [
+      39.42211,
+      -123.51753
+     ],
+     "source": "GNIS 1658833 Irmulco (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Willits (NWP interchange, 1911)",
+     "coords": [
+      39.40961,
+      -123.35558
+     ],
+     "source": "GNIS 1652654 Willits (Populated Place) \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "documented (line extant; follows Pudding Creek then the Noyo River canyon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/California_Western_Railroad",
+    "https://www.skunktrain.com/pudding-creek-history/",
+    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (line ~1772)",
+    "GNIS"
+   ],
+   "notes": "1885 original main ran up Pudding Creek to Glen Blair; the Noyo River alignment with tunnel became the through main, and Pudding Creek became the Glen Blair branch (see Glen Blair route)."
+  },
+  {
+   "name": "Caspar, South Fork & Eastern Railroad (Caspar Lumber Co.; ex-Jughandle RR, ex-Caspar & Hare Creek RR)",
+   "gauge": "standard (4 ft 8.5 in) after the 1874-75 wooden-rail start \u2014 Wikipedia 'Caspar, South Fork and Eastern Railroad'",
+   "years": "1874 wooden-railed Jughandle RR (horse+mules) 1.5 mi north to Jug Handle Creek; 1875 first steam locomotive on the Mendocino coast; 1884 160-ft trestle over Jug Handle Creek; by 1890 rails 8 mi from Caspar mill into the Hare Creek drainage; later east toward the South Fork Noyo; operated to 1945",
+   "waypoints": [
+    {
+     "name": "Caspar mill (at Caspar Creek mouth)",
+     "coords": [
+      39.36351,
+      -123.81586
+     ],
+     "source": "GNIS 1658232 Caspar (Populated Place); Caspar Creek mouth GNIS 220677 at 39.36184,-123.81808 \u2014 precision: place"
+    },
+    {
+     "name": "Jug Handle Creek crossing (1884 160-ft trestle; creek-mouth coordinate, trestle stood inland of it)",
+     "coords": [
+      39.37684,
+      -123.81697
+     ],
+     "source": "GNIS 234098 Jug Handle Creek (Stream, mouth coords); Wikipedia CSF&E for the trestle \u2014 precision: area"
+    },
+    {
+     "name": "South Fork Hare Creek confluence (Hare Creek watershed logging)",
+     "coords": [
+      39.38851,
+      -123.73669
+     ],
+     "source": "GNIS 235014 South Fork Hare Creek (Stream) \u2014 precision: place"
+    },
+    {
+     "name": "Upper Hare Creek drainage (~6 km up the creek; '8 miles from the sawmill by 1890')",
+     "coords": [
+      39.40456,
+      -123.76462
+     ],
+     "source": "NHD Hare Creek flowline point ~6 km upstream (hydro.nationalmap.gov) + Wikipedia mileage \u2014 precision: area; reconstructed"
+    }
+   ],
+   "path_confidence": "reconstructed (endpoints and crossings named in Wikipedia/Wurm literature; corridor via creek geometry)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Caspar,_South_Fork_and_Eastern_Railroad",
+    "GNIS",
+    "NHD"
+   ],
+   "notes": "Ted Wurm, 'Mallets on the Mendocino Coast' is the standard monograph (not consulted directly). The 'South Fork' of the corporate name refers to the later push toward the South Fork Noyo watershed."
+  },
+  {
+   "name": "Mendocino Lumber Co. Railroad (Big River)",
+   "gauge": "standard (4 ft 8.5 in) \u2014 Wikipedia 'Mendocino Lumber Company'",
+   "years": "Railroad operations 1883-1931 (Wikipedia); upper-river steel line built from 1900 (first locomotive steamed 17 Aug 1900, krisweb Big River history); 3-mi extension Laguna Creek\u2192Little North Fork completed July 1912; tracks dismantled 1936-37",
+   "waypoints": [
+    {
+     "name": "Mendocino Lumber Co. mill at Big River mouth (lumber shipped from the bluff at the river mouth)",
+     "coords": [
+      39.30212,
+      -123.79475
+     ],
+     "source": "GNIS 219234 Big River (Stream, mouth coords); Wikipedia: mill on the navigable Big River estuary \u2014 precision: place"
+    },
+    {
+     "name": "Mendocino town (headland shipping point above the mill)",
+     "coords": [
+      39.30768,
+      -123.79947
+     ],
+     "source": "GNIS 1659106 Mendocino (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Little North Fork Big River confluence (1912 railhead)",
+     "coords": [
+      39.31323,
+      -123.70503
+     ],
+     "source": "GNIS 227311 Little North Fork Big River (Stream); krisweb: 'newly completed 3 mile railroad extension from Laguna Creek to the Little Northfork' \u2014 precision: place"
+    },
+    {
+     "name": "Laguna Creek confluence (1900 railhead area; 'Fraser's landing to near Laguna Creek')",
+     "coords": [
+      39.29351,
+      -123.67197
+     ],
+     "source": "GNIS 234124 Laguna Creek (Stream); krisweb Big River infrastructure notes 6 Jul 1900 \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "reconstructed \u2014 the rail ran along the upper river between named creek confluences; logs went to the tidewater mill by river drive, so the rail corridor and the river corridor coincide",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mendocino_Lumber_Company",
+    "http://www.krisweb.com/krisbigriver/krisdb/html/krisweb/history/infrastr.htm",
+    "GNIS",
+    "NHD (Big River flowline points at 3/6/9 km: 39.30036,-123.76241; 39.29062,-123.74113; 39.29185,-123.72486)"
+   ],
+   "notes": "Unusual layout: the railroad fed logs INTO the river for drives down to the mill pond at tidewater rather than hauling to the wharf."
+  },
+  {
+   "name": "Albion Lumber Co. line / Albion & Southeastern / Fort Bragg & Southeastern (Albion River to Wendling)",
+   "gauge": "standard (4 ft 8.5 in) \u2014 Wikipedia 'Fort Bragg and Southeastern Railroad' (Albion River Railroad)",
+   "years": "1889 rails onto the 1,200-ft Albion wharf; Albion & Southeastern formed 1 Apr 1902 to extend toward the Navarro/Anderson Valley; renamed Fort Bragg & Southeastern 1905; Keene's Summit\u2192Wendling completed 15 Sept 1905; later NWP Albion branch (abandoned c.1930)",
+   "waypoints": [
+    {
+     "name": "Albion mill & wharf (Albion River mouth)",
+     "coords": [
+      39.22713,
+      -123.77031
+     ],
+     "source": "GNIS 218079 Albion River (Stream, mouth coords); Albion PPL GNIS 1657904 at 39.22352,-123.76864 \u2014 precision: place"
+    },
+    {
+     "name": "Albion River mid-valley (~6 km upriver)",
+     "coords": [
+      39.24423,
+      -123.72497
+     ],
+     "source": "NHD Albion River flowline point ~6 km upstream \u2014 precision: area; reconstructed"
+    },
+    {
+     "name": "Keene Summit (divide crossing into the Navarro watershed)",
+     "coords": [
+      39.22546,
+      -123.59753
+     ],
+     "source": "GNIS 226449 Keene Summit (Gap); Wikipedia FB&SE: construction 'from Keene's Summit to Wendling' \u2014 precision: place"
+    },
+    {
+     "name": "Wendling / Navarro (mill town terminus, Anderson Valley)",
+     "coords": [
+      39.15185,
+      -123.54197
+     ],
+     "source": "GNIS 229429 Navarro (Populated Place); Wendling was renamed Navarro \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "reconstructed (termini and summit documented; river-valley corridor inferred from the named geometry)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fort_Bragg_and_Southeastern_Railroad",
+    "https://www.kelleyhousemuseum.org/albions-lost-railroad/",
+    "https://www.mendorailhistory.org/1_towns/albion/albion.htm",
+    "GNIS",
+    "NHD"
+   ],
+   "notes": "Despite the 1905 'Fort Bragg' name it never reached Fort Bragg; it was the Albion River line."
+  },
+  {
+   "name": "Glen Blair branch (Fort Bragg Railroad 1885 / Glen Blair Lumber Co., junction with CWR)",
+   "gauge": "standard (the 1885 Fort Bragg RR trackage; Wikipedia CWR)",
+   "years": "Track laid 1885 (first CWR-system rails); Glen Blair mill operated 1886-1928 (part of Union Lumber from 1891); Pudding Creek line became a branch off the Noyo main at Glen Blair Junction",
+   "waypoints": [
+    {
+     "name": "Fort Bragg (mill/wharf end)",
+     "coords": [
+      39.44573,
+      -123.80531
+     ],
+     "source": "GNIS 1656027 Fort Bragg \u2014 precision: place"
+    },
+    {
+     "name": "Pudding Creek mid-valley (~4 km up; Glen Blair Junction area on the branch)",
+     "coords": [
+      39.44916,
+      -123.77543
+     ],
+     "source": "NHD Pudding Creek flowline point ~4 km upstream; skunktrain.com locates Glen Blair Junction on Pudding Creek Rd \u2014 precision: area; reconstructed"
+    },
+    {
+     "name": "Glenblair (mill town, 6.6 rail-miles up Pudding Creek)",
+     "coords": [
+      39.45767,
+      -123.72531
+     ],
+     "source": "GNIS 1658616 Glenblair (Populated Place); mcmrhs.org/skunktrain: 'location of the mill is 6.6 miles by rail up Pudding Creek' \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "reconstructed (endpoints documented; corridor = Pudding Creek valley)",
+   "sources": [
+    "https://mcmrhs.org/mill-towns/glen-blair",
+    "https://www.skunktrain.com/glen-blair-bar/",
+    "https://en.wikipedia.org/wiki/California_Western_Railroad",
+    "GNIS",
+    "NHD"
+   ],
+   "notes": "GNIS spells the place 'Glenblair'. The Glen Blair company also ran its own logging trackage above the mill (not mapped)."
+  },
+  {
+   "name": "Usal Railroad (Usal Redwood Co. / Robert Dollar)",
+   "gauge": "not stated in consulted sources",
+   "years": "Mill and 1,600-ft wharf built 1889 at Usal Creek mouth (Robert Dollar bought in 1888-89); railroad ran ~3 mi up Usal Creek; 1902 fire destroyed the mill and the railroad was dismantled",
+   "waypoints": [
+    {
+     "name": "Usal wharf & mill (Usal Creek mouth)",
+     "coords": [
+      39.83238,
+      -123.85198
+     ],
+     "source": "GNIS 236939 Usal Creek (Stream, mouth coords); Wikipedia 'Lost Coast': 'sawmill and 1,600-foot wharf at the mouth of Usal Creek in 1889' \u2014 precision: place"
+    },
+    {
+     "name": "Usal Creek valley (~2 mi up)",
+     "coords": [
+      39.8449,
+      -123.82984
+     ],
+     "source": "NHD Usal Creek flowline point ~3.2 km upstream \u2014 precision: area; reconstructed"
+    },
+    {
+     "name": "Upper railhead (~3 mi up Usal Creek)",
+     "coords": [
+      39.85493,
+      -123.84003
+     ],
+     "source": "NHD Usal Creek flowline point ~4.8 km upstream; Wikipedia 'Lost Coast': 'a railroad for transporting logs extended three miles up Usal Creek' \u2014 precision: area; derived-from-verbal"
+    }
+   ],
+   "path_confidence": "reconstructed (wharf documented; upstream extent from Wikipedia's 3-mile statement laid along NHD creek geometry)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lost_Coast",
+    "GNIS",
+    "NHD",
+    "Calisphere lead (bot-blocked, record only): https://calisphere.org/item/ark:/87293/d3042k/ \u2014 'Usal, California, scene of Robert Dollar's Lumber Mill'"
+   ],
+   "notes": "Usal townsite itself is not a GNIS feature; Usal Rock GNIS 236940 (39.83238 area) marks the cove. The doghole MPDF covers 'Monroe Landing (Hale's Grove/Usal Landing)' south of Usal as a separate later port."
+  },
+  {
+   "name": "Crescent City & Smith River Railroad (Hobbs, Wall & Co.)",
+   "gauge": "NOT ESTABLISHED from consulted sources \u2014 wx4.org details 40-lb steel rail and Baldwin saddle-tank power without an explicit gauge statement; no source consulted states narrow vs standard outright. Verify before mapping a gauge label.",
+   "years": "Initial ~5 mi operating 1884 (wx4.org); NPS Redwood history says the 12-mi Smith River line was 'built in the period 1890-1894' \u2014 dates conflict, report both; 16.35 mi incl. 2.6-mi Fort Dick branch by 1896; passenger/freight service ceased 1910-11; mill-to-wharf trackage lingered into the 1920s",
+   "waypoints": [
+    {
+     "name": "Crescent City wharf & Hobbs Wall mill",
+     "coords": [
+      41.75595,
+      -124.20176
+     ],
+     "source": "GNIS 277494 Crescent City (Populated Place) \u2014 precision: place (wharf on the bay at town)"
+    },
+    {
+     "name": "Elk Valley",
+     "coords": [
+      41.75582,
+      -124.19112
+     ],
+     "source": "GNIS 223129 Elk Valley (Valley, Del Norte) \u2014 precision: place"
+    },
+    {
+     "name": "Lake Earl (east side; 1870 Lake Earl mill of Crescent City Mill & Transportation Co.)",
+     "coords": [
+      41.82746,
+      -124.18905
+     ],
+     "source": "GNIS 222843 Lake Earl (Lake); Del Norte County Historical Society economic history \u2014 precision: area (lake feature, line passed east of it)"
+    },
+    {
+     "name": "Fort Dick (branch terminus north of Lake Earl)",
+     "coords": [
+      41.8679,
+      -124.14898
+     ],
+     "source": "GNIS 223696 Fort Dick (Populated Place); wx4.org '2.6 Fort Dick branch, north of Lake Earl' \u2014 precision: place"
+    },
+    {
+     "name": "Smith River, south bank (main-line railhead; town of Smith River)",
+     "coords": [
+      41.92817,
+      -124.14704
+     ],
+     "source": "GNIS 1659799 Smith River (Populated Place); JPR 'As It Was': rails 'extended from Crescent City out to the south bank of the Smith River' \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "reconstructed (termini and branch relationships documented; corridor across the Smith River plain inferred)",
+   "sources": [
+    "https://wx4.org/to/foam/shortlines/coc/1DelNorteRRs.html",
+    "https://www.ijpr.org/show/as-it-was/2019-12-10/as-it-was-lumber-mill-builds-crescent-city-and-smith-river-railroad",
+    "https://www.nps.gov/parkhistory/online_books/redw/history10c.htm",
+    "https://delnortehistory.org/del-nortes-economic-history/",
+    "GNIS"
+   ],
+   "notes": "Hobbs, Wall & Co. owned ~8,700 acres between Crescent City and Smith River; the line doubled as a popular passenger picnic railway."
+  },
+  {
+   "name": "Arcata & Mad River Railroad (ex-Union Plank Walk, Rail Track & Wharf Co.)",
+   "gauge": "45.25 in (one-of-a-kind, from the original horse-car wheel gauge) \u2014 pacificng.com; dual gauge Korblex-Korbel until Feb 1942, then standard",
+   "years": "Union Plank Walk, Rail Track & Wharf Co. incorporated 15 Dec 1854 (horse-powered, along an 11,000-ft wharf into Humboldt Bay and across the marsh into Union/Arcata \u2014 oldest railroad operation in California); Arcata & Mad River RR incorporated 16 Jul 1881, 12.9 mi to Korbel",
+   "waypoints": [
+    {
+     "name": "Arcata (plaza; wharf ran ~2 mi / 11,000 ft south into Humboldt Bay \u2014 wharf-end coords not established, see gaps)",
+     "coords": [
+      40.86652,
+      -124.08285
+     ],
+     "source": "GNIS 277471 Arcata (Populated Place); pacificng.com A&MR page for the wharf \u2014 precision: place"
+    },
+    {
+     "name": "Korblex (junction, Mad River crossing area)",
+     "coords": [
+      40.90347,
+      -124.07147
+     ],
+     "source": "GNIS 1658921 Korblex (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Blue Lake (CHL 842 marker at Blue Lake Museum/depot)",
+     "coords": [
+      40.88149,
+      -123.99091
+     ],
+     "source": "californiahistoricallandmarks.com CHL #842 GPS 40.8814888,-123.9909138 \u2014 precision: exact (marker)"
+    },
+    {
+     "name": "Korbel (terminus, North Fork Mad River mills)",
+     "coords": [
+      40.87041,
+      -123.95841
+     ],
+     "source": "GNIS 1658920 Korbel (Populated Place) \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "documented (well-attested common-carrier line; station points from GNIS/CHL)",
+   "sources": [
+    "https://www.pacificng.com/w/index.php?title=Arcata_and_Mad_River_Railroad",
+    "https://en.wikipedia.org/wiki/Arcata_and_Mad_River_Railroad",
+    "https://www.californiahistoricallandmarks.com/landmarks/chl-842",
+    "GNIS"
+   ],
+   "notes": "The 1854 plank-walk/wharf horse tramway is the 'oldest railroad in California' claim usually cited for Arcata (CHL 842 marker text: 'the oldest line on the north coast')."
+  },
+  {
+   "name": "Humboldt Bay & Eel River Railroad / Pacific Lumber Co. (Scotia-Alton-Humboldt Bay)",
+   "gauge": "standard (became part of the NWP main line, 1911)",
+   "years": "Chartered Nov 1882 by Pacific Lumber; operations 1885; completed across the Scotia Bluffs to Alton 20 Aug 1885, connecting there with the Eel River & Eureka RR for the rest of the way to Humboldt Bay (Fields Landing); merged into San Francisco & Northwestern 1903, NWP 1906-11",
+   "waypoints": [
+    {
+     "name": "Scotia (Pacific Lumber mill; earlier Forestville)",
+     "coords": [
+      40.48236,
+      -124.10089
+     ],
+     "source": "GNIS 232715 Scotia (Census) \u2014 precision: place"
+    },
+    {
+     "name": "Alton (junction with Eel River & Eureka RR, 1885)",
+     "coords": [
+      40.54736,
+      -124.1409
+     ],
+     "source": "GNIS 1655796 Alton (Populated Place); Wikipedia 'Eel River and Eureka Railroad' \u2014 precision: place"
+    },
+    {
+     "name": "Fortuna",
+     "coords": [
+      40.59819,
+      -124.15729
+     ],
+     "source": "GNIS 277520 Fortuna (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Fields Landing (deep-water shipping point on Humboldt Bay)",
+     "coords": [
+      40.72458,
+      -124.21507
+     ],
+     "source": "GNIS 1656012 Fields Landing (Populated Place) \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "documented Scotia-Alton (HB&ER's own construction); reconstructed Alton-Fields Landing (traffic moved over the connecting ER&E/SF&NW trackage)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Eel_River_and_Eureka_Railroad",
+    "https://en.wikipedia.org/wiki/San_Francisco_and_Northwestern_Railway",
+    "https://lostcoastoutpost.com/2018/mar/11/ugly-looking-bluff-lorenzo-painter-and-pacific-lum/ (Scotia Bluffs construction)",
+    "GNIS"
+   ],
+   "notes": "This corridor became the NWP main; the Scotia Bluffs stretch was notoriously unstable ('Our Doomed Railroad', Lost Coast Outpost)."
+  },
+  {
+   "name": "Dolbeer & Carson Lumber Co. \u2014 Bucksport & Elk River Railroad",
+   "gauge": "not established from consulted sources",
+   "years": "Company records incl. Bucksport & Elk River Railroad Co. span ca. 1884-1941 (OAC finding aid); 1881-82 newspapers report steam logging at Salmon Creek and a planned railroad to Elk River; D&C ran trains until 1930; a new D&C logging railroad on the North Fork Elk River photographed May 1934; PL bought D&C 1950 and closed the railroad ~3 years later",
+   "waypoints": [
+    {
+     "name": "Bucksport (Humboldt Bay railhead)",
+     "coords": [
+      40.77513,
+      -124.1923
+     ],
+     "source": "GNIS 1655852 Bucksport (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Elk River (valley settlement)",
+     "coords": [
+      40.73624,
+      -124.17424
+     ],
+     "source": "GNIS 223125 Elk River (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "North Fork Elk River confluence (1930s logging railhead direction)",
+     "coords": [
+      40.70236,
+      -124.15257
+     ],
+     "source": "GNIS 255115 North Fork Elk River (Stream); Calisphere 1934 photo captions (bot-blocked, lead only) \u2014 precision: area; reconstructed"
+    }
+   ],
+   "path_confidence": "reconstructed (corporate/route names and valley documented; alignment coarse)",
+   "sources": [
+    "https://oac.cdlib.org/findaid/ark:/13030/tf6n39n91p/ (Dolbeer & Carson records, incl. Bucksport & Elk River Railroad Co.)",
+    "Calisphere leads (bot-blocked): https://calisphere.org/item/66bc0b9b4ce82259d12d69c35346483e/ and https://calisphere.org/item/23b8e510760de9624cbffc0bdb846f78/ (1934 N.F. Elk River railroad photos)",
+    "http://www.krisweb.com/krishumboldtbay/krisdb/html/krisweb/humbay_historic/bayfish2.htm (1881-82 Salmon Creek/Elk River rail notices)",
+    "GNIS"
+   ],
+   "notes": "John Dolbeer patented the steam donkey (1881-82, first used in D&C's Salmon Creek operations). D&C's mill was on the Eureka waterfront (Eureka GNIS 277605: 40.80208,-124.16369). Their separate Humboldt Northern Railway (sold 1927 to Little River Redwood) is a different, more northerly line \u2014 do not conflate."
+  },
+  {
+   "name": "Salt Point horse railroad (quarry/mill to Gerstle Cove landing)",
+   "gauge": "not stated (horse-drawn)",
+   "years": "Quarrying from 1853-55 ('as early as 1855 stone was cut on site and transported from a pier' \u2014 doghole MPDF); the documented horse-drawn railroad ran from the Miller sawmill (Miller Gulch mill leased 1872) to the loading point; chutes from 1870; last chute closed 1917",
+   "waypoints": [
+    {
+     "name": "Salt Point (quarry outcrops; cut stone and tool marks still visible)",
+     "coords": [
+      38.56631,
+      -123.3328
+     ],
+     "source": "GNIS 232328 Salt Point (Cape) \u2014 precision: place"
+    },
+    {
+     "name": "Gerstle Cove landing (two trough chutes on the western side; eyebolts in the rocks)",
+     "coords": [
+      38.56381,
+      -123.32724
+     ],
+     "source": "GNIS 224133 Gerstle Cove (Bay); doghole MPDF Salt Point Landing section \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "conjectural between the two documented endpoints (no source consulted draws the alignment; Miller Gulch mill site coords not established \u2014 GNIS has no Miller Gulch in Sonoma)",
+   "sources": [
+    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Salt Point Landing, lines ~1725-1750, 2782-2812)",
+    "https://en.wikipedia.org/wiki/Salt_Point_State_Park",
+    "https://www.saltpoint.org/history",
+    "GNIS"
+   ],
+   "notes": "VERIFICATION RESULT on the early-railroad claim: the 1850s activity documented is quarrying + a pier (MPDF); the rail feature documented by Wikipedia/park literature is the HORSE-DRAWN RAILROAD from the Miller sawmill era (1870s), and Wikipedia makes NO 'first railroad in California' claim. Treat any '1850s railroad at Salt Point' statement as UNVERIFIED. Salt Point Landing NRHP district (NRIS RS100007268) is the deeper source to pull if this route is promoted; Douglass 2002 (Sonoma State MA thesis, 'The Sawmill in Miller Gulch') locates the mill."
+  },
+  {
+   "name": "Duncan's Landing horse tram (Duncans Mills Land & Lumber Co., Wright Ranch)",
+   "gauge": "narrow (doghole MPDF: 'The narrow-gauge railroad route paralleled the coastline') \u2014 horse-drawn",
+   "years": "Mill built 1860 near the south side of the Russian River mouth; horse-drawn trams moved lumber ~1 mile through Wright Ranch to the chutes on Duncans Point; port active circa 1876-1889 (chutes shown on 1876 USCS chart; abandoned by 1889 as the NPC railroad took the trade)",
+   "waypoints": [
+    {
+     "name": "Tram north end near the Duncan mill / Wrights Beach area",
+     "coords": [
+      38.4052,
+      -123.09891
+     ],
+     "source": "GNIS 238197 Wrights Beach (Beach); MPDF: 'network of horse drawn trams a mile south within the Wright Ranch' \u2014 precision: area; derived-from-verbal"
+    },
+    {
+     "name": "Duncans Point (chute infrastructure on the headland)",
+     "coords": [
+      38.39298,
+      -123.09474
+     ],
+     "source": "GNIS 222718 Duncans Point (Cape); MPDF: route 'connected with the infrastructure out on Duncans Point' \u2014 precision: place"
+    },
+    {
+     "name": "Duncans Cove (two trough chutes projecting south into the cove, 1876 chart)",
+     "coords": [
+      38.39353,
+      -123.09252
+     ],
+     "source": "GNIS 1723325 Duncans Cove (Bay); MPDF Duncan's Landing section \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "reconstructed \u2014 MPDF states the route 'paralleled the coastline' for about a mile; endpoints anchored, alignment between them inferred along the coastal terrace",
+   "sources": [
+    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Duncan's Landing, lines ~2941-2990)",
+    "GNIS",
+    "https://en.wikipedia.org/wiki/Duncans_Point (lead)"
+   ],
+   "notes": "This is the 'headland railway' the task asked for: horse-drawn, narrow-gauge, coast-parallel. The Duncans moved their mill upriver to Duncans Mills in 1877 when the NPC arrived."
+  },
+  {
+   "name": "North Pacific Coast Railroad (Sausalito-Duncans Mills narrow gauge)",
+   "gauge": "3 ft (914 mm) narrow gauge \u2014 pacificng.com / Wikipedia",
+   "years": "Built 1874-77; opened Sausalito-Tomales Jan 1875; reached the Russian River and Duncans Mills 1877 (Cazadero extension 1886); ~93 mi with ferry connection to San Francisco; became North Shore Railroad 7 Mar 1902; successor service ceased 1930s. The doghole MPDF credits it with replacing sea shipment: 'By 1889, the railroad had replaced the shipment of products out of the immediate area, and the doghole port's chutes were abandoned.'",
+   "waypoints": [
+    {
+     "name": "Sausalito (ferry pier terminal)",
+     "coords": [
+      37.85917,
+      -122.48529
+     ],
+     "source": "GNIS 277597 Sausalito (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Point Reyes Station",
+     "coords": [
+      38.06909,
+      -122.80695
+     ],
+     "source": "GNIS 1659413 Point Reyes Station (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Tomales (railhead Jan 1875; east shore of Tomales Bay route)",
+     "coords": [
+      38.24631,
+      -122.90557
+     ],
+     "source": "GNIS 236439 Tomales (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Valley Ford (into Sonoma County)",
+     "coords": [
+      38.31798,
+      -122.92418
+     ],
+     "source": "GNIS 236972 Valley Ford (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Occidental (Howards; redwood belt crossing)",
+     "coords": [
+      38.40742,
+      -122.94834
+     ],
+     "source": "GNIS 277568 Occidental (Populated Place) \u2014 precision: place"
+    },
+    {
+     "name": "Duncans Mills (Russian River terminus, 1877)",
+     "coords": [
+      38.45381,
+      -123.05501
+     ],
+     "source": "GNIS 222722 Duncans Mills (Populated Place) \u2014 precision: place"
+    }
+   ],
+   "path_confidence": "documented (major common carrier; station towns are fixed points; fine alignment between them not drawn here)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/North_Pacific_Coast_Railroad",
+    "https://www.pacificng.com/template.php?page=roads%2Fca%2Fnpc%2Findex.htm",
+    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (lines ~1770-1773, 2990s)",
+    "GNIS"
+   ],
+   "notes": "Included as the rail alternative that undercut the Sonoma coast doghole trade (Duncan's Landing chutes abandoned by 1889 \u2014 Davidson 1889 via MPDF)."
+  }
+ ],
+ "gaps": "KEY OPEN ITEMS AND HONESTY FLAGS. (1) BEAR HARBOR GAUGE: the contradiction is real and internal to the NRHP nomination itself \u2014 Section 8 history (via Bordon 1964 and 1896 press) says STANDARD gauge and the surviving Gypsy/Baldwin locomotives are described as standard, but Section 7 archaeology records CA-MEN-2149H as a NARROW-gauge rail line with in-situ narrow-gauge track, and the 1977 CSP inventory found BOTH narrow- and standard-gauge rails on the ground. Both readings are reported in the route record; do not collapse them. A read of Bordon 1964 (Western Railroader No. 292) would be the next step. (2) BH&ER incline geometry: the top is well anchored (NHD Anderson Creek headwater tip 158 m from OSM Usal Road, matching the NRHP verbal), but the base coordinate [39.9378,-123.9502] is a bearing-derived offset \u2014 conjectural; the incline length itself has three source readings (1,900 / 2,000 / 3,000 ft). (3) SCHOOL MARM: GNIS 1724375 'School Marm Grove' (Woods) is at 39.88988,-123.91587, beside Wheeler and Jackass Creek ~2.7 km SSE of Bear Harbor \u2014 on the Lost Coast Trail corridor and the 1950s Wheeler mill area, NOT on the BH&ER alignment, and no consulted source names it as a railroad station; recommend NOT mapping it on this line. (4) Moody's coordinate is a proxy (GNIS Moody Creek mouth on Indian Creek; NRHP puts the town on the NW bank of Indian Creek); the townsite itself has no GNIS record. Kenny (GNIS 252710, 39.92182,-123.89865) matches the NRHP's hotel settlement at the Usal Creek headwaters but was a wagon-road stop, not a rail station. (5) Route-mileage arithmetic in the NRHP is internally rough (2 mi + incline + 10 mi to Moody; a 1903 press claim of a '12-mile section' Moody-to-Eel; totals 17.5 vs 'nearly 18' mi) \u2014 quote, don't reconcile. (6) NRHP Section 10 location data is REDACTED (restricted archaeological information) \u2014 all coordinates here came from GNIS/NHD/OSM instead, which is why nothing is 'exact' precision on the Bear Harbor routes. (7) Crescent City & Smith River RR: gauge NOT established (no explicit statement found; wx4.org gives 40-lb rail only) and construction dates conflict (1884 initial line per wx4.org vs 1890-94 per the NPS Redwood history) \u2014 both reported. (8) Salt Point: the '1850s railroad / one of California's first railroads' claim FAILED verification \u2014 1850s quarrying and a pier are documented, but the documented rail feature is the 1870s-era horse-drawn railroad from the Miller sawmill; pull the Salt Point Landing NRHP district nomination (NRIS RS100007268) and Douglass 2002 before promoting this claim, and the Miller Gulch mill site still lacks coordinates. (9) Arcata Wharf terminus (11,000-ft wharf into Humboldt Bay) has no sourced coordinate \u2014 town coordinate used; wharf end left unmapped rather than guessed. (10) Dolbeer & Carson: gauge unverified and alignment coarse; their Humboldt Northern line is a separate railroad. (11) Calisphere is bot-blocked; three item URLs recorded as leads only (Usal mill photo SV-284; two 1934 D&C North Fork Elk River photos). (12) Local files used: /Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (read pp.1-58 of 78; remainder is bibliography/figures) and doghole-ports-nrhp-mpdf-fulltext.txt; GNIS query helper left at /private/tmp/claude-501/-Users-aodhan/5cb0858e-1b33-4cdb-a8f8-06d8ea288992/scratchpad/gnis.py (queries carto.nationalmap.gov geonames MapServer; multipoint geometry handling required). (13) Fine polyline geometry between waypoints is NOT drawn by any consulted source except where noted (CWR/NPC follow known extant/well-mapped corridors; Sinkyone's Lost Coast Trail 'roughly follows' the BH&ER railbed along Railroad Creek); treat inter-waypoint segments at the stated route confidence, not better."
+}

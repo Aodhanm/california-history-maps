@@ -1,0 +1,614 @@
+{
+ "features": [
+  {
+   "name": "Northport / Anderson's Landing",
+   "coords": [
+    39.86043,
+    -123.90391
+   ],
+   "coord_source": "GNIS 228860 Mistake Point (prim 39.860428,-123.9039126); GNIS 227283 Little Jackass Creek mouth (39.860428,-123.9016903)",
+   "precision": "place",
+   "evidence": "MPDF: 'located on Mistake Point at the mouth of Little Jackass Creek and 1.25 miles northwest of Big White Rock', Sinkyone Wilderness SP, <2 mi SW of Wheeler. Davidson 1889:289 (read in local OCR): landing 'one and one-quarter miles northwest from Big White Rock, under a high and slightly projecting point named Little Jackass Point'; wire cable stretched from near the extremity of the point across the cove.",
+   "notes": "Davidson's 'Little Jackass Point' = modern GNIS Mistake Point. Chute stage was on the point; creek enters the cove head 200 m E."
+  },
+  {
+   "name": "Usal",
+   "coords": [
+    39.83237,
+    -123.85197
+   ],
+   "coord_source": "GNIS 236939 Usal Creek (prim/mouth 39.8323738,-123.8519669)",
+   "precision": "place",
+   "evidence": "Task brief and standard accounts place the Usal doghole port/wharf at the mouth of Usal Creek; GNIS prim point of the creek is the mouth, on the beach at Usal (Usal Rock GNIS 236940 lies 3 km S offshore).",
+   "notes": "Distinct from the MPDF's 'Monroe Landing, also known as ... Usal Landing' (exact location unknown, south of Usal) - do not conflate."
+  },
+  {
+   "name": "Rockport (Cottaneva Cove / Miller's Chute)",
+   "coords": [
+    39.73599,
+    -123.82919
+   ],
+   "coord_source": "GNIS 254782 Cottaneva Creek (prim/mouth 39.7359882,-123.829187); GNIS 231753 Rockport Bay (39.7340439,-123.8286314)",
+   "precision": "place",
+   "evidence": "MPDF: 'at the mouth of Cottaneva Creek in Rockport Bay... chute system sat on the north point of a large cove with a sandy beach', wire suspension bridge to rocky island. Wikipedia Rockport, California (39.73889,-123.81611) is the inland townsite - not used for the port.",
+   "notes": "Chute island lies off the north point, ~200-300 m W of the creek-mouth coordinate."
+  },
+  {
+   "name": "Hardy Creek Landing",
+   "coords": [
+    39.71071,
+    -123.80752
+   ],
+   "coord_source": "GNIS 224927 Hardy Creek (prim/mouth 39.7107116,-123.8075196); derived-from-verbal for the landing itself",
+   "precision": "place",
+   "evidence": "MPDF: 'located on private property south of Hardy Creek'; 1909 Coast Pilot wire chute. Coordinate is the sourced creek mouth; landing immediately south of it.",
+   "notes": ""
+  },
+  {
+   "name": "Union Landing / McFaul's",
+   "coords": [
+    39.70293,
+    -123.80363
+   ],
+   "coord_source": "GNIS 226363 Juan Creek (prim/mouth 39.7029342,-123.8036305); derived-from-verbal (landing just S of mouth)",
+   "precision": "place",
+   "evidence": "MPDF: 'south of the mouth of Juan Creek, less than 0.25 miles from the northern boundary of the Westport Union Landing State Beach'; pier and wire chute.",
+   "notes": "No GNIS record for Union Landing itself; creek-mouth anchor + MPDF offset <400 m."
+  },
+  {
+   "name": "Westport Landing",
+   "coords": [
+    39.63571,
+    -123.78307
+   ],
+   "coord_source": "GNIS 1660154 Westport (populated place 39.6357148,-123.7830734)",
+   "precision": "place",
+   "evidence": "MPDF: 'located within Westport Headlands Park'; two chutes (N and S) off the headland immediately W/SW of the town.",
+   "notes": "GNIS point is the town on Hwy 1; the headland chutes are ~200-300 m W at the shore."
+  },
+  {
+   "name": "Kibesilah / Ackermann's Landing",
+   "coords": [
+    39.59155,
+    -123.78252
+   ],
+   "coord_source": "GNIS 234108 Kibesillah Creek (prim/mouth 39.59155,-123.7825171); GNIS 252713 Kibesillah PP 39.5901611,-123.7777947; Wikipedia Kibesillah, California 39.59028,-123.77778 (agrees)",
+   "precision": "place",
+   "evidence": "MPDF: 'west of Kibesilah near the mouth of Kibesilah Creek... pier and trough chute projecting in a southern direction from the north side of the rocky headland, Smiths Point'. Davidson 1889:292: 'about one mile northwestward from Newport Landing' - consistent (1.2 mi from Davidson's Newport station).",
+   "notes": "GNIS spells it Kibesillah. Kibesillah Rock (GNIS 226566, 39.5804,-123.7806) lies 1.2 km S."
+  },
+  {
+   "name": "Newport Landing (Mendocino)",
+   "coords": [
+    39.57361,
+    -123.77611
+   ],
+   "coord_source": "Davidson, Pacific Coast Pilot 1889 (local OCR): 'The station inside the cliff at Newport (Brushy Point) is in latitude 39-34-25, longitude 123-46-34' - period government position; cross-check GNIS 1659222 Newport PP (39.5773839,-123.7747388) 450 m NE",
+   "precision": "place",
+   "evidence": "Davidson 1889:291: cove ~150x60 yd, 'the chute is on the north point and projects two hundred and sixty feet from the cliff'. MPDF: landing on land of The Inn at Newport Ranch, just west of Newport; port on north side of the cove.",
+   "notes": "1880s datum: allow ~+/-200 m. GNIS PP is the Hwy 1 townsite ~0.9 km from shore - do not map the port there."
+  },
+  {
+   "name": "Laguna / Cleone Landing",
+   "coords": [
+    39.48961,
+    -123.80363
+   ],
+   "coord_source": "GNIS 226779 Laguna Point (39.4896098,-123.803627)",
+   "precision": "place",
+   "evidence": "MPDF: 'within MacKerricher State Park... located at the southern end of Ten Mile River Beach'; pier with chute at its terminus at Laguna Point (Cleone town GNIS 1655905 is inland 1.5 km E).",
+   "notes": ""
+  },
+  {
+   "name": "Fort Bragg Landing (Soldiers Harbor / mill pier)",
+   "coords": [
+    39.43933,
+    -123.81946
+   ],
+   "coord_source": "GNIS 234869 Soldier Point (39.4393344,-123.8194605)",
+   "precision": "place",
+   "evidence": "MPDF: 'Fort Bragg Landing, also known as Soldiers Harbor... within Noyo Headlands Park'; C.R. Johnson's 1885 mill and pier. Soldier Point is the named cape at the harbor/mill waterfront.",
+   "notes": ""
+  },
+  {
+   "name": "Noyo Landing / Noyo Anchorage",
+   "coords": [
+    39.42739,
+    -123.8139
+   ],
+   "coord_source": "GNIS 229807 Noyo Bay (39.4273906,-123.8139048); GNIS 229808 Noyo River mouth (39.4276684,-123.8091824)",
+   "precision": "place",
+   "evidence": "MPDF: mill complex on the river's north side; loading by lighters from the mill pier to vessels in the anchorage; wire chute added to the north point ~1900.",
+   "notes": "Bay coordinate = anchorage; mill pier ~400 m E inside the river mouth."
+  },
+  {
+   "name": "Pallas Bay Landing",
+   "coords": [
+    39.41711,
+    -123.81252
+   ],
+   "coord_source": "GNIS 224932 Hare Creek (prim/mouth 39.4171134,-123.8125158)",
+   "precision": "place",
+   "evidence": "MPDF: 'on private property at the mouth of Hare Creek... one trough chute projected out from the north shore'. Davidson 1889:287: 'Pallas Bay - This landing at the mouth of the Hare Creek is four miles north by west from Point Cabrillo and one mile south of Noyo River... chute is built out from the north shore of the cove'.",
+   "notes": ""
+  },
+  {
+   "name": "Bromley Gulch Landing",
+   "coords": [
+    39.3877,
+    -123.8206
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889:286 'Bromley Gulch is at the mouth of a small creek one and one-quarter miles north of Caspar Point... chute built (1884) from the south side of the very small cove at the mouth of the creek'; latitude = GNIS 220679 Caspar Point (39.3696157,-123.8255714) + 1.25 mi N; longitude interpolated along the coast between GNIS Caspar Point and GNIS Hare Creek mouth",
+   "precision": "area",
+   "evidence": "MPDF: 'within Jug Handle State Natural Reserve... at the mouth of Bromley's Gulch, 1.5 miles northwest of Caspar', never used (no moorings).",
+   "notes": "Both sources point to ~39.386-39.388, i.e. NORTH of Jughandle Creek proper (GNIS 234098 mouth 39.37684,-123.81696 is only 0.6 mi N of Caspar Point - do NOT pin Bromley there). Nearest named GNIS stream N is Mitchell Creek (228865, prim 39.3924,-123.8158, possibly ~300 m inland). Treat +/-400 m until the 1884/1889 T-sheet is georeferenced."
+  },
+  {
+   "name": "Caspar Landing",
+   "coords": [
+    39.36156,
+    -123.82002
+   ],
+   "coord_source": "GNIS 220676 Caspar Anchorage (39.3615606,-123.8200157)",
+   "precision": "place",
+   "evidence": "MPDF: 'within Caspar Headlands State Beach... at the mouth of Caspar Creek'; trough chutes on the cove's northern side (GNIS Caspar Creek 220677 mouth 39.3618,-123.8181 adjacent).",
+   "notes": ""
+  },
+  {
+   "name": "Russian Gulch Landing (MENDOCINO)",
+   "coords": [
+    39.3289,
+    -123.80482
+   ],
+   "coord_source": "GNIS 232050 Russian Gulch, Mendocino Co. (prim/mouth 39.3289031,-123.8048157)",
+   "precision": "place",
+   "evidence": "MPDF: 'within Russian Gulch State Park... at the mouth of Russian Gulch'; 1875 pier and trough chute; 1888 wire chute on the cove's north side.",
+   "notes": ""
+  },
+  {
+   "name": "Mendocino Landing / Big River",
+   "coords": [
+    39.30212,
+    -123.79474
+   ],
+   "coord_source": "GNIS 219234 Big River (prim/mouth 39.3021191,-123.7947367); GNIS 228497 Mendocino Bay (39.2960083,-123.8019591)",
+   "precision": "place",
+   "evidence": "MPDF: 'within Mendocino Headlands State Park and at the mouth of Big River in Mendocino Bay'; chutes on the northern head, pier further south near the river mouth (Peterson 1886; Davidson 1889:284).",
+   "notes": "Chutes stood on the headlands ~500 m W of the river-mouth coordinate; both inside the named bay."
+  },
+  {
+   "name": "Little River Landing",
+   "coords": [
+    39.27407,
+    -123.7914
+   ],
+   "coord_source": "GNIS 227343 Little River stream (prim/mouth 39.2740651,-123.791403)",
+   "precision": "place",
+   "evidence": "MPDF: 'in a cove at the mouth of Little River near Van Damme Beach', Van Damme SP; pier from the sandy beach with a chute on either side.",
+   "notes": ""
+  },
+  {
+   "name": "Big Gulch / Pullen's Landing",
+   "coords": [
+    39.23979,
+    -123.77403
+   ],
+   "coord_source": "GNIS 222022 Dark Gulch, Albion quad (prim/mouth 39.2397877,-123.7740297)",
+   "precision": "place",
+   "evidence": "MPDF: 'less than a mile north of Albion Landing, at the mouth of Dark Gulch'. Davidson 1889:281: 'Big Gulch... lies half a mile north of the eighty-foot rocky islet which forms the northwest point of Albion River Cove; at the head of the cove there enters a small creek' - GNIS Dark Gulch mouth is 0.59 mi N of GNIS Albion Head (218076), consistent.",
+   "notes": "Cove recedes ~400 yd E; coordinate is the cove head/creek mouth."
+  },
+  {
+   "name": "Albion Landing",
+   "coords": [
+    39.2274,
+    -123.77418
+   ],
+   "coord_source": "GNIS 218073 Albion Cove (39.2274004,-123.7741808)",
+   "precision": "place",
+   "evidence": "MPDF: 'within Albion Cove, at the mouth of Albion River... the doghole port sat on the cove's north side'; Davidson 1889:280 trig station on SW point 39-13-32N 123-46-25W confirms cove position.",
+   "notes": ""
+  },
+  {
+   "name": "Henley's Landing (Handley's Chute)",
+   "coords": [
+    39.22556,
+    -123.77361
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889:280 trig station 'on the southwest point of the cove' = 39-13-32 N, 123-46-25 W (period government position); chute 'on the south side of the cove one hundred and eighty yards from the Mooring Rock'",
+   "precision": "place",
+   "evidence": "MPDF: 'on private land on the south side of Albion Cove'; shown on 1872 and 1886 maps; Davidson: 'Henley's Chute is on the south side of the cove 180 yards from the Mooring Rock. It projects just beyond the cliffs to eighteen feet of water.'",
+   "notes": "Station is the S point of Albion Cove; the chute itself lay ~150-200 m E (inside the cove) of this point. 1880s datum: +/-200 m."
+  },
+  {
+   "name": "Whitesboro Landing",
+   "coords": [
+    39.2174,
+    -123.77279
+   ],
+   "coord_source": "GNIS 255234 Whitesboro Cove (39.2174008,-123.7727921)",
+   "precision": "place",
+   "evidence": "MPDF: 'at the mouth of Big Salmon Creek, within Whitesboro Cove; pier extended northwest'. Davidson: Salmon Point latitude 39-12-47 consistent. Wikipedia Whitesboro, California (39.21472,-123.76444) is the inland townsite - not used.",
+   "notes": "GNIS Big Salmon Creek 219249 prim (39.2157,-123.7686) sits up-cove; cove record preferred."
+  },
+  {
+   "name": "Navarro Landing",
+   "coords": [
+    39.19212,
+    -123.76113
+   ],
+   "coord_source": "GNIS 229433 Navarro River (prim/mouth 39.1921239,-123.7611258)",
+   "precision": "place",
+   "evidence": "MPDF: 'on private land at the mouth of the Navarro River... just north of Navarro River Redwoods State Park'; pier with derrick supporting two chutes (Davidson 1889:278).",
+   "notes": ""
+  },
+  {
+   "name": "Cuffey's Cove Landing",
+   "coords": [
+    39.14101,
+    -123.73113
+   ],
+   "coord_source": "GNIS 254801 Cuffeys Cove (39.1410141,-123.7311267)",
+   "precision": "place",
+   "evidence": "MPDF: 'on the north side of Cuffeys Cove, just south of Cuffeys Inlet'; Davidson 1889:276 Coast Survey station lat 39-08-27 N matches GNIS; chutes on the west shore of the cove.",
+   "notes": ""
+  },
+  {
+   "name": "Chisholm Landing",
+   "coords": [
+    39.13671,
+    -123.72682
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889:277 'Formerly there was a chute located at the islet which is halfway between this cove [Cuffeys Cove] and Greenwood Creek Landing'; midpoint of GNIS 254801 Cuffeys Cove and GNIS 224596 Greenwood Cove",
+   "precision": "place",
+   "evidence": "MPDF: 'between Greenwood Landing and Cuffey's Cove Landing. The 1870 U.S. Coast and Geodetic Survey map shows a single trough chute labeled Chisholm chute... extends out from the cliff edge across the water to a rocky island'. Davidson: chute ran from the 130-ft cliff to the 84-ft islet.",
+   "notes": "'Halfway between' is Davidson's own geometry, so the midpoint construction bounds the error at <450 m; the 84-ft islet offshore is the physical anchor. 1870 T-sheet would pin it exactly."
+  },
+  {
+   "name": "Greenwood Creek Landing (Elk)",
+   "coords": [
+    39.1324,
+    -123.72252
+   ],
+   "coord_source": "GNIS 224596 Greenwood Cove (39.1324031,-123.7225157)",
+   "precision": "place",
+   "evidence": "MPDF: 'in Greenwood Creek State Beach, west of Elk, on the north side of a cove at the mouth of Bonee Gulch'. Davidson 1889:276: the landing is 'not at Greenwood Creek... but to the northward of this [line] of islets'; wharf from the 140-ft point over the rocks.",
+   "notes": "GNIS Greenwood Creek 233960 prim (39.1263,-123.7178) is SE of the landing; cove record preferred."
+  },
+  {
+   "name": "Bridgeport Landing (Hoag's / Field's / Kimball's)",
+   "coords": [
+    39.0521,
+    -123.7392
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889:275 'Six and two thirds miles north one degree east (N. 1 E.) from Point Arena Light'; base = GNIS 253765 Point Arena cape (38.9557424,-123.7414086, lighthouse site)",
+   "precision": "area",
+   "evidence": "Davidson: chute built from the high land, over the water by trestle work to two small rocks ~100 yd from shore, apron turned sharply south; sawmill 0.25 mi up the gulch. MPDF: 'on privately owned land north of Manchester'.",
+   "notes": "Bearing-based projection: treat +/-500 m along and off the coast; the point may fall at or just seaward of the surf line. No GNIS feature exists. Davidson's Red Bluff (1.5 mi NW of the chute) is the nearest check feature."
+  },
+  {
+   "name": "New Haven Landing",
+   "coords": [
+    39.0346,
+    -123.7289
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889:274 - the landing's south point 'lies five and a half miles north seven degrees east (N. 7 E.) from the Light-house at Point Arena' and is 'the north point of the little cove into which empty the waters of Mal Passo Gulch'; base = GNIS 253765 Point Arena cape",
+   "precision": "place",
+   "evidence": "Davidson: chute projected SSE from the high northern bank 75 yd just beyond the breakers; Mal Paso gulch itself 5.25 mi N10E from the light. MPDF: 'near the mouth of Mal Passo Gulch'.",
+   "notes": "WARNING: GNIS 227983 Mallo Pass Creek prim (39.03407,-123.68946) lies ~3 km INLAND - it fails the coast sanity check; do not use it. Also MPDF's 'located in Manchester State Park' conflicts with the Mallo Pass position (~39.033 is north of Manchester SP). Derivation +/-250 m."
+  },
+  {
+   "name": "Arena Cove Landing",
+   "coords": [
+    38.9138,
+    -123.71335
+   ],
+   "coord_source": "GNIS 218356 Arena Cove (38.9137983,-123.7133513); GNIS 230845 Point Arena Creek mouth (38.9137982,-123.7105734)",
+   "precision": "place",
+   "evidence": "MPDF: 'at the mouth of Point Arena Creek, northwest of the town of Point Arena'. Davidson 1889: 'Two and a half miles southeastwardly from Point Arena Light-house'; wharf on north side of the cove.",
+   "notes": ""
+  },
+  {
+   "name": "Saunders' Landing (Hearn's)",
+   "coords": [
+    38.853,
+    -123.65
+   ],
+   "coord_source": "Derived-from-verbal, two convergent Davidson 1889:268 constructions: (a) 'the chute at this place is less than half a mile northwestwardly from Iverson Point' off GNIS 254831 Iversen Point; (b) 'Saunders Reef lies from 750 to 1230 yards west three-quarters south from the chute' off GNIS 232600 Saunders Reef (38.8526878,-123.660293) - both give ~38.853,-123.650 (within 150 m)",
+   "precision": "place",
+   "evidence": "Davidson: chute carried from the 90-ft cliff over a chasm to a 49-ft rocky islet; 'on the north side of the chute islet there is a very slight indentation upon which opens Rock[y] Gulch'. MPDF: 'within a small cove at the mouth of Rocky Gulch; chute sat on an island on the cove's southern side'.",
+   "notes": "The GNIS 'Rocky Gulch' in Mendocino (231769) is a different inland feature - do not use. Lumber came from Schooner Gulch (GNIS 232695, mouth 38.8666,-123.6555, 1 mi NW - not the landing)."
+  },
+  {
+   "name": "Iverson's Landing (Fergusons Cove / Rough and Ready)",
+   "coords": [
+    38.84685,
+    -123.64696
+   ],
+   "coord_source": "GNIS 254831 Iversen Point (38.8468544,-123.646959)",
+   "precision": "place",
+   "evidence": "MPDF: 'By 1889 two wire chutes projected from Iverson Point'. Davidson 1889:267: 'Iverson Point, from which the Rough and Ready Landing chute formerly projected, is the westerly point of a small cove... named Fergusons Cove'.",
+   "notes": "Inner chute placed vessels between shore and a large offshore rock (Peterson 1886)."
+  },
+  {
+   "name": "Steen's Landing (Hardscratch / Signal Port)",
+   "coords": [
+    38.82908,
+    -123.61557
+   ],
+   "coord_source": "GNIS 1666816 Signal Port (historical) (38.8290768,-123.6155687); Wikipedia Signal Port, California 38.82917,-123.61556 (agrees); GNIS 233113 Signal Port Creek mouth 38.8285212,-123.6161243",
+   "precision": "place",
+   "evidence": "Davidson 1889:267: 'Signal Port or Steens Landing... The former name of this landing was Hardscratch'; chute ~200 yd from the 80-ft cliff. MPDF: 'at the mouth of Signal Creek'.",
+   "notes": ""
+  },
+  {
+   "name": "Nip and Tuck Landing (Phelp's / Beadle's)",
+   "coords": [
+    38.82574,
+    -123.60974
+   ],
+   "coord_source": "GNIS 231899 Roseman Creek (prim/mouth 38.8257434,-123.6097352); identified via Davidson 1889:266: chute 'on the south side of a deep, narrow gulch... called Reesman Gulch', 'one mile north thirty-eight degrees west from Havens Neck' (GNIS 225025)",
+   "precision": "place",
+   "evidence": "MPDF: 'chute perched on a cliff along a stretch of open coastline near Reesman/Roesman Gulch'. Davidson's bearing off Havens Neck computes to (38.8205,-123.6106), ~600 m S of the GNIS creek record - same gulch within error.",
+   "notes": "GNIS prim point may sit up to ~400 m inland of the surf line (near the Hwy 1 crossing); chute was on the S side of the gulch mouth at the cliff edge. Treat +/-500 m."
+  },
+  {
+   "name": "Fish Rock Landing / Havens Anchorage",
+   "coords": [
+    38.80074,
+    -123.58585
+   ],
+   "coord_source": "GNIS 225024 Havens Anchorage (38.800744,-123.5858452)",
+   "precision": "place",
+   "evidence": "MPDF: 'located on the northern end of Anchor Bay'. Davidson 1889:265-266: cove protected by the Fish Rocks; 'the chute is located on the northeastern part of the bluff point'; Fish Rock Gulch stream empties mid-beach (GNIS 223538).",
+   "notes": "Fish Rocks islets (GNIS 223539, 38.79991,-123.59362) lie offshore SW; Fish Rock PP (1658539) is the hamlet on Hwy 1."
+  },
+  {
+   "name": "Collin's Landing (St. Ores)",
+   "coords": [
+    38.79241,
+    -123.56418
+   ],
+   "coord_source": "GNIS 232234 Saint Orres Creek (prim/mouth 38.7924107,-123.5641777)",
+   "precision": "place",
+   "evidence": "MPDF: 'located near St. Orres Creek, less than a mile north from Bourn's Landing'. Davidson 1889:265: 'Collins Landing is two-thirds of a mile northwest of Bowen's Landing' - distance from GNIS Bourns Gulch checks (0.74 mi NW).",
+   "notes": "GNIS prim may lie ~200-400 m inland (Hwy 1 crossing); the chute ran from the 80-ft shore cliff with a 300-yd wire to an outer rock."
+  },
+  {
+   "name": "Bourn's Landing (Bowens / Bourne's)",
+   "coords": [
+    38.785,
+    -123.562
+   ],
+   "coord_source": "Wikipedia 'Bowens Landing, California' coordinate 38.785,-123.562 (this is Wikipedia's coordinate); corroborated by GNIS 254655 Bourns Gulch (38.7838036,-123.5560707), GNIS 254656 Bourns Rock (38.7788001,-123.5572329), and Davidson 1889:264-265 station 'on the southwestern extremity of the point' 38-46-52 N",
+   "precision": "place",
+   "evidence": "MPDF: 'north of the Gualala River... the doghole port used for shipping out Gualala Mill products'. Davidson: 'One and a half miles northwest of the Walalla River... this small, contracted anchorage'; Bowen Rock 650 yd S41E from the northern chute.",
+   "notes": "All three sources agree within ~500 m; Wikipedia point sits on the landing point W of the gulch mouth."
+  },
+  {
+   "name": "Gualala Landing (Walalla / Robinson's / Rutherford's)",
+   "coords": [
+    38.76852,
+    -123.5339
+   ],
+   "coord_source": "GNIS 253221 Gualala River (prim/mouth 38.7685224,-123.5338987); derived-from-verbal (landing on the bluff just N of the mouth)",
+   "precision": "place",
+   "evidence": "MPDF: 'located north of the mouth of the Gualala River'; two wire chutes abandoned 1884 (Davidson 1889:264).",
+   "notes": "Gualala PP (224701, 38.7657,-123.5281) is the town on Hwy 1; river-mouth anchor preferred for the port."
+  },
+  {
+   "name": "Joe Tongue's Landing (candidate only)",
+   "coords": [
+    38.75241,
+    -123.52668
+   ],
+   "coord_source": "Derived-from-verbal AREA anchor: GNIS 224702 Gualala Point (38.7524119,-123.5266762), which lies ~1 mile S of the Gualala River mouth - matching the MPDF/Clark-Lindstrom statement 'one mile south of Gualala River'",
+   "precision": "area",
+   "evidence": "MPDF (Clark 2016; Clark 2009:17; Lindstrom): believed 'located at the end of Fish Rock Road behind where Rutherford's barn sat at the northwest corner of Equinox and Halcyon, one mile south of Gualala River'; barn <3/4 mi from the river mouth, demolished early 1970s.",
+   "notes": "Candidate only, per task brief - area precision at best; the exact bluff site (a Sea Ranch road end) is not pinned by any record opened here."
+  },
+  {
+   "name": "Del Mar Landing",
+   "coords": [
+    38.74102,
+    -123.5114
+   ],
+   "coord_source": "GNIS 222223 Del Mar Point (38.7410231,-123.5113979)",
+   "precision": "place",
+   "evidence": "MPDF: landing built 'near Del Mar Point' (1849 contract), single wire chute seaward of the California Coastal Trail (Sea Ranch sign 35E-5); NOAA delmarlanding page: 'a small protected cove cut into the very rocky coastline'.",
+   "notes": "Del Mar Landing SMCA surrounds this point."
+  },
+  {
+   "name": "Bihler Landing (Black Point)",
+   "coords": [
+    38.67908,
+    -123.43195
+   ],
+   "coord_source": "GNIS 219397 Black Point, Sonoma Co. (38.6790792,-123.4319533)",
+   "precision": "place",
+   "evidence": "MPDF: Bihler Landing 'occupies a cove north of Stewart's Point Landing'; alt name Black Point; NOAA bihlerlanding page (slide chute pin at Bihler/Black Point).",
+   "notes": ""
+  },
+  {
+   "name": "Stewarts Point Landing (Fisherman's Bay)",
+   "coords": [
+    38.65463,
+    -123.40806
+   ],
+   "coord_source": "GNIS 235471 Stewarts Point cape (38.6546349,-123.4080645)",
+   "precision": "place",
+   "evidence": "MPDF: chutes 'all positioned on the northern side of Fisherman Bay' at Stewart's Point; NOAA stewartspoint page. Most unaltered doghole port of the MPS.",
+   "notes": "Stewarts Point PP (252807, 38.6519,-123.3992) is the store/hamlet on Hwy 1 - the landing is at the cape."
+  },
+  {
+   "name": "Fisk Mill Cove Landing",
+   "coords": [
+    38.59686,
+    -123.35334
+   ],
+   "coord_source": "GNIS 223554 Fisk Mill Cove (38.5968574,-123.3533421)",
+   "precision": "place",
+   "evidence": "MPDF: 'single trough chute extended off the southern end of the cliff on the northwest side of Fisk Mill Cove', Salt Point SP; NOAA fiskmill page.",
+   "notes": ""
+  },
+  {
+   "name": "Salt Point Landing (Gerstle Cove)",
+   "coords": [
+    38.5638,
+    -123.32723
+   ],
+   "coord_source": "GNIS 224133 Gerstle Cove (38.563802,-123.3272309); GNIS 232328 Salt Point cape (38.5663021,-123.3327865)",
+   "precision": "place",
+   "evidence": "MPDF: 1876/1878 survey maps 'show two trough chutes extending off the western side of Gerstle Cove', Salt Point SP; NOAA gerstlecove page.",
+   "notes": ""
+  },
+  {
+   "name": "Walsh Landing (Ocean Cove)",
+   "coords": [
+    38.55519,
+    -123.30445
+   ],
+   "coord_source": "GNIS 229921 Ocean Cove (38.5551908,-123.3044528)",
+   "precision": "place",
+   "evidence": "MPDF: Linderman 'installed a single wire chute on the northern side of Ocean Cove' (1900); owned by Ocean Cove Store and Campground.",
+   "notes": ""
+  },
+  {
+   "name": "Stockhoff Cove Landing",
+   "coords": [
+    38.54686,
+    -123.29751
+   ],
+   "coord_source": "GNIS 235498 Stockhoff Creek (prim 38.5468574,-123.2975084)",
+   "precision": "area",
+   "evidence": "MPDF: 'part of Sonoma County's Stillwater Cove Regional Park... may have been a wire chute located there, or it was simply an anchorage'; cove named for John Stockhoff.",
+   "notes": "GNIS has no 'Stockhoff Cove' feature; the creek prim point sits essentially at the Stillwater Cove shoreline. The named Stockhoff Cove is the small cove immediately adjacent (N) within the Regional Park - treat +/-300 m."
+  },
+  {
+   "name": "Stillwater Cove Landing",
+   "coords": [
+    38.54583,
+    -123.29861
+   ],
+   "coord_source": "GNIS 1654970 Stillwater Cove (38.5458333,-123.2986111)",
+   "precision": "place",
+   "evidence": "MPDF: 'chute sat on the northwestern portion of Stillwater Cove'; 1876 U.S. Coast Survey map shows a single trough chute; NOAA stillwatercove page.",
+   "notes": ""
+  },
+  {
+   "name": "Timber Cove Landing",
+   "coords": [
+    38.52964,
+    -123.27112
+   ],
+   "coord_source": "GNIS 236354 Timber Cove (38.5296352,-123.2711192)",
+   "precision": "place",
+   "evidence": "MPDF: 'chutes sat on the northern portion of Timber Cove', Timber Cove Resort land; NOAA timbercove page.",
+   "notes": ""
+  },
+  {
+   "name": "Fort Ross Cove Landing",
+   "coords": [
+    38.51214,
+    -123.24723
+   ],
+   "coord_source": "GNIS 223704 Fort Ross Cove (38.5121351,-123.2472299)",
+   "precision": "place",
+   "evidence": "MPDF: 'doghole port sat on the northern portion of Fort Ross [Cove]', Fort Ross SHP; NOAA fortross page: 'Fort Ross Cove's northern shoreline was the focus of the port's lumber activities' (Dixon's 1867 trough chute; Call wire chutes).",
+   "notes": ""
+  },
+  {
+   "name": "Russian Gulch Landing (SONOMA)",
+   "coords": [
+    38.46686,
+    -123.15667
+   ],
+   "coord_source": "GNIS 1723332 Russian Gulch Creek (prim/mouth 38.4668583,-123.1566714); GNIS 232048 Russian Gulch valley (38.4667517,-123.1569255)",
+   "precision": "place",
+   "evidence": "MPDF: 'two miles north of the mouth of the Russian River... port sat on the southeast side of the cove'. Davidson 1889:255-256: 'Two miles from Channel Rock, at the mouth of Russian River, a very deep gulch... opens on the ocean... A short, very steep chute is built out from the southeast point'.",
+   "notes": "Sonoma Coast SP. Do not confuse with the Mendocino Russian Gulch."
+  },
+  {
+   "name": "Rule's Landing (Rule's Head)",
+   "coords": [
+    38.4637,
+    -123.1514
+   ],
+   "coord_source": "Derived-from-verbal: Davidson 1889:255 'It lies one and [a half] miles northwest from the mouth of Russian River, under a high head... which we have named Rules Head'; along-coast interpolation between GNIS 267200 Russian River mouth (38.4504698,-123.1294482) and GNIS 1723332 Russian Gulch Creek mouth",
+   "precision": "place",
+   "evidence": "Davidson: head 220 yd long with a narrow neck to the main bluff; wire cable stretched 150 yd from the main bluff to a rock under the extremity of the head; cable taken down 1884 and moved to Russian Gulch Landing. NOAA ruleslanding page (Sonoma Coast SP) confirms the setting but publishes no coordinates.",
+   "notes": "Derivation error ~+/-250 m; the distinctive oblong head ('Rules Head', not a GNIS name) is the physical anchor. Russians knew the cove as a baidarka shelter."
+  },
+  {
+   "name": "Duncan's Landing",
+   "coords": [
+    38.39297,
+    -123.09473
+   ],
+   "coord_source": "GNIS 222718 Duncans Point (38.3929711,-123.0947251); Wikipedia 'Duncans Landing' (redirects to Duncans Point) 38.393,-123.0947 - same point (Wikipedia's coordinate)",
+   "precision": "place",
+   "evidence": "MPDF: railroad 'connected with the infrastructure out on Duncans Point. An 1876 U.S. Coast Survey chart indicated two trough chutes projecting south into the cove' (GNIS 1723325 Duncans Cove 38.3935266,-123.0925028). Sonoma Coast SP.",
+   "notes": ""
+  },
+  {
+   "name": "Bodega Bay (Bodega Port village site)",
+   "coords": [
+    38.33325,
+    -123.04806
+   ],
+   "coord_source": "GNIS 1658093 Bodega Bay populated place (38.33325,-123.0480571); GNIS 254639 Bodega Harbor (38.3235281,-123.0477795)",
+   "precision": "place",
+   "evidence": "The historic port village stood at the north end of Bodega Harbor at the site of the modern town of Bodega Bay; MPDF: Capt. Stephen Smith's first steam sawmill 'near Bodega Bay' 1844; 1873 list of Sonoma shipping points begins at Bodega.",
+   "notes": "Coordinate is the village, not a specific wharf/warehouse; the exact 19th-c. 'Bodega Port' structure sites are not pinned by any record opened here. Not part of the 14 MPDF Sonoma dogholes (which run Duncan's to Del Mar)."
+  },
+  {
+   "name": "Buster's Landing (France's)",
+   "coords": [],
+   "coord_source": "none - task-directed null; verbal anchors only",
+   "precision": "unknown",
+   "evidence": "MPDF: 'The exact location of Buster's Landing has not been determined.' Jackson 1977:18 describes it 1.0 mile north of Scott's Landing.",
+   "notes": "Chart anchor per MPDF: the 1889 USC&GS nautical chart #661 depicts an unnamed trough chute 'approximately 3.0 miles north of Saunders' Landing and 2.0 miles south of Arena Cove at the end of Warren Drive off U.S. 1' (same chart feature invoked for Scott's); privately owned land, adjacent waters in Greater Farallones NMS. Active 1871-1874 (RR ties, posts, cordwood)."
+  },
+  {
+   "name": "Scott's Landing (Slide Rock / Scoutt's)",
+   "coords": [],
+   "coord_source": "none - task-directed null; verbal anchors only",
+   "precision": "unknown",
+   "evidence": "MPDF: 'The exact location of Scott's Landing is undetermined'; 1870 franchise to Lew Gerlock for 100 ft of land, 20 years.",
+   "notes": "Chart anchor per MPDF: 1889 USC&GS chart #661 shows an unnamed trough chute ~3.0 mi N of Saunders' Landing and 2.0 mi S of Arena Cove at the end of Warren Drive off U.S. 1; no buildings or named locations near the chute. If both Buster's and Scott's claim the same chart chute, they cannot both be it - Jackson separates them by 1.0 mile."
+  },
+  {
+   "name": "Monroe Landing (Hale's Grove / Usal Landing)",
+   "coords": [],
+   "coord_source": "none - task-directed null",
+   "precision": "unknown",
+   "evidence": "MPDF: 'The exact location of Monroe Landing is not known other than it was south of Usal'; possibly within Sinkyone Wilderness SP; 1904 report of a new pier at Devilbliss Ranch to be called Monroe Landing.",
+   "notes": ""
+  },
+  {
+   "name": "Devilbliss Landing",
+   "coords": [],
+   "coord_source": "none - task-directed null",
+   "precision": "unknown",
+   "evidence": "MPDF: 'The exact location of Devilbliss Landing is not known'; George Devilbliss lived at Cottoneva Creek; shipping intelligence 1895-1896 only.",
+   "notes": ""
+  },
+  {
+   "name": "Unnamed Landing",
+   "coords": [],
+   "coord_source": "none - task-directed null",
+   "precision": "unknown",
+   "evidence": "MPDF/Davidson 1889:275: an abandoned trough chute one-third of a mile northwest of Uncle Abe's Landing, torn down by 1889; exact location unknown.",
+   "notes": "Uncle Abe's itself is unlocated, so this offset has no base point."
+  },
+  {
+   "name": "Uncle Abe's Landing",
+   "coords": [],
+   "coord_source": "none - task-directed null",
+   "precision": "unknown",
+   "evidence": "MPDF: 'less than a mile northwest of Elk Creek... not indicated on historic charts, therefore its exact location is unknown.' Davidson 1889:276: Greenwood Creek Landing is 1.5 mi NW of Uncle Abe's.",
+   "notes": ""
+  }
+ ],
+ "gaps": "SOURCES USED: (1) MPDF verbal anchors read from \"/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt\" (inventory at lines 1992-2967). (2) USGS GNIS DomesticNames_CA.txt (official download, feature IDs cited per entry; file at scratchpad Text/DomesticNames_CA.txt). (3) Davidson, Pacific Coast Pilot 1889 OCR (scratchpad davidson1889.txt) for period bearings/distances and three period lat/lon stations (Albion S point, Newport/Brushy Point, Bowens point). (4) Wikipedia coordinates (explicitly labeled) for Bowens Landing, Duncans Landing/Duncans Point, Signal Port, Kibesillah. (5) NOAA farallones doghole pages (local mirrors in scratchpad noaa_ports/): they corroborate park/cove settings but publish NO numeric coordinates (pins are Google Earth screenshot images); the live index URL 404'd today. GAPS AND CAUTIONS: Bromley Gulch and Bridgeport are bearing/distance derivations only (precision area, +/-400-500 m) - georeferencing the 1884/1889 USC&GS T-sheets or chart 661 would pin them, not done here. Chisholm, Saunders', New Haven, Rule's, Henley's are derived-from-verbal off sourced base points with stated error (+/-150-450 m). Joe Tongue's is a candidate area anchor only (GNIS Gualala Point standing in for 'one mile south of Gualala River'). Two GNIS records FAIL the coast sanity check and were rejected: Mallo Pass Creek prim (227983) sits ~3 km inland (New Haven derived from Davidson instead), and several stream prim points (Roseman Creek, Saint Orres Creek, Mitchell Creek, Newport PP, Westport PP) sit 200-900 m inland at Hwy 1 - flagged in notes where used. MPDF internal conflicts flagged: New Haven 'Manchester State Park' vs Mallo Pass position; Bromley 'Jug Handle SNR / 1.5 mi NW of Caspar' points north of Jughandle Creek proper. Six known-unknowns returned null per instructions, with the MPDF/chart verbal anchors recorded for Buster's/Scott's (chart #661 unnamed chute ~3 mi N of Saunders', 2 mi S of Arena Cove, end of Warren Drive). Davidson 1889 positions are pre-NAD27 datum: allow ~+/-200 m. No Calisphere URLs were needed."
+}

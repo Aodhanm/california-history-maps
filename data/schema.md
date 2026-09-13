@@ -73,3 +73,17 @@ Routes draw a polyline through their stops' coords, in order. `path_confidence` 
 3. Spanish quotes verbatim as Savage wrote them; concerns go in `notes`, never silent fixes.
 4. Counts on the landing page are computed from these files, never hand-typed.
 5. `scripts/check_counts.py` must pass before any commit that touches `data/`.
+
+## Optional feature/map fields added 2026-09-13 (lumber-ports; all data-gated, other maps unaffected)
+
+- `feature.radius` — circleMarker radius override (pin size = port class on lumber-ports).
+- `feature.active` — `{first, last}` years; when present the year slider filters by RANGE OVERLAP
+  instead of point-year containment (right model for long-lived ports).
+- `feature.facts` — `[["Label", "value"], …]` rendered as a small table in the popup.
+- `feature.photo` — `{url, credit, alt}` optional historic photo in the popup.
+- `map.era_presets` — `[{label, from, to}]` buttons that snap the year window to a named period.
+- `map.attribute_filters` — `[{key, label, values?, value_labels?}]` dropdown filters over feature
+  fields (string or array valued, e.g. `port_class`, `cargo`, `company`); values derived from the
+  data when omitted.
+- `map.unlocated` — features documented but deliberately NOT pinned (no coords); listed in the
+  About panel. The engine ignores this key; check_counts does not require coords for it.

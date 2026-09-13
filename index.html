@@ -121,6 +121,18 @@
         Slide the timeline to watch the chain grow.</p>
       </div>
     </a>
+    <a class="card" href="maps/lumber-ports.html">
+      <div class="thumb" style="background-image:url(assets/previews/lumber-ports.jpg)"></div>
+      <div class="body">
+        <h3>Lumber Ports of the California Coast, c.1850–1940</h3>
+        <p class="meta" data-count="lumber-ports">89 ports &amp; landings · 15 railroads · chute types · the doghole fleet</p>
+        <p>Every documented lumber shipping point from chute-only dogholes to the deepwater
+        mills of Humboldt Bay — the NRHP doghole-port inventory mapped with tonnage classes,
+        loading technology, companies, cargo streams, the logging railroads that reached
+        tidewater, and the lighthouses this deadly trade built. The last survivor of the
+        sailing fleet, the schooner C.A. Thayer, threads through it.</p>
+      </div>
+    </a>
     <a class="card" href="maps/secularization-missions.html">
       <div class="thumb" style="background-image:url(assets/previews/secularization-missions.jpg)"></div>
       <div class="body">
@@ -228,7 +240,7 @@
 
 <script>
 (function () {
-  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806"];
+  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806", "lumber-ports"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {

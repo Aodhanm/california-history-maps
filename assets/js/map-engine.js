@@ -11,7 +11,8 @@
   var state = {
     data: null, map: null, allMarkers: [],  // {feature, marker, layerId}
     layerGroups: {}, routeLines: [],
-    yearMin: null, yearMax: null, query: ''
+    yearMin: null, yearMax: null, query: '',
+    attrSel: {}  // data-declared attribute filters: key -> selected value ('' = all)
   };
 
   // ---------- helpers ----------
@@ -78,7 +79,7 @@
       return circ;
     }
     var opts = {
-      radius: 7, weight: 2, color: color, fillColor: color, fillOpacity: 0.85
+      radius: f.radius || 7, weight: 2, color: color, fillColor: color, fillOpacity: 0.85
     };
     if (precision === 'area') { opts.fillOpacity = 0.45; opts.dashArray = '3 3'; }
     if (precision === 'conjectural') { opts.fillOpacity = 0; opts.dashArray = '4 3'; }
@@ -99,7 +100,19 @@
     if (f.date && f.date.display) badges.push('<span class="badge date">' + esc(f.date.display) +
       (f.date.confidence && f.date.confidence !== 'exact' ? ' <em>(' + esc(f.date.confidence) + ')</em>' : '') + '</span>');
     if (badges.length) h += '<p class="badges">' + badges.join(' ') + '</p>';
+    if (f.photo && f.photo.url) {
+      h += '<figure class="popup-photo"><img src="' + esc(f.photo.url) + '" alt="' + esc(f.photo.alt || f.name) + '" loading="lazy">';
+      if (f.photo.credit) h += '<figcaption>' + esc(f.photo.credit) + '</figcaption>';
+      h += '</figure>';
+    }
     if (f.summary) h += '<p>' + esc(f.summary) + '</p>';
+    if (f.facts && f.facts.length) {
+      h += '<table class="facts"><tbody>';
+      f.facts.forEach(function (row) {
+        h += '<tr><th>' + esc(row[0]) + '</th><td>' + esc(row[1]) + '</td></tr>';
+      });
+      h += '</tbody></table>';
+    }
     if (f.series && f.series.length) {
       h += '<details class="series-box"><summary>' + esc(f.series_label || 'Dated series') +
            ' (' + f.series.length + ' entries)</summary>';
@@ -173,13 +186,31 @@
     var shown = 0;
     state.allMarkers.forEach(function (rec) {
       var f = rec.feature;
-      var y = featureYear(f);
-      var okYear = y == null || (y >= state.yearMin && y <= state.yearMax);
+      // features with an active range (f.active = {first,last}) filter by OVERLAP
+      // with the year window; point-dated features keep the original containment test
+      var okYear;
+      if (f.active && (f.active.first != null || f.active.last != null)) {
+        var af = f.active.first != null ? f.active.first : -Infinity;
+        var al = f.active.last != null ? f.active.last : Infinity;
+        okYear = af <= state.yearMax && al >= state.yearMin;
+      } else {
+        var y = featureYear(f);
+        okYear = y == null || (y >= state.yearMin && y <= state.yearMax);
+      }
       var hay = (f.name + ' ' + (f.summary || '') + ' ' + (f.tags || []).join(' ') + ' ' +
                  (f.native_groups || []).join(' ')).toLowerCase();
       var okQuery = !q || hay.indexOf(q) !== -1;
+      // data-declared attribute filters (string or array-valued feature fields)
+      var okAttr = true;
+      for (var k in state.attrSel) {
+        var want = state.attrSel[k];
+        if (!want) continue;
+        var v = f[k];
+        if (Array.isArray(v)) { if (v.indexOf(want) === -1) okAttr = false; }
+        else if (v !== want) okAttr = false;
+      }
       var group = state.layerGroups[rec.layerId];
-      var on = okYear && okQuery;
+      var on = okYear && okQuery && okAttr;
       if (group) {
         if (on && !group.hasLayer(rec.marker)) group.addLayer(rec.marker);
         if (!on && group.hasLayer(rec.marker)) group.removeLayer(rec.marker);
@@ -227,6 +258,50 @@
     s1.addEventListener('input', upd); s2.addEventListener('input', upd);
     wrap.appendChild(s1); wrap.appendChild(s2); wrap.appendChild(lbl);
     bar.appendChild(wrap);
+
+    // era preset buttons (data-declared): snap the year window to a named period
+    (data.era_presets || []).forEach(function (p) {
+      var b = el('button', 'era-btn', esc(p.label));
+      b.title = p.from + '–' + p.to;
+      b.addEventListener('click', function () {
+        s1.value = Math.max(lo, p.from); s2.value = Math.min(hi, p.to); upd();
+      });
+      wrap.appendChild(b);
+    });
+    if (data.era_presets && data.era_presets.length) {
+      var allBtn = el('button', 'era-btn era-all', 'All years');
+      allBtn.addEventListener('click', function () { s1.value = lo; s2.value = hi; upd(); });
+      wrap.appendChild(allBtn);
+    }
+
+    // data-declared attribute filter dropdowns (e.g. port class, cargo, company)
+    (data.attribute_filters || []).forEach(function (af) {
+      var sel = el('select', 'attr-filter');
+      sel.setAttribute('aria-label', af.label);
+      var values = af.values;
+      if (!values) {  // derive from the features
+        var seen = {};
+        state.allMarkers.forEach(function (r) {
+          var v = r.feature[af.key];
+          (Array.isArray(v) ? v : v != null ? [v] : []).forEach(function (x) { seen[x] = 1; });
+        });
+        values = Object.keys(seen).sort();
+      }
+      var opt0 = el('option', null, esc(af.label) + ': all');
+      opt0.value = '';
+      sel.appendChild(opt0);
+      values.forEach(function (v) {
+        var o = el('option', null, esc(af.value_labels && af.value_labels[v] || v));
+        o.value = v;
+        sel.appendChild(o);
+      });
+      sel.addEventListener('change', function () {
+        state.attrSel[af.key] = this.value;
+        applyFilters();
+      });
+      state.attrSel[af.key] = '';
+      bar.appendChild(sel);
+    });
 
     // count + cite
     bar.appendChild(el('span', 'count', '<span id="feature-count"></span>'));
