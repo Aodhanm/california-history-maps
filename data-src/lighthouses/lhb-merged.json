@@ -1,0 +1,1533 @@
+{
+ "Alcatraz Island": [
+  {
+   "station": "Alcatraz Island \u2014 TEST OF THE 'FIRST ON THE PACIFIC COAST' CLAIM",
+   "report_year": "1857",
+   "page": "229",
+   "quote": "There were no lights or other aids to navigation at that time in the harbors or bays on the Pacific coast of the United States.",
+   "establishes": "The Board's own baseline. 'That time' is defined two paragraphs earlier as 9 October 1852, when the Board took charge under the act of 31 August 1852. So every Pacific-coast light is a post-1852 Light-House Board creation. Verified against the page image (leaf n228).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Alcatraz Island \u2014 TEST OF THE 'FIRST ON THE PACIFIC COAST' CLAIM",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "376 | Alcatraz | On the island in the harbor of San Francisco, Cal. ... | F. ... 14 | White. | 36 | 166 | [+ 3] | 1854 | ... | Fog-bell, struck by machinery. This light can be seen 12 miles outside of the Heads.",
+   "establishes": "The Board's own printed Light List, PACIFIC COAST section. The column head is 'When built.' Alcatraz = 1854. CRITICAL: in the same table Point Pinos (No. 370) is ALSO given as 1854, and every other California station is 1855 or later (Point Loma 1855, Point Conception 1855, Farrallon 1855, Point Bonita 1855, Fort Point 1855, Santa Barbara 1856, Humboldt 1856, Crescent City 1856). The Board therefore records TWO California stations built in 1854 and does not rank them. Both pages verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1852",
+   "page": "95 (Table A)",
+   "quote": "Alcatraz island .......... do ............. 15,000 00",
+   "establishes": "Alcatraz was one of eight Pacific-coast light-houses contracted under the Secretary of the Treasury before the Board existed, each carried at $15,000. The same page's note reads: 'A special transfer of all works connected with the light-house establishment on the Pacific coast was made to the board on December 22, 1852.' Verified against the page image (leaf n94).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1853",
+   "page": "191",
+   "quote": "The latest reports on the subject announce the completion of the light-house towers on Alcatraz island, and at Fort Point, Bay of San Francisco, Point Pinas, (Monterey,) and on the Farrallones island.",
+   "establishes": "By the FY1853 report the TOWERS at Alcatraz, Fort Point, Point Pinos and the Farallones were reported complete \u2014 but complete is not lighted. The same page states the eight contract light-houses were 'transferred to this office December 22, 1852,' Capt. H. W. Halleck being inspector. Verified against the page image (leaf n192).",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1853",
+   "page": "192",
+   "quote": "By the last account from San Francisco, it appears that the officer charged with setting up the illuminating apparatus has not been able to procure competent persons to perform that service at the Alcatraz light",
+   "establizes": "",
+   "establishes": "Explains why completion of the tower did not mean exhibition of the light: no one competent in San Francisco to set up the apparatus. [OCR text; page image not separately pulled for this sentence.]",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1855",
+   "page": "268",
+   "quote": "Fog-bells are under construction for Point Conception, Fort Point, Alcatraz island, and mouth of the Columbia river.",
+   "establishes": "Fog-bell for Alcatraz still under construction in the FY1855 report. Verified against the page image (leaf n267).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "Fog-bells have been placed at Point Conception, Farralones, Fort Point, Alcatraz island, and Cape Hancock light-houses.",
+   "establishes": "Alcatraz fog-bell in place by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At Alcatraz some needful but inexpensive renovations were made.",
+   "establishes": "Condition report. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1868",
+   "page": "388",
+   "quote": "370. Alcatras. \u2014 On examining this station quite extensive repairs were found necessary, and have been accordingly made, viz: The gallery floor and its iron fastening have been taken up; the brick-work of the tower, from where it passes through the roof of the keeper's dwelling, has been repointed; a coat of cement has been given to the coping of the tower; a new gallery floor has been laid; the boiler iron covering of the lower part of the lantern has been removed, straightened and refitted, the glass-work of the lantern reset, chimneys repointed and plastered; the tower has received a coat of mortar; a drain for the cellar has been constructed.",
+   "establishes": "The fullest Era-1 physical description of the Alcatraz structure: a brick tower rising through the roof of the keeper's dwelling, with an iron-clad lantern. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1868"
+  }
+ ],
+ "Fort Point (= 'Battery Point' in the Board's Era-1 usage)": [
+  {
+   "station": "Fort Point (= 'Battery Point' in the Board's Era-1 usage)",
+   "report_year": "1852",
+   "page": "80",
+   "quote": "The small light authorized to be placed on Battery point is to serve as a mere harbor or range light, while this is to mark from seaward the entrance to the bay.",
+   "establishes": "WHY the station existed, and a naming trap: in the Board's Era-1 text 'Battery Point' ALWAYS means the San Francisco fort site (later Fort Point), never Crescent City's Battery Point. Confirmed by the 1858 Light List, which fixes the Farallon position 'from Fort or Battery point, San Francisco bay, Cal.' Verified against the page image (leaf n79).",
+   "identifier": "SecTreasAnnReport1852"
+  }
+ ],
+ "Fort Point / Battery Point": [
+  {
+   "station": "Fort Point / Battery Point",
+   "report_year": "1853",
+   "page": "197",
+   "quote": "The light-house authorized and built on Battery Point, Bay of San Francisco, having been taken down to make room for the works of fortification authorized by law at that point, an appropriation, it is believed, should be made for erecting a light of greater power than the one originally authorized for Battery Point, or Point Lobos, the outer entrance of the bay, and an estimate is accordingly submitted in list B.",
+   "establishes": "The original Battery Point tower was BUILT and then TAKEN DOWN for the fortification (Fort Point) before it was ever lit. Verified against the page image (leaf n198).",
+   "identifier": "SecTreasAnnReport1853"
+  }
+ ],
+ "Fort Point": [
+  {
+   "station": "Fort Point",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "375 | Fort Point | On the south side of the entrance to the harbor of San Francisco, Cal. ... | F. | 12 | White, | 36 | 52 | [+ 5] | 1855 | ... | Fog-bell, struck by machinery.",
+   "establishes": "Board's Light List: Fort Point 'When built' 1855, fifth-order, light 52 feet above the sea, fog-bell. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Fort Point",
+   "report_year": "1863",
+   "page": "159",
+   "quote": "The progress of the fortification works at Fort Point, entrance to San Francisco bay, having rendered the removal of the light-house and fog-signal at that point imperatively necessary, steps have been taken to remove the light to a position over the stairway of the fort, and the fog-signal to a point outside the work near the two-gun battery. The work is now in progress, and the new tower, together with suitable quarters for the keepers, will, it is hoped, soon be completed.",
+   "establishes": "A SECOND removal of the Fort Point light for the fortification, in FY1863 \u2014 the light was moved onto the fort itself. Verified against the page image (leaf n166).",
+   "identifier": "SecTreasAnnReport1863"
+  },
+  {
+   "station": "Fort Point",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At Fort Point, the fog-bell was taken from its original position on a framework in front of the fort and hung on an angle of the fort facing seaward. Slight repairs have been made to the dwelling.",
+   "establishes": "Relocation of the Fort Point fog-bell onto the fort. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Fort Point",
+   "report_year": "1876",
+   "page": "793",
+   "quote": "458. Fort Point, entrance to San Francisco Harbor, California. \u2014 A bridge has been built from the bluff near the keeper's dwelling to the fort on which the light and fog-bell are placed. Formerly the keepers were compelled to go from the dwelling down steep stairs and up through the fort in order to get to the tower or fog-signal, a very dangerous task during dark and stormy nights.",
+   "establishes": "Confirms that by 1876 the light and fog-bell stood ON the fort, with the dwelling on the bluff behind. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1876"
+  }
+ ],
+ "Point Bonita": [
+  {
+   "station": "Point Bonita",
+   "report_year": "1852",
+   "page": "80",
+   "quote": "In California. \u2014 For a light-house to be placed on Point Boneta, San Francisco, $25,000.",
+   "establishes": "The original appropriation request. The same paragraph gives the reason: 'The proposed light-house at the entrance to the bay of San Francisco is necessary to the safety of navigators entering that port and bay.' Verified against the page image (leaf n79).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1855",
+   "page": "268",
+   "quote": "During the past year, the light-house at Point Bonita has been erected and the light exhibited.",
+   "establishes": "Point Bonita first lighted within the year covered by the FY1855 report (report dated autumn 1855). The Board gives no day-date. The same page adds: 'A fog-gun has been placed and put in operation at that point.' Verified against the page image (leaf n267).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "374 | POINT BONITA | On the point north side of the entrance to San Francisco bay, Cal. ... | F. | 24 | White. | 45 | 306 | [+ 2] | 1855 | ... | Low brick tower rising from keeper's dwelling. Fog-bell struck by machinery.",
+   "establishes": "Board's Light List: built 1855, second-order ([+2]), light 306 feet above the sea. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1874",
+   "page": "689 (Appendix on fog-signals, by Joseph Henry)",
+   "quote": "Guns have been employed on the United States coast, first under the direction of General Bates, engineer of the twelfth district, at Point Bonita, San Francisco Bay, California. The gun at this station consisted of a 24-pounder, furnished by the War Department. The necessary arrangements being made, by the construction of a powder-house, and laying of a platform, and employment of a gunner, notice to mariners was given that after the 8th of August, 1856, a signal-gun would be fired every hour and half hour, night and day, during foggy or thick weather.",
+   "establishes": "Exact date the Point Bonita fog-gun went into service: 8 August 1856. Joseph Henry's own retrospective. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "411. Point Bonita, entrance to San Francisco Harbor, California. \u2014 An appropriation for the establishment of a first-class steam fog-signal at this point was made March 3, 1871. The structure was completed, the machinery placed in position, and the signal, a syren, was put in operation May 29, 1872.",
+   "establishes": "Date the Point Bonita first-order steam siren began: 29 May 1872. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1875",
+   "page": "791",
+   "quote": "The light at Point Bonita is 306 feet above the sea. At this height the light is very frequently obscured by a light haze or fog, when at the steam fog-signal there is no fog or haze. Pilots, steamship captains, and others frequently report passing Point Bonita without seeing the light... A good light on this point is very necessary, it being at the entrance of San Francisco Bay and harbor, and an appropriation of $25,000 is asked for moving the present Point Bonita light house to this point.",
+   "establishes": "The Board's own reason for moving the Point Bonita light down the headland \u2014 the origin of the 1877 lower light. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  }
+ ],
+ "Point Pinos": [
+  {
+   "station": "Point Pinos",
+   "report_year": "1853",
+   "page": "191",
+   "quote": "The latest reports on the subject announce the completion of the light-house towers on Alcatraz island, and at Fort Point, Bay of San Francisco, Point Pinas, (Monterey,) and on the Farrallones island.",
+   "establishes": "Point Pinos tower complete by the FY1853 report. Verified against the page image (leaf n192).",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Point Pinos",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "At the close of the Mexican war, and the acquisition of California, the President gave orders through the General Land Office to the surveyor general of the Pacific coast to reserve, of the public domain on that coast, certain sites for light-houses and other public purposes, among which was the site for a light-house at Point Pinos. An appropriation was made and the light exhibited in 1854.",
+   "establishes": "THE ONLY explicit Board statement in these volumes that any California light was exhibited in 1854 \u2014 and it is Point Pinos, not Alcatraz. Also gives the origin of the reservation. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  },
+  {
+   "station": "Point Pinos",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "370 | Point Pinos | On the point, south side of the entrance to the harbor of Monterey, Cal. ... | F. | 13 | Gray. | 35 | 91 | [+ 3] | 1854 | ... | Low brick tower rising from keeper's dwelling.",
+   "establishes": "Board's Light List: Point Pinos 'When built' 1854, third-order, light 91 feet above the sea. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  }
+ ],
+ "Point Conception": [
+  {
+   "station": "Point Conception",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "Major Bache lost no time, after his arrival in California, in taking the necessary steps for remodelling the important light-houses at the Farallones, Point Conception, and Point Loma; all of which, it is expected, are lighted by this time.",
+   "establishes": "The three 'important' California towers had to be REMODELLED before they could be lit, because the lanterns procured did not fit the contract towers. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "In the twelfth light-house district, embracing the entire Pacific coast, the light-houses at Point Loma, San Diego, Santa Barbara, Point Conception, Farralones, and Cape Hancock, have been completed and lighted.",
+   "establishes": "Point Conception (with Point Loma, Santa Barbara and the Farallones) completed and lighted by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "369 | POINT CONCEPTION | Near the pitch of Point Conception, Cal. ... | Revg. | 0 30 | 23 | White. | 35 | 250 | [+ 1] | 1855 | ... | Low brick tower rising from keeper's dwelling. Fog-bell, struck by machinery.",
+   "establishes": "Board's Light List: built 1855, FIRST order ([+1]), revolving at 30-second intervals, light 250 feet above the sea, fog-bell. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1872",
+   "page": "546",
+   "quote": "405. Point Conception, sea-coast of California. \u2014 An appropriation was made March 3, 1871, for the establishment of a first-class steam fog-signal. A thorough examination and survey of the point were made with a view to ascertain the best location for the signal, and the supply of water. The structure has been completed, and the machinery placed in position.",
+   "establishes": "Point Conception steam fog-signal built under the act of 3 March 1871. Verified against the page image (leaf n571).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1875",
+   "page": "790",
+   "quote": "437. Point Conception, sea-coast of California. \u2014 The old dwelling at this station is in a bad condition, and the best plan is to pull it down, leaving the tower by itself... As the tower is in the center of the house, the latter having been built around it, when the walls of the house are removed the tower will be isolated and complete in itself. An appropriation of $12,000 is asked for the purpose of building the new dwellings.",
+   "establishes": "Describes the original form of the station \u2014 a tower built inside the dwelling \u2014 and the Board's plan to isolate it. Verified against the page image (leaf n846).",
+   "identifier": "SecTreasAnnReport1875"
+  }
+ ],
+ "Battery Point / Crescent City": [
+  {
+   "station": "Battery Point / Crescent City",
+   "report_year": "1857",
+   "page": "255",
+   "quote": "The Santa Barbara light-house has been finished, and the light exhibited, and also the light authorized at Crescent City.",
+   "establishes": "Crescent City light first exhibited in the year covered by the FY1857 report (i.e. the season of 1856, matching the Light List's 'when built 1856'). The Board gives no day-date. NOTE: the Board never calls this station 'Battery Point'. Verified against the page image (leaf n254).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Battery Point / Crescent City",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "380 | Crescent City | On the seaward extremity of the island point forming the southern and western side of the harbor. ... | F. V. F. | 1 30 | 14 | Stone . | 35 | 80 | [+ 4] | 1856 | ... | Low brick tower rising from keeper's dwelling.",
+   "establishes": "Board's Light List: Crescent City built 1856, fourth order, fixed varied by flashes at 1m30s, light 80 feet above the sea; the position description is the Battery Point islet. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Battery Point / Crescent City",
+   "report_year": "1875",
+   "page": "792",
+   "quote": "457. Crescent City, sea-coast of California. \u2014 This station is in a dilapidated condition, and should be rebuilt if the light is to be continued. The entire wood-work of the keeper's stone dwelling must be removed. The ends of many of the lower floor-timbers are entirely gone, and the floor is held up by shores. But the light itself is of little consequence. No vessel can enter Crescent City harbor at night, and no vessel bound up or down the coast can, with safety, run near enough to make the light. The rocks off Point St. George are one of the chief dangers to navigation on the coast. A first-order light should be placed there. When that is done the Crescent City station should be discontinued.",
+   "establishes": "The Board's blunt Era-1 verdict on Crescent City: structurally failing and navigationally near-useless; it recommends discontinuance once a St. George Reef light exists. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  }
+ ],
+ "Humboldt Harbor": [
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1852",
+   "page": "95 (Table A)",
+   "quote": "Humboldt harbor .......... do ............. 15,000 00",
+   "establishes": "Humboldt was one of the eight $15,000 pre-Board contract light-houses on the Pacific coast. Verified against the page image (leaf n94).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "The light and range at Humboldt harbor will be exhibited about the first of November.",
+   "establishes": "The Board's forecast of Humboldt's first lighting: about 1 November 1856. Note it was a LIGHT AND RANGE. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "379 | HUMBOLDT | On the north side of the entrance to Humboldt harbor, Cal. It is 1/4 mile from the inlet, and about midway between the sea and bay shores. ... | F. | 12 | White. | 45 | 53 | [+ 4] | 1856 | ... | Brick tower rising from keeper's dwelling. Fog-bell, struck by machinery.",
+   "establishes": "Board's Light List: Humboldt built 1856, fourth order, light only 53 feet above the sea, fog-bell. The low, sand-spit siting is the root of its later troubles. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Humboldt Harbor \u2014 the abandonment question",
+   "report_year": "1866",
+   "page": "225",
+   "quote": "The light-house at Humboldt was reported to be in a critical condition by reason of the action of heavy storms and high tides. The peninsula on which this light-house stands is about a half mile wide and but a few feet above the level of the sea, and composed of loose, drifting sand... It is doubtful, however, whether any work except one of a very expensive character can permanently secure the light-house.",
+   "establishes": "First Board warning that the site was not tenable. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1866"
+  },
+  {
+   "station": "Humboldt Harbor \u2014 the abandonment question",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "In this view of the case the board has under consideration the propriety of removing this light to a point about four miles south of the entrance to Humboldt bay, known as Table bluff. This point is salient, with a firm and permanent foundation for a light-house, and a light there would subserve the purposes of navigation better than where it is now placed; it is not so frequently enveloped in fog as the spit where the light now stands.",
+   "establishes": "THE EARLIEST Board statement of the intention that eventually produced the Table Bluff station and the abandonment of Humboldt Harbor. The actual abandonment falls outside the volumes obtained (see 'gaps'). Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1874",
+   "page": "683",
+   "quote": "452. Humboldt, coast of California. \u2014 An appropriation of $10,000 was made by Congress March 3, 1873, for a steam fog-signal at this station. The work was commenced in December of 1873, and was completed in March last... The signal went into operation on the 10th of May last.",
+   "establishes": "Humboldt steam fog-signal in operation 10 May 1874; cost $10,000 under the act of 3 March 1873. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1874"
+  }
+ ],
+ "Farallon Islands": [
+  {
+   "station": "Farallon Islands",
+   "report_year": "1852",
+   "page": "80",
+   "quote": "The distance of the Farrallones, nearly twenty-nine miles, forbids its being of any further use than as an off-shore sea-coast light, and of the greatest importance in that respect.",
+   "establishes": "The Board's statement of the Farallon light's FUNCTION, used to justify a separate light at Point Bonita. Verified against the page image (leaf n79).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Farallon Islands",
+   "report_year": "1853",
+   "page": "191",
+   "quote": "The latest reports on the subject announce the completion of the light-house towers on Alcatraz island, and at Fort Point, Bay of San Francisco, Point Pinas, (Monterey,) and on the Farrallones island.",
+   "establishes": "Farallon tower complete by the FY1853 report. Verified against the page image (leaf n192).",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Farallon Islands",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "372 | FARRALLON | On the largest or southeast Farrallon islet, 30 miles south 75\u00b0 12' west, true, from Fort or Battery point, San Francisco bay, Cal. ... | Revg. | 1 00 | 26 | Brick. | 29 | 360 | [+ 1] | 1855 | ... | Tower on the highest peak of the rock.",
+   "establishes": "Board's Light List: Farallon built 1855, FIRST order, revolving at one-minute intervals, light 360 feet above the sea, tower on the highest peak. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Farallon Islands",
+   "report_year": "1874",
+   "page": "681",
+   "quote": "442. Farallones, off entrance to San Francisco Bay. \u2014 The dwelling at this station is very much out of repair, and is much too small for the wants of a first-order station. It was built in 1855 out of rock quarried on the island, and is very damp.",
+   "establishes": "Dates and describes the original Farallon keepers' dwelling: 1855, of rock quarried on the island. The Board repeated this sentence verbatim in 1875 (p. 791) and 1876 (p. 793). [OCR text; not verified against the page image, but the identical sentence appears in three successive reports.]",
+   "identifier": "SecTreasAnnReport1874"
+  }
+ ],
+ "Santa Barbara": [
+  {
+   "station": "Santa Barbara",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "In the twelfth light-house district, embracing the entire Pacific coast, the light-houses at Point Loma, San Diego, Santa Barbara, Point Conception, Farralones, and Cape Hancock, have been completed and lighted.",
+   "establishes": "Santa Barbara completed and lighted by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Santa Barbara",
+   "report_year": "1857",
+   "page": "255",
+   "quote": "no title has been obtained to any site on that coast from individuals or corporations, except at Santa Barbara, where the corporate authorities of the town deeded the necessary land to the United States. ... The Santa Barbara light-house has been finished, and the light exhibited, and also the light authorized at Crescent City.",
+   "establishes": "Santa Barbara was the ONLY California site whose title came from a private/corporate grantor in this period \u2014 the town deeded it. And the light was 'finished, and the light exhibited.' Verified against the page image (leaf n254).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Santa Barbara",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "368 | Santa Barbara | On the point 2 miles south-westerly from Santa Barbara landing, Cal. ... | F. R. | 12 | Gray. | 34 | 180 | [+ 4] | 1856 | ... | RED light. Low brick tower rising from keeper's dwelling.",
+   "establishes": "Board's Light List: Santa Barbara built 1856, fourth order, and originally a RED light 180 feet above the sea. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Santa Barbara",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At Santa Barbara some repairs are required to the cellar, and some slight renovation of plastering. The lens apparatus requires the addition of one or more panels, the present arc of illumination being limited to 180\u00b0, and vessels approaching outside of this angle cannot see the light.",
+   "establishes": "A defect statement: the Santa Barbara lens covered only 180 degrees. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  }
+ ],
+ "Point Loma (Old)": [
+  {
+   "station": "Point Loma (Old)",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "Major Bache lost no time, after his arrival in California, in taking the necessary steps for remodelling the important light-houses at the Farallones, Point Conception, and Point Loma; all of which, it is expected, are lighted by this time.",
+   "establishes": "Point Loma had to be remodelled before lighting; the Board expected it lit by autumn 1855. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Loma (Old)",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "In the twelfth light-house district, embracing the entire Pacific coast, the light-houses at Point Loma, San Diego, Santa Barbara, Point Conception, Farralones, and Cape Hancock, have been completed and lighted.",
+   "establishes": "Point Loma completed and lighted by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Point Loma (Old)",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "365 | POINT LOMA | On the west side of the entrance to San Diego bay, Cal. ... | F. | 25 | Dark . | 35 | 457 | [+ 3] | 1855 | ... | Low brick tower rising from keeper's dwelling. Mag. variation 12\u00b0 26' east.",
+   "establishes": "Board's Light List: Point Loma built 1855, third order, light 457 feet above the sea \u2014 the highest light in the United States at that date, and the fact that later doomed it to fog. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  }
+ ],
+ "Cape Mendocino": [
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1867",
+   "page": "238",
+   "quote": "At Cape Mendocino the necessary examinations were made to select a proper site for the light-house authorized by Congress, and upon approval of the plans and estimates the work was commenced... On the 8th of September, during a fog, the steam tender Shubrick, whilst on her way from San Francisco with materials for the structure, went ashore about thirty miles below Cape Mendocino, and will probably prove a total loss.",
+   "establishes": "Construction begun in 1867 and the loss of the lighthouse tender Shubrick with Cape Mendocino materials, 8 September 1867. One man drowned landing brick. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1869",
+   "page": "480",
+   "quote": "In November everything was ready for the exhibition of the light, and after proper notice it was shown for the first time on the night of December 1, 1868, and this important and very difficult work was considered as completed.",
+   "establishes": "CAPE MENDOCINO FIRST LIGHTED: the night of 1 December 1868. The same passage records that the tower was manufactured in San Francisco, the lantern reached San Francisco February 1868, the lens was shipped 5 August 1868, and everything was landed at Eureka and hauled some forty miles to the cape. Verified against the page image (leaf n517).",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1871",
+   "page": "540",
+   "quote": "401. Cape Mendocino, sea-coast of California. \u2014 The brick dwelling-house at this station was so badly injured by an earthquake on March 2, that it was deemed necessary to pull it down, and erect in its stead a double house of wood.",
+   "establishes": "Earthquake of 2 March 1871 destroyed the Cape Mendocino keepers' dwelling. Verified against the page image (leaf n564).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1873",
+   "page": "670",
+   "quote": "438. Cape Mendocino, sea-coast of California. \u2014 There is a settlement of the ground, caused by an earthquake, in the ravine to the north of the tower, the limits of which are well defined by a continuous crack in the earth. The south line of this crack passes through one end of the cement retaining-wall and within 15 feet of the tower... A suit, Buhne vs. Chism, to eject the light-house keepers at this station \u2014 a suit involving the title to the site \u2014 was decided on the 10th of October in favor of the United States.",
+   "establishes": "Earthquake ground failure within 15 feet of the tower, and the title suit Buhne vs. Chism decided 10 October 1872/73 for the United States. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1873"
+  }
+ ],
+ "Point Reyes": [
+  {
+   "station": "Point Reyes",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "A contract was entered into recently, for erecting the light-house at Punta de los Reyes; but the work was not commenced, in consequence of difficulty growing out of a claim to the land selected as the site for the light-house.",
+   "establishes": "The Point Reyes title obstruction begins in FY1855 \u2014 fifteen years before the light was shown. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1868",
+   "page": "388",
+   "quote": "The exorbitant price for a spot valueless for any other purpose, which has been demanded by the owners of the rancho on which the point is situated, has been for several years the sole obstacle in the way of establishing a light-house there.",
+   "establishes": "The Board's explanation for the delay: the rancho owners' price. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1868"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1869",
+   "page": "479",
+   "quote": "Inasmuch as the cost of condemnation would have been nearly if not quite as great, and the delay very considerable, the Board accepted this offer, and a deed has been made, which was approved by the Attorney General of the United States, the deed recorded, and the purchase-money paid; so that after negotiating for fifteen years the United States is in possession of the requisite site at the Point, and landing privileges in Drake's Bay, and the last obstacle to an early beginning of the work removed.",
+   "establishes": "Site finally purchased for $6,000 in United States gold coin after fifteen years of negotiation; $49,288.12 then available for the works, with $45,000 more asked. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1871",
+   "page": "540",
+   "quote": "The work was completed in November, and the Light was exhibited for the first time on the night of December 1, 1870.",
+   "establishes": "POINT REYES FIRST LIGHTED: the night of 1 December 1870. The same page records the iron tower was landed at Drake's Bay and hauled to the top of the bluff on 9 October 1870, then lowered down to the site; and that the steam fog-signal cistern holds 100,000 gallons fed by a 10,000 sq ft water-shed. Verified against the page image (leaf n564).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "414. Point Reyes, sea-coast of California. \u2014 An appropriation of $10,000 was made by Congress, approved June 10, 1872, for rebuilding and re-establishing the steam fog-signal station at this point, which was destroyed by fire April 28, 1872.",
+   "establishes": "Point Reyes fog-signal destroyed by fire 28 April 1872; $10,000 for rebuilding. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  }
+ ],
+ "Pigeon Point": [
+  {
+   "station": "Pigeon Point",
+   "report_year": "1857",
+   "page": "234",
+   "quote": "two lights have been recommended by interested parties in California, one to mark the seacoast at a point about halfway between Monterey and San Francisco bays, near Anna Nuevo, or Pigeon Point, at an estimated cost of $36,311",
+   "establishes": "First appearance of Pigeon Point / A\u00f1o Nuevo in the Board's reports \u2014 as a recommendation from 'interested parties in California,' estimated at $36,311. Verified against the page image (leaf n233).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Pigeon Point",
+   "report_year": "1871",
+   "page": "539",
+   "quote": "Pigeon Point, sea-coast of California. \u2014 An appropriation of $90,000 was made March 3, 1871, for the erection of a first-class Light-house and Fog-signal at this point. The structures are to consist of a masonry tower, which is to be one hundred feet high, from base to focal plane. The elevation of the Light above mean sea-level will be one hundred and fifty-eight feet. The keeper's dwelling is to be a double two-story house, built of wood. Work on the above structures was commenced on the 9th of June.",
+   "establishes": "Cost ($90,000, act of 3 March 1871), order (first-class), tower height (100 ft), focal height (158 ft), and start of work (9 June 1871). Verified against the page image (leaf n565 context; the same text appears in the OCR of p. 539).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Pigeon Point",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "A steam fog-whistle has been erected on this point, and has been in operation since September 10, 1871.",
+   "establishes": "Pigeon Point steam fog-whistle in operation from 10 September 1871 \u2014 over a year BEFORE the light. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Pigeon Point",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "429. Pigeon Point, sea-coast of California. \u2014 The work on the light-house at this station was resumed in July, 1872, and completed in October. It was illuminated for the first time on the 15th of November, 1872.",
+   "establishes": "PIGEON POINT FIRST LIGHTED: 15 November 1872. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  }
+ ],
+ "A\u00f1o Nuevo": [
+  {
+   "station": "A\u00f1o Nuevo",
+   "report_year": "1868",
+   "page": "388",
+   "quote": "Point Ano Nuevo. \u2014 An appropriation has been made, also, for a first-order light at Point Ano Nuevo. The site selected is an island about a quarter of a mile distant from the main land, and has been reserved for light-house purposes by the President of the United States. Nevertheless, the owners of the rancho claim the title to the island to be vested in them.",
+   "establishes": "A first-order LIGHT was appropriated for A\u00f1o Nuevo Island and a presidential reservation made, but title was contested. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1868"
+  },
+  {
+   "station": "A\u00f1o Nuevo",
+   "report_year": "1869",
+   "page": "478",
+   "quote": "it is doubtful which of the two, the island at Point Ano Nuevo, or Pigeon Point, six miles distant, would best subserve the interests of navigation. But both points are upon the same rancho, (Punta del A\u00f1o Nuevo,) and it was not possible to obtain a site at either upon such terms as the Board could agree to.",
+   "establishes": "The Board treated A\u00f1o Nuevo and Pigeon Point as alternatives on the same rancho; the choice of Pigeon Point for the light, and A\u00f1o Nuevo for a fog-signal only, follows from this. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "A\u00f1o Nuevo",
+   "report_year": "1872",
+   "page": "546",
+   "quote": "408. A\u00f1o Nuevo Island, sea-coast of California. \u2014 A steam fog-whistle and keeper's dwelling have been constructed on this island, and it has been in operation since the 29th of May of this year.",
+   "establishes": "WHAT WAS ACTUALLY BUILT at A\u00f1o Nuevo in Era 1: a steam fog-whistle and keeper's dwelling, in operation from 29 May 1872. NO light. A\u00f1o Nuevo appears in every later Era-1 fog-signal list and never in a first-lighting table. Verified against the page image (leaf n571).",
+   "identifier": "SecTreasAnnReport1872"
+  }
+ ],
+ "Point Hueneme": [
+  {
+   "station": "Point Hueneme",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "367 | POINT HUENEME | ...... | Authorized.",
+   "establishes": "Point Hueneme was already an authorized but unbuilt station in the 1858 Light List \u2014 sixteen years before it was lit. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1871",
+   "page": "538",
+   "quote": "Point Hueneme, sea-coast of California, east side of southern entrance to Santa Barbara Channel. \u2014 An appropriation of $10,000 is recommended for the erection of a first-class steam Fog-signal at this point, which is directly opposite Anacapa Island. With a first-order Light on the eastern end of Anacapa Island, and a steam Fog-signal on the western extremity of Point Hueneme, the southern approaches to Santa Barbara Channel will be well marked, and the navigation of the waters of that portion of California coast rendered less dangerous.",
+   "establishes": "WHY: the Board's original 1871 scheme was a LIGHT on Anacapa and only a FOG-SIGNAL at Hueneme. The Anacapa light was never built; Hueneme got the light instead. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1872",
+   "page": "546",
+   "quote": "Point Hueneme, Santa Barbara Channel, California. \u2014 An appropriation of $10,000, approved June 10, 1872, has been made for the establishment of a first-class fog-signal at this point.",
+   "establishes": "$10,000 appropriated 10 June 1872 for a fog-signal. Verified against the page image (leaf n571).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "422. Point Hueneme, entrance to the Santa Barbara Channel, California. \u2014 As in the preceding case proceedings of condemnation of the site selected and surveyed are still progressing. An appropriation, made June 10, 1872, of $22,000, is available for constructing a light-house at this locality.",
+   "establishes": "By 1873 the project had become a LIGHT-HOUSE with $22,000 available (act of 10 June 1872). Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1875",
+   "page": "789",
+   "quote": "435. Point Hueneme, sea-coast of California. \u2014 The light at this station was exhibited for the first time on the evening of December 15, 1874. Plenty of water for irrigation is had from the artesian well on the reservation. It is important that a steam fog-signal should be established here. The numerous passenger and other steamers, in going up and down the coast, pass inside Anacapa Island, and very near the coast, which here makes a considerable elbow. The land at this point is quite low, and is so for ten miles inland, so that it is difficult to see it if there is any fog.",
+   "establishes": "POINT HUENEME FIRST LIGHTED: the evening of 15 December 1874 \u2014 and the Board's own statement of why the point is dangerous. Corroborated by the report's own table, p. 730: 'Point Hueneme | On the main-land, at the eastern entrance to the Santa Barbara Channel. | December 15, 1874.' Both verified against the page images (leaves n845 and n786).",
+   "identifier": "SecTreasAnnReport1875"
+  }
+ ],
+ "Point Fermin": [
+  {
+   "station": "Point Fermin",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "366 | San Pedro | On Point Fermin | ...... | Authorized.",
+   "establishes": "The Board carried 'San Pedro ... On Point Fermin' as an authorized but unbuilt station from 1858 \u2014 sixteen years before lighting. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Fermin",
+   "report_year": "1871",
+   "page": "538",
+   "quote": "Point Fermin, sea-coast of California, near entrance to San Pedro Harbor. \u2014 An appropriation of $25,000 is recommended to establish a fourth-order Light-house and a steam Fog-signal at this point to mark the approaches of San Pedro Harbor... The number of vessels navigating near the southern coast of California, between there and San Diego, and passing through the Santa Barbara Channel, has been greatly increased within the last two years. All Coast steamers stop at San Pedro, near Wilmington, the port of Los Angeles, and a Light-house and Fog-signal, as guides to the entrance of the harbor, are of great importance.",
+   "establishes": "WHY POINT FERMIN WAS BUILT, in the Board's own words: the growth of the San Pedro / Wilmington / Los Angeles coastal steamer trade. Order recommended: fourth. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Point Fermin",
+   "report_year": "1874",
+   "page": "679-680",
+   "quote": "432. Point Fermin, coast of California. \u2014 An appropriation of $20,000 was made June 10, 1872, for the purpose of erecting at this station a fourth-order light house. As it was found impossible to secure the proper site from the owners (several being minor heirs) by purchase, it was found expedient to secure the same by condemnation under the laws of this State. Suit was accordingly brought for that purpose, which terminated favorably to the United States on the 4th day of November, 1873. The plans for the structure having been prepared, on the 21st of February of this year the work was commenced.",
+   "establishes": "Appropriation $20,000 (10 June 1872), condemnation judgment 4 November 1873, construction begun 21 February 1874. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Point Fermin",
+   "report_year": "1875",
+   "page": "789",
+   "quote": "434. Point Fermin, sea-coast of California. \u2014 The light at this station was exhibited for the first time on the evening of December 15th, 1874. It is recommended that an appropriation of $300 be made for the purchase of additional land at this station.",
+   "establishes": "POINT FERMIN FIRST LIGHTED: the evening of 15 December 1874 \u2014 the same evening as Point Hueneme. Corroborated by the report's own table, p. 730: 'Point Fermin | On west side of entrance to San Pedro Bay, Cal. | December 15, 1874.' Both verified against the page images (leaves n845 and n786).",
+   "identifier": "SecTreasAnnReport1875"
+  }
+ ],
+ "Piedras Blancas": [
+  {
+   "station": "Piedras Blancas",
+   "report_year": "1871",
+   "page": "538-539",
+   "quote": "Piedras Blancas, sea-coast of California. \u2014 This point is about midway between Point Conception and Point Pinos Light-houses, distant one hundred and fifty miles from each other. But Point Pinos is only a harbor Light, and the coasting steamers take their departure from Piedras Blancas, and keep so far out that Point Pinos Light is not seen, and it may be considered that there is no sea-coast Light between Point Conception and Pigeon Point, which are nearly two hundred miles distant. An appropriation of $75,000 is submitted for the erection of a first-order Light and Fog-signal at Piedras Blancas.",
+   "establishes": "WHY PIEDRAS BLANCAS WAS BUILT, in the Board's own words: a two-hundred-mile dark stretch of sea-coast. Cost sought: $75,000, first order. [OCR text; not verified against the page image; the $75,000 figure is independently confirmed on 1872 p. 546 and 1873 p. 669, both image-verified.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Piedras Blancas",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "425. Piedras Blancas, sea-coast of California. \u2014 An appropriation, made June 10, 1872, of $75,000, is available for a first-order light and fog-signal at this point. A detailed survey during the early part of this year was made, and a map prepared of the locality; the height of which differing from previous information of the Board, necessitated a change in the design, which was published in the last annual report of the Board.",
+   "establishes": "$75,000 appropriated 10 June 1872; first order; design changed after survey. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "Piedras Blancas",
+   "report_year": "1875",
+   "page": "790",
+   "quote": "438. Piedras Blancas, sea-coast of California. \u2014 The tower at this station was completed and the light put in operation on February 15th, 1875, the keepers being accommodated in the shanties built for use of the mechanics and laborers.",
+   "establishes": "PIEDRAS BLANCAS FIRST LIGHTED: 15 February 1875 per the narrative. \u26a0 THE SAME REPORT CONTRADICTS ITSELF: its table on p. 730 reads 'Piedras Blancas | On the point northwest of the entrance to San Simeon Bay, Cal. | February 1, 1875.' Both pages verified against the page images (leaves n846 and n786). The 1875 report gives two different first-lighting dates for this station two weeks apart.",
+   "identifier": "SecTreasAnnReport1875"
+  }
+ ],
+ "\u2b50 MARE ISLAND": [
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1857",
+   "page": "234",
+   "quote": "and the other on the southern end of Mare island, to aid vessels passing through the straits of Carquines and San Pablo bay, and mainly to serve as a guide to the navy yard at Benicia \u2014 estimated cost, $9,989.",
+   "establishes": "THE EARLIEST BOARD RECORD OF A PROPOSED MARE ISLAND LIGHT, seventeen years before it was lit: one of only three new lights the Board thought still needed anywhere in the United States in 1857. WHY IT WAS WANTED, in the Board's own words: to guide vessels through Carquinez Strait and San Pablo Bay, and 'mainly to serve as a guide to the navy yard' \u2014 which the Board here calls 'the navy yard at Benicia.' Estimated cost $9,989. Verified against the page image (leaf n233).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "Straits of Carquinez, California, between the Bay of San Pablo and Suisun Bay. \u2014 An appropriation was made for the erection of a light-house on Mare Island; but as that location was not suited to the wants of navigation, the money was turned into the treasury, and a re-appropriation is submitted on the estimates for this point as the proper one.",
+   "establishes": "A FIRST MARE ISLAND APPROPRIATION WAS MADE AND THEN LOST \u2014 the Board judged the location unsuitable and let the money revert. Note the Board's reversal: in 1870 Mare Island is 'not suited,' in 1872 it orders the light placed on the southern end of Mare Island. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1871",
+   "page": "539",
+   "quote": "Mare Island, entrance to the straits of Carquines, California. \u2014 An appropriation of $10,000 is recommended for the erection of a fifth-order Light at this point, to mark the approaches to Carquines Straits. The erection of a Light-house at this point has been strongly urged for many years.",
+   "establishes": "ORDER OF LENS SOUGHT: fifth order. Cost sought: $10,000. And the Board's own acknowledgment that Mare Island had been 'strongly urged for many years' \u2014 consistent with its own 1857 recommendation. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "Entrance to the Straits of Karquines, California. \u2014 An appropriation of $20,000, approved June 10, 1872, was made for the erection of a light-house and fog-signal to mark the entrance to the Straits of Karquines. A site on the southern shore, opposite Mare Island, having been recommended by the local officers and others, surveys were made there, but none suitable was found, and the engineer of the district has been ordered to locate the light on the southern end of Mare Island.",
+   "establishes": "THE DECISION. Appropriation $20,000, approved 10 June 1872, for a light-house AND fog-signal. The Board first surveyed the SOUTHERN (Contra Costa) shore opposite Mare Island, found nothing suitable, and then ordered the light onto the southern end of Mare Island itself. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "435. Mare Island, entrance to Straits of Karquines. \u2014 The light-house of this station was completed by the 15th of July, although it was not quite ready for lighting at that date. An attempt was made to obtain water by digging a well, but without success. The point south of the dwelling was cut down and graded, a retaining-wall, built of rock to above high-water mark, forming a plateau for fog-signal. Inclines have been constructed from this plateau and from the plane of the dwelling to the boat-landing; windlasses, provided with turn-table and car, were set up on each. The erection of the necessary building for the fog-bell, and the sinking of a well for the weight of the machinery, still remains to be done.",
+   "establishes": "THE COMPLETION STATEMENT. Light-house completed by 15 July 1873 but not yet ready to light; no water obtainable from a well; the point south of the dwelling cut down and walled to make a fog-signal plateau; two inclines with windlasses, turn-table and car down to the boat-landing. THE KEEPER'S DWELLING is referred to as already standing. THE FOG-BELL house and the weight-well for its machinery were still unbuilt at the date of this report. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND \u2014 FIRST LIGHTING",
+   "report_year": "1874",
+   "page": "618",
+   "quote": "Mare Island | Extreme eastern end of Mare Island, at entrance from San Pablo Bay to the Straits of Karquines, California | September 1, 1873.",
+   "establishes": "MARE ISLAND LIGHT FIRST LIGHTED: 1 SEPTEMBER 1873. From the Board's table 'List of light-houses finished and lighted between July 1, 1873, and July 1, 1874.' \u26a0 Note the Board's own locative here is 'Extreme EASTERN end of Mare Island' \u2014 which contradicts its 1872 order to place the light on the 'southern end.' VERIFIED against the page image (leaf n668) precisely because the OCR of this table is column-scrambled and unusable; the printed table is unambiguous.",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND \u2014 FOG BELL",
+   "report_year": "1874",
+   "page": "682",
+   "quote": "448. Mare Island, Strait of Karquines, California. \u2014 The fog-bell and machinery formerly in use at Point Bonita light-station has been removed to this station, where a suitable house has been built for it.",
+   "establishes": "THE FOG-BELL. Mare Island's fog-bell was NOT new: it is the bell and striking machinery taken out of Point Bonita (displaced there by the first-order steam siren put in operation 29 May 1872), rehoused on Mare Island during the year ending 30 June 1874. Verified against the page image (leaf n732).",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1875",
+   "page": "791",
+   "quote": "450. Mare Island, Straits of Karquines, California. \u2014 Repairs have been made at this station, consisting of a strong stone sea-wall to protect the fog-bell tower. The foundation of this tower needs strengthening; this work will be done as soon as practicable.",
+   "establishes": "Within a year of its removal from Point Bonita the Mare Island fog-bell tower already needed a stone sea-wall and foundation strengthening. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND \u2014 depot",
+   "report_year": "1872",
+   "page": "548",
+   "quote": "Yerba Buena Island, Harbor of San Francisco, California. \u2014 A selection of a site for a buoy depot, to serve instead of the present inconvenient depot at Mare Island, has been made on the eastern side of the island of Yerba Buena.",
+   "establishes": "Mare Island had been the Twelfth District's buoy depot before Yerba Buena replaced it. Corroborated by the 1870 report p. 396: 'The principal station for keeping spare buoys is at Mare Island.' [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1872"
+  }
+ ],
+ "East Brother": [
+  {
+   "station": "East Brother",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "434. East Brother Island, San Pablo Bay, California, opposite Point San Pablo. \u2014 In consequence of the apparent increasing litigation to gain possession of a site on the main-land for light-house purposes, an examination was made of the East Brother Island to ascertain if it would be a suitable locality. A special report was made by the district officers in regard to its advantages, and the selection was approved by the Board. Proposals were invited for building a light-house and a fog-signal building; for making the necessary excavations, and executing the grading; also, for building a retaining-wall. The lowest bid was accepted, and the work was commenced near the end of July.",
+   "establishes": "WHY EAST BROTHER EXISTS: the Board could not get a mainland site at Point San Pablo because of litigation, so it moved the station onto the island. Work begun late July 1873. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "East Brother \u2014 FIRST LIGHTING",
+   "report_year": "1874",
+   "page": "682",
+   "quote": "447. East Brother Island light-station, off Point San Pablo, and the straits separating San Francisco and San Pablo Bays. \u2014 An appropriation of $30,000 was made by Congress March 3, 1873, \"for a light-house and steam fog-signal at Point San Pablo, California.\" In consequence of the litigation necessary to obtain a site on the mainland, it was determined to erect the light-house and fog-signal structures on East Brother Island, which is immediately opposite and about a quarter of a mile distant from Point San Pablo. A contract was made to blast off the top of the rock, build a sustaining-wall around the same, and erect the light-house and fog-signal. They were completed in February and the light was exhibited for the first time on the evening of 1st of March of this year. A subsequent contract was made for building the cistern, water-shed, wharf, tramway, and out-houses. This contract was completed in April and the steam fog-signal was put in operation on May 1st of this year.",
+   "establishes": "EAST BROTHER FIRST LIGHTED: the evening of 1 MARCH 1874; steam fog-signal in operation 1 MAY 1874; cost $30,000 under the act of 3 March 1873, appropriated for 'Point San Pablo' and spent on East Brother Island. Corroborated by the same report's table, p. 618: 'East Brother Island | On East Brother Island, off Point San Pablo, California | March 1, 1874.' BOTH verified against the page images (leaves n732 and n668).",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "East Brother",
+   "report_year": "1876",
+   "page": "794",
+   "quote": "461. East Brother Island, in straits connecting San Francisco and San Pablo Bays, California. \u2014 Considerable repairs and renovations have been made to the light-house and fog-signal structures and machinery during the past year. The wharf has been strengthened by driving six piles, and thoroughly binding them together with 12-inch by 12 inch timbers, and iron straps and bolts. A truss bridge from the wharf to the bluff of the island, and a new boat-house, have also been built. The wharf is now 3 feet higher, and is so strengthened as to withstand any ordinary storm.",
+   "establishes": "Storm damage and reconstruction of the East Brother wharf and landing, 1875-76. Verified against the page image (leaf n834).",
+   "identifier": "SecTreasAnnReport1876"
+  }
+ ],
+ "Yerba Buena Island": [
+  {
+   "station": "Yerba Buena Island",
+   "report_year": "1874",
+   "page": "682",
+   "quote": "446. Yerba Buena, San Francisco Bay, California. \u2014 The fog-bell recently in use at Point Conception light-station, California, has been put in position here, and is operated by a Stevens clock apparatus. Congress at its last session made an appropriation of $10,000 for the establishment of a light-house and fog-signal on the southeastern extremity of this island; an examination for the purpose of selecting a proper site for the light-house has been made.",
+   "establishes": "Yerba Buena's first aid was a fog-bell cast off from Point Conception, on Stevens clock machinery; $10,000 then appropriated for a light-house and fog-signal on the southeastern extremity. Verified against the page image (leaf n732).",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Yerba Buena Island",
+   "report_year": "1875",
+   "page": "791",
+   "quote": "448. Yerba Buena Island, San Francisco Harbor, California. \u2014 The keeper's dwelling and tower have been completed, excepting the putting up of the lantern and illuminating apparatus. When the apparatus is received it will be immediately put in place on the tower. The lens formerly in use at Yaquina light-station, Oregon, will be used at this station, and the light can be exhibited on or about the 15th of September. Congress, at its last session, appropriated $5,000 for establishing a steam fog-signal at this station. The work was commenced in June, and is nearly completed. The signal will be put in operation on the 1st of October.",
+   "establishes": "ORDER/PROVENANCE OF THE LENS: the Yerba Buena light used the lens taken from the discontinued Yaquina Bay light-station, Oregon (discontinued 1 October 1874 per the 1875 report's own table, p. 730). The Board expected to light on or about 15 September 1875 \u2014 the actual date was 1 October. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "Yerba Buena Island \u2014 FIRST LIGHTING",
+   "report_year": "1876",
+   "page": "749",
+   "quote": "Yerba Buena | On southeastern extremity of Yerba Buena Island, San Francisco Bay, California. | October 1, 1875.",
+   "establishes": "YERBA BUENA LIGHT FIRST LIGHTED: 1 OCTOBER 1875. From the Board's table 'List of light-houses finished and lighted between July 1, 1875, and June 30, 1876.' VERIFIED against the page image (leaf n789).",
+   "identifier": "SecTreasAnnReport1876"
+  },
+  {
+   "station": "Yerba Buena Island",
+   "report_year": "1876",
+   "page": "794",
+   "quote": "460. Yerba Buena Island, San Francisco Bay, California. \u2014 The steam fog-signal mentioned in the last annual report as being nearly completed was put in operation October 1, 1875.",
+   "establishes": "The steam fog-signal (a 10-inch steam-whistle, per the same report's fog-signal list) was put in operation on the SAME DAY as the light, 1 October 1875. Verified against the page image (leaf n834).",
+   "identifier": "SecTreasAnnReport1876"
+  }
+ ],
+ "Trinidad Head": [
+  {
+   "station": "Trinidad Head",
+   "report_year": "1871",
+   "page": "541",
+   "quote": "Trinidad Head, sea-coast of California. \u2014 An appropriation for the erection of a Light-house at Trinidad Head was approved June 20, 1860, but nothing was done toward building the structures until February of this year. The materials were purchased and the work commenced in June, and the work is now progressing favorably. The Light will be of the fourth order, fixed, varied by red flashes, and will be shown from a low, square, brick tower.",
+   "establishes": "The Trinidad Head appropriation dated from 20 JUNE 1860 and lay unused for eleven years \u2014 the Civil War gap made visible. Order: fourth; character: fixed varied by red flashes. Verified against the page image (leaf n565).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Trinidad Head \u2014 FIRST LIGHTING",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "418. Trinidad Head, sea-coast of California. \u2014 On the night of December 1, 1871, a fourth-order light of the system of Fresnel was exhibited for the first time from the tower built on the southern slope of Trinidad Head. The structures built consist of a pyramidal tower on a square base, 18 feet high from the ground-line to focal plane; a dwelling for the keeper, and a cistern.",
+   "establishes": "TRINIDAD HEAD FIRST LIGHTED: the night of 1 DECEMBER 1871, fourth-order Fresnel, from a pyramidal tower on a square base only 18 feet from ground-line to focal plane. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  }
+ ],
+ "Point Arena": [
+  {
+   "station": "Point Arena",
+   "report_year": "1867",
+   "page": "238",
+   "quote": "At Point Arena and Point Reyes examinations have been made with a view to determine the proper sites for light-houses authorized by Congress, and no time will be lost in securing the establishment of proper lights at the earliest practicable day.",
+   "establishes": "Site examinations for Point Arena and Point Reyes under way in FY1867. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Point Arena",
+   "report_year": "1869",
+   "page": "479-480",
+   "quote": "The exact site selected for the tower is three hundred and seventy feet from the extremity of the point, and that for the dwelling is fifty feet in rear of the tower. On July 30, last, the workmen with all the necessary tools, together with a quantity of cement and lime, reached the Point. ... A contract has been made for furnishing five hundred thousand bricks to be made on the ground. The first kiln was burnt in the spring of this year, but upon inspection were found not to be up to the prescribed standard, and were therefore rejected.",
+   "establishes": "Construction detail and cost drivers: 500,000 bricks burned on site (first kiln rejected), 114,000 selected face bricks shipped from San Francisco, and transport at $10.50 in gold per ton from San Francisco to the site. [OCR text; not verified against the page image; the adjoining p. 480 was image-verified.]",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "Point Arena \u2014 FIRST LIGHTING",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "366. Point Arena, sea-coast of California. \u2014 The works at this station were commenced September 30, 1869, and completed the following April. The light was exhibited for the first time, May 1, 1870. The apparatus is of the first order, fixed in a tower 100 feet high from base, and the height of the light above the mean level of the sea 150 feet.",
+   "establishes": "POINT ARENA FIRST LIGHTED: 1 MAY 1870. Works begun 30 September 1869, completed the following April. FIRST ORDER, fixed; tower 100 feet, focal plane 150 feet above mean sea level. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  },
+  {
+   "station": "Point Arena",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "415. Point Arena, sea-coast of California. \u2014 Since the last annual report a steam fog-whistle has been constructed, and was put in operation November 25, 1871.",
+   "establishes": "Point Arena steam fog-whistle in operation 25 November 1871. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Arena",
+   "report_year": "1893",
+   "page": "p. 166 (image-verified)",
+   "quote": "883. Point Arena, near northwest extremity of Point Arena, California.\u2014The windmill pump, supplying the station with water, entirely gave out. A new one was purchased and erected in its place.",
+   "establishes": "NULL on any Point Arena rebuild in this era. Across all ten report years obtained (1891\u20131897, 1899\u20131901) Point Arena appears only under routine repairs (boiler repair, fence, electrical bell system, storage shed and tanks in 1891; windmill pump in 1893) and under fog-signal running hours. The Board records no reconstruction of the station in 1876\u20131901; the well-known Point Arena rebuild follows the 1906 earthquake and falls in era 3.",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "Santa Cruz (not on your list, captured incidentally)": [
+  {
+   "station": "Santa Cruz (not on your list, captured incidentally)",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "361. Santa Cruz, California, entrance to Santa Cruz Harbor. \u2014 This light-station was established during the last year.",
+   "establishes": "Santa Cruz established in the year ending 30 June 1870. Included because it sits between Point Pinos and A\u00f1o Nuevo in the same numbered sequence and is easily confused with them. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  }
+ ],
+ "Twelfth District (context for all California stations)": [
+  {
+   "station": "Twelfth District (context for all California stations)",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At the date of the last annual report this district comprised the entire Pacific coast of the United States, but upon the recommendation of the board, the honorable Secretary of the Treasury authorized the division of that coast into two districts, the 41st parallel of latitude being the line of separation, and which division was carried into effect on the 1st of July, 1867.",
+   "establishes": "Before 1 July 1867 the Twelfth District was the WHOLE Pacific coast (California, Oregon, Washington); after that date it is California only. Any Era-1 'twelfth district' citation must be read against this date. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  }
+ ],
+ "Pacific coast programme (context)": [
+  {
+   "station": "Pacific coast programme (context)",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "The contract made by the Treasury Department, in 1851, for building eight light-houses on the Pacific coast, has proved a fruitful source of difficulty, delay, and expense. ... after the structures had been erected according to the terms of the contract, (as certified by the officers charged with their inspection,) and the lanterns and illuminating apparatus had arrived at San Francisco, it was found that no attention had been paid to the dimensions of the towers in constructing the lanterns; and as a consequence, all of the towers except two have either been taken down and rebuilt entirely, or remodelled at a considerable expense, for the purpose of adapting them to the lanterns and apparatus.",
+   "establishes": "THE SINGLE MOST IMPORTANT EXPLANATORY PASSAGE FOR THE 1853-1856 CALIFORNIA LIGHTING DATES: the eight 1851-contract towers (Alcatraz, Battery/Fort Point, Farallones, Humboldt, Point Loma, Point Pinos, Point Conception, Santa Barbara and the northern ones) were finished before lanterns that did not fit them, and all but two had to be rebuilt or remodelled. This is why 'tower completed' (1853) and 'light exhibited' (1854-1856) are years apart. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  }
+ ],
+ "Point Loma (New Point Loma), entrance to San Diego Bay": [
+  {
+   "station": "Point Loma (New Point Loma), entrance to San Diego Bay",
+   "report_year": "1891",
+   "page": "p. 156 (image-verified against the scanned leaf)",
+   "quote": "785. Point Loma, entrance to San Diego Bay, California.\u2014This new station was completed by the end of the last fiscal year, except the iron tower and the lens. The tower was received at the site on July 16, and was erected during August. The lens furnished was found to be too large for the space provided for it, therefore it was necessary to procure another, which reached the station in January, 1891, and was put in place during February. On March 23, the light was exhibited for the first time. It is of the third order, flashing red and white alternately, with twenty seconds' interval between the flashes. An electrical call-bell system was put up connecting the tower with both dwellings.",
+   "establishes": "New Point Loma first lighted 23 March 1891; third-order lens, flashing red and white alternately at twenty-second intervals. Construction was essentially complete by 30 June 1890; the iron tower was landed 16 July 1890 and erected that August; the first lens supplied was too large and had to be replaced (replacement arrived January 1891, installed February 1891). Board station number 785.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Ballast Point, entrance to San Diego Bay": [
+  {
+   "station": "Ballast Point, entrance to San Diego Bay",
+   "report_year": "1891",
+   "page": "p. 156 (image-verified)",
+   "quote": "786. Ballast Point, entrance to San Diego Bay, California.\u2014This station was completed by the end of the last fiscal year, but was not put in operation until August 5, 1890, on which date a fixed white light of the fifth order was exhibited. There is also a fog bell which will be struck by machinery every ten seconds during thick and foggy weather. Plank walks leading to the various buildings were laid.",
+   "establishes": "Ballast Point light first exhibited 5 August 1890; fixed white, fifth order; fog bell struck by machinery every ten seconds. Station complete by 30 June 1890 but idle until August. Board station number 786.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Ballast Point fog bell (list of new fog signals)": [
+  {
+   "station": "Ballast Point fog bell (list of new fog signals)",
+   "report_year": "1891",
+   "page": "in the 'new fog signals' list between the p. 9 and p. 12 running heads; the intervening page numbers are not legible in the OCR and I did not pull this leaf's image",
+   "quote": "Ballast Point, entrance to San Diego Bay, California.\u2014A bell struck by machinery, August 1, 1890.",
+   "establishes": "The Board's summary list dates the Ballast Point fog bell to 1 August 1890, four days earlier than the 5 August 1890 date its own Twelfth District narrative gives for the light. NOTE: this quotation is from OCR only and is NOT image-verified; the internal discrepancy with p. 156 is in the printed report, not an artifact I can rule out without the leaf image.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Roe Island, Suisun Bay": [
+  {
+   "station": "Roe Island, Suisun Bay",
+   "report_year": "1891",
+   "page": "p. 158 (image-verified)",
+   "quote": "814. Roe Island, Suisun Bay, California.\u2014Contracts for the construction of this station were let to Mr. M. A. Graham for the ironwork, and to the California Bridge Company for the construction of the buildings and wharf. Both contractors completed their work in a satisfactory manner and within the specified time. A small building, to contain the fog-bell machinery, was built on the outer end of the wharf, and a bell was purchased and hung. On February 16, 1891, the station was put in operation, when a fixed white light was exhibited from the lantern placed on top of the dwelling. It is of the fifth order, illuminating the entire horizon. The fog signal is a bell, which is struck by machinery one blow every ten seconds. During May a small oil house, a platform for coal, etc., under the wharf, and steps leading to the ground, were built.",
+   "establishes": "Roe Island station put in operation 16 February 1891; fixed white fifth-order light shown from a lantern on the dwelling roof; fog bell struck by machinery one blow every ten seconds. Contractors named: M. A. Graham (ironwork), California Bridge Company (buildings and wharf). Board station number 814.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Roe Island": [
+  {
+   "station": "Roe Island",
+   "report_year": "1892",
+   "page": "p. 184 (image-verified)",
+   "quote": "852. Roe Island, Suisun Bay, California.\u2014A windmill and pump were placed on the outer end of the wharf and connection was made by pipe with the cistern to bring in a supply of fresh water. The lantern parapet was incased in redwood to prevent leakage. This island being subject to overflow at times of high water, a levee 3\u00bd feet high by 8 feet at the base was built around the reservation. This levee was cracked in April by a severe earthquake, and it was repaired by the keeper.",
+   "establishes": "A levee was built around the Roe Island reservation in FY1892 and was cracked by a severe earthquake in April 1892 \u2014 a dated seismic observation from a Suisun Bay station, repaired by the keeper.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Table Bluff / Humboldt (re-establishment)": [
+  {
+   "station": "Table Bluff / Humboldt (re-establishment) \u2014 authorization and site",
+   "report_year": "1891",
+   "page": "p. 160 (image-verified)",
+   "quote": "821. Humboldt, entrance to Humboldt Bay, California.\u2014Congress at its last session appropriated $25,000 for the reestablishment of this station on a new site. The Light-House Board having decided that the best interests of navigation would be subserved by locating the new station on Table Bluff, a point about 4 miles south of the present light, the inspector and engineer of this district visited the place on May 8, 1891, and selected a site for the station. The owner of the selected land refused to sell for less than $5,000 for about 10 acres of land and the right of way for a road from the county road to the proposed station. This price was deemed exorbitant, and measures were initiated to acquire title by condemnation.",
+   "establishes": "Congress appropriated $25,000 for moving the Humboldt light station; the Board chose Table Bluff, about 4 miles south of the old light; site selected on the ground 8 May 1891; the landowner's $5,000 asking price for ~10 acres was refused and condemnation begun. This is the Board's own statement of WHY Table Bluff was chosen: 'the best interests of navigation'.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Table Bluff / Humboldt": [
+  {
+   "station": "Table Bluff / Humboldt \u2014 site acquired",
+   "report_year": "1892",
+   "page": "p. 186 (OCR only; NOT image-verified)",
+   "quote": "859. Humboldt, entrance to Humboldt Bay, California.\u2014The suit brought to obtain, by condemnation, title to the land needed for the reestablishment of this station on Table Bluff was withdrawn and a compromise was made with the owner whereby the United States secured for $2,220 some 10 acres of land, together with the right to take water from an adjacent spring.",
+   "establishes": "The condemnation suit was dropped and the Table Bluff site (about 10 acres plus spring water rights) was bought for $2,220. Bids for construction were opened 21 March 1892. OCR-derived; the dollar figure in particular should be re-checked against the leaf image before publication.",
+   "identifier": "annualreportlig03statgoog"
+  },
+  {
+   "station": "Table Bluff / Humboldt \u2014 completion and first lighting",
+   "report_year": "1893",
+   "page": "pp. 166\u2013167 (both leaves image-verified)",
+   "quote": "885. Humboldt, near the western edge of Table Bluff, entrance to Humboldt Bay, California.\u2014The reestablishment of this station on the new site at Table Bluff, commenced last year, was continued until October 5, 1892, when it was satisfactorily completed. The lens and one fog-signal boiler were kept at the old station until October 31, the date set for starting the new station. On October 31, the light was exhibited from the new station and the old station was abandoned. The new station on Table Bluff consists of a keeper's dwelling and tower combined, a double dwelling for the assistant keepers, a fog-signal building containing two boilers and engines and a coal shed.",
+   "establishes": "Table Bluff light station structurally complete 5 October 1892; light first exhibited from the new station and the old Humboldt station abandoned on 31 October 1892. Lens and one fog-signal boiler were transferred from the old station. Plant described: combined dwelling-and-tower, double assistant keepers' dwelling, fog-signal building with two boilers and engines, coal shed, ~10-acre fenced reservation.",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "St. George Reef (Northwest Seal Rock)": [
+  {
+   "station": "St. George Reef (Northwest Seal Rock) \u2014 1891 season, funding stoppage, $81,000 deficiency appropriation",
+   "report_year": "1891",
+   "page": "pp. 160\u2013161 (both leaves image-verified)",
+   "quote": "824. St. George Reef, Northwest Seal Rock, seacoast of California.\u2014By the middle of the first month of the fiscal year all the stone required for the completion of this work was quarried and cut, when the available funds not being sufficient to warrant resumption of construction, all work was shut down, the plant stored at the stone yard, and that place left in charge of a watchman. During the year the specifications and drawings for the metalwork for the tower were prepared and contract was made with the Phoenix Iron Company of Trenton, N. J., for its construction. By the end of the fiscal year it was completed and on its way to San Francisco. An item in the general deficiency act approved September 30, 1890, appropriated $81,000 for the completion of this station.",
+   "establishes": "Work at St. George Reef was shut down in July 1890 for want of money; the tower metalwork was contracted to the Phoenix Iron Company of Trenton, N.J.; a general deficiency act of 30 September 1890 appropriated $81,000 to finish the station; the steamer Sunol was chartered in April 1891 and construction resumed 1 May 1891. Board station number 824.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "St. George Reef": [
+  {
+   "station": "St. George Reef \u2014 the Board's summary of the whole 1883\u20131891 construction",
+   "report_year": "1892",
+   "page": "pp. 187\u2013188 (p. 187 image-verified)",
+   "quote": "862. St. George Reef, Northwest Seal Rock, seacoast of California.\u2014There will be found in an appendix to this volume an interesting description by Mr. A. Ballantyne, superintendent of construction of the Northwest Seal Rock Light-Station, California, of the early history, annual progress, and many incidents and facts connected with this work. There have been prepared from the office records, also, tabulated statements showing in detail the cost of its different parts. The work was commenced in 1883 and it was completed in 1891. The long time required for its construction and completion, together with the incidental expenses, were due, in a great measure, to inadequate appropriations.",
+   "establishes": "The Board's own summary verdict on St. George Reef: begun 1883, completed 1891, and the nine-year duration and inflated incidental cost were 'due, in a great measure, to inadequate appropriations.' Also: stone was quarried from granite boulders on Mad River near Humboldt Bay, nearly 100 miles from the site; dressed at a stoneyard at the entrance to Humboldt Bay; 1,339 dressed dimension stones in the face of the structure; three-sixteenths-inch joints; credit given to David Chalmers (foreman of stonecutters), Thomas W. Brown (quarrying), and A. Ballantyne (superintendent of construction); work directed by Capt. A. H. Payson, Corps of Engineers, until late 1887.",
+   "identifier": "annualreportlig03statgoog"
+  },
+  {
+   "station": "St. George Reef \u2014 total appropriated (Appendix No. 5, report of A. Ballantyne, Superintendent of Construction, printed in the Board's annual report)",
+   "report_year": "1892",
+   "page": "Appendix No. 5, p. 275 (image-verified)",
+   "quote": "No attempt was made to work at the rock during the season of 1890, as the available funds would not warrant it, and no further appropriation was made until September 30, 1890, when $81,000 became available. This made a total of $721,000 appropriated, which was the estimated cost of the structure.",
+   "establishes": "Total appropriated for St. George Reef light station = $721,000, stated as equal to the estimated cost of the structure. Appropriation sequence given in the same appendix: $30,000 by the act of 7 July 1884; $40,000 by the act of 3 March [1885]; no appropriation in 1886; $120,000 available 4 March 1887; a further appropriation available April 1888; $200,000 approved 2 March 1889; $81,000 available 30 September 1890. Season-by-season costs also given, e.g. '$46,009.17' expended during the summer of 1883. NOTE: this is the superintendent's report printed as an appendix to the Board's report, not the Board's own narrative \u2014 cite it as such. Three detailed cost tables follow on pp. 276\u2013280, but their columns are badly scrambled in the OCR and should be read from the page images, not the text file.",
+   "identifier": "annualreportlig03statgoog"
+  },
+  {
+   "station": "St. George Reef \u2014 fog signal established",
+   "report_year": "1892",
+   "page": "p. 190 (image-verified)",
+   "quote": "862. St. George Reef, California.\u2014The 12-inch steam whistles, in duplicate, have been operated some 139 hours since the time of their establishment, December 1, 1891, consuming about 13 tons of coal.",
+   "establishes": "The St. George Reef fog signal \u2014 12-inch steam whistles in duplicate \u2014 was established 1 December 1891, ten and a half months before the light itself was first exhibited. Operated 139 hours in its first partial season on about 13 tons of coal.",
+   "identifier": "annualreportlig03statgoog"
+  },
+  {
+   "station": "St. George Reef \u2014 first lighting",
+   "report_year": "1893",
+   "page": "p. 167 (image-verified)",
+   "quote": "888. St. George Reef, Pacific Ocean, on Northwest Seal Rock, St. George Reef, California.\u2014This station was completed last year, except the lens, which had not then been received. During July the lens reached San Francisco, and in August it was taken by the light-house tender to the station, where it was erected. The light is of the first order, flashing alternately red and white, with fifteen seconds interval between flashes, illuminating the entire horizon. It was exhibited for the first time on October 20, 1892.",
+   "establishes": "St. George Reef light first exhibited 20 October 1892; first order, flashing alternately red and white at fifteen-second intervals, illuminating the entire horizon. Lens arrived San Francisco July 1892, carried to the rock by the light-house tender in August 1892. A footnote on the same page adds: 'On July 22, 1893, an easy landing was made on the rock. The entire station was found to be in excellent condition. It is now amply provided with coal and supplies.'",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "St. George Reef fog signal": [
+  {
+   "station": "St. George Reef fog signal \u2014 first full-year running time",
+   "report_year": "1893",
+   "page": "p. 168 (OCR only)",
+   "quote": "888. St. George Reef, California.\u2014The 12-inch steam whistle, in duplicate, was in operation some 405 hours, and consumed about 27 tons of coal.",
+   "establishes": "First full fiscal year of fog-signal operation at St. George Reef: 405 hours, ~27 tons of coal. OCR-derived, not image-verified.",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "Punta Gorda (proposed light and fog signal)": [
+  {
+   "station": "Punta Gorda (proposed light and fog signal) \u2014 the Board's standing recommendation",
+   "report_year": "1891",
+   "page": "p. 160 (image-verified)",
+   "quote": "\u2014. Punta Gorda, between Shelter Cove and Cape Mendocino, seacoast of California.\u2014The following recommendation, which was made in the Board's last two annual reports, is renewed: Between Shelter Cove and Punta Gorda there are several dangerous sunken rocks off the shore that add to the hazards of navigation. In ordinary dark nights the overhanging mountains keep the shore line in dark shadow and confuse the best navigator as to his distance from shore, so that it is impossible to make out this high rounding point, either from the south or from the north. Moreover, from reports made to the Coast and Geodetic Survey, it appears that little is known as to the currents of this part of the coast. The conclusion is reached, therefore, that the interests of commerce and navigation require that a light and fog signal be established at or near Punta Gorda, Cal. It is estimated that the work will cost $40,000.",
+   "establishes": "The Board's full stated reason for wanting a Punta Gorda station, and its $40,000 estimate. The phrase 'made in the Board's last two annual reports' dates the first Punta Gorda recommendation to the FY1889 report. The identical text is renewed in 1892 ('last three annual reports', p. 187), 1893 ('last four', p. 166), and 1894 ('last five', p. 186).",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Punta Gorda": [
+  {
+   "station": "Punta Gorda \u2014 the casualty the Board cited",
+   "report_year": "1893",
+   "page": "p. 166 (image-verified)",
+   "quote": "The British steamer Bawnmore struck on a rock at Punta Gorda during a fog and sunk. She is now being pumped out and will be saved. This could not have happened had there been a fog signal at this point.",
+   "establishes": "The Board appended a specific wreck to its Punta Gorda argument: the British steamer Bawnmore struck a rock at Punta Gorda in fog and sank during FY1893, and the Board asserted flatly that a fog signal there would have prevented it.",
+   "identifier": "annualreportlig01statgoog"
+  },
+  {
+   "station": "Punta Gorda \u2014 appropriation asked",
+   "report_year": "1893",
+   "page": "p. 34 (estimates table; OCR only)",
+   "quote": "Punta Gorda light and fog-signal station, California 40, 000. 00",
+   "establishes": "Punta Gorda carried in the Board's formal estimates to Congress at $40,000 for FY1893. OCR-derived from a figures table; verify against the image before quoting the cents.",
+   "identifier": "annualreportlig01statgoog"
+  },
+  {
+   "station": "Punta Gorda",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; 'Report of the Operations of the Light-House Board', Twelfth District, uncompleted works)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "515",
+   "quote": "Punta Gorda, Cal.\u2014The act approved May 27, 1908, appropriated $60,000 for a light and fog-signal station at or near Four-Mile Creek, near Punta Gorda. During the latter part of June, 1910, the contractor commenced work on the construction of the buildings, which embrace a light tower, a fog-signal building, and three keepers' dwellings and barn. At the close of the fiscal year 1910 the sum of $5,832.47 had been expended and obligated under the appropriation for preliminary examination, survey, purchase of site, purchase of lens and accessories, and incidental expenses. Of the amount stated, $2,810.10 had been expended. The contractor has made excavations and placed the forms for the foundations for the fog-signal building and carpenter and blacksmith shop. The excavation for two dwellings was completed. January 1, 1911, is the date on which the light will probably be ready for operation.",
+   "establishes": "Appropriation of $60,000 by act of 27 May 1908; site 'at or near Four-Mile Creek, near Punta Gorda'; construction begun late June 1910; the Board's forecast first-lighting date of 1 January 1911. This is NOT an establishment statement \u2014 the actual lighting fell in FY1912, whose report I could not obtain."
+  },
+  {
+   "station": "Punta Gorda",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "602",
+   "quote": "Punta Gorda, just south of Four-Mile Creek near Punta Gorda, seacoast of California.\u2014The recommendation made in the Board's last five annual reports that an appropriation of $60,000 be made to establish a light and fog-signal at or near Punta Gorda, California, is renewed.",
+   "establishes": "That by FY1907 the Board had been asking for a Punta Gorda station in each of its last five annual reports (i.e. since roughly FY1902) at an estimated $60,000 \u2014 the figure Congress finally voted on 27 May 1908."
+  }
+ ],
+ "Quarry Point, Angel Island (PROPOSED fog signal": [
+  {
+   "station": "Quarry Point, Angel Island (PROPOSED fog signal \u2014 never built in this era) \u2014 first recommendation",
+   "report_year": "1892",
+   "page": "pp. 183\u2013184 (p. 184 image-verified)",
+   "quote": "Mariners have asked that Quarry Point be selected for the fog-signal station, because, to make a start up river in a fog, it is necessary to make Angel Island to get a departure. After careful examination the Board reached the conclusion that a fog signal at this locality would be a decided aid to mariners. In view of the great economy of establishing and maintaining a large fog bell here instead of a steam fog signal, it decided in favor of the former. It is estimated that it will cost $6,000 to establish this fog bell, and it is recommended that an appropriation of this amount be made therefor.",
+   "establishes": "IMPORTANT CORRECTION TO THE BRIEF: 'Quarry Point, Angel Island' is a SEPARATE, never-built proposal, first advanced in the FY1892 report and renewed verbatim every year through FY1901 \u2014 it is not the Point Knox station. The passage states the Board's reasoning (Angel Island is the departure mark for the up-river run in fog; the Southampton Shoal passage is narrow; casualties cited include the ferry steamer Contra Costa, the ships E. B. Sutton, Eleanor Margaret and Maulsden) and its $6,000 fog-bell estimate. That this is the FIRST statement is established two ways: the 1892 text carries no 'is renewed' formula, and the renewal counter runs 1893 'last annual report' (1), 1894 'last two', 1895 'last three', 1896 'last four', 1897 'last five', 1899 'last seven', 1900 'last eight', 1901 'last nine' \u2014 arithmetic that resolves exactly to a 1892 origin.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Quarry Point, Angel Island": [
+  {
+   "station": "Quarry Point, Angel Island \u2014 the Board changes its mind about bells",
+   "report_year": "1901",
+   "page": "p. 197 (image-verified)",
+   "quote": "Much complaint has been made by mariners that the bell fog-signals used at the light and fog-signal stations in this vicinity are not sufficiently far-reaching. The Board is now of opinion that the signal to be used at Quarry Point should be of a more efficient character than a bell, particularly as all the commerce bound to Vallejo, Mare Island, and the Sacramento and San Joaquin rivers must pass close to a bold and rocky promontory. It is believed that it should be a first-class compressed-air siren, similar in power to the fog-signal recently established at Point Arguello. Quarry Point being part of the military reservation at Fort McDowell on Angel Island, no expense for its site would be incurred. It is estimated that such a signal, with quarters for the keepers, could be built for $12,000, and the board recommends that an appropriation of that amount be made therefor.",
+   "establishes": "This is the single most useful Board statement on California fog signals in this era: after nine years of recommending a cheap large bell, the Board reverses itself in 1901 because 'much complaint has been made by mariners that the bell fog-signals used at the light and fog-signal stations in this vicinity are not sufficiently far-reaching,' and asks instead for a first-class compressed-air siren at $12,000. It also confirms Quarry Point lay inside the Fort McDowell military reservation, so no site purchase was needed.",
+   "identifier": "annualreportlig01boargoog"
+  }
+ ],
+ "Angel Island fog-signal station (the Point Knox station)": [
+  {
+   "station": "Angel Island fog-signal station (the Point Knox station) \u2014 existence and character",
+   "report_year": "1897",
+   "page": "p. 172 (image-verified)",
+   "quote": "1008. Angel Island fog-signal station, San Francisco Bay, California.\u2014A fence was built around the dwelling, and the yard in front was covered with concrete. A small frame storehouse was built at the base of the hill to replace one carried away by a landslide. Various repairs were made.",
+   "establishes": "The station the brief calls 'Point Knox' is carried by the Board simply as 'Angel Island fog-signal station' (Board number 1008 in 1897; 886 in 1893; 902 in 1895; 24 in 1899). In 1897 it was still a FOG-SIGNAL station only, with no light \u2014 which is why no 'date of first lighting' exists for it before 1900. Landslides on the hillside were a recurring problem. NOTE: the Board's establishment statement for this station belongs to the FY1886 report, which I could not obtain.",
+   "identifier": "annualreportlig02statgoog"
+  }
+ ],
+ "Angel Island": [
+  {
+   "station": "Angel Island \u2014 a light finally added",
+   "report_year": "1901",
+   "page": "p. 11, under the heading 'NEW LIGHTS' (image-verified)",
+   "quote": "Angel Island light-station, San Francisco Bay, California.\u2014A lens-lantern light November 26, 1900.",
+   "establishes": "A lens-lantern light was first shown at the Angel Island (Point Knox) station on 26 November 1900 \u2014 i.e. the fog-signal station of the 1880s became a light station only at the very end of this era. Point Montara and Lime Point received lens-lantern lights on the same date. Corroborated in the same volume at p. 197: '28. Angel Island, San Francisco Bay, California.\u2014A fixed red lens-lantern light was established.' The 1900 report (p. 179) had foreshadowed it: '26. Angel Island, San Francisco Bay, California.\u2014A fixed red lens-lantern light will be installed as soon as the lantern is received.' (that 1900 sentence is OCR-only).",
+   "identifier": "annualreportlig01boargoog"
+  }
+ ],
+ "San Francisco Harbor light-vessel": [
+  {
+   "station": "San Francisco Harbor light-vessel \u2014 authorization and cost",
+   "report_year": "1896",
+   "page": "p. 160 (image-verified)",
+   "quote": "\u2014. San Francisco Harbor light-vessel, off San Francisco Bar, California.\u2014By the act approved June 11, 1896, $40,000 was appropriated, and a contract was authorized not to exceed $80,000, for constructing, equipping, and outfitting complete for service a first-class steam light-vessel with steam fog-signal for this station. The proper measures are being taken for its construction. It is estimated that $40,000, in addition to the amount already appropriated, will be needed to finish this vessel. Recommendation is made that this amount be appropriated therefor.",
+   "establishes": "The San Francisco lightship station was authorized by the act of 11 June 1896: $40,000 appropriated with contract authority to $80,000, for a first-class steam light-vessel with steam fog signal. A further $40,000 was needed and asked for. The same report, p. 26, notes the parallel authorization for a light-vessel off Fire Island, New York.",
+   "identifier": "annualreportlig02statgoog"
+  }
+ ],
+ "San Francisco Harbor light-vessel No. 70": [
+  {
+   "station": "San Francisco Harbor light-vessel No. 70 \u2014 construction",
+   "report_year": "1897",
+   "page": "p. 175 (OCR only)",
+   "quote": "1004. San Francisco Harbor light-vessel No. 70, off San Francisco Bar, California.\u2014This vessel is being built at Portland, Oregon. An appropriation of $40,000 was made by the act approved June 4, 1897, for her completion. Contract was made after due advertisement on January 23, 1897, with the lowest bidder to deliver the vessel in November, 1897.",
+   "establishes": "Lightship No. 70 was built at Portland, Oregon; the completing $40,000 came by the act of 4 June 1897; contract let 23 January 1897 for November 1897 delivery. Total federal outlay therefore $80,000. Detailed specification follows in the same entry: steel-framed, wood-planked hull, 112 ft x 18.5 ft x 22 ft 1.5 in, 350 ihp single-cylinder engine, four-bladed screw, electric masthead flashing lights, Crosby steam chime whistle, ~350 gross tons. OCR-derived; not image-verified.",
+   "identifier": "annualreportlig02statgoog"
+  }
+ ],
+ "San Francisco light-vessel No. 70": [
+  {
+   "station": "San Francisco light-vessel No. 70 \u2014 placed on station",
+   "report_year": "1899",
+   "page": "p. 180 (image-verified)",
+   "quote": "20. San Francisco light-vessel No. 70, California.\u2014This composite steam light-vessel, built in 1897\u201398, of about 400 tons burden, was placed on her station April 7, 1898, in 18\u00bc fathoms of water, about 3\u00bd miles outside the bar off the entrance to San Francisco Harbor. She carries a steam fog-signal and shows electric lights.",
+   "establishes": "The San Francisco lightship station was established 7 April 1898, when Light-Vessel No. 70 took up a mooring in 18\u00bc fathoms about 3\u00bd miles outside the bar. Steam fog signal and electric lights. Same volume p. 183: 'San Francisco light vessel, No. 70, California.\u2014The 12-inch steam chime whistle was in operation some 1,045 hours, and consumed about 83 tons of coal.'",
+   "identifier": "annualreportlig04statgoog"
+  },
+  {
+   "station": "San Francisco light-vessel No. 70 \u2014 first withdrawal for repairs",
+   "report_year": "1900",
+   "page": "pp. 21 and 180\u2013181 (OCR only)",
+   "quote": "San Francisco light-vessel, entrance to San Francisco Harbor, California.\u2014Light-vessel No. 70 withdrawn for repairs and station marked by a first-class can buoy September 20; light-house tender Madrono moored on station, characteristics of lights and fog signal changed September 28; light-vessel No. 70 replaced on station, characteristics of lights and fog signal restored, and Madrono withdrawn October 8, 1899.",
+   "establishes": "First interruption of the new San Francisco lightship station: No. 70 off station 20 September \u2013 8 October 1899, eighteen days, with the tender Madrono serving as relief light-vessel from 28 September. Oil lamps were substituted for the electric lights 5\u201311 May 1900 and the fog whistle was silent 18\u201326 June 1900. OCR-derived; not image-verified.",
+   "identifier": "annualreportlig00statgoog"
+  }
+ ],
+ "Oakland Harbor": [
+  {
+   "station": "Oakland Harbor",
+   "report_year": "1893",
+   "page": "pp. 164\u2013165 (OCR only)",
+   "quote": "872, 873. Oakland Harbor, entrance to Oakland Harbor, California.\u2014The Board decided to dispense with the inner red light, situated just outside the north training wall, about three fourths of a mile to the eastward of the outer white light, and to establish instead a red light on the southern side of the entrance, in the prolongation of the south jetty, about 240 feet outside its outer end. The beacon consists of 4 piles standing in 13 feet of water at low tide, surmounted by a square structure about 7 feet wide by 7 feet high.",
+   "establishes": "In FY1893 the Board reorganized the Oakland Harbor entrance lights: the inner red range light was dropped and a new red pile beacon light was erected 240 feet off the end of the south jetty. This is a re-arrangement of the 1890 station, not its establishment. OCR-derived.",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "Oakland Harbor South Jetty light": [
+  {
+   "station": "Oakland Harbor South Jetty light",
+   "report_year": "1894",
+   "page": "p. 6, under 'NEW LIGHTS' (OCR only)",
+   "quote": "Oakland Harbor South Jetty, San Francisco Bay, California.\u2014A lens-lantern light, September 15, 1893.",
+   "establishes": "The Oakland Harbor South Jetty light was established 15 September 1893. Three days earlier the old rear range light was extinguished \u2014 the 1894 report, p. 8, under 'LIGHTS DISCONTINUED': 'Oakland Harbor range (rear), San Francisco Bay, California.\u2014A lens-lantern light, September 12, 1893.' Both OCR-derived.",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "Oakland Harbor light-house": [
+  {
+   "station": "Oakland Harbor light-house \u2014 structural stabilization",
+   "report_year": "1894",
+   "page": "p. 186 (OCR only)",
+   "quote": "889. Oakland Harbor, entrance to Oakland Harbor, California.\u2014The stability of the piles supporting this structure was increased and further oscillation was prevented by filling the space under the building with 2,000 tons of stone. This was quarried on Goat Island and was transported to the station in schooners.",
+   "establishes": "The pile-founded Oakland Harbor light-house oscillated badly and was stabilized in FY1894 with 2,000 tons of Goat Island (Yerba Buena) stone dumped beneath it. OCR-derived.",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "San Luis Obispo (Port Harford)": [
+  {
+   "station": "San Luis Obispo (Port Harford)",
+   "report_year": "1891",
+   "page": "p. 157 (image-verified)",
+   "quote": "795. San Luis Obispo, near Port Harford, seacoast of California.\u2014The pipe line to convey water from Pecho Creek to the station, commenced in the last fiscal year, was completed in August, and by it an ample supply of good water was obtained. During the winter the heavy rains brought down large quantities of earth and other d\u00e9bris, which clogged the dam and pipes.",
+   "establishes": "By FY1891 San Luis Obispo was an operating station undergoing water-supply work \u2014 i.e. it was established before this report. NULL on the establishment date: no volume I obtained contains the Board's statement of when the San Luis Obispo light was first exhibited. The nearest indirect evidence is the Bodega Head recommendation reprinted in the 1891 report (p. 159) and again in 1893 (p. 166), which describes 'an engine house, such as is being constructed at San Luis Obispo, with duplicate steam fog-signal whistles, and two single dwellings for the keepers, one to have a tower for the light, as at San Luis Obispo' \u2014 stale boilerplate first written while the station was still building. Board station number 795 (1891); 15 (1901).",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Point Buchon (proposed, never built)": [
+  {
+   "station": "Point Buchon (proposed, never built) \u2014 the Port Harford approach",
+   "report_year": "1891",
+   "page": "p. 157 (image-verified)",
+   "quote": "This point is in San Luis Obispo County, and is 17 miles distant from the town of San Luis Obispo by wagon road and trail. The nearest light-house is Piedras Blancas, about 30 nautical miles to the northward and westward. The point is prominent, and with its outlying rocks is very dangerous to navigators close inshore during a fog, especially as vessels going to and from Port Harford make a sharp turn just off this point. It is estimated that a light-house and fog signal can be erected at this point for $33,000.",
+   "establishes": "A standing Board recommendation for a Point Buchon light and fog signal at $33,000, justified by the sharp turn Port Harford traffic makes off the point in fog. WARNING: the OCR of this passage renders the figure as '$83,000'; the page image reads $33,000. Any figure taken from the _djvu.txt of these volumes should be checked against the leaf image.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Point Sur": [
+  {
+   "station": "Point Sur",
+   "report_year": "1891",
+   "page": "p. 158 (image-verified)",
+   "quote": "797. Point Sur, seacoast of California.\u2014Great trouble was experienced in keeping the rain from driving through the porous stone of which the dwelling walls are built. To prevent this, the Sylvester process, consisting of alternate washes of alum and soap, was tried, but with only partial success.",
+   "establishes": "Point Sur was an operating station by FY1891, with porous-stone dwelling walls that leaked; the Sylvester process (alternate alum and soap washes) was tried on them. NULL on the establishment date: Point Sur appears in every volume I obtained only under repairs, water supply, road-building and fog-signal running hours \u2014 no volume in hand contains the Board's statement of the 1889 first lighting, which belongs to the FY1889 or FY1890 report. Board station number 797 (1891); 859 (1893); 892 (1895); 993 (1896); 17 (1901).",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Santa Cruz": [
+  {
+   "station": "Santa Cruz",
+   "report_year": "1896",
+   "page": "p. 158 (OCR only)",
+   "quote": "995. Santa Cruz, entrance to Santa Cruz Harbor, California.\u2014This station was connected with the water supply of Santa Cruz City. Various repairs were made.",
+   "establishes": "NULL on Santa Cruz establishment. In all ten obtained report years Santa Cruz appears only in repairs lists, in the whistling-buoy inventory ('Santa Cruz, California.\u2014A second-class whistling buoy, in good condition'), and in this single one-line 1896 note about hooking the station to the city water supply. The Santa Cruz light was established in 1870 and its establishment statement lies in era 1.",
+   "identifier": "annualreportlig02statgoog"
+  }
+ ],
+ "Trinidad Head fog bell": [
+  {
+   "station": "Trinidad Head fog bell",
+   "report_year": "1899",
+   "page": "p. 180 (image-verified)",
+   "quote": "47. Trinidad Head, Pacific Ocean, California.\u2014The fog bell was put in operation July 15, 1898.",
+   "establishes": "The Trinidad Head fog bell was put in operation 15 July 1898 \u2014 a California fog-signal establishment inside this era that the brief did not ask for. Note the Board had earlier refused a bell here: the 1891 report (p. 160, image-verified) records that on 14 November 1890 the district officers reported 'that it was inadvisable to establish such a fog signal there, as the elevation of the station would render the sound of a bell inaudible at sea level.' The same 1899 page adds that $250 was appropriated by the act of 3 March 1899 for a telephone line from the station to Trinidad.",
+   "identifier": "annualreportlig04statgoog"
+  }
+ ],
+ "Humboldt Bay jetty lights": [
+  {
+   "station": "Humboldt Bay jetty lights \u2014 fog signal wanted",
+   "report_year": "1899",
+   "page": "p. 180 (image-verified)",
+   "quote": "41, 42, 43. Humboldt Bay, California.\u2014There are three lights maintained on the jetties to guide vessels in over the bar. These, however, are ineffective in thick or foggy weather by day or night. It is evident that a fog-signal is much needed here. It is estimated that a proper fog-signal can be established on either the north or south jetty at a cost not to exceed $15,000.",
+   "establishes": "Board statement on a California fog-signal deficiency: the three Humboldt Bay jetty lights were useless in fog and the Board asked $15,000 for a jetty fog signal.",
+   "identifier": "annualreportlig04statgoog"
+  }
+ ],
+ "Fort Point fog signal and the wreck of the Rio de Janeiro": [
+  {
+   "station": "Fort Point fog signal and the wreck of the Rio de Janeiro",
+   "report_year": "1901",
+   "page": "p. 196 (image-verified)",
+   "quote": "The present Fort Point fog-signal, a bell struck by machinery, has long been complained of as inadequate, both in position and power. It is proposed to replace it with a second-class Daboll trumpet, blown by compressed air, and to place it on the top of the northwest bastion of Fort Winfield Scott, Fort Point, California, which will bring it directly over the present location of the bell. It is estimated that this can be done for not exceeding $7,000, and it is recommended that an appropriation of this amount be made therefor. The importance of this aid to navigation can not be urged too strongly. The bell can be heard only over a very limited area, frequently not at all until abreast of the fort. An efficient signal should be heard considerably to seaward to give warning of the approach to the vicinity of Fort Point Shoal. The recent disaster to the steamer Rio de Janeiro on this reef, involving a loss of over 100 lives, might not have occurred if an efficient signal had been in operation here.",
+   "establishes": "The sharpest Board statement on the failure of California bell fog signals in this era: the Fort Point bell was inadequate 'both in position and power', audible only abreast of the fort, and the Board explicitly connects the loss of the steamer City of Rio de Janeiro on Fort Point Shoal (over 100 lives, February 1901) to that inadequacy. A second-class compressed-air Daboll trumpet on the northwest bastion of Fort Winfield Scott was proposed at $7,000. The Board also decided to fit a new fourth-order lens at Fort Point.",
+   "identifier": "annualreportlig01boargoog"
+  }
+ ],
+ "Southampton Shoal (proposed) and Karquines Strait (proposed)": [
+  {
+   "station": "Southampton Shoal (proposed) and Karquines Strait (proposed)",
+   "report_year": "1901",
+   "page": "p. 197 (image-verified)",
+   "quote": "The Board is of opinion that the interests of commerce and navigation demand the establishment of a fog bell and lens-lantern light on the southeast end of this shoal. It is proposed to build a frame dwelling for the keeper on iron piles, with gallery and bell house, the signal to be a 3,000-pound bell struck by a Stevens apparatus, the lens lantern to be exhibited from the corner of the gallery. It is estimated that the entire structure can be built for a sum not exceeding $30,000, and the Board recommends that an appropriation of this amount be made therefor.",
+   "establishes": "Board proposal for Southampton Shoal light and fog bell at $30,000, justified by the new Santa Fe Railroad ferry from San Francisco to Point Richmond established during FY1901, whose straight course runs close to the shoal's southeast point. On the same page the Board asks $50,000 for a light and fog signal in Karquines Strait opposite the Selby Smelting Works.",
+   "identifier": "annualreportlig01boargoog"
+  }
+ ],
+ "Alcatraz fog-signal station (new, north end)": [
+  {
+   "station": "Alcatraz fog-signal station (new, north end)",
+   "report_year": "1901",
+   "page": "pp. 197\u2013198 (p. 197 image-verified)",
+   "quote": "29. Alcatraz Fog-Signal Station, San Francisco Bay, California.\u2014This new fog-signal station, established on the northern end of the island, consists of a small frame structure for housing the clockwork striking apparatus, with a 3,000-pound fog bell mounted in front.",
+   "establishes": "A new fog-signal station was established at the north end of Alcatraz Island in FY1901, with a 3,000-pound bell and clockwork striking apparatus. Foreshadowed by the 1900 report (p. 179, OCR only): '27. Alcatraz Island, San Francisco Bay, California.\u2014The fog bell was moved from its original site to a position on higher ground 140 feet to the northward and set up, with a new striking apparatus, in a new building.'",
+   "identifier": "annualreportlig01boargoog"
+  }
+ ],
+ "Point Arguello": [
+  {
+   "station": "Point Arguello",
+   "report_year": "1901",
+   "page": "p. 11 (NEW LIGHTS) and pp. 200\u2013201 (fog signal); p. 11 image-verified",
+   "quote": "Point Arguello light-station, seacoast of California.\u2014A fourth-order light February 22, 1901.",
+   "establishes": "Point Arguello light first exhibited 22 February 1901, fourth order; its compressed-air siren was established 1 June 1901 \u2014 the 1901 report (p. 201, OCR only) records: '14. Point Arguello, California.\u2014This first-class siren, in duplicate, operated by 13-horsepower oil engines and compressed air, was in operation about 84 hours since the date of its establishment, June 1, 1901, and consumed some 171 gallons of oil.' This was the fog signal the Board then held up as the model for Quarry Point. The station had been recommended since at least the FY1889 report at an estimated $35,000 (1891 report, p. 157, image-verified: 'It is reported to be one of the foggiest places on the Pacific coast').",
+   "identifier": "annualreportlig01boargoog"
+  },
+  {
+   "station": "Point Arguello",
+   "report_year": "FY1900 (Annual Report of the Light-House Board for the fiscal year ended June 30, 1900; Twelfth District)",
+   "identifier": "annualreportlig00statgoog",
+   "page": "176",
+   "quote": "12. Point Arguello, about 12 miles northwest of Point Conception, seacoast of California.\u2014The act approved March 3, 1899, appropriated $35,000 for establishing a light-house and fog-signal on this point. Since the passage of the act much time has been consumed in obtaining the right to take water from a spring on land adjoining the reservation and in securing rights of way to the county road. These matters being satisfactorily adjusted, bids for the construction of the station were opened on March 22, 1900, and the contract was let for $17,000. Actual construction work will probably be commenced early in July, 1900.",
+   "establishes": "Authorization and funding for Point Arguello: act of 3 March 1899, $35,000; construction contract let 22 March 1900 for $17,000; work to begin early July 1900 \u2014 i.e. exactly the timetable that produced a station lit in 1901. CAVEAT: this is the FY1900 report, not the FY1901 report. The FY1901 volume, which would carry the Board's own statement of the date of first lighting, could not be obtained (see gaps)."
+  },
+  {
+   "station": "Point Arguello",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, 'Fog-signals operated by steam or oil engines')",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "249-250",
+   "quote": "16. Point Arguello, California.\u2014This 12-inch whistle, in duplicate, worked by a 13-horsepower oil engine and compressed air, was in operation some 540 hours and consumed about 1,150 gallons of mineral oil.",
+   "establishes": "Point Arguello was a fully operating light and fog-signal station by FY1905 \u2014 a 12-inch whistle in duplicate driven by a 13-hp oil engine, run 540 hours in the year. This is the earliest in-service statement I could obtain for the station; it confirms establishment before 30 June 1905 but does not give the 1901 date."
+  },
+  {
+   "station": "Point Arguello",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "598",
+   "quote": "15. Point Arguello, about 12 miles northwest of Point Conception, seacoast of California.\u2014The construction of a 40,000-gallon concrete cistern was completed. The cistern is 24 feet internal diameter, with wall 1 foot thick. ... A rectangular sheet-steel oil tank of 1,800 gallons capacity was installed for supplying the oil engines operating the air-compressor plant for a fog-signal.",
+   "establishes": "Continued station improvements at Point Arguello in FY1907 (40,000-gallon concrete cistern; 1,800-gallon oil tank for the fog-signal air compressors), confirming a manned station dependent on trucked/piped water in this exposed location."
+  }
+ ],
+ "Twelfth District fog signals generally": [
+  {
+   "station": "Twelfth District fog signals generally \u2014 the 1891 fog season",
+   "report_year": "1892",
+   "page": "p. 190 (image-verified)",
+   "quote": "The length of time fog prevailed throughout this entire district from August to December, 1891, is without precedent. The season was unusually mild, with little or none of the strong trade winds, which usually blow every day from noon till sunset, during the summer months. Hence the fogs hung along the coast line with a peculiar tenacity. Every fog signal in the district, except that at Point Arena, was in operation a greater number of hours than during the previous year. This resulted in an increased expenditure of fuel and a consequent increase in the expenses of the tender for transportation. The signals were in operation last year some 13,520 hours on a consumption of about 596 tons of coal and 508 cords of wood, while during the previous year they were in operation some 9,958 hours, with an expenditure of about 434 tons of coal and 436 cords of wood.",
+   "establishes": "The Board's own account of an anomalous California fog season, August\u2013December 1891, attributed to the failure of the summer trade winds: 13,520 aggregate fog-signal hours in the Twelfth District against 9,958 the previous year, 596 tons of coal and 508 cords of wood against 434 and 436. Every district signal except Point Arena ran longer than the year before.",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Twelfth District": [
+  {
+   "station": "Twelfth District \u2014 scale of the establishment",
+   "report_year": "1891",
+   "page": "p. 156 (image-verified)",
+   "quote": "This district extends from the boundary line between California and Mexico to the boundary line between California and Oregon, a distance of about 800 miles of coast line, and embraces all the aids to navigation on the seacoast, bays, and navigable rivers of California. Inspector.\u2014Lieut. Commander Thomas Perry, U. S. Navy. Engineer.\u2014Maj. William H. Heuer, Corps of Engineers, U. S. Army.",
+   "establishes": "Baseline inventory for California as of 30 June 1891: 36 light-houses and lighted beacons; 1 light-ship in position; 48 day or unlighted beacons; 14 fog signals operated by steam; 7 fog signals operated by clockwork; 12 whistling buoys; 5 bell buoys; 83 other buoys; the tender Madro\u00f1o and the steam launch Hazel. District officers named: Lieut. Cdr. Thomas Perry (Inspector) and Maj. William H. Heuer (Engineer).",
+   "identifier": "annualreportlig03statgoog"
+  }
+ ],
+ "Bodega Head (proposed, never built)": [
+  {
+   "station": "Bodega Head (proposed, never built)",
+   "report_year": "1893",
+   "page": "p. 166 (image-verified)",
+   "quote": "Fog, accompanied by northwest winds, varying from fresh to strong in force, prevails above Point Reyes during about nine months of the year. The currents are uncertain in direction either up or down the coast, and seem to be due to causes which exist far to the north. ... A fog signal at this locality would therefore be of great benefit to mariners, and a small light would also be of much service, at little additional expense, as there is a stretch of unlighted territory about 68 miles in length between Point Reyes and Point Arena.",
+   "establishes": "Board reasoning for a Bodega Head light and fog signal at $30,000: fog nine months a year above Point Reyes, unreliable currents, and a 68-mile unlighted gap between Point Reyes and Point Arena. Recommendation renewed from at least the FY1889 report; the station was never built.",
+   "identifier": "annualreportlig01statgoog"
+  }
+ ],
+ "Carquinez Strait": [
+  {
+   "station": "Carquinez Strait",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; 'Report of the Operations of the Light-House Board')",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "508",
+   "quote": "Carquinez Strait light-station, California.\u2014The act approved March 4, 1907, appropriated $50,000 for the establishment of a light and fog-signal station at Carquinez Strait, between San Pablo Bay and Suisun Bay, authorized by the act approved February 26, 1907. The actual work of construction was commenced August 4, 1908. The station was established January 15, 1910. A fourth-order fixed red light and two gasoline-engine compressed-air plants operating 6-inch first-class compressed-air sirens were installed. The superstructure consists of a frame tower for the light, a frame dwelling with quarters for three keepers, a frame fog-signal house, a frame boathouse, a galvanized-iron oil house, and distillate house. A water pipe connects with the Vallejo city mains. Total cost of constructing station, $48,296.17.",
+   "establishes": "THE ESTABLISHMENT STATEMENT. Carquinez Strait Light Station was established 15 January 1910. Authorized by act of 26 Feb. 1907; $50,000 appropriated by act of 4 March 1907; construction begun 4 Aug. 1908; fourth-order fixed red light plus two 6-inch first-class compressed-air sirens; quarters for three keepers; total cost $48,296.17; water piped from the Vallejo city mains."
+  },
+  {
+   "station": "Carquinez Strait",
+   "report_year": "FY1909 (Reports of the Department of Commerce and Labor, 1909; Light-House Board, 'Uncompleted works of construction')",
+   "identifier": "reportsdepartme01statgoog",
+   "page": "635",
+   "quote": "Carquinez Strait, California.\u2014Authorized by the act of February 26, 1907, at a cost not to exceed $50,000; appropriation, act of March 4, 1907, $50,000. During the year the contractor commenced work on the landing and approach, the station substructure on piles, and on the superstructure, the latter consisting of a light and fog-signal building, boathouse, and three sets of keepers' quarters. At the close of the year he had practically completed the station substructure and the landing and approach. The superstructure is about 65 per cent completed. As soon as the contract is completed, which will probably be in July of the coming year, the fourth-order lens, lantern, fog-signal machinery, and 6-inch standard sirens, which are all on hand, will be installed, and the station should be ready for operation about October 1, 1909.",
+   "establishes": "Construction progress as of 30 June 1909, and the Board's own (over-optimistic) forecast that the station 'should be ready for operation about October 1, 1909' \u2014 three and a half months before the actual 15 January 1910 establishment. Confirms the pile substructure and three sets of keepers' quarters."
+  },
+  {
+   "station": "Carquinez Strait",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "601",
+   "quote": "44. Carquinez Strait, between San Pablo and Suisun Bay, California.\u2014The act approved on March 4, 1907, appropriated $50,000 for establishing a light and fog-signal at Carquinez Strait station. Plans were made and the work will be commenced soon.",
+   "establishes": "The earliest stage: the $50,000 appropriation of 4 March 1907 and the making of plans. Note that in this same district list the Board still carries 'Mare Island' as station no. 42 and Carquinez Strait as station no. 44 \u2014 i.e. the two stations coexisted in the Board's numbering before Mare Island was discontinued."
+  }
+ ],
+ "Mare Island": [
+  {
+   "station": "Mare Island",
+   "report_year": "FY1918 (Reports of the Department of Commerce, 1918; Report of the Commissioner of Lighthouses)",
+   "identifier": "reportsdepartme05commgoog",
+   "page": "567",
+   "quote": "The act of July 1, 1918, making appropriations for the naval service for the fiscal year 1919, transferred to the Navy Department the unused Mare Island Light Station, Cal. This station was discontinued July 1, 1917, and is not further required for lighthouse purposes.",
+   "establishes": "THE DISCONTINUANCE STATEMENT, in the agency's own words: Mare Island Light Station was discontinued 1 July 1917 and was 'not further required for lighthouse purposes'; the site and structures were transferred to the Navy Department by the naval appropriation act of 1 July 1918. The volume's index confirms the entry: 'Mare Island, Cal., light station discontinued.. 567' and 'Mare Island Light Station, Cal., transferred. 567'."
+  },
+  {
+   "station": "Mare Island",
+   "report_year": "FY1917 (Reports of the Department of Commerce, 1917; Report of the Commissioner of Lighthouses, table 'Lights discontinued during the fiscal year 1917')",
+   "identifier": "reportsdepartme03commgoog",
+   "page": "690",
+   "quote": "LIGHTS DISCONTINUED DURING THE FISCAL YEAR 1917. [158 lights, including float lights.] ... 18th ... Mare Island, Cal.",
+   "establishes": "Mare Island appears as a table row among lights discontinued in FY1917 (18th lighthouse district). CAUTION: this is a table entry, not a sentence, and the OCR of the district column in this table is badly garbled, so the district assignment is my reading rather than a clean transcription. It also sits one day on the other side of the line from the FY1918 narrative, which dates the discontinuance to 1 July 1917 (the first day of FY1918). Treat the FY1918 p. 567 sentence as the authoritative agency statement and this table as corroboration only."
+  },
+  {
+   "station": "Mare Island",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "601",
+   "quote": "42. Mare Island, entrance to Carquinez Strait, San Pablo Bay, California.\u2014Repairs to the lens at this station were made. A fog-bell striking apparatus was installed, replacing an old one.",
+   "establishes": "Mare Island was a going concern with a lens and a bell fog signal in FY1907, and the Board located it 'at the entrance to Carquinez Strait' \u2014 the agency's own geographic framing of the station that Carquinez Strait would supersede."
+  }
+ ],
+ "Point Cabrillo": [
+  {
+   "station": "Point Cabrillo",
+   "report_year": "FY1909 (Reports of the Department of Commerce and Labor, 1909; Light-House Board, 'Works of construction completed')",
+   "identifier": "reportsdepartme01statgoog",
+   "page": "630",
+   "quote": "Point Cabrillo, California.\u2014This station, on Point Cabrillo, consisting of a light and fog-signal building, three keeper's dwellings, barn, pump house, water-supply system, carpenter and blacksmith shops, was completed on June 10, 1909, at a cost of $50,000. The light is of the third order, flashing white every 10 seconds, 84 feet above the water, and should be visible 14 1/2 miles in clear weather. The fog signal is a 6-inch compressed-air siren.",
+   "establishes": "THE COMPLETION STATEMENT. Point Cabrillo Light Station completed 10 June 1909 at a cost of $50,000; third-order lens flashing white every 10 seconds; focal plane 84 feet above the water; visible 14.5 miles; 6-inch compressed-air siren; three keepers' dwellings."
+  },
+  {
+   "station": "Point Cabrillo",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "602",
+   "quote": "68. Point Cabrillo, about 4 miles north of Mendocino city, seacoast of California.\u2014The act approved on June 30, 1906, authorized a contract for the construction of a light and fog-signal, at a cost not to exceed $50,000, and appropriated $25,000 therefor. The site for the light-station was selected, surveyed, and measures are being taken to obtain title to this site.",
+   "establishes": "Authorization and funding: act of 30 June 1906 authorized the contract at a limit of $50,000 and appropriated $25,000; site selected and surveyed in FY1907. Also fixes the Board's own locational description, 'about 4 miles north of Mendocino city.'"
+  }
+ ],
+ "Los Angeles Harbor / Angels Gate (printed as San Pedro Breakwater Light Station)": [
+  {
+   "station": "Los Angeles Harbor / Angels Gate (printed as San Pedro Breakwater Light Station)",
+   "report_year": "FY1913 (Reports of the Department of Commerce, 1913; Report of the Commissioner of Lighthouses, descriptive section)",
+   "identifier": "reportsdepartme02commgoog",
+   "page": "413",
+   "quote": "SAN PEDRO BREAKWATER LIGHT STATION, CAL. Purpose.\u2014San Pedro Breakwater Light and Fog Signal Station was established to mark the outer end of the breakwater and to guide vessels into Los Angeles Harbor, Cal. This station went into commission March 1, 1913.",
+   "establishes": "THE ESTABLISHMENT STATEMENT plus the agency's explicit statement of WHY the station was built. The light now known as Los Angeles Harbor Light / Angels Gate went into commission 1 March 1913; its stated purpose was to mark the outer end of the San Pedro breakwater and guide vessels into Los Angeles Harbor. Note the Bureau's own name for it in 1913 was 'San Pedro Breakwater Light Station'."
+  }
+ ],
+ "Los Angeles Harbor / Angels Gate (San Pedro Breakwater)": [
+  {
+   "station": "Los Angeles Harbor / Angels Gate (San Pedro Breakwater)",
+   "report_year": "FY1913 (Reports of the Department of Commerce, 1913; Report of the Commissioner of Lighthouses, construction narrative)",
+   "identifier": "reportsdepartme02commgoog",
+   "page": "372",
+   "quote": "San Pedro Breakwater, Cal.\u2014The act of March 4, 1911, appropriated $36,000 for establishing a light and fog signal station on the San Pedro Breakwater, Cal. The lighthouse was completed during the year and placed in commission on March 1, 1913. It consists of a structural steel framework, the lower section containing fog-signal machinery, being built of metal plate. The upper section is built of cement plaster on metal lath and contains quarters for three keepers. The light apparatus is a fourth-order flashing bivalve lens with oil vapor lamp, of approximately 69,000 candlepower, shown at a height of 73 feet above the water. The fog signal is a first-class compressed-air siren; compressor and gas engine are direct connected, and the plant is in duplicate. The total cost to June 30, 1913, was $35,225.58.",
+   "establishes": "Appropriation ($36,000, act of 4 March 1911), date of first lighting/commissioning (1 March 1913), order of lens (fourth-order flashing bivalve, ~69,000 candlepower, focal plane 73 feet), fog signal (first-class compressed-air siren in duplicate), and cost to 30 June 1913 ($35,225.58). The descriptive section at p. 414 gives the final figure: 'the total cost was $35,971.49 ... the station was completed in June, 1913.'"
+  },
+  {
+   "station": "Los Angeles Harbor / Angels Gate (San Pedro Breakwater)",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; Light-House Board recommendations, Group No. 2)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "559",
+   "quote": "No. 7. San Pedro Breakwater light-station, Cal.\u2014For establishing a light and fog-signal station on the San Pedro Breakwater, Cal., $36,000. San Pedro Breakwater has been completed and the harbor developed. It should be marked by a light and fog-signal. Numerous petitions have been received from maritime interests urging the same.",
+   "establishes": "The Light-House Board's own stated reason for the station, three years before it was lit: the breakwater was complete, the harbor developed, and maritime interests had petitioned. Also fixes the $36,000 estimate that Congress appropriated in the act of 4 March 1911."
+  }
+ ],
+ "Point Stuart (Angel Island)": [
+  {
+   "station": "Point Stuart (Angel Island)",
+   "report_year": "FY1915 (Annual Report of the Commissioner of Lighthouses ... for the fiscal year ended June 30, 1915)",
+   "identifier": "bub_gb_B2dYAAAAYAAJ",
+   "page": "8",
+   "quote": "Fog signals established: Gallups Island, Boston Harbor, Mass. (electric bell); Fort McHenry, Baltimore Harbor, Md. (electric bell); Volusia Bar, St. Johns River, Fla. (bell); Point Blunt and Point Stuart, Angel Island, San Francisco Bay, Cal. (electric sirens).",
+   "establishes": "Point Stuart (with Point Blunt) on Angel Island received an ELECTRIC SIREN fog signal established during the fiscal year ended 30 June 1915. Note precisely what this sentence does and does not say: it is the Bureau's list of FOG SIGNALS established, not of lights. The same volume's table of 'Works under special appropriations, completed during fiscal year 1915' carries the corresponding entry 'Angel Island, Cal. (Point Blunt Light; Point Stuart Light) ... Installation of electric lights and electric fog signals controlled from Angel Island Station; also enlarging keepers quarters at Angel Island Station,' which is the Bureau's own statement that the Point Stuart light and fog signal were installed as remote-controlled electric aids worked from the Angel Island station. I could not find a page number in the OCR for that table."
+  }
+ ],
+ "Blunts Reef lightship station (Light-Vessel No. 83)": [
+  {
+   "station": "Blunts Reef lightship station (Light-Vessel No. 83)",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, Twelfth District)",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "249",
+   "quote": "58. Blunts Reef light-vessel, No. 83, off Cape Mendocino, California.\u2014This steel steam self-propelling light-vessel, of about 621 tons displacement, for which appropriation was made by the act approved on March 3, 1903, arrived in San Francisco in company with relief light-vessel No. 76 on June 4, 1905, at 1 a. m., after a successful voyage of 110 days from New York, of which time she was under steam 82 1/2 days. This vessel was docked, when her bottom was painted. After receiving coal, fresh water, and supplies she was again fitted for sea, and on June 28 took station off Blunts Reef in accordance with the published notice to mariners.",
+   "establishes": "THE ESTABLISHMENT OF THE BLUNTS REEF LIGHTSHIP STATION: Light-Vessel No. 83 'took station off Blunts Reef' on 28 JUNE 1905, two days before the close of the fiscal year. Appropriation by act of 3 March 1903; 621 tons displacement; arrived San Francisco 4 June 1905 after a 110-day voyage from New York."
+  },
+  {
+   "station": "Blunts Reef lightship station (Light-Vessel No. 83)",
+   "report_year": "FY1904 (Reports of the Department of Commerce and Labor, 1904; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme00statgoog",
+   "page": "281",
+   "quote": "58. Blunts Reef light-vessel, No. 83, off Cape Mendocino, seacoast of California.\u2014The act approved on March 3, 1903, appropriated $90,000 for constructing, equipping, and outfitting, complete for service, a first-class steam light-vessel, with steam fog-signal, to be situated off this cape. ... She is now being built by contract, under which she is to be delivered by December 17, 1904. She will be sent to the Pacific coast as soon as practicable after she is finished.",
+   "establishes": "The appropriation ($90,000, act of 3 March 1903) and the Board's purpose \u2014 'a first-class steam light-vessel, with steam fog-signal, to be situated off this cape' [Cape Mendocino] \u2014 plus the contract delivery date of 17 Dec. 1904. The FY1907 report (p. 601 region) adds that she 'was built at Camden, N. J., in 1904.'"
+  }
+ ],
+ "Anacapa Island": [
+  {
+   "station": "Anacapa Island",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; Light-House Board recommendations, Group No. 3)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "559",
+   "quote": "No. 2. Anacapa Island light-station, Cal.\u2014For the establishment of a light and fog-signal station on Anacapa Island, Cal., $100,000. Anacapa Island is one of the most difficult points on the southern California coast to pass in bad weather, and it is important that a light and fog-signal be established. The act of June 17, 1910, authorized this station, but no appropriation has been made therefor.",
+   "establishes": "THE AGENCY'S STATEMENT OF WHY Anacapa was to be lit, and the authorizing act: the act of 17 June 1910 authorized an Anacapa light and fog-signal station at a limit of $100,000, but Congress voted no money. This explains why only a small unattended beacon appeared in 1912 rather than a full station."
+  },
+  {
+   "station": "Anacapa Island",
+   "report_year": "FY1914 (Reports of the Department of Commerce, 1914; Report of the Commissioner of Lighthouses, estimates)",
+   "identifier": "reportsdepartme00commgoog",
+   "page": "561",
+   "quote": "No. 56. Anacapa Island, Cal., Light Station.\u2014For establishing a light and fog signal at or near Anacapa Island, Cal., $103,000. NOTE.\u2014Practically all coastwise vessels and a large number of those bound for Panama use the Santa Barbara Channel, and this traffic will be greatly increased with the opening of the Panama Canal. The desirable course leads close to the eastern end of Anacapa Island, which is now marked by a small beacon light, not sufficiently powerful to be of service in hazy weather. The American Shipmaster's Association has presented a petition for a light and fog signal, indorsed by the San Francisco and Los Angeles chambers of commerce and important shipping interests on the Pacific coast. It is therefore recommended that a light of high candle power and a first-class fog signal be established at this point as soon as practicable.",
+   "establishes": "The Bureau's own confirmation that by FY1914 Anacapa's eastern end WAS ALREADY MARKED by 'a small beacon light' \u2014 corroborating that a minor unattended light existed there by 1912-14 \u2014 together with the reasons for wanting a full station (Panama Canal traffic through the Santa Barbara Channel; petitions from the American Shipmasters' Association and the San Francisco and Los Angeles chambers of commerce). The $103,000 estimate breaks down as light tower $9,000(?), illuminating apparatus $8,500, fog-signal building and apparatus $14,000, etc."
+  },
+  {
+   "station": "Anacapa Island",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "598",
+   "quote": "Santa Barbara channel islands, California.\u2014Three islands of this group, San Clemente, Anacapa, and San Nicolas, are reserved for light-house purposes. San Clemente was leased for a period of five years from January 1, 1906, at $1,000 per annum. Anacapa was leased to the highest bidder for five years from April 1, 1907, at $31 a year. San Nicolas was leased to the highest bidder for five years commencing on April 15, 1907, at $362.60 a year.",
+   "establishes": "Anacapa Island was a light-house reservation from well before it was lit, and the Board leased it out (for $31 a year from 1 April 1907) while it waited for money to build. Useful for the land-tenure history of the station."
+  }
+ ],
+ "Southampton Shoal": [
+  {
+   "station": "Southampton Shoal",
+   "report_year": "FY1904 (Reports of the Department of Commerce and Labor, 1904; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme00statgoog",
+   "page": "279",
+   "quote": "46. Southampton Shoal, San Francisco Bay, California.\u2014The act approved on March 3, 1903, appropriated $30,000 for establishing a light and fog-signal to mark the south end of the shoal. Plans and specifications were prepared.",
+   "establishes": "The authorizing appropriation ($30,000, act of 3 March 1903) and the agency's statement of PURPOSE \u2014 'to mark the south end of the shoal.' The Board's adjacent discussion (pp. 279-280) explains the hazard: the passage between the east side of Angel Island and Southampton Shoal 'is quite narrow,' strong Golden Gate tides set vessels onto it, and the ship Mauladen 'while being towed to Port Costa, ran ashore on Southampton Shoal.'"
+  },
+  {
+   "station": "Southampton Shoal",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, Twelfth District)",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "245",
+   "quote": "46. Southampton Shoal, San Francisco Bay, California.\u2014The act approved on March 3, 1903, appropriated $30,000 for a light and fog-signal to mark the southern end of this shoal. A contract was made in March, 1905, to build a light-house consisting of a substructure of iron cylinders filled with concrete, carrying a platform of steel beams and concrete arches upon which will rest the frame dwelling, surmounted by a light tower. The eleven supporting cylinders are in place and the steel frame of the platform is in position.",
+   "establishes": "Construction state at 30 June 1905: contract let March 1905; eleven concrete-filled iron cylinders in place; steel platform frame set; the frame dwelling surmounted by a light tower still to come. IMPORTANT NEGATIVE FINDING: the station was NOT yet in operation at the close of FY1905, so the actual first lighting falls in FY1906 \u2014 the one volume I could not obtain."
+  },
+  {
+   "station": "Southampton Shoal",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; Light-House Board recommendations, Group No. 3)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "559",
+   "quote": "No. 1. Fort Point fog-signal, Cal.\u2014For the substitution of a first-class fog-signal to replace the present Daboll trumpet at the Fort Point light-station, Cal., $11,000. The present fog-signal at Fort Point, which is inadequate for this important station, is to be installed to replace the present bell fog-signal at Southampton Shoal light-station.",
+   "establishes": "Southampton Shoal Light Station was in operation with a BELL fog signal by FY1910, and the Board planned to hand it Fort Point's cast-off Daboll trumpet. This is the earliest statement in the volumes I obtained that shows the station as a working light-station rather than a construction project."
+  }
+ ],
+ "Mile Rocks": [
+  {
+   "station": "Mile Rocks",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, Twelfth District)",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "244-245",
+   "quote": "28. Mile Rocks, southern side of channel, entrance to San Francisco Bay, California.\u2014Contracts were made for building the concrete and steel substructure and also for the steel superstructure of the station. Work under the first contract was commenced in August, 1904, when a working party landed on the rock and commenced preparing it, by cutting and blasting, to receive the foundations of the building. In September, 1904, a schooner fitted as quarters for the workmen and for the storage of materials was moored close to the rock, but during a heavy blow she dragged her moorings and barely escaped being wrecked. ... The work was difficult and hazardous during its early stages, and proceeded slowly on account of the exposed position of Mile Rocks, directly in the entrance to San Francisco Harbor, where it is subjected to all the violence of the sea. There was hardly a day during the year on which at some time the waves did not break over the rock. There were many days when no landing could be effected and many others when the party, after landing, was driven off with only a few hours of work accomplished. On several occasions it was necessary to call upon the neighboring life-saving crews to take the men off the rock. A full day of eight hours passed upon the rock was exceptional until after the substructure was completed in June, 1905. This consists of a monolith of concrete inclosed within steel plates resting on the rock at the level of mean high water. It is elliptical in plan, covering 704 square feet, and has a height of 34 feet; 1,006 barrels of cement, furnished by the Government, were used in the work.",
+   "establishes": "The Board's own detailed account of building Mile Rocks: work begun August 1904, substructure completed JUNE 1905 (elliptical concrete monolith in steel plating, 704 sq. ft., 34 ft high, 1,006 barrels of cement). It also gives the agency's framing of the site's danger. The station was still incomplete at the close of FY1905; the lighting (February 1906) falls in the FY1906 report, which I could not obtain."
+  },
+  {
+   "station": "Mile Rocks",
+   "report_year": "FY1904 (Reports of the Department of Commerce and Labor, 1904; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme00statgoog",
+   "page": "277",
+   "quote": "28. Mile Rocks, southern side of channel, entrance to San Francisco Bay, California.\u2014Plans and specifications were prepared and bids were asked. Those for the substructure were opened on May 19, and those for the superstructure on June 8, 1904, and the contracts were made for both.",
+   "establishes": "Contract dates: substructure bids opened 19 May 1904, superstructure bids 8 June 1904, both contracts made within FY1904. Corroborated by the separately printed Light-House Board contract document (IA contractforconst00unitrich), whose advertisement is dated 'San Francisco, Cal., April, 1904' over the signature of Thos. H. Handbury, Lieut. Col., Corps of Engineers, Engineer 12th Light-House District."
+  },
+  {
+   "station": "Mile Rocks",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "601",
+   "quote": "27. Mile Rocks, entrance to Golden Gate, San Francisco Bay, California.\u2014Two derricks for receiving supplies on the east and west sides of the station were installed. A covered boat hoist was erected on the Presidio wharf for caring for the keepers' boat when they are ashore. The storage for oil for operating the oil engines was replaced with ten 144-gallon range boilers, various repairs were made.",
+   "establishes": "Mile Rocks was a manned, operating station by FY1907 (keepers with a boat kept at a Presidio wharf hoist; oil engines running). The same volume, p. 603 region, records its fog signal: '27. Mile Rocks, California.\u2014This 10-inch whistle, in duplicate...'"
+  }
+ ],
+ "Light-House Board itself (context for the 1910 transition)": [
+  {
+   "station": "Light-House Board itself (context for the 1910 transition)",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; 'Report of the Operations of the Light-House Board', letter of transmittal dated Washington, November 4, 1910)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "505 (first page of the Light-House Board report)",
+   "quote": "Sir: I have the honor to submit the following report of the operations of the Light-House Board for the fiscal year ended June 30, 1910. The Board was terminated on that date in accordance with the terms of the act of Congress approved June 17, 1910, but this report is prepared from data collected under the direction of the Board, and in its arrangement follows the plan of the report submitted by the Board for the preceding year. ... This act was approved June 17, 1910, and became effective July 1, 1910. In pursuance of its provisions a Commissioner and a Deputy Commissioner were appointed by the President, and assumed duty on July 1, 1910.",
+   "establishes": "The exact institutional break: the Light-House Board terminated 30 June 1910 under the act of 17 June 1910; the Bureau of Lighthouses and its Commissioner took office 1 July 1910. This is the agency's own account of the boundary between the Board's annual reports and the Commissioner of Lighthouses' annual reports, and it dates the FY1910 report as the LAST Board report (though written under the new Bureau)."
+  }
+ ]
+}

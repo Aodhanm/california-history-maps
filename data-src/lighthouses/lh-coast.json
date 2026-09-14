@@ -1,0 +1,1525 @@
+{
+ "lights": [
+  {
+   "name": "St. George Reef Light Station",
+   "alt_names": [
+    "Northwest Seal Rock Lighthouse",
+    "Saint George Reef Light"
+   ],
+   "region": "offshore",
+   "coords": [
+    41.83722,
+    -124.37556
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 561 (41-50-14.000N 124-22-32.000W); cross-checked against corrected UTM 10/385800/4632400 in NRHP nomination 93001373",
+   "coord_precision": "exact",
+   "first_lit": "First-order lens installed August 1892; station in operation by October 1892 (NRHP nomination 93001373, which quotes the 1892 Annual Report of the Light-House Board; the nomination dates a keeper's death 17 Oct 1893 'hardly a year after the station began operation'). The commonly cited day, 20 October 1892, is tertiary-level only in this survey.",
+   "established_structures": "Single granite tower on Northwest Seal Rock, built 1883-1891/92 on an elliptical concrete-and-granite pier; keepers withdrawn and station disestablished 13 May 1975 (nomination); relit as a restored private aid (Light List 2025, 'Restored historic light').",
+   "optic": "First-order Fresnel, 1892, flashing alternately red and white (NRHP nomination; USCG Historian's Office). Lens removed 1975 to the Del Norte County Historical Society museum (nomination).",
+   "why_built": "Marks the offshore reef where the steamer Brother Jonathan sank in 1865; the USCG Historian's Office narrative states the light 'marks the site of the tragic sinking of the steamer Brother Jonathan.' Land reserved by President Andrew Johnson after a May 1866 Light-House Board draft; construction 1883-1891 under Capt. A.H. Payson and then A. Ballantyne, total cost about $704,634-$726,000 (nomination quoting the 1892 Annual Report).",
+   "automated": "Never conventionally automated on station; USCG table marks 'automated' without a year. Disestablished 13 May 1975 and replaced by a lighted buoy.",
+   "deactivated": "13 May 1975 (NRHP nomination); relit as a private aid in the 2000s-2010s (Light List 2025 carries it as LLNR 561, Fl W 12s, 'Restored historic light'; relight year 2012 is tertiary only).",
+   "fate": "Standing; owned by Del Norte County per USCG page; maintained by the St. George Reef Lighthouse Preservation Society (tertiary; not independently verified). First-order lens displayed at Del Norte County Historical Society, Crescent City.",
+   "nrhp": "Listed 1993-12-09, ref 93001373, under Light Stations of California MPS (NRIS dataset 2026-05-22).",
+   "keepers_note": "On 17 October 1893, about a year after operations began, the first assistant keeper lost his life at the station (NRHP nomination); the USCG narrative adds that several men were injured or killed over the years transferring to the rock by small boat, and describes an 1923 storm that tore the donkey-engine house from its foundation 70 feet above the water.",
+   "summary": "The most expensive American lighthouse of its century, St. George Reef took eight working seasons (1883-1891) to raise on a wave-swept rock six miles off Point St. George, using 1,339 dressed granite blocks quarried near the Mad River. Its first-order flashing lens went into service in 1892 and warned shipping off the reef that had claimed the Brother Jonathan in 1865. The Coast Guard disestablished the station in May 1975 in favor of a buoy; the tower still stands and again shows a private light.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, St. George Reef Light Station, ref 93001373 (listed 1993), incl. quoted 1892 Annual Report of the Light-House Board",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/93001373_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, COMDTPUB P16502.6, LLNR 561",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, Historic Light Station Information & Photography: California (page last modified 2016-09-15), Wayback capture",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA digitized nomination file: https://catalog.archives.gov/id/123857370",
+    "USCG Historian's Office photo pages (archived LHCA.asp)",
+    "NPGallery photo set: https://npgallery.nps.gov/NRHP/GetAsset/NRHP/93001373_photos"
+   ],
+   "confidence_notes": "Establishment sequence firmly documented from nomination + AR-1892 quote. Day-level first-lit (Oct 20) not confirmed in a located primary source. USCG table's 'Station Established: 1867' reflects early reservation of the site, not construction."
+  },
+  {
+   "name": "Battery Point Light (Crescent City)",
+   "alt_names": [
+    "Crescent City Lighthouse",
+    "'Cresent City Lighthouse' (sic, NRIS spelling)"
+   ],
+   "region": "north-coast",
+   "coords": [
+    41.74417,
+    -124.20306
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 555 (41-44-39.000N 124-12-11.000W); NPS NRHP GIS point 41.74403,-124.20309 agrees",
+   "coord_precision": "exact",
+   "first_lit": "First exhibited 10 December 1856 (USC&GS Pacific Coast Pilot, 4th ed. 1889: 'first exhibited on the 10th of December, 1856'; the same passage notes it was not shown for a period beginning April 1860).",
+   "established_structures": "1856 Cape Cod-type dwelling with integral tower on Battery Point islet, one of the first West Coast lighthouses; still the original structure. Automatic light installed July 1953; leased to Del Norte County; light deactivated 1965-1982 (USCG); relit as a private aid 10 December 1982 (NRHP nomination).",
+   "optic": "Fourth-order Fresnel, 1856 (USCG Historian's Office).",
+   "why_built": "One of the first cohort of Pacific coast lighthouses authorized in the early 1850s to serve the gold-rush coastal trade; Crescent City was one of only two real harbors (with Humboldt Bay) on the redwood north coast (Bookwalter, Light Stations of California MPS, 1989).",
+   "automated": "1953 (USCG; nomination: automatic light installed July 1953).",
+   "deactivated": "1965-1982 (USCG table); relit 10 December 1982 as a private aid (nomination). Active today as LLNR 555, Fl W 30s, 'Restored historic light.'",
+   "fate": "Standing; museum operated with Del Norte County (county lease from 1953 per USCG); tidal-island access.",
+   "nrhp": "Listed 1983-09-15 as 'Cresent City Lighthouse' [sic], ref 83001177 (NRIS dataset).",
+   "keepers_note": "",
+   "summary": "Battery Point is one of the survivors of California's first generation of lighthouses: a brick tower rising through a granite Cape Cod dwelling on a tidal islet at Crescent City, first exhibited 10 December 1856. Automated in 1953 and dark from 1965, it was relit as a private aid on 10 December 1982 and now operates as a county museum still showing a light.",
+   "sources": [
+    {
+     "citation": "USC&GS, Pacific Coast. Coast Pilot of California, Oregon, and Washington, 4th ed. (GPO, 1889), Crescent City section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "NRHP nomination, Cresent City Lighthouse, ref 83001177 (listed 1983)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/83001177_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 555",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California light stations page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA nomination file: https://catalog.archives.gov/id/123858584",
+    "Del Norte County Historical Society collections (lead)"
+   ],
+   "confidence_notes": "The famous 1964 tsunami keeper eyewitness story is well known but was not verified in a located source for this survey; omitted. The 1860 dark period noted in the 1889 Coast Pilot deserves follow-up in Lighthouse Board records."
+  },
+  {
+   "name": "Trinidad Head Light Station",
+   "alt_names": [
+    "Trinidad Harbor Light"
+   ],
+   "region": "north-coast",
+   "coords": [
+    41.05191,
+    -124.15146
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 525 (41-03-06.869N 124-09-05.242W)",
+   "coord_precision": "exact",
+   "first_lit": "1871 (USC&GS Coast Pilot 1889: 'first exhibited in 1871'; NRHP nomination 91001098 and USCG concur on 1871; the customary day, 1 December 1871, is tertiary-level in this survey).",
+   "established_structures": "1871 square pyramidal brick tower, still standing and basically unchanged; 1898 bell house with 4,000-lb fog bell; original Victorian dwelling razed late 1960s for a Coast Guard triplex (USCG). Original 4th-order lens removed 1947 and installed 1948-49 in a memorial replica tower in the town of Trinidad (USCG; NRHP nomination says the original lens was installed in the replica in 1948).",
+   "optic": "Fourth-order Fresnel, 1871; replaced 1947 by a 375 mm optic (USCG).",
+   "why_built": "Served Trinidad Harbor and the north-coast lumber trade; the nomination's significance statement runs from 1871 under commerce, transportation and maritime history, within the doghole-port economy described in the Light Stations of California MPS.",
+   "automated": "February 1974 (USCG).",
+   "deactivated": "Never; active USCG aid (Light List 2025, Oc W 4s, HORN).",
+   "fate": "Standing; active aid with Coast Guard housing on the head; original lens and bell displayed at the town's memorial lighthouse.",
+   "nrhp": "Listed 1991-09-03, ref 91001098, Light Stations of California MPS (NRIS).",
+   "keepers_note": "In 1913 the keeper reported a freak wave that struck the 196-foot headland: 'The sea shot up the face of the bluff and over it, until the solid sea seemed to me to be on a level with where I stood in the lantern... The whole point between the tower and the bluff was buried in water' (quoted on the USCG Historian's Office page).",
+   "summary": "A squat brick tower of 1871 whose modest 20-foot height is multiplied by Trinidad Head's 196-foot cliff, this light covered the crowded lumber-schooner harbor at Trinidad. It keeps its original station arrangement minus the razed Victorian dwelling, and its 1871 lens survives in a replica tower in town. It remains an active Coast Guard aid, automated in 1974.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Trinidad Head Light Station, ref 91001098 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001098_text"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Trinidad section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 525",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), incl. 1913 keeper's report and 11 Feb 1981 station data",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA nomination file: https://catalog.archives.gov/id/123857376",
+    "NPGallery photos: https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001098_photos"
+   ],
+   "confidence_notes": "Day-level first lighting (Dec 1, 1871) not confirmed in located primary sources. USCG 'Station Established: 1866' likely reflects the 1866 land purchase noted in the nomination ('the federal government had purchased the [head] ...')."
+  },
+  {
+   "name": "Table Bluff Light Station",
+   "alt_names": [
+    "Table Bluff Lighthouse"
+   ],
+   "region": "north-coast",
+   "coords": [
+    40.6831828,
+    -124.2345035
+   ],
+   "coord_source": "USGS GNIS DomesticNames_CA, feature 235952 'Table Bluff' (Cliff, Humboldt County) - coordinate is for the bluff, not a published lighthouse position",
+   "coord_precision": "place",
+   "first_lit": "1892 (USCG Historian's Office: 'In 1892 the Lighthouse Service constructed a light station on Table Bluff'; NPS inventory: 'TABLE BLUFF LIGHT (1892)'). The customary day, 31 October 1892, is tertiary-level only.",
+   "established_structures": "1892 Stick-style keeper's dwelling with attached square wooden tower (near-twin of San Luis Obispo), duplex quarters and fog-signal building; most station buildings razed during and after WWII, leaving the tower and fog-signal building; the quarters portion of the lighthouse itself was razed leaving only the tower (USCG). The MPS context groups its fanciful Stick-style plans with San Luis Obispo and Ballast Point.",
+   "optic": "Fourth-order rotating Fresnel; in 1953 replaced by a fixed smaller lens and the 4th-order optic shipped to Old Point Loma for museum display; the later lens went to the Smithsonian on discontinuation (USCG; the page gives the replacement lens inconsistently as '3 1/2 order' and '2 1/2 order').",
+   "why_built": "Replaced the 1856 Humboldt Harbor light on the sinking, low North Spit, 'for many years... criticized as being too low' (USCG); the 1889 Coast Pilot already records that 'it has been proposed to remove the Humboldt Light-house to this bluff.'",
+   "automated": "1953; fog signal discontinued the same year (USCG).",
+   "deactivated": "1975 per the USCG narrative ('In 1975 the light was discontinued and the property transferred to GSA and sold'); the same page's data table says deactivated 1961 - conflict noted.",
+   "fate": "Station property sold; tower reportedly relocated to Woodley Island, Eureka, in the 1980s (tertiary, not verified in located records).",
+   "nrhp": "Not found in the NRIS listed-properties dataset (2026-05-22); apparently never listed.",
+   "keepers_note": "",
+   "summary": "Table Bluff took over Humboldt Bay's seacoast light in 1892 from the failing North Spit station, placing a Stick-style dwelling-tower on the high bluff south of the bay. The Navy added a radio station in 1906 and the site swelled with beach-patrol and radio-compass functions in WWII, after which most of the original complex was demolished. Automated in 1953, the light was discontinued in the 1970s and the property sold.",
+   "sources": [
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Table Bluff entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "NPS, Inventory of Historic Light Stations - California (2003, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.nps.gov/maritime/light/ca.htm"
+    },
+    {
+     "citation": "Jack Bookwalter, Light Stations of California, NRHP Multiple Property Documentation Form (Oct 16, 1989), ref 64500058",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
+    },
+    {
+     "citation": "USGS GNIS DomesticNames_CA, feature 235952",
+     "type": "PRIMARY",
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page photo links: 'CIRCA 1911, SHOWING THE TABLE BLUFF LIGHT TOWER AND ATTACHED DWELLING' and 'CIRCA 1951'"
+   ],
+   "confidence_notes": "Deactivation year conflicting within the USCG page (1961 table vs 1975 narrative). Woodley Island relocation and the Oct 31, 1892 first-lit day both need Lighthouse Service records; MPS says the Stick-style cohort was 'constructed' 1890, i.e., the design cohort, while the station itself dates to 1892."
+  },
+  {
+   "name": "Humboldt Harbor Light (1856)",
+   "alt_names": [
+    "Humboldt Bay Lighthouse",
+    "Humboldt Bay North Spit Lighthouse"
+   ],
+   "region": "north-coast",
+   "coords": [],
+   "coord_source": "No published coordinate located. The 1889 Coast Pilot places it 'on the North Spit or Peninsula, three-quarters of a mile north of the entrance to the bay and about midway between the bay and the sea-shores.'",
+   "coord_precision": "area",
+   "first_lit": "First exhibited 20 December 1856 (USC&GS Pacific Coast Pilot, 4th ed. 1889: 'The Light was first exhibited on December 20, 1856').",
+   "established_structures": "1856 one-and-a-half-story brick keeper's dwelling with a conical tower rising 21 feet above the roof, plastered and painted white (Coast Pilot 1889). Superseded by Table Bluff in 1892; the MPS context cites it as the type-case of a Cape Cod design failing 'when constructed on the sinking sands of Humboldt Bay.'",
+   "optic": "Fourth-order Fresnel, fixed white (Coast Pilot 1889). The third-order lens originally intended for Humboldt Harbor was diverted to Old Point Loma in 1855 (USCG Historian's Office, Old Point Loma entry).",
+   "why_built": "Humboldt Bay was one of the two harbors of the redwood coast and the outlet of its lumber trade; one of the first cohort of Pacific lighthouses funded in the early 1850s (MPS context; Coast Pilot 1889 notes the excessive fog at the site).",
+   "automated": "Never; replaced instead.",
+   "deactivated": "1892, when Table Bluff was established (USCG Table Bluff entry). ",
+   "fate": "Abandoned after 1892; ruins later lost (final demolition/collapse date not verified in located sources).",
+   "nrhp": "Not listed (not in NRIS dataset).",
+   "keepers_note": "",
+   "summary": "Lit on 20 December 1856, the Humboldt Harbor light was a brick Cape Cod dwelling-tower planted on the low, unstable North Spit of Humboldt Bay. Sited too low and plagued by fog and settling ground, it was criticized for decades; the Coast Survey was already reporting a proposal to move the light to Table Bluff in 1889, and the 1892 Table Bluff station superseded it.",
+   "sources": [
+    {
+     "citation": "USC&GS, Pacific Coast Pilot, 4th ed. 1889, 'Humboldt Bay Light-House' section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Table Bluff and Old Point Loma entries",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "Bookwalter, Light Stations of California MPS (1989), ref 64500058",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
+    }
+   ],
+   "photo_leads": [
+    "USCG historian photo archives (lead)",
+    "Humboldt County Historical Society (lead)"
+   ],
+   "confidence_notes": "Site coordinate deliberately left empty: only the Coast Pilot's verbal position was located. Post-1892 fate (1877 earthquake damage, 1933 demolition claims in tertiary sources) unverified."
+  },
+  {
+   "name": "Cape Mendocino Light Station",
+   "alt_names": [
+    "Cape Mendocino Lighthouse"
+   ],
+   "region": "north-coast",
+   "coords": [
+    40.4401316,
+    -124.4095
+   ],
+   "coord_source": "USGS GNIS DomesticNames_CA, feature 254709 'Cape Mendocino' (Cape) - coordinate is for the cape; the tower stood on its seaward face 422 ft above the sea (USCG). Tower relocated 1998 to Mal Coombs Park, Shelter Cove.",
+   "coord_precision": "place",
+   "first_lit": "First exhibited 1 December 1868 (Coast Pilot 1889: 'The Light was first exhibited December 1, 1868'; USCG concurs: 'activated on December 1, 1868').",
+   "established_structures": "1868 prefabricated 16-sided cast-iron pyramidal tower, 43 ft, one of the highest lights in the U.S. at 422 ft above the sea; the MPS groups its iron-plate prefabrication with Point Reyes. Automated 1951; abandoned 1970s; tower dismantled and re-erected 1998 at Mal Coombs Park, Shelter Cove (USCG).",
+   "optic": "First-order Fresnel, revolving (Coast Pilot 1889; USCG). Lens moved 1948 to a replica tower at the Humboldt County Fairgrounds, Ferndale (USCG).",
+   "why_built": "Cape Mendocino is the westernmost turning point of the California coast and its most prominent seamark for coastwise traffic; a first-order coastal light of the post-Civil War expansion (MPS context; Coast Pilot describes it as the abrupt termination of a mountainous ridge).",
+   "automated": "1951 (USCG).",
+   "deactivated": "Station abandoned in the 1970s (USCG table: 'Deactivated: 1970s'); a minor light on the site continued later per tertiary sources (Wikipedia infobox gives 2013), not verified.",
+   "fate": "Tower preserved at Shelter Cove (Cape Mendocino Lighthouse Preservation Society, per USCG); lens at Ferndale fairgrounds.",
+   "nrhp": "Not listed (not in NRIS dataset).",
+   "keepers_note": "",
+   "summary": "Lit on 1 December 1868, Cape Mendocino's prefabricated cast-iron tower stood 422 feet above the Pacific on the state's westernmost cape, its first-order flash marking the great turn of the coast. Automated in 1951 and abandoned by the 1970s, the little tower was dismantled in 1998 and rebuilt at Shelter Cove, while its lens has sat in Ferndale since 1948.",
+   "sources": [
+    {
+     "citation": "USC&GS, Pacific Coast Pilot, 4th ed. 1889, Cape Mendocino section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Cape Mendocino entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USGS GNIS DomesticNames_CA, feature 254709",
+     "type": "PRIMARY",
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
+    },
+    {
+     "citation": "Bookwalter, Light Stations of California MPS (1989)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page: 'THE OLD CAPE MENDOCINO LIGHTHOUSE' photo link"
+   ],
+   "confidence_notes": "Exact original tower coordinate not located in a published record (GNIS structure records were purged from the federal dataset); cape coordinate given with 'place' precision. Post-1951 aid history on the cape needs USCG Light Lists of the 1970s-2010s."
+  },
+  {
+   "name": "Punta Gorda Light Station",
+   "alt_names": [
+    "Punta Gorda Lighthouse"
+   ],
+   "region": "north-coast",
+   "coords": [
+    40.24394,
+    -124.34464
+   ],
+   "coord_source": "NRHP nomination 76000483, UTM zone 10 / 385630 E / 4455700 N (NAD27), converted; GNIS cape feature 231095 (40.2612,-124.3628) is the headland ~2 km north",
+   "coord_precision": "exact",
+   "first_lit": "15 January 1912: 'The fog-signal... went into operation on June 22, 1911; and a half a year later, on January 15, 1912, the station's light shown for the first time' (NRHP nomination 76000483).",
+   "established_structures": "Built 1910-11: reinforced-concrete light building (a squat two-story block), concrete oil house, wooden fog-signal building, three two-story frame keepers' dwellings, shops and barn strung along the beach bench (nomination). Light extinguished 15 February 1951; BLM burned all buildings except the lighthouse and oil house after 1960s squatting (nomination; USCG).",
+   "optic": "Fourth-order lens with incandescent oil-vapor lamp, focal plane 75 ft, visible 14 miles; electric lamp only from the 1940s (nomination). USCG table calls it a 'fourth order, bulls eye 1912.' Whereabouts of the lens unknown (USCG).",
+   "why_built": "Ten ships sank or stranded near Punta Gorda 1895-1907, ending with the Columbia, which collided with a lumber schooner on 12 July 1907 with 77 lives lost; 'this disaster was undoubtedly the impetus,' and Congress appropriated $60,000 in 1908 (nomination). The steamer St. Paul's 1905 boiler still lay a few hundred feet from the construction site.",
+   "automated": "Unknown/none - USCG marks automation 'UNK'; the station was simply discontinued.",
+   "deactivated": "15 February 1951 (nomination; USCG gives 1951).",
+   "fate": "Lighthouse and oil house stand on the remote Lost Coast; transferred to BLM 16 January 1963 (nomination). The 2016 USCG page instead says California Dept. of Parks and Recreation - conflict unresolved (the site is commonly described as BLM King Range NCA).",
+   "nrhp": "Listed 1976-09-01, ref 76000483 (NRIS dataset serial; ArcGIS layer lacks it).",
+   "keepers_note": "One of the loneliest posts in the district: supplies came by boat until 1915 and afterward by horse and wagon from Petrolia, ten and a half miles away, with creeks cutting the route off for seven months a year (nomination). After closure, squatters occupied the quarters until BLM evicted them and burned every building but the concrete pair (USCG).",
+   "summary": "The 'Alcatraz of lighthouses' on the Lost Coast was built after the Columbia disaster of 1907 capped a dozen years of wrecks below Cape Mendocino; its fog sirens sounded from June 1911 and the fourth-order light first shone on 15 January 1912. Nearly roadless its whole working life, the station was extinguished on 15 February 1951, and only the small concrete lighthouse and oil house survived the BLM's burn of the abandoned quarters.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Punta Gorda Light Station, ref 76000483 (listed 1976)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/76000483_text"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Punta Gorda entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USGS GNIS DomesticNames_CA, feature 231095 (Punta Gorda cape)",
+     "type": "PRIMARY",
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
+    }
+   ],
+   "photo_leads": [
+    "NARA nomination file: https://catalog.archives.gov/id/123858784",
+    "USCG archived page photo link"
+   ],
+   "confidence_notes": "Strongly documented via the 1976 nomination. Current land steward conflicting between nomination-era BLM record and the USCG page's CDPR claim; resolve against BLM King Range records."
+  },
+  {
+   "name": "Point Cabrillo Light Station",
+   "alt_names": [
+    "Point Cabrillo Lighthouse"
+   ],
+   "region": "north-coast",
+   "coords": [
+    39.34858,
+    -123.82606
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 450 (39-20-54.905N 123-49-33.828W)",
+   "coord_precision": "exact",
+   "first_lit": "10 June 1909: 'Its first beam of light shown on June 10, 1909' (NRHP nomination 91001092; USCG concurs on 1909).",
+   "established_structures": "1909 octagonal wooden tower integral with its fog-signal building, plus keepers' dwellings; 'with the exception of a small barn all original buildings stand unaltered' (USCG). Air diaphone supertyfone installed 1935.",
+   "optic": "Third-order Fresnel, 1909, still in the tower at listing ('architecturally intact including its original 3rd order Fresnel lens,' nomination).",
+   "why_built": "Filled the dark gap on the Mendocino lumber coast between Point Arena and Cape Mendocino, serving the doghole-schooner redwood trade; land acquired for the station in 1906 (nomination; MPS context counts ~100 doghole ports in Sonoma-Mendocino-Humboldt).",
+   "automated": "1973 (USCG).",
+   "deactivated": "Never; active (Light List 2025, Fl W 10s, emergency light provision).",
+   "fate": "Standing and restored as Point Cabrillo Light Station State Historic Park (California DPR; USCG page notes nature-preserve restoration).",
+   "nrhp": "Listed 1991-09-03, ref 91001092, Light Stations of California MPS (NRIS).",
+   "keepers_note": "",
+   "summary": "Point Cabrillo, first lit on 10 June 1909, is a wooden light-and-fog-signal building of the Lighthouse Service's late frame idiom, built for the redwood doghole trade out of Mendocino and Fort Bragg. Its original third-order lens survived automation in 1973, and the station complex, nearly complete, is now a California state historic park.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Cabrillo Light Station, ref 91001092 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001092_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 450",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA nomination file: https://catalog.archives.gov/id/123857676"
+   ],
+   "confidence_notes": "One boilerplate line in the nomination reads 'since its establishment in 1875' - an editing error in the MPS template; the document's own narrative (1906 acquisition, 1909 first light) governs."
+  },
+  {
+   "name": "Point Arena Light Station",
+   "alt_names": [
+    "Point Arena Lighthouse"
+   ],
+   "region": "north-coast",
+   "coords": [
+    38.95476,
+    -123.74062
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 420 (38-57-17.139N 123-44-26.214W)",
+   "coord_precision": "exact",
+   "first_lit": "First tower first exhibited 1 May 1870 (Coast Pilot 1889: first-order light 'first exhibited May 1, 1870'); replacement tower lit 1908 (NRHP nomination 90002189 significant dates 1870/1908; USCG).",
+   "established_structures": "1870 brick conical tower, 100 ft (Coast Pilot); wrecked by the 18 April 1906 earthquake and torn down; replaced 1908 by the first reinforced-concrete lighthouse tower in the nation, built by a San Francisco chimney contractor, with 1908 auxiliary buildings (MPS context; nomination).",
+   "optic": "First-order Fresnel 1870; first-order rotating Fresnel in the 1908 tower (USCG). Lens since removed from the tower for ground display on loan from the Coast Guard (USCG).",
+   "why_built": "Marked the prominent Point Arena headland and its dangerous outlying reef for the coastwise lumber and passenger trade north of San Francisco (Coast Pilot 1889 landfall description; MPS context).",
+   "automated": "1977, when the crew was removed (USCG).",
+   "deactivated": "Never; active (Light List 2025, Fl W 15s).",
+   "fate": "Standing; transferred to the nonprofit Point Arena Lighthouse Keepers, Inc. (USCG); museum and vacation rentals (NPS inventory).",
+   "nrhp": "Listed 1991-07-16, ref 90002189, under the Point Arena MPS (NRIS).",
+   "keepers_note": "",
+   "summary": "Point Arena's first-order light of 1 May 1870 stood only 36 years before the 1906 San Andreas rupture, whose trace passes just offshore, shattered the brick tower. Its 1908 replacement, a slim reinforced-concrete shaft raised by a San Francisco chimney firm, was the first concrete lighthouse in the country and the model for many later towers. Automated in 1977, it is now run by a local nonprofit.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Arena Light Station, ref 90002189 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/90002189_text"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Point Arena Light-House section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 420",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA nomination file: https://catalog.archives.gov/id/123857670",
+    "USCG archived page: 1870 and 1908 tower photos"
+   ],
+   "confidence_notes": "1908 relight day not located; 'first reinforced-concrete lighthouse in the nation' is the MPS's claim, quoted with attribution."
+  },
+  {
+   "name": "Point Reyes Light Station",
+   "alt_names": [
+    "Punta de los Reyes Light",
+    "Point Reyes Lighthouse"
+   ],
+   "region": "central-coast",
+   "coords": [
+    37.99561,
+    -123.02317
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 385 (37-59-44.205N 123-01-23.413W)",
+   "coord_precision": "exact",
+   "first_lit": "First exhibited 1 December 1870 (Coast Pilot 1889: first-order lens 'first exhibited December 1, 1870').",
+   "established_structures": "1870 sixteen-sided forged-iron-plate tower bolted to rock 294 ft above the sea, reached by 304 steps from the headland (USCG 1962 pamphlet quote); fog-signal building, engine room and later quarters above. A modern automated beacon took over in 1975; the historic tower is preserved.",
+   "optic": "First-order rotating Fresnel, 1870 (Coast Pilot 1889; USCG table).",
+   "why_built": "Point Reyes forms the seaward hazard of the Gulf of the Farallones on the approach to San Francisco, and is by official record the windiest and foggiest station on the Pacific coast (USCG pamphlet, 1962); a first-order headland light of the post-war program (MPS).",
+   "automated": "1975, when the Coast Guard installed automated equipment and retired the historic light (USCG table: automated/deactivated 1975).",
+   "deactivated": "Historic lens light retired 1975; the station remains an active aid via the adjacent automated beacon (Light List 2025, Fl W 5s, horn).",
+   "fate": "Transferred to the National Park Service; exhibit within Point Reyes National Seashore (USCG; NPS inventory).",
+   "nrhp": "Listed 1991-09-03, ref 91001100, Light Stations of California MPS (NRIS).",
+   "keepers_note": "The Coast Guard's own 1962 description: 'Point Reyes is, by official records, the windiest and foggiest on the Pacific Coast... few years pass that do not see violent gales of 75 to 100 mph strike the area,' with keepers descending 304 steps to the lantern (quoted on the USCG page).",
+   "summary": "Set into the cliff-face 294 feet above the surf because fog smothers the 600-foot headland above, Point Reyes first showed its first-order flash on 1 December 1870. Its iron-plate tower and clockwork lens served through a century of gales before automation in 1975, and the station now anchors the maritime story of Point Reyes National Seashore.",
+   "sources": [
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Point Reyes section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "NRHP nomination, Point Reyes Light Station, ref 91001100 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001100_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 385",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), incl. March 1962 pamphlet text",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA nomination file: https://catalog.archives.gov/id/123857643",
+    "Eadweard Muybridge circa-1871 photographs referenced on the USCG page"
+   ],
+   "confidence_notes": "Lens maker (commonly given as Barbier & Fenestre) not verified in located sources; nomination OCR incomplete on the lens passage."
+  },
+  {
+   "name": "Farallon Islands Light (Southeast Farallon)",
+   "alt_names": [
+    "Farallon Island Light",
+    "South Farallon Lighthouse",
+    "NRHP: 'Farallone Islands'"
+   ],
+   "region": "offshore",
+   "coords": [
+    37.6992,
+    -123.00184
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 355 (37-41-57.105N 123-00-06.615W); the 1889 Coast Pilot gives 37 41 51 N, 123 00 07 W for islet summit",
+   "coord_precision": "exact",
+   "first_lit": "1855 per USCG Historian's Office and NPS inventory ('Station Established: 1855 / First Lit: 1855'); the frequently cited first exhibition of the first-order lens on 1 January 1856 is tertiary-level in this survey. The first tower of 1853-54 had to be rebuilt before the lens fit.",
+   "established_structures": "Brick-lined stone conical tower on the 360-ft summit of Southeast Farallon, built 1855 with brick carried up the rock 'in bundles of four and five on the backs of men' (USCG); lantern room later removed and replaced by an automatic beacon on the tower (USCG photo captions show the tower with and without lantern).",
+   "optic": "First-order Fresnel, 1855 (USCG table).",
+   "why_built": "Guarded the deadly outer approach to Gold Rush San Francisco; the USCG narrative cites clippers such as the Golden City, detained five days off the Farallones in fog in 1852, as evidence of the need.",
+   "automated": "1972 (USCG).",
+   "deactivated": "Never; active (Light List 2025, Fl W 15s, white conical tower).",
+   "fate": "Active aid within the Farallon National Wildlife Refuge (NPS inventory); island research station.",
+   "nrhp": "The islands were listed as the 'Farallone Islands' district, ref 77000332, on 1977-03-08 (NRIS); the lighthouse is within that listing.",
+   "keepers_note": "For years a station mule - at one point 'the oldest inhabitant' - carried supplies up the rock; commercial egg-gathering for the San Francisco market and sealing went on around the keepers until the federal government stopped both (USCG page).",
+   "summary": "The Farallones light, raised in 1855 on the granite peak of Southeast Farallon, was among the first cohort of Pacific lights and among the hardest built, with every brick packed uphill by hand. Its first-order lens covered the fog-bound outer approach to San Francisco for over a century; the tower, automated in 1972 and stripped of its lantern, still flashes over a national wildlife refuge.",
+   "sources": [
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Farallon entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Southeast Farallon section (position, description)",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 355",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "NRIS listed-properties dataset (2026-05-22): Farallone Islands, 77000332",
+     "type": "PRIMARY",
+     "url": "https://www.nps.gov/subjects/nationalregister/upload/national-register-listed_20260522.xlsx"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123861099",
+    "Muybridge circa-1871 Farallon photographs referenced on the USCG page"
+   ],
+   "confidence_notes": "1977 NRHP district nomination scan has no usable OCR; 1855 vs Jan 1, 1856 first-light discrepancy flagged - settle from the Lighthouse Board's 1856 report."
+  },
+  {
+   "name": "Point Montara Light Station",
+   "alt_names": [
+    "Point Montara Fog Signal and Light Station"
+   ],
+   "region": "central-coast",
+   "coords": [
+    37.53648,
+    -122.51929
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 335 (37-32-11.324N 122-31-09.447W)",
+   "coord_precision": "exact",
+   "first_lit": "Fog-signal station established February 1875 (USCG pamphlet); 'Point Montara served exclusively as a fog-signal station until 1900 when a small post beacon was added. In 1912 a 4th order Fresnel lens was put atop a wooden tower' (NRHP nomination 91001094; the same document elsewhere says a beacon was added in 1902 - internal conflict noted). Present tower erected 1928.",
+   "established_structures": "1875 fog-signal station; 1900 (or 1902) post light; 1912 wooden Fresnel tower, demolished 1928; 1928 conical cast-iron/steel tower that still stands (nomination; USCG 'Point Montara Light... 1928').",
+   "optic": "Fourth-order Fresnel, 1912, transferred to the 1928 tower; later replaced by a modern airway-type beacon (nomination).",
+   "why_built": "Wrecks on the fog-bound ledges south of the Golden Gate: the nomination cites a shore ledge wreck in 1868 and the ship Acuelo gutted below Mt. Montara in November 1872 as the impetus for the fog signal.",
+   "automated": "1970 (USCG table).",
+   "deactivated": "Never; active (Light List 2025, Fl W 5s).",
+   "fate": "Standing; station is a youth hostel licensed to California State Parks (USCG).",
+   "nrhp": "Listed 1991-09-03, ref 91001094, Light Stations of California MPS (NRIS).",
+   "keepers_note": "",
+   "summary": "Montara began in February 1875 as a fog-signal station answering the wrecks on the ledges south of San Francisco, and only grew a light by stages: a small beacon around 1900, a fourth-order lens on a wooden tower in 1912, and the present little cast-iron tower in 1928. Automated in 1970, the station now doubles as a hostel above its still-active light.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Montara Light Station, ref 91001094 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001094_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 335",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), incl. pre-1970 pamphlet quote",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA nomination file: https://catalog.archives.gov/id/123857790"
+   ],
+   "confidence_notes": "The widely reported prior service of the 1928 tower at Mayo's Beach, Massachusetts (Lighthouse Digest research, 2008) is a tertiary lead only - not verified here. 1900 vs 1902 beacon date conflicts within the nomination itself."
+  },
+  {
+   "name": "Pigeon Point Light Station",
+   "alt_names": [
+    "Pigeon Point Lighthouse"
+   ],
+   "region": "central-coast",
+   "coords": [
+    37.18175,
+    -122.39396
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 320 (37-10-54.281N 122-23-38.253W)",
+   "coord_precision": "exact",
+   "first_lit": "1872 (USCG table: established 1871, first lit 1872; NPS inventory '1872'; the 1889 Coast Pilot describes the first-order light in service). The customary day, 15 November 1872, is tertiary-level in this survey.",
+   "established_structures": "1872 brick conical tower, 115 ft, of the 'Middle Atlantic' tall-tower type on a low coastal table (MPS context, which groups it with Piedras Blancas and dates the brick cohort 1870); attached workrooms; 1960 ranch-style quarters (USCG 1970 pamphlet).",
+   "optic": "First-order Fresnel (USCG narrative: 'equipped with a lens of the first order producing a light of 500,000 candlepower'; the table's '1892' lens date is unexplained and conflicts with the 1872 lighting).",
+   "why_built": "The point took its name from the wreck of the clipper Carrier Pigeon there, and the light marked the southern approach to San Francisco Bay for coastwise traffic (USCG; Coast Pilot 1889 describes the whaling landing and loading chute alongside).",
+   "automated": "1974 (USCG table; a 1970 pamphlet already described it as 'approximately automated').",
+   "deactivated": "Never; active (Light List 2025, Fl W 10s).",
+   "fate": "Standing; state historic park with hostel (NPS inventory); tower long closed for structural restoration (tertiary; not verified).",
+   "nrhp": "Listed 1977-03-08, ref 77000337 (NRIS).",
+   "keepers_note": "",
+   "summary": "Pigeon Point's 115-foot brick tower of 1872, a New England profile transplanted to a low San Mateo terrace, carried a first-order lens marking the southern approach to San Francisco and memorializing the clipper Carrier Pigeon lost on the point. Automated in 1974, it stands within a state historic park.",
+   "sources": [
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Pigeon Point section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 320",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "NRIS dataset: Pigeon Point Lighthouse, 77000337, listed 1977-03-08",
+     "type": "PRIMARY",
+     "url": "https://www.nps.gov/subjects/nationalregister/upload/national-register-listed_20260522.xlsx"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123861546",
+    "HABS/HAER, Library of Congress (lead)"
+   ],
+   "confidence_notes": "1977 nomination scan has no usable OCR - dates rest on USCG/NPS/Coast Pilot. Nov 15, 1872 day and the lens's reputed prior assignment to Cape Hatteras are unverified tertiary claims."
+  },
+  {
+   "name": "A\u00f1o Nuevo Island Light Station",
+   "alt_names": [
+    "Point A\u00f1o Nuevo Fog-Signal Station",
+    "Ano Nuevo Island Light"
+   ],
+   "region": "central-coast",
+   "coords": [
+    37.1085588,
+    -122.3377509
+   ],
+   "coord_source": "USGS GNIS DomesticNames_CA, feature 254568 'A\u00f1o Nuevo Island'; the 1889 Coast Pilot prints a Coast Survey position for the fog-whistle (OCR partly illegible in the scan used)",
+   "coord_precision": "place",
+   "first_lit": "Fog whistle 1872; light tower 1890: 'In 1872, the federal government installed a fog whistle on the island and added a five-story light tower in 1890' (California State Parks, A\u00f1o Nuevo SP brochure). The 1889 Coast Pilot confirms a steam fog-whistle, and no light, on the islet in 1889.",
+   "established_structures": "1872 steam fog-signal station on the islet off Point A\u00f1o Nuevo; keeper's house (1872-era, now a seabird roost per State Parks); five-story light tower added 1890; station replaced by an automatic buoy in 1948 and left in arrested decay (State Parks brochure).",
+   "optic": "Not verified in located sources (USCG's state page carries an empty data block for this station; photo captions distinguish the 1872 and 1890 structures).",
+   "why_built": "Marked the fog-shrouded low islet and reefs between Santa Cruz and Pigeon Point on the coastwise route to San Francisco (Coast Pilot 1889 navigation directions repeatedly key on the A\u00f1o Nuevo fog-whistle).",
+   "automated": "Station discontinued rather than automated: 'An automatic buoy replaced the light tower in 1948, eliminating the need for lighthouse staff' (State Parks).",
+   "deactivated": "1948 (State Parks brochure). Today the Light List shows only Ano Nuevo Island Lighted Whistle Buoy 24 (LLNR 315).",
+   "fate": "Abandoned in place since 1948 within A\u00f1o Nuevo State Park; buildings surrendered to seabirds and pinnipeds ('a state of arrested decay,' State Parks).",
+   "nrhp": "Not listed as a light station (not in NRIS dataset under any light-related name).",
+   "keepers_note": "",
+   "summary": "A\u00f1o Nuevo was a fog station first and a lighthouse second: the government set a steam whistle on the islet in 1872 and added a five-story tower only in 1890. A buoy replaced the whole apparatus in 1948, and the island's keeper buildings have been decaying amid elephant seals and cormorants inside a state park ever since.",
+   "sources": [
+    {
+     "citation": "California State Parks, 'A\u00f1o Nuevo State Park' brochure (web layout, 2022 remediated PDF)",
+     "type": "SECONDARY",
+     "url": "https://www.parks.ca.gov/pages/523/files/Ano%20Nuevo%20Final%20Web%20Layout031122_remediated.pdf"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889 (fog-whistle described; position table)",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 315 (buoy)",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USGS GNIS DomesticNames_CA, feature 254568",
+     "type": "PRIMARY",
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page photo links: 'AO NUEVO ISLAND LIGHTHOUSE (1872)' and '(1890)'"
+   ],
+   "confidence_notes": "Light-tower lens order and the exact 1890 lighting date (commonly May 29, 1890) unverified - the Annual Report of the Lighthouse Board for 1890 is the target source. Island coordinate is the GNIS island feature, not a lighthouse point."
+  },
+  {
+   "name": "Santa Cruz Light Station",
+   "alt_names": [
+    "Point Santa Cruz Light",
+    "successor: Mark Abbott Memorial Lighthouse"
+   ],
+   "region": "central-coast",
+   "coords": [
+    36.95148,
+    -122.02677
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 305 'Santa Cruz Light' (36-57-05.340N 122-01-36.360W) - the modern Mark Abbott Memorial tower near the original site; the 1869 lighthouse stood on the same point (moved 300 ft inland in 1878 for erosion, USCG)",
+   "coord_precision": "place",
+   "first_lit": "Original wooden lighthouse dates from 1869 (USCG: established/first lit 1869); the Coast Pilot 1889 records the fifth-order light 'first exhibited [month illegible] 1, 1870' - the two sources likely reflect completion (1869) versus first exhibition (1870).",
+   "established_structures": "1869 wooden dwelling with square tower at Point Santa Cruz; moved 300 ft inland 1878 due to erosion; light discontinued 1941; structure sold 1948 and razed in May 1948 (USCG). Brick Mark Abbott Memorial Lighthouse built near the site by the Abbott family after their son drowned surfing in 1965, using the lantern room from the Oakland Harbor Light; it carries today's Santa Cruz Light (USCG; Light List).",
+   "optic": "Fifth-order Fresnel, fixed red (Coast Pilot 1889); a fourth-order lens installed 1909 (USCG).",
+   "why_built": "Served the narrow-gauge port and coastal trade of Santa Cruz on Monterey Bay (MPS context lists Santa Cruz among the narrow-gauge outlets; Coast Pilot's sailing directions key on the light for the wharves).",
+   "automated": "No - the original station was keeper-run to the end (last keeper Arthur Anderson until 1941, USCG).",
+   "deactivated": "1941 (USCG); the present Santa Cruz Light (Fl W 5s) is the memorial tower, home of the Santa Cruz Surfing Museum.",
+   "fate": "Original razed May 1948; successor brick tower stands as museum and active aid.",
+   "nrhp": "Not listed (not in NRIS dataset).",
+   "keepers_note": "Laura Hecox succeeded her father A.A. Hecox as keeper in 1883 and served until 1916 - a 33-year tenure; only three keepers ran the light in its whole life (USCG). Her natural-history collection seeded the Santa Cruz city museum (tertiary; not verified).",
+   "summary": "Santa Cruz's little wooden harbor light of 1869-70 spent seven decades marking the wharves of Monterey Bay's north shore under just three keepers, most famously Laura Hecox. Discontinued in 1941 and razed in 1948, it was succeeded in spirit and function by the Mark Abbott Memorial Lighthouse, a 1960s brick memorial that now carries the official Santa Cruz Light and a surfing museum.",
+   "sources": [
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Santa Cruz entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Santa Cruz section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 305",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page photo link",
+    "Santa Cruz MAH / UCSC regional collections (leads)"
+   ],
+   "confidence_notes": "1869 vs 1870 first-light discrepancy flagged; the Coast Pilot's month is illegible in the scan used. Mark Abbott tower completion year (commonly 1967) not verified."
+  },
+  {
+   "name": "Point Pinos Light Station",
+   "alt_names": [
+    "Point Pinos Lighthouse, Pacific Grove"
+   ],
+   "region": "central-coast",
+   "coords": [
+    36.63338,
+    -121.93373
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 290 (36-38-00.165N 121-56-01.432W)",
+   "coord_precision": "exact",
+   "first_lit": "1855 (USCG: established/first lit 1855; NRHP nomination 77000312: 'completed in 1855, shortly after Alcatraz Light'). The customary day, 1 February 1855, is tertiary-level in this survey. Oldest continuously operating lighthouse on the West Coast (USCG).",
+   "established_structures": "1855 granite Cape Cod dwelling with central conical brick tower - the original structure still in service; the third-order lens likewise original and operational (USCG; Coast Pilot 1889 describes the gray granite dwelling and round white tower).",
+   "optic": "Third-order Fresnel, purchased in France, in continuous use ('Even the original lens is still operational,' USCG; nomination concurs).",
+   "why_built": "Marked the southern entrance of Monterey Bay for the port of Monterey, one of the first cohort of eight Pacific lighthouses of the 1850s (MPS context; Coast Pilot).",
+   "automated": "1975 (USCG).",
+   "deactivated": "Never; active (Light List 2025, Oc W 4s).",
+   "fate": "Standing; light transferred to the City of Pacific Grove in 2006; museum (USCG).",
+   "nrhp": "Listed 1977-07-14, ref 77000312 (NRIS).",
+   "keepers_note": "First keeper Charles Layton died in office; local citizens petitioned the Lighthouse Board to appoint his widow Charlotte Layton keeper, and another woman, Emily Fish, later held the post; Robert Louis Stevenson visited and wrote about the light (USCG page).",
+   "summary": "Point Pinos, lit in 1855, is the oldest continuously operating lighthouse on the Pacific coast of the United States, still showing its original French third-order lens from the original granite Cape Cod building. Its early keepers included two notable women, Charlotte Layton and Emily Fish. Automated in 1975, it now belongs to the City of Pacific Grove.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Pinos Lighthouse, ref 77000312 (listed 1977)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/77000312_text"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Point Pinos Light-House section (with C&GS position)",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 290",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123859952",
+    "Muybridge circa-1871 photo referenced on USCG page"
+   ],
+   "confidence_notes": "Feb 1, 1855 day-level date needs the Lighthouse Board record; year 1855 is multiply attested."
+  },
+  {
+   "name": "Point Sur Light Station",
+   "alt_names": [
+    "Point Sur Lightstation"
+   ],
+   "region": "central-coast",
+   "coords": [
+    36.30625,
+    -121.90156
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 280 (36-18-22.513N 121-54-05.621W)",
+   "coord_precision": "exact",
+   "first_lit": "1889 (USCG: 'The lighthouse was completed in 1889'; NRHP nomination 91001097 dates the tower/fog-signal structure 1889; the 1889 Coast Pilot, in press as it was built, notes 'a first-order Light will be established... the light house is now being erected'). The customary day, 1 August 1889, is tertiary-level here.",
+   "established_structures": "1889 sandstone tower and fog-signal building quarried on site, on the great rock ('Morro Rock') of Point Sur, with keepers' dwellings of 1889/1902 above; funded 1886 after 11 years of petitions (USCG).",
+   "optic": "First-order Fresnel (USCG; nomination).",
+   "why_built": "'Point Sur has always been a navigational nightmare' (USCG); the isolated Big Sur coast between Pigeon Point/Pinos and Piedras Blancas lacked any light, and the Coast Pilot of 1889 stresses the need on this bold stretch.",
+   "automated": "1972 (USCG).",
+   "deactivated": "Never; active (Light List 2025, Fl W 15s).",
+   "fate": "Standing; transferred to California State Parks (Point Sur State Historic Park; USCG).",
+   "nrhp": "Listed 1991-09-03, ref 91001097, Light Stations of California MPS (NRIS).",
+   "keepers_note": "Keepers received goods by lighthouse tender roughly every four months, the Monterey trail being 'long and treacherous' (USCG).",
+   "summary": "Raised in 1889 from sandstone quarried on its own rock, Point Sur put a first-order light on the wild Big Sur coast after a decade of petitioning. Its complete hilltop station - tower, fog signal and dwellings - survived isolation, automation in 1972, and transfer to California State Parks, making it one of the most intact light stations in the state.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Sur Light Station, ref 91001097 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001097_text"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889 ('proposed light' and construction notices)",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 280",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123857682"
+   ],
+   "confidence_notes": "Aug 1, 1889 day not verified in located primary sources."
+  },
+  {
+   "name": "Piedras Blancas Light Station",
+   "alt_names": [
+    "Piedras Blancas Lighthouse, San Simeon"
+   ],
+   "region": "central-coast",
+   "coords": [
+    35.66563,
+    -121.28434
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 265 (35-39-56.250N 121-17-03.639W)",
+   "coord_precision": "exact",
+   "first_lit": "1875 (NRHP nomination 91001095: 'The lighthouse itself dates from 1875,' significant dates 1875/1906; USCG: station established 1872, tower first lit 1875). The customary day, 15 February 1875, is tertiary-level here; the NPS inventory's '(1879)' is an outlier against both the nomination and USCG and is treated as an error.",
+   "established_structures": "1875 brick conical tower of the tall 'Middle Atlantic' type (MPS); lantern and upper tower removed after mid-20th-century earthquake damage, leaving the flat-topped tower in today's Light List description ('White conical tower with a flat top').",
+   "optic": "First-order Fresnel by Henry-Lepaute, 1875 (USCG table: 'FIRST ORDER (made by Henri Lapaute) 1875'). The lens's later display in Cambria is a tertiary lead, not verified here.",
+   "why_built": "Covered the 94-mile dark gap of the south-central coast and the whaling and coastal anchorage at San Simeon (nomination context; the San Luis Obispo nomination measures the Arguello-Piedras Blancas gap).",
+   "automated": "1975 (USCG).",
+   "deactivated": "Never; active (Light List 2025, Fl W 10s).",
+   "fate": "Standing (truncated); active aid and research station (NPS inventory 2003); managed since 2001 as BLM's Piedras Blancas Light Station Outstanding Natural Area (tertiary; not verified in located records).",
+   "nrhp": "Listed 1991-09-03, ref 91001095, Light Stations of California MPS (NRIS).",
+   "keepers_note": "",
+   "summary": "Piedras Blancas raised a tall first-order brick tower on the white guano rocks north of San Simeon in 1875, closing one of the longest unlit reaches of the coast. Earthquake damage cost it its lantern room, giving the tower its distinctive flat top, but its light never stopped; it was automated in 1975 and now anchors a protected coastal research station.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Piedras Blancas Light Station, ref 91001095 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001095_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 265",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123857782",
+    "USCG archived photos: tower with and without lantern room"
+   ],
+   "confidence_notes": "Lantern-removal date (commonly 1949) unverified. Lens maker per USCG's (misspelled) 'Henri Lapaute' = Henry-Lepaute of Paris."
+  },
+  {
+   "name": "San Luis Obispo Light Station (Port Harford)",
+   "alt_names": [
+    "Point San Luis Lighthouse",
+    "Port Harford Light"
+   ],
+   "region": "central-coast",
+   "coords": [
+    35.16023,
+    -120.76051
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 225 (35-09-36.840N 120-45-37.822W)",
+   "coord_precision": "exact",
+   "first_lit": "Completed 30 June 1890: 'the station was not completed until June 30, 1890' (NRHP nomination 91001093); USCG dates establishment and first lighting 1890.",
+   "established_structures": "1890 Stick-style (Victorian) dwelling with attached 40-ft square tower - the only survivor of the identical 1890 trio with Ballast Point and Table Bluff (MPS: 'Only San Luis Obispo remains today'); fog-signal building with 10-inch steam whistle (USCG).",
+   "optic": "Fourth-order Fresnel (USCG); replaced by a modern beacon in 1969, lens moved 1976 to the San Luis Obispo County Historical Society (USCG).",
+   "why_built": "Port Harford (Avila) was the coastal outlet of San Luis Obispo and 'one of the most active ports between San Francisco and San Diego,' with no light in the 94 miles between Point Arguello and Piedras Blancas; the sinking of the steamer Queen of the Pacific on 30 April 1888 clinched the appropriation (nomination).",
+   "automated": "1974 (USCG).",
+   "deactivated": "1975 as a staffed lighthouse; the site still shows a light (Light List 2025, Fl W 5s, lighted 24 hours).",
+   "fate": "Standing; restored by the Point San Luis Lighthouse Keepers as a museum (USCG; the Harbor District stewardship is a tertiary detail not verified).",
+   "nrhp": "Listed 1991-09-03, ref 91001093, Light Stations of California MPS (NRIS).",
+   "keepers_note": "",
+   "summary": "The Port Harford light of 30 June 1890 answered the Queen of the Pacific's 1888 sinking and the long dark gap of the south-central coast, planting a gingerbread Stick-style dwelling-tower on Point San Luis. It is the only one of its three identical 1890 sisters still standing, its fourth-order lens now in county museum hands and its buildings restored for visitors.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, San Luis Obispo Light Station, ref 91001093 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001093_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 225",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123857788"
+   ],
+   "confidence_notes": "Solidly documented; whether June 30, 1890 was completion or first exhibition should be settled from the Lighthouse Board AR for FY1890."
+  },
+  {
+   "name": "Point Arguello Light Station",
+   "alt_names": [
+    "Arguello Light"
+   ],
+   "region": "south-coast",
+   "coords": [
+    34.57707,
+    -120.64726
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 210 (34-34-37.452N 120-38-50.146W) - the modern post light at the station site; original 1901 tower location precision 'place'",
+   "coord_precision": "place",
+   "first_lit": "1901: 'In 1901, the lighthouse service built a light station at Point Arguello' (USCG Historian's Office). The customary day, 1 March 1901, is tertiary-level in this survey.",
+   "established_structures": "1901 lighthouse (original tower later removed); by 1968 the station showed a 36-inch rotating aerobeacon of 1,100,000 cp on a structure 124 ft above the water, with two-tone diaphone and radiobeacon (USCG 1968 description; photo captions distinguish 'the original Point Arguello light tower' and 'the Point Arguello skeleton tower'). Today a post light (Light List).",
+   "optic": "Original apparatus not verified in located sources (commonly given as a fourth-order Fresnel - tertiary only).",
+   "why_built": "The 'Graveyard of the Pacific' at the west entrance of the Santa Barbara Channel: the Yankee Blade wrecked there 1 October 1854 with about 415 lives and a bullion cargo, and shipwrecks continued for half a century before the 1901 station (USCG narrative). The same rocks later claimed seven destroyers and 22 men in the Honda Point disaster of 8 September 1923 (USCG narrative gives September 9).",
+   "automated": "1966-era remote operation implied; explicit automation year not verified (USCG page's structured block is empty for Arguello).",
+   "deactivated": "Never as a station site; the aid persists as a post light (Light List 2025, Fl W 15s). The 1901 tower itself is gone (replacement commonly dated 1934 - tertiary).",
+   "fate": "Original structures removed; site within Vandenberg Space Force Base; modern minor aid remains.",
+   "nrhp": "Not listed (not in NRIS dataset).",
+   "keepers_note": "The station doubled as a key synoptic weather reporting point for national weather maps, and its associated Coast Guard lifeboat station (est. 1934-38) served until 1958 (USCG).",
+   "summary": "Point Arguello, where the Yankee Blade went down in 1854 and seven Navy destroyers piled up at Honda Point in 1923, got its light station only in 1901. The original lighthouse gave way in the 1930s to a rotating aerobeacon, and today a simple post light on the Vandenberg coast carries on the station's warning at the west door of the Santa Barbara Channel.",
+   "sources": [
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Point Arguello entry incl. 10 Feb 1968 description",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 210",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page: original tower and skeleton tower photos"
+   ],
+   "confidence_notes": "Weakest-documented station in this survey: first-lit day, original lens, 1934 rebuild and automation all need the Lighthouse Service annual reports and Light Lists of 1901-1940. USCG narrative internally dates Honda Point September 9; the accepted date is September 8, 1923."
+  },
+  {
+   "name": "Point Conception Light Station",
+   "alt_names": [
+    "Punta de la Limpia Concepcion Light"
+   ],
+   "region": "south-coast",
+   "coords": [
+    34.44863,
+    -120.47072
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 200 (34-26-55.063N 120-28-14.574W)",
+   "coord_precision": "exact",
+   "first_lit": "First lighted 1 February 1856 (NRHP nomination 81000176 narrative: the PIERCE delivered lens and lamp and the light was exhibited 'February 1, 1856'); lower replacement tower first lit 1882 (USCG: established 1856, current tower 1881-82).",
+   "established_structures": "1856 tower and dwelling high on the bluff (razed; the nomination notes the original 1854-era lighthouse site presumably destroyed with 1960s razing of buildings); station relocated 1881 to a mesa 133 ft above the sea and the present tower lit 1882 after the Fort Tejon earthquake of 9 January 1857 had earlier damaged the first building (USCG narrative, which misdates the quake to 1867).",
+   "optic": "First-order Fresnel, 1856, still in use at the time of listing ('still utilizes its original lens,' nomination; USCG concurs 'FIRST ORDER, FRESNEL 1856').",
+   "why_built": "The 'Cape Horn of the Pacific' - the great turning point between the coastwise route and the Santa Barbara Channel, part of the first 1850s cohort; the lens and ironwork came around Cape Horn from France at a cost of $65,068 (USCG).",
+   "automated": "1973 (USCG).",
+   "deactivated": "Never; active (Light List 2025, Fl W 30s).",
+   "fate": "Standing; active USCG aid on private ranch coast (access restricted).",
+   "nrhp": "Listed 1981-02-25, ref 81000176 (NRIS).",
+   "keepers_note": "",
+   "summary": "One of the original eight Pacific lighthouses, Point Conception first showed its French first-order light on 1 February 1856 at the hinge of the California coast. The station moved partway down its bluff in 1881-82 to escape the high fog, and the 1882 tower still turns the 1856 lens - among the longest-serving optics in the country. It was automated in 1973 and remains active.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Conception Light Station, ref 81000176 (listed 1981)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/81000176_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 200",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123861609",
+    "USCG archived page: 1856 and 1882 tower photos"
+   ],
+   "confidence_notes": "USCG's '1867' Fort Tejon earthquake date is wrong (1857). Current steward (Dangermond Preserve surroundings) not addressed in located records."
+  },
+  {
+   "name": "Santa Barbara Light Station",
+   "alt_names": [
+    "Santa Barbara Lighthouse"
+   ],
+   "region": "south-coast",
+   "coords": [
+    34.39639,
+    -119.72265
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 195 (34-23-47.004N 119-43-21.539W) - the modern tower at the station site on the Mesa",
+   "coord_precision": "exact",
+   "first_lit": "First exhibited 1 December 1856, as a red light, later changed to white (Coast Pilot 1889; USCG narrative concurs: 'established on December 1, 1856').",
+   "established_structures": "1856 dwelling with tower rising through its center, built by George D. Nagle of San Francisco for $8,000 (USCG); destroyed by the 29 June 1925 Santa Barbara earthquake at 6:45 a.m.; temporary frame tower, then the present small automated white tower (USCG; Light List).",
+   "optic": "Fourth-order lens, fixed red then fixed white (USCG; Coast Pilot 1889 gives the arc and 183-ft focal plane).",
+   "why_built": "Harbor light for Santa Barbara's roadstead and channel trade, part of the first 1850s cohort of West Coast lights (USCG; MPS context).",
+   "automated": "Automated small tower after 1925 (exact year not verified; the replacement was an unwatched light).",
+   "deactivated": "Never as an aid; the 1856 building was destroyed 29 June 1925 (USCG). Active today as LLNR 195, Fl W 10s.",
+   "fate": "Original destroyed 1925; modern minor tower on the site.",
+   "nrhp": "Not listed (not in NRIS dataset).",
+   "keepers_note": "Julia F. Williams took over from her husband and was formally appointed 5 June 1865; she kept the light for more than 40 years, reportedly away only two nights, raising five children there, until a broken hip ended her service in 1905 at age 81 (USCG page).",
+   "summary": "Santa Barbara's 1856 lighthouse was a classic first-generation dwelling-tower, best remembered for Julia Williams's forty-year vigil over its fixed light. The 1925 earthquake flattened the old building at dawn on 29 June; a plain automated tower has marked the Mesa site ever since.",
+   "sources": [
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Santa Barbara light section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Santa Barbara entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 195",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page photo link",
+    "Santa Barbara Historical Museum (lead)"
+   ],
+   "confidence_notes": "Post-1925 rebuild chronology (temporary tower to present structure) not fully documented in located sources."
+  },
+  {
+   "name": "Point Hueneme Light Station",
+   "alt_names": [
+    "Port Hueneme Light"
+   ],
+   "region": "south-coast",
+   "coords": [
+    34.14517,
+    -119.20998
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 190 (34-08-42.624N 119-12-35.919W) - the 1941 tower at the harbor entrance; the 1874 lighthouse stood near the point ('place' precision for the original site)",
+   "coord_precision": "exact",
+   "first_lit": "First exhibited 1874 (Coast Pilot 1889: 'first exhibited in 1874,' fourth-order fixed red; USCG: established 1874). The customary day, 15 December 1874, is tertiary-level here. Present tower first lit 1941 (USCG).",
+   "established_structures": "1874 Stick/Eastlake dwelling-tower built from the same plans as Point Fermin and East Brother (MPS); replaced by the 1941 Art Moderne square concrete tower on a fog-signal building, of the same series as WWII-era Alaska towers (MPS dates the type 1942; USCG first lit 1941).",
+   "optic": "Fourth-order Fresnel (Coast Pilot 1889: fourth order, fixed red; USCG).",
+   "why_built": "Port Hueneme was the seaward outlet of a prosperous Ventura County grain district, its wharf traffic warranting the 5th [sic - 4th] order light of 1874 at the east entrance of the Santa Barbara Channel (MPS context; Coast Pilot).",
+   "automated": "1972 per the USCG data table; the narrative says the station 'was automated in 1941' with the new tower - conflict noted.",
+   "deactivated": "Never; active (Light List 2025, Fl (5)W 30s).",
+   "fate": "1874 building gone (sold/moved 1941 - tertiary, unverified); 1941 tower stands within the Port of Hueneme/Naval Base Ventura County.",
+   "nrhp": "Not listed (not in NRIS dataset).",
+   "keepers_note": "",
+   "summary": "Hueneme's fanciful 1874 Eastlake lighthouse, sister to Point Fermin's, marked the grain wharves at the east entrance of the Santa Barbara Channel. In 1941 it gave way to the crisp Art Moderne tower that still works the harbor entrance, one of the last true lighthouse structures built on the coast.",
+   "sources": [
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Point Hueneme section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Point Hueneme entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 190",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "Bookwalter, Light Stations of California MPS (1989) - 1874 trio and 1941/42 concrete type",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page: 1874 and 1941 tower photos"
+   ],
+   "confidence_notes": "Automation year conflicting (1941 narrative vs 1972 table). Fate of the 1874 building unverified."
+  },
+  {
+   "name": "Anacapa Island Light Station",
+   "alt_names": [
+    "Anacapa Light"
+   ],
+   "region": "offshore",
+   "coords": [
+    34.01584,
+    -119.35957
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 185 (34-00-57.028N 119-21-34.460W)",
+   "coord_precision": "exact",
+   "first_lit": "Unattended beacon 1912; present tower first lit 1932 ('Prior to that an unattended light placed on the island in 1912 served as a guiding beacon,' USCG; station established 1912, tower first lit 1932). The customary day for the 1932 light (March 25) is tertiary-level here.",
+   "established_structures": "1912 automatic light (skeleton structure); 1932 full station on East Anacapa: 40-ft cylindrical concrete tower, fog-signal building, Spanish Colonial Revival keepers' residences and support buildings - the last major light station built on the California coast in that idiom (NRHP nomination 91001101 inventory of 1932 contributing buildings; MPS notes the 1920s Spanish Revival ensembles at Vicente and Anacapa).",
+   "optic": "Third-order Fresnel, 1932 (USCG; nomination confirms the original 3rd-order lens preserved).",
+   "why_built": "Guides traffic through the Santa Barbara Channel past the island chain at its eastern gate; the 1912 beacon and 1932 station answered growing channel shipping (USCG narrative; MPS channel-traffic context).",
+   "automated": "December 1968 (USCG).",
+   "deactivated": "Never; active (Light List 2025, Fl (2)W 60s).",
+   "fate": "Station transferred entire to the National Park Service in December 2008; active aid within Channel Islands National Park (USCG).",
+   "nrhp": "Listed 1991-09-03, ref 91001101, Light Stations of California MPS; boundary increase 2020s ref 100010729 (NRIS).",
+   "keepers_note": "",
+   "summary": "Anacapa got a lonely automatic beacon in 1912 and a complete Mission-Revival light station only in 1932 - the final full station of its kind on this coast, with red-tiled keepers' houses beside a concrete tower. Automated in 1968 and handed to the National Park Service in 2008, its third-order lens survives on the island it served.",
+   "sources": [
+    {
+     "citation": "NRHP nomination/additional documentation, Anacapa Island Light Station, ref 91001101 (listed 1991)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001101_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 185",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Anacapa entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123857871"
+   ],
+   "confidence_notes": "1932 first-lit day and the 1912 beacon's structure type need Lighthouse Service records; otherwise well documented."
+  },
+  {
+   "name": "Point Vicente Light Station",
+   "alt_names": [
+    "Point Vicente Lighthouse, Palos Verdes"
+   ],
+   "region": "south-coast",
+   "coords": [
+    33.74196,
+    -118.41064
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 170 (33-44-31.072N 118-24-38.314W)",
+   "coord_precision": "exact",
+   "first_lit": "1926 - 'guiding sailing vessels to and from the Los Angeles/Long Beach Harbors since March 1926' (USCG narrative; USCG table and NRHP agree on 1926; the commonly cited 1 May 1926 day is tertiary-level here).",
+   "established_structures": "1926 cylindrical reinforced-concrete tower, 67 ft, on a 130-ft cliff, with Spanish Revival station buildings (USCG; MPS 1920s Spanish Revival grouping; NRHP nomination 80000808, 'Light, built in 1926').",
+   "optic": "Third-order rotating Fresnel made in Paris about 1910-1914 by Barbier, Bernard et Turenne (USCG narrative says c.1910; the nomination says the lens 'was made in Paris in 1914').",
+   "why_built": "Marks the Palos Verdes headland on the approach to Los Angeles/Long Beach harbors for coastwise and harbor-bound traffic (USCG).",
+   "automated": "1971 by remote electronic monitoring (USCG narrative; the data table's 1973 conflicts - noted).",
+   "deactivated": "Never; active (Light List 2025, Fl (2)W 20s).",
+   "fate": "Standing; USCG station with adjacent city interpretive center (tertiary detail).",
+   "nrhp": "Listed 1980-10-31, ref 80000808 (NRIS).",
+   "keepers_note": "",
+   "summary": "Point Vicente's 1926 concrete tower, dressed in the Spanish Revival style of its decade, turned a Paris-made third-order lens 185 feet above the sea to funnel shipping toward the booming Los Angeles harbor. Manned for 45 years, it went to remote operation in 1971 and still flashes twice every twenty seconds over Palos Verdes.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Vicente Light, ref 80000808 (listed 1980)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/80000808_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 170",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123859422"
+   ],
+   "confidence_notes": "Lens manufacture year differs between USCG (c.1910) and nomination (1914); automation 1971 vs 1973 likewise conflicting within/between the USCG page - both flagged."
+  },
+  {
+   "name": "Point Fermin Light Station",
+   "alt_names": [
+    "Point Fermin Lighthouse, San Pedro"
+   ],
+   "region": "south-coast",
+   "coords": [
+    33.70534,
+    -118.29366
+   ],
+   "coord_source": "NPS NRHP GIS point for listing 72000234 (33.70534,-118.29366; the historic building at 805 Paseo Del Mar). The modern Point Fermin Light aid (LLNR 140, on pile) is at 33-42-17.310N 118-17-38.408W.",
+   "coord_precision": "exact",
+   "first_lit": "1874 (USCG: established/first lit 1874, 'built in 1874 with lumber from California redwoods'; the 1889 Coast Pilot shows the light in service). The customary day, 15 December 1874, is tertiary-level here.",
+   "established_structures": "1874 Stick/Eastlake combination tower-residence, from the same plans as Point Hueneme (first) and East Brother (MPS); lantern room and gallery removed 1942 for a WWII lookout shack; new lantern room and gallery rebuilt 1974 (USCG).",
+   "optic": "Fourth-order Fresnel, 1874 (USCG).",
+   "why_built": "Marked San Pedro Bay and the growing port of Los Angeles at Point Fermin's 100-ft bluff (Coast Pilot 1889; MPS harbor-growth context).",
+   "automated": "Not applicable - extinguished instead (USCG table: 'Automated? N/A').",
+   "deactivated": "Light extinguished 1941 and lantern removed (USCG narrative; table says deactivated 1942).",
+   "fate": "Standing in Point Fermin Park, San Pedro; long the park superintendent's residence, now restored with its 1974 lantern (USCG); a separate modern pile light serves mariners nearby (Light List 2025).",
+   "nrhp": "Listed 1972-06-13, ref 72000234 (NRIS).",
+   "keepers_note": "Its first keepers were the sisters Mary and Ella Smith (commonly reported - tertiary, not verified in located sources).",
+   "summary": "Point Fermin's gingerbread redwood lighthouse of 1874, twin to Hueneme's and East Brother's, watched over San Pedro Bay as Los Angeles built its great harbor below. Blacked out days after Pearl Harbor and stripped of its lantern for a lookout shack, it regained a rebuilt lantern room in 1974 and presides over a city park, while a plain pile light does its old job.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Point Fermin Lighthouse, ref 72000234 (listed 1972)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/72000234_text"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 140 (modern aid)",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USC&GS Pacific Coast Pilot, 4th ed. 1889, Point Fermin section",
+     "type": "PRIMARY",
+     "url": "https://archive.org/details/cihm_15816"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123859420"
+   ],
+   "confidence_notes": "First keepers (Smith sisters) and Dec 15, 1874 day are tertiary. 1941 vs 1942 extinguishing dates conflict within the USCG page."
+  },
+  {
+   "name": "Los Angeles Harbor Light Station (Angels Gate)",
+   "alt_names": [
+    "Angels Gate Light",
+    "San Pedro Breakwater Light"
+   ],
+   "region": "south-coast",
+   "coords": [
+    33.70856,
+    -118.25166
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 135 (33-42-30.810N 118-15-05.984W)",
+   "coord_precision": "exact",
+   "first_lit": "1913 (USCG: established/first lit 1913; NRHP nomination 80000810: built 'in 1913 at a total cost of $35,971.49'; a temporary light had stood on the breakwater block since its 1910 completion, USCG). The customary day, 1 March 1913, is tertiary-level here.",
+   "established_structures": "1913 cylindrical steel-and-concrete tower with black vertical stripes on a 40-ft concrete block at the end of the San Pedro breakwater - a one-off Beaux-Arts design ('the only lighthouse ever built to this design,' USCG); storm-settled with a permanent shoreward list.",
+   "optic": "Fourth-order Fresnel, 1913 (USCG).",
+   "why_built": "Purpose-built gateway light for the new Los Angeles breakwater and harbor project planned from 1907 (USCG narrative).",
+   "automated": "1 February 1973 ('the station was automated and the keepers departed,' USCG; the table says 1971 - conflict noted).",
+   "deactivated": "Never; active (Light List 2025, Fl G 15s, continuous horn).",
+   "fate": "Standing; maintained from Coast Guard Base Terminal Island (USCG).",
+   "nrhp": "Listed 1980-10-14, ref 80000810 (NRIS).",
+   "keepers_note": "One night a keeper was knocked to the floor when a blacked-out battleship struck the breakwater beside the tower; the incident was stamped confidential and buried in Navy files for years (USCG narrative). Locals mourned when 'Moaning Maggie,' the two-tone fog horn, was replaced in 1959 by the shriller 'Blatting Betty.'",
+   "summary": "'Angels Gate' has stood at the end of the San Pedro breakwater since 1913, a Romanesque concrete cylinder that survived a five-day storm with nothing worse than a permanent lean. Its green flash and foghorns - Moaning Maggie, then Blatting Betty - defined the harbor entrance of Los Angeles; the keepers left on 1 February 1973 when the light was automated.",
+   "sources": [
+    {
+     "citation": "NRHP nomination, Los Angeles Harbor Light Station, ref 80000810 (listed 1980)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/80000810_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 135",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123859281"
+   ],
+   "confidence_notes": "Automation 1971 vs Feb 1, 1973 conflicting within the USCG page; nomination cost figure differs slightly from USCG's 'just under $36,000' (consistent)."
+  },
+  {
+   "name": "Ballast Point Light Station",
+   "alt_names": [
+    "Ballast Point Lighthouse, San Diego Bay"
+   ],
+   "region": "south-coast",
+   "coords": [
+    32.6864405,
+    -117.2403137
+   ],
+   "coord_source": "USGS GNIS DomesticNames_CA, feature 238941 'Ballast Point' (Cape, San Diego County); the modern Ballast Point Light B (LLNR 1570) is at 32-41-10.800N 117-13-58.027W",
+   "coord_precision": "place",
+   "first_lit": "1890: 'In 1890, Ballast Point Lighthouse was constructed' (USCG Historian's Office, article by PhM1 Harmon Lougher). The customary day, 1 August 1890, is tertiary-level here.",
+   "established_structures": "1890 pair of dwellings and a white square tower integral with the keeper's quarters, of the Stick-style 1890 trio with San Luis Obispo and Table Bluff (MPS); dwellings torn down and the unstable brick-founded tower demolished around 1960, the light moving to the fog-signal building roof on 5 August of that year (USCG narrative, written contemporaneously).",
+   "optic": "Fifth-order fixed Fresnel with a green shade, focal height 34 ft; it was 'the last lighthouse displaying a fixed light on the Pacific Coast,' and the lantern and lens went to Cabrillo National Monument (USCG narrative).",
+   "why_built": "Harbor entrance light inside Point Loma for San Diego Bay, on the historic anchorage where Cabrillo landed in 1542 and whalers later tried out blubber (USCG narrative).",
+   "automated": "Station kept resident personnel into the 1960s; automation of the successor aid not separately dated in located sources.",
+   "deactivated": "Historic lighthouse demolished c. 1960; the point remains lit by a minor aid (Light List 2025, Ballast Point Light B, Fl W 4s).",
+   "fate": "Demolished c. 1960; site within Naval Base Point Loma; lens preserved at Cabrillo National Monument (USCG).",
+   "nrhp": "Not listed (not in NRIS dataset).",
+   "keepers_note": "",
+   "summary": "Ballast Point's 1890 Stick-style lighthouse guarded the inner entrance of San Diego Bay from the spit where Cabrillo had anchored in 1542. Its green-shaded fifth-order lens was the Pacific coast's last fixed classical light; when the failing tower came down around 1960 the optic went to Cabrillo National Monument and a utilitarian light took over the point.",
+   "sources": [
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Ballast Point article by Harmon Lougher, PhM1",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "citation": "Bookwalter, Light Stations of California MPS (1989) - 1890 Stick-style trio",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 1570 (modern aid)",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USGS GNIS DomesticNames_CA, feature 238941",
+     "type": "PRIMARY",
+     "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page photo link"
+   ],
+   "confidence_notes": "Demolition year (c. 1960) inferred from internal evidence of the undated Lougher article ('the new light has been shown from its new location since 5 August'); confirm from D11 records. Aug 1, 1890 lighting day unverified."
+  },
+  {
+   "name": "Old Point Loma Lighthouse",
+   "alt_names": [
+    "Point Loma Light (Old)",
+    "Cabrillo National Monument lighthouse"
+   ],
+   "region": "south-coast",
+   "coords": [
+    32.67204,
+    -117.24116
+   ],
+   "coord_source": "NPS NRHP GIS point for listing 74000350 (Old Point Loma Lighthouse, Cabrillo National Monument)",
+   "coord_precision": "exact",
+   "first_lit": "15 November 1855: 'Point Loma Lighthouse was put into service on November 15, 1855' (NPS Cabrillo NM webpage; USCG concurs: 'First lighted November 15, 1855').",
+   "established_structures": "Structure completed 1854 (architect Ammi B. Young, Treasury Dept.; contractors Gibbons & Kelly, Baltimore); sandstone/brick Cape Cod dwelling with central tower at 422-462 ft elevation - at the time the highest light in the U.S.; restored by the NPS 1933-35 (USCG; NPS; nomination notes 3rd-order lens installed November 1855).",
+   "optic": "Third-order fixed Fresnel from Sautter & Co., Paris, $3,810 - the lens originally intended for Humboldt Harbor (USCG page).",
+   "why_built": "First lighthouse of Southern California, in the initial 1850s Pacific cohort, marking San Diego Bay; sited too high, 'too often, its light was obscured by fog and low clouds' (NPS Cabrillo).",
+   "automated": "Never; replaced.",
+   "deactivated": "23 March 1891, when the lens was removed and the new lower station took over (USCG; NPS: 'A new Point Loma Light Station was established at a lower elevation in March 1891').",
+   "fate": "Preserved centerpiece of Cabrillo National Monument (proclaimed 1913); restored 1933-35; displays a third-order lens (NPS; USCG).",
+   "nrhp": "Listed 1974-06-27, ref 74000350 (NRIS).",
+   "keepers_note": "Robert Israel kept the old light for 18 years and personally lit the new station's kerosene lamp on 23 March 1891, serving one more year there (NPS Cabrillo NM page).",
+   "summary": "The 1855 Old Point Loma light crowned its headland so high that fog regularly blotted it out, an elegant failure of the first Pacific cohort. Extinguished on 23 March 1891 in favor of the new tower at the point's tip, it was saved by its inclusion in Cabrillo National Monument and a 1930s restoration, and is now among the most-visited lighthouses in the country.",
+   "sources": [
+    {
+     "citation": "NPS, Cabrillo National Monument, 'The Lighthouses of Cabrillo National Monument' webpage",
+     "type": "SECONDARY",
+     "url": "https://www.nps.gov/cabr/learn/historyculture/the-lighthouses-of-cabrillo-national-monument.htm"
+    },
+    {
+     "citation": "NRHP nomination, Old Point Loma Lighthouse, ref 74000350 (listed 1974)",
+     "type": "PRIMARY",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/74000350_text"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Old Point Loma entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "NARA file: https://catalog.archives.gov/id/123860939",
+    "Muybridge circa-1871 photograph referenced on USCG page"
+   ],
+   "confidence_notes": "Elevation stated variously 422 ft and 462 ft on the same USCG page; NPS materials use 422 ft. Well documented otherwise."
+  },
+  {
+   "name": "New Point Loma Lighthouse (Point Loma Light)",
+   "alt_names": [
+    "Point Loma Light (New)",
+    "Pelican Point light (rare)"
+   ],
+   "region": "south-coast",
+   "coords": [
+    32.66507,
+    -117.24267
+   ],
+   "coord_source": "US Coast Guard Light List Vol. VI 2025, LLNR 5 (32-39-54.258N 117-14-33.601W)",
+   "coord_precision": "exact",
+   "first_lit": "23 March 1891: 'The new Point Loma Light Station, established on March 23, 1891,' with keeper Robert Israel lighting the kerosene lamp (NPS Cabrillo NM page; USCG concurs on 1891).",
+   "established_structures": "1891 iron/steel skeleton tower with central stair cylinder at the low tip of Point Loma, 88 ft above the water, with fog-signal building at its base and keepers' dwellings (USCG; MPS cites it among prefabricated-metal innovations).",
+   "optic": "Third-order Fresnel, 1891, showing alternating red and white via ruby glass screens until 1912, then a single white flash every 15 seconds; historic lens removed 2001 and displayed at the monument's Assistant Keepers Quarters (NPS; USCG).",
+   "why_built": "Replaced the fog-plagued 1855 hilltop light with a sea-level light at the harbor entrance (NPS Cabrillo).",
+   "automated": "1973 (USCG table).",
+   "deactivated": "Never; active (Light List 2025, Fl W 15s, 'Black house on white square pyramidal skeleton tower').",
+   "fate": "Standing; active USCG aid beside Cabrillo National Monument; not individually NRHP-listed.",
+   "nrhp": "Not found in the NRIS listed-properties dataset as an individual listing.",
+   "keepers_note": "Robert Israel, the old light's last keeper, lit the new lamp on opening night, 23 March 1891 (NPS).",
+   "summary": "The skeletal 1891 tower at the foot of Point Loma corrected its predecessor's fatal elevation, flashing red and white over the harbor entrance until 1912 and plain white ever since. Automated in 1973 and stripped of its classical lens in 2001, the black-and-white ironwork remains San Diego's working sea light.",
+   "sources": [
+    {
+     "citation": "NPS, Cabrillo National Monument, 'The Lighthouses of Cabrillo National Monument' webpage",
+     "type": "SECONDARY",
+     "url": "https://www.nps.gov/cabr/learn/historyculture/the-lighthouses-of-cabrillo-national-monument.htm"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 5",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "USCG Historian's Office, California page (2016, Wayback), Point Loma (New) entry",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    }
+   ],
+   "photo_leads": [
+    "USCG archived page: New Point Loma photos (B&W and color)"
+   ],
+   "confidence_notes": "Absence from NRHP is per the NRIS dataset search; it may be a contributing resource to other designations - verify with SHPO if needed."
+  },
+  {
+   "name": "San Francisco Lightship Station",
+   "alt_names": [
+    "Lightship San Francisco",
+    "San Francisco Bar lightship (LV-70 station)"
+   ],
+   "region": "offshore",
+   "coords": [
+    37.74993,
+    -122.69278
+   ],
+   "coord_source": "Position of the successor aid, San Francisco Approach Lighted Whistle Buoy SF, Light List Vol. VI 2025, LLNR 360 (37-44-59.761N 122-41-33.995W). Historic station: '8.6 miles and 244 degrees from the Point Bonita Light,' originally '3 1/4 miles outside the bar in 109 feet, with Alcatraz and Fort Point lighthouses in range' (USCG Lightship Station Index).",
+   "coord_precision": "area",
+   "first_lit": "Station established 1898 with LV-70, purpose-built at Portland, Oregon (Wolff & Zwicker Iron Works) under an $80,000 appropriation 'for lightship for San Francisco harbor' (USCG Historian's Office lightship pages).",
+   "established_structures": "Lightships assigned: LV-70 (1898-1930), LV-83/WAL-508 (1930-1942), station vacant during WWII, LV-83 (1945-1951), WLV-612 (1951-1969), LV-100/WAL-523 (1969-1971) (USCG Lightship Station Index).",
+   "optic": "LV-70 showed a cluster of three 100-candlepower electric lens lanterns at each masthead - an early electrically lit lightship - with 12-inch steam chime whistle and hand-operated 1,000-lb bell; oil lamps substituted 1900-1904 during generator troubles (USCG LV-70 page).",
+   "why_built": "'The station marked the approaches to the main ship channel into San Francisco' outside the bar (USCG Lightship Station Index).",
+   "automated": "Not applicable; replaced by a large automated buoy.",
+   "deactivated": "1971; 'the station was replaced by the San Francisco lighted horn (LNB) buoy \"SF\"' (USCG).",
+   "fate": "Station discontinued 1971; today's SF Approach Lighted Whistle Buoy occupies the approach role. LV-70 itself was an experimental wireless-telegraph platform in August 1899 (USCG LV-70 page).",
+   "nrhp": "Not applicable (station); no listed vessel from this station survives under its SF identity.",
+   "keepers_note": "In August 1899 LV-70 hosted a 17-day experiment in wireless telegraphy - among the earliest marine radio trials on the Pacific coast (USCG LV-70 page).",
+   "summary": "From 1898 the San Francisco lightship rode outside the bar where Alcatraz and Fort Point ranged in line, showing masthead electric lanterns to funnel traffic into the Golden Gate's main ship channel. Five vessels held the station over 73 years - LV-70, LV-83, WLV-612 and LV-100 among them - until a lighted horn buoy replaced the last ship in 1971.",
+   "sources": [
+    {
+     "citation": "USCG Historian's Office, Lightship Station Index (Wayback capture, 2011)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/20110609114149/http://www.uscg.mil/history/weblightships/Lightship_Station_Index.asp"
+    },
+    {
+     "citation": "USCG Historian's Office, LV-70 vessel page (Wayback, 2012)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/20120417182733/http://www.uscg.mil/history/weblightships/LV70.asp"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 360",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    }
+   ],
+   "photo_leads": [
+    "USCG lightship photo pages (archived weblightships site)",
+    "1906 List of Lights plate reproduced on the LV-70 page"
+   ],
+   "confidence_notes": "Station positions given as bearings/distances by USCG; the coordinate supplied is the modern successor buoy, precision 'area.' Assignments 1951-1971 (WLV-612, LV-100) from the station index."
+  },
+  {
+   "name": "Blunts Reef Lightship Station",
+   "alt_names": [
+    "Blunt's Reef lightship, off Cape Mendocino"
+   ],
+   "region": "offshore",
+   "coords": [
+    40.44696,
+    -124.4991
+   ],
+   "coord_source": "Position of Blunts Reef Lighted Bell Buoy 40, Light List Vol. VI 2025, LLNR 485 (40-26-49.048N 124-29-56.772W), which marks the reef; the lightship station lay 'about 1.9 miles and 239 degrees from Blunts Reef and 4.55 miles and 266 degrees from Cape Mendocino Light' (USCG Lightship Station Index)",
+   "coord_precision": "area",
+   "first_lit": "Station established 1905 (USCG Lightship Station Index: 'Blunts Reef, 1905-1971'); the LV-83 vessel page says the ship was 'placed on Blunts Reef (CA) off Cape Mendocino' in 1906 - discrepancy noted.",
+   "established_structures": "Lightships assigned: LV-83/WAL-508 (1905-1930), LV-100/WAL-523 (1930-1942), buoy during WWII, LV-100 (1945-1959), WLV-605 (1960-1969), WLV-612 (1969-1971) (USCG Station Index).",
+   "optic": "Lightship illuminating apparatus per vessel; LV-83 (built 1904, Camden NJ) was a steam screw, steel-hulled ship with masthead lights (USCG LV-83 page).",
+   "why_built": "Guarded Blunts Reef, the outlying rocks off Cape Mendocino inside which coastwise traffic hugged the shore in fog; the 1889 Coast Pilot's directions run 'outside Blunt's Reef, on the range of the south rock of the reef and Cape Mendocino Light.'",
+   "automated": "Not applicable; replaced by a large automated buoy.",
+   "deactivated": "1971; 'replaced by the Blunts Reef Lighted Horn Buoy \"B\"' (USCG). Today the reef carries Lighted Bell Buoy 40 (Light List 2025).",
+   "fate": "Station discontinued 1971. WLV-605, which held the station 1960-69, survives as the museum lightship RELIEF at Oakland, NRHP ref 89002462, listed 1989-12-20 (NRIS).",
+   "nrhp": "Station not listable; associated vessel WLV-605 RELIEF listed 1989 (NRIS 89002462).",
+   "keepers_note": "On 15 June 1916, between 1:45 and 3:30 a.m., LV-83's crew took aboard 155 people - the passengers and crew of the stranded steamer Bear - in one of the great lightship rescues (USCG LV-83 page). The same ship was dragged off station by storms in November-December 1906.",
+   "summary": "The Blunts Reef lightship tossed off Cape Mendocino from 1905, holding coastwise traffic clear of the reef that the cape's high light could not adequately cover in fog. LV-83's rescue of 155 souls from the steamer Bear in 1916 made it famous; buoys replaced the ships in 1971, and one veteran of the station, WLV-605 RELIEF, survives on the National Register at Oakland.",
+   "sources": [
+    {
+     "citation": "USCG Historian's Office, Lightship Station Index (Wayback, 2011)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/20110609114149/http://www.uscg.mil/history/weblightships/Lightship_Station_Index.asp"
+    },
+    {
+     "citation": "USCG Historian's Office, LV-83 vessel page (Wayback, 2012)",
+     "type": "SECONDARY",
+     "url": "https://web.archive.org/web/20120417065931/http://www.uscg.mil/history/weblightships/LV83.asp"
+    },
+    {
+     "citation": "USCG Light List Vol. VI, 2025, LLNR 485",
+     "type": "PRIMARY",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "citation": "NRIS dataset: Lightship WAL-605, RELIEF, 89002462, listed 1989-12-20",
+     "type": "PRIMARY",
+     "url": "https://www.nps.gov/subjects/nationalregister/upload/national-register-listed_20260522.xlsx"
+    }
+   ],
+   "photo_leads": [
+    "USCG lightship photo pages (archived)",
+    "NARA file for WAL-605: https://catalog.archives.gov/id/75611912"
+   ],
+   "confidence_notes": "1905 (station index) vs 1906 (LV-83 page) establishment discrepancy flagged; settle from the Lighthouse Board AR for 1905-06."
+  }
+ ],
+ "general_sources": [
+  "U.S. Coast Guard, Light List, Volume VI: Pacific Coast and Pacific Islands, 2025 edition (COMDTPUB P16502.6) - PRIMARY; all 'exact' coordinates and current characteristics. https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf",
+  "USCG Historian's Office, 'Historic Light Station Information & Photography: California' (uscg.mil/history/weblighthouses/LHCA.asp, last modified 2016-09-15) - SECONDARY (official agency history; much content credited to Chesapeake Chapter USLHS volunteers). Wayback capture: https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp",
+  "USCG Historian's Office lightship pages: Lightship Station Index, LV-70, LV-83, LV-100, LV-76 (Wayback captures 2011-2012) - SECONDARY. e.g. https://web.archive.org/web/20110609114149/http://www.uscg.mil/history/weblightships/Lightship_Station_Index.asp",
+  "NRHP nomination PDFs via NPS NPGallery (pattern https://npgallery.nps.gov/NRHP/GetAsset/NRHP/{refnum}_text) - PRIMARY-grade documentation, several quoting Lighthouse Board annual reports: 93001373, 83001177, 91001098, 76000483, 91001092, 90002189, 91001100, 91001094, 77000337, 77000312, 91001097, 91001095, 91001093, 81000176, 72000234, 80000810, 74000350, 91001101, 80000808, 77000332",
+  "Jack Bookwalter, 'Light Stations of California,' NRHP Multiple Property Documentation Form, Sonoma State University, Oct 16 1989 (NRIS 64500058) - PRIMARY (the statewide historic context behind the 1991 listings). https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text",
+  "NPS, National Register of Historic Places listed-properties dataset, 2026-05-22 (official NRIS extract; refnums, listing dates, NARA links) - PRIMARY administrative record. https://www.nps.gov/subjects/nationalregister/upload/national-register-listed_20260522.xlsx",
+  "United States Coast and Geodetic Survey, Pacific Coast. Coast Pilot of California, Oregon, and Washington, 4th ed. (Washington: GPO, 1889) - PRIMARY; 'first exhibited' dates and positions for the pre-1889 lights. Digitized on Internet Archive (e.g., https://archive.org/details/cihm_15816); full text used locally.",
+  "NPS Maritime Heritage Program, 'Inventory of Historic Light Stations - California Lighthouses' (nps.gov/maritime/light/ca.htm, 2003) - SECONDARY. Wayback: https://web.archive.org/web/2016id_/http://www.nps.gov/maritime/light/ca.htm",
+  "USGS Geographic Names Information System, DomesticNames_CA (downloaded from prd-tnm.s3.amazonaws.com, file dated 2026-08-27) - PRIMARY federal gazetteer records (feature IDs cited per entry); note GNIS no longer carries man-made structure features.",
+  "California State Parks, A\u00f1o Nuevo State Park brochure (remediated web PDF, 2022) - SECONDARY. https://www.parks.ca.gov/pages/523/files/Ano%20Nuevo%20Final%20Web%20Layout031122_remediated.pdf",
+  "NPS, Cabrillo National Monument, 'The Lighthouses of Cabrillo National Monument' - SECONDARY. https://www.nps.gov/cabr/learn/historyculture/the-lighthouses-of-cabrillo-national-monument.htm",
+  "NPS NRHP ArcGIS points layer (mapservices.nps.gov/arcgis/rest/services/cultural_resources/nrhp_locations) - SECONDARY spatial data used for two building coordinates (Point Fermin, Old Point Loma)"
+ ],
+ "gaps": "1) Annual Reports of the Lighthouse Board: no full run could be reached this session - the shared WebSearch budget was already exhausted (200/200) at task start, IA holds only scattered volumes under variant titles, and HathiTrust is not fetchable by this tooling. Primary AR text enters this inventory only where NRHP nominations quote it (St. George Reef quotes the 1892 AR at length). CONSEQUENCE: day-level first-lit dates remain unverified (flagged per entry) for Point Pinos (Feb 1 1855), Farallon (Jan 1 1856 vs USCG/NPS '1855'), Pigeon Point (Nov 15 1872), Point Fermin & Point Hueneme (Dec 15 1874), Piedras Blancas (Feb 15 1875), Point Sur (Aug 1 1889), Ano Nuevo light (May 29 1890), Ballast Point (Aug 1 1890), Table Bluff (Oct 31 1892), St. George Reef (Oct 20 1892), Point Arguello (Mar 1 1901), LA Harbor (Mar 1 1913), Point Vicente (May 1 1926), Anacapa (Mar 25 1932). The USLHS site hosts transcribed period Light Lists (uslhs.org/gr/light_lists/) but the tables load via JS and could not be scraped; a browser session would recover them. 2) history.uscg.mil is Akamai-blocked to both WebFetch and curl; all USCG Historian content came from Wayback captures of the pre-2017 site (adequate, but the current site may have revisions). 3) The 1977 nomination scans for Pigeon Point (77000337) and Farallone Islands (77000332) have no usable OCR text layer; their content was not read (dates carried by other sources). Reading those PDFs page-by-page as images is possible if needed. 4) Humboldt Harbor (1856): no published coordinate located; coords left empty with the 1889 Coast Pilot's verbal position. Post-1892 fate (1877 quake damage, reported 1933 demolition) unverified. 5) Point Arguello is the thinnest file: original lens, 1934 rebuild, automation, and first-lit day all rest on the USCG narrative page only. 6) Conflicts flagged but unresolved: Table Bluff deactivation (1961 vs 1975, within the same USCG page); Punta Gorda's current steward (BLM per 1976 nomination vs CDPR per 2016 USCG page); Point Hueneme automation (1941 vs 1972); LA Harbor automation (1971 vs Feb 1 1973); Point Vicente automation (1971 vs 1973) and lens year (c.1910 vs 1914); Blunts Reef station start (1905 vs 1906); Santa Cruz first light (1869 vs 1870, with the Coast Pilot's month illegible); Farallon 1855 vs 1856. 7) GNIS no longer contains lighthouse (structure) features, so vanished-site coordinates use natural-feature records at 'place' precision. 8) Not covered per scope: SF Bay interior stations (Alcatraz, Fort Point, Lime Point, East Brother, Mare Island, Yerba Buena, Southampton Shoals, Carquinez, Roe Island, Oakland Harbor, Point Blunt, Point Bonita, Mile Rocks - all present in the harvested USCG/NPS files if the caller wants a bay layer) and the Long Beach 'robot' breakwater light (1949, harbor structure; USCG entry harvested). 9) Keeper stories are limited to those verifiable in located sources; several famous ones (Battery Point 1964 tsunami, Point Fermin's Smith sisters, Juanita Kellogg etc.) were left out or flagged tertiary. 10) Calisphere was not used (bot-blocked per instructions); NARA catalog links are provided per entry as photo leads but were not fetched. All working files (nomination texts, Light List text, Coast Pilot text, USCG page extracts) are preserved under /private/tmp/claude-501/-Users-aodhan/5cb0858e-1b33-4cdb-a8f8-06d8ea288992/scratchpad/ (noms/, LightList_V6_2025.txt, coastpilot1889.txt, uscg_lhca.txt, ls_*.txt, nps_ca.txt)."
+}

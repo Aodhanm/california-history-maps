@@ -1,0 +1,331 @@
+{
+ "a-o-nuevo-island-light-station": {
+  "url": "../assets/photos/lighthouses/a-o-nuevo-island-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"AÑO NUEVO ISLAND LIGHTHOUSE (1890)\" (file anonuevo2.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "alcatraz-island-light": {
+  "url": "../assets/photos/lighthouses/alcatraz-island-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 88739)",
+  "date": "undated in the record; the 1854 tower shown was demolished in 1909, so the photograph predates 1909",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "anacapa-island-light-station": {
+  "url": "../assets/photos/lighthouses/anacapa-island-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"ANACAPA ISLAND LIGHTHOUSE\" (file anacapa.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "angel-island-light-station-point-knox": {
+  "url": "../assets/photos/lighthouses/angel-island-light-station-point-knox.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog",
+  "date": "1946",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "ballast-point-light-station": {
+  "url": "../assets/photos/lighthouses/ballast-point-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"BALLAST POINT LIGHTHOUSE\" (file ballastpoint.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "battery-point-light-crescent-city": {
+  "url": "../assets/photos/lighthouses/battery-point-light-crescent-city.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 89402)",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "cape-mendocino-light-station": {
+  "url": "../assets/photos/lighthouses/cape-mendocino-light-station.jpg",
+  "credit": "National Archives Photography; U.S. Lighthouse Society Lighthouse Research Catalog (node 8318)",
+  "date": "1912",
+  "rights": "U.S. federal government work, public domain (National Archives).",
+  "modern": false
+ },
+ "carquinez-strait-light": {
+  "url": "../assets/photos/lighthouses/carquinez-strait-light.jpg",
+  "credit": "National Archives (RG 26, negative 26-LG-63a-70); U.S. Lighthouse Society Lighthouse Research Catalog (node 89549)",
+  "date": "1910 (the print is inscribed 'ph'd 23 Febr. '10')",
+  "rights": "U.S. federal government work, public domain (NARA RG 26).",
+  "modern": false
+ },
+ "east-brother-island-light-station": {
+  "url": "../assets/photos/lighthouses/east-brother-island-light-station.jpg",
+  "credit": "National Archives (RG 26, negative 26-LG-64-14b); U.S. Lighthouse Society Lighthouse Research Catalog (node 89633)",
+  "date": "undated (station established 1874)",
+  "rights": "U.S. federal government work, public domain (NARA RG 26).",
+  "modern": false
+ },
+ "farallon-islands-light-southeast-farallon": {
+  "url": "../assets/photos/lighthouses/farallon-islands-light-southeast-farallon.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file SouthFarallonIsland001.jpg); albumen print inscribed \"South Farallon Light House, Cal.\"",
+  "date": "",
+  "rights": "US Government work (USCG Historian's Office); 19th-century photograph, PD by age",
+  "modern": false
+ },
+ "fort-point-light": {
+  "url": "../assets/photos/lighthouses/fort-point-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 89887)",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "humboldt-harbor-light-1856": {
+  "url": "../assets/photos/lighthouses/humboldt-harbor-light-1856.jpg",
+  "credit": "Photographer unknown; sourced by the uploader from the U.S. Lighthouse Society archive",
+  "date": "1920",
+  "rights": "Wikimedia Commons licenses it Public domain (US publication before 1929). NOTE: the PD tag rests on the uploader's 1920 dating, not on a catalogue statement I could verify independently.",
+  "modern": false
+ },
+ "lime-point-light-fog-signal-station": {
+  "url": "../assets/photos/lighthouses/lime-point-light-fog-signal-station.jpg",
+  "credit": "National Archives (RG 26, negative 26-LG-64-59); U.S. Lighthouse Society Lighthouse Research Catalog (node 90019)",
+  "date": "undated (the record's sibling image is dated 1891)",
+  "rights": "U.S. federal government work, public domain (NARA RG 26).",
+  "modern": false
+ },
+ "los-angeles-harbor-light-station-angels-gate": {
+  "url": "../assets/photos/lighthouses/los-angeles-harbor-light-station-angels-gate.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"LOS ANGELES HARBOR LIGHTHOUSE\" (file losangelesharbor.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "mare-island-light": {
+  "url": "../assets/photos/lighthouses/mare-island-light.jpg",
+  "credit": "National Archives (RG 26 Lighthouse Service photographs, negative 26-LG-64a-68); copy served by the U.S. Lighthouse Society Lighthouse Research Catalog",
+  "date": "undated (station established 1873; razed 1917)",
+  "rights": "U.S. federal government work, public domain. Hosting site carries a blanket '© U.S. Lighthouse Society' footer notice, but the underlying NARA RG 26 photograph is PD.",
+  "modern": false
+ },
+ "mile-rocks-light": {
+  "url": "../assets/photos/lighthouses/mile-rocks-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office",
+  "date": "1962",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "new-point-loma-lighthouse-point-loma-light": {
+  "url": "../assets/photos/lighthouses/new-point-loma-lighthouse-point-loma-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"THE NEW POINT LOMA LIGHTHOUSE (B&W)\" (file pointlomaNew.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "oakland-harbor-light": {
+  "url": "../assets/photos/lighthouses/oakland-harbor-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "old-point-loma-lighthouse": {
+  "url": "../assets/photos/lighthouses/old-point-loma-lighthouse.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT LOMA LIGHTHOUSE\" (file pointlomaOld.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "piedras-blancas-light-station": {
+  "url": "../assets/photos/lighthouses/piedras-blancas-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"PIEDRAS BLANCAS LIGHT TOWER WITH LANTERN ROOM\" (file piedrasblancasWith.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "pigeon-point-light-station": {
+  "url": "../assets/photos/lighthouses/pigeon-point-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"PIDGEON POINT LIGHTHOUSE\" [sic] (file pigeonpoint.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "point-arena-light-station": {
+  "url": "../assets/photos/lighthouses/point-arena-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 91020)",
+  "date": "undated in the record; shows the 1870 station, destroyed by the 1906 earthquake, so pre-1906",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "point-arguello-light-station": {
+  "url": "../assets/photos/lighthouses/point-arguello-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file pointarguellooriginal.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "point-blunt-light": {
+  "url": "../assets/photos/lighthouses/point-blunt-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 91239)",
+  "date": "1946",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "point-bonita-light": {
+  "url": "../assets/photos/lighthouses/point-bonita-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 91429)",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "point-cabrillo-light-station": {
+  "url": "../assets/photos/lighthouses/point-cabrillo-light-station.jpg",
+  "credit": "National Archives (RG 26, negative 26-LG-65-55); U.S. Lighthouse Society Lighthouse Research Catalog (node 91518)",
+  "date": "undated (station established 1909)",
+  "rights": "U.S. federal government work, public domain (NARA RG 26).",
+  "modern": false
+ },
+ "point-conception-light-station": {
+  "url": "../assets/photos/lighthouses/point-conception-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"THE 1882 POINT CONCEPTION LIGHT TOWER\" (file pointconception1882.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "point-diablo-light": {
+  "url": "../assets/photos/lighthouses/point-diablo-light.jpg",
+  "credit": "Frank Schulenburg / Wikimedia Commons",
+  "date": "2014-09-21",
+  "rights": "CC BY-SA 4.0 — attribution and share-alike required.",
+  "modern": true
+ },
+ "point-fermin-light-station": {
+  "url": "../assets/photos/lighthouses/point-fermin-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT FERMIN LIGHTHOUSE\" (file pointfermin.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "point-hueneme-light-station": {
+  "url": "../assets/photos/lighthouses/point-hueneme-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"THE 1874 POINT HUENEME LIGHT TOWER\" (file pointhuenemeOld.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "point-montara-light-station": {
+  "url": "../assets/photos/lighthouses/point-montara-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT MONTARA LIGHTHOUSE\" (file pointmontara.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "point-pinos-light-station": {
+  "url": "../assets/photos/lighthouses/point-pinos-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file PointPinos001.jpg); albumen print inscribed \"Point Pinos, Cal.\"",
+  "date": "",
+  "rights": "US Government work (USCG Historian's Office); 19th-century photograph, PD by age",
+  "modern": false
+ },
+ "point-reyes-light-station": {
+  "url": "../assets/photos/lighthouses/point-reyes-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file PuntadeLosReyes002.jpg); 19th-century albumen print with mounted letterpress caption \"FIRST ORDER LIGHT-HOUSE AT PUNTA DE LOS REYES ... SEACOAST OF CALIFORNIA (U.S.)\"",
+  "date": "",
+  "rights": "US Government work (USCG Historian's Office); the print itself is a 19th-century photograph, PD by age",
+  "modern": false
+ },
+ "point-stuart-light": {
+  "url": "../assets/photos/lighthouses/point-stuart-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog",
+  "date": "1946",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "point-sur-light-station": {
+  "url": "../assets/photos/lighthouses/point-sur-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT SUR LIGHTHOUSE\" (file Point_Sur_1.jpg)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "point-vicente-light-station": {
+  "url": "../assets/photos/lighthouses/point-vicente-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT VICENTE LIGHTHOUSE\" (file pointvicente.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "punta-gorda-light-station": {
+  "url": "../assets/photos/lighthouses/punta-gorda-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 93749)",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "roe-island-light": {
+  "url": "../assets/photos/lighthouses/roe-island-light.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 93789)",
+  "date": "1920",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "san-francisco-lightship-station": {
+  "url": "../assets/photos/lighthouses/san-francisco-lightship-station.jpg",
+  "credit": "Lightship LV-70, lettered SAN FRANCISCO, off San Francisco, 4 August 1911. Photographer unknown. San Francisco Maritime National Historical Park, SAFR 21374 (San Francisco Maritime Museum collection), via NPGallery accession 1f5eebc7-3e83-4b40-8de9-05aa5559fdfc; Wikimedia Commons",
+  "date": "1911-08-04",
+  "rights": "Public domain (published before 1 January 1931); NPS/NPGallery, no known restrictions",
+  "modern": false
+ },
+ "san-luis-obispo-light-station-port-harford": {
+  "url": "../assets/photos/lighthouses/san-luis-obispo-light-station-port-harford.jpg",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"SAN LUIS OBISPO 'PORT HARFORD' LIGHTHOUSE\" (file sanluisobispo.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "santa-barbara-light-station": {
+  "url": "https://web.archive.org/web/20161218161347id_/http://www.uscg.mil/history/weblighthouses/santabarbara.JPG",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"SANTA BARBARA LIGHTHOUSE\" (file santabarbara.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "santa-cruz-light-station": {
+  "url": "https://web.archive.org/web/20161218161408id_/http://www.uscg.mil/history/weblighthouses/santacruz.JPG",
+  "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"SANTA CRUZ LIGHTHOUSE\" (file santacruz.JPG)",
+  "date": "",
+  "rights": "US Government work, public domain (USCG Historian's Office)",
+  "modern": false
+ },
+ "southampton-shoal-light": {
+  "url": "https://web.archive.org/web/20161218161354id_/http://www.uscg.mil/history/weblighthouses/southamptonshoals.JPG",
+  "credit": "U.S. Coast Guard Historian's Office",
+  "date": "undated; Commons mirror of the same file states 'uncertain, but before 1960'",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "st-george-reef-light-station": {
+  "url": "https://web.archive.org/web/20161218161356id_/http://www.uscg.mil/history/weblighthouses/stgeorgereef.JPG",
+  "credit": "U.S. Coast Guard Historian's Office",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "table-bluff-light-station": {
+  "url": "../assets/photos/lighthouses/table-bluff-light-station.jpg",
+  "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 94902)",
+  "date": "1917",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "trinidad-head-light-station": {
+  "url": "https://web.archive.org/web/20161218161408id_/http://www.uscg.mil/history/weblighthouses/trinidadhead.JPG",
+  "credit": "U.S. Coast Guard Historian's Office",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain.",
+  "modern": false
+ },
+ "yerba-buena-island-light-and-12th-district-lighthouse-depot": {
+  "url": "../assets/photos/lighthouses/yerba-buena-island-light-and-12th-district-lighthouse-depot.jpg",
+  "credit": "National Archives (RG 26, negative 26-LG-67-45); U.S. Lighthouse Society Lighthouse Research Catalog (node 94980)",
+  "date": "undated",
+  "rights": "U.S. federal government work, public domain (NARA RG 26).",
+  "modern": false
+ }
+}

@@ -128,6 +128,14 @@
       });
       h += '</tbody></table></details>';
     }
+    if (f.quotes && f.quotes.length) {
+      h += '<div class="quotes">';
+      f.quotes.forEach(function (q) {
+        h += '<blockquote class="src-quote">' + esc(q.text) +
+             (q.cite ? '<cite>' + esc(q.cite) + '</cite>' : '') + '</blockquote>';
+      });
+      h += '</div>';
+    }
     if (f.result) h += '<p class="result"><strong>' + esc(f.result) + '</strong></p>';
     if (f.quote && f.quote.es) {
       h += '<blockquote lang="es">' + esc(f.quote.es) + '</blockquote>';

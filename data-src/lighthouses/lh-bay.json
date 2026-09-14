@@ -1,0 +1,867 @@
+{
+ "lights": [
+  {
+   "name": "Alcatraz Island Light",
+   "alt_names": [
+    "Alcatraz Lighthouse",
+    "Alcatraces Island Light (period spelling)"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.82623,
+    -122.42214
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 4315: 37-49-34.424N 122-25-19.710W (current 1909 tower)",
+   "coord_precision": "exact",
+   "first_lit": "June 1, 1854 \u2014 the first lighthouse lighted on the US Pacific coast. Grade: exact day from lighthousefriends.com (citing Lighthouse Board annual reports; primary report not directly examined); 'first on the West Coast' corroborated by NPS (nps.gov/alca history page: 'first lighthouse on the West Coast') and by a primary federal source, Annual Report of the Commissioner of Lighthouses FY1915, which exhibits 'the first lens used on the Pacific coast at Alcatraz, Cal., in 1854.' Fort Point's 1853 building was structurally finished earlier but was demolished unlit, and the next lights (Point Pinos Feb. 1855, Fort Point Mar. 1855) followed Alcatraz - lighthousefriends' Fort Point page calls Fort Point 'the third lighthouse to be activated on the west coast,' consistent with Alcatraz first.",
+   "established_structures": "1) 1852-54: Cape Cod-style dwelling with central tower, one of the Gibbons & Kelly contract lighthouses; completed by July 1853, lit June 1, 1854 (fixed 3rd-order lens). 2) 1909: 84-ft gray octagonal pyramidal reinforced-concrete tower with attached keepers' dwelling, built after 1906 earthquake damage and cell-house construction; light moved to the new tower December 1, 1909 (primary: Notice to Mariners, 12th District, Dec. 2, 1909, printed in San Francisco Call, Dec. 3, 1909, p. 15: 'on December 1, 1909, the light at this station was moved to and established in the new tower').",
+   "why_built": "To mark the harbor entrance anchorage inside the Golden Gate for the Gold Rush shipping boom; among the first eight Pacific coast lighthouses authorized by Congress 1850-52 (contract context: lighthousefriends citing LHB records; USCG Historian).",
+   "optic": "Original: fixed third-order Fresnel, 1854 (USCG Historian). 1902: revolving two-panel fourth-order Fresnel, white flash every 15s (lighthousefriends). Modern: rotating aerobeacon, Fl W 5s (Light List 2025).",
+   "automated": "November 22, 1963 (lighthousefriends; USCG Historian gives 1963). Last civilian keeper Edward Schneider retired 1959 (lighthousefriends).",
+   "deactivated": "Never - continuously active; 1909 tower remains an active aid (Light List 2025, LLNR 4315).",
+   "fate": "1854 lighthouse damaged in the April 18, 1906 earthquake and demolished after the 1909 tower took over (USCG Historian; lighthousefriends). The 1909 tower stands; island NRHP-listed June 23, 1976 (#76000209) and NHL January 17, 1986; NPS (Golden Gate NRA) manages the island, USCG maintains the light.",
+   "nrhp": "Contributing to Alcatraz Island, NRHP #76000209 (listed 1976-06-23); NHL designated 1986-01-17 (Wikipedia cross-check of NRIS; not independently pulled from NPGallery).",
+   "keepers_note": "Station log for April 18, 1906, quoted by lighthousefriends: '5:30 A.M. violent and continuous earthquake - San Francisco on fire - is this the end of the world?' First keeper Michael Cassin/Kassin at $1,100/yr (lighthousefriends, citing service records).",
+   "summary": "Alcatraz received the Pacific coast's first lighthouse: a Gibbons & Kelly contract dwelling finished in 1853 that finally showed its third-order light on June 1, 1854, once the lens arrived. After the 1906 earthquake cracked the old building and the new cell house crowded it, the Lighthouse Service transferred the light on December 1, 1909 to the present 84-foot octagonal concrete tower, a move documented in the printed Notice to Mariners of December 2, 1909. Automated in 1963 during the island's federal-prison era, the tower still operates inside Golden Gate NRA.",
+   "confidence_notes": "The June 1, 1854 day rests on secondary works quoting the Lighthouse Board's 1854 annual report, which I could not open directly this session (Hathi/Google Books blocked); the 'first on the Pacific coast' claim is independently supported by the FY1915 Commissioner's report (primary) and NPS. USCG Historian's tower height (84 ft) vs lighthousefriends (90 ft) differ; Light List focal plane 214 ft above water per the 1909 notice.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "Notice to Mariners, Office of the US Lighthouse Inspector, 12th District, Dec. 2, 1909, printed in San Francisco Call, Dec. 3, 1909, p. 15 (light moved to new tower Dec. 1, 1909; gray octagonal concrete tower; 214 ft above water)",
+     "url": "https://www.loc.gov/resource/sn85066387/1909-12-03/ed-1/?sp=15"
+    },
+    {
+     "type": "primary",
+     "citation": "Annual Report of the Commissioner of Lighthouses, FY1915 (GPO, 1915) - 'the first lens used on the Pacific coast at Alcatraz, Cal., in 1854'",
+     "url": "https://archive.org/details/bub_gb_B2dYAAAAYAAJ"
+    },
+    {
+     "type": "primary",
+     "citation": "USCG Light List, Vol. VI, Pacific Coast (2025), LLNR 4315",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, Historic Light Station Information - California: Alcatraz Island Light (archived 2010)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "secondary",
+     "citation": "NPS, Alcatraz Island - History & Culture ('first lighthouse on the West Coast')",
+     "url": "https://www.nps.gov/alca/learn/historyculture/index.htm"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Alcatraz Island Lighthouse (cites LHB annual reports)",
+     "url": "https://lighthousefriends.com/light.asp?ID=74"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived page links: 'Alcatraz Lighthouse (1854)' and '(1909)' photo files",
+    "NARA RG 26 lighthouse photo files",
+    "GGNRA/Alcatraz NPS photo archives"
+   ]
+  },
+  {
+   "name": "Fort Point Light",
+   "alt_names": [
+    "Fort Winfield Scott Light"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.81049,
+    -122.47693
+   ],
+   "coord_source": "GNIS feature 'Fort Point' (gaz_id 223701), USGS geonames service; the third tower stands on the fort's stair tower at this point",
+   "coord_precision": "exact",
+   "first_lit": "March 1855 (second tower; commonly given as March 21, 1855 - day not independently verified). Grade: lighthousefriends ('In March 1855, the light from a fifth-order Fresnel lens... was exhibited for the first time, making it the third lighthouse to be activated on the west coast'); USCG Historian gives 'Date built 1853' for the never-lit first tower.",
+   "established_structures": "1) 1852-53 Gibbons & Kelly tower, complete 1853 but demolished before its lens arrived to clear the site for Fort Winfield Scott (its intended third-order lens went to Point Pinos - lighthousefriends). 2) 1855: 36-ft wooden tower between fort and seawall, lit March 1855; demolished 1863 for seawall work (USCG Historian). 3) 1863-64: 27-ft nine-sided iron-plate tower on the fort's northwest stair tower, focal plane ~83-110 ft; USCG Historian dates the present tower 1864, lighthousefriends 1863.",
+   "why_built": "To mark the south side of the Golden Gate itself for vessels running the narrows (USCG Historian; lighthousefriends).",
+   "optic": "First tower: none installed. Second: fifth-order Fresnel (lighthousefriends). Third: fourth-order Fresnel (USCG Historian); lens changes 1878, 1903, 1912 (lighthousefriends).",
+   "automated": "Never automated - discontinued instead.",
+   "deactivated": "September 1, 1934, because Golden Gate Bridge construction (and the bridge itself) obstructed and superseded the light (USCG Historian: 'Deactivated in 1934'; lighthousefriends: 'On September 1, 1934, Fort Point Lighthouse ceased operation').",
+   "fate": "Iron tower still stands atop Fort Point, restored by NPS; within Fort Point National Historic Site (established 1970), NRHP #70000146 (USCG Historian).",
+   "nrhp": "Part of Fort Point National Historic Site, NRHP #70000146, listed 1970 (per USCG Historian's entry; nomination not separately pulled).",
+   "keepers_note": "James Rankin, keeper 1878-1919 (~41 years), credited with saving 18 lives at the fort's treacherous waterfront; the USCG later named keeper-class buoy tender WLM-555 'James Rankin' for him (lighthousefriends).",
+   "summary": "Fort Point ran through three lighthouses in eleven years: the 1853 contract tower was torn down unlit to make way for the brick fort, its 1855 wooden replacement was lit in March 1855 as the third light on the coast, and an iron nine-sided tower rose over the fort's stairwell in 1863-64 when the seawall forced another demolition. The Golden Gate Bridge finally made the station redundant, and the light was extinguished on September 1, 1934. The little iron tower survives on the fort, now a National Historic Site.",
+   "confidence_notes": "Iron tower's exact first-lit date (1863 vs 1864) unresolved between USCG Historian and lighthousefriends; March 21, 1855 day for tower two not verified in a primary. Keeper roster from USCG Historian page (Chesapeake Chapter USLHS research).",
+   "sources": [
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, Historic Light Station Information - California: Fort Point Light (archived 2010)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Fort Point Lighthouse",
+     "url": "https://lighthousefriends.com/light.asp?ID=75"
+    },
+    {
+     "type": "primary",
+     "citation": "GNIS gaz_id 223701 (Fort Point), USGS geonames MapServer",
+     "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer"
+    }
+   ],
+   "photo_leads": [
+    "NPS Fort Point NHS collections",
+    "USCG Historian archived Fort Point photo link",
+    "OpenSFHistory (wnp) Golden Gate images"
+   ]
+  },
+  {
+   "name": "Point Bonita Light",
+   "alt_names": [
+    "Point Bonito Light (19th-c. variant)"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.81559,
+    -122.52953
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 4220: 37-48-56.132N 122-31-46.321W; matches NRHP/Wikipedia 37\u00b048'56\"N 122\u00b031'46\"W",
+   "coord_precision": "exact",
+   "first_lit": "May 2, 1855 (original upper site, 306 ft elevation); relocated light first shown February 1, 1877 at the outer, lower point. Grade: lighthousefriends (first keeper Edward Colston lit it May 2, 1855; 'The new lighthouse went into operation on February 1, 1877'), citing LHB reports; NPS confirms 'since 1855'; USCG Historian gives est. 1855 / current tower 1877.",
+   "established_structures": "1) 1855 brick tower at 306 ft, too often above the fog. 2) 1877: the lantern and second-order lens moved to the present low tower at the point's tip, reached through a 118-ft hand-cut tunnel (1876) and, since 1954, a suspension footbridge (USCG Historian; lighthousefriends).",
+   "why_built": "To mark the north head of the Golden Gate approach, where fog and the bar concentrated wrecks; site of the coast's first fog signal, an army 24-pounder cannon fired from August 8, 1855 (lighthousefriends; the FY1915 Commissioner's report exhibited 'the old cannon used from 1855 to 1857 at Point Bonita, Cal., being the first fog signal on the Pacific coast').",
+   "optic": "Second-order Fresnel, 1855, transferred to the 1877 tower and still in place (USCG Historian: 'Original Lens: Second Order Fresnel, 1877'; lighthousefriends).",
+   "automated": "1980 (USCG Historian; Wikipedia); last head keeper left April 1981 (lighthousefriends) - the last staffed lighthouse on the California coast.",
+   "deactivated": "Never - active aid, Oc W 4s (Light List 2025).",
+   "fate": "Standing; part of Golden Gate NRA, operated for visitation by NPS with USCG maintaining the light; suspension bridge closed for repairs as of 2024-26 (NPS page).",
+   "nrhp": "NRHP #91001099, listed September 3, 1991 (Wikipedia citing NRIS; nomination not pulled).",
+   "keepers_note": "Fog-gun tender Sgt. Edward Maloney's 1855 plea, quoted from Lighthouse Board records by lighthousefriends: 'I cannot find any person here to relieve me not 5 minutes. I have been up 3 days and nights had only 2 hours rest.'",
+   "summary": "Point Bonita's 1855 lighthouse was built too high: at 306 feet its second-order light sat above the fog it was meant to pierce, so in 1877 the Service tunneled through the headland and re-erected the lantern on the wave-cut outer point, where it was relit on February 1, 1877. The station pioneered west coast fog signaling with an army cannon fired from 1855. Automated in 1980 and last staffed in 1981, it remains an active light within Golden Gate NRA, reached by its 1954 suspension bridge.",
+   "confidence_notes": "May 2, 1855 day and Feb. 1, 1877 day are secondary/tertiary quoting LHB reports; NPS page gives fog-signal sequence cannon > bell > 1874 steam siren, while the 1888 LHB fog study tabulates the (relocated) Bonita siren at '12 years 0 months' as of July 1888 - siren chronology has minor source variance.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "USCG Light List, Vol. VI (2025), LLNR 4220",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "primary",
+     "citation": "Annual Report of the Commissioner of Lighthouses FY1915 (Point Bonita cannon = first Pacific coast fog signal, used 1855-1857)",
+     "url": "https://archive.org/details/bub_gb_B2dYAAAAYAAJ"
+    },
+    {
+     "type": "primary",
+     "citation": "The Fogs and Fog Signals of the Pacific Coast of the United States (pub. for the Light-House Board, 1888) - Bonita siren service table",
+     "url": "https://archive.org/details/fogsfogsignalsof00clarrich"
+    },
+    {
+     "type": "secondary",
+     "citation": "NPS, Point Bonita Lighthouse (GOGA)",
+     "url": "https://www.nps.gov/goga/pobo.htm"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Point Bonita (archived 2010)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Point Bonita Lighthouse; Wikipedia, Point Bonita Light (NRHP #91001099)",
+     "url": "https://lighthousefriends.com/light.asp?ID=76"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived links: '1856 Point Bonita tower' and 'new tower'",
+    "GGNRA Park Archives",
+    "NARA RG 26"
+   ]
+  },
+  {
+   "name": "Lime Point Light (Fog Signal Station)",
+   "alt_names": [
+    "Lime Point Fog Signal Station"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.82545,
+    -122.47829
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 4270: 37-49-31.622N 122-28-41.834W (modern light on post at the old station site); GNIS 227105 for the point: 37.82632, -122.47915",
+   "coord_precision": "exact",
+   "first_lit": "Established as a steam fog-signal station September 10, 1883 (no light); lens-lantern light added November 26, 1900. Grade: lighthousefriends citing LHB reports; corroborated for 1883 by the primary 1888 LHB fog study, which tabulates Lime Point's signal at '4 years, 10 months' in operation as of July 1, 1888; USCG Historian: established 1883, tower first lit 1900.",
+   "established_structures": "One-story brick fog-signal building with twin 12-inch steam whistles at the water's edge under the bluff, plus a two-story keepers' duplex (1883); a small light was mounted on the fog-signal building's gallery in 1900 (lighthousefriends; USCG Historian describes the 'square brick tower... mounted on the wall of fog signal building').",
+   "why_built": "To mark the north pillar of the Golden Gate in fog; the Board preferred Lime Point because a ship fixing that position 'can lay a straight course either to the city or to the sea' (Board rationale as quoted by lighthousefriends).",
+   "optic": "Lens lantern, fixed white, from 1900 (lighthousefriends; USCG Historian - original lens field blank).",
+   "automated": "July 1961 (lighthousefriends; USCG Historian gives 1961).",
+   "deactivated": "Station de-staffed 1961; a light remains active on a post at the site (Fl W 4s, Light List 2025) directly beneath the Golden Gate Bridge's north tower.",
+   "fate": "Keeper dwellings and outbuildings demolished after 1961; the small brick fog-signal building survives at the water's edge (USCG Historian; lighthousefriends). In June 1960 the freighter India Bear struck the site's causeway area in fog (lighthousefriends).",
+   "nrhp": "None found individually; within Golden Gate NRA lands (not verified as contributing).",
+   "keepers_note": "Keeper John McKenna died in 1902 after a fall onto the rocks; keeper Peter C. Nelson served ~28 years and was himself pulled from the bay by his assistant and Fort Baker soldiers in April 1913 (lighthousefriends, citing Sausalito News 1902 and San Francisco Call 1913).",
+   "summary": "Lime Point began in September 1883 as a pure fog-signal station, its twin steam whistles answering Fort Point across the narrowest reach of the Golden Gate. A modest lens-lantern hung on the signal building's gallery from November 1900 gave it a light, but it was always a keeper-run fog station first. De-staffed and automated in 1961, when its dwellings were razed, the brick signal house still carries an active light at the foot of the bridge's north tower.",
+   "confidence_notes": "Exact 1883 and 1900 dates are tertiary-quoting-primary; 1883 season independently supported by the 1888 fog study's service table.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "The Fogs and Fog Signals of the Pacific Coast (LHB, 1888) - Lime Point signal '4 yrs 10 mo' as of July 1888",
+     "url": "https://archive.org/details/fogsfogsignalsof00clarrich"
+    },
+    {
+     "type": "primary",
+     "citation": "USCG Light List Vol. VI (2025), LLNR 4270",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Lime Point Light (archived 2010)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Lime Point Lighthouse (cites LHB annual reports, Sausalito News, SF Call)",
+     "url": "https://lighthousefriends.com/light.asp?ID=146"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived Lime Point photo link",
+    "GGNRA archives",
+    "OpenSFHistory bridge-construction views showing the station"
+   ]
+  },
+  {
+   "name": "Mile Rocks Light",
+   "alt_names": [
+    "Mile Rock Lighthouse"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.79283,
+    -122.51039
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 4245: 37-47-34.171N 122-30-37.405W",
+   "coord_precision": "exact",
+   "first_lit": "February 15, 1906. Grade: lighthousefriends (citing LHB reports); USCG Historian: 'completed in 1906.'",
+   "established_structures": "Three-tiered steel tower ('the steel wedding cake') on a concrete-filled, steel-jacketed caisson base on the larger Mile Rock (rock only ~40x30 ft at high water); foundation work by contractor James A. McMahon's crews from September 1904 after an earlier crew quit on seeing the rock (lighthousefriends; USCG Historian: 1,500 tons of steel and concrete in the base).",
+   "why_built": "Direct response to the wreck of the Pacific Mail steamer City of Rio de Janeiro on Fort Point Ledge, February 22, 1901, with 128 of ~210 aboard lost - the worst shipwreck at the Golden Gate; Congress appropriated $100,000 on June 28, 1902 (lighthousefriends; USCG Historian recounts the Rio wreck, though its page misprints the wreck date as Feb. 2).",
+   "optic": "Third-order Fresnel, 1906 (lighthousefriends).",
+   "automated": "1965-66: upper two tiers removed, replaced by a helipad, light automated (lighthousefriends: work begun August 1965, $110,000; USCG Historian: 'In 1966, the tower was removed, and the light automated').",
+   "deactivated": "Never - active, Fl W 5s on the cut-down orange-and-white caisson (Light List 2025).",
+   "fate": "Truncated base tier remains as an automated light/helipad; the removed tiers were scrapped. No NRHP listing found.",
+   "nrhp": "None found.",
+   "keepers_note": "A wave-swept 'stag' station - keepers ascended by ladder and boom from a heaving boat; construction accounts note waves broke over the rock nearly every day of the year (USCG Historian).",
+   "summary": "The loss of the City of Rio de Janeiro in the fog off Fort Point in February 1901 pushed Congress to fund a lighthouse on Mile Rocks, a pair of wave-washed rocks a mile off Lands End. Crews working from a schooner bolted a steel-cased caisson to the larger rock and stacked a three-tier steel tower above it, lighting it on February 15, 1906. In 1965-66 the Coast Guard decapitated the tower for a helipad and automated the light, which still flashes from the surviving base.",
+   "confidence_notes": "First-lit day is tertiary-quoting-primary; no primary notice pulled this session. USCG page's 'Feb 2, 1901' wreck date is an error against the standard Feb. 22, 1901 (used by lighthousefriends and the historical literature).",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "USCG Light List Vol. VI (2025), LLNR 4245",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Mile Rocks Light (archived 2010)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Mile Rocks Lighthouse",
+     "url": "https://lighthousefriends.com/light.asp?ID=77"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived: 'Original Mile Rocks tower, 1962' and 'after modifications'",
+    "OpenSFHistory Lands End photographs",
+    "NARA RG 26"
+   ]
+  },
+  {
+   "name": "Point Diablo Light",
+   "alt_names": [],
+   "region": "sf-bay",
+   "coords": [
+    37.82012,
+    -122.49946
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 4250: 37-49-12.438N 122-29-58.057W; GNIS 230851 (Point Diablo): 37.82049, -122.49999",
+   "coord_precision": "exact",
+   "first_lit": "1923. Grade: secondary only (lighthousefriends, drawing on Nelson & Nelson, Umbrella Guide to California Lighthouses 1993); no USCG Historian entry and no primary located this session.",
+   "established_structures": "Small white frame fog-signal house ('white square house' in the Light List) on the point midway between Point Bonita and Lime Point; never a staffed dwelling station - a minor light and siren wired to and monitored by the Lime Point (later Point Bonita) keepers by telephone/electric line, visited weekly (lighthousefriends).",
+   "why_built": "The Lighthouse Service called the point 'a dangerous menace to vessels entering San Francisco Bay in foggy weather' (Service characterization as quoted by lighthousefriends); it fills the dark sector between Bonita and Lime Point inside the north Gate shore.",
+   "optic": "Two lens lanterns originally; modern solar beacon, Iso W 6s (lighthousefriends; Light List 2025).",
+   "automated": "Semi-automatic from establishment (remotely monitored); fully automatic in the automation era (date not established).",
+   "deactivated": "Never - active light and fog signal (Light List 2025, LLNR 4250).",
+   "fate": "Small structure stands on USCG/GGNRA land; closed to the public.",
+   "nrhp": "None found.",
+   "summary": "Point Diablo, the dark mid-point of the Golden Gate's northern shore, received a minor light and electric fog siren in 1923, installed in a small white signal house rather than a full station. It was an early experiment in remote operation: the keepers at Lime Point monitored it over wire and rowed or drove over weekly to service it. The automated light still shows an isophase white flash below the Marin headlands.",
+   "confidence_notes": "Establishment year 1923 rests on secondary sources only; the Bureau of Lighthouses FY1923 annual report would confirm and should be checked when accessible. Station never on the USCG Historian California page.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "USCG Light List Vol. VI (2025), LLNR 4250",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Point Diablo Lighthouse (drawing on Nelson & Nelson 1993)",
+     "url": "https://lighthousefriends.com/light.asp?ID=342"
+    },
+    {
+     "type": "primary",
+     "citation": "GNIS gaz_id 230851 (Point Diablo)",
+     "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer"
+    }
+   ],
+   "photo_leads": [
+    "GGNRA archives",
+    "lighthousefriends gallery"
+   ]
+  },
+  {
+   "name": "Yerba Buena Island Light (and 12th District Lighthouse Depot)",
+   "alt_names": [
+    "Goat Island Light (official listing name while the island was 'Goat Island,' to 1931)"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.8073,
+    -122.3622
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 4595: 37-48-26.287N 122-21-43.932W",
+   "coord_precision": "exact",
+   "first_lit": "October 1, 1875 ('The light and fog signal were placed in operation on October 1, 1875' - lighthousefriends, citing LHB annual reports; first keeper H.D. Tuttle). Grade: tertiary quoting primary. The FY1915 Commissioner's report (primary) lists the station as 'Goat Island, Cal.'",
+   "established_structures": "Octagonal wooden tower (1874-75) with separate Victorian keeper's dwelling on the island's southeast slope; fog bell then 10-inch steam whistle (1875), type 'C' diaphone from 1934. Adjacent: the 12th Lighthouse District depot, established 1873 on the island's southeast side (relocated from Mare Island per lighthousefriends), which serviced the district's tenders, buoys, and later lightships.",
+   "why_built": "Mid-bay traffic mark for ferries and shipping working between the city, Oakland, and the upper bay; co-located with the district's supply depot (lighthousefriends).",
+   "optic": "Fifth-order L. Sautter & Co. Fresnel (transferred from the discontinued Yaquina Bay light); upgraded to fourth-order in 1912 (lighthousefriends). Modern: Oc W 4s (Light List 2025).",
+   "automated": "1958, personnel withdrawn (lighthousefriends).",
+   "deactivated": "Never - active aid (Light List 2025, LLNR 4595).",
+   "fate": "Tower and dwelling stand on the Coast Guard's Yerba Buena Island reservation; the Victorian dwelling has served as the quarters of the district/area USCG admiral (lighthousefriends). The depot site became USCG Base Yerba Buena; the 1971 East Brother NRHP nomination notes bay aids were to be run from a console on Yerba Buena.",
+   "nrhp": "No individual listing verified this session.",
+   "summary": "Lit on October 1, 1875, the small octagonal tower on Yerba Buena (then Goat) Island marked the crossroads of bay traffic, and shared its island with the 12th Lighthouse District's depot, moved there in 1873, from which tenders supplied every light and buoy on this coast. Its borrowed fifth-order Sautter lens gave way to a fourth-order in 1912; keepers left at automation in 1958. Light and dwelling survive inside the Coast Guard base beneath the Bay Bridge.",
+   "confidence_notes": "Depot's 1873 establishment and 'relocated from Mare Island' rest on lighthousefriends; the depot deserves confirmation in LHB reports (a documented depot existed at YBI into the 20th c. - the 1971 NRHP text corroborates its console/ops role). The USCG Historian California page has no YBI entry.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "USCG Light List Vol. VI (2025), LLNR 4595",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "primary",
+     "citation": "Annual Report of the Commissioner of Lighthouses FY1915 - station listed as 'Goat Island, Cal.'",
+     "url": "https://archive.org/details/bub_gb_B2dYAAAAYAAJ"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Yerba Buena Lighthouse (cites LHB annual reports)",
+     "url": "https://lighthousefriends.com/light.asp?ID=71"
+    },
+    {
+     "type": "primary",
+     "citation": "NRHP nomination, East Brother Island Light Station (1971) - notes planned central control of bay aids from Yerba Buena Island",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000138_text"
+    }
+   ],
+   "photo_leads": [
+    "USCG Base Alameda/YBI historical files",
+    "NARA RG 26 depot photographs",
+    "SF Maritime NHP (SAFR) collections"
+   ]
+  },
+  {
+   "name": "Oakland Harbor Light",
+   "alt_names": [
+    "Quinn's Lighthouse (relocated 1903 building)"
+   ],
+   "region": "sf-bay",
+   "coords": [],
+   "coord_source": "No allowed published position located for the original harbor-entrance sites; the relocated 1903 building stands in Embarcadero Cove, Oakland (Wikipedia infobox 37.781335, -122.243817 - tertiary, offered as lead only)",
+   "coord_precision": "area",
+   "first_lit": "First lighthouse activated January 27, 1890 (construction begun September 1889, accepted November 30, 1889); second lighthouse commenced operation July 11, 1903. Grade: lighthousefriends citing LHB annual reports and a Secretary of the Treasury letter; USCG Historian's entry (est. 1903) covers only the second building.",
+   "established_structures": "1) 1890: wooden dwelling/tower on piles at the Oakland harbor entrance training walls (fifth-order lens); its pile foundation was condemned by 1902 ('its wooden pile foundation has deteriorated to such an extent as to render it liable to collapse at any time' - Treasury letter quoted by lighthousefriends). 2) 1903: larger square wooden dwelling with light, on concrete-filled steel cylinders ($19,000 appropriated June 28, 1902).",
+   "why_built": "To guide the night ferries and coastal traffic into the jettied Oakland harbor entrance (local press eulogy of the first light, quoted by lighthousefriends: 'For many years this has been the guide of the night ferries').",
+   "optic": "Fifth-order Fresnel (both structures; USCG Historian and lighthousefriends).",
+   "automated": "Replaced by an automatic beacon at deactivation in 1966 (Wikipedia; lighthousefriends).",
+   "deactivated": "1966 (Wikipedia; lighthousefriends; USCG Historian's '1966' - its 'relocated 1951' statement conflicts with the other sources and appears erroneous).",
+   "fate": "Lantern room removed to the Mark Abbott Memorial Lighthouse, Santa Cruz; the 1903 building was barged ~6 miles to Embarcadero Cove and opened in 1984 as Quinn's Lighthouse Restaurant, which still occupies it (lighthousefriends; Wikipedia).",
+   "nrhp": "None found.",
+   "summary": "Oakland's harbor entrance got its first lighthouse in January 1890, a wooden pile-borne dwelling whose foundations teredo worms ruined within a decade; a sturdier successor on steel cylinders took over on July 11, 1903. Deactivated in 1966, the second lighthouse lost its lantern to Santa Cruz's surfing-museum lighthouse and was floated up the estuary, reopening in 1984 as Quinn's Lighthouse Restaurant in Embarcadero Cove.",
+   "confidence_notes": "Original-site coordinates not established from allowed sources; USCG Historian's 1951 relocation date is contradicted by lighthousefriends and Wikipedia (1966 deactivation, 1984 reopening) and flagged as an error.",
+   "sources": [
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Oakland Harbor Light (archived 2010)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Oakland Harbor Lighthouse (cites LHB reports, Lighthouse Service Bulletin, Shanks 1990, Nelsons 1993)",
+     "url": "https://lighthousefriends.com/light.asp?ID=72"
+    },
+    {
+     "type": "tertiary",
+     "citation": "Wikipedia, Oakland Harbor Light (deactivated 1966; Quinn's 1984)",
+     "url": "https://en.wikipedia.org/wiki/Oakland_Harbor_Light"
+    }
+   ],
+   "photo_leads": [
+    "Oakland Public Library history room",
+    "USCG Historian archived Oakland photo link",
+    "Quinn's Lighthouse Restaurant historical displays"
+   ]
+  },
+  {
+   "name": "Southampton Shoal Light",
+   "alt_names": [
+    "Southampton Shoals Light (USCG spelling)"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.88194,
+    -122.40025
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 5480 (modern cylindrical tower marking the shoal at/near the station site): 37-52-54.993N 122-24-00.892W; GNIS 235128 (Southampton Shoal): 37.89076, -122.40693",
+   "coord_precision": "place",
+   "first_lit": "Late December 1905 (the establishment notice quoted by lighthousefriends: 'a fixed white lens lantern light... will be established in the structure recently completed at this station,' with operation from about December 28, 1905). Grade: tertiary quoting the period notice; USCG Historian: established/first lit 1905.",
+   "established_structures": "Two-story square wooden dwelling with pyramidal roof, dormers, and cylindrical lantern on a platform carried by eleven iron/concrete foundation cylinders driven into the shoal ($30,000 appropriated March 3, 1903; contract March 1905). The April 1906 earthquake tilted the cylinders up to eleven degrees, requiring cross-bracing and rock fill (lighthousefriends, citing LHB reports).",
+   "why_built": "To mark Southampton Shoal east of Angel Island on the fairway from San Francisco Bay toward San Pablo Bay and the Carquinez grain ports (USCG Historian; lighthousefriends).",
+   "optic": "Fifth-order Fresnel; the lens is displayed at the Angel Island State Park interpretive center (USCG Historian; lighthousefriends).",
+   "automated": "Manning discontinued 1960, when Point Blunt's new watch room took over remote operation of the fog signal (USCG press release text on the Historian's Point Blunt entry).",
+   "deactivated": "Staffed station closed 1960; superstructure removed July 1966, replaced by the present automated tower (Iso R 6s, Light List 2025).",
+   "fate": "The two upper stories were craned off in July 1966 and barged up the San Joaquin to Tinsley Island, where the St. Francis Yacht Club maintains the building as a club station (lighthousefriends; USCG Historian says 'moved to Tinsley Island... part of the Saint Francis Yacht Club').",
+   "nrhp": "None found.",
+   "keepers_note": "The 1906 earthquake reached even this water station, tilting its legs eastward - reported through the Lighthouse Board's engineering correspondence (as summarized by lighthousefriends).",
+   "summary": "Southampton Shoal received a cottage-style lighthouse on iron cylinders in December 1905, guarding the shoal on the run from the central bay toward San Pablo Bay. The 1906 earthquake racked its legs; braces and rock held it for another half-century of keepers until Point Blunt assumed its fog signal in 1960. In 1966 the wooden dwelling was barged to Tinsley Island in the delta as a yacht-club outstation, and an automated tower on the old site still marks the shoal.",
+   "confidence_notes": "Exact first-lit day (Dec. 28, 1905) is from the period notice as reproduced by a tertiary source; the shoal-marking modern tower's position is published, but the 1905 structure's exact footprint versus the modern tower has not been separately verified.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "USCG Light List Vol. VI (2025), LLNR 5480",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Southampton Shoals Light (archived 2010)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Southampton Shoal Lighthouse (cites LHB reports, The Keeper's Log Summer 1991)",
+     "url": "https://lighthousefriends.com/light.asp?ID=101"
+    },
+    {
+     "type": "primary",
+     "citation": "GNIS gaz_id 235128 (Southampton Shoal)",
+     "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer"
+    }
+   ],
+   "photo_leads": [
+    "The Keeper's Log (USLHS) Summer 1991 article",
+    "St. Francis Yacht Club Tinsley Island materials",
+    "Angel Island SP interpretive center (the lens)"
+   ]
+  },
+  {
+   "name": "East Brother Island Light Station",
+   "alt_names": [
+    "East Brother Light",
+    "the San Pablo Strait light (functional designation)"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.96321,
+    -122.43352
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 5865: 37-57-47.543N 122-26-00.657W; NRHP nomination (1971) center point 37\u00b057'42\"N 122\u00b026'01\"W",
+   "coord_precision": "exact",
+   "first_lit": "March 1, 1874; fog signal in operation May 1, 1874. Grade: PRIMARY-adjacent - the NRHP nomination text (1971), drawing on the station file and LHB Annual Reports 1873-74: 'The light was exhibited for the first time on March 1st, and the fog signal was put in operation on May 1st of that year.'",
+   "established_structures": "Two-story Victorian ('Carpenter Gothic'/Stick style) combined tower-and-dwelling, fog-signal building, shop/storage building, wharf, water tank, and a blasted 30-ft-deep cistern, all on a leveled one-acre rock; built 1873-74 after Maj. George H. Elliott, Engineer Secretary of the Light-House Board, obtained the War Department's release of the easterly Brother island in February 1873 and Congress appropriated $30,000 (NRHP nomination). Design attributed to Lighthouse Board draftsman Paul J. Pelz (Wikipedia/Perry attribution; the nomination says only 'an East Coast lighthouse designer').",
+   "why_built": "Mainland-site litigation being impracticable, the Board took the island to light San Pablo Strait - the narrow passage every vessel bound to Mare Island Navy Yard, Carquinez, and the river ports must thread (NRHP nomination). This IS the 'San Pablo Straits' station: no separate San Pablo Strait lighthouse ever existed.",
+   "optic": "Fourth-order Fresnel; the original lens was cracked in the 1906 earthquake and replaced by a new Paris-made lens used until automation (NRHP nomination; USCG Historian: fourth order).",
+   "automated": "1969 (NRHP nomination-era text; USCG Historian: 'Automated: 1969, now FA 251').",
+   "deactivated": "Never - active aid, Fl W 5s (Light List 2025).",
+   "fate": "Slated for demolition after automation, the station was saved by its 1971 NRHP listing and since 1980 has been run as a bed-and-breakfast inn by the nonprofit East Brother Light Station, Inc. (founded 1979) under USCG license; the light and (winter) fog horn remain active (Wikipedia; Light List 2025).",
+   "nrhp": "NRHP #71000138, listed February 12, 1971 (nomination pulled from NPGallery; listing date via Wikipedia/NRIS).",
+   "keepers_note": "Keeper John Stenmark (1894-1914), a Swedish-born sailor rewarded with the post for rescues, raised four children on the one-acre rock; two were born on the island after he rowed to Point San Quentin for the doctor (NRHP nomination). Head-keeper list 1874-1940s preserved on the USCG Historian's page.",
+   "summary": "Built in 1873-74 on a dynamited islet off Point San Pablo, East Brother lighted the strait between San Francisco and San Pablo Bays from March 1, 1874, its steam whistle following that May. The Victorian tower-dwelling, cistern, and fog-signal building survived earthquake, automation in 1969, and a demolition plan, becoming one of the first West Coast light stations rescued by NRHP listing. A nonprofit has operated it as an inn since 1980, with the light still flashing.",
+   "confidence_notes": "Strongest-documented station in the bay: nomination text, Light List, USCG Historian, and steward records all align. Pelz attribution is secondary.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "NRHP Inventory-Nomination, East Brother Island Light Station (#71000138), 1971, citing USCG 12th District station file and LHB Annual Reports 1873-1874",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000138_text"
+    },
+    {
+     "type": "primary",
+     "citation": "USCG Light List Vol. VI (2025), LLNR 5865",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: East Brother Island Light (archived 2010, incl. full keeper roster)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "Wikipedia, East Brother Island Light (NRHP ref/date; Pelz; inn operation); Frank Perry, 'East Brother: History of an Island Light Station' (steward-published history, lead)",
+     "url": "https://en.wikipedia.org/wiki/East_Brother_Island_Light"
+    }
+   ],
+   "photo_leads": [
+    "ebls.org (East Brother Light Station, Inc.) historic photo pages",
+    "NRHP nomination photographs (NPGallery #71000138)",
+    "NARA RG 26"
+   ]
+  },
+  {
+   "name": "Mare Island Light",
+   "alt_names": [
+    "Mare Island Lighthouse"
+   ],
+   "region": "delta-estuary",
+   "coords": [],
+   "coord_source": "No published position in allowed sources located (station razed; not in modern Light List/GNIS as a light). Site: the southeastern tip of Mare Island commanding the entrances to Carquinez and Mare Island Straits - USCG Historian: 'North shore of San Pablo Bay at the entrance to Carquinez Strait'; the 1910 Carquinez notice places Carquinez Strait Light ~9/16 mile at 106\u00b030' true FROM Mare Island lighthouse. GNIS island record 228080 (Mare Island). lighthousefriends map point 38.0769, -122.2527 is tertiary, lead only.",
+   "coord_precision": "place",
+   "first_lit": "September 1, 1873 (lighthouse completed July 15, 1873). Grade: tertiary quoting primary - lighthousefriends quotes the LHB Annual Report 1873 ('The light-house of this station was completed by the 15th of July, although it was not quite ready for lighting at that date') and gives the September 1, 1873 in-operation date; USCG Historian: 'Date Built: 1873.' Congress appropriated $20,000 on June 10, 1872 (lighthousefriends). LHB 1873 report not directly opened this session.",
+   "established_structures": "Combined square tower and two-story wood dwelling (a near-sister of East Brother's Victorian design - USCG Historian: 'very similar to San Francisco's East Brother Lighthouse'; Wikipedia attributes the design to Paul J. Pelz), with fog bell (a bell relocated from Cape Mendocino; moved to the wharf end 1893), 15,000-gal water tank (1877), landing wharf (1892); bell striker automated 1916 (USCG Historian; lighthousefriends).",
+   "why_built": "To light the deep-water approach past the Navy Yard: every vessel entering Mare Island Strait for the yard, or Carquinez Strait for Benicia, Port Costa, and the river trade, rounded this point. Its replacement logic ran the same way - the taller 1910 Carquinez Strait Light 9/16 mile away made it redundant (1910 notice; USCG Historian).",
+   "optic": "Fourth-order Fresnel, fixed white (USCG Historian; lighthousefriends).",
+   "automated": "Fog bell machinery automated 1916; the light itself was discontinued rather than automated (USCG Historian).",
+   "deactivated": "July 1, 1917 (lighthousefriends; USCG Historian: 'Deactivated in 1917'). Superseded by Carquinez Strait Light (est. Jan. 15, 1910).",
+   "fate": "Buildings stood into the interwar Navy era and were razed in the 1930s (USCG Historian; lighthousefriends). The site lies on the former Mare Island Naval Shipyard; Wikipedia notes a Navy direction-finding station occupied it 1942-45, then a Navy radiobeacon. Nothing of the lighthouse survives above ground.",
+   "nrhp": "No individual listing; the site is within the Mare Island NHL district boundary context (shipyard NHL) - contributing status NOT verified this session.",
+   "keepers_note": "Kate Caffrey McDougal kept this light for 35+ years (appointed December 1881; USCG Historian's women-keepers list: 'Appointed keeper in December 1881; 1881-1916'; lighthousefriends, from service records and census: served until her resignation May 22, 1917, weeks before the light was discontinued; died 1932, age 90). Her husband, Cmdr. Charles J. McDougal USN, 12th District lighthouse inspector, drowned on the morning of March 28, 1881 when his boat capsized landing at Cape Mendocino Light from the tender Manzanita - PRIMARY: Sacramento Daily Record-Union, March 29, 1881, p.1 ('Captain McDougall, Lighthouse Inspector, with two others, was drowned off Mendocino light while attempting to go ashore from the steamer Ma[n]zanita... this morning'). The Lighthouse Board then gave the widow the bay's gentlest station, a few miles from the Navy Yard where the couple had been posted. Daughter Elizabeth M. McDougal (b. Washington DC 1870, 'daughter of Charles J. and Kate Caffrey McDougal') later worked in the 5th District office 1893-98 (USCG women-keepers list). CAUTION: the USLHS 'In Memoriam' roster instead records 'Charles J. McDougal, District Inspector, Punta Gorda CA, March 5, 1909, Drowned' - irreconcilable with the 1881 contemporary press; either a roster error or a same-named son. Flagged, unresolved. Also note the first keeper, 1873-1881, was a woman, Theresa C. Watson (lighthousefriends keeper list) - meaning women kept this light for its entire 44-year staffed life.",
+   "summary": "Lighted on September 1, 1873 at the southeastern tip of the Navy Yard island, Mare Island Light was East Brother's near-twin, a Victorian tower-dwelling with a fourth-order fixed white light and a fog bell recycled from Cape Mendocino. It is remembered for Kate McDougal, appointed in December 1881 months after her husband, the district's lighthouse inspector, drowned at Cape Mendocino, and keeper here for some 35 years until the light's discontinuation on July 1, 1917, by which time the new Carquinez Strait Light half a mile off had taken its work. The Navy razed the empty buildings in the 1930s; only the site remains, on the former shipyard.",
+   "confidence_notes": "First-lit day and 1917 dates are tertiary-quoting-primary (LHB 1873 report and Bureau records not directly opened; FY1917 Commissioner's report not found online). Kate's end-date: USCG list says 1916, lighthousefriends documents resignation May 22, 1917 - discrepancy noted. Site coordinate deliberately left empty pending a published historic Light List position or shipyard HABS sheet; recommend the Vallejo Naval and Historical Museum and SF Maritime NPA files for Kate McDougal papers and site photos.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "Sacramento Daily Record-Union, 1881-03-29, p.1, 'Three Men Drowned' (Charles J. McDougal, Lighthouse Inspector, drowned off Cape Mendocino light, March 28, 1881, from tender Manzanita)",
+     "url": "https://www.loc.gov/resource/sn82014381/1881-03-29/ed-1/?sp=1"
+    },
+    {
+     "type": "primary",
+     "citation": "Notice to Mariners printed in San Francisco Call, 1910-01-19, p.15 (Carquinez Strait Light established Jan. 15, 1910, bearing/distance FROM Mare Island lighthouse - fixes the two stations' relation while both stood)",
+     "url": "https://www.loc.gov/resource/sn85066387/1910-01-19/ed-1/?sp=15"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Mare Island Light (archived 2010) - structure, bell, 'Kate McDougal (1881-1916)', deactivated 1917, razed 1930s, 4 photo files incl. c.1879 print",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, 'Breaking the Barrier: Women Lighthouse Keepers' (archived 2008) - Kate C. McDougal, Mare Island, appointed Dec. 1881, 1881-1916; Elizabeth M. McDougal entry; list keyed to Clifford & Clifford, Women Who Kept the Lights",
+     "url": "https://web.archive.org/web/20080920034758/http://www.uscg.mil/history/uscghist/Women_Keepers.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Mare Island Lighthouse (quotes LHB Annual Report 1873; appropriation June 10, 1872; first lit Sept. 1, 1873; keepers Watson 1873-81, McDougal 1881-1917, resignation May 22, 1917; 1910 census)",
+     "url": "https://lighthousefriends.com/light.asp?ID=1789"
+    },
+    {
+     "type": "secondary",
+     "citation": "USLHS In Memoriam roster (conflicting McDougal entry: Punta Gorda, March 5, 1909) - flagged against the 1881 primary",
+     "url": "https://uslhs.org/memoriam"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived Mare Island photo files: c.1879 print + three undated station views (75/300 dpi links on the archived page)",
+    "Vallejo Naval and Historical Museum",
+    "NARA RG 26 and RG 181 (naval districts/shipyards)",
+    "SF Maritime NHP (SAFR) historic photograph collections"
+   ]
+  },
+  {
+   "name": "Carquinez Strait Light",
+   "alt_names": [
+    "Carquinez Straits Lighthouse",
+    "Glen Cove lighthouse (relocated building)"
+   ],
+   "region": "delta-estuary",
+   "coords": [],
+   "coord_source": "Original station site: published 1910 description only - 'on the northerly side of the entrance to Carquinez strait and the easterly side of the entrance to Napa creek, just inside of the long wooden dike, about 9/16 mile 106\u00b030' true from Mare Island lighthouse' (Notice to Mariners, Jan. 1910); modern minor aids mark the vicinity (Light List 2025 Carquinez Strait lights). Relocated building at Glen Cove Marina, Vallejo (lighthousefriends map point 38.0678, -122.2137 - tertiary lead).",
+   "coord_precision": "place",
+   "first_lit": "January 15, 1910. Grade: PRIMARY - period Notice to Mariners, 12th District, printed in the San Francisco Call, Jan. 19, 1910, p.15: 'Carquinez strait light station was established January 15, 1910, in the structure recently erected...'; light fixed red, fourth order, 56 ft above water, visible 13 miles, cream-colored square tower rising from a 2.5-story dwelling and fog-signal building on piles in 8 ft of water.",
+   "established_structures": "A single huge combined structure: 28-room 2.5-story dwelling with attached three-story tower and fog-signal wing, on piles at the end of a long pier/dike (~150 tons; $50,000 appropriated March 4, 1907; built Aug. 1908-late 1909) (1910 notice; USCG 1966 press release text on the Historian's page; lighthousefriends).",
+   "why_built": "The Lighthouse Board pressed Congress for a major light between San Francisco Bay and the Sacramento River to serve traffic into Carquinez and Mare Island Straits; it superseded the 1873 Mare Island light across the channel (USCG Historian; 1910 notice geometry).",
+   "optic": "Fourth-order Fresnel, fixed red (1910 notice: 'fixed red, of the [fourth] order'; USCG Historian: Fourth Order Fresnel). The station also served as a test platform for vertical 'mushroom' trumpet fog signals (USCG Historian).",
+   "automated": "June 3, 1963 - light and fog signal automated when USCG personnel left the replacement bluff-top station (USCG 1966 press release on Historian's page).",
+   "deactivated": "Lighthouse building abandoned as an aid in 1951, when an automatic beacon and fog signal were set on the pier and new family quarters were built on the bluff above (USCG press release; the Historian's summary card says 'Deactivated 1951').",
+   "fate": "On August 6, 1955 the 150-ton building was jacked onto a barge and towed two miles to Elliott Cove (Glen Cove), Vallejo; tower removed; the dwelling survives as the Glen Cove Marina office and event space (USCG 1966 press release: 'taken off its pilings and put aboard a barge... towed two miles to its new location at Elliott Cove'; lighthousefriends adds the 1955 purchase by contractor Robert Hubert and current marina use).",
+   "nrhp": "None found.",
+   "summary": "Established January 15, 1910 on piles at the mouth of Mare Island Strait, the Carquinez Strait Light packed tower, fog signal, and a 28-room dwelling into one enormous wooden building at the end of a long dike - the inland gatepost for river-bound shipping, replacing the little Mare Island light half a mile away. The Coast Guard abandoned the building for automatic aids in 1951, and in 1955 the whole structure was barged to Glen Cove, where it still stands, de-towered, as a marina office. The station function itself was automated in 1963.",
+   "confidence_notes": "Establishment is primary-verified; the '1908' start on the USCG summary card refers to construction begun (appropriation 1907, pile-driving Aug. 1908 per lighthousefriends). The Historian's card also carries an internal inconsistency ('Automated Yes, 1963' with 'Deactivated 1951') explained by the press-release chronology used above.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "Notice to Mariners, 12th District, printed in San Francisco Call, 1910-01-19, p.15 (establishment Jan. 15, 1910, full description and bearings)",
+     "url": "https://www.loc.gov/resource/sn85066387/1910-01-19/ed-1/?sp=15"
+    },
+    {
+     "type": "primary",
+     "citation": "US Coast Pilot, Pacific Coast (1943) - 'Carquinez Strait Light is shown from a cream-colored tower on dwelling located on the jetty on the eastern side of the entrance to Mare Island Strait'",
+     "url": "https://archive.org/details/unitedstatescoast00usco"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Carquinez Strait Light (archived 2010), incl. December 1966 USCG press release (1951 abandonment, Aug. 6, 1955 barge move to Elliott Cove, June 3, 1963 automation)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Carquinez Strait Lighthouse (appropriation March 4, 1907; keepers Czarnecke, Kaneen; Glen Cove Marina present use)",
+     "url": "https://lighthousefriends.com/light.asp?ID=69"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived Carquinez photo link",
+    "Glen Cove Marina historical displays",
+    "Vallejo Naval and Historical Museum",
+    "Solano County historical societies"
+   ]
+  },
+  {
+   "name": "Roe Island Light",
+   "alt_names": [],
+   "region": "delta-estuary",
+   "coords": [
+    38.07242,
+    -122.0347
+   ],
+   "coord_source": "GNIS gaz_id 231813 (Roe Island, Solano Co.) - island record; the lighthouse stood on the island's south point with a T-pier into Suisun Bay (USCG Historian). Precision reflects island-level record, not the exact structure.",
+   "coord_precision": "place",
+   "first_lit": "February 16, 1891, first keeper Richard A. Weiss (lighthousefriends: Weiss 'placed the station in operation on February 16, 1891'; USCG Historian: established/first lit 1891). Grade: tertiary quoting primary; USCG concurs on year.",
+   "established_structures": "Square 1.5-story wooden dwelling on low pilings with veranda, dormers, and an octagonal roof lantern (light 41 ft above water, flashing white; fog bell, 1 stroke/10s, in a bell house on the T-pier), plus oil house, outbuildings, and a second dwelling added in the 1900s; land deeded by Dr. Washington M. Ryer; ironwork by M. A. Graham, buildings/wharf by California Bridge Co. (USCG Historian; lighthousefriends).",
+   "why_built": "To mark the Suisun Bay channel where deep-water traffic bound for Benicia, Port Costa wheat wharves, and the rivers threaded the shoals - 33 miles inside the Golden Gate, five miles east of Benicia, opposite what became Port Chicago (USCG Historian).",
+   "optic": "Lens type not established from located sources (lantern-room fixed/flashing apparatus; USCG Historian's lens field is blank) - unverified.",
+   "automated": "Never; discontinued instead.",
+   "deactivated": "1945, after the Port Chicago explosion of July 17, 1944 (two ammunition ships, E. A. Bryan and Quinault Victory, detonated ~3,000 yards away, killing over 300, knocking the station's bell house off its foundation and smashing windows - USCG Historian, quoting an 11 Aug. 1944 USCG report on the station's composition; keeper Erven A. Scott's damage account in lighthousefriends). Channel changes had already reduced its value (USCG Historian).",
+   "fate": "Sold: the city of Pittsburg bought it in November 1946 for $4,000; Boy Scout use to 1953; later privately held as a summer place until fire destroyed the buildings (lighthousefriends; USCG Historian: 'sold... used as a summer home until a fire completely destroyed it'). Fire date not established. Roe Island Channel range lights remain in the 2025 Light List.",
+   "nrhp": "None.",
+   "keepers_note": "Keeper John M. Nilsson served ~21 years (1893-1914); last keeper Erven A. Scott rode out the Port Chicago blast in the station and reported furniture thrown about and every window gone (lighthousefriends).",
+   "summary": "The delta's only true staffed lighthouse, Roe Island Light went into service on February 16, 1891, a low cottage lantern on pilings marking the Suisun Bay channel to the upriver ports. It survived half a century of fog and grain traffic only to be wrecked from within the bay: the Port Chicago explosion of July 17, 1944 tore its bell house loose from 3,000 yards away. Discontinued in 1945 and sold, the buildings later burned; only channel range lights carry the name today.",
+   "confidence_notes": "First-lit day tertiary-quoting-primary. The lighthousefriends page text apparently misdates the explosion July 15; July 17, 1944 (USCG Historian and the standard record) is used. Lens order unverified. Fire date unknown.",
+   "sources": [
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Roe Island Light (archived 2010), incl. quoted 11 Aug. 1944 USCG station report and 1924 station photos C88/C94",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Roe Island Lighthouse (first lit Feb. 16, 1891; keepers Weiss, Nilsson, Scott; sale to Pittsburg 1946)",
+     "url": "https://lighthousefriends.com/light.asp?ID=1790"
+    },
+    {
+     "type": "primary",
+     "citation": "US Coast Pilot, Pacific Coast (1943) - Roe Island Light 'northward of the channel opposite Bay Point'; GNIS 231813",
+     "url": "https://archive.org/details/unitedstatescoast00usco"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived Roe Island 1924 photos (C88, C94, 'New Bulkheads Completed August 7, 1924')",
+    "Contra Costa County Historical Society (Port Chicago files)",
+    "NARA RG 26"
+   ]
+  },
+  {
+   "name": "Angel Island Light Station (Point Knox)",
+   "alt_names": [
+    "Point Knox Light",
+    "Angel Island Fog-Bell Station"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.85604,
+    -122.44304
+   ],
+   "coord_source": "GNIS gaz_id 254857 (Point Knox, Marin Co.); the station platform clung to the bluff at/below the point. 1988 Light List: Point Knox Lighted Gong Buoy 2 at 37\u00b050.2'N 122\u00b026.7'W marks the shoal offshore.",
+   "coord_precision": "place",
+   "first_lit": "Fog bell in operation November 1, 1886 (appropriation $4,500, March 3, 1885; work begun September 1885); a lens-lantern showing fixed red was added in November 1900. Grade: tertiary (lighthousefriends) quoting LHB annual reports and George Worthylake, 'Point Knox,' The Keeper's Log (Fall 1996); no primary directly examined this session.",
+   "established_structures": "Bell house and keeper's dwelling on a timber platform at the base of the bluff at Point Knox, reached by a long stairway; 3,000-lb bell struck by clockwork machinery; small lens-lantern light added 1900. From 1915 the station's keepers also tended the new Point Stuart and Point Blunt minor lights/sirens 1-2 miles away (lighthousefriends; USCG press release on Point Blunt entry: 'Point Blunt Light was originally maintained by personnel at Angel Island Light Station at Point Knox').",
+   "why_built": "To warn traffic in the fog-swept western angle of Angel Island, where the ebb sets vessels out of Raccoon Strait onto Point Knox shoal (Coast Pilot 1943 notes the shoal; lighthousefriends).",
+   "optic": "Lens-lantern, fixed red, hung near the bell nightly from November 1900 (lighthousefriends).",
+   "automated": "Station disestablished October 31, 1960, when the Coast Guard consolidated Angel Island operations at the new Point Blunt station (lighthousefriends; USCG press release: personnel moved 1960-61).",
+   "deactivated": "October 31, 1960 (as a staffed station); the Point Knox aid was replaced by a lighted gong buoy off the shoal (1988 Light List).",
+   "fate": "Abandoned structures deliberately burned in 1963; the great fog bell still stands in its frame on the point, within Angel Island State Park (lighthousefriends; the Southampton Shoal lens is displayed at the park's interpretive center - USCG Historian).",
+   "nrhp": "No individual listing found (the island's NHL listing is the US Immigration Station).",
+   "keepers_note": "Juliet Fish Nichols, keeper 1902-1914 (USCG Historian's women-keepers list: 'Juliet Nichols, Angel Island, CA, 1902-1914'), Shanghai-born (1859) widow of Cmdr. Henry Nichols USN (d. 1899 in the Philippines). Her station log for the July 1906 fog, as quoted in Worthylake's Keeper's Log article via lighthousefriends: 'July 4 - ...8:00 p.m. machinery went to pieces - great tension bar broke in two - dense fog... bell struck with a nail hammer, standing out on the platform until 4 p.m. [July 5].' She hand-struck the 3,000-lb bell roughly 20 hours 35 minutes and received a special commendation (lighthousefriends/Worthylake).",
+   "summary": "Angel Island's light station began as a fog-bell post at Point Knox in November 1886, a bell house and cottage bolted to the island's fog-blind western bluff, gaining a small fixed-red light in 1900. Keeper Juliet Fish Nichols made it famous in July 1906 when the striking machinery shattered in dense fog and she beat the bell by hand through the night and the next day. After 1915 its keepers also ran the island's Point Stuart and Point Blunt minor lights; the station closed October 31, 1960 and was burned in 1963, leaving the bell standing in the state park.",
+   "confidence_notes": "1886/1900 dates and the Nichols log quote are tertiary reproductions of primary material (LHB reports; station log via Worthylake) - reliable chain but the primary itself unexamined; popular accounts differ on whether the marathon bell-striking began July 2 or July 4, 1906; the quoted log supports July 4-5. Nichols' death date not included (unverified).",
+   "sources": [
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, 'Breaking the Barrier: Women Lighthouse Keepers' (archived 2008) - Juliet Nichols, Angel Island, 1902-1914",
+     "url": "https://web.archive.org/web/20080920034758/http://www.uscg.mil/history/uscghist/Women_Keepers.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Point Knox Lighthouse (cites LHB annual reports; George Worthylake, 'Point Knox,' The Keeper's Log, Fall 1996; Shanks 1990; Nelsons 1993)",
+     "url": "https://lighthousefriends.com/light.asp?ID=337"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Point Blunt entry July 1970 press release (Point Knox station role and 1960-61 consolidation)",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "primary",
+     "citation": "GNIS gaz_id 254857 (Point Knox); Light List, Pacific Coast (1988) - Point Knox Lighted Gong Buoy 2",
+     "url": "https://archive.org/details/lightlistpacific00unit"
+    }
+   ],
+   "photo_leads": [
+    "California State Parks, Angel Island SP interpretive center",
+    "The Keeper's Log Fall 1996 (Worthylake) images",
+    "USCG Historian archived 'Angel Island Lighthouse' photo link",
+    "Angel Island Conservancy"
+   ]
+  },
+  {
+   "name": "Point Stuart Light",
+   "alt_names": [
+    "Stuart Point Light (Coast Pilot 1943 usage)",
+    "later Raccoon Strait Light (1988 Light List aid on the bluff)"
+   ],
+   "region": "sf-bay",
+   "coords": [
+    37.86049,
+    -122.44554
+   ],
+   "coord_source": "GNIS gaz_id 235615 (Point Stuart, Marin Co.); 1988 Light List shows the successor 'Raccoon Strait Light' on the bluff edge at 37\u00b051.7'N 122\u00b026.7'W",
+   "coord_precision": "place",
+   "first_lit": "Fiscal year 1915 (July 1914-June 1915). Grade: PRIMARY - Annual Report of the Commissioner of Lighthouses FY1915, p.8: 'Fog signals established: ... Point Blunt and Point Stuart, Angel Island, San Francisco Bay, Cal. (electric sirens)', with both points also in the report's new-minor-lights tabulation; lighthousefriends (from the same reports) describes remote-controlled 500-watt lamps in lens lanterns.",
+   "established_structures": "Unwatched minor light and electric siren in a small white frame house on the island's westerly point (Coast Pilot 1943: 'Point Stuart Light, shown from a white frame house, is 80 feet above water'; fog signal an air diaphragm horn by then), operated remotely by the Point Knox keepers a mile away (lighthousefriends; USCG press release).",
+   "why_built": "To light the southern entrance of Raccoon Strait and the island's western turning point for northbound bay traffic (Coast Pilot 1943 context; part of the 1915 Angel Island minor-aids scheme).",
+   "optic": "Lens lantern with electric incandescent lamp (lighthousefriends, from Lighthouse Service records).",
+   "automated": "Remote/automatic from establishment; tended from Point Knox to 1960, then Point Blunt ('Raccoon Strait light and fog signals' operated by Point Blunt personnel - USCG July 1970 press release).",
+   "deactivated": "The shore light survived (as 'Raccoon Strait Light') at least into the late 1980s (1988 Light List); by the 2025 Light List only Raccoon Strait Lighted Buoy 1 remains - formal discontinuation date not established.",
+   "fate": "Frame structure gone; site within Angel Island State Park. No NRHP listing.",
+   "nrhp": "None.",
+   "summary": "Point Stuart got its light and electric fog siren in fiscal 1915 as one of a pair of unwatched aids added to Angel Island and run by wire from the Point Knox keepers. A white frame signal house on the island's western nose, it marked the mouth of Raccoon Strait for seventy-odd years, latterly under the name Raccoon Strait Light, before being supplanted by a buoy. Its establishment is documented directly in the Commissioner of Lighthouses' FY1915 annual report.",
+   "confidence_notes": "End date is the weakest element - bracketed between the 1988 Light List (present) and 2025 Light List (absent); a Notice to Mariners search would pin it.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "Annual Report of the Commissioner of Lighthouses, FY1915, p.8 (fog signals and minor lights established at Point Stuart and Point Blunt)",
+     "url": "https://archive.org/details/bub_gb_B2dYAAAAYAAJ"
+    },
+    {
+     "type": "primary",
+     "citation": "US Coast Pilot, Pacific Coast (1943) - Point Stuart Light description; Light List, Pacific Coast (1988)",
+     "url": "https://archive.org/details/unitedstatescoast00usco"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Point Knox Lighthouse page (1915 Angel Island minor lights detail)",
+     "url": "https://lighthousefriends.com/light.asp?ID=337"
+    },
+    {
+     "type": "primary",
+     "citation": "GNIS gaz_id 235615 (Point Stuart)",
+     "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer"
+    }
+   ],
+   "photo_leads": [
+    "California State Parks Angel Island collections",
+    "USCG 12th District aids-to-navigation files (NARA)"
+   ]
+  },
+  {
+   "name": "Point Blunt Light",
+   "alt_names": [],
+   "region": "sf-bay",
+   "coords": [
+    37.85322,
+    -122.41921
+   ],
+   "coord_source": "USCG Light List Vol. VI (2025), LLNR 4335: 37-51-11.584N 122-25-09.150W; GNIS 254635 (Point Blunt): 37.85299, -122.41971",
+   "coord_precision": "exact",
+   "first_lit": "Minor light and electric fog siren established fiscal year 1915 (PRIMARY: Commissioner of Lighthouses FY1915 report, p.8, as for Point Stuart). Upgraded to a separately manned Coast Guard light station in the late 1950s: keeper roster begins c.1957, new watch room 1960, four quarters completed 1961 - 'the last manned lighthouse built in California' (lighthousefriends, citing Shanks 1990; USCG July 1970 press release).",
+   "established_structures": "1915: unwatched lens-lantern light and siren on the island's southeast point, tended from Point Knox. c.1957-61: modern station - flat-roofed signal building with lens lantern and horn, watch building commanding the whole central bay, four ranch-style dwellings; absorbed control of Southampton Shoal and Raccoon Strait aids when Angel Island (Point Knox) station closed (USCG press release; lighthousefriends).",
+   "why_built": "To mark the southeastern corner of Angel Island where the main channels toward the river ports converge; the 1915 aid completed the island's triangle of lights (FY1915 report; USCG press release: guidance into the lanes toward the Sacramento and San Joaquin).",
+   "optic": "Lens lantern (1915); modern optic Fl G 5s with horn (Light List 2025).",
+   "automated": "June 28, 1976 - 'the light would be automated and resident personnel would no longer be in attendance' (lighthousefriends, quoting the automation notice; last of the bay's staffed light stations).",
+   "deactivated": "Never - active aid (Light List 2025, LLNR 4335).",
+   "fate": "Station buildings remain in USCG hands on state-park island; closed to the public (lighthousefriends).",
+   "nrhp": "None.",
+   "summary": "Point Blunt began in fiscal 1915 as the third of Angel Island's remotely run minor lights, but after WWII the Coast Guard reversed the automation tide here, building a full manned station between about 1957 and 1961 - the last lighthouse station built and staffed in California - whose watch room controlled its own light, Raccoon Strait's, and Southampton Shoal's. It was automated on June 28, 1976 and still shows a green flash over the anchorage approaches.",
+   "confidence_notes": "The '1956' founding year sometimes quoted for the manned station is not directly evidenced in my sources (roster from 1957; buildings 1960-61); USCG's own 1970 press release reaches back to the 1915 establishment. Treat 1956/57 with care.",
+   "sources": [
+    {
+     "type": "primary",
+     "citation": "Annual Report of the Commissioner of Lighthouses, FY1915, p.8",
+     "url": "https://archive.org/details/bub_gb_B2dYAAAAYAAJ"
+    },
+    {
+     "type": "primary",
+     "citation": "USCG Light List Vol. VI (2025), LLNR 4335",
+     "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, California page: Point Blunt Light (archived 2010), incl. July 1970 press release",
+     "url": "https://web.archive.org/web/2010/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
+    },
+    {
+     "type": "tertiary",
+     "citation": "lighthousefriends.com, Point Blunt Lighthouse (Shanks 1990; automation June 28, 1976; keeper roster 1957-76)",
+     "url": "https://lighthousefriends.com/light.asp?ID=837"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived Point Blunt photo link",
+    "USCG 12th District files (NARA)",
+    "Angel Island SP"
+   ]
+  },
+  {
+   "name": "San Francisco Lightship Station (off the bar)",
+   "alt_names": [
+    "Lightship San Francisco",
+    "LV-70 / LV-83 (WAL-508) / WLV-612 / LV-100 (WAL-523)"
+   ],
+   "region": "offshore",
+   "coords": [],
+   "coord_source": "Published station description only: 'Off San Francisco, 8.6 miles and 244 degrees from the Point Bonita Light'; original position '3 1/4 miles outside the bar in 109 feet, with Alcatraz and Fort Point lighthouses in range' (USCG Historian's lightship station index, quoting the service description)",
+   "coord_precision": "place",
+   "first_lit": "Station established 1898 with LV-70 (USCG Historian's lightship index; LV-70 built 1898 by Wolff & Zwicker Iron Works, Portland OR, contract $73,000, under an $80,000 appropriation 'for lightship for San Francisco harbor').",
+   "established_structures": "Moored lightships in succession: LV-70 (1898-1930; sold 1930, became cannery tender Tondelayo, wrecked in Alaska 1941), LV-83/WAL-508 (1930-1942 and 1945-1951), station vacant during WWII 1942-45, WLV-612 (1951-1969), LV-100/WAL-523 (1969-1971) (USCG Historian's station index and LV-70 vessel page).",
+   "why_built": "To hold position outside the San Francisco bar marking the approach to the main ship channel, where no fixed structure was possible (USCG Historian's station index).",
+   "optic": "Masthead lantern-gallery lights; LV-70 originally electric, 'oil lanterns permanently substituted' March 1901 for economy, electric again from 1904 (USCG LV-70 page).",
+   "automated": "Station discontinued 1971, replaced by the San Francisco Approach lighted horn buoy 'SF' (large navigational buoy) (USCG Historian's station index).",
+   "deactivated": "1971.",
+   "fate": "Station replaced by buoy; LV-83 survives elsewhere as a museum-ship matter outside this station's scope; WLV-612 later a relief/other-station vessel. The 'Relief' lightship WLV-605 preserved at Oakland is a related museum vessel (lighthousefriends map lists it at Oakland).",
+   "nrhp": "Not applicable to the station; individual surviving lightships hold their own listings (not verified here).",
+   "summary": "From 1898 to 1971 a succession of lightships anchored off the San Francisco bar marked the seaward approach that no lighthouse could: first the Portland-built LV-70, then LV-83, WLV-612, and finally LV-100, with the berth left empty during the Second World War. The station guided everything crossing the bar toward the Gate, in range with Fort Point and Alcatraz lights, until a giant automated horn buoy took the job in 1971.",
+   "confidence_notes": "All data from the USCG Historian's lightship pages (secondary, compiled from service records); dates not independently primary-verified this session.",
+   "sources": [
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, Lightship Station Index: San Francisco, 1898-1971 (archived 2008)",
+     "url": "https://web.archive.org/web/20080925205459/http://uscg.mil/history/weblightships/Lightship_Station_Index.asp"
+    },
+    {
+     "type": "secondary",
+     "citation": "USCG Historian's Office, vessel history LV-70 (archived 2008)",
+     "url": "https://web.archive.org/web/20081009053825/http://uscg.mil/history/weblightships/LV70.asp"
+    }
+   ],
+   "photo_leads": [
+    "USCG Historian archived lightship photo index",
+    "SF Maritime NHP (SAFR) - lightship photographs",
+    "US Lighthouse Society lightship files"
+   ]
+  }
+ ],
+ "general_sources": [
+  "USCG Light List, Volume VI, Pacific Coast and Pacific Islands (2025) - current published positions/characteristics: https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf (PRIMARY)",
+  "USCG Historian's Office, 'Historic Light Station Information & Photography - California' (archived 2010 snapshot of uscg.mil/history/weblighthouses/LHCA.asp via Wayback Machine) (SECONDARY, station cards + press releases + keeper rosters)",
+  "USCG Historian's Office, 'Breaking the Barrier: Women Lighthouse Keepers & Other Female Employees of the U.S. Lighthouse Board/Service' (archived 2008, uscg.mil/history/uscghist/Women_Keepers.asp), keyed to Clifford & Clifford, Women Who Kept the Lights (SECONDARY)",
+  "USCG Historian's Office, Lightship Station Index and LV-70 vessel page (archived 2008) (SECONDARY)",
+  "NRHP Inventory-Nomination, East Brother Island Light Station, #71000138 (1971), NPGallery full text (PRIMARY-adjacent: quotes LHB Annual Reports 1873-74 and USCG 12th District station file)",
+  "Annual Report of the Commissioner of Lighthouses, FY ended June 30, 1915 (GPO, 1915), archive.org/details/bub_gb_B2dYAAAAYAAJ (PRIMARY: Point Blunt/Point Stuart establishment; Alcatraz 1854 first Pacific lens; Point Bonita cannon = first Pacific fog signal; 'Goat Island' station listing)",
+  "The Fogs and Fog Signals of the Pacific Coast of the United States (published for the Light-House Board, 1888), archive.org/details/fogsfogsignalsof00clarrich (PRIMARY-adjacent: fog-signal service tables, Alcatraz bell, Bonita siren, Lime Point)",
+  "United States Coast Pilot, Pacific Coast: California, Oregon and Washington (USC&GS, 1943), archive.org/details/unitedstatescoast00usco (PRIMARY: operational state of Point Stuart, Carquinez, Roe Island lights)",
+  "Light List, Pacific Coast and Pacific Islands (USCG, 1988), archive.org/details/lightlistpacific00unit (PRIMARY: late-century state of Angel Island aids, Southampton, Carquinez)",
+  "Library of Congress, Chronicling America: Sacramento Daily Record-Union 1881-03-29 (McDougal drowning); San Francisco Call 1909-12-03 (Alcatraz new-tower notice) and 1910-01-19 (Carquinez establishment notice) - period Notices to Mariners as printed (PRIMARY)",
+  "GNIS via USGS geonames MapServer (carto.nationalmap.gov) - feature IDs and coordinates for Point Knox 254857, Point Stuart 235615, Point Blunt 254635, Point Diablo 230851, Lime Point 227105, Fort Point 223701, Southampton Shoal 235128, Roe Island 231813, Mare Island 228080 (PRIMARY for coordinates)",
+  "lighthousefriends.com station pages (IDs 69, 70, 71, 72, 74, 75, 76, 77, 101, 146, 337, 342, 837, 1789, 1790) - TERTIARY, but systematically quoting LHB/Bureau annual reports, period notices, Shanks (Guardians of the Golden Gate, 1990), Nelson & Nelson (Umbrella Guide to California Lighthouses, 1993), and Worthylake (The Keeper's Log, Fall 1996)",
+  "US Lighthouse Society (uslhs.org), In Memoriam roster (SECONDARY - one entry flagged as conflicting with primary evidence)",
+  "NPS: Point Bonita Lighthouse page (nps.gov/goga/pobo.htm) and Alcatraz Island history page (nps.gov/alca) (SECONDARY)",
+  "Wikipedia articles (East Brother Island Light, Oakland Harbor Light, Mare Island Light, Point Bonita Light, Alcatraz Island) - TERTIARY, used for NRHP reference numbers/dates and cross-checks only",
+  "Key print secondary literature identified for follow-up: Ralph Shanks, Guardians of the Golden Gate: Lighthouses and Lifeboat Stations of San Francisco Bay (1990); Clifford & Clifford, Women Who Kept the Lights; Frank Perry, East Brother: History of an Island Light Station"
+ ],
+ "gaps": "1) Lighthouse Board annual reports 1854-1912 could not be opened directly (HathiTrust/Google Books blocked or quota-hit; Internet Archive lacks the run) - every date resting on secondaries quoting those reports is flagged per entry; the 1854 report (Alcatraz first lighting), 1873-74 (Mare Island/East Brother), 1886-87 (Point Knox), 1890-91 (Oakland/Roe), and the FY1917 Commissioner's report (Mare Island discontinuance) are the priority targets when access exists. 2) CDNC (cdnc.ucr.edu) is Cloudflare-blocked; the Daily Alta California's June 1854 Alcatraz notice and Sept. 1873 Mare Island notice would be the ideal primaries - LOC's Chronicling America lacks California papers before 1875, so these remain unpulled. 3) The USLHS In Memoriam entry for Charles J. McDougal (Punta Gorda, March 5, 1909, drowned) conflicts with the contemporary press record of his March 28, 1881 drowning at Cape Mendocino; whether this is a roster error or a same-named son (Kate had children in the service - Elizabeth documented) is UNRESOLVED and worth a query to USLHS - a genuinely publishable footnote for the user's Mare Island connection. 4) Kate McDougal's tenure end (USCG list: 1916; lighthousefriends from service records: resigned May 22, 1917) is unreconciled; Vallejo Naval & Historical Museum and SF Maritime NPA/SAFR holdings (her papers, station photos) were not reachable online and should be checked in person. 5) No published (Light List/NRHP/GNIS/chart) coordinates could be located for the razed Mare Island station, the original Carquinez pile structure, or the two Oakland Harbor entrance sites - a period Light List (1907/1917 editions) or shipyard HABS sheet would supply them; coords left empty rather than borrowing tertiary map pins. 6) Point Diablo (1923) rests on secondary sources alone. 7) Point Stuart/Raccoon Strait light's discontinuation date is bracketed 1988-2025 only. 8) Roe Island's lens order and the fire date that destroyed it are unestablished. 9) Delta beyond Roe Island: no staffed light station ever existed in Suisun Bay/the rivers besides Roe Island - upriver aids were unwatched post lights under the district (18th) served from the Goat Island depot; 'San Pablo Straits' likewise resolves to East Brother itself, not a separate station - both negative findings are evidence-based but rest on the absence of entries in the USCG station index, Light Lists, and Coast Pilots examined. 10) NRHP status not individually verified for Yerba Buena, Lime Point (GGNRA contributing status), or Alcatraz's lighthouse-specific contributing designation; Point Bonita's #91001099 and Alcatraz Island's #76000209 are from NRIS via Wikipedia, not pulled nominations. 11) Websearch quota was exhausted session-wide, so discovery ran through Wayback/CDX, LOC APIs, IA, and GNIS only - a follow-up pass with search could surface the NPS 1994 Inventory of Historic Light Stations California pages, Lighthouse Service Bulletins (USLHS digitizations), and The Keeper's Log articles (Worthylake Fall 1996; Summer 1991 Southampton) for direct citation."
+}

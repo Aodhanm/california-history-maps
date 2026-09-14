@@ -203,3 +203,10 @@ body {
   border: 1px solid var(--rule, #c9bfae); background: transparent; border-radius: 3px; cursor: pointer; }
 #controls .era-btn:hover { background: rgba(0,0,0,0.05); }
 #controls select.attr-filter { font-size: 0.78rem; margin-left: 0.5rem; max-width: 15rem; }
+
+/* lighthouses map: quoted primary-source passages in popups */
+.popup .quotes { margin: 0.4rem 0; }
+.popup blockquote.src-quote { margin: 0.4rem 0; padding: 0.3rem 0 0.3rem 0.7rem;
+  border-left: 3px solid var(--accent-3, #8c4a2f); font-size: 0.82rem; font-style: italic; }
+.popup blockquote.src-quote cite { display: block; margin-top: 0.2rem; font-style: normal;
+  font-size: 0.72rem; color: var(--ink-soft); }

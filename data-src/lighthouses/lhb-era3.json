@@ -1,0 +1,342 @@
+{
+ "volumes_obtained": [
+  {
+   "year": "FY1900 (year ended June 30, 1900)",
+   "identifier": "annualreportlig00statgoog",
+   "url": "https://archive.org/download/annualreportlig00statgoog/annualreportlig00statgoog_djvu.txt",
+   "notes": "Annual Report of the Light-House Board, FY1900. Strictly Era 2, but obtained because the FY1901 volume could not be located and this is the last Board statement on Point Arguello before it was lit. Google scan via Internet Archive."
+  },
+  {
+   "year": "FY1904 (year ended June 30, 1904)",
+   "identifier": "reportsdepartme00statgoog",
+   "url": "https://archive.org/download/reportsdepartme00statgoog/reportsdepartme00statgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce and Labor, 1904' \u2014 contains the full 'Report of the Light-House Board' with its own running heads. Twelfth District (California) narrative at pp. 276-284."
+  },
+  {
+   "year": "FY1905 (year ended June 30, 1905)",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "url": "https://www.govinfo.gov/content/pkg/SERIALSET-04966_00_00-002-0007-0000/pdf/SERIALSET-04966_00_00-002-0007-0000.pdf",
+   "notes": "H. Doc. 59-7, 'Reports of the Department of Commerce and Labor: 1905', U.S. Congressional Serial Set vol. 4966. 326 MB PDF downloaded from govinfo (public content URL, no API key needed) and text-extracted with pdftotext -layout. Contains the full Light-House Board report; California narrative at pp. 243-252."
+  },
+  {
+   "year": "FY1907 (year ended June 30, 1907)",
+   "identifier": "reportsdepartme02statgoog",
+   "url": "https://archive.org/download/reportsdepartme02statgoog/reportsdepartme02statgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce and Labor, 1907'. Light-House Board report; Twelfth District narrative at pp. 597-604."
+  },
+  {
+   "year": "FY1909 (year ended June 30, 1909)",
+   "identifier": "reportsdepartme01statgoog",
+   "url": "https://archive.org/download/reportsdepartme01statgoog/reportsdepartme01statgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce and Labor, 1909'. Light-House Board report; 'Works of construction completed' at pp. 628-631 and 'Uncompleted works of construction' at pp. 631-640."
+  },
+  {
+   "year": "FY1910 (year ended June 30, 1910)",
+   "identifier": "reportsdepartme00labogoog",
+   "url": "https://archive.org/download/reportsdepartme00labogoog/reportsdepartme00labogoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce and Labor, 1910'. THE LAST LIGHT-HOUSE BOARD REPORT \u2014 headed 'Report of the Operations of the Light-House Board', dated Washington, November 4, 1910, and explicitly noting the Board 'was terminated on that date [June 30, 1910] in accordance with the terms of the act of Congress approved June 17, 1910.' California narrative pp. 505-516; recommendations pp. 550-560."
+  },
+  {
+   "year": "FY1913 (year ended June 30, 1913)",
+   "identifier": "reportsdepartme02commgoog",
+   "url": "https://archive.org/download/reportsdepartme02commgoog/reportsdepartme02commgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce, 1913' \u2014 contains the full 'Report of the Commissioner of Lighthouses'. Includes both the short construction narrative (pp. 370-375) and the long illustrated station descriptions (pp. 405-420)."
+  },
+  {
+   "year": "FY1913 (Secretary's report only)",
+   "identifier": "annualreportsec00commgoog",
+   "url": "https://archive.org/download/annualreportsec00commgoog/annualreportsec00commgoog_djvu.txt",
+   "notes": "'The Annual Report of the Secretary of Commerce, 1913' \u2014 the Secretary's volume alone; the Bureau of Lighthouses section here is a summary only. No California station statements found."
+  },
+  {
+   "year": "FY1914 (year ended June 30, 1914)",
+   "identifier": "reportsdepartme00commgoog",
+   "url": "https://archive.org/download/reportsdepartme00commgoog/reportsdepartme00commgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce, 1914', with the full Commissioner of Lighthouses report."
+  },
+  {
+   "year": "FY1915 (year ended June 30, 1915)",
+   "identifier": "bub_gb_B2dYAAAAYAAJ",
+   "url": "https://archive.org/download/bub_gb_B2dYAAAAYAAJ/bub_gb_B2dYAAAAYAAJ_djvu.txt",
+   "notes": "The SEPARATELY PRINTED 'Annual Report of the Commissioner of Lighthouses to the Secretary of Commerce for the Fiscal Year Ended June 30, 1915' (GPO, 1915). The same text also appears in reportsdepartme01commgoog ('Reports of the Department of Commerce, 1915'), which I also downloaded and cross-checked."
+  },
+  {
+   "year": "FY1915 (departmental printing)",
+   "identifier": "reportsdepartme01commgoog",
+   "url": "https://archive.org/download/reportsdepartme01commgoog/reportsdepartme01commgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce, 1915'. Verified to reprint the FY1915 Commissioner of Lighthouses report in full."
+  },
+  {
+   "year": "FY1917 (year ended June 30, 1917)",
+   "identifier": "reportsdepartme03commgoog",
+   "url": "https://archive.org/download/reportsdepartme03commgoog/reportsdepartme03commgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce, 1917', with the full Commissioner of Lighthouses report. Contains the 'Lights discontinued during the fiscal year 1917' table at p. 690."
+  },
+  {
+   "year": "FY1918 (year ended June 30, 1918)",
+   "identifier": "reportsdepartme05commgoog",
+   "url": "https://archive.org/download/reportsdepartme05commgoog/reportsdepartme05commgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce, 1918', with the full Commissioner of Lighthouses report. THIS IS THE VOLUME CARRYING THE MARE ISLAND DISCONTINUANCE STATEMENT (p. 567)."
+  },
+  {
+   "year": "FY1919 (year ended June 30, 1919)",
+   "identifier": "reportsdepartme04commgoog",
+   "url": "https://archive.org/download/reportsdepartme04commgoog/reportsdepartme04commgoog_djvu.txt",
+   "notes": "'Reports of the Department of Commerce, 1919'. Searched; no statements on any of the target California stations."
+  },
+  {
+   "year": "1923 (not an annual report)",
+   "identifier": "unitedstatesligh1923unit",
+   "url": "https://archive.org/download/unitedstatesligh1923unit/unitedstatesligh1923unit_djvu.txt",
+   "notes": "'The United States Lighthouse Service, Edition of 1923' (Dept. of Commerce, Lighthouse Service, compiled by Deputy Commissioner John S. Conway). An agency handbook, NOT the annual report. It lists Southampton Shoal, Carquinez Straits, Oakland Harbor and Roe Island (Calif.) among eighteenth-district attended lighthouses, but carries no establishment narratives and no mention of Point Diablo or Point Vicente."
+  },
+  {
+   "year": "1910 (supporting document, not an annual report)",
+   "identifier": "SERIALSET-05661_00_00-270-0636-0000",
+   "url": "https://www.govinfo.gov/content/pkg/SERIALSET-05661_00_00-270-0636-0000/pdf/SERIALSET-05661_00_00-270-0636-0000.pdf",
+   "notes": "S. Doc. 61-636, 'Bureau of Light-Houses. Letter from the Secretary of the Treasury transmitting estimates ... made necessary by act of June 17, 1910' (June 17, 1910). Budget estimates only; lists 'Anacapa Island light-station, California ... construction of which is authorized at a cost not to exceed $100,000 ... 50,000'. Included for completeness, not quoted as an annual report."
+  },
+  {
+   "year": "1904 (supporting document, not an annual report)",
+   "identifier": "contractforconst00unitrich",
+   "url": "https://archive.org/download/contractforconst00unitrich/contractforconst00unitrich_djvu.txt",
+   "notes": "'Contract for construction of concrete base for light and fog-signal station on Mile Rock, at entrance to San Francisco harbor, California' \u2014 U.S. Light-House Establishment, Office of U.S. Light-House Engineer, Twelfth District, San Francisco, April 1904. Advertisement, specifications and contract. Agency document, not an annual report; corroborates the FY1904 report's account of the bidding."
+  }
+ ],
+ "stations": [
+  {
+   "station": "Carquinez Strait",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; 'Report of the Operations of the Light-House Board')",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "508",
+   "quote": "Carquinez Strait light-station, California.\u2014The act approved March 4, 1907, appropriated $50,000 for the establishment of a light and fog-signal station at Carquinez Strait, between San Pablo Bay and Suisun Bay, authorized by the act approved February 26, 1907. The actual work of construction was commenced August 4, 1908. The station was established January 15, 1910. A fourth-order fixed red light and two gasoline-engine compressed-air plants operating 6-inch first-class compressed-air sirens were installed. The superstructure consists of a frame tower for the light, a frame dwelling with quarters for three keepers, a frame fog-signal house, a frame boathouse, a galvanized-iron oil house, and distillate house. A water pipe connects with the Vallejo city mains. Total cost of constructing station, $48,296.17.",
+   "establishes": "THE ESTABLISHMENT STATEMENT. Carquinez Strait Light Station was established 15 January 1910. Authorized by act of 26 Feb. 1907; $50,000 appropriated by act of 4 March 1907; construction begun 4 Aug. 1908; fourth-order fixed red light plus two 6-inch first-class compressed-air sirens; quarters for three keepers; total cost $48,296.17; water piped from the Vallejo city mains."
+  },
+  {
+   "station": "Carquinez Strait",
+   "report_year": "FY1909 (Reports of the Department of Commerce and Labor, 1909; Light-House Board, 'Uncompleted works of construction')",
+   "identifier": "reportsdepartme01statgoog",
+   "page": "635",
+   "quote": "Carquinez Strait, California.\u2014Authorized by the act of February 26, 1907, at a cost not to exceed $50,000; appropriation, act of March 4, 1907, $50,000. During the year the contractor commenced work on the landing and approach, the station substructure on piles, and on the superstructure, the latter consisting of a light and fog-signal building, boathouse, and three sets of keepers' quarters. At the close of the year he had practically completed the station substructure and the landing and approach. The superstructure is about 65 per cent completed. As soon as the contract is completed, which will probably be in July of the coming year, the fourth-order lens, lantern, fog-signal machinery, and 6-inch standard sirens, which are all on hand, will be installed, and the station should be ready for operation about October 1, 1909.",
+   "establishes": "Construction progress as of 30 June 1909, and the Board's own (over-optimistic) forecast that the station 'should be ready for operation about October 1, 1909' \u2014 three and a half months before the actual 15 January 1910 establishment. Confirms the pile substructure and three sets of keepers' quarters."
+  },
+  {
+   "station": "Carquinez Strait",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "601",
+   "quote": "44. Carquinez Strait, between San Pablo and Suisun Bay, California.\u2014The act approved on March 4, 1907, appropriated $50,000 for establishing a light and fog-signal at Carquinez Strait station. Plans were made and the work will be commenced soon.",
+   "establishes": "The earliest stage: the $50,000 appropriation of 4 March 1907 and the making of plans. Note that in this same district list the Board still carries 'Mare Island' as station no. 42 and Carquinez Strait as station no. 44 \u2014 i.e. the two stations coexisted in the Board's numbering before Mare Island was discontinued."
+  },
+  {
+   "station": "Mare Island",
+   "report_year": "FY1918 (Reports of the Department of Commerce, 1918; Report of the Commissioner of Lighthouses)",
+   "identifier": "reportsdepartme05commgoog",
+   "page": "567",
+   "quote": "The act of July 1, 1918, making appropriations for the naval service for the fiscal year 1919, transferred to the Navy Department the unused Mare Island Light Station, Cal. This station was discontinued July 1, 1917, and is not further required for lighthouse purposes.",
+   "establishes": "THE DISCONTINUANCE STATEMENT, in the agency's own words: Mare Island Light Station was discontinued 1 July 1917 and was 'not further required for lighthouse purposes'; the site and structures were transferred to the Navy Department by the naval appropriation act of 1 July 1918. The volume's index confirms the entry: 'Mare Island, Cal., light station discontinued.. 567' and 'Mare Island Light Station, Cal., transferred. 567'."
+  },
+  {
+   "station": "Mare Island",
+   "report_year": "FY1917 (Reports of the Department of Commerce, 1917; Report of the Commissioner of Lighthouses, table 'Lights discontinued during the fiscal year 1917')",
+   "identifier": "reportsdepartme03commgoog",
+   "page": "690",
+   "quote": "LIGHTS DISCONTINUED DURING THE FISCAL YEAR 1917. [158 lights, including float lights.] ... 18th ... Mare Island, Cal.",
+   "establishes": "Mare Island appears as a table row among lights discontinued in FY1917 (18th lighthouse district). CAUTION: this is a table entry, not a sentence, and the OCR of the district column in this table is badly garbled, so the district assignment is my reading rather than a clean transcription. It also sits one day on the other side of the line from the FY1918 narrative, which dates the discontinuance to 1 July 1917 (the first day of FY1918). Treat the FY1918 p. 567 sentence as the authoritative agency statement and this table as corroboration only."
+  },
+  {
+   "station": "Mare Island",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "601",
+   "quote": "42. Mare Island, entrance to Carquinez Strait, San Pablo Bay, California.\u2014Repairs to the lens at this station were made. A fog-bell striking apparatus was installed, replacing an old one.",
+   "establishes": "Mare Island was a going concern with a lens and a bell fog signal in FY1907, and the Board located it 'at the entrance to Carquinez Strait' \u2014 the agency's own geographic framing of the station that Carquinez Strait would supersede."
+  },
+  {
+   "station": "Point Cabrillo",
+   "report_year": "FY1909 (Reports of the Department of Commerce and Labor, 1909; Light-House Board, 'Works of construction completed')",
+   "identifier": "reportsdepartme01statgoog",
+   "page": "630",
+   "quote": "Point Cabrillo, California.\u2014This station, on Point Cabrillo, consisting of a light and fog-signal building, three keeper's dwellings, barn, pump house, water-supply system, carpenter and blacksmith shops, was completed on June 10, 1909, at a cost of $50,000. The light is of the third order, flashing white every 10 seconds, 84 feet above the water, and should be visible 14 1/2 miles in clear weather. The fog signal is a 6-inch compressed-air siren.",
+   "establishes": "THE COMPLETION STATEMENT. Point Cabrillo Light Station completed 10 June 1909 at a cost of $50,000; third-order lens flashing white every 10 seconds; focal plane 84 feet above the water; visible 14.5 miles; 6-inch compressed-air siren; three keepers' dwellings."
+  },
+  {
+   "station": "Point Cabrillo",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "602",
+   "quote": "68. Point Cabrillo, about 4 miles north of Mendocino city, seacoast of California.\u2014The act approved on June 30, 1906, authorized a contract for the construction of a light and fog-signal, at a cost not to exceed $50,000, and appropriated $25,000 therefor. The site for the light-station was selected, surveyed, and measures are being taken to obtain title to this site.",
+   "establishes": "Authorization and funding: act of 30 June 1906 authorized the contract at a limit of $50,000 and appropriated $25,000; site selected and surveyed in FY1907. Also fixes the Board's own locational description, 'about 4 miles north of Mendocino city.'"
+  },
+  {
+   "station": "Los Angeles Harbor / Angels Gate (printed as San Pedro Breakwater Light Station)",
+   "report_year": "FY1913 (Reports of the Department of Commerce, 1913; Report of the Commissioner of Lighthouses, descriptive section)",
+   "identifier": "reportsdepartme02commgoog",
+   "page": "413",
+   "quote": "SAN PEDRO BREAKWATER LIGHT STATION, CAL. Purpose.\u2014San Pedro Breakwater Light and Fog Signal Station was established to mark the outer end of the breakwater and to guide vessels into Los Angeles Harbor, Cal. This station went into commission March 1, 1913.",
+   "establishes": "THE ESTABLISHMENT STATEMENT plus the agency's explicit statement of WHY the station was built. The light now known as Los Angeles Harbor Light / Angels Gate went into commission 1 March 1913; its stated purpose was to mark the outer end of the San Pedro breakwater and guide vessels into Los Angeles Harbor. Note the Bureau's own name for it in 1913 was 'San Pedro Breakwater Light Station'."
+  },
+  {
+   "station": "Los Angeles Harbor / Angels Gate (San Pedro Breakwater)",
+   "report_year": "FY1913 (Reports of the Department of Commerce, 1913; Report of the Commissioner of Lighthouses, construction narrative)",
+   "identifier": "reportsdepartme02commgoog",
+   "page": "372",
+   "quote": "San Pedro Breakwater, Cal.\u2014The act of March 4, 1911, appropriated $36,000 for establishing a light and fog signal station on the San Pedro Breakwater, Cal. The lighthouse was completed during the year and placed in commission on March 1, 1913. It consists of a structural steel framework, the lower section containing fog-signal machinery, being built of metal plate. The upper section is built of cement plaster on metal lath and contains quarters for three keepers. The light apparatus is a fourth-order flashing bivalve lens with oil vapor lamp, of approximately 69,000 candlepower, shown at a height of 73 feet above the water. The fog signal is a first-class compressed-air siren; compressor and gas engine are direct connected, and the plant is in duplicate. The total cost to June 30, 1913, was $35,225.58.",
+   "establishes": "Appropriation ($36,000, act of 4 March 1911), date of first lighting/commissioning (1 March 1913), order of lens (fourth-order flashing bivalve, ~69,000 candlepower, focal plane 73 feet), fog signal (first-class compressed-air siren in duplicate), and cost to 30 June 1913 ($35,225.58). The descriptive section at p. 414 gives the final figure: 'the total cost was $35,971.49 ... the station was completed in June, 1913.'"
+  },
+  {
+   "station": "Los Angeles Harbor / Angels Gate (San Pedro Breakwater)",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; Light-House Board recommendations, Group No. 2)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "559",
+   "quote": "No. 7. San Pedro Breakwater light-station, Cal.\u2014For establishing a light and fog-signal station on the San Pedro Breakwater, Cal., $36,000. San Pedro Breakwater has been completed and the harbor developed. It should be marked by a light and fog-signal. Numerous petitions have been received from maritime interests urging the same.",
+   "establishes": "The Light-House Board's own stated reason for the station, three years before it was lit: the breakwater was complete, the harbor developed, and maritime interests had petitioned. Also fixes the $36,000 estimate that Congress appropriated in the act of 4 March 1911."
+  },
+  {
+   "station": "Point Stuart (Angel Island)",
+   "report_year": "FY1915 (Annual Report of the Commissioner of Lighthouses ... for the fiscal year ended June 30, 1915)",
+   "identifier": "bub_gb_B2dYAAAAYAAJ",
+   "page": "8",
+   "quote": "Fog signals established: Gallups Island, Boston Harbor, Mass. (electric bell); Fort McHenry, Baltimore Harbor, Md. (electric bell); Volusia Bar, St. Johns River, Fla. (bell); Point Blunt and Point Stuart, Angel Island, San Francisco Bay, Cal. (electric sirens).",
+   "establishes": "Point Stuart (with Point Blunt) on Angel Island received an ELECTRIC SIREN fog signal established during the fiscal year ended 30 June 1915. Note precisely what this sentence does and does not say: it is the Bureau's list of FOG SIGNALS established, not of lights. The same volume's table of 'Works under special appropriations, completed during fiscal year 1915' carries the corresponding entry 'Angel Island, Cal. (Point Blunt Light; Point Stuart Light) ... Installation of electric lights and electric fog signals controlled from Angel Island Station; also enlarging keepers quarters at Angel Island Station,' which is the Bureau's own statement that the Point Stuart light and fog signal were installed as remote-controlled electric aids worked from the Angel Island station. I could not find a page number in the OCR for that table."
+  },
+  {
+   "station": "Blunts Reef lightship station (Light-Vessel No. 83)",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, Twelfth District)",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "249",
+   "quote": "58. Blunts Reef light-vessel, No. 83, off Cape Mendocino, California.\u2014This steel steam self-propelling light-vessel, of about 621 tons displacement, for which appropriation was made by the act approved on March 3, 1903, arrived in San Francisco in company with relief light-vessel No. 76 on June 4, 1905, at 1 a. m., after a successful voyage of 110 days from New York, of which time she was under steam 82 1/2 days. This vessel was docked, when her bottom was painted. After receiving coal, fresh water, and supplies she was again fitted for sea, and on June 28 took station off Blunts Reef in accordance with the published notice to mariners.",
+   "establishes": "THE ESTABLISHMENT OF THE BLUNTS REEF LIGHTSHIP STATION: Light-Vessel No. 83 'took station off Blunts Reef' on 28 JUNE 1905, two days before the close of the fiscal year. Appropriation by act of 3 March 1903; 621 tons displacement; arrived San Francisco 4 June 1905 after a 110-day voyage from New York."
+  },
+  {
+   "station": "Blunts Reef lightship station (Light-Vessel No. 83)",
+   "report_year": "FY1904 (Reports of the Department of Commerce and Labor, 1904; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme00statgoog",
+   "page": "281",
+   "quote": "58. Blunts Reef light-vessel, No. 83, off Cape Mendocino, seacoast of California.\u2014The act approved on March 3, 1903, appropriated $90,000 for constructing, equipping, and outfitting, complete for service, a first-class steam light-vessel, with steam fog-signal, to be situated off this cape. ... She is now being built by contract, under which she is to be delivered by December 17, 1904. She will be sent to the Pacific coast as soon as practicable after she is finished.",
+   "establishes": "The appropriation ($90,000, act of 3 March 1903) and the Board's purpose \u2014 'a first-class steam light-vessel, with steam fog-signal, to be situated off this cape' [Cape Mendocino] \u2014 plus the contract delivery date of 17 Dec. 1904. The FY1907 report (p. 601 region) adds that she 'was built at Camden, N. J., in 1904.'"
+  },
+  {
+   "station": "Punta Gorda",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; 'Report of the Operations of the Light-House Board', Twelfth District, uncompleted works)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "515",
+   "quote": "Punta Gorda, Cal.\u2014The act approved May 27, 1908, appropriated $60,000 for a light and fog-signal station at or near Four-Mile Creek, near Punta Gorda. During the latter part of June, 1910, the contractor commenced work on the construction of the buildings, which embrace a light tower, a fog-signal building, and three keepers' dwellings and barn. At the close of the fiscal year 1910 the sum of $5,832.47 had been expended and obligated under the appropriation for preliminary examination, survey, purchase of site, purchase of lens and accessories, and incidental expenses. Of the amount stated, $2,810.10 had been expended. The contractor has made excavations and placed the forms for the foundations for the fog-signal building and carpenter and blacksmith shop. The excavation for two dwellings was completed. January 1, 1911, is the date on which the light will probably be ready for operation.",
+   "establishes": "Appropriation of $60,000 by act of 27 May 1908; site 'at or near Four-Mile Creek, near Punta Gorda'; construction begun late June 1910; the Board's forecast first-lighting date of 1 January 1911. This is NOT an establishment statement \u2014 the actual lighting fell in FY1912, whose report I could not obtain."
+  },
+  {
+   "station": "Punta Gorda",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "602",
+   "quote": "Punta Gorda, just south of Four-Mile Creek near Punta Gorda, seacoast of California.\u2014The recommendation made in the Board's last five annual reports that an appropriation of $60,000 be made to establish a light and fog-signal at or near Punta Gorda, California, is renewed.",
+   "establishes": "That by FY1907 the Board had been asking for a Punta Gorda station in each of its last five annual reports (i.e. since roughly FY1902) at an estimated $60,000 \u2014 the figure Congress finally voted on 27 May 1908."
+  },
+  {
+   "station": "Anacapa Island",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; Light-House Board recommendations, Group No. 3)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "559",
+   "quote": "No. 2. Anacapa Island light-station, Cal.\u2014For the establishment of a light and fog-signal station on Anacapa Island, Cal., $100,000. Anacapa Island is one of the most difficult points on the southern California coast to pass in bad weather, and it is important that a light and fog-signal be established. The act of June 17, 1910, authorized this station, but no appropriation has been made therefor.",
+   "establishes": "THE AGENCY'S STATEMENT OF WHY Anacapa was to be lit, and the authorizing act: the act of 17 June 1910 authorized an Anacapa light and fog-signal station at a limit of $100,000, but Congress voted no money. This explains why only a small unattended beacon appeared in 1912 rather than a full station."
+  },
+  {
+   "station": "Anacapa Island",
+   "report_year": "FY1914 (Reports of the Department of Commerce, 1914; Report of the Commissioner of Lighthouses, estimates)",
+   "identifier": "reportsdepartme00commgoog",
+   "page": "561",
+   "quote": "No. 56. Anacapa Island, Cal., Light Station.\u2014For establishing a light and fog signal at or near Anacapa Island, Cal., $103,000. NOTE.\u2014Practically all coastwise vessels and a large number of those bound for Panama use the Santa Barbara Channel, and this traffic will be greatly increased with the opening of the Panama Canal. The desirable course leads close to the eastern end of Anacapa Island, which is now marked by a small beacon light, not sufficiently powerful to be of service in hazy weather. The American Shipmaster's Association has presented a petition for a light and fog signal, indorsed by the San Francisco and Los Angeles chambers of commerce and important shipping interests on the Pacific coast. It is therefore recommended that a light of high candle power and a first-class fog signal be established at this point as soon as practicable.",
+   "establishes": "The Bureau's own confirmation that by FY1914 Anacapa's eastern end WAS ALREADY MARKED by 'a small beacon light' \u2014 corroborating that a minor unattended light existed there by 1912-14 \u2014 together with the reasons for wanting a full station (Panama Canal traffic through the Santa Barbara Channel; petitions from the American Shipmasters' Association and the San Francisco and Los Angeles chambers of commerce). The $103,000 estimate breaks down as light tower $9,000(?), illuminating apparatus $8,500, fog-signal building and apparatus $14,000, etc."
+  },
+  {
+   "station": "Anacapa Island",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "598",
+   "quote": "Santa Barbara channel islands, California.\u2014Three islands of this group, San Clemente, Anacapa, and San Nicolas, are reserved for light-house purposes. San Clemente was leased for a period of five years from January 1, 1906, at $1,000 per annum. Anacapa was leased to the highest bidder for five years from April 1, 1907, at $31 a year. San Nicolas was leased to the highest bidder for five years commencing on April 15, 1907, at $362.60 a year.",
+   "establishes": "Anacapa Island was a light-house reservation from well before it was lit, and the Board leased it out (for $31 a year from 1 April 1907) while it waited for money to build. Useful for the land-tenure history of the station."
+  },
+  {
+   "station": "Southampton Shoal",
+   "report_year": "FY1904 (Reports of the Department of Commerce and Labor, 1904; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme00statgoog",
+   "page": "279",
+   "quote": "46. Southampton Shoal, San Francisco Bay, California.\u2014The act approved on March 3, 1903, appropriated $30,000 for establishing a light and fog-signal to mark the south end of the shoal. Plans and specifications were prepared.",
+   "establishes": "The authorizing appropriation ($30,000, act of 3 March 1903) and the agency's statement of PURPOSE \u2014 'to mark the south end of the shoal.' The Board's adjacent discussion (pp. 279-280) explains the hazard: the passage between the east side of Angel Island and Southampton Shoal 'is quite narrow,' strong Golden Gate tides set vessels onto it, and the ship Mauladen 'while being towed to Port Costa, ran ashore on Southampton Shoal.'"
+  },
+  {
+   "station": "Southampton Shoal",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, Twelfth District)",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "245",
+   "quote": "46. Southampton Shoal, San Francisco Bay, California.\u2014The act approved on March 3, 1903, appropriated $30,000 for a light and fog-signal to mark the southern end of this shoal. A contract was made in March, 1905, to build a light-house consisting of a substructure of iron cylinders filled with concrete, carrying a platform of steel beams and concrete arches upon which will rest the frame dwelling, surmounted by a light tower. The eleven supporting cylinders are in place and the steel frame of the platform is in position.",
+   "establishes": "Construction state at 30 June 1905: contract let March 1905; eleven concrete-filled iron cylinders in place; steel platform frame set; the frame dwelling surmounted by a light tower still to come. IMPORTANT NEGATIVE FINDING: the station was NOT yet in operation at the close of FY1905, so the actual first lighting falls in FY1906 \u2014 the one volume I could not obtain."
+  },
+  {
+   "station": "Southampton Shoal",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; Light-House Board recommendations, Group No. 3)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "559",
+   "quote": "No. 1. Fort Point fog-signal, Cal.\u2014For the substitution of a first-class fog-signal to replace the present Daboll trumpet at the Fort Point light-station, Cal., $11,000. The present fog-signal at Fort Point, which is inadequate for this important station, is to be installed to replace the present bell fog-signal at Southampton Shoal light-station.",
+   "establishes": "Southampton Shoal Light Station was in operation with a BELL fog signal by FY1910, and the Board planned to hand it Fort Point's cast-off Daboll trumpet. This is the earliest statement in the volumes I obtained that shows the station as a working light-station rather than a construction project."
+  },
+  {
+   "station": "Mile Rocks",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, Twelfth District)",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "244-245",
+   "quote": "28. Mile Rocks, southern side of channel, entrance to San Francisco Bay, California.\u2014Contracts were made for building the concrete and steel substructure and also for the steel superstructure of the station. Work under the first contract was commenced in August, 1904, when a working party landed on the rock and commenced preparing it, by cutting and blasting, to receive the foundations of the building. In September, 1904, a schooner fitted as quarters for the workmen and for the storage of materials was moored close to the rock, but during a heavy blow she dragged her moorings and barely escaped being wrecked. ... The work was difficult and hazardous during its early stages, and proceeded slowly on account of the exposed position of Mile Rocks, directly in the entrance to San Francisco Harbor, where it is subjected to all the violence of the sea. There was hardly a day during the year on which at some time the waves did not break over the rock. There were many days when no landing could be effected and many others when the party, after landing, was driven off with only a few hours of work accomplished. On several occasions it was necessary to call upon the neighboring life-saving crews to take the men off the rock. A full day of eight hours passed upon the rock was exceptional until after the substructure was completed in June, 1905. This consists of a monolith of concrete inclosed within steel plates resting on the rock at the level of mean high water. It is elliptical in plan, covering 704 square feet, and has a height of 34 feet; 1,006 barrels of cement, furnished by the Government, were used in the work.",
+   "establishes": "The Board's own detailed account of building Mile Rocks: work begun August 1904, substructure completed JUNE 1905 (elliptical concrete monolith in steel plating, 704 sq. ft., 34 ft high, 1,006 barrels of cement). It also gives the agency's framing of the site's danger. The station was still incomplete at the close of FY1905; the lighting (February 1906) falls in the FY1906 report, which I could not obtain."
+  },
+  {
+   "station": "Mile Rocks",
+   "report_year": "FY1904 (Reports of the Department of Commerce and Labor, 1904; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme00statgoog",
+   "page": "277",
+   "quote": "28. Mile Rocks, southern side of channel, entrance to San Francisco Bay, California.\u2014Plans and specifications were prepared and bids were asked. Those for the substructure were opened on May 19, and those for the superstructure on June 8, 1904, and the contracts were made for both.",
+   "establishes": "Contract dates: substructure bids opened 19 May 1904, superstructure bids 8 June 1904, both contracts made within FY1904. Corroborated by the separately printed Light-House Board contract document (IA contractforconst00unitrich), whose advertisement is dated 'San Francisco, Cal., April, 1904' over the signature of Thos. H. Handbury, Lieut. Col., Corps of Engineers, Engineer 12th Light-House District."
+  },
+  {
+   "station": "Mile Rocks",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "601",
+   "quote": "27. Mile Rocks, entrance to Golden Gate, San Francisco Bay, California.\u2014Two derricks for receiving supplies on the east and west sides of the station were installed. A covered boat hoist was erected on the Presidio wharf for caring for the keepers' boat when they are ashore. The storage for oil for operating the oil engines was replaced with ten 144-gallon range boilers, various repairs were made.",
+   "establishes": "Mile Rocks was a manned, operating station by FY1907 (keepers with a boat kept at a Presidio wharf hoist; oil engines running). The same volume, p. 603 region, records its fog signal: '27. Mile Rocks, California.\u2014This 10-inch whistle, in duplicate...'"
+  },
+  {
+   "station": "Point Arguello",
+   "report_year": "FY1900 (Annual Report of the Light-House Board for the fiscal year ended June 30, 1900; Twelfth District)",
+   "identifier": "annualreportlig00statgoog",
+   "page": "176",
+   "quote": "12. Point Arguello, about 12 miles northwest of Point Conception, seacoast of California.\u2014The act approved March 3, 1899, appropriated $35,000 for establishing a light-house and fog-signal on this point. Since the passage of the act much time has been consumed in obtaining the right to take water from a spring on land adjoining the reservation and in securing rights of way to the county road. These matters being satisfactorily adjusted, bids for the construction of the station were opened on March 22, 1900, and the contract was let for $17,000. Actual construction work will probably be commenced early in July, 1900.",
+   "establishes": "Authorization and funding for Point Arguello: act of 3 March 1899, $35,000; construction contract let 22 March 1900 for $17,000; work to begin early July 1900 \u2014 i.e. exactly the timetable that produced a station lit in 1901. CAVEAT: this is the FY1900 report, not the FY1901 report. The FY1901 volume, which would carry the Board's own statement of the date of first lighting, could not be obtained (see gaps)."
+  },
+  {
+   "station": "Point Arguello",
+   "report_year": "FY1905 (Reports of the Department of Commerce and Labor: 1905; Report of the Light-House Board, 'Fog-signals operated by steam or oil engines')",
+   "identifier": "SERIALSET-04966_00_00-002-0007-0000",
+   "page": "249-250",
+   "quote": "16. Point Arguello, California.\u2014This 12-inch whistle, in duplicate, worked by a 13-horsepower oil engine and compressed air, was in operation some 540 hours and consumed about 1,150 gallons of mineral oil.",
+   "establishes": "Point Arguello was a fully operating light and fog-signal station by FY1905 \u2014 a 12-inch whistle in duplicate driven by a 13-hp oil engine, run 540 hours in the year. This is the earliest in-service statement I could obtain for the station; it confirms establishment before 30 June 1905 but does not give the 1901 date."
+  },
+  {
+   "station": "Point Arguello",
+   "report_year": "FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District)",
+   "identifier": "reportsdepartme02statgoog",
+   "page": "598",
+   "quote": "15. Point Arguello, about 12 miles northwest of Point Conception, seacoast of California.\u2014The construction of a 40,000-gallon concrete cistern was completed. The cistern is 24 feet internal diameter, with wall 1 foot thick. ... A rectangular sheet-steel oil tank of 1,800 gallons capacity was installed for supplying the oil engines operating the air-compressor plant for a fog-signal.",
+   "establishes": "Continued station improvements at Point Arguello in FY1907 (40,000-gallon concrete cistern; 1,800-gallon oil tank for the fog-signal air compressors), confirming a manned station dependent on trucked/piped water in this exposed location."
+  },
+  {
+   "station": "Light-House Board itself (context for the 1910 transition)",
+   "report_year": "FY1910 (Reports of the Department of Commerce and Labor, 1910; 'Report of the Operations of the Light-House Board', letter of transmittal dated Washington, November 4, 1910)",
+   "identifier": "reportsdepartme00labogoog",
+   "page": "505 (first page of the Light-House Board report)",
+   "quote": "Sir: I have the honor to submit the following report of the operations of the Light-House Board for the fiscal year ended June 30, 1910. The Board was terminated on that date in accordance with the terms of the act of Congress approved June 17, 1910, but this report is prepared from data collected under the direction of the Board, and in its arrangement follows the plan of the report submitted by the Board for the preceding year. ... This act was approved June 17, 1910, and became effective July 1, 1910. In pursuance of its provisions a Commissioner and a Deputy Commissioner were appointed by the President, and assumed duty on July 1, 1910.",
+   "establishes": "The exact institutional break: the Light-House Board terminated 30 June 1910 under the act of 17 June 1910; the Bureau of Lighthouses and its Commissioner took office 1 July 1910. This is the agency's own account of the boundary between the Board's annual reports and the Commissioner of Lighthouses' annual reports, and it dates the FY1910 report as the LAST Board report (though written under the new Bureau)."
+  }
+ ],
+ "not_found": "POINT DIABLO (1923) \u2014 NOT FOUND. No annual report covering fiscal year 1923 could be obtained (see gaps). I searched every volume I did obtain (FY1900, 1904, 1905, 1907, 1909, 1910, 1913, 1914, 1915, 1917, 1918, 1919) for \"Diablo\" and found zero hits. I also full-text-searched govinfo across the whole Serial Set, ANNUALREP, CDOC and GOVPUB collections for \"Point Diablo\": the only pre-1930 hit was in the Annual Report of the United States COAST GUARD for FY1926 \u2014 a different agency, and I did not open it because it is not a Lighthouse Service statement. I have no agency statement of any kind on Point Diablo Light.\n\nPOINT VICENTE (1926) \u2014 NOT FOUND. No annual report covering fiscal year 1926 could be obtained. Zero hits for \"Vicente\" in every volume I obtained. A govinfo full-text search for \"Point Vicente Light\" returned only much later material (33 CFR 334.940 and Federal Register 1951/1954 danger-zone descriptions, plus a modern Coast Guard real-property inventory) \u2014 nothing from the Bureau of Lighthouses. No agency establishment statement recovered.\n\nMILE ROCKS \u2014 the ESTABLISHMENT statement was not found. I have the Board's FY1904 (contracts let) and FY1905 (substructure completed June 1905) accounts and the FY1907 account of an operating manned station, but the FY1906 report, which would carry the date of first lighting, could not be obtained. I did not find any retrospective statement of the lighting date in the volumes I do hold.\n\nSOUTHAMPTON SHOAL \u2014 the ESTABLISHMENT statement was not found, for the same reason: the station was explicitly still unfinished at the close of FY1905 (\"the eleven supporting cylinders are in place and the steel frame of the platform is in position\"), and the FY1906 report is missing. The earliest in-service evidence I obtained is the FY1910 reference to \"the present bell fog-signal at Southampton Shoal light-station.\"\n\nPOINT ARGUELLO \u2014 the ESTABLISHMENT/first-lighting statement was not found. FY1901 is missing. I have the FY1900 contract-letting statement and FY1905/FY1907 evidence of an operating station, and nothing in between.\n\nPUNTA GORDA \u2014 the ESTABLISHMENT/first-lighting statement was not found. FY1911 and FY1912 are both missing. The latest agency statement I hold is FY1910's forecast that \"January 1, 1911, is the date on which the light will probably be ready for operation.\" I deliberately did NOT convert that forecast into an establishment date.\n\nANACAPA \u2014 the 1912 beacon's establishment statement was not found. FY1912 is missing, and the FY1913 volume (which I have in full) contains NO mention of Anacapa at all. The nearest agency statements are FY1910 (station authorized 17 June 1910, no appropriation) and FY1914 (the eastern end \"is now marked by a small beacon light\"), which bracket the beacon's appearance without dating it.\n\nPOINT STUART \u2014 the LIGHT's establishment statement was not found; only the FOG SIGNAL establishment is stated outright (FY1915, p. 8). The FY1915 works table names \"Point Stuart Light\" among the completed Angel Island works, but no sentence in any obtained volume gives a date of first lighting or an order of lens for Point Stuart.\n\nOTHER CALIFORNIA DISCONTINUANCES \u2014 apart from Mare Island, I found none. The FY1918 table \"Lights discontinued during the fiscal year 1918\" (84 lights) contains no California entries in the districts I could read. No other California station discontinuance statement appears in any volume I obtained for this era.",
+ "gaps": "REPORT YEARS I COULD NOT OBTAIN, with what was tried:\n\nFY1901, FY1902, FY1903 (Light-House Board, under the Treasury) \u2014 not on Internet Archive (IA's entire holding of \"Annual report of the Light-House Board\" is seven Google scans, all pre-1901: FY1892, 1894, 1896, and neighbours, plus FY1900). Not in the govinfo Serial Set (govinfo's Serial Set digitisation of departmental annual reports is partial). HathiTrust HAS them in full view \u2014 the BIB API at https://catalog.hathitrust.org/api/volumes/full/oclc/12655542.json returned 102 items including mdp.39015073474929 and hvd.hn4lnp (1901), mdp.39015073474911 and njp.32101050591583 (1902/03), mdp.39015034800667 (1903) \u2014 but every HathiTrust content route is hard-blocked: babel.hathitrust.org/cgi/imgsrv/html, the PDF download endpoint, and the plaintext page view all return HTTP 403 to curl, and WebFetch on babel.hathitrust.org also returned 403. The htids above are recorded here so someone with a HathiTrust session can pull them directly.\n\nFY1906 \u2014 not on IA; NOT in the govinfo Serial Set (I enumerated every govinfo package matching \"Reports of the Department of Commerce and Labor\": only 1904, 1905, 1907 and 1910 exist there). HathiTrust: mdp.39015073474895 (1906), osu.32435062868971 (1905-06) \u2014 blocked. This is the single most damaging gap: it is the volume that would carry both Mile Rocks and Southampton Shoal.\n\nFY1908 \u2014 not on IA; not on govinfo. HathiTrust mdp.39015034800733, hvd.hxj8b6 \u2014 blocked.\n\nFY1911, FY1912 \u2014 not on IA (IA has exactly one Commissioner of Lighthouses annual report, FY1915); not on govinfo except Part II of the FY1911 report (SERIALSET-06325_00_00-166-0538-0000, \"Purchases by the Commissioner of Lighthouses in the open market or by private contract\" \u2014 a purchasing schedule with no station narrative, which is why I did not use it). HathiTrust osu.32435062868724 (1910-11) and osu.32435062868674 (1911-12) \u2014 blocked. This gap costs Punta Gorda and Anacapa.\n\nFY1916 \u2014 not on IA; not on govinfo. HathiTrust osu.32435062869110 (1916-18) \u2014 blocked.\n\nFY1920 through FY1926 \u2014 none on IA, none on govinfo. Departmental annual reports stopped being carried in the Congressional Serial Set in this period, so govinfo's Serial Set simply does not reach them. HathiTrust holds osu.32435062868963 (1922-24) and osu.32435062868914 (1924-27) in full view \u2014 blocked. This gap costs Point Diablo (1923) and Point Vicente (1926) entirely.\n\nTOOLS THAT FAILED, so the next attempt doesn't repeat them: WebSearch quota was exhausted at the start of this session (200/200) and returned nothing. The Google Books API returned HTTP 429 \"Quota exceeded ... per day\" on the first substantive call. The Internet Archive has no usable public full-text search API (ia-fts.archive.org refused connection; the beta scrape endpoint 404s; services/search/v1/scrape is metadata-only). The govinfo API with DEMO_KEY rate-limited after roughly a dozen calls; the WORKAROUND THAT WORKED is the govinfo website's own backend, POST https://www.govinfo.gov/wssearch/search with a JSON body and a browser User-Agent, which needs no API key at all, plus the public content URLs https://www.govinfo.gov/content/pkg/<packageId>/pdf/<packageId>.pdf (also no key). NOAA's rescue-scan directory returned NoSuchKey for the path given.\n\nTRANSCRIPTION CAVEAT ON EVERY QUOTE ABOVE: these texts come from OCR \u2014 the Internet Archive _djvu.txt layer for the IA items, and pdftotext -layout over the govinfo scan for FY1905. The underlying scans are clean print but the OCR is not: it renders \"Carquinez\" as \"Carauinez\", \"light-station\" as \"lighi-stadon\", \"California\" as \"Calif omia\", doubles all interword spaces, and mangles running heads. In the quotes I have normalised whitespace, restored the em-dash after station names, and silently corrected unambiguous OCR letter-substitutions where the correct reading is certain from context. I have NOT altered a single date, dollar figure, lens order, or substantive word. Anyone building a citation on these should re-check the wording against the page image before publication. Where a passage was too corrupt to restore with confidence I marked the problem in the \"establishes\" field rather than smoothing it over \u2014 notably the FY1917 \"Lights discontinued\" table on p. 690, whose district column is garbled badly enough that I will not assert the district attribution as fact.\n\nPAGE NUMBERS: printed page numbers are taken from the running heads visible in the OCR (e.g. \"508 REPORTS OF DEPARTMENT OF COMMERCE AND LABOR.\" for versos, \"REPORT OF THE LIGHT-HOUSE BOARD. 509\" for rectos). Where a quoted passage falls between two visible heads I assigned the page by position and have said \"pp. X-Y\" when the passage straddles a page break. Two page numbers are inferred rather than read directly because the recto head was lost to OCR: FY1904 p. 281 (Blunts Reef \u2014 sits between clean heads for 280 and 282) and FY1909 p. 635 (Carquinez \u2014 sits after a clean head for 634). For the FY1915 \"Works under special appropriations\" table containing the Angel Island / Point Stuart entry, no page head survived in the OCR at all and I have given none.\n\nONE SUBSTANTIVE CONFLICT IN THE AGENCY'S OWN RECORD, flagged rather than resolved: the FY1917 report lists Mare Island in its table of lights discontinued DURING fiscal year 1917 (which ended 30 June 1917), while the FY1918 narrative states the station \"was discontinued July 1, 1917\" (the first day of fiscal 1918). The two statements are one day and one fiscal year apart. The FY1918 sentence is a narrative statement in the Commissioner's own prose and is indexed in that volume as \"Mare Island, Cal., light station discontinued.. 567\", so I treat it as authoritative; but the discrepancy is real and is in the Bureau's own printing, and should be reported as such rather than smoothed to a single date."
+}

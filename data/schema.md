@@ -90,3 +90,6 @@ Routes draw a polyline through their stops' coords, in order. `path_confidence` 
 - `route.path` — optional dense `[[lat,lon], …]` polyline following the real corridor; when
   present it replaces the stop-to-stop line (stops keep their markers). Added for lumber-ports
   railroads 2026-09-13.
+- `feature.quotes` — `[{text, cite}]` verbatim source passages rendered as attributed
+  blockquotes in the popup. Added for the lighthouses map 2026-09-14 (the Light-House
+  Board's annual reports). Quoted material must always carry its `cite`.

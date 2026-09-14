@@ -121,6 +121,17 @@
         Slide the timeline to watch the chain grow.</p>
       </div>
     </a>
+    <a class="card" href="maps/lighthouses.html">
+      <div class="thumb" style="background-image:url(assets/previews/lighthouses.jpg)"></div>
+      <div class="body">
+        <h3>Lighthouses of California, 1854–1939</h3>
+        <p class="meta" data-count="lighthouses">48 stations · lightships · the Light-House Board quoted</p>
+        <p>Every light station, fog-signal station, and lightship station on the coast and
+        inside San Francisco Bay, from the first federal cohort of 1854 to the last towers
+        built before the war. The primary layer is the Light-House Board itself: 163 passages
+        quoted from its annual reports, cited to report year and page.</p>
+      </div>
+    </a>
     <a class="card" href="maps/lumber-ports.html">
       <div class="thumb" style="background-image:url(assets/previews/lumber-ports.jpg)"></div>
       <div class="body">
@@ -240,7 +251,7 @@
 
 <script>
 (function () {
-  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806", "lumber-ports"];
+  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806", "lumber-ports", "lighthouses"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {

@@ -1,0 +1,975 @@
+{
+ "volumes_obtained": [
+  {
+   "year": "FY1852 (LHB 1st annual report; printed in H. Doc. 23, 32d Cong. 2d sess.)",
+   "identifier": "SecTreasAnnReport1852",
+   "url": "https://archive.org/details/SecTreasAnnReport1852",
+   "notes": "FRASER/St. Louis Fed scan of the Treasury annual report. Contains the Light-House Board's first annual report with California estimates, rationale, and Table A of appropriations. 180 leaves. OCR + page images both used."
+  },
+  {
+   "year": "FY1853 (H. Doc. 3)",
+   "identifier": "SecTreasAnnReport1853",
+   "url": "https://archive.org/details/SecTreasAnnReport1853",
+   "notes": "Full LHB report; 12th district narrative pp. 191-192, 197. Records completion of the first four California towers."
+  },
+  {
+   "year": "FY1854",
+   "identifier": "SecTreasAnnReport1854",
+   "url": "https://archive.org/details/SecTreasAnnReport1854",
+   "notes": "LHB report present (pp. ~285-347) but contains NO station-by-station California narrative - only a general 12th-district paragraph (p. 291) and Table A remarks. This is the volume that would have carried an Alcatraz first-lighting statement; it does not."
+  },
+  {
+   "year": "FY1855",
+   "identifier": "SecTreasAnnReport1855",
+   "url": "https://archive.org/details/SecTreasAnnReport1855",
+   "notes": "Full LHB report; 12th district narrative pp. 268-270; keeper list p. 413ff."
+  },
+  {
+   "year": "FY1856",
+   "identifier": "SecTreasAnnReport1856",
+   "url": "https://archive.org/details/SecTreasAnnReport1856",
+   "notes": "LHB report; Pacific-coast summary p. 603 (completed-and-lighted list)."
+  },
+  {
+   "year": "FY1857",
+   "identifier": "SecTreasAnnReport1857",
+   "url": "https://archive.org/details/SecTreasAnnReport1857",
+   "notes": "LHB report pp. 229-256; includes the Board's retrospective on the state of the Pacific coast in 1852 (p. 229) and the first Mare Island recommendation (p. 234)."
+  },
+  {
+   "year": "FY1858",
+   "identifier": "SecTreasAnnReport1858",
+   "url": "https://archive.org/details/SecTreasAnnReport1858",
+   "notes": "Carries the full printed Light List including the PACIFIC COAST table with a 'When built' column (pp. 482-483) - the single most useful Era-1 dating table."
+  },
+  {
+   "year": "FY1859",
+   "identifier": "SecTreasAnnReport1859",
+   "url": "https://archive.org/details/SecTreasAnnReport1859",
+   "notes": "LHB report present but 12th-district entry is one paragraph; no California station detail."
+  },
+  {
+   "year": "FY1860",
+   "identifier": "SecTreasAnnReport1860",
+   "url": "https://archive.org/details/SecTreasAnnReport1860",
+   "notes": "12th district = one paragraph (p. 370-371); no station detail."
+  },
+  {
+   "year": "FY1861",
+   "identifier": "SecTreasAnnReport1861",
+   "url": "https://archive.org/details/SecTreasAnnReport1861",
+   "notes": "LHB report = Statement No. 12, p. 203; no California station content found."
+  },
+  {
+   "year": "FY1862",
+   "identifier": "SecTreasAnnReport1862",
+   "url": "https://archive.org/details/SecTreasAnnReport1862",
+   "notes": "12th district = one paragraph (tender laid up / loaned to revenue marine); no station detail."
+  },
+  {
+   "year": "FY1863",
+   "identifier": "SecTreasAnnReport1863",
+   "url": "https://archive.org/details/SecTreasAnnReport1863",
+   "notes": "Short 12th-district passage p. 159 - includes the Fort Point light relocation. No other CA station detail."
+  },
+  {
+   "year": "FY1864",
+   "identifier": "SecTreasAnnReport1864",
+   "url": "https://archive.org/details/SecTreasAnnReport1864",
+   "notes": "12th district = short paragraph (18 lights); no CA station detail."
+  },
+  {
+   "year": "FY1865",
+   "identifier": "SecTreasAnnReport1865",
+   "url": "https://archive.org/details/SecTreasAnnReport1865",
+   "notes": "12th district = one paragraph; no CA station detail."
+  },
+  {
+   "year": "FY1866",
+   "identifier": "SecTreasAnnReport1866",
+   "url": "https://archive.org/details/SecTreasAnnReport1866",
+   "notes": "12th district narrative resumes, p. 225 (Humboldt in critical condition)."
+  },
+  {
+   "year": "FY1867",
+   "identifier": "SecTreasAnnReport1867",
+   "url": "https://archive.org/details/SecTreasAnnReport1867",
+   "notes": "Full station-by-station 12th district, pp. 237-238. Records the 1 July 1867 split of the Pacific coast into the 12th and 13th districts."
+  },
+  {
+   "year": "FY1868",
+   "identifier": "SecTreasAnnReport1868",
+   "url": "https://archive.org/details/SecTreasAnnReport1868",
+   "notes": "Full 12th district, pp. 387-389."
+  },
+  {
+   "year": "FY1869",
+   "identifier": "SecTreasAnnReport1869",
+   "url": "https://archive.org/details/SecTreasAnnReport1869",
+   "notes": "Full 12th district, pp. 477-481."
+  },
+  {
+   "year": "FY1870",
+   "identifier": "SecTreasAnnReport1870",
+   "url": "https://archive.org/details/SecTreasAnnReport1870",
+   "notes": "Full 12th district, pp. 393-396."
+  },
+  {
+   "year": "FY1871",
+   "identifier": "SecTreasAnnReport1871",
+   "url": "https://archive.org/details/SecTreasAnnReport1871",
+   "notes": "Full 12th district, pp. 537-541."
+  },
+  {
+   "year": "FY1872",
+   "identifier": "SecTreasAnnReport1872",
+   "url": "https://archive.org/details/SecTreasAnnReport1872",
+   "notes": "Full 12th district, pp. 545-548."
+  },
+  {
+   "year": "FY1873",
+   "identifier": "SecTreasAnnReport1873",
+   "url": "https://archive.org/details/SecTreasAnnReport1873",
+   "notes": "Full 12th district, pp. 668-671."
+  },
+  {
+   "year": "FY1874",
+   "identifier": "SecTreasAnnReport1874",
+   "url": "https://archive.org/details/SecTreasAnnReport1874",
+   "notes": "Full 12th district, pp. 679-684, PLUS the 'List of light-houses finished and lighted between July 1, 1873, and July 1, 1874' table, pp. 617-618 - the table that dates Mare Island and East Brother."
+  },
+  {
+   "year": "FY1875",
+   "identifier": "SecTreasAnnReport1875",
+   "url": "https://archive.org/details/SecTreasAnnReport1875",
+   "notes": "Full 12th district, pp. 789-794, PLUS the lighted-during-the-year table pp. 729-730."
+  },
+  {
+   "year": "FY1876",
+   "identifier": "SecTreasAnnReport1876",
+   "url": "https://archive.org/details/SecTreasAnnReport1876",
+   "notes": "Full 12th district, pp. 792-794, PLUS the lighted-during-the-year table p. 749 (Yerba Buena). Included because the FY1876 report closes out the Era-1 construction sequence."
+  }
+ ],
+ "stations": [
+  {
+   "station": "Alcatraz Island \u2014 TEST OF THE 'FIRST ON THE PACIFIC COAST' CLAIM",
+   "report_year": "1857",
+   "page": "229",
+   "quote": "There were no lights or other aids to navigation at that time in the harbors or bays on the Pacific coast of the United States.",
+   "establishes": "The Board's own baseline. 'That time' is defined two paragraphs earlier as 9 October 1852, when the Board took charge under the act of 31 August 1852. So every Pacific-coast light is a post-1852 Light-House Board creation. Verified against the page image (leaf n228).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Alcatraz Island \u2014 TEST OF THE 'FIRST ON THE PACIFIC COAST' CLAIM",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "376 | Alcatraz | On the island in the harbor of San Francisco, Cal. ... | F. ... 14 | White. | 36 | 166 | [+ 3] | 1854 | ... | Fog-bell, struck by machinery. This light can be seen 12 miles outside of the Heads.",
+   "establishes": "The Board's own printed Light List, PACIFIC COAST section. The column head is 'When built.' Alcatraz = 1854. CRITICAL: in the same table Point Pinos (No. 370) is ALSO given as 1854, and every other California station is 1855 or later (Point Loma 1855, Point Conception 1855, Farrallon 1855, Point Bonita 1855, Fort Point 1855, Santa Barbara 1856, Humboldt 1856, Crescent City 1856). The Board therefore records TWO California stations built in 1854 and does not rank them. Both pages verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1852",
+   "page": "95 (Table A)",
+   "quote": "Alcatraz island .......... do ............. 15,000 00",
+   "establishes": "Alcatraz was one of eight Pacific-coast light-houses contracted under the Secretary of the Treasury before the Board existed, each carried at $15,000. The same page's note reads: 'A special transfer of all works connected with the light-house establishment on the Pacific coast was made to the board on December 22, 1852.' Verified against the page image (leaf n94).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1853",
+   "page": "191",
+   "quote": "The latest reports on the subject announce the completion of the light-house towers on Alcatraz island, and at Fort Point, Bay of San Francisco, Point Pinas, (Monterey,) and on the Farrallones island.",
+   "establishes": "By the FY1853 report the TOWERS at Alcatraz, Fort Point, Point Pinos and the Farallones were reported complete \u2014 but complete is not lighted. The same page states the eight contract light-houses were 'transferred to this office December 22, 1852,' Capt. H. W. Halleck being inspector. Verified against the page image (leaf n192).",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1853",
+   "page": "192",
+   "quote": "By the last account from San Francisco, it appears that the officer charged with setting up the illuminating apparatus has not been able to procure competent persons to perform that service at the Alcatraz light",
+   "establizes": "",
+   "establishes": "Explains why completion of the tower did not mean exhibition of the light: no one competent in San Francisco to set up the apparatus. [OCR text; page image not separately pulled for this sentence.]",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1855",
+   "page": "268",
+   "quote": "Fog-bells are under construction for Point Conception, Fort Point, Alcatraz island, and mouth of the Columbia river.",
+   "establishes": "Fog-bell for Alcatraz still under construction in the FY1855 report. Verified against the page image (leaf n267).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "Fog-bells have been placed at Point Conception, Farralones, Fort Point, Alcatraz island, and Cape Hancock light-houses.",
+   "establishes": "Alcatraz fog-bell in place by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At Alcatraz some needful but inexpensive renovations were made.",
+   "establishes": "Condition report. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Alcatraz Island",
+   "report_year": "1868",
+   "page": "388",
+   "quote": "370. Alcatras. \u2014 On examining this station quite extensive repairs were found necessary, and have been accordingly made, viz: The gallery floor and its iron fastening have been taken up; the brick-work of the tower, from where it passes through the roof of the keeper's dwelling, has been repointed; a coat of cement has been given to the coping of the tower; a new gallery floor has been laid; the boiler iron covering of the lower part of the lantern has been removed, straightened and refitted, the glass-work of the lantern reset, chimneys repointed and plastered; the tower has received a coat of mortar; a drain for the cellar has been constructed.",
+   "establishes": "The fullest Era-1 physical description of the Alcatraz structure: a brick tower rising through the roof of the keeper's dwelling, with an iron-clad lantern. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1868"
+  },
+  {
+   "station": "Fort Point (= 'Battery Point' in the Board's Era-1 usage)",
+   "report_year": "1852",
+   "page": "80",
+   "quote": "The small light authorized to be placed on Battery point is to serve as a mere harbor or range light, while this is to mark from seaward the entrance to the bay.",
+   "establishes": "WHY the station existed, and a naming trap: in the Board's Era-1 text 'Battery Point' ALWAYS means the San Francisco fort site (later Fort Point), never Crescent City's Battery Point. Confirmed by the 1858 Light List, which fixes the Farallon position 'from Fort or Battery point, San Francisco bay, Cal.' Verified against the page image (leaf n79).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Fort Point / Battery Point",
+   "report_year": "1853",
+   "page": "197",
+   "quote": "The light-house authorized and built on Battery Point, Bay of San Francisco, having been taken down to make room for the works of fortification authorized by law at that point, an appropriation, it is believed, should be made for erecting a light of greater power than the one originally authorized for Battery Point, or Point Lobos, the outer entrance of the bay, and an estimate is accordingly submitted in list B.",
+   "establishes": "The original Battery Point tower was BUILT and then TAKEN DOWN for the fortification (Fort Point) before it was ever lit. Verified against the page image (leaf n198).",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Fort Point",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "375 | Fort Point | On the south side of the entrance to the harbor of San Francisco, Cal. ... | F. | 12 | White, | 36 | 52 | [+ 5] | 1855 | ... | Fog-bell, struck by machinery.",
+   "establishes": "Board's Light List: Fort Point 'When built' 1855, fifth-order, light 52 feet above the sea, fog-bell. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Fort Point",
+   "report_year": "1863",
+   "page": "159",
+   "quote": "The progress of the fortification works at Fort Point, entrance to San Francisco bay, having rendered the removal of the light-house and fog-signal at that point imperatively necessary, steps have been taken to remove the light to a position over the stairway of the fort, and the fog-signal to a point outside the work near the two-gun battery. The work is now in progress, and the new tower, together with suitable quarters for the keepers, will, it is hoped, soon be completed.",
+   "establishes": "A SECOND removal of the Fort Point light for the fortification, in FY1863 \u2014 the light was moved onto the fort itself. Verified against the page image (leaf n166).",
+   "identifier": "SecTreasAnnReport1863"
+  },
+  {
+   "station": "Fort Point",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At Fort Point, the fog-bell was taken from its original position on a framework in front of the fort and hung on an angle of the fort facing seaward. Slight repairs have been made to the dwelling.",
+   "establishes": "Relocation of the Fort Point fog-bell onto the fort. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Fort Point",
+   "report_year": "1876",
+   "page": "793",
+   "quote": "458. Fort Point, entrance to San Francisco Harbor, California. \u2014 A bridge has been built from the bluff near the keeper's dwelling to the fort on which the light and fog-bell are placed. Formerly the keepers were compelled to go from the dwelling down steep stairs and up through the fort in order to get to the tower or fog-signal, a very dangerous task during dark and stormy nights.",
+   "establishes": "Confirms that by 1876 the light and fog-bell stood ON the fort, with the dwelling on the bluff behind. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1876"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1852",
+   "page": "80",
+   "quote": "In California. \u2014 For a light-house to be placed on Point Boneta, San Francisco, $25,000.",
+   "establishes": "The original appropriation request. The same paragraph gives the reason: 'The proposed light-house at the entrance to the bay of San Francisco is necessary to the safety of navigators entering that port and bay.' Verified against the page image (leaf n79).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1855",
+   "page": "268",
+   "quote": "During the past year, the light-house at Point Bonita has been erected and the light exhibited.",
+   "establishes": "Point Bonita first lighted within the year covered by the FY1855 report (report dated autumn 1855). The Board gives no day-date. The same page adds: 'A fog-gun has been placed and put in operation at that point.' Verified against the page image (leaf n267).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "374 | POINT BONITA | On the point north side of the entrance to San Francisco bay, Cal. ... | F. | 24 | White. | 45 | 306 | [+ 2] | 1855 | ... | Low brick tower rising from keeper's dwelling. Fog-bell struck by machinery.",
+   "establishes": "Board's Light List: built 1855, second-order ([+2]), light 306 feet above the sea. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1874",
+   "page": "689 (Appendix on fog-signals, by Joseph Henry)",
+   "quote": "Guns have been employed on the United States coast, first under the direction of General Bates, engineer of the twelfth district, at Point Bonita, San Francisco Bay, California. The gun at this station consisted of a 24-pounder, furnished by the War Department. The necessary arrangements being made, by the construction of a powder-house, and laying of a platform, and employment of a gunner, notice to mariners was given that after the 8th of August, 1856, a signal-gun would be fired every hour and half hour, night and day, during foggy or thick weather.",
+   "establishes": "Exact date the Point Bonita fog-gun went into service: 8 August 1856. Joseph Henry's own retrospective. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "411. Point Bonita, entrance to San Francisco Harbor, California. \u2014 An appropriation for the establishment of a first-class steam fog-signal at this point was made March 3, 1871. The structure was completed, the machinery placed in position, and the signal, a syren, was put in operation May 29, 1872.",
+   "establishes": "Date the Point Bonita first-order steam siren began: 29 May 1872. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Bonita",
+   "report_year": "1875",
+   "page": "791",
+   "quote": "The light at Point Bonita is 306 feet above the sea. At this height the light is very frequently obscured by a light haze or fog, when at the steam fog-signal there is no fog or haze. Pilots, steamship captains, and others frequently report passing Point Bonita without seeing the light... A good light on this point is very necessary, it being at the entrance of San Francisco Bay and harbor, and an appropriation of $25,000 is asked for moving the present Point Bonita light house to this point.",
+   "establishes": "The Board's own reason for moving the Point Bonita light down the headland \u2014 the origin of the 1877 lower light. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "Point Pinos",
+   "report_year": "1853",
+   "page": "191",
+   "quote": "The latest reports on the subject announce the completion of the light-house towers on Alcatraz island, and at Fort Point, Bay of San Francisco, Point Pinas, (Monterey,) and on the Farrallones island.",
+   "establishes": "Point Pinos tower complete by the FY1853 report. Verified against the page image (leaf n192).",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Point Pinos",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "At the close of the Mexican war, and the acquisition of California, the President gave orders through the General Land Office to the surveyor general of the Pacific coast to reserve, of the public domain on that coast, certain sites for light-houses and other public purposes, among which was the site for a light-house at Point Pinos. An appropriation was made and the light exhibited in 1854.",
+   "establishes": "THE ONLY explicit Board statement in these volumes that any California light was exhibited in 1854 \u2014 and it is Point Pinos, not Alcatraz. Also gives the origin of the reservation. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  },
+  {
+   "station": "Point Pinos",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "370 | Point Pinos | On the point, south side of the entrance to the harbor of Monterey, Cal. ... | F. | 13 | Gray. | 35 | 91 | [+ 3] | 1854 | ... | Low brick tower rising from keeper's dwelling.",
+   "establishes": "Board's Light List: Point Pinos 'When built' 1854, third-order, light 91 feet above the sea. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "Major Bache lost no time, after his arrival in California, in taking the necessary steps for remodelling the important light-houses at the Farallones, Point Conception, and Point Loma; all of which, it is expected, are lighted by this time.",
+   "establishes": "The three 'important' California towers had to be REMODELLED before they could be lit, because the lanterns procured did not fit the contract towers. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "In the twelfth light-house district, embracing the entire Pacific coast, the light-houses at Point Loma, San Diego, Santa Barbara, Point Conception, Farralones, and Cape Hancock, have been completed and lighted.",
+   "establishes": "Point Conception (with Point Loma, Santa Barbara and the Farallones) completed and lighted by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "369 | POINT CONCEPTION | Near the pitch of Point Conception, Cal. ... | Revg. | 0 30 | 23 | White. | 35 | 250 | [+ 1] | 1855 | ... | Low brick tower rising from keeper's dwelling. Fog-bell, struck by machinery.",
+   "establishes": "Board's Light List: built 1855, FIRST order ([+1]), revolving at 30-second intervals, light 250 feet above the sea, fog-bell. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1872",
+   "page": "546",
+   "quote": "405. Point Conception, sea-coast of California. \u2014 An appropriation was made March 3, 1871, for the establishment of a first-class steam fog-signal. A thorough examination and survey of the point were made with a view to ascertain the best location for the signal, and the supply of water. The structure has been completed, and the machinery placed in position.",
+   "establishes": "Point Conception steam fog-signal built under the act of 3 March 1871. Verified against the page image (leaf n571).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Conception",
+   "report_year": "1875",
+   "page": "790",
+   "quote": "437. Point Conception, sea-coast of California. \u2014 The old dwelling at this station is in a bad condition, and the best plan is to pull it down, leaving the tower by itself... As the tower is in the center of the house, the latter having been built around it, when the walls of the house are removed the tower will be isolated and complete in itself. An appropriation of $12,000 is asked for the purpose of building the new dwellings.",
+   "establishes": "Describes the original form of the station \u2014 a tower built inside the dwelling \u2014 and the Board's plan to isolate it. Verified against the page image (leaf n846).",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "Battery Point / Crescent City",
+   "report_year": "1857",
+   "page": "255",
+   "quote": "The Santa Barbara light-house has been finished, and the light exhibited, and also the light authorized at Crescent City.",
+   "establishes": "Crescent City light first exhibited in the year covered by the FY1857 report (i.e. the season of 1856, matching the Light List's 'when built 1856'). The Board gives no day-date. NOTE: the Board never calls this station 'Battery Point'. Verified against the page image (leaf n254).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Battery Point / Crescent City",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "380 | Crescent City | On the seaward extremity of the island point forming the southern and western side of the harbor. ... | F. V. F. | 1 30 | 14 | Stone . | 35 | 80 | [+ 4] | 1856 | ... | Low brick tower rising from keeper's dwelling.",
+   "establishes": "Board's Light List: Crescent City built 1856, fourth order, fixed varied by flashes at 1m30s, light 80 feet above the sea; the position description is the Battery Point islet. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Battery Point / Crescent City",
+   "report_year": "1875",
+   "page": "792",
+   "quote": "457. Crescent City, sea-coast of California. \u2014 This station is in a dilapidated condition, and should be rebuilt if the light is to be continued. The entire wood-work of the keeper's stone dwelling must be removed. The ends of many of the lower floor-timbers are entirely gone, and the floor is held up by shores. But the light itself is of little consequence. No vessel can enter Crescent City harbor at night, and no vessel bound up or down the coast can, with safety, run near enough to make the light. The rocks off Point St. George are one of the chief dangers to navigation on the coast. A first-order light should be placed there. When that is done the Crescent City station should be discontinued.",
+   "establishes": "The Board's blunt Era-1 verdict on Crescent City: structurally failing and navigationally near-useless; it recommends discontinuance once a St. George Reef light exists. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1852",
+   "page": "95 (Table A)",
+   "quote": "Humboldt harbor .......... do ............. 15,000 00",
+   "establishes": "Humboldt was one of the eight $15,000 pre-Board contract light-houses on the Pacific coast. Verified against the page image (leaf n94).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "The light and range at Humboldt harbor will be exhibited about the first of November.",
+   "establishes": "The Board's forecast of Humboldt's first lighting: about 1 November 1856. Note it was a LIGHT AND RANGE. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "379 | HUMBOLDT | On the north side of the entrance to Humboldt harbor, Cal. It is 1/4 mile from the inlet, and about midway between the sea and bay shores. ... | F. | 12 | White. | 45 | 53 | [+ 4] | 1856 | ... | Brick tower rising from keeper's dwelling. Fog-bell, struck by machinery.",
+   "establishes": "Board's Light List: Humboldt built 1856, fourth order, light only 53 feet above the sea, fog-bell. The low, sand-spit siting is the root of its later troubles. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Humboldt Harbor \u2014 the abandonment question",
+   "report_year": "1866",
+   "page": "225",
+   "quote": "The light-house at Humboldt was reported to be in a critical condition by reason of the action of heavy storms and high tides. The peninsula on which this light-house stands is about a half mile wide and but a few feet above the level of the sea, and composed of loose, drifting sand... It is doubtful, however, whether any work except one of a very expensive character can permanently secure the light-house.",
+   "establishes": "First Board warning that the site was not tenable. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1866"
+  },
+  {
+   "station": "Humboldt Harbor \u2014 the abandonment question",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "In this view of the case the board has under consideration the propriety of removing this light to a point about four miles south of the entrance to Humboldt bay, known as Table bluff. This point is salient, with a firm and permanent foundation for a light-house, and a light there would subserve the purposes of navigation better than where it is now placed; it is not so frequently enveloped in fog as the spit where the light now stands.",
+   "establishes": "THE EARLIEST Board statement of the intention that eventually produced the Table Bluff station and the abandonment of Humboldt Harbor. The actual abandonment falls outside the volumes obtained (see 'gaps'). Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Humboldt Harbor",
+   "report_year": "1874",
+   "page": "683",
+   "quote": "452. Humboldt, coast of California. \u2014 An appropriation of $10,000 was made by Congress March 3, 1873, for a steam fog-signal at this station. The work was commenced in December of 1873, and was completed in March last... The signal went into operation on the 10th of May last.",
+   "establishes": "Humboldt steam fog-signal in operation 10 May 1874; cost $10,000 under the act of 3 March 1873. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Farallon Islands",
+   "report_year": "1852",
+   "page": "80",
+   "quote": "The distance of the Farrallones, nearly twenty-nine miles, forbids its being of any further use than as an off-shore sea-coast light, and of the greatest importance in that respect.",
+   "establishes": "The Board's statement of the Farallon light's FUNCTION, used to justify a separate light at Point Bonita. Verified against the page image (leaf n79).",
+   "identifier": "SecTreasAnnReport1852"
+  },
+  {
+   "station": "Farallon Islands",
+   "report_year": "1853",
+   "page": "191",
+   "quote": "The latest reports on the subject announce the completion of the light-house towers on Alcatraz island, and at Fort Point, Bay of San Francisco, Point Pinas, (Monterey,) and on the Farrallones island.",
+   "establishes": "Farallon tower complete by the FY1853 report. Verified against the page image (leaf n192).",
+   "identifier": "SecTreasAnnReport1853"
+  },
+  {
+   "station": "Farallon Islands",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "372 | FARRALLON | On the largest or southeast Farrallon islet, 30 miles south 75\u00b0 12' west, true, from Fort or Battery point, San Francisco bay, Cal. ... | Revg. | 1 00 | 26 | Brick. | 29 | 360 | [+ 1] | 1855 | ... | Tower on the highest peak of the rock.",
+   "establishes": "Board's Light List: Farallon built 1855, FIRST order, revolving at one-minute intervals, light 360 feet above the sea, tower on the highest peak. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Farallon Islands",
+   "report_year": "1874",
+   "page": "681",
+   "quote": "442. Farallones, off entrance to San Francisco Bay. \u2014 The dwelling at this station is very much out of repair, and is much too small for the wants of a first-order station. It was built in 1855 out of rock quarried on the island, and is very damp.",
+   "establishes": "Dates and describes the original Farallon keepers' dwelling: 1855, of rock quarried on the island. The Board repeated this sentence verbatim in 1875 (p. 791) and 1876 (p. 793). [OCR text; not verified against the page image, but the identical sentence appears in three successive reports.]",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Santa Barbara",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "In the twelfth light-house district, embracing the entire Pacific coast, the light-houses at Point Loma, San Diego, Santa Barbara, Point Conception, Farralones, and Cape Hancock, have been completed and lighted.",
+   "establishes": "Santa Barbara completed and lighted by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Santa Barbara",
+   "report_year": "1857",
+   "page": "255",
+   "quote": "no title has been obtained to any site on that coast from individuals or corporations, except at Santa Barbara, where the corporate authorities of the town deeded the necessary land to the United States. ... The Santa Barbara light-house has been finished, and the light exhibited, and also the light authorized at Crescent City.",
+   "establishes": "Santa Barbara was the ONLY California site whose title came from a private/corporate grantor in this period \u2014 the town deeded it. And the light was 'finished, and the light exhibited.' Verified against the page image (leaf n254).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Santa Barbara",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "368 | Santa Barbara | On the point 2 miles south-westerly from Santa Barbara landing, Cal. ... | F. R. | 12 | Gray. | 34 | 180 | [+ 4] | 1856 | ... | RED light. Low brick tower rising from keeper's dwelling.",
+   "establishes": "Board's Light List: Santa Barbara built 1856, fourth order, and originally a RED light 180 feet above the sea. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Santa Barbara",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At Santa Barbara some repairs are required to the cellar, and some slight renovation of plastering. The lens apparatus requires the addition of one or more panels, the present arc of illumination being limited to 180\u00b0, and vessels approaching outside of this angle cannot see the light.",
+   "establishes": "A defect statement: the Santa Barbara lens covered only 180 degrees. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Point Loma (Old)",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "Major Bache lost no time, after his arrival in California, in taking the necessary steps for remodelling the important light-houses at the Farallones, Point Conception, and Point Loma; all of which, it is expected, are lighted by this time.",
+   "establishes": "Point Loma had to be remodelled before lighting; the Board expected it lit by autumn 1855. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Loma (Old)",
+   "report_year": "1856",
+   "page": "603",
+   "quote": "In the twelfth light-house district, embracing the entire Pacific coast, the light-houses at Point Loma, San Diego, Santa Barbara, Point Conception, Farralones, and Cape Hancock, have been completed and lighted.",
+   "establishes": "Point Loma completed and lighted by the FY1856 report. Verified against the page image (leaf n602).",
+   "identifier": "SecTreasAnnReport1856"
+  },
+  {
+   "station": "Point Loma (Old)",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "365 | POINT LOMA | On the west side of the entrance to San Diego bay, Cal. ... | F. | 25 | Dark . | 35 | 457 | [+ 3] | 1855 | ... | Low brick tower rising from keeper's dwelling. Mag. variation 12\u00b0 26' east.",
+   "establishes": "Board's Light List: Point Loma built 1855, third order, light 457 feet above the sea \u2014 the highest light in the United States at that date, and the fact that later doomed it to fog. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1867",
+   "page": "238",
+   "quote": "At Cape Mendocino the necessary examinations were made to select a proper site for the light-house authorized by Congress, and upon approval of the plans and estimates the work was commenced... On the 8th of September, during a fog, the steam tender Shubrick, whilst on her way from San Francisco with materials for the structure, went ashore about thirty miles below Cape Mendocino, and will probably prove a total loss.",
+   "establishes": "Construction begun in 1867 and the loss of the lighthouse tender Shubrick with Cape Mendocino materials, 8 September 1867. One man drowned landing brick. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1869",
+   "page": "480",
+   "quote": "In November everything was ready for the exhibition of the light, and after proper notice it was shown for the first time on the night of December 1, 1868, and this important and very difficult work was considered as completed.",
+   "establishes": "CAPE MENDOCINO FIRST LIGHTED: the night of 1 December 1868. The same passage records that the tower was manufactured in San Francisco, the lantern reached San Francisco February 1868, the lens was shipped 5 August 1868, and everything was landed at Eureka and hauled some forty miles to the cape. Verified against the page image (leaf n517).",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1871",
+   "page": "540",
+   "quote": "401. Cape Mendocino, sea-coast of California. \u2014 The brick dwelling-house at this station was so badly injured by an earthquake on March 2, that it was deemed necessary to pull it down, and erect in its stead a double house of wood.",
+   "establishes": "Earthquake of 2 March 1871 destroyed the Cape Mendocino keepers' dwelling. Verified against the page image (leaf n564).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Cape Mendocino",
+   "report_year": "1873",
+   "page": "670",
+   "quote": "438. Cape Mendocino, sea-coast of California. \u2014 There is a settlement of the ground, caused by an earthquake, in the ravine to the north of the tower, the limits of which are well defined by a continuous crack in the earth. The south line of this crack passes through one end of the cement retaining-wall and within 15 feet of the tower... A suit, Buhne vs. Chism, to eject the light-house keepers at this station \u2014 a suit involving the title to the site \u2014 was decided on the 10th of October in favor of the United States.",
+   "establishes": "Earthquake ground failure within 15 feet of the tower, and the title suit Buhne vs. Chism decided 10 October 1872/73 for the United States. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "A contract was entered into recently, for erecting the light-house at Punta de los Reyes; but the work was not commenced, in consequence of difficulty growing out of a claim to the land selected as the site for the light-house.",
+   "establishes": "The Point Reyes title obstruction begins in FY1855 \u2014 fifteen years before the light was shown. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1868",
+   "page": "388",
+   "quote": "The exorbitant price for a spot valueless for any other purpose, which has been demanded by the owners of the rancho on which the point is situated, has been for several years the sole obstacle in the way of establishing a light-house there.",
+   "establishes": "The Board's explanation for the delay: the rancho owners' price. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1868"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1869",
+   "page": "479",
+   "quote": "Inasmuch as the cost of condemnation would have been nearly if not quite as great, and the delay very considerable, the Board accepted this offer, and a deed has been made, which was approved by the Attorney General of the United States, the deed recorded, and the purchase-money paid; so that after negotiating for fifteen years the United States is in possession of the requisite site at the Point, and landing privileges in Drake's Bay, and the last obstacle to an early beginning of the work removed.",
+   "establishes": "Site finally purchased for $6,000 in United States gold coin after fifteen years of negotiation; $49,288.12 then available for the works, with $45,000 more asked. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1871",
+   "page": "540",
+   "quote": "The work was completed in November, and the Light was exhibited for the first time on the night of December 1, 1870.",
+   "establishes": "POINT REYES FIRST LIGHTED: the night of 1 December 1870. The same page records the iron tower was landed at Drake's Bay and hauled to the top of the bluff on 9 October 1870, then lowered down to the site; and that the steam fog-signal cistern holds 100,000 gallons fed by a 10,000 sq ft water-shed. Verified against the page image (leaf n564).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Point Reyes",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "414. Point Reyes, sea-coast of California. \u2014 An appropriation of $10,000 was made by Congress, approved June 10, 1872, for rebuilding and re-establishing the steam fog-signal station at this point, which was destroyed by fire April 28, 1872.",
+   "establishes": "Point Reyes fog-signal destroyed by fire 28 April 1872; $10,000 for rebuilding. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Pigeon Point",
+   "report_year": "1857",
+   "page": "234",
+   "quote": "two lights have been recommended by interested parties in California, one to mark the seacoast at a point about halfway between Monterey and San Francisco bays, near Anna Nuevo, or Pigeon Point, at an estimated cost of $36,311",
+   "establishes": "First appearance of Pigeon Point / A\u00f1o Nuevo in the Board's reports \u2014 as a recommendation from 'interested parties in California,' estimated at $36,311. Verified against the page image (leaf n233).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "Pigeon Point",
+   "report_year": "1871",
+   "page": "539",
+   "quote": "Pigeon Point, sea-coast of California. \u2014 An appropriation of $90,000 was made March 3, 1871, for the erection of a first-class Light-house and Fog-signal at this point. The structures are to consist of a masonry tower, which is to be one hundred feet high, from base to focal plane. The elevation of the Light above mean sea-level will be one hundred and fifty-eight feet. The keeper's dwelling is to be a double two-story house, built of wood. Work on the above structures was commenced on the 9th of June.",
+   "establishes": "Cost ($90,000, act of 3 March 1871), order (first-class), tower height (100 ft), focal height (158 ft), and start of work (9 June 1871). Verified against the page image (leaf n565 context; the same text appears in the OCR of p. 539).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Pigeon Point",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "A steam fog-whistle has been erected on this point, and has been in operation since September 10, 1871.",
+   "establishes": "Pigeon Point steam fog-whistle in operation from 10 September 1871 \u2014 over a year BEFORE the light. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Pigeon Point",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "429. Pigeon Point, sea-coast of California. \u2014 The work on the light-house at this station was resumed in July, 1872, and completed in October. It was illuminated for the first time on the 15th of November, 1872.",
+   "establishes": "PIGEON POINT FIRST LIGHTED: 15 November 1872. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "A\u00f1o Nuevo",
+   "report_year": "1868",
+   "page": "388",
+   "quote": "Point Ano Nuevo. \u2014 An appropriation has been made, also, for a first-order light at Point Ano Nuevo. The site selected is an island about a quarter of a mile distant from the main land, and has been reserved for light-house purposes by the President of the United States. Nevertheless, the owners of the rancho claim the title to the island to be vested in them.",
+   "establishes": "A first-order LIGHT was appropriated for A\u00f1o Nuevo Island and a presidential reservation made, but title was contested. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1868"
+  },
+  {
+   "station": "A\u00f1o Nuevo",
+   "report_year": "1869",
+   "page": "478",
+   "quote": "it is doubtful which of the two, the island at Point Ano Nuevo, or Pigeon Point, six miles distant, would best subserve the interests of navigation. But both points are upon the same rancho, (Punta del A\u00f1o Nuevo,) and it was not possible to obtain a site at either upon such terms as the Board could agree to.",
+   "establishes": "The Board treated A\u00f1o Nuevo and Pigeon Point as alternatives on the same rancho; the choice of Pigeon Point for the light, and A\u00f1o Nuevo for a fog-signal only, follows from this. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "A\u00f1o Nuevo",
+   "report_year": "1872",
+   "page": "546",
+   "quote": "408. A\u00f1o Nuevo Island, sea-coast of California. \u2014 A steam fog-whistle and keeper's dwelling have been constructed on this island, and it has been in operation since the 29th of May of this year.",
+   "establishes": "WHAT WAS ACTUALLY BUILT at A\u00f1o Nuevo in Era 1: a steam fog-whistle and keeper's dwelling, in operation from 29 May 1872. NO light. A\u00f1o Nuevo appears in every later Era-1 fog-signal list and never in a first-lighting table. Verified against the page image (leaf n571).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "367 | POINT HUENEME | ...... | Authorized.",
+   "establishes": "Point Hueneme was already an authorized but unbuilt station in the 1858 Light List \u2014 sixteen years before it was lit. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1871",
+   "page": "538",
+   "quote": "Point Hueneme, sea-coast of California, east side of southern entrance to Santa Barbara Channel. \u2014 An appropriation of $10,000 is recommended for the erection of a first-class steam Fog-signal at this point, which is directly opposite Anacapa Island. With a first-order Light on the eastern end of Anacapa Island, and a steam Fog-signal on the western extremity of Point Hueneme, the southern approaches to Santa Barbara Channel will be well marked, and the navigation of the waters of that portion of California coast rendered less dangerous.",
+   "establishes": "WHY: the Board's original 1871 scheme was a LIGHT on Anacapa and only a FOG-SIGNAL at Hueneme. The Anacapa light was never built; Hueneme got the light instead. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1872",
+   "page": "546",
+   "quote": "Point Hueneme, Santa Barbara Channel, California. \u2014 An appropriation of $10,000, approved June 10, 1872, has been made for the establishment of a first-class fog-signal at this point.",
+   "establishes": "$10,000 appropriated 10 June 1872 for a fog-signal. Verified against the page image (leaf n571).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "422. Point Hueneme, entrance to the Santa Barbara Channel, California. \u2014 As in the preceding case proceedings of condemnation of the site selected and surveyed are still progressing. An appropriation, made June 10, 1872, of $22,000, is available for constructing a light-house at this locality.",
+   "establishes": "By 1873 the project had become a LIGHT-HOUSE with $22,000 available (act of 10 June 1872). Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "Point Hueneme",
+   "report_year": "1875",
+   "page": "789",
+   "quote": "435. Point Hueneme, sea-coast of California. \u2014 The light at this station was exhibited for the first time on the evening of December 15, 1874. Plenty of water for irrigation is had from the artesian well on the reservation. It is important that a steam fog-signal should be established here. The numerous passenger and other steamers, in going up and down the coast, pass inside Anacapa Island, and very near the coast, which here makes a considerable elbow. The land at this point is quite low, and is so for ten miles inland, so that it is difficult to see it if there is any fog.",
+   "establishes": "POINT HUENEME FIRST LIGHTED: the evening of 15 December 1874 \u2014 and the Board's own statement of why the point is dangerous. Corroborated by the report's own table, p. 730: 'Point Hueneme | On the main-land, at the eastern entrance to the Santa Barbara Channel. | December 15, 1874.' Both verified against the page images (leaves n845 and n786).",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "Point Fermin",
+   "report_year": "1858",
+   "page": "482-483",
+   "quote": "366 | San Pedro | On Point Fermin | ...... | Authorized.",
+   "establishes": "The Board carried 'San Pedro ... On Point Fermin' as an authorized but unbuilt station from 1858 \u2014 sixteen years before lighting. Verified against the page images (leaves n481, n482).",
+   "identifier": "SecTreasAnnReport1858"
+  },
+  {
+   "station": "Point Fermin",
+   "report_year": "1871",
+   "page": "538",
+   "quote": "Point Fermin, sea-coast of California, near entrance to San Pedro Harbor. \u2014 An appropriation of $25,000 is recommended to establish a fourth-order Light-house and a steam Fog-signal at this point to mark the approaches of San Pedro Harbor... The number of vessels navigating near the southern coast of California, between there and San Diego, and passing through the Santa Barbara Channel, has been greatly increased within the last two years. All Coast steamers stop at San Pedro, near Wilmington, the port of Los Angeles, and a Light-house and Fog-signal, as guides to the entrance of the harbor, are of great importance.",
+   "establishes": "WHY POINT FERMIN WAS BUILT, in the Board's own words: the growth of the San Pedro / Wilmington / Los Angeles coastal steamer trade. Order recommended: fourth. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Point Fermin",
+   "report_year": "1874",
+   "page": "679-680",
+   "quote": "432. Point Fermin, coast of California. \u2014 An appropriation of $20,000 was made June 10, 1872, for the purpose of erecting at this station a fourth-order light house. As it was found impossible to secure the proper site from the owners (several being minor heirs) by purchase, it was found expedient to secure the same by condemnation under the laws of this State. Suit was accordingly brought for that purpose, which terminated favorably to the United States on the 4th day of November, 1873. The plans for the structure having been prepared, on the 21st of February of this year the work was commenced.",
+   "establishes": "Appropriation $20,000 (10 June 1872), condemnation judgment 4 November 1873, construction begun 21 February 1874. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Point Fermin",
+   "report_year": "1875",
+   "page": "789",
+   "quote": "434. Point Fermin, sea-coast of California. \u2014 The light at this station was exhibited for the first time on the evening of December 15th, 1874. It is recommended that an appropriation of $300 be made for the purchase of additional land at this station.",
+   "establishes": "POINT FERMIN FIRST LIGHTED: the evening of 15 December 1874 \u2014 the same evening as Point Hueneme. Corroborated by the report's own table, p. 730: 'Point Fermin | On west side of entrance to San Pedro Bay, Cal. | December 15, 1874.' Both verified against the page images (leaves n845 and n786).",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "Piedras Blancas",
+   "report_year": "1871",
+   "page": "538-539",
+   "quote": "Piedras Blancas, sea-coast of California. \u2014 This point is about midway between Point Conception and Point Pinos Light-houses, distant one hundred and fifty miles from each other. But Point Pinos is only a harbor Light, and the coasting steamers take their departure from Piedras Blancas, and keep so far out that Point Pinos Light is not seen, and it may be considered that there is no sea-coast Light between Point Conception and Pigeon Point, which are nearly two hundred miles distant. An appropriation of $75,000 is submitted for the erection of a first-order Light and Fog-signal at Piedras Blancas.",
+   "establishes": "WHY PIEDRAS BLANCAS WAS BUILT, in the Board's own words: a two-hundred-mile dark stretch of sea-coast. Cost sought: $75,000, first order. [OCR text; not verified against the page image; the $75,000 figure is independently confirmed on 1872 p. 546 and 1873 p. 669, both image-verified.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Piedras Blancas",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "425. Piedras Blancas, sea-coast of California. \u2014 An appropriation, made June 10, 1872, of $75,000, is available for a first-order light and fog-signal at this point. A detailed survey during the early part of this year was made, and a map prepared of the locality; the height of which differing from previous information of the Board, necessitated a change in the design, which was published in the last annual report of the Board.",
+   "establishes": "$75,000 appropriated 10 June 1872; first order; design changed after survey. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "Piedras Blancas",
+   "report_year": "1875",
+   "page": "790",
+   "quote": "438. Piedras Blancas, sea-coast of California. \u2014 The tower at this station was completed and the light put in operation on February 15th, 1875, the keepers being accommodated in the shanties built for use of the mechanics and laborers.",
+   "establishes": "PIEDRAS BLANCAS FIRST LIGHTED: 15 February 1875 per the narrative. \u26a0 THE SAME REPORT CONTRADICTS ITSELF: its table on p. 730 reads 'Piedras Blancas | On the point northwest of the entrance to San Simeon Bay, Cal. | February 1, 1875.' Both pages verified against the page images (leaves n846 and n786). The 1875 report gives two different first-lighting dates for this station two weeks apart.",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1857",
+   "page": "234",
+   "quote": "and the other on the southern end of Mare island, to aid vessels passing through the straits of Carquines and San Pablo bay, and mainly to serve as a guide to the navy yard at Benicia \u2014 estimated cost, $9,989.",
+   "establishes": "THE EARLIEST BOARD RECORD OF A PROPOSED MARE ISLAND LIGHT, seventeen years before it was lit: one of only three new lights the Board thought still needed anywhere in the United States in 1857. WHY IT WAS WANTED, in the Board's own words: to guide vessels through Carquinez Strait and San Pablo Bay, and 'mainly to serve as a guide to the navy yard' \u2014 which the Board here calls 'the navy yard at Benicia.' Estimated cost $9,989. Verified against the page image (leaf n233).",
+   "identifier": "SecTreasAnnReport1857"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "Straits of Carquinez, California, between the Bay of San Pablo and Suisun Bay. \u2014 An appropriation was made for the erection of a light-house on Mare Island; but as that location was not suited to the wants of navigation, the money was turned into the treasury, and a re-appropriation is submitted on the estimates for this point as the proper one.",
+   "establishes": "A FIRST MARE ISLAND APPROPRIATION WAS MADE AND THEN LOST \u2014 the Board judged the location unsuitable and let the money revert. Note the Board's reversal: in 1870 Mare Island is 'not suited,' in 1872 it orders the light placed on the southern end of Mare Island. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1871",
+   "page": "539",
+   "quote": "Mare Island, entrance to the straits of Carquines, California. \u2014 An appropriation of $10,000 is recommended for the erection of a fifth-order Light at this point, to mark the approaches to Carquines Straits. The erection of a Light-house at this point has been strongly urged for many years.",
+   "establishes": "ORDER OF LENS SOUGHT: fifth order. Cost sought: $10,000. And the Board's own acknowledgment that Mare Island had been 'strongly urged for many years' \u2014 consistent with its own 1857 recommendation. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "Entrance to the Straits of Karquines, California. \u2014 An appropriation of $20,000, approved June 10, 1872, was made for the erection of a light-house and fog-signal to mark the entrance to the Straits of Karquines. A site on the southern shore, opposite Mare Island, having been recommended by the local officers and others, surveys were made there, but none suitable was found, and the engineer of the district has been ordered to locate the light on the southern end of Mare Island.",
+   "establishes": "THE DECISION. Appropriation $20,000, approved 10 June 1872, for a light-house AND fog-signal. The Board first surveyed the SOUTHERN (Contra Costa) shore opposite Mare Island, found nothing suitable, and then ordered the light onto the southern end of Mare Island itself. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "435. Mare Island, entrance to Straits of Karquines. \u2014 The light-house of this station was completed by the 15th of July, although it was not quite ready for lighting at that date. An attempt was made to obtain water by digging a well, but without success. The point south of the dwelling was cut down and graded, a retaining-wall, built of rock to above high-water mark, forming a plateau for fog-signal. Inclines have been constructed from this plateau and from the plane of the dwelling to the boat-landing; windlasses, provided with turn-table and car, were set up on each. The erection of the necessary building for the fog-bell, and the sinking of a well for the weight of the machinery, still remains to be done.",
+   "establishes": "THE COMPLETION STATEMENT. Light-house completed by 15 July 1873 but not yet ready to light; no water obtainable from a well; the point south of the dwelling cut down and walled to make a fog-signal plateau; two inclines with windlasses, turn-table and car down to the boat-landing. THE KEEPER'S DWELLING is referred to as already standing. THE FOG-BELL house and the weight-well for its machinery were still unbuilt at the date of this report. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND \u2014 FIRST LIGHTING",
+   "report_year": "1874",
+   "page": "618",
+   "quote": "Mare Island | Extreme eastern end of Mare Island, at entrance from San Pablo Bay to the Straits of Karquines, California | September 1, 1873.",
+   "establishes": "MARE ISLAND LIGHT FIRST LIGHTED: 1 SEPTEMBER 1873. From the Board's table 'List of light-houses finished and lighted between July 1, 1873, and July 1, 1874.' \u26a0 Note the Board's own locative here is 'Extreme EASTERN end of Mare Island' \u2014 which contradicts its 1872 order to place the light on the 'southern end.' VERIFIED against the page image (leaf n668) precisely because the OCR of this table is column-scrambled and unusable; the printed table is unambiguous.",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND \u2014 FOG BELL",
+   "report_year": "1874",
+   "page": "682",
+   "quote": "448. Mare Island, Strait of Karquines, California. \u2014 The fog-bell and machinery formerly in use at Point Bonita light-station has been removed to this station, where a suitable house has been built for it.",
+   "establishes": "THE FOG-BELL. Mare Island's fog-bell was NOT new: it is the bell and striking machinery taken out of Point Bonita (displaced there by the first-order steam siren put in operation 29 May 1872), rehoused on Mare Island during the year ending 30 June 1874. Verified against the page image (leaf n732).",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND",
+   "report_year": "1875",
+   "page": "791",
+   "quote": "450. Mare Island, Straits of Karquines, California. \u2014 Repairs have been made at this station, consisting of a strong stone sea-wall to protect the fog-bell tower. The foundation of this tower needs strengthening; this work will be done as soon as practicable.",
+   "establishes": "Within a year of its removal from Point Bonita the Mare Island fog-bell tower already needed a stone sea-wall and foundation strengthening. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "\u2b50 MARE ISLAND \u2014 depot",
+   "report_year": "1872",
+   "page": "548",
+   "quote": "Yerba Buena Island, Harbor of San Francisco, California. \u2014 A selection of a site for a buoy depot, to serve instead of the present inconvenient depot at Mare Island, has been made on the eastern side of the island of Yerba Buena.",
+   "establishes": "Mare Island had been the Twelfth District's buoy depot before Yerba Buena replaced it. Corroborated by the 1870 report p. 396: 'The principal station for keeping spare buoys is at Mare Island.' [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "East Brother",
+   "report_year": "1873",
+   "page": "669",
+   "quote": "434. East Brother Island, San Pablo Bay, California, opposite Point San Pablo. \u2014 In consequence of the apparent increasing litigation to gain possession of a site on the main-land for light-house purposes, an examination was made of the East Brother Island to ascertain if it would be a suitable locality. A special report was made by the district officers in regard to its advantages, and the selection was approved by the Board. Proposals were invited for building a light-house and a fog-signal building; for making the necessary excavations, and executing the grading; also, for building a retaining-wall. The lowest bid was accepted, and the work was commenced near the end of July.",
+   "establishes": "WHY EAST BROTHER EXISTS: the Board could not get a mainland site at Point San Pablo because of litigation, so it moved the station onto the island. Work begun late July 1873. Verified against the page image (leaf n710).",
+   "identifier": "SecTreasAnnReport1873"
+  },
+  {
+   "station": "East Brother \u2014 FIRST LIGHTING",
+   "report_year": "1874",
+   "page": "682",
+   "quote": "447. East Brother Island light-station, off Point San Pablo, and the straits separating San Francisco and San Pablo Bays. \u2014 An appropriation of $30,000 was made by Congress March 3, 1873, \"for a light-house and steam fog-signal at Point San Pablo, California.\" In consequence of the litigation necessary to obtain a site on the mainland, it was determined to erect the light-house and fog-signal structures on East Brother Island, which is immediately opposite and about a quarter of a mile distant from Point San Pablo. A contract was made to blast off the top of the rock, build a sustaining-wall around the same, and erect the light-house and fog-signal. They were completed in February and the light was exhibited for the first time on the evening of 1st of March of this year. A subsequent contract was made for building the cistern, water-shed, wharf, tramway, and out-houses. This contract was completed in April and the steam fog-signal was put in operation on May 1st of this year.",
+   "establishes": "EAST BROTHER FIRST LIGHTED: the evening of 1 MARCH 1874; steam fog-signal in operation 1 MAY 1874; cost $30,000 under the act of 3 March 1873, appropriated for 'Point San Pablo' and spent on East Brother Island. Corroborated by the same report's table, p. 618: 'East Brother Island | On East Brother Island, off Point San Pablo, California | March 1, 1874.' BOTH verified against the page images (leaves n732 and n668).",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "East Brother",
+   "report_year": "1876",
+   "page": "794",
+   "quote": "461. East Brother Island, in straits connecting San Francisco and San Pablo Bays, California. \u2014 Considerable repairs and renovations have been made to the light-house and fog-signal structures and machinery during the past year. The wharf has been strengthened by driving six piles, and thoroughly binding them together with 12-inch by 12 inch timbers, and iron straps and bolts. A truss bridge from the wharf to the bluff of the island, and a new boat-house, have also been built. The wharf is now 3 feet higher, and is so strengthened as to withstand any ordinary storm.",
+   "establishes": "Storm damage and reconstruction of the East Brother wharf and landing, 1875-76. Verified against the page image (leaf n834).",
+   "identifier": "SecTreasAnnReport1876"
+  },
+  {
+   "station": "Yerba Buena Island",
+   "report_year": "1874",
+   "page": "682",
+   "quote": "446. Yerba Buena, San Francisco Bay, California. \u2014 The fog-bell recently in use at Point Conception light-station, California, has been put in position here, and is operated by a Stevens clock apparatus. Congress at its last session made an appropriation of $10,000 for the establishment of a light-house and fog-signal on the southeastern extremity of this island; an examination for the purpose of selecting a proper site for the light-house has been made.",
+   "establishes": "Yerba Buena's first aid was a fog-bell cast off from Point Conception, on Stevens clock machinery; $10,000 then appropriated for a light-house and fog-signal on the southeastern extremity. Verified against the page image (leaf n732).",
+   "identifier": "SecTreasAnnReport1874"
+  },
+  {
+   "station": "Yerba Buena Island",
+   "report_year": "1875",
+   "page": "791",
+   "quote": "448. Yerba Buena Island, San Francisco Harbor, California. \u2014 The keeper's dwelling and tower have been completed, excepting the putting up of the lantern and illuminating apparatus. When the apparatus is received it will be immediately put in place on the tower. The lens formerly in use at Yaquina light-station, Oregon, will be used at this station, and the light can be exhibited on or about the 15th of September. Congress, at its last session, appropriated $5,000 for establishing a steam fog-signal at this station. The work was commenced in June, and is nearly completed. The signal will be put in operation on the 1st of October.",
+   "establishes": "ORDER/PROVENANCE OF THE LENS: the Yerba Buena light used the lens taken from the discontinued Yaquina Bay light-station, Oregon (discontinued 1 October 1874 per the 1875 report's own table, p. 730). The Board expected to light on or about 15 September 1875 \u2014 the actual date was 1 October. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1875"
+  },
+  {
+   "station": "Yerba Buena Island \u2014 FIRST LIGHTING",
+   "report_year": "1876",
+   "page": "749",
+   "quote": "Yerba Buena | On southeastern extremity of Yerba Buena Island, San Francisco Bay, California. | October 1, 1875.",
+   "establishes": "YERBA BUENA LIGHT FIRST LIGHTED: 1 OCTOBER 1875. From the Board's table 'List of light-houses finished and lighted between July 1, 1875, and June 30, 1876.' VERIFIED against the page image (leaf n789).",
+   "identifier": "SecTreasAnnReport1876"
+  },
+  {
+   "station": "Yerba Buena Island",
+   "report_year": "1876",
+   "page": "794",
+   "quote": "460. Yerba Buena Island, San Francisco Bay, California. \u2014 The steam fog-signal mentioned in the last annual report as being nearly completed was put in operation October 1, 1875.",
+   "establishes": "The steam fog-signal (a 10-inch steam-whistle, per the same report's fog-signal list) was put in operation on the SAME DAY as the light, 1 October 1875. Verified against the page image (leaf n834).",
+   "identifier": "SecTreasAnnReport1876"
+  },
+  {
+   "station": "Trinidad Head",
+   "report_year": "1871",
+   "page": "541",
+   "quote": "Trinidad Head, sea-coast of California. \u2014 An appropriation for the erection of a Light-house at Trinidad Head was approved June 20, 1860, but nothing was done toward building the structures until February of this year. The materials were purchased and the work commenced in June, and the work is now progressing favorably. The Light will be of the fourth order, fixed, varied by red flashes, and will be shown from a low, square, brick tower.",
+   "establishes": "The Trinidad Head appropriation dated from 20 JUNE 1860 and lay unused for eleven years \u2014 the Civil War gap made visible. Order: fourth; character: fixed varied by red flashes. Verified against the page image (leaf n565).",
+   "identifier": "SecTreasAnnReport1871"
+  },
+  {
+   "station": "Trinidad Head \u2014 FIRST LIGHTING",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "418. Trinidad Head, sea-coast of California. \u2014 On the night of December 1, 1871, a fourth-order light of the system of Fresnel was exhibited for the first time from the tower built on the southern slope of Trinidad Head. The structures built consist of a pyramidal tower on a square base, 18 feet high from the ground-line to focal plane; a dwelling for the keeper, and a cistern.",
+   "establishes": "TRINIDAD HEAD FIRST LIGHTED: the night of 1 DECEMBER 1871, fourth-order Fresnel, from a pyramidal tower on a square base only 18 feet from ground-line to focal plane. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Point Arena",
+   "report_year": "1867",
+   "page": "238",
+   "quote": "At Point Arena and Point Reyes examinations have been made with a view to determine the proper sites for light-houses authorized by Congress, and no time will be lost in securing the establishment of proper lights at the earliest practicable day.",
+   "establishes": "Site examinations for Point Arena and Point Reyes under way in FY1867. [OCR text; not verified against the page image.]",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Point Arena",
+   "report_year": "1869",
+   "page": "479-480",
+   "quote": "The exact site selected for the tower is three hundred and seventy feet from the extremity of the point, and that for the dwelling is fifty feet in rear of the tower. On July 30, last, the workmen with all the necessary tools, together with a quantity of cement and lime, reached the Point. ... A contract has been made for furnishing five hundred thousand bricks to be made on the ground. The first kiln was burnt in the spring of this year, but upon inspection were found not to be up to the prescribed standard, and were therefore rejected.",
+   "establishes": "Construction detail and cost drivers: 500,000 bricks burned on site (first kiln rejected), 114,000 selected face bricks shipped from San Francisco, and transport at $10.50 in gold per ton from San Francisco to the site. [OCR text; not verified against the page image; the adjoining p. 480 was image-verified.]",
+   "identifier": "SecTreasAnnReport1869"
+  },
+  {
+   "station": "Point Arena \u2014 FIRST LIGHTING",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "366. Point Arena, sea-coast of California. \u2014 The works at this station were commenced September 30, 1869, and completed the following April. The light was exhibited for the first time, May 1, 1870. The apparatus is of the first order, fixed in a tower 100 feet high from base, and the height of the light above the mean level of the sea 150 feet.",
+   "establishes": "POINT ARENA FIRST LIGHTED: 1 MAY 1870. Works begun 30 September 1869, completed the following April. FIRST ORDER, fixed; tower 100 feet, focal plane 150 feet above mean sea level. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  },
+  {
+   "station": "Point Arena",
+   "report_year": "1872",
+   "page": "547",
+   "quote": "415. Point Arena, sea-coast of California. \u2014 Since the last annual report a steam fog-whistle has been constructed, and was put in operation November 25, 1871.",
+   "establishes": "Point Arena steam fog-whistle in operation 25 November 1871. Verified against the page image (leaf n572).",
+   "identifier": "SecTreasAnnReport1872"
+  },
+  {
+   "station": "Santa Cruz (not on your list, captured incidentally)",
+   "report_year": "1870",
+   "page": "394",
+   "quote": "361. Santa Cruz, California, entrance to Santa Cruz Harbor. \u2014 This light-station was established during the last year.",
+   "establishes": "Santa Cruz established in the year ending 30 June 1870. Included because it sits between Point Pinos and A\u00f1o Nuevo in the same numbered sequence and is easily confused with them. Verified against the page image (leaf n444).",
+   "identifier": "SecTreasAnnReport1870"
+  },
+  {
+   "station": "Twelfth District (context for all California stations)",
+   "report_year": "1867",
+   "page": "237",
+   "quote": "At the date of the last annual report this district comprised the entire Pacific coast of the United States, but upon the recommendation of the board, the honorable Secretary of the Treasury authorized the division of that coast into two districts, the 41st parallel of latitude being the line of separation, and which division was carried into effect on the 1st of July, 1867.",
+   "establishes": "Before 1 July 1867 the Twelfth District was the WHOLE Pacific coast (California, Oregon, Washington); after that date it is California only. Any Era-1 'twelfth district' citation must be read against this date. Verified against the page image (leaf n302).",
+   "identifier": "SecTreasAnnReport1867"
+  },
+  {
+   "station": "Pacific coast programme (context)",
+   "report_year": "1855",
+   "page": "269",
+   "quote": "The contract made by the Treasury Department, in 1851, for building eight light-houses on the Pacific coast, has proved a fruitful source of difficulty, delay, and expense. ... after the structures had been erected according to the terms of the contract, (as certified by the officers charged with their inspection,) and the lanterns and illuminating apparatus had arrived at San Francisco, it was found that no attention had been paid to the dimensions of the towers in constructing the lanterns; and as a consequence, all of the towers except two have either been taken down and rebuilt entirely, or remodelled at a considerable expense, for the purpose of adapting them to the lanterns and apparatus.",
+   "establishes": "THE SINGLE MOST IMPORTANT EXPLANATORY PASSAGE FOR THE 1853-1856 CALIFORNIA LIGHTING DATES: the eight 1851-contract towers (Alcatraz, Battery/Fort Point, Farallones, Humboldt, Point Loma, Point Pinos, Point Conception, Santa Barbara and the northern ones) were finished before lanterns that did not fit them, and all but two had to be rebuilt or remodelled. This is why 'tower completed' (1853) and 'light exhibited' (1854-1856) are years apart. Verified against the page image (leaf n268).",
+   "identifier": "SecTreasAnnReport1855"
+  }
+ ],
+ "not_found": "NULLS \u2014 things searched for and NOT found in the volumes obtained.\n\n1. \u2b50 NO BOARD STATEMENT THAT ALCATRAZ WAS THE FIRST LIGHTHOUSE ON THE PACIFIC COAST. I ran a phrase search for \"first light-house on the Pacific\", \"first light on the Pacific\" and equivalents across the full OCR of all 25 volumes (1852-1876): ZERO hits. The Board never makes the claim.\n\n2. \u2b50 NO BOARD STATEMENT OF ALCATRAZ'S FIRST-LIGHTING DATE ANYWHERE IN ERA 1. I swept every occurrence of \"Alcatra*\" in every volume 1852-1876. Alcatraz appears in: the 1852 appropriation table; the 1853 completion-of-towers sentence and the \"no competent persons to set up the apparatus\" sentence; the 1855 and 1856 fog-bell sentences; the 1858 Light List (\"When built 1854\"); repairs notices in 1867, 1868, 1870, 1873, 1874, 1875; and nothing else. There is no \"exhibited for the first time\" sentence for Alcatraz in any of these volumes. The reason is structural: the FY1854 Treasury volume \u2014 the one that would have carried it \u2014 contains no station-by-station California narrative at all (see gaps). WHAT THE BOARD'S OWN EVIDENCE DOES SUPPORT: (a) there were no lights on the Pacific coast when the Board took charge in October 1852 (1857, p. 229); (b) the Board's Light List dates BOTH Alcatraz and Point Pinos to 1854 and every other California station to 1855 or later (1858, pp. 482-483); (c) the only California light the Board ever explicitly says was \"exhibited in 1854\" is POINT PINOS (1870, p. 394). On the Board's own record, Alcatraz and Point Pinos are tied at 1854, and the explicit exhibition statement belongs to Point Pinos. The \"Alcatraz was first\" claim cannot be sourced to the Light-House Board in this era.\n\n3. NO LIGHT AT A\u00d1O NUEVO IN ERA 1. The Board records only a steam fog-whistle and keeper's dwelling on A\u00f1o Nuevo Island, in operation from 29 May 1872. A\u00f1o Nuevo appears in every subsequent Era-1 fog-signal list and never in a \"finished and lighted\" table. A first-order light was appropriated for it in the 1860s (1868, p. 388) but was diverted to Pigeon Point.\n\n4. NO ABANDONMENT OF HUMBOLDT HARBOR IN ERA 1. The station is alive and being repaired in the last volume obtained (1875, p. 792; 1876). The Board's INTENTION to move the light to Table Bluff is stated in 1867 (p. 237) and is the earliest trace of what became the abandonment, but the act itself falls after 1876.\n\n5. NO \"BATTERY POINT\" AT CRESCENT CITY. Every one of the Board's Era-1 uses of \"Battery Point\" (1852 pp. 80, 95; 1853 pp. 192, 197, 200; 1858 p. 482) refers to the San Francisco fort site that became Fort Point. The Crescent City station is always named \"Crescent City.\" Anyone citing an Era-1 \"Battery Point\" entry as Crescent City is citing the wrong coast.\n\n6. NO ERA-1 DISCUSSION OF POINT LOMA'S FOG PROBLEM. Point Loma appears only in construction (1855-1856), the Light List (1858, 457 feet above the sea), and routine repairs (1867, 1869, 1870, 1873, 1874, 1875, 1876). The Board never says in these volumes that the old light was too high to be seen \u2014 that argument postdates the volumes obtained. (Contrast Point Bonita, where the Board DOES make exactly that argument in 1875, p. 791.)\n\n7. NO DAY-DATE FIRST LIGHTINGS for the 1853-1857 cohort. For Alcatraz, Point Pinos, Fort Point, Point Bonita, Farallon, Point Conception, Point Loma, Santa Barbara, Humboldt and Crescent City the Board gives only year-level or season-level statements (\"completed and lighted\", \"the light exhibited\", \"will be exhibited about the first of November\", and the Light List's \"When built\" year). Exact day-dates in the Board's own text begin with Cape Mendocino (1 December 1868) and run continuously thereafter, because the Board only began printing the annual \"List of light-houses finished and lighted\" table in the late 1860s.\n\n8. Not searched for / not found: Point Sur, Anacapa, Point Montara and Point Saint George are discussed in Era 1 as proposed stations only; St. George Reef was still merely \"asked to commence the work\" at $50,000 in 1874, 1875 and 1876.",
+ "gaps": "WHAT I OBTAINED, AND WHAT IS STILL MISSING.\n\nOBTAINED \u2014 the complete run, FY1852 through FY1876, 25 volumes, as the FRASER (Federal Reserve Bank of St. Louis) scans of the \"Annual Report of the Secretary of the Treasury on the State of the Finances,\" in which the Light-House Board's annual report is printed:\nSecTreasAnnReport1852 \u2026 SecTreasAnnReport1876 on the Internet Archive (https://archive.org/details/SecTreasAnnReport18NN). Every OCR file was downloaded fresh from archive.org and md5-checked against a second copy; the 1875 file required a retry (first fetch returned a 170-byte error page \u2014 worth knowing, since a silent truncation there would have cost the whole Point Fermin/Hueneme/Piedras Blancas cohort). Page images were pulled through the BookReader JPEG API and 21 separate pages were read as images to verify the quotations that carry dates; the FY1874 p. 618 and FY1875 p. 730 and FY1876 p. 749 tables in particular are USELESS in OCR (the columns interleave) and were only readable as images. Any date taken from those tables by OCR alone would have been wrong.\n\n\u26a0 GAP 1 \u2014 THE FY1854 REPORT HAS NO CALIFORNIA STATION NARRATIVE. The Light-House Board's report is in the volume (roughly pp. 285-347) but for the Pacific coast it says only: \"In the twelfth district, embracing the entire Pacific coast of the United States, the light-house structures under contract are reported completed, or that they would be completed in a short time\" (p. 291), plus Table A remarks. There is no per-station text. This is precisely the year in which an Alcatraz first-lighting statement would have appeared. To close this gap one would need the separately printed FY1854 Light-House Board report in the Congressional Serial Set (33d Congress, 2d session), which I could not locate as a downloadable full-text item.\n\n\u26a0 GAP 2 \u2014 FY1859 THROUGH FY1865 CARRY ONLY A PARAGRAPH. In these seven volumes the twelfth-district entry runs from one sentence (\"the light-houses are all in good order,\" 1859, and similar in 1860, 1862, 1864, 1865) to a single short paragraph (1863, p. 159, which is nevertheless where the Fort Point relocation is recorded). FY1861 and FY1865 contain a Light-House Board report with no California content at all. The full station-by-station Board reports for these years were printed separately in the Serial Set and are not in the Treasury volumes. Anything that happened at a California station between 1859 and 1865 \u2014 keeper changes, storm damage, apparatus changes \u2014 is invisible in what I obtained.\n\n\u26a0 GAP 3 \u2014 OCR QUALITY. These are Google-era scans of nineteenth-century type with heavy double-spacing and frequent letter substitution (\"Point Permin\" for Point Fermin, \"Yerha Buena\" for Yerba Buena, \"Alcatras\" for Alcatraz, \"Karquines\"/\"Carquines\"/\"Carquinez\" all appearing in the Board's own spelling as well). Every quotation above that carries a date and is marked \"Verified against the page image\" was transcribed from the page image, not the OCR. Quotations marked \"[OCR text; not verified against the page image]\" should be re-checked against the image before being quoted in print; I judged them safe to report because their substance is corroborated elsewhere, but their exact punctuation may differ.\n\nSOURCES THAT FAILED:\n- Google Books API: quota exhausted on the first call (HTTP 429, \"Quota exceeded \u2026 Queries per day\"). Unusable this session.\n- The six IA items titled \"Annual report of the Light-House Board of the United States to the Secretary of the Treasury\" (annualreportlig00statgoog, 01statgoog, 02statgoog, 03statgoog, 04statgoog, 00boargoog, 01boargoog) are ALL Era 2/3 \u2014 their metadata \"date 1852\" is the series start date, not the volume date; the actual volumes are 1891, 1893, 1895, 1896, 1899, 1900. They are useless for Era 1 and are a trap for anyone searching IA by title.\n- IA full-text search endpoints ia-fts.archive.org and the beta scrape endpoint both returned 404/empty. The WORKING per-item search-inside endpoint, which is what made the image verification possible, is: https://{server}/fulltext/inside.php?item_id={id}&doc={id}&path={dir}&q={term} \u2014 it returns a \"page\" number per hit that is the ZERO-BASED LEAF INDEX usable directly as page=n{N} in BookReaderImages.php. Note that SecTreasAnnReport1858 (and several others) have NO pageNum data in BookReaderJSIA, so printed-page lookup fails and only the leaf route works.\n- NOAA Central Library rescue scans: probed, nothing for the Light-House Board.\n- WebSearch: not used (quota assumed exhausted per instructions).\n\nINTERNAL CONTRADICTIONS FOUND IN THE BOARD'S OWN TEXT (flagging these so they are not smoothed over):\n(a) PIEDRAS BLANCAS \u2014 the FY1875 report gives two first-lighting dates: 1 February 1875 in its table (p. 730) and 15 February 1875 in its narrative (p. 790). Both image-verified.\n(b) MARE ISLAND \u2014 the FY1872 report orders the light placed on \"the southern end of Mare Island\" (p. 547); the FY1874 table locates it at the \"Extreme eastern end of Mare Island\" (p. 618). Both image-verified.\n(c) YERBA BUENA \u2014 the FY1875 report expected the light \"on or about the 15th of September\" (p. 791); the FY1876 table gives 1 October 1875 (p. 749).\n(d) POINT HUENEME \u2014 $10,000 for a FOG-SIGNAL under the act of 10 June 1872 (1872, p. 546) versus $22,000 for a LIGHT-HOUSE under the same act date (1873, p. 669). Either two appropriations or a revision; the Board does not explain.\n(e) FARALLON / POINT LOMA / POINT CONCEPTION \u2014 the FY1855 report says they were expected to be \"lighted by this time\" (p. 269, autumn 1855) while the FY1856 report reports them \"completed and lighted\" (p. 603) and the 1858 Light List dates Farallon and Point Conception and Point Loma to 1855. Treat 1855 as the build year and autumn 1855-1856 as the lighting window; do not assert a month."
+}
