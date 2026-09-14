@@ -50,8 +50,8 @@
  },
  "trinidad": {
   "url": "../assets/photos/lumber-ports/trinidad.jpg",
-  "credit": "Cal Poly Humboldt Library Special Collections, Boyle Photograph Collection — \"Trinidad wharf with steamer Emily loading passengers,\" photo by A.W. Ericson, 1893",
-  "date": "1893",
+  "credit": "Cal Poly Humboldt Library Special Collections, Boyle Photograph Collection — \"Trinidad wharf with steamer Emily loading passengers,\" attributed to A.W. Ericson",
+  "date": "c. 1893",
   "rights": "public domain (A.W. Ericson photograph, 1893)",
   "modern": false
  },
@@ -92,7 +92,7 @@
  },
  "santa-cruz-wharves": {
   "url": "../assets/photos/lumber-ports/santa-cruz-wharves.jpg",
-  "credit": "George R. Lawrence, panoramic (kite) photograph \"Santa Cruz, California,\" c. 1906 — Library of Congress, Panoramic Photographs Collection",
+  "credit": "Geo. R. Lawrence Co., panoramic photograph \"Santa Cruz, California,\" copyright 1906 — Library of Congress, Panoramic Photographs Collection",
   "date": "c. 1906",
   "rights": "public domain (LOC: no known restrictions; pre-1930)",
   "modern": false
@@ -148,7 +148,7 @@
  },
  "st-george-reef-lighthouse": {
   "url": "../assets/photos/lumber-ports/st-george-reef-lighthouse.jpg",
-  "credit": "St. George Reef Lighthouse under construction, 1884 — Library of Congress (attrib. Paul J. Pelz)",
+  "credit": "Construction-era plate (engraving, not a photograph): 'St. George's Reef Light Station' — view from the SW showing the rock and the cableway landing men from the schooner La Ninfa, c.1880s",
   "date": "1884",
   "rights": "public domain (1884; Library of Congress)",
   "modern": false
@@ -197,15 +197,15 @@
  },
  "westport-landing": {
   "url": "../assets/photos/lumber-ports/westport-landing.jpg",
-  "credit": "mendorailhistory.org (defunct), 'The first chute at Westport' (built 1877); postcard inscribed 'The Old Wharf, Westport, Mendocino Co., Cal.', via Wayback Machine",
+  "credit": "mendorailhistory.org (defunct), 'The first chute at Westport'; postcard inscribed 'The Old Wharf, Westport, Mendocino Co., Cal.', via Wayback Machine (MPDF: the first chute was Lloyd Beall's, 1860s; Rodgers arrived 1878)",
   "date": "undated, ca. 1890s-1910s",
   "rights": "underlying photo public domain (pre-1930 US); hotlink via Wayback",
   "modern": false
  },
  "kibesilah-landing": {
   "url": "../assets/photos/lumber-ports/kibesilah-landing.jpg",
-  "credit": "Kelley House Museum, Mendocino ('The Fate of Kibesillah' blog post)",
-  "date": "ca. 1870s-early 1880s (town declined after 1885)",
+  "credit": "Kelley House Museum, Mendocino — 'Village of Kibesillah in 1879' ('The Fate of Kibesillah' blog post)",
+  "date": "1879 (Kelley House caption)",
   "rights": "public domain (pre-1930 US photo); courtesy Kelley House Museum — credit them",
   "modern": false
  },
@@ -218,8 +218,8 @@
  },
  "laguna-landing": {
   "url": "../assets/photos/lumber-ports/laguna-landing.jpg",
-  "credit": "mendorailhistory.org (defunct), 'Loading chute at Cleone Point', via Wayback Machine",
-  "date": "ca. 1888-1904 (wharf/chute rights granted 1888)",
+  "credit": "mendorailhistory.org (defunct), 'Loading chute at Cleone Point', via Wayback Machine (MPDF: Dwelly brothers' pier 1883; wire chute after 1886; landing ran to c.1920)",
+  "date": "undated, ca. 1883-1923",
   "rights": "public domain (pre-1930 US); hotlink via Wayback",
   "modern": false
  },
@@ -267,7 +267,7 @@
  },
  "whitesboro-landing": {
   "url": "../assets/photos/lumber-ports/whitesboro-landing.jpg",
-  "credit": "mendorailhistory.org (defunct), 'The Wharf at Whitesboro', via Wayback Machine",
+  "credit": "mendorailhistory.org (defunct), the Whitesboro wharf — the page notes it 'was large enough to handle three schooners at the same time', via Wayback Machine",
   "date": "ca. 1880s-1890s",
   "rights": "underlying photo public domain (pre-1930 US); hotlink via Wayback",
   "modern": false
@@ -281,7 +281,7 @@
  },
  "cuffeys-cove-landing": {
   "url": "../assets/photos/lumber-ports/cuffeys-cove-landing.png",
-  "credit": "From a published history of Mendocino County (Google Books scan), via Wikimedia Commons",
+  "credit": "1890 photograph of Cuffey's Cove, reproduced in Lorraine Hee-Chorley, Chinese in Mendocino County (Arcadia, 2009), via Wikimedia Commons",
   "date": "1890",
   "rights": "public domain (pre-1930 US)",
   "modern": false
@@ -309,7 +309,7 @@
  },
  "gualala-landing": {
   "url": "../assets/photos/lumber-ports/gualala-landing.jpg",
-  "credit": "G.W. Miller photo, 'Gualala Mill, Mendocino Co. California', via defunct mendorailhistory.org / Wayback Machine",
+  "credit": "G.M. Miller photo, 'Gualala Mill, Mendocino Co. California', via defunct mendorailhistory.org / Wayback Machine",
   "date": "ca. 1900",
   "rights": "public domain (pre-1930 US); hotlink via Wayback",
   "modern": false
@@ -323,15 +323,8 @@
  },
  "fisk-mill-landing": {
   "url": "../assets/photos/lumber-ports/fisk-mill-landing.jpg",
-  "credit": "Fort Ross Conservancy, per NOAA GFNMS caption",
+  "credit": "Fort Ross Conservancy, via NOAA GFNMS — NOAA's own pages caption this image both as Fisk Mill Cove (port page) and as Salt Point-Gerstle Cove (media page); identification uncertain",
   "date": "undated, ca. 1870s-1890s",
-  "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
-  "modern": false
- },
- "salt-point-landing": {
-  "url": "../assets/photos/lumber-ports/salt-point-landing.jpg",
-  "credit": "Fort Ross Conservancy, per NOAA GFNMS caption",
-  "date": "undated, ca. 1870s-1900s",
   "rights": "public domain (pre-1930 US); hosted by NOAA (gov site)",
   "modern": false
  },
@@ -358,7 +351,7 @@
  },
  "rules-landing": {
   "url": "../assets/photos/lumber-ports/rules-landing.jpg",
-  "credit": "Thompson & West, Historical Atlas of Sonoma County, 1877; David Rumsey Historical Map Collection, per NOAA caption",
+  "credit": "Lithograph (a drawing of the Rule Ranch, not a photograph): Thompson & West, Historical Atlas of Sonoma County, 1877; David Rumsey Historical Map Collection, per NOAA caption",
   "date": "1877",
   "rights": "public domain (pre-1930 US publication); hosted by NOAA (gov site)",
   "modern": false
@@ -374,6 +367,48 @@
   "url": "../assets/photos/lumber-ports/bodega-bay.jpg",
   "credit": "Sonoma County Library heritage collection (item p15763coll11/5761), via Wikimedia Commons",
   "date": "ca. 1910",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "peterson-shipyard-little-river": {
+  "url": "../assets/photos/lumber-ports/peterson-shipyard-little-river.jpg",
+  "credit": "John P. Soule stereoview, 'Little River Harbor, Mendocino Co.', Robert N. Dennis Collection, New York Public Library, via Wikimedia Commons — the harbor where Peterson's beach yard built its schooners",
+  "date": "ca. 1875",
+  "rights": "public domain (pre-1930 US)",
+  "modern": false
+ },
+ "san-simeon": {
+  "url": "../assets/photos/lumber-ports/san-simeon.jpg",
+  "credit": "Plate: 'Cutting In a Whale — San Simeon Bay,' from Goode, The Fisheries and Fishery Industries of the United States (1887), via Wikimedia Commons",
+  "date": "1887 publication",
+  "rights": "public domain",
+  "modern": false
+ },
+ "bromley-gulch-landing": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Jug_Handle_Beach.jpg",
+  "credit": "Jug Handle cove today — the chute built here in 1884 was never used; no period image exists. Photo David Eppstein, CC BY-SA, via Wikimedia Commons",
+  "date": "2013",
+  "rights": "CC BY-SA 4.0 (David Eppstein)",
+  "modern": true
+ },
+ "reeds-sawmill-mill-valley": {
+  "url": "../assets/photos/lumber-ports/reeds-sawmill-mill-valley.jpg",
+  "credit": "George Tasheira photograph of the Old Mill (John Reed's sawmill), Lucretia Little History Room, Mill Valley Public Library, via Internet Archive",
+  "date": "undated (19th c. ruin)",
+  "rights": "pre-1930 photograph; hosted by Mill Valley Public Library on IA",
+  "modern": false
+ },
+ "bucksport": {
+  "url": "https://humboldthistoryresearch.org/files/original/f5d80342521c6f56cbe16afbc7e0eeeaee13e8e7.jpg",
+  "credit": "Humboldt County Historical Society — 'Bucksport, south Eureka city limits, 1938'",
+  "date": "1938",
+  "rights": "unknown — hotlink and credit only",
+  "modern": false
+ },
+ "bolinas": {
+  "url": "../assets/photos/lumber-ports/bolinas.jpg",
+  "credit": "Edgar A. Cohen photograph, Wharf Road along Bolinas Lagoon, 1904 — three decades after the schooner lumber trade — via Wikimedia Commons",
+  "date": "1904",
   "rights": "public domain (pre-1930 US)",
   "modern": false
  }

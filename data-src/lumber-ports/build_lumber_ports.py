@@ -51,7 +51,7 @@ CARGO_MAP = [
     ("lath", "posts & split stuff"), ("stave", "posts & split stuff"),
     ("fencing", "posts & split stuff"), ("cordwood", "cordwood & firewood"),
     ("firewood", "cordwood & firewood"), ("wood (", "cordwood & firewood"),
-    ("fir", "Douglas fir"), ("potato", "farm produce"), ("produce", "farm produce"),
+    ("douglas fir", "Douglas fir"), ("potato", "farm produce"), ("produce", "farm produce"),
     ("dairy", "farm produce"), ("grain", "farm produce"), ("fruit", "farm produce"),
     ("hog", "farm produce"), ("wool", "farm produce"), ("butter", "farm produce"),
     ("lumber", "redwood lumber"), ("redwood", "redwood lumber"),
@@ -60,21 +60,23 @@ def cargo_of(products):
     out = []
     for p in products or []:
         pl = p.lower()
+        if ("fir" in pl.replace("firewood", "").replace("fir wood", "")) and "Douglas fir" not in out:
+            out.append("Douglas fir")
         for k, v in CARGO_MAP:
             if k in pl and v not in out:
                 out.append(v)
-    return out or ["redwood lumber"]
+    return out
 
 # company keyword -> canonical filterable name (multi-port majors + notable firms)
 COMPANY_MAP = [
     ("mendocino lumber", "Mendocino Lumber Co."), ("caspar lumber", "Caspar Lumber Co."),
-    ("jackson", "Caspar Lumber Co."), ("union lumber", "Union Lumber Co."),
+    ("j.g. jackson", "Caspar Lumber Co."), ("jacob green jackson", "Caspar Lumber Co."), ("union lumber", "Union Lumber Co."),
     ("c.r. johnson", "Union Lumber Co."), ("albion lumber", "Albion Lumber Co."),
     ("southern pacific", "Albion Lumber Co. (SP)"), ("l.e. white", "L.E. White Lumber Co."),
     ("white lumber", "L.E. White Lumber Co."), ("goodyear", "Goodyear Redwood Co."),
     ("gualala mill", "Gualala Mill Co."), ("dollar", "Robert Dollar Co."),
     ("usal redwood", "Robert Dollar Co."), ("bear harbor lumber", "Bear Harbor Lumber Co."),
-    ("finkbine", "Finkbine-Guild Lumber Co."), ("richardson", "Richardson family (Stewarts Point)"),
+    ("finkbine", "Finkbine-Guild Lumber Co."), ("h.a. richardson", "Richardson family (Stewarts Point)"), ("herbert archer richardson", "Richardson family (Stewarts Point)"), ("richardson family", "Richardson family (Stewarts Point)"),
     ("duncan", "Duncan brothers"), ("hobbs", "Hobbs, Wall & Co."),
     ("dolbeer", "Dolbeer & Carson"), ("pacific lumber", "Pacific Lumber Co."),
     ("hammond", "Hammond Lumber Co."), ("e.k. wood", "E.K. Wood Lumber Co."),
@@ -120,7 +122,7 @@ CANON = [
  (4,"Monroe Landing",["Hale's Grove Landing","Usal Landing (alias only)"],1905,1911,"pier",None,None,None,None,{"unlocated":True}),
  (5,"Devilbliss Landing",[],1895,1896,"chute",None,None,None,None,{"unlocated":True}),
  (6,"Rockport Landing",["Cottoneva Cove","Miller's Chute","Summer Anchorage"],1877,1940,"pier","Rockport (Cottoneva Cove)","SM","Rockport (Cottaneva Cove / Miller's Chute)","SM",{}),
- (7,"Hardy Creek Landing",[],1895,1920,"chute","Hardy Creek","SM","Hardy Creek Landing","SM",{}),
+ (7,"Hardy Creek Landing",[],1895,1920,"pier","Hardy Creek","SM","Hardy Creek Landing","SM",{}),
  (8,"Union Landing",["McFaul's Landing"],1899,1920,"pier","Union Landing","SM","Union Landing / McFaul's","SM",{}),
  (9,"Westport Landing",["Switzer's Chute","Beall's","Helmke's"],1865,1930,"pier","Westport","SM","Westport Landing","SM",{}),
  (10,"Kibesilah Landing",["Ackermann's Landing"],1880,1890,"pier","Kibesillah","SM","Kibesilah / Ackermann's Landing","SM",{}),
@@ -129,8 +131,8 @@ CANON = [
  (13,"Fort Bragg Landing",["Soldiers Harbor"],1885,1930,"pier","Fort Bragg (Soldiers Harbor)","SM","Fort Bragg Landing (Soldiers Harbor / mill pier)","SM",{}),
  (14,"Noyo Landing",["Noyo Anchorage"],1860,1930,"river-bar","Noyo River","SM","Noyo Landing / Noyo Anchorage","SM",{}),
  (15,"Pallas Bay Landing",["Palace Bay Harbor"],1880,1887,"chute",None,None,"Pallas Bay Landing","SM",{}),
- (16,"Bromley Gulch Landing",[],1884,1889,"chute",None,None,"Bromley Gulch Landing","SM",{"never_active":True}),
- (17,"Caspar Landing",["Caspar Anchorage"],1864,1935,"pier","Caspar","SM","Caspar Landing","SM",{}),
+ (16,"Bromley Gulch Landing",[],1884,1884,"chute",None,None,"Bromley Gulch Landing","SM",{"never_active":True}),
+ (17,"Caspar Landing",["Caspar Anchorage"],1864,1930,"pier","Caspar","SM","Caspar Landing","SM",{}),
  (18,"Russian Gulch Landing (Mendocino)",[],1875,1920,"chute","Russian Gulch (Mendocino)","SM","Russian Gulch Landing (MENDOCINO)","SM",{}),
  (19,"Mendocino Landing",["Big River Landing"],1852,1940,"river-bar","Mendocino (Big River)","SM","Mendocino Landing / Big River","SM",{}),
  (20,"Little River Landing",["Bell's Landing","Kents Cove"],1860,1917,"pier","Little River","SM","Little River Landing","SM",{}),
@@ -162,24 +164,24 @@ CANON = [
  (46,"Bihler Landing",["Black Point"],1875,1926,"chute","Bihler Landing (Black Point)","SM","Bihler Landing (Black Point)","SM",{}),
  (47,"Stewarts Point Landing",["Fisherman's Bay"],1875,1925,"chute","Stewarts Point","SM","Stewarts Point Landing (Fisherman's Bay)","SM",{}),
  (48,"Fisk Mill Landing",[],1860,1910,"chute","Fisk Mill Cove","SM","Fisk Mill Cove Landing","SM",{}),
- (49,"Salt Point Landing",["Gerstle Cove"],1853,1917,"pier","Salt Point / Gerstle Cove","SM","Salt Point Landing (Gerstle Cove)","SM",{}),
+ (49,"Salt Point Landing",["Gerstle Cove"],1870,1917,"pier","Salt Point / Gerstle Cove","SM","Salt Point Landing (Gerstle Cove)","SM",{}),
  (50,"Walsh Landing",["Ocean Cove"],1889,1912,"chute","Walsh Landing (Ocean Cove)","SM","Walsh Landing (Ocean Cove)","SM",{}),
  (51,"Stockhoff Cove Landing",[],1870,1906,"chute",None,None,"Stockhoff Cove Landing","SM",{}),
  (52,"Stillwater Cove Landing",[],1868,1889,"chute","Stillwater Cove","SM","Stillwater Cove Landing","SM",{}),
- (53,"Timber Cove Landing",[],1856,1925,"chute","Timber Cove","SM","Timber Cove Landing","SM",{}),
- (54,"Fort Ross Landing",[],1867,1921,"pier","Fort Ross Cove","SM","Fort Ross Cove Landing","SM",{}),
+ (53,"Timber Cove Landing",[],1860,1925,"chute","Timber Cove","SM","Timber Cove Landing","SM",{}),
+ (54,"Fort Ross Landing",[],1867,1920,"pier","Fort Ross Cove","SM","Fort Ross Cove Landing","SM",{}),
  (55,"Russian Gulch Landing (Sonoma)",[],1875,1910,"chute","Russian Gulch Landing (Sonoma)","SM","Russian Gulch Landing (SONOMA)","SM",{}),
  (56,"Rule's Landing",["Rules Head"],1877,1884,"chute","Rule's Landing","SM","Rule's Landing (Rule's Head)","SM",{}),
- (57,"Duncan's Landing",[],1860,1889,"chute","Duncan's Landing","SM","Duncan's Landing","SM",{}),
+ (57,"Duncan's Landing",[],1876,1889,"chute","Duncan's Landing","SM","Duncan's Landing","SM",{}),
 ]
 
 # inline summaries for the 14 MPDF-addendum ports (sourced to the MPDF; the
 # vault gazetteer addendum holds the fuller entries)
 ADDENDUM = {
- 3:("Wire chute built 1872 by Robert Anderson on Mistake Point at the mouth of Little Jackass Creek — one of the earliest wire chutes on the coast; abandoned 1883. Most business was tanbark, loaded by a cage lowered from the cliff landing stage.","Davidson 1889:289; California State Parks 2019, via the MPDF"),
+ 3:("Wire chute built 1872 by Robert Anderson on Mistake Point at the mouth of Little Jackass Creek — a very early wire chute; abandoned 1883. Most business was tanbark, loaded by a cage lowered from the cliff landing stage.","Davidson 1889:289; California State Parks 2019, via the MPDF"),
  4:("Location unknown — south of Usal, possibly within Sinkyone Wilderness SP. Monroe Lumber Co. reportedly building a new pier at Devilbliss Ranch in 1904; newspaper cargoes of shingles, lumber, and laths 1905-1911. The alias 'Usal Landing' does NOT mean Usal wharf proper.","Jackson 1977; Carpenter & Millberry 1914:548-549; Ukiah Republican Press July 29, 1904, via the MPDF"),
  5:("Location unknown. In Jackson's doghole list with a wire chute; appears in SF shipping intelligence 1895-96 only. Named for George Devilbliss of Cottoneva Creek, lumberman and Westport storekeeper to 1895.","Jackson 1977:18; Carpenter & Millberry 1914, via the MPDF"),
- 15:("One trough chute from the north shore at the mouth of Hare Creek, built c.1880 for Blumberg & Hardy's railroad-tie operation. Mooring buoys removed by 1885; the 1884 railroad from Hare Creek to Caspar's mill diverted the traffic; last shipment 1887.","Davidson 1889:287; Mendocino Beacon July 20, 2006; Carranco & Labbe 1975, via the MPDF"),
+ 15:("One trough chute from the north shore at the mouth of Hare Creek, built c.1880 for Blumberg & Hardy's railroad-tie operation. Mooring buoys removed by 1885; the 1884 railroad from Hare Creek to Caspar's mill probably diverted the traffic (MPDF); last shipment 1887.","Davidson 1889:287; Mendocino Beacon July 20, 2006; Carranco & Labbe 1975, via the MPDF"),
  16:("NEVER ACTIVE: a trough chute was built in 1884 on the south side of the tiny cove at the mouth of Bromley's Gulch (Jug Handle State Natural Reserve), but no shelter and no mooring anchors were ever placed, so no vessel ever used it. The coast's built-but-unused exemplar.","Davidson 1889:286; Jackson 1977, via the MPDF"),
  21:("Single trough chute at the mouth of Dark Gulch, under a mile north of Albion. Two schooners loaded in 1882, none in 1883; marked out of repair 1883 and dead by 1885. Newspaper cargoes were railroad ties only.","Davidson 1889:281, via the MPDF"),
  23:("Chute on the south side of Albion Cove built by settler William Handley (arrived 1865); on the 1872 and 1886 maps and in the 1889 Coast Pilot. One mooring anchor and four shore fasteners; loaded railroad ties and posts from surrounding mills.","Munro-Fraser 1880a; Davidson 1889:280; Peterson 1886, via the MPDF"),
@@ -562,6 +564,20 @@ for old_name, new_name in PATH_JOIN.items():
         sys.exit(f"RAIL JOIN FAIL: {new_name!r} missing from rigor-rails.json")
     PATHS[old_name] = _by_new[new_name]
 
+
+def _public_citation(c):
+    """Route citations must never ship local filesystem paths — swap in the public citation."""
+    if "/Users/" not in c:
+        return c
+    if "bear-harbor-landing-nrhp" in c:
+        return "Bear Harbor Landing Historical and Archaeological District, NRHP nomination (Mendocino County Doghole Ports MPS)"
+    if "doghole-ports-nrhp-mpdf" in c:
+        import re as _re
+        m = _re.search(r"\(([^,()]+)", c.split("fulltext.txt")[-1])
+        loc = (m.group(1).strip() if m else "port inventory")
+        return f"Marx & Jaffke, Northern California Doghole Ports MPDF draft (CA DPR, 2021), {loc} entry"
+    return c.split("/Users/")[0].rstrip(" ;,")
+
 routes = []
 RAIL_COLOR = "#7f2020"
 for r in RAILS:
@@ -572,17 +588,20 @@ for r in RAILS:
             "id": slug(r["name"])[:40] + "-" + slug(w["name"])[:40],
             "name": w["name"], "type": "rail-point", "coords": w["coords"],
             "coord_precision": "place",
-            "date": date_of(None, None, r["years"][:60], "circa"),
+            "date": date_of(None, None, r["years"][:200], "circa"),
             "summary": w["name"] + ".",
             "notes": "Waypoint source: " + w["source"],
         })
     if len(stops) < 2: continue
     entry = {
         "id": slug(r["name"])[:60],
-        "label": r["name"] + " — " + r["gauge"].split("—")[0].strip()[:60],
+        "label": r["name"] + " — " + (
+            "gauge disputed (standard vs narrow in the sources)" if r["gauge"].upper().startswith("CONTRADICTION")
+            else "gauge not recorded" if ("not stated" in r["gauge"].lower() or "not established" in r["gauge"].lower())
+            else r["gauge"].split("—")[0].strip()[:60]),
         "layer": "rails", "color": RAIL_COLOR,
         "path_confidence": ("documented" if r["path_confidence"].startswith("documented") else "reconstructed"),
-        "citation": "; ".join(r["sources"])[:400],
+        "citation": "; ".join(_public_citation(c) for c in r["sources"])[:440],
         "stops": stops,
         "notes": (r.get("notes") or "")[:500],
     }
@@ -590,7 +609,7 @@ for r in RAILS:
     if rp:
         entry["path"] = rp["path"]
         entry["path_confidence"] = rp["confidence"] if rp["confidence"] in ("documented", "reconstructed", "conjectural") else entry["path_confidence"]
-        entry["citation"] = ("; ".join(rp["sources"] + r["sources"]))[:500]
+        entry["citation"] = ("; ".join(_public_citation(c) for c in rp["sources"] + r["sources"]))[:500]
         entry["notes"] = ("Alignment: " + rp["path_source"][:260] + ". " + (rp.get("notes") or "")[:200] + " " + (r.get("notes") or ""))[:700]
     routes.append(entry)
 
@@ -731,6 +750,12 @@ data = {
     "routes": routes,
     "unlocated": unlocated,
 }
+
+# ---------------- claims-audit corrections (strict; see claims_fixes.py) ----------------
+sys.path.insert(0, HERE)
+import claims_fixes
+n_fixes = claims_fixes.apply(features, unlocated, routes, data)
+print(f"claims fixes applied: {n_fixes} operation groups")
 
 # ---------------- output gates ----------------
 # Gate: canonical north->south monotonic latitude on OUR OWN OUTPUT
