@@ -116,7 +116,7 @@
     "display": "dedicated 8 Dec 1794",
     "confidence": "exact"
    },
-   "summary": "The flagship Spanish work, on the Fort Point bluff. Armed 1794 with eleven brass 9-pounders landed from the Aránzazu; rebuilt to a horseshoe c.1815; embrasures for 16 guns. Built by mission Native laborers.",
+   "summary": "The flagship Spanish work, on the Fort Point bluff. Armed 1794 with eleven brass 9-pounders landed from the Aránzazu; rebuilt to a horseshoe c.1815; embrasures for 16 guns. Built by mission Native laborers. ⭐ The SF presidio company's monthly artillery relaciones give the post-rebuild armament: by 1 Apr 1816 the battery mounted 3 iron 24-pdrs, 1 iron 12-pdr (+1 burst), and 8 bronze half-culverins (8-pdr), with 2 bronze pedreros at the presidio; three iron 8-pdrs were added by May 1817 (a dozen+ serviceable guns at its Spanish-era peak). A standing 2-man 'vigía en la costa' coastal watch appears by Jan 1820 (post-Bouchard); the fort guard was 1 corporal + 4 soldiers. ⭐ The 1 Feb 1820 estado records a major post-Bouchard reconfiguration: a new iron 32-pounder, the bronze half-culverins cut from 8 to 6, three iron 4-pounders redistributed to Mission Santa Clara, and a second (new) royal flag. Into the Mexican era, the 7 Jan 1837 San Francisco artillery-park inventory (Comandante General M. G. Vallejo handing the parque to Capt. Francisco Sánchez) lists iron cannon of 24/12/8/4-lb and bronze of 10/8/2½-lb with garrison gun-carriages; by 1839 the SF, Sonoma, Monterey and Santa Bárbara detachments each held only small ordnance stocks and chronically short cartridges.",
    "result": "Demolished 1853 — cliff cut down for Fort Point",
    "sources": [
     {
@@ -124,6 +124,12 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.militarymuseum.org/CastilloSanJoaquin.html"
+    },
+    {
+     "citation": "Vallejo Documentos, BANC MSS C-B 15 (SF presidio artillery relación, 1 Apr 1816); C-B 16 (monthly relaciones 1817; estado 1 Feb 1820, the 32-pdr reconfiguration); C-B 24 (SF artillery-park inventory, 7 Jan 1837, Vallejo→Sánchez); C-B 25 (1839 presidio detachment ordnance states)",
+     "ca_record": null,
+     "ia_leaf_url": "https://archive.org/details/documentos75812vall",
+     "url": null
     }
    ],
    "notes": "Six 17th-c. Peruvian bronze cannon survive on the Presidio. Bancroft V: Frémont spiked four guns, 1 July 1846 (not five, per some sources)."
@@ -170,7 +176,7 @@
     "display": "1822–1846",
     "confidence": "range"
    },
-   "summary": "Inherited and left to decay by Mexico. An 1843 sketch shows a horseshoe adobe of 16 embrasures with only three obsolete guns and two good bronze pieces; by 1835 essentially one artilleryman.",
+   "summary": "Inherited and left to decay by Mexico. An 1843 sketch shows a horseshoe adobe of 16 embrasures with just five guns still mounted: three obsolete, plus a pair of sound Manila-cast bronzes; by 1835 essentially one artilleryman.",
    "result": "Deserted; taken by Frémont 1846",
    "sources": [
     {
@@ -285,7 +291,7 @@
      "url": "https://fortwiki.com/Fort_Alcatraz"
     }
    ],
-   "notes": "The most heavily armed post in the harbor; became a military prison from 1907."
+   "notes": "No post in the harbor carried heavier armament; became a military prison from 1907."
   },
   {
    "id": "black-point-battery",
@@ -1008,7 +1014,7 @@
     "display": "1897–1898",
     "confidence": "range"
    },
-   "summary": "Two 10-inch guns on disappearing carriages, practically identical to adjacent Battery Marcus Miller (whose emplacements were built first).",
+   "summary": "Two 10-inch guns on disappearing carriages, a near-twin of neighboring Battery Marcus Miller (whose emplacements went up first).",
    "result": "Extant — GG Bridge District workshops (not public)",
    "sources": [
     {
@@ -1217,7 +1223,7 @@
     "display": "1900",
     "confidence": "year"
    },
-   "summary": "Two 5-inch M1900 guns on pedestal mounts in the national-cemetery area, Fort Scott — the only battery of its type in the SF Endicott defenses.",
+   "summary": "Two 5-inch M1900 guns on pedestal mounts in the national-cemetery area, Fort Scott — ; no other SF Endicott battery mounted this armament..",
    "result": "Extant concrete (GGNRA)",
    "sources": [
     {
@@ -1348,7 +1354,7 @@
     "display": "1903–1948",
     "confidence": "range"
    },
-   "summary": "Six-inch guns on disappearing carriages at Baker Beach — the last coast battery deactivated at Fort Scott, with the only operating disappearing-gun display on the West Coast (Smithsonian gun installed 1977).",
+   "summary": "Six-inch guns on disappearing carriages at Baker Beach — Fort Scott's final coast battery to stand down (1948), with the only operating disappearing-gun display on the West Coast (Smithsonian gun installed 1977).",
    "result": "Extant (GGNRA) — NPS tours",
    "sources": [
     {
@@ -1557,7 +1563,7 @@
     "display": "1899–1900",
     "confidence": "range"
    },
-   "summary": "One 8-inch gun on a disappearing carriage — the only disappearing gun on the island; similar to Battery Burnham, Fort Mason.",
+   "summary": "One 8-inch disappearing rifle, the island's only such carriage; its Fort Mason counterpart was Battery Burnham.",
    "result": "Extant emplacement (State Park)",
    "sources": [
     {
@@ -1637,7 +1643,7 @@
     "display": "1938–1948",
     "confidence": "range"
    },
-   "summary": "Two 16-inch guns on casemated carriages on Wolf Ridge, Fort Cronkhite — the largest guns ever emplaced at the Golden Gate; first fired 1 July 1940, the first 16-inch round on the U.S. Pacific coast.",
+   "summary": "Two 16-inch guns on casemated carriages on Wolf Ridge, Fort Cronkhite — the largest guns ever emplaced at the Golden Gate; first fired 1 July 1940, first fired 1 July 1940; no 16-inch gun had ever fired from the U.S. Pacific coast until then..",
    "result": "Extant casemated battery, partly restored — display 16-inch gun since 2012",
    "sources": [
     {
@@ -1716,7 +1722,7 @@
     "display": "1943–1946",
     "confidence": "range"
    },
-   "summary": "Two 90 mm guns on fixed mounts and two on mobile mounts, Gravelly (Kirby) Beach; circular gun blocks — the permanent north-shore anti-motor-torpedo-boat battery.",
+   "summary": "Four 90 mm guns (two fixed, two mobile) at Gravelly (Kirby) Beach; circular gun blocks — the permanent north-shore anti-motor-torpedo-boat battery.",
    "result": "Partial concrete pads (GGNRA)",
    "sources": [
     {
@@ -1768,7 +1774,7 @@
     "display": "1943–1944",
     "confidence": "range"
    },
-   "summary": "Two 37 mm (1943) then 40 mm (1944) automatic weapons — one at the tip of Point Cavallo, one on the Fort Baker mine wharf.",
+   "summary": "Two 37 mm (1943) then 40 mm (1944) automatic weapons — one out on Point Cavallo itself, the other across Horseshoe Bay on Fort Baker's mine wharf.",
    "result": "No remains",
    "sources": [
     {
@@ -1794,7 +1800,7 @@
     "display": "WWII",
     "confidence": "range"
    },
-   "summary": "Two 3-inch guns (from Battery Yates) mounted on the barbette tier of the old masonry fort.",
+   "summary": "Two 3-inch guns (from Battery Yates) remounted atop the old brick fort's barbette tier.",
    "result": "Platforms interpreted at Fort Point (NPS)",
    "sources": [
     {
@@ -1847,7 +1853,7 @@
     "display": "1943–1946",
     "confidence": "range"
    },
-   "summary": "Two 90 mm guns on fixed mounts and two on mobile mounts, in front of the mine casemate at Bakers Beach; guarded the minefield and harbor entrance.",
+   "summary": "Four 90 mm guns (two fixed, two mobile), in front of the mine casemate at Bakers Beach; guarded the minefield and harbor entrance.",
    "result": "Pads not visible (GGNRA)",
    "sources": [
     {
@@ -1901,7 +1907,7 @@
     "confidence": "range"
    },
    "summary": "Two 6-inch navy guns on pedestal mounts, emplaced on Point Lobos.",
-   "result": "Pad 1 partly exposed below the USS San Francisco Memorial",
+   "result": "Traces of pad 1 show beneath the USS San Francisco Memorial",
    "sources": [
     {
      "citation": "FortWiki; Thompson HRS 1979 p. 448",
@@ -1952,7 +1958,7 @@
     "display": "1943–1948",
     "confidence": "range"
    },
-   "summary": "Two 90 mm guns on fixed mounts and two on mobile mounts, at Lands End north of Fort Miley.",
+   "summary": "Four 90 mm guns, two fixed and two mobile, sited at Lands End just north of Fort Miley.",
    "result": "Pads visible from above (GGNRA)",
    "sources": [
     {
@@ -2084,7 +2090,7 @@
     "display": "1937–1945",
     "confidence": "range"
    },
-   "summary": "Four mobile 155 mm guns on Panama mounts — the only Panama mounts in San Francisco. The original clifftop site eroded, forcing a move south; original mounts remain in the surf.",
+   "summary": "Four mobile 155 mm guns on Panama mounts — ; no other San Francisco battery used them.. The original clifftop site eroded, forcing a move south; original mounts remain in the surf.",
    "result": "Panama mounts visible at the cliff base (GGNRA)",
    "sources": [
     {
@@ -2398,7 +2404,7 @@
     "display": "1956–1963",
     "confidence": "range"
    },
-   "summary": "A Nike Ajax site with its launch area at Fort Funston (structure FF-495), the only one of the four GGNRA-area sites south of the Gate.",
+   "summary": "A Nike Ajax site with its launch area at Fort Funston (structure FF-495), the one GGNRA-area Nike site south of the Gate; its three sisters lay across the strait.",
    "result": "Demolished — GGNRA parkland",
    "sources": [
     {
@@ -2424,7 +2430,7 @@
     "display": "1955–1971",
     "confidence": "range"
    },
-   "summary": "Ajax then Hercules; control area (87C) sat on top of the casemates of Battery Construction 129. Paired with SF-88.",
+   "summary": "Ajax then Hercules; control area (87C) was built directly over Battery Construction 129's casemates. Paired with SF-88.",
    "result": "Launch area = The Marine Mammal Center; control ruins on trails",
    "sources": [
     {
@@ -2450,7 +2456,7 @@
     "display": "1954–1974",
     "confidence": "range"
    },
-   "summary": "Opened 1954 (Ajax); received the first Nike Hercules battery in the Bay Area (1958); deactivated 1974 — the final SF-area Nike stand-down.",
+   "summary": "Opened 1954 (Ajax); became the Bay Area's first battery converted to Nike Hercules (1958; one compilation says 1959); deactivated 1974 — the final SF-area Nike stand-down.",
    "result": "Restored NPS museum — the most complete Nike site in the U.S.",
    "sources": [
     {
@@ -2555,7 +2561,7 @@
     "display": "1859",
     "confidence": "year"
    },
-   "summary": "The fortified sandstone bastion of the Benicia Arsenal on Army Point, built 1859 with gun ports and rifle slits covering the Carquinez Strait and Suisun Bay — called the first stone fortress in the far West. Originally two towers; rebuilt with one after an 1912 powder explosion.",
+   "summary": "The fortified sandstone bastion of the Benicia Arsenal on Army Point, built 1859 with gun ports and rifle slits covering the Carquinez Strait and Suisun Bay — called \"the first stone fortress in the far west\" on its historical marker. Two towers originally; after the 1912 powder explosion it was rebuilt with a single tower.",
    "result": "Survives intact — Benicia community/event center",
    "sources": [
     {
