@@ -227,7 +227,7 @@
    "facts": [
     [
      "Loading",
-     "Two successive hybrid pier+chute systems: (1) 1885 pier off Morgan Rock with trough-chute apron arm at its end (Peterson 1885 survey; Davidson 1889 describes wharf 'with an apron over fifteen feet of water'); (2) June 1890, new 300-ft pier at Cluster Cone Rocks with WIRE chute at its end ('similar to the one at Noyo Landing'), extended 100 ft in 1892 and again ~1895/1898; SF Chronicle 16 Jan 1898: wharf 250 ft through rocks, wire runs 420 ft to the vessel ~40 ft above water. Donkey engine powered the wire (a spark from the chute's donkey engine burned 400 ft of pier 8 Apr 1903). 1901 rebuild put on 1,500 ties/hour, 'fastest work ever done over a wire chute in Mendocino County' (Ukiah Dispatch 15 Nov 1901)"
+     "Two successive hybrid pier+chute systems: (1) 1885 pier crossing Morgan Rock, its seaward tip fitted with an apron-arm trough chute (Peterson 1885 survey; Davidson 1889 describes wharf 'with an apron over fifteen feet of water'); (2) June 1890, new 300-ft pier at Cluster Cone Rocks with WIRE chute at its end ('similar to the one at Noyo Landing'), extended 100 ft in 1892 and again ~1895/1898; SF Chronicle 16 Jan 1898: wharf 250 ft through rocks, wire runs 420 ft to the vessel ~40 ft above water. Donkey engine powered the wire (its spark set the pier alight 8 Apr 1903, burning 400 ft). 1901 rebuild put on 1,500 ties/hour, 'fastest work ever done over a wire chute in Mendocino County' (Ukiah Dispatch 15 Nov 1901)"
     ],
     [
      "Wharf/pier",
@@ -300,7 +300,7 @@
    "aliases": [
     "Anderson's Landing"
    ],
-   "summary": "Wire chute built 1872 by Robert Anderson on Mistake Point at the mouth of Little Jackass Creek — a very early wire chute; abandoned 1883. Most business was tanbark, loaded by a cage lowered from the cliff landing stage.",
+   "summary": "Robert Anderson built a wire chute here in 1872, on Mistake Point where Little Jackass Creek reaches the shore — a very early example of the type; abandoned 1883. Most business was tanbark, loaded by a cage lowered from the cliff landing stage.",
    "cargo": [
     "tanbark"
    ],
@@ -442,7 +442,7 @@
     -123.80752
    ],
    "coord_precision": "place",
-   "summary": "Mill settlement just around the point from Rockport; the mill was part of the Cottoneva Lumber Co. of Rockport and was operated by E.T. Dusenbury, one of its owners. It had its own wharf and a railroad, and the town a large hotel; the mill burned and was never rebuilt. The 1889 Coast Pilot already names Hardy's Rock on this shore; the mill era therefore falls in the Cottoneva Lumber Co. period (c.1886-1900s) but exact years are unverified.",
+   "summary": "Mill settlement just around the point from Rockport; the mill belonged to Rockport's Cottoneva Lumber Co. and was run by part-owner E.T. Dusenbury. A wharf and a rail line served the mill, and the town supported a large hotel; fire took the mill, which was never replaced. The 1889 Coast Pilot already names Hardy's Rock on this shore; the mill era therefore falls in the Cottoneva Lumber Co. period (c.1886-1900s) but exact years are unverified.",
    "cargo": [
     "redwood lumber",
     "railroad ties",
@@ -522,7 +522,7 @@
     -123.80363
    ],
    "coord_precision": "place",
-   "summary": "Busy shipping point without a mill of its own, serving many small mills nearby (incl. the Juan Creek timber). W.P. McFaul built the first wharf, shipping six-foot railroad ties to San Pedro for the Los Angeles Railway. After W.P. Frick acquired the Big Juan Creek timber in 1920, he had a new wharf built in 1926 — the last wharf ever built on the Mendocino coast — which the Depression left barely used. A large hotel/boarding house served the wharf hands.",
+   "summary": "Busy shipping point without a mill of its own, serving many small mills nearby (incl. the Juan Creek timber). W.P. McFaul built the first wharf, sending six-foot ties down to the Los Angeles Railway by way of San Pedro. After W.P. Frick acquired the Big Juan Creek timber in 1920, he had a new wharf built in 1926 — no wharf was built on the Mendocino coast after it, and the Depression left it nearly idle. A large hotel/boarding house served the wharf hands.",
    "cargo": [
     "railroad ties",
     "redwood lumber"
@@ -837,7 +837,7 @@
     -123.80363
    ],
    "coord_precision": "place",
-   "summary": "The Dwelly brothers took timber on Laguna Creek early in 1883, built a water-powered mill and the original chute and wharf at Cleone Point, shipping their first load by July 1883; the Little Valley Lumber Co. (Barto, Jarvis, Nichols, Salsig, inc. 23 May 1885) combined this with the Mill Creek mill near Inglenook. The 1889 Coast Pilot describes a ~160-yard wharf with attached apron chute (vessel under it in 12 ft; 100-ton vessels; five moorings; mill 3 mi east at 18,000 ft/day), reported washed away in 1886 with business transferring to Fort Bragg — but rights to rebuild wharf and chute were granted in 1888, the wharf grew from 332 to ~500 ft (35 ft above the breakers; 300 ft collapsed to teredo worms Nov 1885, rebuilt), with loading wires extending to steam schooners ~200 ft offshore. A 2.5-mile wooden-strap-rail tramway ran gravity-down/horses-up through town; Union Lumber acquired all in 1901 and relaid light steel; the Laguna mill closed November 1904; the landing itself saw residual use to c.1920 (MPDF; Borden gives 1923).",
+   "summary": "The Dwelly brothers took timber on Laguna Creek early in 1883, built a water-powered mill and Cleone Point's first chute and wharf, getting a first cargo of lumber away by July 1883; the Little Valley Lumber Co. (Barto, Jarvis, Nichols, Salsig, inc. 23 May 1885) combined this with the Mill Creek mill near Inglenook. The 1889 Coast Pilot describes a ~160-yard wharf with attached apron chute (vessel under it in 12 ft; 100-ton vessels; five moorings; mill 3 mi east at 18,000 ft/day), reported washed away in 1886 with business transferring to Fort Bragg — but an 1888 grant authorized rebuilding of wharf and chute, the wharf grew from 332 to ~500 ft (35 ft above the breakers; 300 ft collapsed to teredo worms Nov 1885, rebuilt), with loading wires extending to steam schooners ~200 ft offshore. A 2.5-mile wooden-strap-rail tramway ran gravity-down/horses-up through town; Union Lumber acquired all in 1901 and relaid light steel; the Laguna mill closed November 1904; the landing itself saw residual use to c.1920 (MPDF; Borden gives 1923).",
    "cargo": [
     "railroad ties",
     "redwood lumber",
@@ -917,7 +917,7 @@
     -123.81946
    ],
    "coord_precision": "place",
-   "summary": "The military post (est. 1857 to watch the reservation; abandoned by the mid-1860s — 'many years ago' per 1889 CP) gave its name to the cove C.R. Johnson chose after judging Newport hopeless: with Calvin Stewart and James Hunter he formed the Fort Bragg Redwood Co. (1885), moved the Kibesillah mill down, incorporated the Fort Bragg Railroad 30 April 1885 (rails up Pudding Creek; Glen Blair 1887), and built the wharf in Soldiers Harbor — incomplete July 1885, a working shipping landing in 1886, where 'steam schooners only load' (1889 CP). Union Lumber Co. formed 1891 (merging Noyo River Lumber Co.); National Steamship Co. 1901; California Western RR & Navigation Co. 1905, over the hill to Willits 1911 — after which Fort Bragg was the only Mendocino coast mill with a rail connection over the coast range (the CWR to Willits). The pier grew to ~700 ft with three tracks and cranes; the last lumber cargo to leave the Mendocino coast by sea sailed from this pier in 1938. Mill (later Boise Cascade/Georgia-Pacific) ran until 21 June 2002.",
+   "summary": "The military post (est. 1857 to watch the reservation; abandoned by the mid-1860s — 'many years ago' per 1889 CP) gave its name to the cove C.R. Johnson chose after judging Newport hopeless: with Calvin Stewart and James Hunter he formed the Fort Bragg Redwood Co. (1885), moved the Kibesillah mill down, incorporated the Fort Bragg Railroad 30 April 1885 (rails up Pudding Creek; Glen Blair 1887), and built the wharf in Soldiers Harbor — incomplete July 1885, a working shipping landing in 1886, where 'steam schooners only load' (1889 CP). Union Lumber Co. formed 1891 (merging Noyo River Lumber Co.); National Steamship Co. 1901; California Western RR & Navigation Co. 1905, over the hill to Willits 1911 — after which Fort Bragg was the only Mendocino coast mill with a rail connection over the coast range (the CWR to Willits). The pier grew to ~700 ft with three tracks and cranes; the Mendocino coast's final seaborne lumber cargo departed this pier in 1938. Mill (later Boise Cascade/Georgia-Pacific) ran until 21 June 2002.",
    "cargo": [
     "redwood lumber",
     "railroad ties",
@@ -1002,7 +1002,7 @@
     -123.8139
    ],
    "coord_precision": "place",
-   "summary": "Capt. William Richardson had a mill built 3 mi up the Noyo in 1852-53 (washed out January 1854); A.W. Macpherson (& Weatherby) opened the lasting Noyo mill in 1858 (40,000 ft/day by 1880, ~120 million ft cut). No chute served the schooner era (a wire chute was added on the north point c.1900, active to the 1920s - MPDF): lumber was lightered from a wharf inside the river mouth to vessels at two mooring buoys in the cove, small schooners filling holds in the river; ships drawing 23 ft loaded direct for foreign ports (one cargo to Valparaiso), a tug shared with Albion towing vessels out; five vessels a month in ordinary seasons and the coasting steamer every trip (1889 Coast Pilot). The mill built one of the coast's earliest railroads, hauling logs from Pudding Creek along today's Harrison Street; the company merged into Union Lumber in 1891.",
+   "summary": "Capt. William Richardson had a mill built 3 mi up the Noyo in 1852-53 (washed out January 1854); A.W. Macpherson (& Weatherby) opened the lasting Noyo mill in 1858 (40,000 ft/day by 1880, ~120 million ft cut). No chute served the schooner era (a wire chute was added on the north point c.1900, active to the 1920s - MPDF): lumber was lightered from a wharf inside the river mouth to vessels at two mooring buoys in the cove, small schooners filling holds in the river; ships drawing 23 ft loaded direct for foreign ports (one cargo to Valparaiso), a tug shared with Albion towing vessels out; five vessels a month in ordinary seasons and the coasting steamer every trip (1889 Coast Pilot). One of the coast's earliest railroads was the mill's log line from Pudding Creek, on the alignment of today's Harrison Street; the company merged into Union Lumber in 1891.",
    "cargo": [
     "redwood lumber"
    ],
@@ -1271,7 +1271,7 @@
     -123.80482
    ],
    "coord_precision": "place",
-   "summary": "Small two-pocket cove 1.5 mi south of Point Cabrillo; the 1889 Coast Pilot notes a chute built from the 60-ft cliff on the south side of the northeast pocket. Shingle mills came and went: L.E. Ballister & Co. 1867; Prince Grey 1878-88; Eugene Brown from 1888; Gray & Johnson Lumber & Shingle Mill 1918-1920s. High-line/wire rings remain in the headland rocks (now Russian Gulch State Park). A wire chute here in the 1890s is credited by the Kelley House with pressuring Mendocino to modernize.",
+   "summary": "Small two-pocket cove 1.5 mi south of Point Cabrillo; the 1889 Coast Pilot notes a chute built, in its words, 'from the top of the cliff on the south side of the north-east pocket' of the cove. Shingle mills came and went: L.E. Ballister & Co. 1867; Prince Grey 1878-88; Eugene Brown from 1888; Gray & Johnson Lumber & Shingle Mill 1918-1920s. High-line/wire rings remain in the headland rocks (now Russian Gulch State Park). A wire chute here in the 1890s is credited by the Kelley House with pressuring Mendocino to modernize.",
    "cargo": [
     "posts & split stuff",
     "redwood lumber",
@@ -1432,7 +1432,7 @@
     -123.7914
    ],
    "coord_precision": "place",
-   "summary": "Mill town built 1864 by Silas Coombs, Ruel Stickney and Tapping Reeves on land bought from W.H. Kent (1862); first whistle 15 October 1864, 38 schooners loaded the first year; mill burned 20 March 1874 and was rebuilt across the river by 4 July 1874 (30,000 ft/day); closed 1893. The 1889 Coast Pilot describes a 110-yard wharf (10 ft at its end) and two chutes (NW chute over 16 ft of water; SE chute 12 ft), four vessels able to ride out storms at the moorings — a noted harbor of refuge. Its shipyard made it famous: Capt. Thomas H. Peterson built about three dozen wooden vessels here and nearby (Palmer lists Phil Sheridan, Little River, Napa City, Alice Kimball, Silas Coombs, Emma and Louisa, Johanna Brock, Electra, Galatea, Hannah Madison, Barbara, Mary D. Pomeroy, etc.).",
+   "summary": "Mill town built 1864 by Silas Coombs, Ruel Stickney and Tapping Reeves on land bought from W.H. Kent (1862); first whistle 15 October 1864, 38 schooners loaded the first year; mill burned 20 March 1874 and was rebuilt across the river by 4 July 1874 (30,000 ft/day); closed 1893. The 1889 Coast Pilot describes a 110-yard wharf (10 ft at its end) and two chutes (NW chute over 16 ft of water; SE chute 12 ft), four vessels able to ride out storms at the moorings — a noted harbor of refuge. Its shipyard made it famous: Capt. Thomas H. Peterson launched roughly three dozen wooden ships here and nearby (Palmer lists Phil Sheridan, Little River, Napa City, Alice Kimball, Silas Coombs, Emma and Louisa, Johanna Brock, Electra, Galatea, Hannah Madison, Barbara, Mary D. Pomeroy, etc.).",
    "cargo": [
     "redwood lumber"
    ],
@@ -1555,7 +1555,7 @@
     -123.77418
    ],
    "coord_precision": "place",
-   "summary": "One of the oldest mill sites on the coast: a water mill upriver c.1851 for Capt. William Richardson (claimant of the unconfirmed Albion grant), then the Albion steam mill of 1853 (Dallas, Davidson & Macpherson), burned and rebuilt 1867, run by Macpherson & Weatherby in 1880 (35,000 ft/day, 27,000 acres). The 1889 Coast Pilot: schooners entered past Mooring Rock to 6-7 buoys; large schooners loaded by lighters, 90-ton schooners towed to the mill wharf; vessels drawing 18 ft loaded at the moorings direct for foreign ports; ~70 vessels/yr; Henley's chute on the south side shipped ties and posts. Albion Lumber Co. reorganized 1891; the Albion & Southeastern RR (1902) became the Fort Bragg & Southeastern (1903, standard gauge, ultimately 25.65 mi to Christine); Southern Pacific bought the company in 1907 and the NWP-owned 'big mill' cut mostly redwood ties (much for SP of Mexico) until the last log 19 May 1928; the railroad closed 16 January 1930 and was scrapped 1937.",
+   "summary": "One of the oldest mill sites on the coast: a water mill upriver c.1851 for Capt. William Richardson (claimant of the unconfirmed Albion grant), then the Albion steam mill of 1853 (Dallas, Davidson & Macpherson), burned and rebuilt 1867, run by Macpherson & Weatherby in 1880 (35,000 ft/day, 27,000 acres). The 1889 Coast Pilot: schooners entered past Mooring Rock to 6-7 buoys; large schooners loaded by lighters, 90-ton schooners towed to the mill wharf; vessels drawing 18 ft 'loaded at the moorings direct for foreign ports' (Davidson 1889); ~70 vessels/yr; Henley's chute on the south side shipped ties and posts. Albion Lumber Co. reorganized 1891; the Albion & Southeastern RR (1902) became the Fort Bragg & Southeastern (1903, standard gauge, ultimately 25.65 mi to Christine); Southern Pacific bought the company in 1907 and the NWP-owned 'big mill' cut mostly redwood ties (much for SP of Mexico) until the last log 19 May 1928; the railroad closed 16 January 1930 and was scrapped 1937.",
    "cargo": [
     "redwood lumber",
     "railroad ties",
@@ -2886,7 +2886,7 @@
    "aliases": [
     "Joe Tonga's"
    ],
-   "summary": "A modified wire chute with a steam-powered swinging boom, built in the 1880s by farmer Joe Tongue of Gualala on leased Rutherford ranch land (Sea Ranch area); shipped grain and fruit. Candidate site: the end of Fish Rock Road behind Rutherford's barn. The farm-cargo edge case of the chute system.",
+   "summary": "What the MPDF describes as 'a modified wire chute with a steam powered swinging boom', built in the 1880s by farmer Joe Tongue of Gualala on leased Rutherford ranch land (Sea Ranch area); shipped grain and fruit. Candidate site: the end of Fish Rock Road behind Rutherford's barn. The farm-cargo edge case of the chute system.",
    "cargo": [
     "farm produce"
    ],
@@ -2935,7 +2935,7 @@
     -123.5114
    ],
    "coord_precision": "place",
-   "summary": "Charles Meyer and William Benitz established a produce/grain landing at a small cove here in 1849 (lost with the rancho, 1855). The lumber-era port dates from 1898, when brothers William and George Bender built a mill and wire chute just south, adding saloon, store and lumber warehouse by 1903; the mill burned in 1910 and the wire chute was likely abandoned soon after (the 1917 Coast Pilot still notes a wire cable; the 1929 T-sheet shows none). Tanbark and split stakes were among products shipped; the topography gave loading vessels no protection.",
+   "summary": "Charles Meyer and William Benitz opened a landing for produce and grain at a little cove here in 1849 (lost with the rancho, 1855). The lumber-era port dates from 1898, when the Bender brothers, William and George, put up a mill just south and rigged a wire chute, adding saloon, store and lumber warehouse by 1903; the mill burned in 1910, and the wire chute probably went out of service within a few years (the 1917 Coast Pilot still notes a wire cable; the 1929 T-sheet shows none). Tanbark and split stakes were among products shipped; the topography gave loading vessels no protection.",
    "cargo": [
     "tanbark",
     "redwood lumber",
@@ -3005,7 +3005,7 @@
     -123.43195
    ],
    "coord_precision": "place",
-   "summary": "On the former German Rancho (Ernest Rufus grant, 1846), William Bihler ranched from the 1850s and turned to lumbering in the 1860s-70s; by 1875 Bihler and D.L.B. Ross built a landing with a slide chute, adding a second in 1876 (only the outer, reaching 23-ft water, was used; six mooring lines, three buoys). It shipped produce, tanbark, posts, firewood, staves and railroad ties — a summer-only landing averaging five small schooners a month (1889 Coast Pilot). A wire chute replaced the slide chutes around 1900; the Benders bought in 1904 and the port operated until 1917. The adjacent Black Point community had over a dozen buildings (hotel, store, post office, blacksmith, wagon shop, livery).",
+   "summary": "On the former German Rancho (Ernest Rufus grant, 1846), William Bihler ranched from the 1850s and turned to lumbering in the 1860s-70s; Bihler and D.L.B. Ross had a landing and slide chute working by 1875, with a second chute following in 1876 (only the outer, reaching 23-ft water, was used; six mooring lines, three buoys). Ranch produce went out with railroad ties, staves, posts, firewood and tanbark — a summer-only landing averaging five small schooners a month (1889 Coast Pilot). A wire chute replaced the slide chutes around 1900; the Benders bought in 1904 and the port operated until 1917. The adjacent Black Point community counted more than twelve buildings, among them a hotel, a store, the post office, blacksmith and wagon shops, and a livery.",
    "cargo": [
     "tanbark",
     "posts & split stuff",
@@ -3085,7 +3085,7 @@
     -123.40806
    ],
    "coord_precision": "place",
-   "summary": "John and Andrew Fisk built the first landing in 1867; by 1877 three trough chutes served nearby mills, though by 1885 only the middle chute was operable (to 11 ft of water, seven mooring lines; vessels to 125 tons; ~25 schooners/yr with wood, posts, tanbark, shingles). H.A. Richardson bought the property in 1881, built his own chute, and the family shipped for ~40 years — a wire chute by the 1917 Coast Pilot, steam- and horse-drawn railroads to the cliff edge, and their own fleet of schooners and steam schooners — until trucks replaced water shipment in 1925. The settlement reached ~30 buildings and survives as an essentially unaltered doghole-port hamlet (Sonoma County Historic District).",
+   "summary": "The Fisk brothers, John and Andrew, opened the first landing here in 1867; by 1877 three trough chutes served nearby mills, though by 1885 only the middle chute was operable (to 11 ft of water, seven mooring lines; vessels to 125 tons; ~25 schooners/yr with wood, posts, tanbark, shingles). H.A. Richardson acquired the point in 1881 and added a chute of his own, and the family shipped for ~40 years — a wire chute by the 1917 Coast Pilot, rail lines, steam- and horse-powered, running out to the bluff edge, and a family fleet of sailing schooners and steam schooners — until trucking took over the freight in 1925. The settlement reached ~30 buildings and survives with its doghole-era fabric largely intact (Sonoma County Historic District).",
    "cargo": [
     "posts & split stuff",
     "railroad ties",
@@ -3103,7 +3103,7 @@
     ],
     [
      "Rail",
-     "system of steam and horse-drawn railroads from mills to cliff edge (Richardson era); stacked ties from the horse railroad recorded 2016"
+     "steam- and horse-powered rail lines carried products from the mills out to the bluff edge (Richardson era); stacked ties from the horse railroad recorded 2016"
     ],
     [
      "Operators",
@@ -3166,7 +3166,7 @@
     -123.35334
    ],
    "coord_precision": "place",
-   "summary": "John C. Fisk began lumbering and milling here in 1860; ownership passed to Frederick M. Helmke in 1865, who closed the mill in 1876, but the chute stayed active under the Kruse family, transhipping for other mills including Platt's mill 1.75 miles up the coast (at Horseshoe/Timber Gulch). The 1889 Coast Pilot: chute on the south point of the west side, vessel broadside in 14 ft with six mooring lines, four buoys; vessels to 100 tons; about 40 schooners loaded yearly with lumber, wood, bark and posts; 'quite a village' half a mile inside the point. A rare wood-and-iron capstan survives on the bluff.",
+   "summary": "John C. Fisk began lumbering and milling here in 1860; Frederick M. Helmke acquired the operation in 1865 and shut the mill down in 1876, but the Kruse family kept the chute in service, handling cargo sent down from other operations such as Platt's mill 1.75 miles up the coast (at Horseshoe/Timber Gulch). The 1889 Coast Pilot: chute on the south point of the west side, vessel broadside in 14 ft with six mooring lines, four buoys; vessels to 100 tons; about 40 schooners loaded yearly with lumber, wood, bark and posts; 'quite a village' half a mile inside the point. A rare wood-and-iron capstan survives on the bluff.",
    "cargo": [
     "cordwood & firewood",
     "tanbark",
@@ -3331,7 +3331,7 @@
     -123.30445
    ],
    "coord_precision": "place",
-   "summary": "Small bluff landing at Ocean Cove between Stillwater Cove and Salt Point; named for W.J. Walsh, who purchased the property 14 October 1889. Local history states timber harvested in the surrounding area was loaded from the bluffs onto doghole schooners for San Francisco. A 1910 shipping-agents' table of ports of call pairs 'Salt Point Landing/Walsh's Landing.' Not among the doghole ports surveyed in the 2016 NOAA/CSP Sonoma project.",
+   "summary": "Small bluff landing at Ocean Cove between Stillwater Cove and Salt Point; named for W.J. Walsh, who purchased the property 14 October 1889. The Ocean Cove local history states: 'Timber was harvested in the surrounding area, then loaded from the bluffs onto \"Dog Hole\" schooners, and sent to San Francisco'. A 1910 shipping-agents' table of ports of call pairs 'Salt Point Landing/Walsh's Landing.' Not among the doghole ports surveyed in the 2016 NOAA/CSP Sonoma project.",
    "cargo": [],
    "company": [
     "Fred Linderman (lessee 1900)"
@@ -3436,7 +3436,7 @@
     -123.29861
    ],
    "coord_precision": "place",
-   "summary": "Very small but sheltered cove usable year-round. Christian Friedrich Ruoff settled by fall 1851; after his 1854 death his widow Francesca ran the property and built a lumber chute by the late 1860s ('owned by Mrs. Ruoff in 1880'). The single chute on the NW side ran from the cliff past the outer rocks into 11 ft of water; vessels lay broadside with six mooring lines (1889 Coast Pilot); 249 wood loads shipped 1868-74. No town ever formed; no photos or drawings of the chute have been found, but rebates, ring bolts, pins and wire rope survive.",
+   "summary": "Very small but sheltered cove usable year-round. Christian Friedrich Ruoff settled by fall 1851; after his 1854 death his widow Francesca took over the property and had a lumber chute working before the end of the 1860s ('owned by Mrs. Ruoff in 1880'). The single chute on the NW side ran from the cliff past the outer rocks into 11 ft of water; vessels lay broadside with six mooring lines (1889 Coast Pilot); 249 wood loads shipped 1868-74. No town ever formed; no photos or drawings of the chute have been found, but rebates, ring bolts, pins and wire rope survive.",
    "cargo": [
     "cordwood & firewood",
     "posts & split stuff",
@@ -3499,7 +3499,7 @@
     -123.27112
    ],
    "coord_precision": "place",
-   "summary": "Settlement from c.1856 with hotel, store and post office supporting a trough chute 'built sometime that decade,' the first such apparatus in the area (NOAA). George Weber and D.L.B. Ross built a mill 1.5 mi inland in 1861 (lasted 3 years); William R. Miller's sawmill ran from 1867 and had largely stripped the nearby hills by the 1870s. 481 schooner cargoes were transhipped 1868-74; the 1889 Coast Pilot shows the single trough chute (out to 16 ft of water, 5 mooring lines, 2 buoys) loading cordwood, posts, ties, tanbark and produce. Ernest Saltzig installed a wire chute in 1921 (transplanted from Fort Ross); lumber shipping ended by 1925.",
+   "summary": "Settlement from c.1856 with hotel, store and post office supporting a trough chute 'built sometime that decade,' 'the first such apparatus in the area' (NOAA). In 1861 George Weber and D.L.B. Ross started a sawmill on a ridge 1.5 mi inland; it ran only three years; William R. Miller's sawmill ran from 1867 and had largely stripped the nearby hills by the 1870s. 481 schooner cargoes were transhipped 1868-74; the 1889 Coast Pilot shows the single trough chute (out to 16 ft of water, 5 mooring lines, 2 buoys) loading cordwood, posts, ties, tanbark and produce. Ernest Saltzig installed a wire chute in 1921 (transplanted from Fort Ross); lumber shipping ended by 1925.",
    "cargo": [
     "cordwood & firewood",
     "posts & split stuff",
@@ -3745,7 +3745,7 @@
     -123.1514
    ],
    "coord_precision": "place",
-   "summary": "Wire-chute-only landing under Rule's Head, 1.5 mi NW of the Russian River mouth, on the Rule family ranch (John and Elizabeth Rule, land bought 1870). The 1889 Coast Pilot: 'located in 1877, but has since been abandoned'; a wire cable ran 150 yards from the bluff to a rock, vessels mooring beneath; the cable was taken down in 1884 and the business moved to Russian Gulch Landing. Douglass (1995) recorded railroad ties, a possible turntable, and frayed wire cable; the cove was the Russians' 'harbor sheltered for baidarkas.'",
+   "summary": "Wire-chute-only landing under Rule's Head, 1.5 mi NW of the Russian River mouth, on the Rule family ranch (John and Elizabeth Rule, land bought 1870). The 1889 Coast Pilot: 'located in 1877, but has since been abandoned'; a wire cable ran 150 yards from the bluff to a rock, vessels mooring beneath; the owners dismantled the cable in 1884 and shifted the trade to Russian Gulch Landing. Douglass (1995) recorded railroad ties, a possible turntable, and frayed wire cable; the cove was the Russians' 'harbor sheltered for baidarkas.'",
    "cargo": [
     "redwood lumber",
     "railroad ties"
@@ -3903,7 +3903,7 @@
     ],
     [
      "Operators",
-     "Ray brothers ('improved' Bear Harbor and Shelter Cove, Mendocino Beacon 25 Jul 1885); San Francisco tanbark buyers/investors (per HCHS nugget); wool/produce shippers of the South Fork Eel country (pre-1885 'people packed their wool and produce a distance north to Shelter Cove for shipment since that was their only option' - Mendocino Beacon 1 Jan 1881, in Bear Harbor NR)"
+     "Ray brothers ('improved' Bear Harbor and Shelter Cove, Mendocino Beacon 25 Jul 1885); San Francisco tanbark buyers/investors (per HCHS nugget); wool/produce shippers of the South Fork Eel country (pre-1885 'people at the time packed their wool and produce a distance north to Shelter Cove for shipment since that was their only option' - Bear Harbor NR narrative (citing Mendocino Beacon 1 Jan 1881))"
     ]
    ],
    "sources": [
@@ -4167,7 +4167,7 @@
     ],
     [
      "Operators",
-     "Dolbeer & Carson (with Elk River Mill & Lumber Co. built the 1885 standard-gauge, 12-mile Elk River log railroad to the bay; 'Three sawmills depended upon railroad deliveries' by 1887); Elk River Mill and Lumber Company (Noah Falk, mill and company town of FALK 1884, ~400 residents; mill closed 1937; lumber out via Bucksport); Pacific Lumber Co. (operated the Bucksport & Elk River line until 15 Jan 1953)"
+     "Dolbeer & Carson (with Elk River Mill & Lumber Co. built the 1885 standard-gauge, 12-mile Elk River log railroad to the bay; 'Three sawmills depended upon railroad deliveries by 1887' (Wikipedia 'Bucksport, California')); Elk River Mill and Lumber Company (Noah Falk, mill and company town of FALK 1884, ~400 residents; mill closed 1937; lumber out via Bucksport); Pacific Lumber Co. (operated the Bucksport & Elk River line until 15 Jan 1953)"
     ]
    ],
    "sources": [
@@ -4244,7 +4244,7 @@
     ],
     [
      "Wharf/pier",
-     "yes - Eel River & Eureka RR spur reached Fields Landing 1884; 'a large wharf was being built at Fields Landing' (1890s, Eel River valley station history); 'For many years the Pacific Lumber Company used the railroad to move their lumber... to shipping facilities on Humboldt Bay and the wharf at Fields Landing... before completion of the Northwestern Pacific Railroad in 1914'"
+     "yes - Eel River & Eureka RR spur reached Fields Landing 1884; 'a large wharf was being built at Fields Landing' (1890s, Eel River valley station history); 'For many years the Pacific Lumber Company used the railroad to move their lumber from the mills to shipping areas' (sunnyfortuna.com Eel River valley station history, via Wayback); shipment ran over the Fields Landing wharf until the NWP's completion in 1914"
     ],
     [
      "Rail",
@@ -4490,7 +4490,7 @@
    "facts": [
     [
      "Loading",
-     "1869: 'A wharf is now built here, at which vessels lie to load lumber' (Davidson). 1889: vessels do NOT lie at Hooper's Wharf because of swell and undertow - they moor bow-out a few yards off and lumber is LOWERED TO THEIR DECKS BY A DERRICK on the wharf; in the NE part of the bay a saw-mill and a CHUTE, whence lumber goes out on LIGHTERS to vessels at the mill companies' heavy moorings inside Prisoners Rock (Davidson 1889)"
+     "1869: 'A wharf is now built here, at which vessels lie to load lumber' (Davidson). 1889: vessels do NOT lie at Hooper's Wharf because of swell and undertow - they moor bow-out a few yards off and lumber is 'lowered to their decks by a derrick on the wharf' (the field's closing '(Davidson 1889)' already supplies the attribution; the run just needs quotation marks); in the NE part of the bay 'a saw-mill and a chute whence the lumber is taken on lighters to vessels at the moorings' - the mill companies' heavy ground-tackle moorings inside Prisoners Rock (Davidson 1889) inside Prisoners Rock (Davidson 1889)"
     ],
     [
      "Wharf/pier",
@@ -4637,7 +4637,7 @@
     ],
     [
      "Operators",
-     "Crescent City Mill & Transportation Co. (community corporation 1869; Lake Earl Mill, 32,000 ft/day 1881, spruce; dam 1880; mill-to-wharf railroad); → J. Wenger & Co. (Lake Earl Mill; burned 1890, rebuilt 1894, 50,000 ft/day; steamers Albion and Scotia; absorbed by Hobbs Wall May 1903; Lake Earl mill closed 1912); HOBBS, WALL & CO.: Hobbs, Gilmore & Co. of SF → Hobbs, Pomeroy & Co. inc. 1871 (Elk Creek mill + box factory, 45-50,000 ft/day 1880); renamed Hobbs, Wall & Co. after David Pomeroy drowned 1879 in the foundering of the Mary D. Pomeroy (lumber-laden for SF); Elk Valley Mill 6M→8.5M ft/yr 1880-93; 'the main business artery of the county'; ceased operations Feb-Apr 1939; Hume, Westbrook & Bomhoff (Smith River mouth mill 1882-83); Van Pelt brothers (small Pebble Beach mill, 1860s-70s)"
+     "Crescent City Mill & Transportation Co. (community corporation 1869; Lake Earl Mill, 32,000 ft/day 1881, spruce; dam 1880; mill-to-wharf railroad); → J. Wenger & Co. (Lake Earl Mill; burned 1890, rebuilt 1894, 50,000 ft/day; steamers Albion and Scotia; absorbed by Hobbs Wall May 1903; Lake Earl mill closed 1912); HOBBS, WALL & CO.: Hobbs, Gilmore & Co. of SF → Hobbs, Pomeroy & Co. inc. 1871 (Elk Creek mill + box factory, 45-50,000 ft/day 1880); renamed Hobbs, Wall & Co. after David Pomeroy drowned 1879 in the foundering of the Mary D. Pomeroy (lumber-laden for SF); Elk Valley Mill 6M→8.5M ft/yr 1880-93; 'termed the main business artery of the county' (quoted in Bearss); ceased operations Feb-Apr 1939; Hume, Westbrook & Bomhoff (Smith River mouth mill 1882-83); Van Pelt brothers (small Pebble Beach mill, 1860s-70s)"
     ]
    ],
    "sources": [
@@ -4979,7 +4979,7 @@
    "facts": [
     [
      "Loading",
-     "700-ft wharf at Crescent Bay (Cove Beach) just east of the point, built after the Waddell Beach failure; road+tramway from the mill; Davidson 1889: 'The Point New Year Wharf is built out about three hundred yards to three fathoms of water where coasters can discharge and load... Mooring buoys are laid off the wharf'; southeast gales periodically cut away the sandy beach and shoaled the berth so 'only the lightest vessels can load'"
+     "700-ft wharf at Crescent Bay (Cove Beach) just east of the point, built after the Waddell Beach failure; road+tramway from the mill; Davidson 1889: 'The Point New Year Wharf is built out about three hundred yards to three fathoms of water where coasters can discharge and load... Mooring buoys are laid off the wharf'; southeast gales periodically stripped the beach sand away and shoaled the berth so 'only the lightest vessels can load'"
     ],
     [
      "Wharf/pier",
@@ -5584,7 +5584,7 @@
     ],
     [
      "Operators",
-     "Higgins & Collins (Pier 10 Steuart; principal Bear Harbor receiver; Elisha Higgins + George H. Collins, partnership by 1870, 'one of the powerful San Francisco lumber companies'; owned doghole schooners incl. Gussie Klose); L.E. White Lumber Co. (15 Steuart; ties and fence posts); Pope & Talbot (Third & Berry yard; Puget Sound fir fleet); E.K. Wood Lumber Co. (wholesale yard at foot of Spear St. 1888; inc. 1895; managing owner of C.A. Thayer; Hoquiam fir to its SF/Oakland yards); Charles Nelson Co., Charles R. McCormick, Hobbs Wall (own SF yards) - standard trade names, not individually verified in this pass; tanneries and box factories as end-users (Hobbs, Gilmore & Co. box works fed from Crescent City)"
+     "Higgins & Collins (Pier 10 Steuart; principal Bear Harbor receiver; Elisha Higgins + George H. Collins, partnership by 1870, 'one of the powerful San Francisco lumber companies of the time' (Bear Harbor NR); owned doghole schooners incl. Gussie Klose); L.E. White Lumber Co. (15 Steuart; ties and fence posts); Pope & Talbot (Third & Berry yard; Puget Sound fir fleet); E.K. Wood Lumber Co. (wholesale yard at foot of Spear St. 1888; inc. 1895; managing owner of C.A. Thayer; Hoquiam fir to its SF/Oakland yards); Charles Nelson Co., Charles R. McCormick, Hobbs Wall (own SF yards) - standard trade names, not individually verified in this pass; tanneries and box factories as end-users (Hobbs, Gilmore & Co. box works fed from Crescent City)"
     ]
    ],
    "sources": [
@@ -6291,7 +6291,7 @@
     "display": "see summary",
     "confidence": "circa"
    },
-   "summary": "Despite the name, the MPDF (citing Davidson 1889:268) records that lumber from the Schooner Gulch mill was moved to Saunders' Landing for loading — a feeder mill, not a loading site.",
+   "summary": "Despite the name, the MPDF (citing Davidson 1889:268) records that the Schooner Gulch mill hauled its cut down to Saunders' Landing to be shipped — a feeder mill, not a loading site.",
    "cargo": [],
    "company": [],
    "facts": [
@@ -10344,7 +10344,7 @@
     },
     {
      "id": "duncans-landing-horse-tram-duncans-mills-duncans-cove-two-trough-chutes-projectin",
-     "name": "Duncans Cove (two trough chutes projecting south into the cove, 1876 chart)",
+     "name": "Duncans Cove (Duncans Cove (a pair of trough chutes shown running south over the cove on the 1876 chart))",
      "type": "rail-point",
      "coords": [
       38.39353,
@@ -10356,7 +10356,7 @@
       "display": "Mill built 1860 near the south side of the Russian River mouth; horse-drawn trams moved lumber ~1 mile through Wright Ranch to the chutes on Duncans Point; port active circa 1876-1889 (chutes shown on",
       "confidence": "circa"
      },
-     "summary": "Duncans Cove (two trough chutes projecting south into the cove, 1876 chart).",
+     "summary": "Duncans Cove (Duncans Cove (a pair of trough chutes shown running south over the cove on the 1876 chart)).",
      "notes": "Waypoint source: GNIS 1723325 Duncans Cove (Bay); MPDF Duncan's Landing section — precision: place"
     }
    ],
@@ -11004,7 +11004,7 @@
     "Hale's Grove Landing",
     "Usal Landing (alias only)"
    ],
-   "summary": "Location unknown — south of Usal, possibly within Sinkyone Wilderness SP. Monroe Lumber Co. reportedly building a new pier at Devilbliss Ranch in 1904; newspaper cargoes of shingles, lumber, and laths 1905-1911. The alias 'Usal Landing' does NOT mean Usal wharf proper.",
+   "summary": "Location unknown — south of Usal, possibly within Sinkyone Wilderness SP. the Ukiah Republican Press reported the Monroe Lumber Co. putting up a new pier at the Devilbliss Ranch in 1904; newspaper cargoes of shingles, lumber, and laths 1905-1911. The alias 'Usal Landing' does NOT mean Usal wharf proper.",
    "cargo": [
     "posts & split stuff",
     "redwood lumber"

@@ -71,6 +71,12 @@ TEXT_FIXES = [
  ("howard-creek-feeder", "summary", "Mills on Howard Creek (c.1903-1924)", "Mills on Howard Creek (c.1899-1920 per the MPDF)"),
  ("reeds-sawmill-mill-valley", "notes", "Full dossier in the project research files.",
   "Hoffman's land-case citation given as reported (case-number spelling pending verification against the Bancroft catalog). Full dossier in the project research files."),
+
+ # plagiarism fixes 2026-09-13 (unquoted verbatim runs vs on-disk corpora)
+ ("albion-landing", "summary", "vessels drawing 18 ft loaded at the moorings direct for foreign ports",
+  "vessels drawing 18 ft 'loaded at the moorings direct for foreign ports' (Davidson 1889)"),
+ ("russian-gulch-landing-mendocino", "summary", "a chute built from the 60-ft cliff on the south side of the northeast pocket",
+  "a chute built, in its words, 'from the top of the cliff on the south side of the north-east pocket' of the cove"),
 ]
 
 # facts-row text fixes: (feature_id, find, replace) applied across facts values
@@ -265,3 +271,53 @@ def apply(features, unlocated, routes, data):
             print("CLAIMS-FIX MISS:", m, file=sys.stderr)
         sys.exit(f"claims_fixes: {len(misses)} operations failed to apply")
     return len(TEXT_FIXES) + len(FACTS_FIXES) + len(COMPANY_FIXES) + len(CARGO_FIXES) + len(NOTE_APPENDS) + len(ROUTE_FIXES) + 1
+
+
+def apply_plagiarism_fixes(features, unlocated, routes, here):
+    """Web-source verbatim/close-paraphrase fixes (plag-fixes.json). Strict."""
+    import json as _json, os as _os, sys as _sys
+    path = _os.path.join(here, "plag-fixes.json")
+    hits = _json.load(open(path))
+    by_id = {f["id"]: f for f in features}
+    for u in unlocated:
+        by_id.setdefault(u["id"], u)
+    misses, applied = [], 0
+    for h in hits:
+        fid, field, find, repl = h["id"], h["field"], h["our_text"], h["fix"]
+        if fid == "lumber-ports-sources.html":
+            continue  # handled as an HTML edit outside the generator
+        if field.startswith("stop["):
+            hit = False
+            for r in routes:
+                if not r["id"].startswith(fid[:40]):
+                    continue
+                for st in r["stops"]:
+                    for k in ("name", "summary"):
+                        if find in st.get(k, ""):
+                            st[k] = st[k].replace(find, repl); hit = True
+            if hit: applied += 1
+            else: misses.append((fid, field, find[:60]))
+            continue
+        f = by_id.get(fid)
+        if f is None:
+            misses.append((fid, field, "NO FEATURE")); continue
+        if field == "summary" or field == "notes":
+            tgt = f.get(field, "") or ""
+            if find in tgt:
+                f[field] = tgt.replace(find, repl); applied += 1
+            else:
+                misses.append((fid, field, find[:60]))
+        elif field.startswith("facts"):
+            hit = False
+            for row in f.get("facts", []):
+                if find in row[1]:
+                    row[1] = row[1].replace(find, repl); hit = True
+            if hit: applied += 1
+            else: misses.append((fid, field, find[:60]))
+        else:
+            misses.append((fid, field, "UNKNOWN FIELD"))
+    if misses:
+        for m in misses:
+            print("PLAG-FIX MISS:", m, file=_sys.stderr)
+        _sys.exit(f"plagiarism fixes: {len(misses)} of {len(hits)} failed to apply")
+    return applied

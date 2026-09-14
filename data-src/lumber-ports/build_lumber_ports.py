@@ -178,8 +178,8 @@ CANON = [
 # inline summaries for the 14 MPDF-addendum ports (sourced to the MPDF; the
 # vault gazetteer addendum holds the fuller entries)
 ADDENDUM = {
- 3:("Wire chute built 1872 by Robert Anderson on Mistake Point at the mouth of Little Jackass Creek — a very early wire chute; abandoned 1883. Most business was tanbark, loaded by a cage lowered from the cliff landing stage.","Davidson 1889:289; California State Parks 2019, via the MPDF"),
- 4:("Location unknown — south of Usal, possibly within Sinkyone Wilderness SP. Monroe Lumber Co. reportedly building a new pier at Devilbliss Ranch in 1904; newspaper cargoes of shingles, lumber, and laths 1905-1911. The alias 'Usal Landing' does NOT mean Usal wharf proper.","Jackson 1977; Carpenter & Millberry 1914:548-549; Ukiah Republican Press July 29, 1904, via the MPDF"),
+ 3:("Robert Anderson built a wire chute here in 1872, on Mistake Point where Little Jackass Creek reaches the shore — a very early example of the type; abandoned 1883. Most business was tanbark, loaded by a cage lowered from the cliff landing stage.","Davidson 1889:289; California State Parks 2019, via the MPDF"),
+ 4:("Location unknown — south of Usal, possibly within Sinkyone Wilderness SP. the Ukiah Republican Press reported the Monroe Lumber Co. putting up a new pier at the Devilbliss Ranch in 1904; newspaper cargoes of shingles, lumber, and laths 1905-1911. The alias 'Usal Landing' does NOT mean Usal wharf proper.","Jackson 1977; Carpenter & Millberry 1914:548-549; Ukiah Republican Press July 29, 1904, via the MPDF"),
  5:("Location unknown. In Jackson's doghole list with a wire chute; appears in SF shipping intelligence 1895-96 only. Named for George Devilbliss of Cottoneva Creek, lumberman and Westport storekeeper to 1895.","Jackson 1977:18; Carpenter & Millberry 1914, via the MPDF"),
  15:("One trough chute from the north shore at the mouth of Hare Creek, built c.1880 for Blumberg & Hardy's railroad-tie operation. Mooring buoys removed by 1885; the 1884 railroad from Hare Creek to Caspar's mill probably diverted the traffic (MPDF); last shipment 1887.","Davidson 1889:287; Mendocino Beacon July 20, 2006; Carranco & Labbe 1975, via the MPDF"),
  16:("NEVER ACTIVE: a trough chute was built in 1884 on the south side of the tiny cove at the mouth of Bromley's Gulch (Jug Handle State Natural Reserve), but no shelter and no mooring anchors were ever placed, so no vessel ever used it. The coast's built-but-unused exemplar.","Davidson 1889:286; Jackson 1977, via the MPDF"),
@@ -190,7 +190,7 @@ ADDENDUM = {
  30:("Single trough chute under a mile northwest of Elk Creek; two rock fasteners and two mooring anchors. Seven vessels loaded in 1882, one in 1883. Shipped lumber, shingles, posts, ties, firewood, and tanbark. Not on historic charts; exact location unknown.","Davidson 1889:275, via the MPDF"),
  34:("Location undetermined. Jackson places it a mile north of Scott's; the 1889 chart 661 shows one unnamed trough chute about two miles south of Arena Cove. SF newspapers record schooners loading railroad ties, posts, and cordwood 1871-74.","Jackson 1977:18; USC&GS chart 661 (1889), via the MPDF"),
  35:("Location undetermined. A 20-year franchise of 100 ft of shore was granted to Lew Gerlock in 1870. Jackson places it north of Saunders'; shares the same unnamed-chute chart evidence as Buster's — possibly the same site.","Jackson 1977:18; Munro-Fraser 1880a; USC&GS chart 661 (1889), via the MPDF"),
- 44:("A modified wire chute with a steam-powered swinging boom, built in the 1880s by farmer Joe Tongue of Gualala on leased Rutherford ranch land (Sea Ranch area); shipped grain and fruit. Candidate site: the end of Fish Rock Road behind Rutherford's barn. The farm-cargo edge case of the chute system.","Clark 2016; Clark 2009:17, via the MPDF"),
+ 44:("What the MPDF describes as 'a modified wire chute with a steam powered swinging boom', built in the 1880s by farmer Joe Tongue of Gualala on leased Rutherford ranch land (Sea Ranch area); shipped grain and fruit. Candidate site: the end of Fish Rock Road behind Rutherford's barn. The farm-cargo edge case of the chute system.","Clark 2016; Clark 2009:17, via the MPDF"),
  51:("Landing or anchorage (possibly a wire chute) at Stockhoff Cove, now Stillwater Cove Regional Park. The Stockhoff homestead (late 1860s) lived by lumbering, ranching, and farming; potatoes and produce loaded here or at neighboring chutes.","Rudy 2009:55; Rudy 2015:40, via the MPDF"),
 }
 
@@ -756,6 +756,8 @@ sys.path.insert(0, HERE)
 import claims_fixes
 n_fixes = claims_fixes.apply(features, unlocated, routes, data)
 print(f"claims fixes applied: {n_fixes} operation groups")
+n_plag = claims_fixes.apply_plagiarism_fixes(features, unlocated, routes, HERE)
+print(f"plagiarism fixes applied: {n_plag}")
 
 # ---------------- output gates ----------------
 # Gate: canonical north->south monotonic latitude on OUR OWN OUTPUT

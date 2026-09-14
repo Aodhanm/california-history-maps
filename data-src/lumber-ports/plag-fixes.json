@@ -1,0 +1,330 @@
+[
+ {
+  "id": "walsh-landing",
+  "field": "summary",
+  "our_text": "Local history states timber harvested in the surrounding area was loaded from the bluffs onto doghole schooners for San Francisco",
+  "source": "Ocean Cove Campground & Store, 'History of Ocean Cove', https://www.oceancove.org/?page_id=219 (fetched via Wayback; source reads 'Timber was harvested in the surrounding area, then loaded from the bluffs onto \"Dog Hole\" schooners, and sent to San Francisco' — our sentence is the source's with only three function words changed; it evaded the n-gram scan)",
+  "fix_type": "quote_and_cite",
+  "fix": "The Ocean Cove local history states: 'Timber was harvested in the surrounding area, then loaded from the bluffs onto \"Dog Hole\" schooners, and sent to San Francisco'"
+ },
+ {
+  "id": "stewarts-point-landing",
+  "field": "summary",
+  "our_text": "John and Andrew Fisk built the first landing in 1867",
+  "source": "NOAA GFNMS, https://farallones.noaa.gov/heritage/doghole_stewartspoint.html ('John and Andrew Fisk built the first landing at Stewarts Point in 1867')",
+  "fix_type": "rewrite",
+  "fix": "The Fisk brothers, John and Andrew, opened the first landing here in 1867"
+ },
+ {
+  "id": "stewarts-point-landing",
+  "field": "summary",
+  "our_text": "H.A. Richardson bought the property in 1881, built his own chute",
+  "source": "NOAA GFNMS, doghole_stewartspoint.html ('Richardson bought the property in 1881 and used the middle chute... until he built his own')",
+  "fix_type": "rewrite",
+  "fix": "H.A. Richardson acquired the point in 1881 and added a chute of his own"
+ },
+ {
+  "id": "stewarts-point-landing",
+  "field": "summary",
+  "our_text": "steam- and horse-drawn railroads to the cliff edge, and their own fleet of schooners and steam schooners",
+  "source": "NOAA GFNMS, doghole_stewartspoint.html ('a system of steam and horse drawn railroads to move the forest products to the cliff edge. The Richardson's even owned their own fleet of schooners and steam schooners')",
+  "fix_type": "rewrite",
+  "fix": "rail lines, steam- and horse-powered, running out to the bluff edge, and a family fleet of sailing schooners and steam schooners"
+ },
+ {
+  "id": "stewarts-point-landing",
+  "field": "summary",
+  "our_text": "until trucks replaced water shipment in 1925",
+  "source": "NOAA GFNMS, doghole_stewartspoint.html ('continued on for 40 years until trucks replaced water shipment in 1925')",
+  "fix_type": "rewrite",
+  "fix": "until trucking took over the freight in 1925"
+ },
+ {
+  "id": "stewarts-point-landing",
+  "field": "summary",
+  "our_text": "survives as an essentially unaltered doghole-port hamlet",
+  "source": "Marx & Lawrence 2016 Sonoma Research Design PDF, https://cdn.fortross.org/uploads/2021/09/Sonoma_Research_Design_6_20_16.pdf ('Stewart's Point, an essentially unaltered doghole port settlement, is a Sonoma County Historic District')",
+  "fix_type": "rewrite",
+  "fix": "survives with its doghole-era fabric largely intact"
+ },
+ {
+  "id": "stewarts-point-landing",
+  "field": "facts:Rail",
+  "our_text": "system of steam and horse-drawn railroads from mills to cliff edge",
+  "source": "NOAA GFNMS, doghole_stewartspoint.html ('installed a system of steam and horse drawn railroads to move the forest products to the cliff edge')",
+  "fix_type": "rewrite",
+  "fix": "steam- and horse-powered rail lines carried products from the mills out to the bluff edge"
+ },
+ {
+  "id": "del-mar-landing",
+  "field": "summary",
+  "our_text": "the mill burned in 1910 and the wire chute was likely abandoned soon after",
+  "source": "NOAA GFNMS, https://farallones.noaa.gov/heritage/doghole_delmarlanding.html ('The mill burned down in 1910, and the wire chute was likely abandoned shortly thereafter' — including the inferential 'likely abandoned')",
+  "fix_type": "rewrite",
+  "fix": "the mill burned in 1910, and the wire chute probably went out of service within a few years"
+ },
+ {
+  "id": "del-mar-landing",
+  "field": "summary",
+  "our_text": "brothers William and George Bender built a mill and wire chute just south",
+  "source": "NOAA GFNMS, doghole_delmarlanding.html ('brothers William and George Bender built a mill and installed a wire chute in 1898')",
+  "fix_type": "rewrite",
+  "fix": "the Bender brothers, William and George, put up a mill just south and rigged a wire chute"
+ },
+ {
+  "id": "del-mar-landing",
+  "field": "summary",
+  "our_text": "Charles Meyer and William Benitz established a produce/grain landing at a small cove here in 1849",
+  "source": "NOAA GFNMS, doghole_delmarlanding.html ('Charles Meyer and William Benitz established a landing at a small protected cove')",
+  "fix_type": "rewrite",
+  "fix": "Charles Meyer and William Benitz opened a landing for produce and grain at a little cove here in 1849"
+ },
+ {
+  "id": "timber-cove-landing",
+  "field": "summary",
+  "our_text": "George Weber and D.L.B. Ross built a mill 1.5 mi inland in 1861 (lasted 3 years)",
+  "source": "NOAA GFNMS, https://farallones.noaa.gov/heritage/doghole_timbercove.html ('In 1861, Mr. George Weber and D. L. B. Ross built a mill nearby on a ridge one and a half miles inland... that only lasted for three years')",
+  "fix_type": "rewrite",
+  "fix": "In 1861 George Weber and D.L.B. Ross started a sawmill on a ridge 1.5 mi inland; it ran only three years"
+ },
+ {
+  "id": "timber-cove-landing",
+  "field": "summary",
+  "our_text": "the first such apparatus in the area",
+  "source": "NOAA GFNMS, doghole_timbercove.html ('a lumber chute built sometime that decade making it the first such apparatus in the area') — NOAA's exact words, outside our quotation marks though '(NOAA)' follows",
+  "fix_type": "quote_and_cite",
+  "fix": "'the first such apparatus in the area'"
+ },
+ {
+  "id": "fisk-mill-landing",
+  "field": "summary",
+  "our_text": "ownership passed to Frederick M. Helmke in 1865, who closed the mill in 1876",
+  "source": "NOAA GFNMS, https://farallones.noaa.gov/heritage/doghole_fiskmill.html ('Fisk's ownership passed to Frederick M. Helmke in 1865 who continued to run the mill before closing it in 1876')",
+  "fix_type": "rewrite",
+  "fix": "Frederick M. Helmke acquired the operation in 1865 and shut the mill down in 1876"
+ },
+ {
+  "id": "fisk-mill-landing",
+  "field": "summary",
+  "our_text": "the chute stayed active under the Kruse family, transhipping for other mills including Platt's mill",
+  "source": "NOAA GFNMS, doghole_fiskmill.html ('the chute remained active under the Kruse family, with lumber arriving for transshipment from other mills in the area such as Platt's mill')",
+  "fix_type": "rewrite",
+  "fix": "the Kruse family kept the chute in service, handling cargo sent down from other operations such as Platt's mill"
+ },
+ {
+  "id": "hardy-creek-landing",
+  "field": "summary",
+  "our_text": "the mill was part of the Cottoneva Lumber Co. of Rockport and was operated by E.T. Dusenbury, one of its owners",
+  "source": "MCMRHS, http://www.mendorailhistory.org/1_towns/towns/hardy_creek.htm via Wayback ('was part of the Cottoneva Lumber Co. at Rockport... The mill was operated by E.T.Dusenbury, one of the owners of the Cottoneva Lumber Co.')",
+  "fix_type": "rewrite",
+  "fix": "the mill belonged to Rockport's Cottoneva Lumber Co. and was run by part-owner E.T. Dusenbury"
+ },
+ {
+  "id": "hardy-creek-landing",
+  "field": "summary",
+  "our_text": "It had its own wharf and a railroad, and the town a large hotel; the mill burned and was never rebuilt",
+  "source": "MCMRHS Hardy Creek page via Wayback ('The mill had a wharf and a railroad. The town had a large hotel... The mill was destroyed by fire and was never rebuilt' — clause-for-clause tracking)",
+  "fix_type": "rewrite",
+  "fix": "A wharf and a rail line served the mill, and the town supported a large hotel; fire took the mill, which was never replaced"
+ },
+ {
+  "id": "bihler-landing",
+  "field": "summary",
+  "our_text": "by 1875 Bihler and D.L.B. Ross built a landing with a slide chute, adding a second in 1876",
+  "source": "NOAA GFNMS, https://farallones.noaa.gov/heritage/doghole_bihlerlanding.html ('By 1875, Bihler and D. B. L. Ross built a landing with a slide chute and then expanded with a second slide chute a year later')",
+  "fix_type": "rewrite",
+  "fix": "Bihler and D.L.B. Ross had a landing and slide chute working by 1875, with a second chute following in 1876"
+ },
+ {
+  "id": "bihler-landing",
+  "field": "summary",
+  "our_text": "It shipped produce, tanbark, posts, firewood, staves and railroad ties",
+  "source": "NOAA GFNMS, doghole_bihlerlanding.html ('They shipped out produce, tan bark, posts, firewood, staves, and railroad ties' — identical six-item order)",
+  "fix_type": "rewrite",
+  "fix": "Ranch produce went out with railroad ties, staves, posts, firewood and tanbark"
+ },
+ {
+  "id": "bihler-landing",
+  "field": "summary",
+  "our_text": "had over a dozen buildings (hotel, store, post office, blacksmith, wagon shop, livery)",
+  "source": "NOAA GFNMS, doghole_bihlerlanding.html ('The buildings, over a dozen in number, included a barn, hotel, store, post office, blacksmith shop, wagon shop, and livery' — same order)",
+  "fix_type": "rewrite",
+  "fix": "counted more than twelve buildings, among them a hotel, a store, the post office, blacksmith and wagon shops, and a livery"
+ },
+ {
+  "id": "union-landing",
+  "field": "summary",
+  "our_text": "shipping six-foot railroad ties to San Pedro for the Los Angeles Railway",
+  "source": "MCMRHS, http://www.mendorailhistory.org/1_towns/towns/union_landing.htm via Wayback ('shipped six-foot railroad ties to San Pedro in Southern California for the Los Angeles Railroad')",
+  "fix_type": "rewrite",
+  "fix": "sending six-foot ties down to the Los Angeles Railway by way of San Pedro"
+ },
+ {
+  "id": "union-landing",
+  "field": "summary",
+  "our_text": "the last wharf ever built on the Mendocino coast — which the Depression left barely used",
+  "source": "MCMRHS Union Landing page via Wayback ('This was the last wharf built along the Mendocino Coast and due to the depression and the great lumber slump was barely used')",
+  "fix_type": "rewrite",
+  "fix": "no wharf was built on the Mendocino coast after it, and the Depression left it nearly idle"
+ },
+ {
+  "id": "rules-landing",
+  "field": "summary",
+  "our_text": "the cable was taken down in 1884 and the business moved to Russian Gulch Landing",
+  "source": "NOAA GFNMS, https://farallones.noaa.gov/heritage/doghole_ruleslanding.html ('was taken down in 1884 and moved north to Russian Gulch Landing') + Sonoma Research Design PDF data sheet ('cable taken down 1884 and business moved to Russian Gulch Landing')",
+  "fix_type": "rewrite",
+  "fix": "the owners dismantled the cable in 1884 and shifted the trade to Russian Gulch Landing"
+ },
+ {
+  "id": "stillwater-cove-landing",
+  "field": "summary",
+  "our_text": "his widow Francesca ran the property and built a lumber chute by the late 1860s",
+  "source": "NOAA GFNMS, https://farallones.noaa.gov/heritage/doghole_stillwatercove.html ('Francesca assumed the family's leadership and built a lumber chute there by the late 1860s')",
+  "fix_type": "rewrite",
+  "fix": "his widow Francesca took over the property and had a lumber chute working before the end of the 1860s"
+ },
+ {
+  "id": "fort-bragg-landing",
+  "field": "summary",
+  "our_text": "the last lumber cargo to leave the Mendocino coast by sea sailed from this pier in 1938",
+  "source": "MCMRHS Shipping page, http://www.mendorailhistory.org/1_shipping/shipping.htm via Wayback ('The last load of lumber to leave the Mendocino Coast by sea left in 1938 from the pier...')",
+  "fix_type": "rewrite",
+  "fix": "the Mendocino coast's final seaborne lumber cargo departed this pier in 1938"
+ },
+ {
+  "id": "bear-harbor-landing",
+  "field": "facts:Loading",
+  "our_text": "a spark from the chute's donkey engine burned 400 ft of pier 8 Apr 1903",
+  "source": "Bear Harbor Landing NRHP nomination PDF, ohp.parks.ca.gov ...Bear Harbor Landing_REDACTED.pdf ('400 feet of the new rebuilt pier burned on April 8, 1903... A spark from the chute's donkey engine caused the blaze')",
+  "fix_type": "rewrite",
+  "fix": "its spark set the pier alight 8 Apr 1903, burning 400 ft"
+ },
+ {
+  "id": "bear-harbor-landing",
+  "field": "facts:Loading",
+  "our_text": "1885 pier off Morgan Rock with trough-chute apron arm at its end",
+  "source": "Bear Harbor Landing NRHP nomination PDF ('over the eastern side of Morgan Rock with a trough chute apron arm at its outer end')",
+  "fix_type": "rewrite",
+  "fix": "1885 pier crossing Morgan Rock, its seaward tip fitted with an apron-arm trough chute"
+ },
+ {
+  "id": "laguna-landing",
+  "field": "summary",
+  "our_text": "built a water-powered mill and the original chute and wharf at Cleone Point, shipping their first load by July 1883",
+  "source": "MCMRHS Cleone page, http://www.mendorailhistory.org/1_towns/towns/cleone.htm via Wayback ('They built the original loading chute and wharf at Cleone. By July 1883 they had sent out their first load of lumber')",
+  "fix_type": "rewrite",
+  "fix": "built a water-powered mill and Cleone Point's first chute and wharf, getting a first cargo of lumber away by July 1883"
+ },
+ {
+  "id": "laguna-landing",
+  "field": "summary",
+  "our_text": "rights to rebuild wharf and chute were granted in 1888",
+  "source": "MCMRHS Cleone page via Wayback ('In 1888, the right to build the wharf and chute were granted')",
+  "fix_type": "rewrite",
+  "fix": "an 1888 grant authorized rebuilding of wharf and chute"
+ },
+ {
+  "id": "noyo-landing",
+  "field": "summary",
+  "our_text": "The mill built one of the coast's earliest railroads, hauling logs from Pudding Creek along today's Harrison Street",
+  "source": "MCMRHS Noyo page, http://www.mendorailhistory.org/1_towns/fort_bragg/noyo.htm via Wayback ('The mill built one of the earliest railroads to haul logs from Pudding Creek to the Noyo River. The railroad ran along what is now Harrison Street')",
+  "fix_type": "rewrite",
+  "fix": "One of the coast's earliest railroads was the mill's log line from Pudding Creek, on the alignment of today's Harrison Street"
+ },
+ {
+  "id": "little-river-landing",
+  "field": "summary",
+  "our_text": "Capt. Thomas H. Peterson built about three dozen wooden vessels here and nearby",
+  "source": "Kelley House Museum, https://www.kelleyhousemuseum.org/wire-chute-at-the-shipping-point/ (Hough book notice: 'Thomas Petersen built about three dozen wooden vessels')",
+  "fix_type": "rewrite",
+  "fix": "Capt. Thomas H. Peterson launched roughly three dozen wooden ships here and nearby"
+ },
+ {
+  "id": "trinidad",
+  "field": "facts:Loading",
+  "our_text": "lumber is LOWERED TO THEIR DECKS BY A DERRICK on the wharf",
+  "source": "Davidson, Pacific Coast Pilot, 4th ed. 1889 (archive.org/details/cihm_15816), Trinidad Bay section: \"they are moored bow-out a few yards from it, and the lumber is lowered to their decks by a derrick on the wharf\"",
+  "fix_type": "quote_and_cite",
+  "fix": "lumber is 'lowered to their decks by a derrick on the wharf' (the field's closing '(Davidson 1889)' already supplies the attribution; the run just needs quotation marks)"
+ },
+ {
+  "id": "trinidad",
+  "field": "facts:Loading",
+  "our_text": "a saw-mill and a CHUTE, whence lumber goes out on LIGHTERS to vessels at the mill companies' heavy moorings",
+  "source": "Davidson 1889 (cihm_15816): \"there are a saw-mill and a chute whence the lumber is taken on lighters to vessels at the moorings\"; the moorings detail from the preceding paragraph (\"the mill companies have placed moorings with heavy ground-tackle just inside Prisoners Rock\")",
+  "fix_type": "quote_and_cite",
+  "fix": "'a saw-mill and a chute whence the lumber is taken on lighters to vessels at the moorings' - the mill companies' heavy ground-tackle moorings inside Prisoners Rock (Davidson 1889)"
+ },
+ {
+  "id": "duncans-landing-horse-tram-duncans-mills-land-lumber-co-wrig",
+  "field": "stop[Duncans Cove]:summary (and the identical stop name)",
+  "our_text": "two trough chutes projecting south into the cove, 1876 chart",
+  "source": "NorCal Doghole Ports MPDF draft (ohp.parks.ca.gov ..._MPDF_Draft.pdf): \"An 1876 U.S. Coast Survey chart indicated two trough chutes projecting south into the cove\"",
+  "fix_type": "rewrite",
+  "fix": "Duncans Cove (a pair of trough chutes shown running south over the cove on the 1876 chart)"
+ },
+ {
+  "id": "schooner-gulch-feeder",
+  "field": "summary",
+  "our_text": "lumber from the Schooner Gulch mill was moved to Saunders' Landing for loading",
+  "source": "NorCal Doghole Ports MPDF draft: \"Lumber from a mill at Schooner Gulch was moved to Saunders Landing for loading\"",
+  "fix_type": "rewrite",
+  "fix": "the Schooner Gulch mill hauled its cut down to Saunders' Landing to be shipped"
+ },
+ {
+  "id": "shelter-cove",
+  "field": "facts:Operators",
+  "our_text": "'people packed their wool and produce a distance north to Shelter Cove for shipment since that was their only option' - Mendocino Beacon 1 Jan 1881, in Bear Harbor NR",
+  "source": "Bear Harbor Landing NRHP nomination PDF (ohp.parks.ca.gov ..._Bear%20Harbor%20Landing_REDACTED.pdf). The sentence is the NOMINATION'S OWN unquoted narrative (\"as people at the time packed their wool and produce...\"), which merely cites (Mendocino Beacon, 1 January 1881); our version credits the Beacon with the NR authors' words and silently drops 'at the time'",
+  "fix_type": "quote_and_cite",
+  "fix": "'people at the time packed their wool and produce a distance north to Shelter Cove for shipment since that was their only option' - Bear Harbor NR narrative (citing Mendocino Beacon 1 Jan 1881)"
+ },
+ {
+  "id": "fields-landing",
+  "field": "facts:Wharf/pier",
+  "our_text": "'For many years the Pacific Lumber Company used the railroad to move their lumber... to shipping facilities on Humboldt Bay and the wharf at Fields Landing... before completion of the Northwestern Pacific Railroad in 1914'",
+  "source": "sunnyfortuna.com/railroad/local_stations.htm (2019 Wayback capture; live site dead). The archived page reads \"...to move their lumber from the mills to shipping areas.\" - the material after the first ellipsis is not on the archived page, so the quotation is unattributed inline AND partly unverifiable as quoted",
+  "fix_type": "quote_and_cite",
+  "fix": "'For many years the Pacific Lumber Company used the railroad to move their lumber from the mills to shipping areas' (sunnyfortuna.com Eel River valley station history, via Wayback); shipment ran over the Fields Landing wharf until the NWP's completion in 1914"
+ },
+ {
+  "id": "crescent-city",
+  "field": "facts:Operators",
+  "our_text": "'the main business artery of the county'",
+  "source": "Bearss, Redwood NP history basic data, ch. 10c (nps.gov/parkhistory/online_books/redw/history10c.htm): 'Hobbs, Wall was \"termed the main business artery of the county.\"' - our quote marks are present but carry no attribution",
+  "fix_type": "quote_and_cite",
+  "fix": "'termed the main business artery of the county' (quoted in Bearss)"
+ },
+ {
+  "id": "bucksport",
+  "field": "facts:Operators",
+  "our_text": "'Three sawmills depended upon railroad deliveries' by 1887",
+  "source": "Wikipedia, 'Bucksport, California': \"Three sawmills depended upon railroad deliveries by 1887.\" - quoted verbatim but with no attribution anywhere in the field",
+  "fix_type": "quote_and_cite",
+  "fix": "'Three sawmills depended upon railroad deliveries by 1887' (Wikipedia 'Bucksport, California')"
+ },
+ {
+  "id": "san-francisco-lumber-wharves-and-yards-the-receiving-end",
+  "field": "facts:Operators",
+  "our_text": "'one of the powerful San Francisco lumber companies'",
+  "source": "Bear Harbor Landing NR nomination: \"partnered with George H. Collins to form Higgins and Collins, one of the powerful San Francisco lumber companies of the time\" - quoted but unattributed in our field",
+  "fix_type": "quote_and_cite",
+  "fix": "'one of the powerful San Francisco lumber companies of the time' (Bear Harbor NR)"
+ },
+ {
+  "id": "a-o-nuevo-point-new-year-wharf-crescent-bay-cove-beach",
+  "field": "facts:Loading",
+  "our_text": "southeast gales periodically cut away the sandy beach and shoaled the berth",
+  "source": "Davidson 1889 (cihm_15816): \"the southeast gales cut away the sandy beach and shoal the anchorage so that only the lightest vessels can load\" - the tail is quoted in our text but this lead-in run is not",
+  "fix_type": "rewrite",
+  "fix": "southeast gales periodically stripped the beach sand away and shoaled the berth"
+ },
+ {
+  "id": "lumber-ports-sources.html",
+  "field": "section-3 (four-tier port classification)",
+  "our_text": "vessels over ~200 tons were generally too large for the dogholes",
+  "source": "NorCal Doghole Ports MPDF draft: \"Vessels over 200 tons were generally too big to enter most doghole ports (Jackson 1977:10)\" - our sentence keeps the MPDF's skeleton while citing Jackson",
+  "fix_type": "rewrite",
+  "fix": "the dogholes generally could not take a vessel much over 200 tons"
+ }
+]
