@@ -31,11 +31,19 @@ def symbol_for(f):
     if t == "nike":               return "nike"
     if t == "AA-battery":         return "aagun"
     if t == "mortar-battery":     return "mortar"
-    if t == "unbuilt":            return "unbuilt"
     if t == "underwater-defense": return "net" if "net" in fid else "mine"
-    # a casemated 16-inch work is a casemate, whatever its id says
-    if re.search(r"16-inch|16 inch", txt, re.I):
-        return "casemate"
+    # A battery whose own guns sat in casemates gets the casemate symbol, whatever
+    # its calibre or its id. Wallace was casemated in 1942-43 at 12-inch; Milagra's
+    # 16-inch was designed casemated and never built, so it draws as a casemate and
+    # the unbuilt flag renders it hollow.
+    # Two things must NOT be caught: Fort Point is a casemated FORT, not a battery,
+    # and Battery Baker's record mentions the mine casemate it stood in front of,
+    # which is a different structure.
+    if t != "fort":
+        cm = re.sub(r"mine casemate\w*", "", txt, flags=re.I)
+        if re.search(r"casemat", cm, re.I):
+            return "casemate"
+    if t == "unbuilt":            return "unbuilt"
     if t == "AMTB":               return "rifle"
     if layer in ("spanish", "mexican"):
         return "earthwork" if "earthwork" in fid else "cannon"
