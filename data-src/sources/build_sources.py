@@ -742,9 +742,7 @@ ul.works .caveat { display: block; margin-top: 0.3rem; font-size: 0.86rem; font-
       '<span class="used">DOI 10.5281/zenodo.21912644</span></li>')
     A('<li><a href="https://ranchos.archivesofcalifornia.com"><strong>Ranchos of Alta '
       'California</strong></a> &#8212; 672 land grants and claims with their adjudication, the '
-      'families that held them, and the manuscript <em>dise&#241;os</em> filed as evidence. Its '
-      '<a href="https://ranchos.archivesofcalifornia.com/sources/">Sources and Method</a> page '
-      'carries the land-case apparatus in full. '
+      'families that held them, and the manuscript <em>dise&#241;os</em> filed as evidence. '
       '<span class="used">The rancho maps here use a different boundary dataset from the '
       'portal, which is why the two disagree; both are published rather than reconciled.</span></li>')
     A('<li><a href="https://ships.archivesofcalifornia.com"><strong>California Ship Registry'
@@ -753,8 +751,6 @@ ul.works .caveat { display: block; margin-top: 0.3rem; font-size: 0.86rem; font-
       'lists, and Ogden\'s otter-trade appendix. The maritime counterpart to the landward record '
       'on these maps, and the eighteenth- and early nineteenth-century precursor to the coastwise '
       'traffic on the lumber-ports and lighthouse maps.</li>')
-    A('<li><a href="../gallery/disenos.html"><strong>The dise&#241;o gallery</strong></a> '
-      '&#8212; 1,397 manuscript grant maps from the Bancroft land-case files, reproduced.</li>')
     A('</ul>')
 
     # ---- limits ----
