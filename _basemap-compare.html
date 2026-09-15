@@ -1,0 +1,50 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Basemap comparison</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+ body{margin:0;background:#141009;font-family:-apple-system,Segoe UI,sans-serif;color:#e8dcc0}
+ h1{font-size:15px;margin:10px 14px;letter-spacing:.04em;color:#D6A64E}
+ .grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;padding:0 8px 12px}
+ .cell{position:relative}
+ .cell .m{height:400px;border:1px solid #3a2f1a;border-radius:6px}
+ .cap{position:absolute;top:6px;left:6px;z-index:500;background:rgba(20,16,9,.86);color:#F4E9CE;
+      font:600 12px/1.2 monospace;padding:4px 8px;border-radius:4px;letter-spacing:.03em}
+ .sub{font-weight:400;color:#b99a5e;font-size:10px}
+</style></head><body>
+<h1>Ranchos on 6 keyless basemaps — same LA-basin view, same real polygons</h1>
+<div class="grid" id="grid"></div>
+<script>
+const PROV=[
+ ["1 · Esri Light Gray (current pick)","keyless · muted canvas",
+   ["https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}"]],
+ ["2 · Esri National Geographic","keyless · warm classic atlas",
+   ["https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}"]],
+ ["3 · Esri World Topographic","keyless · terrain + labels",
+   ["https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}"]],
+ ["4 · Esri World Street","keyless · warm street map",
+   ["https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}"]],
+ ["5 · OpenStreetMap standard","keyless · colorful/busy",
+   ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"]],
+ ["6 · Esri World Imagery","keyless · satellite",
+   ["https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"]],
+];
+const CENTER=[34.05,-118.15], ZOOM=10;
+fetch('data/ranchos-experimental.json').then(r=>r.json()).then(d=>{
+ const cmap={}; d.layers.forEach(L=>cmap[L.id]=L.color);
+ const feats=d.features.filter(f=>f.polygon&&f.polygon.length);
+ const grid=document.getElementById('grid');
+ PROV.forEach(([name,sub,urls],i)=>{
+   const cell=document.createElement('div');cell.className='cell';
+   cell.innerHTML='<div class="cap">'+name+'<div class="sub">'+sub+'</div></div><div class="m" id="m'+i+'"></div>';
+   grid.appendChild(cell);
+   const map=L.map('m'+i,{zoomControl:false,attributionControl:false,center:CENTER,zoom:ZOOM});
+   const dark=(i===5);
+   urls.forEach((u,j)=>L.tileLayer(u,{maxZoom:17,maxNativeZoom:16}).addTo(map));
+   feats.forEach(f=>{
+     const col=cmap[f.layer]||'#888';
+     try{L.polygon(f.polygon,{color:dark?'#fff':col,weight:1,opacity:.9,fillColor:col,fillOpacity:.5}).addTo(map);}catch(e){}
+   });
+ });
+});
+</script></body></html>

@@ -40,6 +40,53 @@
     conjectural: 'CONJECTURAL location'
   };
 
+
+  // ---------- pictorial symbols (data-gated) ----------
+  // A feature carrying a `symbol` renders as a silhouette from assets/js/glyphs.js
+  // instead of a dot. Maps whose features have no `symbol` are untouched.
+  function G() { return window.MapGlyphs; }
+  function hasGlyph(n) { return !!(G() && G().names().indexOf(n) >= 0); }
+
+  function dotIcon(color, big) {
+    var r = big ? 5 : 3.4, px = r * 2 + 3;
+    return L.divIcon({ className: 'sym-icon',
+      html: '<svg width="' + px + '" height="' + px + '"><circle cx="' + (px/2) + '" cy="' + (px/2) +
+            '" r="' + r + '" fill="' + color + '" fill-opacity="0.9" stroke="#fff" stroke-width="1"/></svg>',
+      iconSize: [px, px], iconAnchor: [px/2, px/2] });
+  }
+
+  function symbolIconFor(f, color) {
+    var count = f.symbol_count || 1, size = f.symbol_size || 24;
+    var o = { size: count > 1 ? Math.round(size * 0.8) : size,
+              hollow: (f.coord_precision === 'conjectural' || f.unbuilt === true) };
+    var html = count > 1 ? G().row(f.symbol, color, count, o) : G().svg(f.symbol, color, o);
+    if (!html) return null;
+    var w = count > 1 ? o.size * Math.min(count, 4) : o.size;
+    return L.divIcon({ html: html, className: 'sym-icon', iconSize: [w, o.size], iconAnchor: [w/2, o.size/2] });
+  }
+
+  // Below the glyph zoom a feature shows as a plain dot, so a hundred works on one
+  // shore read as a line rather than a pile.
+  function retierSymbols() {
+    var z = state.map.getZoom();
+    state.allMarkers.forEach(function (rec) {
+      if (!rec.symbolIcon) return;
+      var f = rec.feature;
+      var want = (z >= (f.symbol_min_zoom || state.data.symbol_min_zoom || 8) || f.symbol_major) ? 'glyph' : 'dot';
+      if (rec.tier === want) return;
+      rec.tier = want;
+      rec.marker.setIcon(want === 'glyph' ? rec.symbolIcon : rec.dotIcon);
+    });
+  }
+
+  function symbolMarker(f, color) {
+    var icon = symbolIconFor(f, color);
+    if (!icon) return null;
+    var m = L.marker(f.coords, { icon: icon, riseOnHover: true });
+    m._symbolIcon = icon; m._dotIcon = dotIcon(color, !!f.symbol_major);
+    return m;
+  }
+
   function markerFor(f, color) {
     var precision = f.coord_precision || 'place';
     var perm = !(state.data && state.data.hover_labels);  // dense maps: hover labels instead of permanent
@@ -86,8 +133,12 @@
     if (f.type === 'settlement' || f.type === 'mission' || f.type === 'presidio') {
       opts.radius = 5; opts.weight = 1.5;
     }
-    var m = L.circleMarker(f.coords, opts);
+    var m = null;
+    if (f.symbol && hasGlyph(f.symbol)) m = symbolMarker(f, color);
+    if (!m) m = L.circleMarker(f.coords, opts);
     m.bindPopup(popupHtml(f), { maxWidth: 380 });
+    if (state.data && state.data.hover_labels)
+      m.bindTooltip(f.name.split(' (')[0], { direction: 'top', offset: [0, -12], className: 'sym-label' });
     return m;
   }
 
@@ -392,7 +443,8 @@
     (data.features || []).forEach(function (f) {
       var color = layerColors[f.layer] || '#555';
       var m = markerFor(f, color);
-      state.allMarkers.push({ feature: f, marker: m, layerId: f.layer });
+      state.allMarkers.push({ feature: f, marker: m, layerId: f.layer,
+                              symbolIcon: m._symbolIcon, dotIcon: m._dotIcon, tier: 'glyph' });
       var g = state.layerGroups[f.layer];
       if (g) g.addLayer(m);
     });
@@ -425,6 +477,24 @@
         if (g) g.addLayer(m); else m.addTo(map);
       });
     });
+
+    if (data.symbol_key && data.symbol_key.length) {
+      var keyCtl = L.control({ position: 'bottomleft' });
+      keyCtl.onAdd = function () {
+        var box = el('div', 'legend-key');
+        var h = '<h4>' + esc(data.symbol_key_title || 'Symbols') + '</h4>';
+        data.symbol_key.forEach(function (k) {
+          var g = G().svg(k.symbol, k.color || '#6b6257', { size: 22 });
+          if (g) h += '<div class="krow">' + g + '<span>' + esc(k.label) + '</span></div>';
+        });
+        box.innerHTML = h;
+        L.DomEvent.disableClickPropagation(box);
+        return box;
+      };
+      keyCtl.addTo(map);
+      map.on('zoomend', retierSymbols);
+      retierSymbols();
+    }
 
     var lc = L.control.layers(null, overlays, { collapsed: true }).addTo(map);
     if (window.innerWidth >= 700) lc.expand();
