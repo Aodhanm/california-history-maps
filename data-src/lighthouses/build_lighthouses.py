@@ -252,6 +252,24 @@ def slug(s):
     s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
     return s[:60]
 
+
+def _close_apparatus(s):
+    """Drop a citation fragment the badge cut off mid-way.
+
+    A date badge must never end on an unclosed bracket or an opening quote with
+    no partner — that reads as a broken sentence where a citation used to be.
+    Apostrophes inside words ("Historian's") are not quotes, so an opening quote
+    is only counted when it follows a space, "(" or ":".
+    """
+    if s.count("(") != s.count(")"):
+        s = s[:s.rfind("(")]
+    for q in ("'", '"', "‘", "“"):
+        for m in reversed(list(re.finditer(r"(?<=[\s(:])" + re.escape(q), s))):
+            closer = {"‘": "’", "“": "”"}.get(q, q)
+            if s.count(closer, m.start() + 1) == 0:      # opened, never closed
+                s = s[:m.start()]
+    return s.strip()
+
 features = []
 seen_names = set()
 unlocated_no_pin = []
@@ -283,7 +301,15 @@ for src_list, default_region in ((COAST, "coast"), (BAY, "sf-bay")):
                 break
         disp = disp.strip().rstrip(".;,— ").strip()
         if len(disp) > 90:
-            disp = re.split(r"(?<=\d{4})[.;(]", disp)[0].strip()[:90].rstrip(".;,( ")
+            # Cut the apparatus off the badge; the full text survives as the
+            # "First lit" fact row below. The split used to require the delimiter
+            # to sit flush against the year, so "1871 (USC&GS..." never matched
+            # and the bare [:90] cut 33 of 48 badges mid-word, leaving unclosed
+            # quotes and parens in a citation.
+            disp = re.split(r"(?<=\d{4})\s*[.;:(\"'“‘–—-]", disp)[0].strip()
+            if len(disp) > 90:                    # nothing to cut: end on a word
+                disp = disp[:90].rsplit(" ", 1)[0]
+            disp = _close_apparatus(disp).rstrip(".;,:( -")
         f = {
             "id": slug(name),
             "name": name,

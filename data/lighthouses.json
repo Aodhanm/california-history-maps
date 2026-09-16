@@ -224,7 +224,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1856",
-    "display": "First exhibited 10 December 1856 (USC&GS Pacific Coast Pilot, 4th ed. 1889: 'first exhibit",
+    "display": "First exhibited 10 December 1856",
     "confidence": "exact"
    },
    "active": {
@@ -340,7 +340,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1871",
-    "display": "1871 (USC&GS Coast Pilot 1889: 'first exhibited in 1871'; NRHP nomination 91001098 and USC",
+    "display": "1871",
     "confidence": "exact"
    },
    "active": {
@@ -460,7 +460,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1892",
-    "display": "1892 (USCG Historian's Office: 'In 1892 the Lighthouse Service constructed a light station",
+    "display": "1892",
     "confidence": "exact"
    },
    "active": {
@@ -575,7 +575,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1856",
-    "display": "First exhibited 20 December 1856 (USC&GS Pacific Coast Pilot, 4th ed. 1889: 'The Light was",
+    "display": "First exhibited 20 December 1856",
     "confidence": "exact"
    },
    "active": {
@@ -697,7 +697,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1868",
-    "display": "First exhibited 1 December 1868 (Coast Pilot 1889: 'The Light was first exhibited December",
+    "display": "First exhibited 1 December 1868",
     "confidence": "exact"
    },
    "active": {
@@ -817,7 +817,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1912",
-    "display": "15 January 1912: 'The fog-signal... went into operation on June 22, 1911",
+    "display": "15 January 1912",
     "confidence": "exact"
    },
    "active": {
@@ -938,7 +938,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1909",
-    "display": "10 June 1909: \"Its first beam of light shown on June 10, 1909\" (NRHP nomination 91001092",
+    "display": "10 June 1909",
     "confidence": "exact"
    },
    "active": {
@@ -1043,7 +1043,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1870",
-    "display": "First tower first exhibited 1 May 1870 (Coast Pilot 1889: first-order light 'first exhibit",
+    "display": "First tower first exhibited 1 May 1870",
     "confidence": "exact"
    },
    "active": {
@@ -1167,7 +1167,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1870",
-    "display": "First exhibited 1 December 1870 (Coast Pilot 1889: first-order lens 'first exhibited Decem",
+    "display": "First exhibited 1 December 1870",
     "confidence": "exact"
    },
    "active": {
@@ -1295,7 +1295,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1855",
-    "display": "1855 per USCG Historian's Office and NPS inventory ('Station Established: 1855 / First Lit",
+    "display": "1855 per USCG Historian's Office and NPS inventory",
     "confidence": "exact"
    },
    "active": {
@@ -1419,7 +1419,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1875",
-    "display": "Fog-signal station established February 1875 (USCG pamphlet); 'Point Montara served exclus",
+    "display": "Fog-signal station established February 1875",
     "confidence": "year"
    },
    "active": {
@@ -1509,7 +1509,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1872",
-    "display": "1872 (USCG table: established 1871, first lit 1872",
+    "display": "1872",
     "confidence": "exact"
    },
    "active": {
@@ -1745,7 +1745,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1869",
-    "display": "Original wooden lighthouse dates from 1869 (USCG: established/first lit 1869); the Coast P",
+    "display": "Original wooden lighthouse dates from 1869",
     "confidence": "year"
    },
    "active": {
@@ -1855,7 +1855,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1855",
-    "display": "1855 (USCG: established/first lit 1855",
+    "display": "1855",
     "confidence": "exact"
    },
    "active": {
@@ -1975,7 +1975,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1889",
-    "display": "1889 (USCG: \"The lighthouse was completed in 1889\"; NRHP nomination 91001097 dates the tow",
+    "display": "1889",
     "confidence": "exact"
    },
    "active": {
@@ -2086,7 +2086,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1875",
-    "display": "1875 (NRHP nomination 91001095: \"The lighthouse itself dates from 1875,\" significant dates",
+    "display": "1875",
     "confidence": "exact"
    },
    "active": {
@@ -2196,7 +2196,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1890",
-    "display": "Completed 30 June 1890: 'the station was not completed until June 30, 1890' (NRHP nominati",
+    "display": "Completed 30 June 1890",
     "confidence": "exact"
    },
    "active": {
@@ -2297,7 +2297,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1901",
-    "display": "1901: \"In 1901, the lighthouse service built a light station at Point Arguello\" (USCG Hist",
+    "display": "1901",
     "confidence": "year"
    },
    "active": {
@@ -2408,7 +2408,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1856",
-    "display": "First lighted 1 February 1856 (NRHP nomination 81000176 narrative: the PIERCE delivered le",
+    "display": "First lighted 1 February 1856",
     "confidence": "exact"
    },
    "active": {
@@ -2526,7 +2526,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1856",
-    "display": "First exhibited 1 December 1856, as a red light, later changed to white (Coast Pilot 1889",
+    "display": "First exhibited 1 December 1856, as a red light, later changed to white",
     "confidence": "exact"
    },
    "active": {
@@ -2644,7 +2644,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1874",
-    "display": "First exhibited 1874 (Coast Pilot 1889: 'first exhibited in 1874,' fourth-order fixed red",
+    "display": "First exhibited 1874",
     "confidence": "exact"
    },
    "active": {
@@ -2877,7 +2877,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1926",
-    "display": "1926 - 'guiding sailing vessels to and from the Los Angeles/Long Beach Harbors since March",
+    "display": "1926",
     "confidence": "year"
    },
    "active": {
@@ -2967,7 +2967,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1874",
-    "display": "1874 (USCG: established/first lit 1874, 'built in 1874 with lumber from California redwood",
+    "display": "1874",
     "confidence": "exact"
    },
    "active": {
@@ -3091,7 +3091,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1913",
-    "display": "1913 (USCG: established/first lit 1913",
+    "display": "1913",
     "confidence": "year"
    },
    "active": {
@@ -3204,7 +3204,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1890",
-    "display": "1890: \"In 1890, Ballast Point Lighthouse was constructed\" (USCG Historian's Office, articl",
+    "display": "1890",
     "confidence": "exact"
    },
    "active": {
@@ -3315,7 +3315,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1855",
-    "display": "15 November 1855: \"Point Loma Lighthouse was put into service on November 15, 1855\" (NPS C",
+    "display": "15 November 1855",
     "confidence": "exact"
    },
    "active": {
@@ -3429,7 +3429,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1891",
-    "display": "23 March 1891: \"The new Point Loma Light Station, established on March 23, 1891,\" with kee",
+    "display": "23 March 1891",
     "confidence": "exact"
    },
    "active": {
@@ -3534,7 +3534,7 @@
    "coord_precision": "area",
    "date": {
     "iso": "1898",
-    "display": "Station established 1898 with LV-70, purpose-built at Portland, Oregon (Wolff & Zwicker Ir",
+    "display": "Station established 1898 with LV-70, purpose-built at Portland, Oregon",
     "confidence": "year"
    },
    "active": {
@@ -3651,7 +3651,7 @@
    "coord_precision": "area",
    "date": {
     "iso": "1905",
-    "display": "Station established 1905 (USCG Lightship Station Index: 'Blunts Reef, 1905-1971'); the LV-",
+    "display": "Station established 1905",
     "confidence": "year"
    },
    "active": {
@@ -3925,7 +3925,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1855",
-    "display": "March 1855 (second tower; commonly given as March 21, 1855 - day not independently verifie",
+    "display": "March 1855",
     "confidence": "exact"
    },
    "active": {
@@ -4059,7 +4059,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1855",
-    "display": "May 2, 1855 (original upper site, 306 ft elevation); relocated light first shown February",
+    "display": "May 2, 1855",
     "confidence": "exact"
    },
    "active": {
@@ -4207,7 +4207,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1883",
-    "display": "Established as a steam fog-signal station September 10, 1883 (no light); lens-lantern ligh",
+    "display": "Established as a steam fog-signal station September 10, 1883",
     "confidence": "exact"
    },
    "active": {
@@ -4522,7 +4522,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1875",
-    "display": "October 1, 1875 (\"The light and fog signal were placed in operation on October 1, 1875\" -",
+    "display": "October 1, 1875",
     "confidence": "exact"
    },
    "active": {
@@ -4646,7 +4646,7 @@
    "coord_precision": "area",
    "date": {
     "iso": "1890",
-    "display": "First lighthouse activated January 27, 1890 (construction begun September 1889, accepted N",
+    "display": "First lighthouse activated January 27, 1890",
     "confidence": "exact"
    },
    "active": {
@@ -4759,7 +4759,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1905",
-    "display": "Late December 1905 (the establishment notice quoted by lighthousefriends: 'a fixed white l",
+    "display": "Late December 1905",
     "confidence": "exact"
    },
    "active": {
@@ -5305,7 +5305,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1891",
-    "display": "February 16, 1891, first keeper Richard A. Weiss (lighthousefriends: Weiss 'placed the sta",
+    "display": "February 16, 1891, first keeper Richard A. Weiss",
     "confidence": "exact"
    },
    "active": {
@@ -5418,7 +5418,7 @@
    "coord_precision": "place",
    "date": {
     "iso": "1886",
-    "display": "Fog bell in operation November 1, 1886 (appropriation $4,500, March 3, 1885",
+    "display": "Fog bell in operation November 1, 1886",
     "confidence": "exact"
    },
    "active": {
@@ -5648,7 +5648,7 @@
    "coord_precision": "exact",
    "date": {
     "iso": "1915",
-    "display": "Minor light and electric fog siren established fiscal year 1915 (PRIMARY: Commissioner of",
+    "display": "Minor light and electric fog siren established fiscal year 1915",
     "confidence": "year"
    },
    "active": {
