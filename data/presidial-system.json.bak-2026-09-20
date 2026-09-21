@@ -13,7 +13,7 @@
  ],
  "zoom": 6,
  "cite_key": "presidial",
- "last_updated": "2026-09-20",
+ "last_updated": "2026-08-22",
  "layers": [
   {
    "id": "presidios",
@@ -157,13 +157,13 @@
    "series": [
     [
      "1792",
-     "1 cannon, and it burst — Sal to Arrillaga a month after the saint's-day burst ('se hizo diez pedazos'); Quadra promises 4–5 guns and allows 10–12 belong on the cantil blanco; 'quieren los ingleses la boca de este puerto por línea divisoria'",
-     "C-A 54 Doc 279; C-A 55 Doc 136"
+     "1 cannon at Cantil Blanco, and it burst",
+     "C-A 54 i.115–19; C-A 55"
     ],
     [
      "1793 Jul",
-     "2 cannon, both unserviceable — leaf-read C-A 14 n101 (2026-09-14): the '6' in the ca14-d93 catalogue summary is that summary's error against its own leaf, not a copy variant",
-     "C-A 15 Doc 515"
+     "6 cannon, all unserviceable (Arrillaga); the C-A 15 copy of the same report says 2 — copy discrepancy, flagged",
+     "C-A 14; C-A 15 Doc 515"
     ],
     [
      "1796 Dec",
@@ -192,7 +192,7 @@
     ],
     [
      "1819 Dec",
-     "full ordnance census: 3 iron 24-pdrs, 1 twelve, 1 twelve reventado (burst), 2 eights in the battery; 6 bronze half-culverins (8-pdr) + 2 bronze pedreros at the presidio",
+     "ordnance includes a burst 12-pounder",
      "C-A 17 Doc 352"
     ],
     [
@@ -202,8 +202,8 @@
     ],
     [
      "1823 Jan",
-     "the province's only heavy guns: 'solo hay 3 cañones de á 24' — BOTH Savage copies of Argüello's appeal carry the 3 (they disagree on the powder request, 150 vs 50 qq ordinaria); independently matching the 1819 census",
-     "C-A 46 Doc 273 (second copy: Doc 7)"
+     "the only port with heavy guns: 2 (or 3) cannon of caliber 24 — Savage copies disagree",
+     "C-A 46 Docs 7, 98"
     ],
     [
      "1833 Jun",
@@ -223,7 +223,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The 1793 '6 vs 2' is resolved: the leaf of C-A 14 (n101, read 2026-09-14) says 2, agreeing with C-A 15 — the 6 is a catalogue-summary defect, errata pending. The 1823 copies agree on the 3 heavy guns and disagree only on the powder figure; the earlier '2 (or 3)' note was wrong and the Doc 98 citation was a mis-reference (that record is a cadet discharge)."
+   "notes": "The 1793 (2 vs 6) and 1823 (2 vs 3) figures each differ between Savage copies of the same report; both discrepancies are preserved rather than harmonized."
   },
   {
    "id": "bateria-yerba-buena",
@@ -333,11 +333,6 @@
      "C-A 54 Doc 67"
     ],
     [
-     "1816 Oct",
-     "the San Carlos lands the era's largest recorded shipment: 8 eight-pdrs with naval carriages + 800 balls, 30 qq powder, 100 new English muskets with bayonets, 20,000 cartridges — the San Blas manifest (20 powder boxes at 1½ qq each) and the Monterey receipt (30 qq) reconcile exactly; both leaf-verified 2026-09-20",
-     "C-A 20 Doc 481; manifest C-A 13 Doc 165"
-    ],
-    [
      "1816 Nov",
      "85 active + 5 artillerymen",
      "C-A 54 Doc II-60"
@@ -361,11 +356,6 @@
      "1829 Oct",
      "128 men: artillery 28, infantry 24, cavalry 76",
      "C-A 18 Doc 379"
-    ],
-    [
-     "1844 Nov",
-     "the government buys 2 six-pdrs from the American merchant Stephen Smith: $2,935.6 + $100 freight, payable in the customs duties of Smith's own ship when it arrives, or in land; Spence's endorsement, 13 Jun 1845: only $2,100 ever received — leaf-verified 2026-09-20",
-     "C-A 20 Doc 595"
     ]
    ],
    "series_label": "Garrison / ordnance",
@@ -398,7 +388,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "Founded 1782 with about 58 men and holding near that strength for decades. In 1797 its commander reported 118 cartridges for his single six-pounder, with no artilleryman to serve it.",
+   "summary": "Founded 1782 with about 58 men and holding near that strength for decades. In 1797 its artillery inventory recorded 118 cartridges and no artilleryman.",
    "series": [
     [
      "1782 Sep",
@@ -418,8 +408,8 @@
     ],
     [
      "1797",
-     "57 soldiers; for the one six-pounder 'no hay más de 118 cartuchos', no artilleryman ('para este no hay artillero, y poca tropa para manejarlo'), and the commander refuses to build a beach battery as useless against a landing — leaf-verbatim",
-     "C-A 8 Doc 292; C-A 54 Docs 12, II-21"
+     "57 soldiers; artillery inventory: 118 cartridges, no artilleryman",
+     "C-A 54 Docs 12, II-21; C-A 8"
     ],
     [
      "1798 Dec",
@@ -1068,67 +1058,6 @@
    "native_groups": [],
    "tags": [],
    "notes": "Placed at Monterey, where the return was drawn. The guns it lists were distributed across the province; see each presidio and fort."
-  },
-  {
-   "id": "sutters-fort-new-helvetia",
-   "register_no": null,
-   "name": "Sutter's Fort (Nueva Helvecia)",
-   "date": {
-    "iso": "1841",
-    "display": "est. 1839–41",
-    "confidence": "year"
-   },
-   "coords": [
-    38.5723,
-    -121.4708
-   ],
-   "coord_precision": "exact",
-   "type": "presidio",
-   "layer": "forts",
-   "summary": "The counter-benchmark at the era's other end: a private fort on the Sacramento, held by a naturalized foreigner whom the government first deputized as its frontier justice, then armed itself against. Its owner bought the departing Russians' properties in 1841–42, marched an artillery-equipped private force in the 1845 civil war, and appears in the Asamblea's treason charge against the sitting governor.",
-   "series": [
-    [
-     "1840 Sep",
-     "Sutter appointed Encargado de Justicia and government representative on the Sacramento-River frontier (New Helvetia), to check US-adventurer robberies",
-     "C-A 49 Doc 582"
-    ],
-    [
-     "1841 Aug",
-     "'Entrega de Ross' — the Russian handover recorded",
-     "C-A 49 Doc 901"
-    ],
-    [
-     "1842 Jan",
-     "'Compra de propiedades Rusas por Sutter' — the withdrawing empire's properties pass to the private fort",
-     "C-A 49 Doc 974"
-    ],
-    [
-     "1844–45",
-     "the Asamblea's manifesto charges the governor with 'relaciones secretas con el extranjero Sutter, dueño del establecimiento del Río del Sacramento' — verbatim, verified on scan n300",
-     "C-A 61 Doc 215"
-    ],
-    [
-     "1845 Jan",
-     "marches for Micheltorena: 100 riflemen under Gantt, 100 Indians under Rufo, 1 new cannon + 3 artillerymen",
-     "C-A 30 Doc 207"
-    ]
-   ],
-   "series_label": "The private fort in the record",
-   "result": "By 1845: a private force with newer artillery than most presidios — deputized, purchased into the Russians' place, then named in a treason charge",
-   "quote": {
-    "es": "dicho Gral. se hallaba en relaciones secretas con el extranjero Sutter, dueño del establecimiento del Río del Sacramento",
-    "en": "(the Asamblea's charge against Gov. Micheltorena, 1845 — C-A 61 d215, verified on the scan)"
-   },
-   "sources": [
-    {
-     "citation": "C-A 30, 49, 61 — the New Helvetia records named in the dated series; the fort's establishment context from C-A 49 Doc 582",
-     "ca_record": "ca49-d582",
-     "ia_leaf_url": null
-    }
-   ],
-   "native_groups": [],
-   "tags": [],
-   "notes": "Armament of the fort itself is deliberately not totalled here: the catalogue records the Russian-property purchase and the 1845 field artillery, not a fort inventory. What can be said from the record is sourced line by line above."
   }
  ]
 }
