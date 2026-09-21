@@ -2,7 +2,7 @@
  "id": "presidial-system",
  "title": "The Presidial System",
  "subtitle": "Garrisons and artillery of Spanish and Mexican California, 1769–1846, against the Russian benchmark",
- "abstract": "Every documented count of men and cannon at the California presidios, drawn from the muster rolls and ordnance inventories in the C-A transcripts. Open any fort for its full dated series with citations. The point the numbers make: in 1813 a single Russian outpost at Ross reported about 13 mounted cannon, while the entire San Francisco defense had about 5 serviceable guns at its documented best (1802). Province-wide in 1830 there were 54 pieces on paper, most unserviceable, on gun platforms too rotten to work. Where two Savage copies of the same report disagree, both figures are shown.",
+ "abstract": "Documented counts of men and cannon at the California presidios, drawn from the muster rolls and ordnance inventories in the C-A transcripts. Open any fort for its full dated series with citations. The point the numbers make: in 1813 a single Russian outpost at Ross reported about 13 mounted cannon, while the entire San Francisco defense in 1802 had only ~5 of its ~13 pieces mounted and serviceable. Province-wide in 1830 there were 54 pieces on paper, most unserviceable, on gun platforms too rotten to work. Where two Savage copies of the same report disagree, both figures are shown.",
  "date_range": [
   1769,
   1846
@@ -93,14 +93,14 @@
      "C-A 15 Doc 227"
     ],
     [
-     "1787 Jul",
-     "32 men",
-     "presidio register (C-A 54; catalog doc unresolved)"
-    ],
-    [
      "1787 Apr 6",
      "31 men — Alf. Lasso de la Vega commanding (teniente vacant), 1 sergeant, 4 corporals, 25 soldiers; +2 inválidos",
      "C-A 55 Doc 146"
+    ],
+    [
+     "1787 Jul",
+     "32 men",
+     "presidio register (C-A 54; catalog doc unresolved)"
     ],
     [
      "1787 Jul 2",
@@ -128,14 +128,14 @@
      "C-A 20 Doc 463"
     ],
     [
-     "1797 Dec",
-     "36 men, each with escopeta, sword, lance, cuera, adarga",
-     "C-A 54 Doc 137 [reg. II-40]"
-    ],
-    [
      "1797 Nov 1",
      "38 fuerza (tte., alférez, sgt., 4 cabos, 31 soldados) + 25 Catalonian Volunteers + 7 artillery inválidos; the arsenal counted: 2 escopetas + 46 fusiles in reserve, 4,000 flints, 231 @ coarse + 7 @ fine powder, 3,600 cartridges, 5 @ 20-lb metralla; 8 horses per man",
      "C-A 50 Doc 220"
+    ],
+    [
+     "1797 Dec",
+     "36 men, each with escopeta, sword, lance, cuera, adarga",
+     "C-A 54 Doc 137 [reg. II-40]"
     ],
     [
      "1799 Jan",
@@ -188,14 +188,14 @@
      "C-A 54 Doc 186 [reg. III-16]"
     ],
     [
-     "1829 Nov 2",
-     "63 hombres: captain, teniente, Alf. 1º M. G. Vallejo, 2 sargentos, 6 cabos, 52 soldados; +7 inválidos; the month's presupuesto $1,387",
-     "C-A 40 Doc 126"
-    ],
-    [
      "1829 Jun 4",
      "107 armed men, 1 cannon, 2,500 cartridges — the column Alf. M. G. Vallejo led against Estanislao's fortified river stronghold; 31 grapeshot rounds fired in 4 hours at the second fortification, the force then retiring to Mission San José for want of ammunition (battle report to the comandante of San Francisco)",
      "C-A 53 Doc 9"
+    ],
+    [
+     "1829 Nov 2",
+     "63 hombres: captain, teniente, Alf. 1º M. G. Vallejo, 2 sargentos, 6 cabos, 52 soldados; +7 inválidos; the month's presupuesto $1,387",
+     "C-A 40 Doc 126"
     ],
     [
      "1833 Jul 1",
@@ -236,9 +236,14 @@
    "summary": "The battery at the Golden Gate narrows, blessed December 1794. Built for 6,491 pesos, partly with mission mule labor. The register's headline series: the fort's serviceable guns never exceeded a handful, and a single Russian outpost at Ross reported more mounted cannon than the whole San Francisco defense.",
    "series": [
     [
-     "1792",
-     "1 cannon, and it burst — Sal to Arrillaga a month after the saint's-day burst ('se hizo diez pedazos'); Quadra promises 4–5 guns and allows 10–12 belong on the cantil blanco; 'quieren los ingleses la boca de este puerto por línea divisoria'",
-     "C-A 54 Doc 279; C-A 55 Doc 136"
+     "1792 Sep",
+     "a cannon bursts at the saint's-day salute — 'reventó un cañón… se hizo diez pedazos', fragments thrown 145 varas to the church",
+     "C-A 55 Doc 136"
+    ],
+    [
+     "1792 Oct",
+     "Sal to Arrillaga: the presidio has one cannon, and it 'burst many years ago'; Quadra promises 4–5 guns and allows 10–12 belong on the cantil blanco; 'quieren los ingleses la boca de este puerto por línea divisoria'. ⚠ Whether this names the September gun or an earlier one is unresolved — the two reports may describe different bursts; one leaf read settles it",
+     "C-A 54 Doc 279"
     ],
     [
      "1793 Jul",
@@ -282,22 +287,22 @@
     ],
     [
      "1818 Sep 1",
-     "2 soldiers — the entire manning of the fuerte de San Joaquín in the presidial muster of the Bouchard year; the artillery detachment otherwise Sgt. Manuel Gómez + 1 soldier, both at Monterey",
+     "2 soldiers — the entire manning of the fuerte de San Joaquín in the presidial muster of the Bouchard year; the artillery detachment otherwise Sgt. Manuel Gómez + 1 soldier, both at Monterey (regulars only — the 62 militia gunners of the Sep 5 count are the separate militia company)",
      "C-A 54 Doc 78"
     ],
     [
      "1819 Dec",
-     "full ordnance census: 3 iron 24-pdrs, 1 twelve, 1 twelve reventado (burst), 2 eights in the battery; 6 bronze half-culverins (8-pdr) + 2 bronze pedreros at the presidio",
+     "full ordnance census: 3 iron 24-pdrs, 1 twelve, 1 twelve reventado (burst), 2 eights in the battery; 6 bronze half-culverins (8-pdr) + 2 bronze pedreros at the presidio (battery + presidio combined; battery alone = 7 pieces, one of them burst)",
      "C-A 17 Doc 352"
     ],
     [
      "1820",
-     "8 cannon, 2 broken, 6 functional; no forge, no grapeshot",
+     "fort only: 8 cannon, 2 broken, 6 nominally functional (2 more at the landing point unusable for want of platform planking); little grapeshot ('only round shot'), no forge",
      "C-A 13 Doc 332; C-A 13 Doc 336"
     ],
     [
      "1823 Jan",
-     "the province's only heavy guns: 'solo hay 3 cañones de á 24' — BOTH Savage copies of Argüello's appeal carry the 3 (they disagree on the powder request, 150 vs 50 qq ordinaria); independently matching the 1819 census",
+     "the province's only heavy guns: 'solo hay 3 cañones de á 24' — BOTH Savage copies of Argüello's appeal carry the 3 (they disagree on the powder request, 150 vs 50 qq ordinaria); matching Argüello's own 1819 census — the same officer's returns, consistent four years apart",
      "C-A 46 Doc 273 (second copy: Doc 7)"
     ],
     [
@@ -307,7 +312,7 @@
     ]
    ],
    "series_label": "Ordnance",
-   "result": "At its documented best (1802): about 5 mounted serviceable guns",
+   "result": "Never more than about six serviceable guns at any count, and usually fewer",
    "quote": null,
    "sources": [
     {
@@ -339,14 +344,14 @@
    "summary": "The cove battery east of the presidio, garrisoned in the 1790s by a Catalan Volunteers detail relieved every 8 days. Ordered recomposed with adobe, earth, and fascine in 1799; abandoned by 1800 per the intelligence layer of the borderlands map.",
    "series": [
     [
-     "1798 Dec",
-     "alférez + 1 cabo of Catalan Volunteers on rotation",
-     "C-A 15 Doc 467"
-    ],
-    [
      "1798 Feb 1",
      "6 guns asked for this battery in Borica's harbor plan — 'en la bateria de la Yerba Buena qe se pongan 6 cañones', within 26 pieces 'de a 24' for the port (10 at San Joaquín + 10 at a new fort on the far shore), plus 128 infantry, 19 artillerymen and a guard launch with 10 sailors — a proposal to the viceroy, not an inventory",
      "C-A 24 Doc 639"
+    ],
+    [
+     "1798 Dec",
+     "alférez + 1 cabo of Catalan Volunteers on rotation",
+     "C-A 15 Doc 467"
     ]
    ],
    "series_label": "Garrison",
@@ -388,7 +393,7 @@
     ],
     [
      "1782 Feb",
-     "8 bronze 4-pdr campaign cannon + 346 balls; 49½ pairs of pistols, 5 escopetas, 20 espadas, 17 lance-heads; 7@ 41 lb powder, 2@ 37 lb lead, 70,704 gunflints, 143 balas de á 6: the complete habilitación inventory, Sal among the signatories",
+     "8 bronze 4-pdr campaign cannon + 346 balls; 49½ pairs of pistols, 5 escopetas, 20 espadas, 17 lance-heads; 7@ 41 lb powder, 2@ 37 lb lead, 70,704 gunflints as copied (10x the adjacent inventories — likely a copy error), 143 balas de á 6: the complete habilitación inventory, Sal among the signatories",
      "C-A 2 Doc 48"
     ],
     [
@@ -397,15 +402,15 @@
      "C-A 23 Doc 330"
     ],
     [
-     "1784 Dec",
-     "~53 men (Sal alférez)",
-     "presidio register (C-A 54; catalog doc unresolved)"
-    ],
-    [
      "1784 Feb 27",
      "42 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
      "C-A 21 Doc 178",
      "ca21-d178"
+    ],
+    [
+     "1784 Dec",
+     "~53 men (Sal alférez)",
+     "presidio register (C-A 54; catalog doc unresolved)"
     ],
     [
      "1786 Dec",
@@ -419,7 +424,7 @@
     ],
     [
      "1793 Jul 9",
-     "3 guns (2 six-pdrs + 1 small field piece), 16 men in garrison, 90 pairs of pistols needing repair, 28 @ powder, 200 flints; Goycoechea's Nootka-crisis assessment asks reinforcement with troops and 2 small cannon more",
+     "3 guns (2 six-pdrs + 1 small field piece), 16 men in garrison, 90 pairs of pistols needing repair, 28 @ powder, 200 flints; Goycoechea's Nootka-crisis assessment asks reinforcement with troops and 2 small cannon more ⚠ Arrillaga's report the same month (C-A 15 Doc 515) counts Monterey 8 + 3 pedreros good — unreconciled; one leaf read settles it",
      "C-A 54 Doc 188"
     ],
     [
@@ -441,11 +446,6 @@
      "1796 Dec 31",
      "10 cannon — 5 bronze 8-pdrs, 3 six-pdrs, 2 three-pdrs — plus 3 pedreros de á 2",
      "C-A 9 Doc 357; C-A 20 Doc 464"
-    ],
-    [
-     "1797 Apr",
-     "57 men; 124 horses; short 13 muskets",
-     "presidio register (C-A 54; catalog doc unresolved)"
     ],
     [
      "1797 Mar–Nov",
@@ -484,17 +484,12 @@
     ],
     [
      "1812 Dec",
-     "~84 men + 2 artillerymen",
-     "presidio register (C-A 54; catalog doc unresolved)"
-    ],
-    [
-     "1812 Dec",
      "84–85 men + 27 invalids; 2 artillerymen in the battery in Dec 1812, rising to 5 by Jan 1813",
      "C-A 54 Doc 65"
     ],
     [
      "1816 Oct",
-     "the San Carlos lands the era's largest recorded shipment: 8 eight-pdrs with naval carriages + 800 balls, 30 qq powder, 100 new English muskets with bayonets, 20,000 cartridges — the San Blas manifest (20 powder boxes at 1½ qq each) and the Monterey receipt (30 qq) reconcile exactly; both leaf-verified 2026-09-20",
+     "the San Carlos lands the era's largest single recorded shipment: 8 eight-pdrs with naval carriages + 800 balls, 30 qq powder, 100 new English muskets with bayonets, 20,000 cartridges — the San Blas manifest (20 powder boxes at 1½ qq each) and the commander's arrival report at Monterey (30 qq) reconcile exactly; both leaf-verified (manifest 09-20, arrival report 09-21)",
      "C-A 20 Doc 481; manifest C-A 13 Doc 165"
     ],
     [
@@ -518,14 +513,14 @@
      "C-A 54 Doc 156 [reg. II-58]"
     ],
     [
-     "1826 Aug 22",
-     "262 effectives in the four Alta California companies: Monterrey 70, Sta Bárbara 64, S. Diego 66, S. Francisco 62 (Echeandía's signed force table)",
-     "C-A 47 Doc 230"
-    ],
-    [
      "1826(?) Jun 22",
      "sent by Argüello from Monterey: '25 Carabinas — 200 lanzas, 50 fusiles, 50 espadas, 3000 Cartuchos, 200 piedras de chispa, 500 estopines de á 8 y 1000 de á 4 y 14 Cuñetes de pólvora' (year queried in the copy)",
      "C-A 46 Doc 748"
+    ],
+    [
+     "1826 Aug 22",
+     "262 effectives in the four Alta California companies: Monterrey 70, Sta Bárbara 64, S. Diego 66, S. Francisco 62 (Echeandía's signed force table)",
+     "C-A 47 Doc 230"
     ],
     [
      "1827",
@@ -533,14 +528,14 @@
      "C-A 18 Doc 238"
     ],
     [
-     "1829 Oct",
-     "128 men: artillery 28, infantry 24, cavalry 76",
-     "C-A 18 Doc 379"
-    ],
-    [
      "1829 Jan",
      "10 cuñetes de pólvora north on the brig María Esther",
      "C-A 47 Doc 1450; C-A 47 Doc 1428"
+    ],
+    [
+     "1829 Oct",
+     "128 men: artillery 28, infantry 24, cavalry 76",
+     "C-A 18 Doc 379"
     ],
     [
      "1832 Jul",
@@ -554,7 +549,7 @@
     ],
     [
      "1835 Dec 3",
-     "the artillery company's whole strength: Monterey 5 cabos + 1 tambor + 11 artilleros, SF 1+4, Sta Bárbara 1+5, San Diego 1+7, 37 hombres on the roll; began the year with 38, one deserted",
+     "the artillery company's whole strength: Monterey 5 cabos + 1 tambor + 11 artilleros, SF 1+4, Sta Bárbara 1+5, San Diego 1+7, 37 hombres on the roll; began the year with 38, one deserted (the distribution as copied sums to 36 against the return's own 37)",
      "C-A 20 Doc 241"
     ],
     [
@@ -617,7 +612,7 @@
     ],
     [
      "1782 Sep",
-     "58 men (founding year; Sgt. Sal among them)",
+     "58 men (founding year; Sgt. Sal among them) (total as copied; the record's own itemization sums lower — leaf-check pending)",
      "C-A 54 Doc 229 [reg. IV-39]"
     ],
     [
@@ -652,24 +647,24 @@
      "C-A 5 Doc 181"
     ],
     [
-     "1793 Dec",
-     "61 men",
-     "C-A 54 Doc 186 [reg. III-16]"
-    ],
-    [
      "1793 Jul 9",
      "~50 escopetas, only 23 good; short 27 swords; lances complete (the province-wide Nootka-crisis armament assessment)",
      "C-A 54 Doc 188"
     ],
     [
-     "1794 Dec",
-     "'118 cartuchos con bala de á 6' already in store — the same figure the commander reports in April 1797: twenty-eight months, nothing fired, nothing added",
-     "C-A 54 Doc 137"
+     "1793 Dec",
+     "61 men",
+     "C-A 54 Doc 186 [reg. III-16]"
     ],
     [
      "1794 Jul 16",
-     "arms consigned by Arrillaga to the presidio, priced by unit: 52 escopetas at 11 pesos, 53 espadas at 28 reales, 114 lanzas at 14 reales — about $886 with freight",
+     "arms consigned by Arrillaga to the presidio, priced by unit: 52 escopetas at 11 pesos, 53 espadas at 28 reales, 114 lanzas at 14 reales",
      "C-A 22 Doc 308"
+    ],
+    [
+     "1794 Dec",
+     "'118 cartuchos con bala de á 6' already in store — the same figure the commander reports in April 1797: twenty-eight months, nothing fired, nothing added",
+     "C-A 54 Doc 137"
     ],
     [
      "1796 Dec 31",
@@ -738,14 +733,14 @@
      "C-A 21 Doc 55"
     ],
     [
+     "1827 Jan",
+     "'Que le van 6 carabinas, 4 fusiles y 10 espadas' — Echeandía notified to a presidial comandante (addressee not named in the abstract) of the consignment on its way",
+     "C-A 47 Doc 327"
+    ],
+    [
      "1827 Nov 15",
      "64 plazas + 8 artillerymen (Pacheco's return)",
      "C-A 19 Doc 49"
-    ],
-    [
-     "1827 Jan",
-     "'Que le van 6 carabinas, 4 fusiles y 10 espadas' — Echeandía notifying the Santa Bárbara comandante of the consignment on its way",
-     "C-A 47 Doc 327"
     ],
     [
      "1828",
@@ -778,14 +773,14 @@
      "C-A 55 Doc 144"
     ],
     [
-     "1836 Sep 3",
-     "31 on the muster — 3 sargentos, 2 cabos, 24 soldados under Tte. Domingo Carrillo, with Alfz 1º Santiago Carrillo and Alfz 2º Pablo Pacheco (+ an alférez 3º agregado); haberes budgeted at $1,742 / $773 / $881 across the months",
-     "C-A 20 Doc 303"
-    ],
-    [
      "1836 Apr",
      "6 artillerymen (1 cabo, 5 soldados) and 32 cavalry (1 teniente, 2 alféreces, 3 sargentos, 2 cabos, 24 soldados) — Ibarra's 'Fuerza de la guarnición' tallies; besides 1 teniente + 8 soldados invalid and a teniente + 3 soldados of Mazatlán",
      "C-A 20 Doc 294"
+    ],
+    [
+     "1836 Sep 3",
+     "31 on the muster — 3 sargentos, 2 cabos, 24 soldados under Tte. Domingo Carrillo, with Alfz 1º Santiago Carrillo and Alfz 2º Pablo Pacheco (+ an alférez 3º agregado); haberes budgeted at $1,742 / $773 / $881 across the months",
+     "C-A 20 Doc 303"
     ],
     [
      "1841 Sep 3",
@@ -846,15 +841,15 @@
      "C-A 54 Doc 117 [reg. II-20]"
     ],
     [
+     "1784 Jan",
+     "57 men (Zúñiga) (total as copied; the itemization in the record sums lower — leaf-check pending)",
+     "C-A 54 Doc 203 [reg. IV-13]"
+    ],
+    [
      "1784 Feb 27",
      "48 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
      "C-A 21 Doc 178",
      "ca21-d178"
-    ],
-    [
-     "1784 Jan",
-     "57 men (Zúñiga)",
-     "C-A 54 Doc 203 [reg. IV-13]"
     ],
     [
      "1785 Jan",
@@ -922,14 +917,14 @@
      "C-A 46 Doc 341"
     ],
     [
-     "1826 Nov 1",
-     "100 men total: 59 soldiers, 7 artillery 'en batalla', 20 inválidos, 2 artisans — Estudillo's muster",
-     "C-A 55 Doc 209"
+     "1826 Apr",
+     "asked-for, not held — Echeandía orders a presidial comandante (addressee not named in the abstract) to send him '200 lanzas, 25 tercerolas, 40 fusiles, 50 espadas, 3000 cartuchos de fusil, 2000 piedras de chispa, 500 estopines de á 8 y 1000 de á 4'",
+     "C-A 47 Doc 178"
     ],
     [
-     "1826 Apr",
-     "asked-for, not held — Echeandía orders the Monterey comandante to send him '200 lanzas, 25 tercerolas, 40 fusiles, 50 espadas, 3000 cartuchos de fusil, 2000 piedras de chispa, 500 estopines de á 8 y 1000 de á 4'",
-     "C-A 47 Doc 178"
+     "1826 Nov 1",
+     "100 men total: 59 soldiers, 7 artillery 'en batalla', 20 inválidos, 2 artisans, + 3 officers, 2 sergeants and 7 cabos to reach the 100 — Estudillo's muster",
+     "C-A 55 Doc 209"
     ],
     [
      "1827 Feb",
@@ -1094,7 +1089,7 @@
    "series": [
     [
      "1783 Jun 1",
-     "39 soldados with 2 sergeants and 3 cabos under Capt. Cañete, plus a Departamento de Marina of 14 marineros (carpintero de ribera, calafate, herrero, patrón, guardián, arráez)",
+     "39 soldados with 2 sergeants and 3 cabos under Capt. Cañete, plus a Departamento de Marina of 6 rated men (carpintero de ribera, calafate, herrero, patrón, guardián, arráez) + 14 marineros",
      "C-A 62 Doc 17"
     ],
     [
@@ -1120,7 +1115,7 @@
     ],
     [
      "1794 Dec 1",
-     "52 men — 1 captain, 1 lieutenant, 1 alférez, 1 sergeant, 3 cabos, 44 soldados; the company had held 55 for most of the year",
+     "52 men (the record's own itemization runs one short — leaf-check pending)",
      "C-A 16 Doc 19"
     ],
     [
@@ -1209,21 +1204,21 @@
    "coord_precision": "exact",
    "type": "event",
    "layer": "ross",
-   "summary": "The measuring stick. A single Russian-American Company outpost, founded September 1812 with about 95 Russians and 80 Alaska Native hunters. A 1813 Spanish intelligence report credited it with about 13 mounted cannon; Moraga's 1814 eyewitness reconnaissance counted 8 cannon in two corner towers with embrasures for far more. Either figure matches or exceeds the serviceable artillery of the entire San Francisco defense in the same decade.",
+   "summary": "The measuring stick. A single Russian-American Company outpost, founded September 1812 (the ~95 Russians + ~80 Alaska Native hunters figure is the later literature's; Moraga's reconnaissance reported ~80 men). A 1813 Spanish intelligence report credited it with about 13 mounted cannon; Moraga's 1814 eyewitness reconnaissance counted 8 cannon in two corner towers with embrasures for far more. Either figure matches or exceeds the serviceable artillery of the entire San Francisco defense in the same decade.",
    "series": [
     [
      "1812 Sep",
-     "~95 Russians + ~80 Aleut hunters; stockade ~150 yards square",
+     "~80 men under Kuskov; a wooden quadrangle ~150 varas around, 3½–4 varas high, with two torreones — Moraga's second reconnaissance, reported by Argüello",
      "C-A 12 Doc 407"
     ],
     [
      "1813 Jul",
-     "~13 mounted cannon (Spanish intelligence estimate, Viceroy Calleja)",
+     "~13 mounted cannon reported 'en el puerto de la Bodega' — a fourth-hand intelligence chain relayed via San Blas; Viceroy Calleja himself flags it unconfirmed",
      "C-A 12 Doc 491"
     ],
     [
      "1814 Jul",
-     "8 cannon in two corner towers + ~26 embrasures; 'not easy to attack' (Moraga, eyewitness)",
+     "8 cannon in two corner towers + ~26 embrasures; difficult to attack — artillery could not reach it without a better road (Moraga, eyewitness)",
      "C-A 12 Doc 439"
     ],
     [
@@ -1233,7 +1228,7 @@
     ],
     [
      "1833 Apr 11",
-     "Figueroa instructs Vallejo to negotiate at Ross: 200 cavalry carbines or fusiles of calibre 18, 150 sabres, 200 saddles, 100 further arms, 30 infantry shakos, 10 quintales of lead, payable in barter goods at Monterey (sought, not delivered)",
+     "Figueroa instructs Vallejo to negotiate at Ross: 200 cavalry carbines or fusiles of calibre 18, 150 sabres, 200 saddles, 100 further arms, 30 infantry shakos, 10 quintales of lead, payable in barter goods at Monterey — and three weeks later Vallejo reported the purchases and contracts made at Ross (C-A 53 Doc 120)",
      "C-A 20 Doc 101"
     ]
    ],
@@ -1242,7 +1237,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Presidio garrison & artillery register (vault), section 0",
+     "citation": "Rows cited document-by-document in the dated series (C-A 12, 20, 53, 56)",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1649,14 +1644,14 @@
      "C-A 7 Doc 393"
     ],
     [
-     "1817 Jul 24",
-     "71 militia gunners allotted across the four presidios: 23 San Francisco, 20 Monterey, 12 Santa Bárbara, 16 San Diego (Solá borrador, the year before the province-wide gun count)",
-     "C-A 54 Doc 152"
-    ],
-    [
      "1817 Jan 2",
      "only 13 artillerymen hold San Francisco, Monterey and San Diego; Solá asks the Viceroy for 2 infantry companies of 100 men, 4 field guns and a war vessel (asked-for, not held)",
      "C-A 25 Doc 735"
+    ],
+    [
+     "1817 Jul 24",
+     "71 militia gunners allotted across the four presidios: 23 San Francisco, 20 Monterey, 12 Santa Bárbara, 16 San Diego (Solá borrador, the year before the province-wide gun count) (the allocation sits inside the 1818–19 borrador cluster the record spans)",
+     "C-A 54 Doc 152"
     ],
     [
      "1817 Aug",
@@ -1724,7 +1719,7 @@
     ],
     [
      "1841 Aug",
-     "'Entrega de Ross' — the Russian handover recorded",
+     "'Entrega de Ross' — Alvarado's dispatch heading, August 1841: the handover in negotiation (the sale to Sutter closed that December)",
      "C-A 49 Doc 901"
     ],
     [
@@ -1739,7 +1734,7 @@
     ],
     [
      "1845 Jan",
-     "marches for Micheltorena: 100 riflemen under Gantt, 100 Indians under Rufo, 1 new cannon + 3 artillerymen",
+     "marches for Micheltorena: 100 riflemen under Gantt, 100 Indians under Rufo, 1 new cannon + 3 artillerymen (Sutter's side as relayed in the governor's correspondence)",
      "C-A 30 Doc 207"
     ]
    ],
@@ -1747,7 +1742,7 @@
    "result": "By 1845: a private force with newer artillery than most presidios — deputized, purchased into the Russians' place, then named in a treason charge",
    "quote": {
     "es": "dicho Gral. se hallaba en relaciones secretas con el extranjero Sutter, dueño del establecimiento del Río del Sacramento",
-    "en": "(the Asamblea's charge against Gov. Micheltorena, 1845 — C-A 61 d215, verified on the scan)"
+    "en": "(the said General was in secret relations with the foreigner Sutter, owner of the establishment on the Sacramento River — the Asamblea's charge against Gov. Micheltorena, 1845; verified on scan n300)"
    },
    "sources": [
     {
@@ -1819,21 +1814,21 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "armed",
-   "summary": "The pueblo's armament through the record: two posted soldiers in 1782, a borrowed mission gun in 1834, and on the eve of the conquest an arsenal counted twice in three weeks — more muskets broken than serviceable.",
+   "summary": "The pueblo's armament through the record: two posted soldiers in 1782, a borrowed mission gun in 1834, and on the eve of the conquest two delivery relations three weeks apart — more muskets broken than serviceable.",
    "series": [
-    [
-     "1782 Dec",
-     "2 soldiers of the Santa Bárbara presidial company posted at the pueblo",
-     "C-A 15 Doc 153"
-    ],
     [
      "1782 Feb–Dec",
      "12 pobladores on pay and ration Feb–Mar, 9 from April — three struck off per Neve's order 'por inútiles para el trabajo de campo… para que no sigan haciendo un gasto inútil á la Rl Hazda'; steady at 9 through December",
      "C-A 2 Doc 42"
     ],
     [
+     "1782 Dec",
+     "2 soldiers of the Santa Bárbara presidial company posted at the pueblo",
+     "C-A 15 Doc 153"
+    ],
+    [
      "1816 Jul",
-     "the jurisdiction's levy: 4 sergeants, 1 corporal, 15 invalid soldiers, 70 vecinos — against 32 muskets, 22 swords, 8 pistols and 6 lances for the whole district",
+     "the WHOLE Santa Bárbara jurisdiction's levy (135 men fit to bear arms, including Los Ángeles' 4 sergeants, 15 invalid soldiers and 70 vecinos) against 32 muskets, 22 swords, 8 pistols and 6 lances for the entire district",
      "C-A 13 Doc 127"
     ],
     [
@@ -1842,19 +1837,19 @@
      "C-A 51 Doc 20"
     ],
     [
+     "1845 Apr",
+     "20 total — muster of the Permanent Company of Los Ángeles: Comte José Antonio Carrillo, park-capt. Ignacio Palomares, Capt. Andrés Pico, Lt. Ramón Simón, Alf. Doroteo Sánchez",
+     "C-A 35 Doc 1072"
+    ],
+    [
      "1845 Oct",
-     "the arsenal counted: 24 fusiles útiles, 28 inútiles, 24 paradas de cartuchos, 7 piezas de artillería, 22 cartuchos de cañón",
+     "'Armas y pertrechos entregados' — a delivery relation: 24 fusiles útiles, 28 inútiles, 24 paradas de cartuchos, 7 piezas de artillería, 22 cartuchos de cañón",
      "C-A 30 Doc 310"
     ],
     [
      "1845 Nov",
-     "pertrechos entregados three weeks later: 22 fusiles con bayoneta, 5 piezas de artillería, 99 cartuchos de cañón, 110 balas, 23 fusiles inútiles",
+     "a second delivery relation three weeks later: 22 fusiles con bayoneta, 5 piezas de artillería, 99 cartuchos de cañón, 110 balas, 23 fusiles inútiles (possibly distinct batches — not a recount)",
      "C-A 30 Doc 311"
-    ],
-    [
-     "1845 Apr",
-     "20 total — muster of the Permanent Company of Los Ángeles: Comte José Antonio Carrillo, park-capt. Ignacio Palomares, Capt. Andrés Pico, Lt. Ramón Simón, Alf. Doroteo Sánchez",
-     "C-A 35 Doc 1072"
     ]
    ],
    "series_label": "Armament in the record",
