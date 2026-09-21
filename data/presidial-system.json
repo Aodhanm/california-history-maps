@@ -62,20 +62,25 @@
      "C-A 21 Doc 152"
     ],
     [
+     "1783 Mar",
+     "16 escopetas (5 fair, 11 bad), 33 pairs of pistols, 32 espadas (1 good, 31 medium), 2 mounted cannon",
+     "C-A 15 Doc 210"
+    ],
+    [
      "1784 Feb",
-     "33 men",
-     "C-A 54 Doc 40"
+     "33 men, Moraga commanding; '2 cañones montados en sus cureñas'; the powder-magazine corner down in the rains",
+     "C-A 54 Doc 37"
     ],
     [
      "1784 Feb 27",
      "31 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
-     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "C-A 21 Doc 178",
      "ca21-d178"
     ],
     [
      "1787 Jul",
      "32 men",
-     "C-A 54 Doc 24"
+     "presidio register (C-A 54; catalog doc unresolved)"
     ],
     [
      "1794",
@@ -83,19 +88,29 @@
      "C-A 16 Doc 6"
     ],
     [
+     "1794 Jun",
+     "'20 escopetas y ocho espadas' sent from Mexico for the company, with the priced relación",
+     "C-A 22 Doc 2047; C-A 22 Doc 2061"
+    ],
+    [
      "1796",
      "37 men + 25 Catalonian Volunteers + artillery",
      "C-A 16 Doc 59"
     ],
     [
-     "1797 Dec",
-     "36 men, each with escopeta, sword, lance, cuera, adarga",
-     "C-A 54 Doc II-40"
+     "1796 Dec",
+     "the year-end munitions account: 1,467 cannonballs (8- to 24-pdr), '274 @ 21 lb.s pólvora', 8,197 cartridges",
+     "C-A 20 Doc 463"
     ],
     [
-     "1799 Mar",
-     "36 men (Borica's all-presidio resumen)",
-     "C-A 10 Doc 100"
+     "1797 Dec",
+     "36 men, each with escopeta, sword, lance, cuera, adarga",
+     "C-A 54 Doc 137 [reg. II-40]"
+    ],
+    [
+     "1799 Jan",
+     "36 plazas — from Borica's fold-out Estado of the whole establishment: the five companies 36/63/57/57/68, +70 Catalonian Volunteers, +18 Royal Artillery = 403 men, $98,650 situado",
+     "C-A 10 Doc 233"
     ],
     [
      "1801",
@@ -105,22 +120,27 @@
     [
      "1808",
      "70–73 men + 8–9 invalids",
-     "C-A 16 Docs 604, 630"
+     "C-A 16 Doc 604; C-A 16 Doc 630"
     ],
     [
-     "1815–18",
+     "[c.1810] Dec",
+     "'Recibió 40 carabinas y 30 pares pistolas p.a Presº de Sn Franco'",
+     "C-A 25 Doc 687"
+    ],
+    [
+     "1815",
      "57 soldiers + 4 artillerymen",
-     "C-A 21 Docs 148, 150, 66"
+     "C-A 21 Doc 148; C-A 21 Doc 150"
     ],
     [
-     "1818 Sep",
-     "56 soldiers + 2 artillerymen at the fort (Bouchard year)",
-     "C-A 54 Doc 74"
+     "1818 Oct",
+     "54 soldiers + a 4-gunner artillery detachment (the Bouchard year)",
+     "C-A 21 Doc 66"
     ],
     [
      "1823 Jan",
      "36 men (Alf. M. G. Vallejo)",
-     "C-A 54 Doc III-16"
+     "C-A 54 Doc 186 [reg. III-16]"
     ]
    ],
    "series_label": "Garrison",
@@ -135,7 +155,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
   },
   {
    "id": "castillo-san-joaquin-sf",
@@ -168,7 +188,7 @@
     [
      "1796 Dec",
      "2 mounted field cannon (Alberni inventory)",
-     "C-A 54 Doc II-19; C-A 16"
+     "C-A 54 Doc 118 [reg. II-19]"
     ],
     [
      "1798 Dec",
@@ -178,17 +198,22 @@
     [
      "1802",
      "~13 pieces but only ~5 mounted and serviceable",
-     "C-A 11 n225–228"
+     "C-A 11 Doc 242"
     ],
     [
      "1805",
      "24-pdrs rusted, few serviceable bronze guns, buildings threatening collapse",
-     "C-A 16 Docs 402, 438"
+     "C-A 16 Doc 402; C-A 16 Doc 438"
     ],
     [
      "1815 Dec",
      "15 cannon counted (likely all pieces incl. dismounted — reconcile before citing as mounted)",
      "C-A 21 Doc 63"
+    ],
+    [
+     "1818 Sep 8",
+     "the fort's own inventory, three days after the province-wide count: 1,179 iron balls, 346 cartridges, 8 grapeshot clusters, 8 @ powder",
+     "C-A 21 Doc 64"
     ],
     [
      "1819 Dec",
@@ -198,7 +223,7 @@
     [
      "1820",
      "8 cannon, 2 broken, 6 functional; no forge, no grapeshot",
-     "C-A 13 n260–263"
+     "C-A 13 Doc 332; C-A 13 Doc 336"
     ],
     [
      "1823 Jan",
@@ -207,7 +232,7 @@
     ],
     [
      "1833 Jun",
-     "bronze 18-pdr ×5 + 8 + 2½ (1 useless); iron 24-pdr ×3 + 12 + 4 + 2½",
+     "bronze 18-pdr ×5 + 8 + 2½; iron 24-pdr ×3 + 12 + 4 + 2½",
      "C-A 19 Doc 244"
     ]
    ],
@@ -284,23 +309,28 @@
     [
      "1781",
      "56 total; 2 cannon, 52 pairs of pistols",
-     "C-A 21 Docs 222, 177"
+     "C-A 21 Doc 222; C-A 21 Doc 177"
     ],
     [
      "1784 Dec",
      "~53 men (Sal alférez)",
-     "C-A 54 Doc 51"
+     "presidio register (C-A 54; catalog doc unresolved)"
     ],
     [
      "1784 Feb 27",
      "42 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
-     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "C-A 21 Doc 178",
      "ca21-d178"
+    ],
+    [
+     "1786 Dec",
+     "391 cannonballs, 100 pedrero balls, 120 ball + 40 grapeshot cannon cartridges, 21 @ powder, 1,570 musket cartridges",
+     "C-A 15 Doc 315"
     ],
     [
      "1795 Aug",
      "60 men",
-     "C-A 54 Doc III-11"
+     "C-A 54 Doc 181 [reg. III-11]"
     ],
     [
      "1796",
@@ -308,29 +338,44 @@
      "C-A 16 Doc 62"
     ],
     [
+     "1796 Dec 31",
+     "10 cannon — 5 bronze 8-pdrs, 3 six-pdrs, 2 three-pdrs — plus 3 pedreros de á 2",
+     "C-A 9 Doc 357; C-A 20 Doc 464"
+    ],
+    [
      "1797 Apr",
      "57 men; 124 horses; short 13 muskets",
-     "C-A 54 Doc 2"
+     "presidio register (C-A 54; catalog doc unresolved)"
+    ],
+    [
+     "1797 Mar–Nov",
+     "the war-year remesa: '200 fusiles con fundas, 200 cartucheras y 16000 piedras de chispa' on the Concepción",
+     "C-A 10 Doc 148; C-A 23 Doc 1257; C-A 24 Doc 599"
+    ],
+    [
+     "1799 Jan",
+     "63 plazas (Borica's Estado; the largest company)",
+     "C-A 10 Doc 233"
     ],
     [
      "1804 Dec",
      "~58 active + 24 invalids",
-     "C-A 54 Doc IV-23"
+     "C-A 54 Doc 213 [reg. IV-23]"
     ],
     [
      "1809 Nov",
      "~85 men but dispersed; only 4 on the battery",
-     "C-A 54 Doc IV-49"
+     "C-A 54 Doc 239 [reg. IV-49]"
     ],
     [
      "1812",
      "7 mounted bronze 8-pdrs + 6-pdrs and 3-pdrs; 1,340 iron balls",
-     "C-A 55 Docs 102–104"
+     "C-A 55 Doc 104; C-A 55 Doc 102"
     ],
     [
      "1812 Dec",
      "~84 men + 2 artillerymen",
-     "C-A 54 Doc 67"
+     "presidio register (C-A 54; catalog doc unresolved)"
     ],
     [
      "1816 Oct",
@@ -340,17 +385,17 @@
     [
      "1816 Nov",
      "85 active + 5 artillerymen",
-     "C-A 54 Doc II-60"
+     "C-A 54 Doc 158 [reg. II-60]"
     ],
     [
      "1818",
      "82–85 troops monthly; 2 cannon worked by militia gunner J. J. Vallejo during Bouchard's attack",
-     "C-A 54 Docs III-11, II-55"
+     "C-A 54 Doc 181; C-A 54 Doc 153"
     ],
     [
      "1820",
      "cannon unusable for want of vent-pins",
-     "C-A 54 Doc II-58"
+     "C-A 54 Doc 156 [reg. II-58]"
     ],
     [
      "1827",
@@ -361,6 +406,16 @@
      "1829 Oct",
      "128 men: artillery 28, infantry 24, cavalry 76",
      "C-A 18 Doc 379"
+    ],
+    [
+     "1829 Jan",
+     "10 cuñetes de pólvora north on the brig María Esther",
+     "C-A 47 Doc 1450; C-A 47 Doc 1428"
+    ],
+    [
+     "1832 Jul",
+     "'100 fusiles y 100 bayonetas' + 17 cajones with 20,000 cartuchos and 2,000 piedras de chispa, shipped on the brig Catalina to Figueroa's order",
+     "C-A 20 Doc 517; C-A 20 Doc 516"
     ],
     [
      "1844 Nov",
@@ -380,7 +435,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
   },
   {
    "id": "presidio-santa-barbara",
@@ -403,18 +458,43 @@
     [
      "1782 Sep",
      "58 men (founding year; Sgt. Sal among them)",
-     "C-A 54 Doc IV-39"
+     "C-A 54 Doc 229 [reg. IV-39]"
+    ],
+    [
+     "1783 Mar",
+     "6,700 musket cartridges, 2,860 gunflints, 18 @ powder, 14 @ balls, 119 @ lead; 140 four-pdr cannon cartridges",
+     "C-A 15 Doc 203"
     ],
     [
      "1784 Feb 27",
      "58 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
-     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "C-A 21 Doc 178",
      "ca21-d178"
+    ],
+    [
+     "1784 Apr",
+     "2 bronze 4-pdrs on carriages; 58 muskets (46 of 1780 + 12 short of 1775), 57 pairs of pistols",
+     "C-A 3 Doc 97"
+    ],
+    [
+     "1788 Nov",
+     "'las 50 escopetas que he recibido de México'",
+     "C-A 4 Doc 342"
     ],
     [
      "1793 Dec",
      "61 men",
-     "C-A 54 Doc III-16"
+     "C-A 54 Doc 186 [reg. III-16]"
+    ],
+    [
+     "1794 Dec",
+     "'118 cartuchos con bala de á 6' already in store — the same figure the commander reports in April 1797: twenty-eight months, nothing fired, nothing added",
+     "C-A 54 Doc 137"
+    ],
+    [
+     "1796 Dec 31",
+     "the year-end account: 128 cannonballs, 7 grape cartridges, '44 @ 5 lb.s pólvora', 8,842 escopeta cartridges",
+     "C-A 20 Doc 465"
     ],
     [
      "1797",
@@ -427,24 +507,34 @@
      "C-A 15 Doc 464"
     ],
     [
+     "1799 Jan",
+     "57 plazas (Borica's Estado)",
+     "C-A 10 Doc 233"
+    ],
+    [
      "1802",
      "1 bronze 6-pdr + iron 4-pdr + small pieces, several without carriages",
      "C-A 16 Doc 291"
     ],
     [
+     "1803 Mar",
+     "'Para el situado vendrán 36 arrobas de pólvora'",
+     "C-A 26 Doc 324"
+    ],
+    [
      "1806–08",
      "69 men + 25–33 invalids",
-     "C-A 16 Docs 572, 602, 633"
+     "C-A 16 Doc 572; C-A 16 Doc 602; C-A 16 Doc 633"
     ],
     [
      "1815",
      "~66 men (Capt. J. Argüello; Tte. de la Guerra)",
-     "C-A 54 Doc III-11"
+     "C-A 54 Doc 181 [reg. III-11]"
     ],
     [
      "1816 Jul 6",
      "the jurisdiction could field 135 men — Los Ángeles (4 sergeants, 1 corporal, 15 invalid soldiers, 70 vecinos), the missions San Fernando, San Buenaventura and Purísima, the ranchos Simí and del Refugio, the presidio invalids and 17 vecinos — but held only 32 muskets, 22 swords, 8 pistols and 6 lances for the whole of it",
-     "Prov. St. Pap. (C-A 13) Doc 127 — *Estado* of men fit to bear arms in the Santa Bárbara jurisdiction, signed Guerra y Noriega",
+     "C-A 13 Doc 127 — Estado of men fit to bear arms, signed Guerra y Noriega",
      "ca13-d127"
     ],
     [
@@ -456,6 +546,11 @@
      "1828",
      "bronze 2 good / 1 bad / 1 useless; iron 1 good / 2 useless",
      "C-A 18 Doc 377"
+    ],
+    [
+     "1828 Jun",
+     "'Remita á Comte de Sta Barba 2000 piedras de chispa'",
+     "C-A 47 Doc 1623"
     ]
    ],
    "series_label": "Garrison / ordnance",
@@ -491,30 +586,50 @@
    "summary": "The first presidio, founded 1769. In September 1783 the whole company held 72 cartridges. Its guns were dismounted in 1793 with nobody able to operate them.",
    "series": [
     [
+     "1775 May",
+     "55 espadas, 20 cuchillos, 2 cajones de pólvora, 1 cajón de balas, 8 @ munición in the founding-era supply",
+     "C-A 1 Doc 106"
+    ],
+    [
      "1783 Sep",
      "50 men; 35 pairs pistols, 1 sword, 72 cartridges for the company",
-     "C-A 54 Doc II-20"
+     "C-A 54 Doc 117 [reg. II-20]"
     ],
     [
      "1784 Feb 27",
      "48 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
-     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "C-A 21 Doc 178",
      "ca21-d178"
     ],
     [
      "1784 Jan",
      "57 men (Zúñiga)",
-     "C-A 54 Doc IV-13"
+     "C-A 54 Doc 203 [reg. IV-13]"
     ],
     [
-     "1793",
-     "2–3 cannon, dismounted, 'sin haber quien los maneje'",
-     "C-A 14; C-A 15 Doc 515"
+     "1785 Jan",
+     "the company's arms, piece by piece: 52 escopetas (3 good / 35 medium / 14 bad, issues of 1774 and 1780), 52 pairs of pistols (38 French + 14 from Sonora)",
+     "C-A 3 Doc 222; C-A 3 Doc 221"
+    ],
+    [
+     "1793 Jul",
+     "3 cannon, dismounted, nobody to work them — 'sin q.e haya quien los maneje' (the C-A 14 leaf, n101, read 2026-09-14)",
+     "C-A 15 Doc 515"
     ],
     [
      "1796 Dec",
      "49 soldiers (Grajera)",
-     "C-A 54 Doc 14"
+     "presidio register (C-A 54; catalog doc unresolved)"
+    ],
+    [
+     "1796 Dec 31",
+     "the year-end account: '25 @ 14 lb.s pólvora, 6070 cartuchos, 101 @ 13 lb plomo, 3752 piedras' — small-arms stores only",
+     "C-A 20 Doc 467"
+    ],
+    [
+     "1799 Jan",
+     "57 plazas (Borica's Estado)",
+     "C-A 10 Doc 233"
     ],
     [
      "1806",
@@ -524,22 +639,37 @@
     [
      "1810 Mar",
      "~67 men + 4 artillerymen",
-     "C-A 54 Doc II-41"
+     "C-A 54 Doc 139 [reg. II-41]"
     ],
     [
      "1817",
      "62 soldiers; 20-man artillery detachment (1816)",
-     "C-A 21 Docs 87, 89"
+     "C-A 21 Doc 87; C-A 21 Doc 89"
     ],
     [
      "1821 Dec",
      "72 total + 7 artillerymen",
-     "C-A 54 Doc 43"
+     "presidio register (C-A 54; catalog doc unresolved)"
+    ],
+    [
+     "1822 May",
+     "71 men + 4 artillerymen + 19 invalids — but only 25 fusiles for the company; 437 horses",
+     "C-A 18 Doc 25"
+    ],
+    [
+     "1824 Aug",
+     "'32 fusiles con sus Bayonetas, 12 Cañetes de Polvora con una @ cada uno y un mil piedras de Chispa' landed from the goleta",
+     "C-A 46 Doc 341"
+    ],
+    [
+     "1828 May",
+     "40 arrobas of gunpowder deposited by the French frigate Héros (Duhaut-Cilly), ordered taken and divided",
+     "C-A 47 Doc 1583"
     ],
     [
      "1829 Aug",
      "45 men",
-     "C-A 54 Doc III-11"
+     "C-A 54 Doc 181 [reg. III-11]"
     ],
     [
      "1835",
@@ -559,7 +689,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
   },
   {
    "id": "fort-guijarros-sd",
@@ -582,7 +712,7 @@
     [
      "1798 Dec",
      "7 cannon mounted (6-pdrs), only 2 serviceable; 6 artillerymen",
-     "C-A 15 Docs 481, 463"
+     "C-A 15 Doc 481; C-A 15 Doc 463"
     ],
     [
      "1805",
@@ -635,18 +765,33 @@
     [
      "1784 Feb 27",
      "44 muskets — from the inspector's comparative armament census of all five presidios (muskets, pistols and lances, with reserve)",
-     "Prov. St. Pap., Presidios (C-A 21) Doc 178",
+     "C-A 21 Doc 178",
      "ca21-d178"
     ],
     [
      "1784 Jun",
      "47 men + 13 sailors",
-     "C-A 54 Doc 79"
+     "presidio register (C-A 54; catalog doc unresolved)"
     ],
     [
-     "1799 Mar",
-     "61 men (Borica's resumen)",
-     "C-A 10 Doc 100"
+     "1784 Dec",
+     "13 @ powder, 16 @ lead, 210 gunflints in store; the cartridge account 372 short, written off",
+     "C-A 62 Doc 34"
+    ],
+    [
+     "1796 Dec 31",
+     "'24 @ 18 lb.s pólvora, 2569 piedras' — powder and flints only: the smallest store in the accounts",
+     "C-A 20 Doc 468"
+    ],
+    [
+     "1799 Jan",
+     "68 plazas + 30 maestranza y marinería (Borica's Estado)",
+     "C-A 10 Doc 233"
+    ],
+    [
+     "1800 Jul",
+     "'las 120 escopetas solicitadas remitidas'",
+     "C-A 14 Doc 508"
     ],
     [
      "1805",
@@ -666,7 +811,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
   },
   {
    "id": "colony-ross",
@@ -689,17 +834,17 @@
     [
      "1812 Sep",
      "~95 Russians + ~80 Aleut hunters; stockade ~150 yards square",
-     "Moraga recon via Langelier & Rosen"
+     "C-A 12 Doc 407"
     ],
     [
      "1813 Jul",
      "~13 mounted cannon (Spanish intelligence estimate, Viceroy Calleja)",
-     "C-A 12 entry 8a (Prov. St. Pap. xix.1097–1110)"
+     "C-A 12 Doc 491"
     ],
     [
      "1814 Jul",
      "8 cannon in two corner towers + ~26 embrasures; 'not easy to attack' (Moraga, eyewitness)",
-     "C-A 12 doc C432 (xix.1215–17)"
+     "C-A 12 Doc 439"
     ]
    ],
    "series_label": "Strength",
@@ -735,14 +880,24 @@
    "summary": "Armed against the coastal threat: 2 four-pounders in the 1798 census, 3-pounders by 1805.",
    "series": [
     [
+     "1782 Dec",
+     "escolta of 1 sargento + 14 soldados of the Santa Bárbara company",
+     "C-A 15 Doc 153"
+    ],
+    [
      "1798 Dec",
      "2 × 4-pdr",
      "C-A 15 Doc 464"
     ],
     [
      "1805",
-     "3-pdrs",
+     "one bronze 3-pdr (the province-wide mission-gun list)",
      "C-A 16 Doc 475"
+    ],
+    [
+     "1839 Jun",
+     "5 pistols in the mission-stock statement",
+     "C-A 51 Doc 60"
     ]
    ],
    "series_label": "Ordnance",
@@ -822,8 +977,13 @@
     ],
     [
      "1805",
-     "2-pdrs",
+     "one bronze 2-pdr (the province-wide mission-gun list)",
      "C-A 16 Doc 475"
+    ],
+    [
+     "1824 Mar",
+     "held by 400+ armed neophytes with a cannon, 2 pedreros and muskets; stormed by 80 men with a 4-pdr fieldpiece",
+     "C-A 27 Doc 167"
     ]
    ],
    "series_label": "Ordnance",
@@ -860,7 +1020,7 @@
    "series": [
     [
      "1805",
-     "3-pdrs",
+     "one bronze 3-pdr (the province-wide mission-gun list)",
      "C-A 16 Doc 475"
     ]
    ],
@@ -898,7 +1058,7 @@
    "series": [
     [
      "1805",
-     "2-pdrs",
+     "one bronze 2-pdr 'mal montado' (the province-wide mission-gun list)",
      "C-A 16 Doc 475"
     ]
    ],
@@ -935,9 +1095,14 @@
    "summary": "Up to 3 cannons emplaced in 1819 'para impedir el desembarco de algunos invasores', part of the scramble after Bouchard burned Monterey.",
    "series": [
     [
+     "1797 May",
+     "the founding escort's repuesto: 2 escopetas, 1,000 cartuchos cal. 14, 1,000 balls, 200 gunflints",
+     "C-A 50 Doc 149"
+    ],
+    [
      "1819",
      "up to 3 cannon (Lt. Gómez)",
-     "C-A 54 Doc II-56"
+     "C-A 54 Doc 154 [reg. II-56]"
     ]
    ],
    "series_label": "Ordnance",
@@ -973,9 +1138,24 @@
    "summary": "A pedrero (swivel gun) posted at the pueblo in the 1798 ordnance census.",
    "series": [
     [
+     "1782 Dec",
+     "2 soldiers of the San Francisco presidial company posted at the pueblo",
+     "C-A 15 Doc 188"
+    ],
+    [
      "1798 Dec",
      "pedrero",
      "C-A 15 Doc 465"
+    ],
+    [
+     "1845 Apr",
+     "'Le manda armamento, 50 fusiles y una barrica de polvora' — Castro arming alcalde Antonio María Pico",
+     "C-A 45 Doc 564"
+    ],
+    [
+     "1849 Oct",
+     "prefect Pico asks for 25 fusiles con fornituras y municiones to arm citizen patrols",
+     "C-A 63 Doc 484"
     ]
    ],
    "series_label": "Ordnance",
@@ -1051,7 +1231,7 @@
     [
      "1818 Sep 5",
      "58 pieces in the whole province; 3 useless, several *desgranados*, the carriages failing for want of ironwork",
-     "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 324 — 'Artillería y pertrechos — Existentes en Cal.'",
+     "C-A 17 Doc 324 — 'Artillería y pertrechos — Existentes en Cal.'",
      "ca17-d324"
     ]
    ],
@@ -1129,6 +1309,107 @@
    "native_groups": [],
    "tags": [],
    "notes": "Armament of the fort itself is deliberately not totalled here: the catalogue records the Russian-property purchase and the 1845 field artillery, not a fort inventory. What can be said from the record is sourced line by line above."
+  },
+  {
+   "id": "armed-mission-san-gabriel",
+   "register_no": null,
+   "name": "Mission San Gabriel (armed)",
+   "date": {
+    "iso": null,
+    "display": "1785 Jan",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.0966,
+    -118.1069
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "armed",
+   "summary": "A mission with its own artillery park — and a lender of last resort: in 1834 one of its four-pounders was out on loan to the Los Angeles ayuntamiento.",
+   "series": [
+    [
+     "1785 Jan",
+     "1 cannon of the San Diego district artillery posted at the mission",
+     "C-A 3 Doc 221"
+    ],
+    [
+     "1834 Nov",
+     "2 bronze 4-pdrs on carriages, 1 iron 2-pdr, 3 pedreros; 1 four-pdr LENT to the Los Angeles ayuntamiento",
+     "C-A 51 Doc 20"
+    ]
+   ],
+   "series_label": "Armament in the record",
+   "result": "1834: a secularized mission still holding six pieces, one of them lent to the pueblo",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Rows cited document-by-document in the dated series",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "armed-pueblo-los-angeles",
+   "register_no": null,
+   "name": "Pueblo de Los Ángeles (armed)",
+   "date": {
+    "iso": null,
+    "display": "1782 Dec",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.0537,
+    -118.2428
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "armed",
+   "summary": "The pueblo's armament through the record: two posted soldiers in 1782, a borrowed mission gun in 1834, and on the eve of the conquest an arsenal counted twice in three weeks — more muskets broken than serviceable.",
+   "series": [
+    [
+     "1782 Dec",
+     "2 soldiers of the Santa Bárbara presidial company posted at the pueblo",
+     "C-A 15 Doc 153"
+    ],
+    [
+     "1816 Jul",
+     "the jurisdiction's levy: 4 sergeants, 1 corporal, 15 invalid soldiers, 70 vecinos — against 32 muskets, 22 swords, 8 pistols and 6 lances for the whole district",
+     "C-A 13 Doc 127"
+    ],
+    [
+     "1834 Nov",
+     "1 four-pdr on loan from Mission San Gabriel",
+     "C-A 51 Doc 20"
+    ],
+    [
+     "1845 Oct",
+     "the arsenal counted: 24 fusiles útiles, 28 inútiles, 24 paradas de cartuchos, 7 piezas de artillería, 22 cartuchos de cañón",
+     "C-A 30 Doc 310"
+    ],
+    [
+     "1845 Nov",
+     "pertrechos entregados three weeks later: 22 fusiles con bayoneta, 5 piezas de artillería, 99 cartuchos de cañón, 110 balas, 23 fusiles inútiles",
+     "C-A 30 Doc 311"
+    ]
+   ],
+   "series_label": "Armament in the record",
+   "result": "Oct 1845: 24 serviceable muskets against 28 broken, months before the conquest",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Rows cited document-by-document in the dated series",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [],
+   "notes": ""
   }
  ]
 }
