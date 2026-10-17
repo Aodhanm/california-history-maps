@@ -87,8 +87,8 @@
     "confidence": "exact"
    },
    "coords": [
-    38.332,
-    -123.048
+    38.287,
+    -123.028
    ],
    "coord_precision": "place",
    "type": "event",
@@ -238,8 +238,8 @@
     "confidence": "range"
    },
    "coords": [
-    38.338,
-    -123.042
+    38.3,
+    -123.02
    ],
    "coord_precision": "place",
    "type": "event",
@@ -269,8 +269,8 @@
     "confidence": "year"
    },
    "coords": [
-    37.78,
-    -122.44
+    37.812,
+    -122.388
    ],
    "coord_precision": "place",
    "type": "event",
@@ -300,8 +300,8 @@
     "confidence": "range"
    },
    "coords": [
-    37.698,
-    -123.002
+    37.69,
+    -122.99
    ],
    "coord_precision": "place",
    "type": "event",
@@ -451,8 +451,8 @@
     "confidence": "year"
    },
    "coords": [
-    36.605,
-    -121.895
+    36.622,
+    -121.87
    ],
    "coord_precision": "place",
    "type": "event",
@@ -512,8 +512,8 @@
     "confidence": "circa"
    },
    "coords": [
-    37.796,
-    -122.402
+    37.808,
+    -122.37
    ],
    "coord_precision": "place",
    "type": "event",
@@ -543,8 +543,8 @@
     "confidence": "month"
    },
    "coords": [
-    37.787,
-    -122.462
+    37.81,
+    -122.455
    ],
    "coord_precision": "place",
    "type": "event",
@@ -754,8 +754,8 @@
     "confidence": "exact"
    },
    "coords": [
-    38.225,
-    -122.935
+    38.17,
+    -122.91
    ],
    "coord_precision": "place",
    "type": "event",
@@ -785,8 +785,8 @@
     "confidence": "month"
    },
    "coords": [
-    37.785,
-    -122.46
+    37.826,
+    -122.413
    ],
    "coord_precision": "place",
    "type": "event",
@@ -816,8 +816,8 @@
     "confidence": "month"
    },
    "coords": [
-    37.795,
-    -122.448
+    37.831,
+    -122.399
    ],
    "coord_precision": "place",
    "type": "event",
@@ -847,8 +847,8 @@
     "confidence": "month"
    },
    "coords": [
-    38.325,
-    -123.055
+    38.296,
+    -123.04
    ],
    "coord_precision": "place",
    "type": "event",
