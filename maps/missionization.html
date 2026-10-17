@@ -29,6 +29,8 @@
   <h1 id="map-title">Missionization — the Establishment System</h1>
   <p class="subtitle">Every establishment class in pictorial symbols, founding orders from the archive on the popups.</p>
 </div>
+<details class="headfold">
+<summary><span class="arr">▸</span> Map notes, layers &amp; baylands <span id="feat-count-mirror" class="fcmirror"></span></summary>
 <div class="panel-note" id="panel-note"></div>
 <div class="base-controls">
   <label><input type="checkbox" id="baylands-toggle" checked> Pre-1850 baylands (SFEI, ca. 1800)</label>
@@ -36,6 +38,16 @@
   <span id="feat-count"></span>
 </div>
 <div class="layer-boxes" id="layer-boxes"></div>
+</details>
+<script>
+(function(){var d=document.querySelector('.headfold');
+ d.addEventListener('toggle',function(){d.querySelector('.arr').textContent=d.open?'\u25be':'\u25b8';});
+ // mirror the feature count onto the folded bar
+ var mo=new MutationObserver(function(){var c=document.getElementById('feat-count').textContent;
+   document.getElementById('feat-count-mirror').textContent=c?('\u2014 '+c):'';});
+ mo.observe(document.getElementById('feat-count'),{childList:true,characterData:true,subtree:true});
+})();
+</script>
 <div id="map" role="application" aria-label="Interactive historical map"></div>
 <p class="baylands-credit">Historical baylands drawn live from the State of California (CDFW BIOS ds3201) public map service: the San Francisco Estuary Institute’s historical ecology compilation of habitats at European contact, traced largely from 1850s U.S. Coast Survey T-sheets. © SFEI; served by CDFW; not redistributed by this site. Coverage is the San Francisco Estuary.</p>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

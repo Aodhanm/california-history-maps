@@ -21,3 +21,12 @@
 .route-end-label { background:none; border:none; box-shadow:none; color:#55402a; font-size:.66rem; font-style:italic; text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 2px #fff; padding:0; max-width:150px; white-space:normal; text-align:left; }
 .route-end-label::before { display:none; }
 .labels-off .route-end-label { display:none; }
+
+/* retractable head band (notes + layer controls) */
+.headfold { margin: 0; }
+.headfold > summary { list-style: none; cursor: pointer; user-select: none;
+  padding: 7px 30px; font-size: 13.5px; color: #7c4a2d; background: #fdf7e6;
+  border-top: 1px solid #e5ddd0; border-bottom: 1px solid #e5ddd0; font-weight: 700; }
+.headfold > summary::-webkit-details-marker { display: none; }
+.headfold .arr { display: inline-block; width: 1em; color: #8a7f72; }
+.headfold .fcmirror { font-weight: 400; color: #8a7f72; margin-left: 8px; }
