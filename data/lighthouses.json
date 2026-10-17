@@ -2,7 +2,7 @@
  "id": "lighthouses",
  "title": "Lighthouses of California",
  "subtitle": "Every light station, fog signal, and lightship station, 1854–1939",
- "abstract": "Every documented light station on the California coast and inside San Francisco Bay — from the first federal cohort of 1854 to the last stations built before the Second World War — together with the fog-signal stations, the minor bay beacons, and the two lightship stations that held position where no tower could stand. Each pin carries the station's first lighting, its lens, its rebuildings, its automation and fate, and, where the record allows, the words of the Light-House Board itself: this map's primary layer is 173 passages quoted from the Board's annual reports, located in the Treasury's printed volumes and cited to report year and page. Those reports correct the received story in places. The Board never called Alcatraz the first lighthouse on the Pacific coast; its own printed Light List of 1858 gives both Alcatraz and Point Pinos as built in 1854 and does not rank them. Mare Island's fog bell came from Point Bonita, not Cape Mendocino. And the Board located Mare Island's own tower at the island's \"southern end\" in 1872 and its \"extreme eastern end\" in 1874 — so that pin, like three others whose stations are gone and whose positions were never published, is an area estimate with its derivation stated in the popup rather than a false precision. Layers are the eras of building; filters cut by station type, present condition, and region.",
+ "abstract": "Every documented light station on the California coast and inside San Francisco Bay; from the first federal cohort of 1854 to the last stations built before the Second World War; together with the fog-signal stations, the minor bay beacons, and the two lightship stations that held position where no tower could stand. Each pin carries the station's first lighting, its lens, its rebuildings, its automation and fate, and, where the record allows, the words of the Light-House Board itself: this map's primary layer is 173 passages quoted from the Board's annual reports, located in the Treasury's printed volumes and cited to report year and page. Those reports correct the received story in places. The Board never called Alcatraz the first lighthouse on the Pacific coast; its own printed Light List of 1858 gives both Alcatraz and Point Pinos as built in 1854 and does not rank them. Mare Island's fog bell came from Point Bonita, not Cape Mendocino. And the Board located Mare Island's own tower at the island's \"southern end\" in 1872 and its \"extreme eastern end\" in 1874; so that pin, like three others whose stations are gone and whose positions were never published, is an area estimate with its derivation stated in the popup rather than a false precision. Layers are the eras of building; filters cut by station type, present condition, and region.",
  "date_range": [
   1854,
   1939
@@ -37,7 +37,7 @@
    "color": "#1f4e79"
   }
  ],
- "legend_note": "Layers are eras of establishment. Pin size marks the kind of aid (light station, lightship station, fog signal, minor beacon). Dashed pins are area estimates — four vanished stations whose positions were never published are derived from period descriptions, with the derivation given in the popup.",
+ "legend_note": "Layers are eras of establishment. Pin size marks the kind of aid (light station, lightship station, fog signal, minor beacon). Dashed pins are area estimates; four vanished stations whose positions were never published are derived from period descriptions, with the derivation given in the popup.",
  "attribute_filters": [
   {
    "key": "station_type",
@@ -172,7 +172,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -300,7 +300,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1857"
@@ -352,7 +352,7 @@
    "station_type": "light station",
    "status": "standing",
    "region": "north-coast",
-   "summary": "A squat brick tower of 1871 whose modest height — 18 feet from ground line to focal plane, in the Board's own figure — is multiplied by Trinidad Head's 196-foot cliff, this light covered the crowded lumber-schooner harbor at Trinidad. It keeps its original station arrangement minus the razed Victorian dwelling, and its 1871 lens survives in a replica tower in town. It remains an active Coast Guard aid, automated in 1974.",
+   "summary": "A squat brick tower of 1871 whose modest height; 18 feet from ground line to focal plane, in the Board's own figure; is multiplied by Trinidad Head's 196-foot cliff, this light covered the crowded lumber-schooner harbor at Trinidad. It keeps its original station arrangement minus the razed Victorian dwelling, and its 1871 lens survives in a replica tower in town. It remains an active Coast Guard aid, automated in 1974.",
    "facts": [
     [
      "First lit",
@@ -421,7 +421,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1871"
@@ -538,7 +538,7 @@
      "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -648,7 +648,7 @@
      "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1852"
@@ -681,7 +681,7 @@
      "cite": "Annual Report of the Light-House Board, printed in the Annual Report of the Secretary of the Treasury on the State of the Finances, 1874, p. 683"
     }
    ],
-   "notes": "Position PUBLISHED, not derived: \"Its geographical position, as determined by the U.S. Coast and Geodetic Survey, is: Latitude 40° 46′ 01″ north, Longitude 124° 13′ 14″ west\" (USC&GS Pacific Coast Pilot, 4th ed., 1889, p. 325). An earlier version of this map estimated the site by measuring north from the modern jettied entrance and landed about 1.4 km too far north — the 1889 \"entrance to the bay\" was not today's. The Board's 1858 printed light list gives a slightly different longitude (124° 12′ 21″ W). Also known as: Humboldt Bay Lighthouse, Humboldt Bay North Spit Lighthouse.",
+   "notes": "Position PUBLISHED, not derived: \"Its geographical position, as determined by the U.S. Coast and Geodetic Survey, is: Latitude 40° 46′ 01″ north, Longitude 124° 13′ 14″ west\" (USC&GS Pacific Coast Pilot, 4th ed., 1889, p. 325). An earlier version of this map estimated the site by measuring north from the modern jettied entrance and landed about 1.4 km too far north; the 1889 \"entrance to the bay\" was not today's. The Board's 1858 printed light list gives a slightly different longitude (124° 12′ 21″ W). Also known as: Humboldt Bay Lighthouse, Humboldt Bay North Spit Lighthouse.",
    "photo": {
     "url": "../assets/photos/lighthouses/humboldt-harbor-light-1856.jpg",
     "credit": "Photographer unknown; sourced by the uploader from the U.S. Lighthouse Society archive · 1920",
@@ -777,7 +777,7 @@
      "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1867"
@@ -896,7 +896,7 @@
      "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1014,7 +1014,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1126,7 +1126,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1867"
@@ -1255,7 +1255,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1855"
@@ -1384,7 +1384,7 @@
      "url": "https://www.nps.gov/subjects/nationalregister/upload/national-register-listed_20260522.xlsx"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1852"
@@ -1596,7 +1596,7 @@
      "url": "https://www.nps.gov/subjects/nationalregister/upload/national-register-listed_20260522.xlsx"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1857"
@@ -1717,7 +1717,7 @@
      "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1868"
@@ -1832,7 +1832,7 @@
      "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1870"
@@ -1949,7 +1949,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1853"
@@ -2070,7 +2070,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -2172,7 +2172,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1871"
@@ -2283,7 +2283,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -2383,7 +2383,7 @@
      "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -2497,7 +2497,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1855"
@@ -2620,7 +2620,7 @@
      "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1856"
@@ -2741,7 +2741,7 @@
      "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500058_text"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1858"
@@ -2860,7 +2860,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3071,7 +3071,7 @@
      "url": "https://archive.org/details/cihm_15816"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1858"
@@ -3190,7 +3190,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3306,7 +3306,7 @@
      "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/DomesticNames/DomesticNames_CA_Text.zip"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3416,7 +3416,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1855"
@@ -3531,7 +3531,7 @@
      "url": "https://web.archive.org/web/2016id_/http://www.uscg.mil/history/weblighthouses/LHCA.asp"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3637,7 +3637,7 @@
      "url": "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V6_2025.pdf"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3761,7 +3761,7 @@
      "url": "https://www.nps.gov/subjects/nationalregister/upload/national-register-listed_20260522.xlsx"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3888,7 +3888,7 @@
      "url": "https://lighthousefriends.com/light.asp?ID=74"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1852"
@@ -4035,7 +4035,7 @@
      "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1852"
@@ -4188,7 +4188,7 @@
      "url": "https://lighthousefriends.com/light.asp?ID=76"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1852"
@@ -4424,7 +4424,7 @@
      "url": "https://lighthousefriends.com/light.asp?ID=77"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -4639,7 +4639,7 @@
      "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000138_text"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1874"
@@ -4758,7 +4758,7 @@
      "url": "https://en.wikipedia.org/wiki/Oakland_Harbor_Light"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -4778,7 +4778,7 @@
      "cite": "Annual Report of the Light-House Board (GPO), 1894, p. p. 186 (OCR only)"
     }
    ],
-   "notes": "Position NOT ESTABLISHED. No published latitude and longitude for either the 1890 or the 1903 structure was found; the 1889 Coast Pilot predates the station and the 1943 edition gives none. What the record does say is that the station stood on eleven piles off the end of the northern training wall, the two walls spaced 750 feet apart and running some two miles into the bay. This pin marks that approach, and should be read as an area with an uncertainty of about 1.5 km — an earlier version of this map cited a modern channel buoy as its anchor, which does not in fact produce this position. The 1903 building survives, moved about six miles to Embarcadero Cove. Also known as: Quinn's Lighthouse (relocated 1903 building).",
+   "notes": "Position NOT ESTABLISHED. No published latitude and longitude for either the 1890 or the 1903 structure was found; the 1889 Coast Pilot predates the station and the 1943 edition gives none. What the record does say is that the station stood on eleven piles off the end of the northern training wall, the two walls spaced 750 feet apart and running some two miles into the bay. This pin marks that approach, and should be read as an area with an uncertainty of about 1.5 km; an earlier version of this map cited a modern channel buoy as its anchor, which does not in fact produce this position. The 1903 building survives, moved about six miles to Embarcadero Cove. Also known as: Quinn's Lighthouse (relocated 1903 building).",
    "photo": {
     "url": "../assets/photos/lighthouses/oakland-harbor-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office · undated",
@@ -4882,7 +4882,7 @@
      "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -5010,7 +5010,7 @@
      "url": "https://en.wikipedia.org/wiki/East_Brother_Island_Light"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1873"
@@ -5147,7 +5147,7 @@
      "url": "https://uslhs.org/memoriam"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/SecTreasAnnReport1857"
@@ -5206,7 +5206,7 @@
      "cite": "Report of the Light-House Board, printed in the Reports of the Department of Commerce and Labor, FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District), p. 601"
     }
    ],
-   "notes": "Position PUBLISHED, not derived: the Coast and Geodetic Survey fixed this light at latitude 38° 04′ 19″ north, longitude 122° 15′ 16″ west (USC&GS Pacific Coast Pilot, 4th ed., 1889, p. 240). That volume also settles where the station stood, describing it in its words: \"a Light-house has been established on the extreme southeastern part of Mare Island\" — which reconciles the Light-House Board's own inconsistency between the \"southern end\" it ordered in 1872 and the \"extreme eastern end\" its 1874 list printed. An earlier version of this map estimated the position and placed it about 300 m away; the published fix supersedes that estimate. Also known as: Mare Island Lighthouse. ⚠ Corrected here from the Board itself: the fog bell was not new and did not come from Cape Mendocino. The Annual Report for 1874 (p. 682) states: \"The fog-bell and machinery formerly in use at Point Bonita light-station has been removed to this station, where a suitable house has been built for it.\"",
+   "notes": "Position PUBLISHED, not derived: the Coast and Geodetic Survey fixed this light at latitude 38° 04′ 19″ north, longitude 122° 15′ 16″ west (USC&GS Pacific Coast Pilot, 4th ed., 1889, p. 240). That volume also settles where the station stood, describing it in its words: \"a Light-house has been established on the extreme southeastern part of Mare Island\"; which reconciles the Light-House Board's own inconsistency between the \"southern end\" it ordered in 1872 and the \"extreme eastern end\" its 1874 list printed. An earlier version of this map estimated the position and placed it about 300 m away; the published fix supersedes that estimate. Also known as: Mare Island Lighthouse. ⚠ Corrected here from the Board itself: the fog bell was not new and did not come from Cape Mendocino. The Annual Report for 1874 (p. 682) states: \"The fog-bell and machinery formerly in use at Point Bonita light-station has been removed to this station, where a suitable house has been built for it.\"",
    "photo": {
     "url": "../assets/photos/lighthouses/mare-island-light.jpg",
     "credit": "National Archives (RG 26 Lighthouse Service photographs, negative 26-LG-64a-68); copy served by the U.S. Lighthouse Society Lighthouse Research Catalog · undated (station established 1873; razed 1917)",
@@ -5306,7 +5306,7 @@
      "url": "https://lighthousefriends.com/light.asp?ID=69"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -5328,7 +5328,7 @@
      "cite": "Report of the Light-House Board, printed in the Reports of the Department of Commerce and Labor, FY1907 (Reports of the Department of Commerce and Labor, 1907; Report of the Light-House Board, Twelfth District), p. 601"
     }
    ],
-   "notes": "Position DERIVED from the Notice to Mariners of January 1910, which placed the new station \"about 9/16 mile 106 degrees 30 minutes true from Mare Island lighthouse\" — that bearing and distance are applied here to the published Coast and Geodetic Survey position of the Mare Island light. Expect ±400 m, with a further ±140 m because the notice does not say whether its miles are statute or nautical. The building itself survives, moved: barged to Glen Cove in 1955, where it serves as a marina office. Also known as: Carquinez Straits Lighthouse, Glen Cove lighthouse (relocated building).",
+   "notes": "Position DERIVED from the Notice to Mariners of January 1910, which placed the new station \"about 9/16 mile 106 degrees 30 minutes true from Mare Island lighthouse\"; that bearing and distance are applied here to the published Coast and Geodetic Survey position of the Mare Island light. Expect ±400 m, with a further ±140 m because the notice does not say whether its miles are statute or nautical. The building itself survives, moved: barged to Glen Cove in 1955, where it serves as a marina office. Also known as: Carquinez Straits Lighthouse, Glen Cove lighthouse (relocated building).",
    "photo": {
     "url": "../assets/photos/lighthouses/carquinez-strait-light.jpg",
     "credit": "National Archives (RG 26, negative 26-LG-63a-70); U.S. Lighthouse Society Lighthouse Research Catalog (node 89549) · 1910 (the print is inscribed 'ph'd 23 Febr. '10')",
@@ -5426,7 +5426,7 @@
      "url": "https://archive.org/details/unitedstatescoast00usco"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -5546,7 +5546,7 @@
      "url": "https://archive.org/details/lightlistpacific00unit"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -5662,7 +5662,7 @@
      "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer"
     },
     {
-     "citation": "[P] Annual Report of the Light-House Board — the passages quoted in this popup, cited per passage to report year and page",
+     "citation": "[P] Annual Report of the Light-House Board · the passages quoted in this popup, cited per passage to report year and page",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -5790,7 +5790,7 @@
   },
   {
    "symbol": "lhhouse",
-   "label": "Dwelling-style light — keeper's house carries the lantern",
+   "label": "Dwelling-style light · keeper's house carries the lantern",
    "color": "#6b6257"
   },
   {

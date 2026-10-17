@@ -63,8 +63,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanish",
-   "summary": "10 soldiers + sergeant march overland from SF via Bolinas and Tomales Bay to Bodega. Coast Miwok direct them to harder western route — later admitted \"deceived.\" Territory 45 miles north of SF is \"tierra incognita.\"",
-   "result": "\"Tierra incognita\" — Spain's own governor admits unknown territory",
+   "summary": "10 soldiers + sergeant march overland from SF via Bolinas and Tomales Bay to Bodega. Coast Miwok direct them to harder western route; later admitted \"deceived.\" Territory 45 miles north of SF is \"tierra incognita.\"",
+   "result": "\"Tierra incognita\"; Spain's own governor admits unknown territory",
    "quote": null,
    "sources": [
     {
@@ -80,7 +80,7 @@
   {
    "id": "eliza-s-activo-at-bodega-spain-s-last-pacific-ex",
    "register_no": null,
-   "name": "Eliza's Activo at Bodega — Spain's Last Pacific Exploration",
+   "name": "Eliza's Activo at Bodega · Spain's Last Pacific Exploration",
    "date": {
     "iso": "1793-08-09",
     "display": "August 9, 1793",
@@ -93,8 +93,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanish",
-   "summary": "Eliza arrives in Activo after near-starvation NW Coast voyage. Spain's last Pacific exploration. The exhausted vessel barely makes it to Bodega — the empire's reach is collapsing.",
-   "result": "Last Spanish Pacific exploration — barely survived",
+   "summary": "Eliza arrives in Activo after near-starvation NW Coast voyage. Spain's last Pacific exploration. The exhausted vessel barely makes it to Bodega; the empire's reach is collapsing.",
+   "result": "Last Spanish Pacific exploration; barely survived",
    "quote": null,
    "sources": [
     {
@@ -111,7 +111,7 @@
   {
    "id": "golden-gate-crossing-borrowed-launches",
    "register_no": null,
-   "name": "Golden Gate Crossing — Borrowed Launches",
+   "name": "Golden Gate Crossing · Borrowed Launches",
    "date": {
     "iso": "1793-08-01",
     "display": "August 1–2, 1793",
@@ -141,7 +141,7 @@
   {
    "id": "viceroy-orders-bodega-whether-or-not-english-are",
    "register_no": null,
-   "name": "Viceroy Orders Bodega — \"Whether or Not English Are There\"",
+   "name": "Viceroy Orders Bodega · \"Whether or Not English Are There\"",
    "date": {
     "iso": "1793",
     "display": "1793",
@@ -155,7 +155,7 @@
    "type": "event",
    "layer": "spanish",
    "summary": "Revilla Gigedo orders Bodega occupied. Full fortification plan for Bodega + SF + Monterey + SD. Never executed. Supplies eventually repurposed (June 10, 1794).",
-   "result": "Order given — never carried out",
+   "result": "Order given; never carried out",
    "quote": null,
    "sources": [
     {
@@ -184,7 +184,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanish",
-   "summary": "Arrillaga reports an English vessel anchored at Bodega with \"cannons on land.\" Identity uncertain — Colnett traces? New vessel? Rumor? Same year as Spanish Bodega failure.",
+   "summary": "Arrillaga reports an English vessel anchored at Bodega with \"cannons on land.\" Identity uncertain; Colnett traces? New vessel? Rumor? Same year as Spanish Bodega failure.",
    "result": "Foreign military presence in territory Spain cannot reach",
    "quote": null,
    "sources": [
@@ -201,7 +201,7 @@
   {
    "id": "zuniga-shows-bodega-plans-to-british-no-concealm",
    "register_no": null,
-   "name": "Zúñiga Shows Bodega Plans to British — No Concealment",
+   "name": "Zúñiga Shows Bodega Plans to British · No Concealment",
    "date": {
     "iso": "1793-11",
     "display": "November 1793",
@@ -214,7 +214,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanish",
-   "summary": "San Diego commandant Zúñiga freely shows Bodega harbor plans to British officers. No concealment at all — contradicts the tight security at SF. The policy was inconsistent.",
+   "summary": "San Diego commandant Zúñiga freely shows Bodega harbor plans to British officers. No concealment at all; contradicts the tight security at SF. The policy was inconsistent.",
    "result": "Concealment policy fails at San Diego",
    "quote": null,
    "sources": [
@@ -244,8 +244,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "130 Aleut hunters aboard Kodiak. First Russian representative: Tarakanov. 40+ Russians + 150 Indians by 1809 (Argüello report). Moraga protests — ignored.",
-   "result": "Permanent Russian presence established — Spain protests but cannot act",
+   "summary": "130 Aleut hunters aboard Kodiak. First Russian representative: Tarakanov. 40+ Russians + 150 Indians by 1809 (Argüello report). Moraga protests; ignored.",
+   "result": "Permanent Russian presence established; Spain protests but cannot act",
    "quote": null,
    "sources": [
     {
@@ -276,7 +276,7 @@
    "type": "event",
    "layer": "russian",
    "summary": "130 Aleut bidarkas (kayaks) hunting sea otter inside San Francisco Bay. The Russians are inside Spain's premier port and Spain cannot stop them.",
-   "result": "Russian hunting inside the Bay — sovereignty violated",
+   "result": "Russian hunting inside the Bay; sovereignty violated",
    "quote": null,
    "sources": [
     {
@@ -293,7 +293,7 @@
   {
    "id": "farallon-islands-russian-sealing-station",
    "register_no": null,
-   "name": "Farallon Islands — Russian Sealing Station",
+   "name": "Farallon Islands · Russian Sealing Station",
    "date": {
     "iso": "1812",
     "display": "~1812–1840s",
@@ -306,8 +306,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Russian sealing station on the Farallones — 18 miles off the coast of San Francisco. Aleut hunters camped seasonally. Spain/Mexico never contested it.",
-   "result": "Russian territory visible from SF — unchallenged",
+   "summary": "Russian sealing station on the Farallones; 18 miles off the coast of San Francisco. Aleut hunters camped seasonally. Spain/Mexico never contested it.",
+   "result": "Russian territory visible from SF; unchallenged",
    "quote": null,
    "sources": [
     {
@@ -337,8 +337,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Russia negotiates land cession with Kashaya Pomo chiefs — not Spanish authorities. \"Allies of Russia\" medals distributed 1819. Russians treat indigenous peoples as sovereign landowners because, north of the Bay, they are.",
-   "result": "Russia treats Pomo as sovereign — Spain does not exist here",
+   "summary": "Russia negotiates land cession with Kashaya Pomo chiefs; not Spanish authorities. \"Allies of Russia\" medals distributed 1819. Russians treat indigenous peoples as sovereign landowners because, north of the Bay, they are.",
+   "result": "Russia treats Pomo as sovereign; Spain does not exist here",
    "quote": null,
    "sources": [
     {
@@ -397,7 +397,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "The Spanish missions supplying Kuskov's Russian colony — Spain's own establishments provisioning the foreign outpost on the ground it claimed. The open coast as routine economic fact, running in Spain's disfavor.",
+   "summary": "The Spanish missions supplying Kuskov's Russian colony; Spain's own establishments provisioning the foreign outpost on the ground it claimed. The open coast as routine economic fact, running in Spain's disfavor.",
    "result": "Spain provisions the colony it was ordered to uproot",
    "quote": null,
    "sources": [
@@ -427,8 +427,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "The RAC Main Board resolves to abandon Ross and \"sell or barter for wheat to the inhabitants of San Francisco.\" The otter gone, Ross is liquidated — the economic close of the arc that opened with the resource.",
-   "result": "Russia leaves — Ross sold to Sutter, a promoter of the US invasion",
+   "summary": "The RAC Main Board resolves to abandon Ross and \"sell or barter for wheat to the inhabitants of San Francisco.\" The otter gone, Ross is liquidated; the economic close of the arc that opened with the resource.",
+   "result": "Russia leaves; Ross sold to Sutter, a promoter of the US invasion",
    "quote": null,
    "sources": [
     {
@@ -444,7 +444,7 @@
   {
    "id": "rac-parlamentario-podushkin-on-the-chirikoff-at",
    "register_no": null,
-   "name": "RAC Parlamentario — Podushkin on the Chirikoff at Monterey",
+   "name": "RAC Parlamentario · Podushkin on the Chirikoff at Monterey",
    "date": {
     "iso": "1817",
     "display": "1817",
@@ -488,8 +488,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "RAC chief manager Semyon Yanovsky proposes a joint, equal-shares otter-hunt and open commerce (via Khlebnikov and the Madrid embassy; the Ilmena to supply Ross). Solá replies he cannot grant otter-hunting — only the Viceroy can. The third volume of one continuous Russo-Spanish negotiation.",
-   "result": "Russia again negotiates as a commercial sovereign — Spain defers to Mexico City",
+   "summary": "RAC chief manager Semyon Yanovsky proposes a joint, equal-shares otter-hunt and open commerce (via Khlebnikov and the Madrid embassy; the Ilmena to supply Ross). Solá replies he cannot grant otter-hunting; only the Viceroy can. The third volume of one continuous Russo-Spanish negotiation.",
+   "result": "Russia again negotiates as a commercial sovereign; Spain defers to Mexico City",
    "quote": null,
    "sources": [
     {
@@ -518,7 +518,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "The RAC ship Suvorov (Lazarev) calls at San Francisco carrying a formal RAC directors' overture \"to the noble and honoured Spanish inhabitants of California,\" invoking Russo-Spanish friendship, the 1812 treaty, and Rezanov's 1806 visit — the institutional Russian demand for the California provision trade, arriving by ship.",
+   "summary": "The RAC ship Suvorov (Lazarev) calls at San Francisco carrying a formal RAC directors' overture \"to the noble and honoured Spanish inhabitants of California,\" invoking Russo-Spanish friendship, the 1812 treaty, and Rezanov's 1806 visit; the institutional Russian demand for the California provision trade, arriving by ship.",
    "result": "The RAC's formal trade-opening request, delivered to SF",
    "quote": null,
    "sources": [
@@ -549,7 +549,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Nikolai Rezanov — Imperial Chamberlain, RAC shareholder, diplomat. Arrives at SF. Concepción Argüello courtship. Intelligence gathering on Spanish defenses. First Russian official at SF.",
+   "summary": "Nikolai Rezanov; Imperial Chamberlain, RAC shareholder, diplomat. Arrives at SF. Concepción Argüello courtship. Intelligence gathering on Spanish defenses. First Russian official at SF.",
    "result": "Russia assesses Spanish California firsthand",
    "quote": null,
    "sources": [
@@ -580,7 +580,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok informant tells Commandant Sal two ships at Bodega — soldiers \"dressed like ours turned inside out.\" Earliest warning of foreign presence, 3 weeks before diplomatic intelligence through official channels.",
+   "summary": "Coast Miwok informant tells Commandant Sal two ships at Bodega; soldiers \"dressed like ours turned inside out.\" Earliest warning of foreign presence, 3 weeks before diplomatic intelligence through official channels.",
    "result": "Indigenous networks faster than imperial intelligence",
    "quote": null,
    "sources": [
@@ -610,8 +610,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok tell Goycoechea the eastern shores are \"impassable\" — he takes the harder western route via Marin headlands. Later admitted he was \"deceived.\" Information control: indigenous peoples directing Spanish military movements.",
-   "result": "Indigenous information warfare — Spain deceived",
+   "summary": "Coast Miwok tell Goycoechea the eastern shores are \"impassable\"; he takes the harder western route via Marin headlands. Later admitted he was \"deceived.\" Information control: indigenous peoples directing Spanish military movements.",
+   "result": "Indigenous information warfare; Spain deceived",
    "quote": null,
    "sources": [
     {
@@ -640,8 +640,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok \"prepared to give us battle\" — choose instead to present pinole and fruit. Not submission; calibrated response. They evaluated the Spanish party and chose diplomacy.",
-   "result": "Military capability held in reserve — diplomacy chosen",
+   "summary": "Coast Miwok \"prepared to give us battle\"; choose instead to present pinole and fruit. Not submission; calibrated response. They evaluated the Spanish party and chose diplomacy.",
+   "result": "Military capability held in reserve; diplomacy chosen",
    "quote": null,
    "sources": [
     {
@@ -687,7 +687,7 @@
   {
    "id": "guirmenes-intel-on-bodega-keep-this-indian-happy",
    "register_no": null,
-   "name": "Guirmenes Intel on Bodega — \"Keep This Indian Happy\"",
+   "name": "Guirmenes Intel on Bodega · \"Keep This Indian Happy\"",
    "date": {
     "iso": "1796",
     "display": "1796",
@@ -700,7 +700,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Indigenous informant (Guirmenes) reports no foreign ship at Bodega for 2 years. Governor orders: \"previene se tenga á ese indio contento\" (keep this Indian happy). Indigenous surveillance network sustained across years — Spain depends on it.",
+   "summary": "Indigenous informant (Guirmenes) reports no foreign ship at Bodega for 2 years. Governor orders: \"previene se tenga á ese indio contento\" (keep this Indian happy). Indigenous surveillance network sustained across years; Spain depends on it.",
    "result": "Spain pays for indigenous intelligence",
    "quote": null,
    "sources": [
@@ -731,7 +731,7 @@
    "type": "event",
    "layer": "indigenous",
    "summary": "Chief Vallí-éla of Bodega Miwok requests Russian protection and asks Golovnin for a Russian flag. \"Very glad to have Russian neighbors.\" Three independent accounts (Golovnin, Matiushkin, Lütke). The indigenous chief chooses his empire.",
-   "result": "Indigenous imperial choice — requests Russian protection",
+   "result": "Indigenous imperial choice; requests Russian protection",
    "quote": null,
    "sources": [
     {
@@ -792,7 +792,7 @@
    "type": "event",
    "layer": "foreign",
    "summary": "British warship from Columbia River. HMS Raccoon had seized Fort Astoria Dec 1813. Needed gunpowder. Crew deserting to Spanish protection as \"Roman Catholics.\" Written in English in the archive.",
-   "result": "British warship uses SF as supply port — War of 1812 reaches Pacific",
+   "result": "British warship uses SF as supply port; War of 1812 reaches Pacific",
    "quote": null,
    "sources": [
     {
@@ -822,8 +822,8 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "foreign",
-   "summary": "Otto von Kotzebue arrives at SF on scientific circumnavigation. Spain demands Ross abandonment. Diplomatic failure — Russia ignores the demand.",
-   "result": "Spanish diplomatic protest — Russia ignores it",
+   "summary": "Otto von Kotzebue arrives at SF on scientific circumnavigation. Spain demands Ross abandonment. Diplomatic failure; Russia ignores the demand.",
+   "result": "Spanish diplomatic protest; Russia ignores it",
    "quote": null,
    "sources": [
     {
@@ -853,7 +853,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "foreign",
-   "summary": "British ship takes refuge during storm — cuts spars, makes repairs. Later misidentified by Spanish as active English threat. Ghost presence that haunted Spanish intelligence for years.",
+   "summary": "British ship takes refuge during storm; cuts spars, makes repairs. Later misidentified by Spanish as active English threat. Ghost presence that haunted Spanish intelligence for years.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1121,12 +1121,12 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (C-A 12) Doc 381 — Argüello, San Francisco, 30 May 1811: the otter-fishing canoes still working inside the port, up to 50 seen together, and ~130 counted between Puntas de Boneta and San Antonio.",
+     "citation": "Prov. St. Pap. (C-A 12) Doc 381 · Argüello, San Francisco, 30 May 1811: the otter-fishing canoes still working inside the port, up to 50 seen together, and ~130 counted between Puntas de Boneta and San Antonio.",
      "ca_record": "ca12-d381",
      "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n311"
     },
     {
-     "citation": "Prov. St. Pap. (C-A 12) Doc 334 — the same hunt a year earlier: ~20 canoes heading into the San José esteros, and gentiles reporting a large ship at Bodega.",
+     "citation": "Prov. St. Pap. (C-A 12) Doc 334 · the same hunt a year earlier: ~20 canoes heading into the San José esteros, and gentiles reporting a large ship at Bodega.",
      "ca_record": "ca12-d334",
      "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n278"
     }
@@ -1269,7 +1269,7 @@
    "coord_precision": "area",
    "type": "settlement",
    "layer": "russian",
-   "summary": "1833. Upper Salmon Creek valley, ~5 mi E of Bodega. Largest ranch — bakery, forge, tobacco shed.",
+   "summary": "1833. Upper Salmon Creek valley, ~5 mi E of Bodega. Largest ranch; bakery, forge, tobacco shed.",
    "result": "",
    "quote": null,
    "sources": [],
@@ -1310,7 +1310,7 @@
   {
    "id": "matute-sutil-bodega-1793",
    "register_no": null,
-   "name": "Matute on the Sutil — the Occupation Refused",
+   "name": "Matute on the Sutil · the Occupation Refused",
    "date": {
     "iso": "1793-07-23",
     "display": "July 23 – October 1793",
@@ -1352,7 +1352,7 @@
   {
    "id": "tomales-anchorage-reading-1775",
    "register_no": null,
-   "name": "The 1775 Anchorage — the Tomales Reading",
+   "name": "The 1775 Anchorage · the Tomales Reading",
    "date": {
     "iso": "1775-10-03",
     "display": "October 3, 1775",
@@ -1391,7 +1391,7 @@
   {
    "id": "san-rafael-attack-1832",
    "register_no": null,
-   "name": "San Rafael Attacked — the Piña Expedition",
+   "name": "San Rafael Attacked · the Piña Expedition",
    "date": {
     "iso": "1832",
     "display": "1832",
@@ -1473,7 +1473,7 @@
   {
    "id": "rac-plate-14-malaya-bodega",
    "register_no": null,
-   "name": "RAC Possession Plate No. 14 — Malaya Bodega",
+   "name": "RAC Possession Plate No. 14 · Malaya Bodega",
    "date": {
     "iso": "1809",
     "display": "1809 (Kuskov's first expedition)",
@@ -1511,7 +1511,7 @@
   {
    "id": "rac-plate-20-drakes-estero",
    "register_no": null,
-   "name": "RAC Possession Plate No. 20 — Drake's Estero",
+   "name": "RAC Possession Plate No. 20 · Drake's Estero",
    "date": {
     "iso": "1809",
     "display": "1809–11",
@@ -1549,7 +1549,7 @@
   {
    "id": "rac-plate-eagle-san-pablo-bay",
    "register_no": null,
-   "name": "The Buried Eagle — a Plate in San Pablo Bay",
+   "name": "The Buried Eagle · a Plate in San Pablo Bay",
    "date": {
     "iso": "1811",
     "display": "by 1811 (reported later by the RAC)",
@@ -1588,7 +1588,7 @@
  "routes": [
   {
    "id": "rbodega",
-   "label": "Moraga October 1810 — Bodega Reconnaissance",
+   "label": "Moraga October 1810; Bodega Reconnaissance",
    "layer": "overland",
    "color": "#8e44ad",
    "path_confidence": "reconstructed",
@@ -1803,7 +1803,7 @@
   },
   {
    "id": "rross1812",
-   "label": "Moraga 1812 — First Visit to Ross",
+   "label": "Moraga 1812; First Visit to Ross",
    "layer": "overland",
    "color": "#8B2500",
    "path_confidence": "reconstructed",
@@ -1994,7 +1994,7 @@
   },
   {
    "id": "rross1813",
-   "label": "Moraga 1813 — Second Ross Mission",
+   "label": "Moraga 1813; Second Ross Mission",
    "layer": "overland",
    "color": "#e67e22",
    "path_confidence": "reconstructed",
@@ -2179,7 +2179,7 @@
   },
   {
    "symbol": "ross",
-   "label": "Colony Ross — the company eagle in the fort",
+   "label": "Colony Ross · the company eagle in the fort",
    "color": "#6d3fa0"
   },
   {

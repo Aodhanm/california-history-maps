@@ -1,6 +1,6 @@
 {
  "id": "zalvidea-moraga-1806",
- "title": "The 1806 Interior Expeditions — Zalvidea & Moraga",
+ "title": "The 1806 Interior Expeditions · Zalvidea & Moraga",
  "subtitle": "Two probes into the Central Valley, July–November 1806",
  "abstract": "The 1806 expeditions of Fr. José María de Zalvidea (Santa Ynez to San Gabriel through the southern valley) and Gabriel Moraga with Fr. Pedro Muñoz (San Juan Bautista through the San Joaquin Valley), stop by stop from the diaries as identified by Cook. Routes are reconstructed; village locations approximate.",
  "date_range": [
@@ -1833,7 +1833,7 @@
   },
   {
    "id": "moraga-north",
-   "label": "Moraga — Northbound (Sep–Oct 1806)",
+   "label": "Moraga; Northbound (Sep–Oct 1806)",
    "layer": "moraga-north",
    "color": "#8B2500",
    "path_confidence": "reconstructed",
@@ -2233,7 +2233,7 @@
   },
   {
    "id": "moraga-south",
-   "label": "Moraga — Southbound Return (Oct–Nov 1806)",
+   "label": "Moraga; Southbound Return (Oct–Nov 1806)",
    "layer": "moraga-south",
    "color": "#1a5276",
    "path_confidence": "reconstructed",

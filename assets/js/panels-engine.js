@@ -1,4 +1,4 @@
-/* Panels engine — the Mission Dolores exhibit-series maps (4 standalone pages).
+/* Panels engine; the Mission Dolores exhibit-series maps (4 standalone pages).
  * Shared by maps/sf-bay-expeditions.html, missionization.html, ranchos-by-era.html,
  * languages.html. Additive to the site: no existing map, page, or data file is
  * touched; enhanced datasets ship under new filenames.
@@ -74,7 +74,7 @@
     // deepwater port (glyph sheet anchor)
     anchor:
       '<path d="M12 .8a3 3 0 00-1.3 5.7v1.8H7.4v2.8h3.3v9.4c-3.2-.6-5.6-2.9-6-5.9l-2.6.7C2.9 19.9 7 23.2 12 23.2s9.1-3.3 9.9-8.3l-2.6-.7c-.4 3-2.8 5.3-6 5.9v-9.4h3.3V8.3h-3.3V6.5A3 3 0 0012 .8zm0 2.3a1 1 0 110 2 1 1 0 010-2z" fill-rule="evenodd"/>',
-    // Russian-American Company: imperial double-headed eagle, heraldic display —
+    // Russian-American Company: imperial double-headed eagle, heraldic display ; 
     // two outward heads under one crown, wings of stepped feathers raised, fanned tail
     eagle:
       /* raised left wing, three feather steps */
@@ -92,7 +92,7 @@
       /* single crown above, between the heads */
       '<path d="M9.9 1.9l1-1.3.6 1 .5-1 .6 1 1-1.3.6 2.1H10z"/>' +
       '<rect x="9.9" y="2.7" width="4.2" height=".8"/>',
-    // parish / presidio chapel (secular church): nave with a square bell TOWER —
+    // parish / presidio chapel (secular church): nave with a square bell TOWER ; 
     // distinct from the mission's espadaña bell-wall
     parish:
       '<path d="M1.8 21v-7.6h13.4V21z"/>' +
@@ -123,7 +123,7 @@
       '<rect x="9.9" y="2.7" width="4.2" height=".8"/>' +
       '</g>',
 
-    // rancheria — a Native polity or village: domed tule houses
+    // rancheria; a Native polity or village: domed tule houses
     rancheria:
       '<path d="M3.4 18.6c0-4.6 3-7.8 6.8-7.8s6.8 3.2 6.8 7.8v1.8H3.4z"/>' +
       '<path d="M15.4 20.4v-1.2c0-3.2 2-5.4 4.6-5.4 1.4 0 2.6.6 3.4 1.7-.5 1.9-.7 3.3-.7 4.9z" transform="translate(-1.4 0)"/>' +
@@ -214,7 +214,7 @@
       h += '</tbody></table>';
     }
     if (f.quotes && f.quotes.length) f.quotes.forEach(function (q) {
-      h += '<blockquote class="src-quote">' + esc(q.text) + (q.cite ? '<cite> — ' + esc(q.cite) + '</cite>' : '') + '</blockquote>';
+      h += '<blockquote class="src-quote">' + esc(q.text) + (q.cite ? '<cite>; ' + esc(q.cite) + '</cite>' : '') + '</blockquote>';
     });
     if (f.result) h += '<p class="result"><strong>' + esc(f.result) + '</strong></p>';
     if (f.quote && f.quote.es) {
@@ -226,9 +226,9 @@
     (f.sources || []).forEach(function (s) {
       h += '<p class="source">' + esc(s.citation);
       var rec = s.ca_record || citeToRecord(s.citation, f.ca_volume);
-      if (rec) h += ' —' + recordLink(rec);
-      if (s.ia_leaf_url) h += ' — <a href="' + esc(s.ia_leaf_url) + '" target="_blank" rel="noopener">the manuscript leaf →</a>';
-      if (s.url && !rec) h += ' — <a href="' + esc(s.url) + '" target="_blank" rel="noopener">source →</a>';
+      if (rec) h += ' ; ' + recordLink(rec);
+      if (s.ia_leaf_url) h += '; <a href="' + esc(s.ia_leaf_url) + '" target="_blank" rel="noopener">the manuscript leaf →</a>';
+      if (s.url && !rec) h += '; <a href="' + esc(s.url) + '" target="_blank" rel="noopener">source →</a>';
       h += '</p>';
     });
     if (f.coord_precision && f.coord_precision !== 'exact')
@@ -280,7 +280,7 @@
   // ---------- map ----------
   var map = L.map('map', { center: [37.45, -122.1], zoom: 9, zoomSnap: 0.5 });
   L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
-    attribution: 'Tiles © Esri — USGS, NOAA', maxZoom: 13
+    attribution: 'Tiles © Esri; USGS, NOAA', maxZoom: 13
   }).addTo(map);
   L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
     attribution: '', maxZoom: 13, opacity: 0.35
@@ -291,7 +291,7 @@
   map.createPane('routes');   map.getPane('routes').style.zIndex = 440;
 
   // ---------- baylands base (fetched at runtime from the public CDFW BIOS
-  // service, SFEI historical ecology ds3201 — not redistributed by this site) ----------
+  // service, SFEI historical ecology ds3201; not redistributed by this site) ----------
   var BAYLANDS_URL = 'https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/biosds3201_fpu/FeatureServer/0/query' +
     '?where=' + encodeURIComponent("HEProject='Historical Baylands'") +
     '&outFields=LegLabel,ClickLabel,RGB&outSR=4326&geometryPrecision=5&maxAllowableOffset=0.0003&f=geojson&resultRecordCount=2000';
@@ -318,7 +318,7 @@
   var eraGroup = L.layerGroup().addTo(map);
   var dataCache = {}, layerGroups = {}, featureIndex = {};
 
-  var DATA_V = '5'; // bump on every data edit — rsync'd mtimes make Chrome's heuristic cache serve stale JSON
+  var DATA_V = '5'; // bump on every data edit; rsync'd mtimes make Chrome's heuristic cache serve stale JSON
   function loadJSON(url) {
     if (dataCache[url]) return Promise.resolve(dataCache[url]);
     return fetch(url + (url.indexOf('?') >= 0 ? '&' : '?') + 'v=' + DATA_V).then(function (r) {
@@ -487,13 +487,13 @@
     missionization: [
       ['mission','Franciscan mission','#5a3317'],
       ['asistencia','Asistencia / estancia','#5a3317'],
-      ['house','Outstation — Spanish or Russian farm ranch','#5a3317'],
+      ['house','Outstation; Spanish or Russian farm ranch','#5a3317'],
       ['parish','Parish / presidio chapel (secular)','#7a4a1f'],
       ['pueblo','Civil pueblo','#555'],
       ['fort','Presidio','#8a1f1f'],
       ['cannon','Battery / castillo','#8a1f1f'],
       ['longhorn','Rancho del Rey (crown stock ranch)','#8a6a10'],
-      ['ross','Colony Ross — the company eagle in the fort','#6d3fa0'],
+      ['ross','Colony Ross; the company eagle in the fort','#6d3fa0'],
       ['eagle','Russian-American Company post','#6d3fa0'],
       ['sutterfort',"New Helvetia (Sutter's fort)",'#4a4a4a']
     ],

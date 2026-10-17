@@ -1,7 +1,7 @@
 {
  "id": "native-california",
  "title": "Native California",
- "subtitle": "Territories of the nations of California at contact, after the Handbook of North American Indians — with the rancherías the colonial archive names",
+ "subtitle": "Territories of the nations of California at contact, after the Handbook of North American Indians; with the rancherías the colonial archive names",
  "abstract": "The nations whose country the other maps on this site cross, with territory boundaries following the standard scholarly map: the Handbook of North American Indians, vol. 8 (1978), digitized by the University of Redlands. A note on the lines: they are the best available reconstruction, not exact borders. Territories interlocked, shifted over time, and are drawn differently by different scholars and by the nations themselves. Language-family colors follow the Handbook's groupings; the larger groupings (Hokan, Penutian) are conventional and linguists treat them as unproven. These are living nations; names use current preferred forms where they differ from the Handbook's. See also the Native Peoples Index for named individuals and communities in this site's sources. A toggleable Subgroups layer adds the prominent regional communities and languages within the larger nations; these are labels at approximate centers, not bounded territories. One editorial deviation from the Handbook plate is drawn and flagged: the Karkin (Ohlone) are shown holding a coastal strip on both shores of Carquinez Strait.",
  "date_range": [
   1769,
@@ -57,7 +57,7 @@
    "color": "#b5442e"
   }
  ],
- "legend_note": "Boundaries after the Handbook of North American Indians vol. 8 — approximate by nature.",
+ "legend_note": "Boundaries after the Handbook of North American Indians vol. 8; approximate by nature.",
  "features": [
   {
    "id": "t-hupa",
@@ -21519,7 +21519,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 50) Doc 200 — *Rancherías de Gentiles*, 12 March 1796.",
+     "citation": "St. Pap., Missions (C-A 50) Doc 200 · *Rancherías de Gentiles*, 12 March 1796.",
      "ca_record": "ca50-d200",
      "ia_leaf_url": "https://archive.org/details/bancarchca_81_12/page/n228"
     }
@@ -21545,12 +21545,12 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "Serra counted his neophytes not as a mission population but by the rancherías they came from: San Carlos 23 married men and 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18 — 96 adult males in all. Behind the mission's single number stand five named communities. Since the mission's founding 659 Indians had been baptised and 243 had died.",
+   "summary": "Serra counted his neophytes not as a mission population but by the rancherías they came from: San Carlos 23 married men and 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18; 96 adult males in all. Behind the mission's single number stand five named communities. Since the mission's founding 659 Indians had been baptised and 243 had died.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 163 — padrón of the neophyte Indians of Mission San Carlos, by Serra, 22 December 1781.",
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 163 · padrón of the neophyte Indians of Mission San Carlos, by Serra, 22 December 1781.",
      "ca_record": "ca15-d163",
      "ia_leaf_url": "https://archive.org/details/168035972_79_17_2/page/n130"
     }
@@ -21581,7 +21581,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Archives of California, Misc. (C-A 62) Doc 57 — *Límites de Misión San Rafael Arcángel*, 1828.",
+     "citation": "Archives of California, Misc. (C-A 62) Doc 57 · *Límites de Misión San Rafael Arcángel*, 1828.",
      "ca_record": "ca62-d57",
      "ia_leaf_url": "https://archive.org/details/bancarchca_82_04/page/n75"
     }
@@ -21607,12 +21607,12 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "The furthest place the Californian military reached toward. In 1819 the ranchería de Amajaba was reported to have threatened Missions San Gabriel and San Fernando, and Moraga was ordered to march with fifty men — thirty-five cavalry from both presidios, fifteen Mazatlán troops under Fabregat, four artillerymen and a cannon with grape and ball — to make the *capitanejos* surrender the fugitive Christian Indians, then leave garrisons of fifteen at each mission.",
+   "summary": "The furthest place the Californian military reached toward. In 1819 the ranchería de Amajaba was reported to have threatened Missions San Gabriel and San Fernando, and Moraga was ordered to march with fifty men; thirty-five cavalry from both presidios, fifteen Mazatlán troops under Fabregat, four artillerymen and a cannon with grape and ball; to make the *capitanejos* surrender the fugitive Christian Indians, then leave garrisons of fifteen at each mission.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 296 — order for the Amajaba campaign, Monterey, 1819.",
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 296 · order for the Amajaba campaign, Monterey, 1819.",
      "ca_record": "ca17-d296",
      "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n235"
     }
@@ -21638,12 +21638,12 @@
    "coord_precision": "conjectural",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "Arrillaga ordered Alférez Gabriel Moraga of the San Francisco company against the gentiles of the ranchería 'llamada Sespesuya' north of the presidio, who in three years of nominal peace had killed sixteen Christians. The ranchería lay across the estero de San Francisco and the troops had no launches — 'las tropas no tienen lanchas' — so they crossed by relays in one small boat found on the shore. Moraga took eighteen gentile prisoners, released because they were too badly wounded.",
+   "summary": "Arrillaga ordered Alférez Gabriel Moraga of the San Francisco company against the gentiles of the ranchería 'llamada Sespesuya' north of the presidio, who in three years of nominal peace had killed sixteen Christians. The ranchería lay across the estero de San Francisco and the troops had no launches; 'las tropas no tienen lanchas'; so they crossed by relays in one small boat found on the shore. Moraga took eighteen gentile prisoners, released because they were too badly wounded.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. Rec. (C-A 25) Doc 500 — 'Sobre encuentro y campaña con gentiles', 1810.",
+     "citation": "Prov. Rec. (C-A 25) Doc 500 · 'Sobre encuentro y campaña con gentiles', 1810.",
      "ca_record": "ca25-d500",
      "ia_leaf_url": "https://archive.org/details/168036074_80_7_2/page/n374"
     }
@@ -21674,7 +21674,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 296 — the 1790 interior-Chumash ambush of a Santa Bárbara patrol.",
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 296 · the 1790 interior-Chumash ambush of a Santa Bárbara patrol.",
      "ca_record": "ca15-d296",
      "ia_leaf_url": "https://archive.org/details/168035972_79_17_2/page/n214"
     }
@@ -21705,7 +21705,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Dep. St. Pap., Benicia (C-A 46) Doc 88 — headed 'Indios', Monterey, 1823.",
+     "citation": "Dep. St. Pap., Benicia (C-A 46) Doc 88 · headed 'Indios', Monterey, 1823.",
      "ca_record": "ca46-d88",
      "ia_leaf_url": "https://archive.org/details/168036065_81_8_regular/page/n65"
     }

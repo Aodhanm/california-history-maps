@@ -2,7 +2,7 @@
  "id": "secularization-missions",
  "title": "The Secularization of the Missions",
  "subtitle": "1826–1846",
- "abstract": "How the mission system was dismantled: the legal arc from Echeandía's 1826 emancipations through the Mexican law of 1833, Figueroa's 1834 reglamento, Hartnell's visitas, Micheltorena's 1843 reversal, and Pico's 1845–46 sales and leases — with all 21 missions' documented handovers, inventories, and dispositions, the Híjar-Padrés colony crisis, and a layer of Indian responses in their own recorded words. Mission pin dates follow the vault-verified comisionado handovers and inventories in the Savage transcripts (C-A 28, 33, 36, 42–43, 45, 47, 49–51, 53, 57, 59–60, 63) wherever they exist; where only a conventional year survives, the pin says so and carries year-grain confidence. Per-mission secularization years otherwise follow the standard accounts (Krell-derived), a tertiary source used at year grain only. This map argues nothing the documents do not: the estates were declared the Indians' property in 1834 and were gone by 1846; the record of who took them, and of what the Indians said, is what is plotted here.",
+ "abstract": "How the mission system was dismantled: the legal arc from Echeandía's 1826 emancipations through the Mexican law of 1833, Figueroa's 1834 reglamento, Hartnell's visitas, Micheltorena's 1843 reversal, and Pico's 1845–46 sales and leases; with all 21 missions' documented handovers, inventories, and dispositions, the Híjar-Padrés colony crisis, and a layer of Indian responses in their own recorded words. Mission pin dates follow the vault-verified comisionado handovers and inventories in the Savage transcripts (C-A 28, 33, 36, 42–43, 45, 47, 49–51, 53, 57, 59–60, 63) wherever they exist; where only a conventional year survives, the pin says so and carries year-grain confidence. Per-mission secularization years otherwise follow the standard accounts (Krell-derived), a tertiary source used at year grain only. This map argues nothing the documents do not: the estates were declared the Indians' property in 1834 and were gone by 1846; the record of who took them, and of what the Indians said, is what is plotted here.",
  "date_range": [
   1826,
   1847
@@ -98,7 +98,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "The Diputación orders every mission to report its lands and boundaries before year's end — the first territorial step toward disentailment. The resulting 1828 'Informes sobre terrenos y ganados' series, with each mission's cattle brand, survives in the State Papers: Missions volumes.",
+   "summary": "The Diputación orders every mission to report its lands and boundaries before year's end; the first territorial step toward disentailment. The resulting 1828 'Informes sobre terrenos y ganados' series, with each mission's cattle brand, survives in the State Papers: Missions volumes.",
    "result": "",
    "quote": null,
    "sources": [
@@ -137,7 +137,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "'Ley secularizando las Misiones, declarándolas pueblos' — 33 articles converting the missions to pueblos under the 1813 Cortes law, San Gabriel and San Carlos first, extended to all by art. 24. Read to the neophytes at the Monterey-district missions that January; suspended by Gov. Victoria within days, denounced to Mexico, and annulled by the central government in April 1832.",
+   "summary": "'Ley secularizando las Misiones, declarándolas pueblos'; 33 articles converting the missions to pueblos under the 1813 Cortes law, San Gabriel and San Carlos first, extended to all by art. 24. Read to the neophytes at the Monterey-district missions that January; suspended by Gov. Victoria within days, denounced to Mexico, and annulled by the central government in April 1832.",
    "result": "",
    "quote": null,
    "sources": [
@@ -254,7 +254,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "The instrument that actually dismantled the system: missions partially converted to pueblos; each family head a solar of up to 400 varas and half the livestock; article 18 barring the Indians from alienating their grants; article 22 barring mass slaughter of herds. Enacted through the Diputación's article-by-article debate that July, with same-day instructions to the comisionados — general inventories, dissolution of the monjerío, rancherías of 25 families eligible to form pueblos.",
+   "summary": "The instrument that actually dismantled the system: missions partially converted to pueblos; each family head a solar of up to 400 varas and half the livestock; article 18 barring the Indians from alienating their grants; article 22 barring mass slaughter of herds. Enacted through the Diputación's article-by-article debate that July, with same-day instructions to the comisionados; general inventories, dissolution of the monjerío, rancherías of 25 families eligible to form pueblos.",
    "result": "",
    "quote": null,
    "sources": [
@@ -303,7 +303,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "A ~14-article code for the mission administrators — render accounts, no credit against mission property 'por ningún pretexto,' padrón of neophytes — the government's attempt to police the men it had put over the ex-mission estates. A further mission decree followed on 17 Apr 1839.",
+   "summary": "A ~14-article code for the mission administrators; render accounts, no credit against mission property 'por ningún pretexto,' padrón of neophytes; the government's attempt to police the men it had put over the ex-mission estates. A further mission decree followed on 17 Apr 1839.",
    "result": "",
    "quote": null,
    "sources": [
@@ -342,7 +342,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "Alvarado's 1 March 1840 decree suppresses the mission administrators and replaces them with mayordomos under the Visitador's oversight — the government's verdict on six years of administrator rule. Emancipation power was reserved exclusively to the government that October.",
+   "summary": "Alvarado's 1 March 1840 decree suppresses the mission administrators and replaces them with mayordomos under the Visitador's oversight; the government's verdict on six years of administrator rule. Emancipation power was reserved exclusively to the government that October.",
    "result": "",
    "quote": null,
    "sources": [
@@ -386,7 +386,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "The reversal: twelve named missions returned to the padres 'como en tutoría de los Indígenas,' remitting an eighth of their products — after a February order suspending all further alienation of mission lands. The 3 April circular ordering administrators to hand over names ten of them.",
+   "summary": "The reversal: twelve named missions returned to the padres 'como en tutoría de los Indígenas,' remitting an eighth of their products; after a February order suspending all further alienation of mission lands. The 3 April circular ordering administrators to hand over names ten of them.",
    "result": "",
    "quote": null,
    "sources": [
@@ -430,7 +430,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "The 23-article 'Reglamento para la enajenación y arriendo de las Misiones': sell San Rafael, Dolores, Soledad, San Miguel, and La Purísima; lease the rest for nine years. Chapter 4 declares the neophytes freed and 'no estando obligados á servir á los arrendatarios'; article 20 lets Indians petition for inalienable title to their house and garden plots. Andrés Pico and Juan Manso had been inventorying the missions since May — the commission's object expressly their arrendamiento.",
+   "summary": "The 23-article 'Reglamento para la enajenación y arriendo de las Misiones': sell San Rafael, Dolores, Soledad, San Miguel, and La Purísima; lease the rest for nine years. Chapter 4 declares the neophytes freed and 'no estando obligados á servir á los arrendatarios'; article 20 lets Indians petition for inalienable title to their house and garden plots. Andrés Pico and Juan Manso had been inventorying the missions since May; the commission's object expressly their arrendamiento.",
    "result": "",
    "quote": null,
    "sources": [
@@ -601,7 +601,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -657,7 +657,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The richest inventory in the record: $203,787 existencia across the mission and its ranchos (Pala, Santa Margarita, Temécula, San Jacinto). Pío Pico, first a comisionado, administered it to 1840 — removed only under threat of punishment — and its Luiseño residents mounted the most sustained documented resistance to the new order.",
+   "summary": "The richest inventory in the record: $203,787 existencia across the mission and its ranchos (Pala, Santa Margarita, Temécula, San Jacinto). Pío Pico, first a comisionado, administered it to 1840; removed only under threat of punishment; and its Luiseño residents mounted the most sustained documented resistance to the new order.",
    "result": "",
    "quote": null,
    "sources": [
@@ -672,7 +672,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -728,7 +728,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The earliest secularization — Echeandía's pilot — and in 1841 the first ex-mission formally converted to a pueblo, with a 17-article reglamento and a land repartimiento naming its neófitos libres. Sold in December 1845 for $710.",
+   "summary": "The earliest secularization; Echeandía's pilot; and in 1841 the first ex-mission formally converted to a pueblo, with a 17-article reglamento and a land repartimiento naming its neófitos libres. Sold in December 1845 for $710.",
    "result": "",
    "quote": null,
    "sources": [
@@ -738,7 +738,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -747,7 +747,7 @@
    "tags": [
     "secularization"
    ],
-   "notes": "The two vault sale records disagree on the second buyer — 'James McKinley' (C-A 51 Doc 161) vs 'Santiago Machado' (the título, C-A 63 Doc 508c). Both shown; unresolved.",
+   "notes": "The two vault sale records disagree on the second buyer; 'James McKinley' (C-A 51 Doc 161) vs 'Santiago Machado' (the título, C-A 63 Doc 508c). Both shown; unresolved.",
    "series": [
     [
      "1838–39",
@@ -789,7 +789,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Handed from Fr. Estenaga to comisionado Nicolás Gutiérrez in November 1834 with 12,980 cattle on its books; by the 1840 inventory the herd had collapsed to 72. Leased under Pico's program — the lease drive began here — and in the vault record assigned to Henry Dalton in February 1846.",
+   "summary": "Handed from Fr. Estenaga to comisionado Nicolás Gutiérrez in November 1834 with 12,980 cattle on its books; by the 1840 inventory the herd had collapsed to 72. Leased under Pico's program; the lease drive began here; and in the vault record assigned to Henry Dalton in February 1846.",
    "result": "",
    "quote": null,
    "sources": [
@@ -804,7 +804,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -875,7 +875,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -931,7 +931,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Among the last secularized: Gov. Chico ordered Fr. Blas Ordaz to hand it to Carlos Carrillo in June 1836 amid the constitutional-oath fight. Sold to its lessee José Arnaz in June 1846 — 'dueño legítimo… para siempre' — followed by an 1846–48 asset-stripping dossier.",
+   "summary": "Among the last secularized: Gov. Chico ordered Fr. Blas Ordaz to hand it to Carlos Carrillo in June 1836 amid the constitutional-oath fight. Sold to its lessee José Arnaz in June 1846; 'dueño legítimo… para siempre'; followed by an 1846–48 asset-stripping dossier.",
    "result": "",
    "quote": null,
    "sources": [
@@ -946,7 +946,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -997,7 +997,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Comisionado Anastacio Carrillo took the richest coastal plant in the 1835 inventory — $113,960 existencia including Rancho Dos Pueblos — with $2,484 in goods distributed to the Indians. Leased in December 1845 to Nicolás Den and Daniel Hill.",
+   "summary": "Comisionado Anastacio Carrillo took the richest coastal plant in the 1835 inventory; $113,960 existencia including Rancho Dos Pueblos; with $2,484 in goods distributed to the Indians. Leased in December 1845 to Nicolás Den and Daniel Hill.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1012,7 +1012,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1063,7 +1063,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Secularized in the 1836 wave on Chico's order; Fr. Jimeno handed it to José María Covarrubias that August with an existencia of $56,437 — down to $39,284 within six months. Leased in 1845 to Covarrubias himself with Joaquín Carrillo.",
+   "summary": "Secularized in the 1836 wave on Chico's order; Fr. Jimeno handed it to José María Covarrubias that August with an existencia of $56,437; down to $39,284 within six months. Leased in 1845 to Covarrubias himself with Joaquín Carrillo.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1078,7 +1078,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1129,7 +1129,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Inventoried under article 15 of Figueroa's reglamento by comisionado Domingo Carrillo, with William Dana as appraiser: existencia $62,088.50 including ranchos Todos Santos and Guadalupe. One of the five missions Pico's reglamento listed for outright sale — bought by John Temple for $10,110 in December 1845.",
+   "summary": "Inventoried under article 15 of Figueroa's reglamento by comisionado Domingo Carrillo, with William Dana as appraiser: existencia $62,088.50 including ranchos Todos Santos and Guadalupe. One of the five missions Pico's reglamento listed for outright sale; bought by John Temple for $10,110 in December 1845.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1144,7 +1144,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1190,7 +1190,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "A revolving door of administrators (Trujillo, Moreno, Ayala, Canet, Bonilla); 253 souls in 1834. Erected into a pueblo in July 1844 — its emancipados barred from selling their lands — then sold in December 1845 to Scott, Wilson & McKinley.",
+   "summary": "A revolving door of administrators (Trujillo, Moreno, Ayala, Canet, Bonilla); 253 souls in 1834. Erected into a pueblo in July 1844; its emancipados barred from selling their lands; then sold in December 1845 to Scott, Wilson & McKinley.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1200,7 +1200,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1251,7 +1251,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "In January 1831 its neophytes refused Echeandía's secularization outright — 'quieren seguir bajo el actual sistema' — and in 1831 asked to remain 'en estado de Comunidad.' Listed for outright sale in Pico's reglamento; the vault holds no sale record.",
+   "summary": "In January 1831 its neophytes refused Echeandía's secularization outright; 'quieren seguir bajo el actual sistema'; and in 1831 asked to remain 'en estado de Comunidad.' Listed for outright sale in Pico's reglamento; the vault holds no sale record.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1266,7 +1266,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1322,7 +1322,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1373,7 +1373,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Inventoried in August 1835 (~$47,297 — Savage himself noted the figures don't reconcile); 177 souls by 1837. Sold in June 1846 to Feliciano Soberanes, the same encargado instructed in 1840 that 'ningún indígena será forzado á servir á un particular.'",
+   "summary": "Inventoried in August 1835 (~$47,297; Savage himself noted the figures don't reconcile); 177 souls by 1837. Sold in June 1846 to Feliciano Soberanes, the same encargado instructed in 1840 that 'ningún indígena será forzado á servir á un particular.'",
    "result": "",
    "quote": null,
    "sources": [
@@ -1383,7 +1383,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1429,7 +1429,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "One of the two missions Echeandía's 1831 decree named to go first. By 1839 juez interino Marcelino Escobar held the buildings under a room-by-room inventory, with solares assigned — two to the neófitos Josecillo and Antonio. Its surplus buildings were saleable under the 1845 reglamento; no sale appears in the vault.",
+   "summary": "One of the two missions Echeandía's 1831 decree named to go first. By 1839 juez interino Marcelino Escobar held the buildings under a room-by-room inventory, with solares assigned; two to the neófitos Josecillo and Antonio. Its surplus buildings were saleable under the 1845 reglamento; no sale appears in the vault.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1439,7 +1439,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1490,7 +1490,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1541,7 +1541,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Comisionado Ignacio del Valle inventoried ~$84,354 in December 1835. Listed for outright sale in Pico's reglamento; no sale appears in the vault — and in 1849 Hartnell judged that the priest 'has no right at all to sell any real estate or the mission Sta Cruz.'",
+   "summary": "Comisionado Ignacio del Valle inventoried ~$84,354 in December 1835. Listed for outright sale in Pico's reglamento; no sale appears in the vault; and in 1849 Hartnell judged that the priest 'has no right at all to sell any real estate or the mission Sta Cruz.'",
    "result": "",
    "quote": null,
    "sources": [
@@ -1551,7 +1551,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1612,7 +1612,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1658,7 +1658,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Still the great stock estate of the north after secularization — José de Jesús Vallejo's 1840 receipt counted 20,000 cattle and 15,000 sheep — while draining $16,809 to the government. Hartnell's 1840 visita found 589 souls who 'quieren otro administrador.'",
+   "summary": "Still the great stock estate of the north after secularization; José de Jesús Vallejo's 1840 receipt counted 20,000 cattle and 15,000 sheep; while draining $16,809 to the government. Hartnell's 1840 visita found 589 souls who 'quieren otro administrador.'",
    "result": "",
    "quote": null,
    "sources": [
@@ -1668,7 +1668,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1729,7 +1729,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1780,7 +1780,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The poorest inventory of the set ($18,474, with Rancho Nicasio at $7,256), but the most direct distribution: 343 Indians received rams, ewes, horses, and mares by name. By Hartnell's 1840 visita they refused a mayordomo altogether — 'no querían ya misión.'",
+   "summary": "The poorest inventory of the set ($18,474, with Rancho Nicasio at $7,256), but the most direct distribution: 343 Indians received rams, ewes, horses, and mares by name. By Hartnell's 1840 visita they refused a mayordomo altogether; 'no querían ya misión.'",
    "result": "",
    "quote": null,
    "sources": [
@@ -1795,7 +1795,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1856,7 +1856,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) — year grain.",
+     "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1897,7 +1897,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "colony",
-   "summary": "The brigantine Natalia — the Compañía Cosmopolitana's own ship — reaches San Diego with Director General José María Híjar, Buenaventura Araujo, and 129 colonists, the vanguard of the ~204-person colonization scheme budgeted at 45,206 pesos under the 26 Nov 1833 law. The mission estates were to be its endowment.",
+   "summary": "The brigantine Natalia; the Compañía Cosmopolitana's own ship; reaches San Diego with Director General José María Híjar, Buenaventura Araujo, and 129 colonists, the vanguard of the ~204-person colonization scheme budgeted at 45,206 pesos under the 26 Nov 1833 law. The mission estates were to be its endowment.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1935,7 +1935,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "colony",
-   "summary": "Santa Anna's countermand — carried north 'por extraordinario violento' — orders Figueroa not to hand Híjar the political command; the Diputación's acuerdo goes further: neither the command 'ni los bienes de las Misiones, que son propiedad de los indios.' The colony is stranded, and the principle that the estates belong to the Indians is stated at its plainest.",
+   "summary": "Santa Anna's countermand; carried north 'por extraordinario violento'; orders Figueroa not to hand Híjar the political command; the Diputación's acuerdo goes further: neither the command 'ni los bienes de las Misiones, que son propiedad de los indios.' The colony is stranded, and the principle that the estates belong to the Indians is stated at its plainest.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2044,7 +2044,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "visitas",
-   "summary": "William Hartnell is named Visitador of the missions at $2,000 a year — the government's inspector over its own administrators — his salary apportioned mission by mission. His two circuits of 1839–40 produced the most unsparing record of the ex-mission estates that survives.",
+   "summary": "William Hartnell is named Visitador of the missions at $2,000 a year; the government's inspector over its own administrators; his salary apportioned mission by mission. His two circuits of 1839–40 produced the most unsparing record of the ex-mission estates that survives.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2142,7 +2142,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "visitas",
-   "summary": "On the northern circuit Hartnell finds the San Rafael Indians refusing mayordomo Gregorio Briones and refusing the institution itself — 'no querían ya misión.' His 14 May report to Jimeno Casarín is the keystone document of Indian liberty in the northern ex-missions.",
+   "summary": "On the northern circuit Hartnell finds the San Rafael Indians refusing mayordomo Gregorio Briones and refusing the institution itself; 'no querían ya misión.' His 14 May report to Jimeno Casarín is the keystone document of Indian liberty in the northern ex-missions.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2177,7 +2177,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "visitas",
-   "summary": "At Yerba Buena, M. G. Vallejo intercepts and arrests Hartnell rather than let the inspection reach his Sonoma frontier arrangements — the plainest demonstration of where power over the ex-mission estates actually lay.",
+   "summary": "At Yerba Buena, M. G. Vallejo intercepts and arrests Hartnell rather than let the inspection reach his Sonoma frontier arrangements; the plainest demonstration of where power over the ex-mission estates actually lay.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2210,7 +2210,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "visitas",
-   "summary": "Hartnell counts 589 souls at Mission San José, records punishments running to 50 lashes — double his own 25-lash cap — and the Indians' verdict: 'quieren otro administrador.'",
+   "summary": "Hartnell counts 589 souls at Mission San José, records punishments running to 50 lashes; double his own 25-lash cap; and the Indians' verdict: 'quieren otro administrador.'",
    "result": "",
    "quote": null,
    "sources": [
@@ -2245,7 +2245,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "visitas",
-   "summary": "The southern return visit: Pico has told the Indians the governor gave him Temecula; Las Flores brings its complaints; and comisionado Carlos Castro's inventory fraud is recorded — the Visitador's file on how the estates were actually being run.",
+   "summary": "The southern return visit: Pico has told the Indians the governor gave him Temecula; Las Flores brings its complaints; and comisionado Carlos Castro's inventory fraud is recorded; the Visitador's file on how the estates were actually being run.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2281,7 +2281,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "Read Echeandía's bando, the San Miguel neophytes answer that 'quieren seguir bajo el actual sistema' — while San Luis Obispo's elect four Indian comisarios de policía under it. The record of divided Indian judgments on emancipation, at the very start.",
+   "summary": "Read Echeandía's bando, the San Miguel neophytes answer that 'quieren seguir bajo el actual sistema'; while San Luis Obispo's elect four Indian comisarios de policía under it. The record of divided Indian judgments on emancipation, at the very start.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2316,7 +2316,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "Neophytes of San Diego, San Juan Capistrano, San Gabriel, and San Luis Rey mobilize to demand the land distribution Echeandía had promised — proclaiming the reformer governor against his replacement. Secularization's first mass Indian politics.",
+   "summary": "Neophytes of San Diego, San Juan Capistrano, San Gabriel, and San Luis Rey mobilize to demand the land distribution Echeandía had promised; proclaiming the reformer governor against his replacement. Secularization's first mass Indian politics.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2359,7 +2359,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "Portilla's reports from San Luis Rey: the Luiseños refuse absolutely to return to mission labor — 'somos libres, no queremos volver, no queremos trabajar.' The plainest statement of what emancipation meant to the emancipated.",
+   "summary": "Portilla's reports from San Luis Rey: the Luiseños refuse absolutely to return to mission labor; 'somos libres, no queremos volver, no queremos trabajar.' The plainest statement of what emancipation meant to the emancipated.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2394,7 +2394,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "The San Juan Capistrano neophytes — fewer than 60 still working, the rest fleeing — petition Alvarado against their administrator in their own unsparing words: that they not be flogged raw. Received weeks into Hartnell's visitaduría, it is the Indian-voice document of the administrator era.",
+   "summary": "The San Juan Capistrano neophytes; fewer than 60 still working, the rest fleeing; petition Alvarado against their administrator in their own unsparing words: that they not be flogged raw. Received weeks into Hartnell's visitaduría, it is the Indian-voice document of the administrator era.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2429,7 +2429,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "Figueroa's oficio records the pueblo de Las Flores — the neophyte pueblo created from San Luis Rey's asistencia — accepting liberty in exchange for subsisting on its own labor. One of the few documented free-Indian pueblos of the secularization.",
+   "summary": "Figueroa's oficio records the pueblo de Las Flores; the neophyte pueblo created from San Luis Rey's asistencia; accepting liberty in exchange for subsisting on its own labor. One of the few documented free-Indian pueblos of the secularization.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2464,7 +2464,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "When the Picos moved on Temecula — Pico telling the Indians the governor had given it to him — the juzgado record shows the rancherías in arms: 'toda la gente está armada.' The Luiseño ranchos defended the land through the juzgado and, when needed, with weapons in hand.",
+   "summary": "When the Picos moved on Temecula; Pico telling the Indians the governor had given it to him; the juzgado record shows the rancherías in arms: 'toda la gente está armada.' The Luiseño ranchos defended the land through the juzgado and, when needed, with weapons in hand.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2504,7 +2504,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "A sixty-year-old Santa Clara man, in service since childhood, petitions for his absolute emancipation — the individual face of the paper freedom the decade had constructed.",
+   "summary": "A sixty-year-old Santa Clara man, in service since childhood, petitions for his absolute emancipation; the individual face of the paper freedom the decade had constructed.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2539,7 +2539,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "An Indian woman petitions for her share of the secularized lands 'como á hija de la Misión' — a daughter's claim on the estate. Hartnell denied it; the file preserves a woman's legal argument for what secularization had promised.",
+   "summary": "An Indian woman petitions for her share of the secularized lands 'como á hija de la Misión'; a daughter's claim on the estate. Hartnell denied it; the file preserves a woman's legal argument for what secularization had promised.",
    "result": "",
    "quote": null,
    "sources": [
@@ -2569,7 +2569,7 @@
   },
   {
    "symbol": "scroll",
-   "label": "Decree or reglamento — the legal arc",
+   "label": "Decree or reglamento · the legal arc",
    "color": "#6b5b1e"
   }
  ]

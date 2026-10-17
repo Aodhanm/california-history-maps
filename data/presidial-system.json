@@ -345,7 +345,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The 1793 '6 vs 2' is resolved: the leaf of C-A 14 (n101, read 2026-09-14) says 2, agreeing with C-A 15 — the 6 is a catalogue-summary defect, errata pending. The 1823 copies agree on the 3 heavy guns and disagree only on the powder figure; the earlier '2 (or 3)' note was wrong and the Doc 98 citation was a mis-reference (that record is a cadet discharge).",
+   "notes": "The 1793 '6 vs 2' is resolved: the leaf of C-A 14 (n101, read 2026-09-14) says 2, agreeing with C-A 15; the 6 is a catalogue-summary defect, errata pending. The 1823 copies agree on the 3 heavy guns and disagree only on the powder figure; the earlier '2 (or 3)' note was wrong and the Doc 98 citation was a mis-reference (that record is a cadet discharge).",
    "symbol": "fort",
    "symbol_major": true
   },
@@ -1719,7 +1719,7 @@
   {
    "id": "artillery-1818",
    "register_no": null,
-   "name": "The artillery of California — the guns and the men who served them",
+   "name": "The artillery of California · the guns and the men who served them",
    "date": {
     "iso": "1818-09-05",
     "display": "1818 Sep 5",
@@ -1732,7 +1732,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "forts",
-   "summary": "The province's artillery as a series: the headline is the 5 September 1818 count of every gun in California — 58 pieces by calibre and metal, 3 useless, carriages failing for want of ironwork — now paired with the manning record around it: the Real Cuerpo detachment of 1795 named man by man, the militia-gunner allocations of 1817, the 62 militia gunners counted the same day as the 58 guns, and the shrinking corps musters of 1827 and 1836. The series has earlier and later rungs: in 1797 the viceroy shuffled two- and three-pounder cannon from San Miguel and Loreto to fortify the new frontier mission, and a San Diego gunner coaxed a broken 24-pounder back into service; by December 1835 the artillery company itself musters by presidio: Monterey five corporals, a drummer and eleven gunners; San Francisco one and four; Santa Bárbara one and five.",
+   "summary": "The province's artillery as a series: the headline is the 5 September 1818 count of every gun in California; 58 pieces by calibre and metal, 3 useless, carriages failing for want of ironwork; now paired with the manning record around it: the Real Cuerpo detachment of 1795 named man by man, the militia-gunner allocations of 1817, the 62 militia gunners counted the same day as the 58 guns, and the shrinking corps musters of 1827 and 1836. The series has earlier and later rungs: in 1797 the viceroy shuffled two- and three-pounder cannon from San Miguel and Loreto to fortify the new frontier mission, and a San Diego gunner coaxed a broken 24-pounder back into service; by December 1835 the artillery company itself musters by presidio: Monterey five corporals, a drummer and eleven gunners; San Francisco one and four; Santa Bárbara one and five.",
    "series": [
     [
      "1795 Oct",
@@ -1781,7 +1781,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 324 — province-wide artillery inventory, Monterey, 5 September 1818.",
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 324 · province-wide artillery inventory, Monterey, 5 September 1818.",
      "ca_record": "ca17-d324",
      "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n265"
     },
@@ -1791,7 +1791,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "'Compostura de un cañón' — one of the three 24-pounders repaired, Jul 1797 (C-A 10), doc 161",
+     "citation": "'Compostura de un cañón' · one of the three 24-pounders repaired, Jul 1797 (C-A 10), doc 161",
      "ca_record": "ca10-d161",
      "ia_leaf_url": null
     },
@@ -1850,14 +1850,14 @@
     ]
    ],
    "series_label": "The private fort in the record",
-   "result": "By 1845: a private force with newer artillery than most presidios — deputized, purchased into the Russians' place, then named in a treason charge",
+   "result": "By 1845: a private force with newer artillery than most presidios; deputized, purchased into the Russians' place, then named in a treason charge",
    "quote": {
     "es": "dicho Gral. se hallaba en relaciones secretas con el extranjero Sutter, dueño del establecimiento del Río del Sacramento",
     "en": "(the said General was in secret relations with the foreigner Sutter, owner of the establishment on the Sacramento River — the Asamblea's charge against Gov. Micheltorena, 1845; verified on scan n300)"
    },
    "sources": [
     {
-     "citation": "C-A 30, 49, 61 — the New Helvetia records named in the dated series; the fort's establishment context from C-A 49 Doc 582",
+     "citation": "C-A 30, 49, 61 · the New Helvetia records named in the dated series; the fort's establishment context from C-A 49 Doc 582",
      "ca_record": "ca49-d582",
      "ia_leaf_url": null
     }
@@ -1884,7 +1884,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "armed",
-   "summary": "A mission with its own artillery park — and a lender of last resort: in 1834 one of its four-pounders was out on loan to the Los Angeles ayuntamiento.",
+   "summary": "A mission with its own artillery park; and a lender of last resort: in 1834 one of its four-pounders was out on loan to the Los Angeles ayuntamiento.",
    "series": [
     [
      "1785 Jan",
@@ -1928,7 +1928,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "armed",
-   "summary": "The pueblo's armament through the record: two posted soldiers in 1782, a borrowed mission gun in 1834, and on the eve of the conquest two delivery relations three weeks apart — more muskets broken than serviceable.",
+   "summary": "The pueblo's armament through the record: two posted soldiers in 1782, a borrowed mission gun in 1834, and on the eve of the conquest two delivery relations three weeks apart; more muskets broken than serviceable.",
    "series": [
     [
      "1782 Feb–Dec",
@@ -2041,7 +2041,7 @@
    "coord_precision": "exact",
    "type": "document",
    "layer": "presidios",
-   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure — including the allocations that existed only on paper. The floor of the curve is documented twice over: in 1804 the governor, writing from Loreto, reported 'el mal estado de los Presidios y escasez de tropa'; and an 1833 muster analysis found only 35 men present in all California, the company's bulk at Santa Bárbara with Figueroa, and ten men holding the capital. The reinforcements came counted too: the Mazatlán squadron's 1819 detachment for Alta California boarded the Cosak as a full estado de fuerza: a captain, two lieutenants, two alféreces, sergeants, drummers, corporals and men, itemized before they sailed.",
+   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure; including the allocations that existed only on paper. The floor of the curve is documented twice over: in 1804 the governor, writing from Loreto, reported 'el mal estado de los Presidios y escasez de tropa'; and an 1833 muster analysis found only 35 men present in all California, the company's bulk at Santa Bárbara with Figueroa, and ten men holding the capital. The reinforcements came counted too: the Mazatlán squadron's 1819 detachment for Alta California boarded the Cosak as a full estado de fuerza: a captain, two lieutenants, two alféreces, sergeants, drummers, corporals and men, itemized before they sailed.",
    "series": [
     [
      "1819 Jul",
@@ -2060,7 +2060,7 @@
     ]
    ],
    "series_label": "In the record",
-   "result": "1828: 320 muskets allotted to the Californias on paper — an allocation, not a delivery",
+   "result": "1828: 320 muskets allotted to the Californias on paper; an allocation, not a delivery",
    "quote": null,
    "sources": [
     {
@@ -2092,7 +2092,7 @@
   {
    "id": "san-antonio-baja",
    "register_no": null,
-   "name": "San Antonio (Baja California) — the comandancia in the US war",
+   "name": "San Antonio (Baja California) · the comandancia in the US war",
    "date": {
     "iso": null,
     "display": "1847 Nov",

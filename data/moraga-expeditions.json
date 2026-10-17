@@ -2,7 +2,7 @@
  "id": "moraga-expeditions",
  "title": "Gabriel Moraga's Expeditions",
  "subtitle": "Interior and northern reconnaissance, 1806–1817",
- "abstract": "All of Gabriel Moraga's documented expeditions on one map: the 1806–07 interior reconnaissances, the 1810 Suisun and Bodega operations, the 1812–13 Ross missions, and the 1817 San Rafael founding escort. Routes are RECONSTRUCTED from diaries and reports — dashed lines mean 'he passed roughly this way,' not a surveyed track. Village locations follow Cook's identifications and are approximate. Each route now cites the document it rests on; click the line to open it.",
+ "abstract": "All of Gabriel Moraga's documented expeditions on one map: the 1806–07 interior reconnaissances, the 1810 Suisun and Bodega operations, the 1812–13 Ross missions, and the 1817 San Rafael founding escort. Routes are RECONSTRUCTED from diaries and reports; dashed lines mean 'he passed roughly this way,' not a surveyed track. Village locations follow Cook's identifications and are approximate. Each route now cites the document it rests on; click the line to open it.",
  "date_range": [
   1806,
   1817
@@ -1121,7 +1121,7 @@
  "routes": [
   {
    "id": "r1807",
-   "label": "Moraga 1807 — San Joaquin Reconnaissance",
+   "label": "Moraga 1807; San Joaquin Reconnaissance",
    "layer": "r1807",
    "color": "#b7791f",
    "path_confidence": "reconstructed",
@@ -2384,7 +2384,7 @@
   },
   {
    "id": "rsuisun",
-   "label": "Moraga May 1810 — Suisun Campaign",
+   "label": "Moraga May 1810; Suisun Campaign",
    "layer": "rSuisun",
    "color": "#c0392b",
    "path_confidence": "reconstructed",
@@ -2611,7 +2611,7 @@
   },
   {
    "id": "rbodega",
-   "label": "Moraga October 1810 — Bodega Reconnaissance",
+   "label": "Moraga October 1810; Bodega Reconnaissance",
    "layer": "rBodega",
    "color": "#8e44ad",
    "path_confidence": "reconstructed",
@@ -2826,7 +2826,7 @@
   },
   {
    "id": "rross1812",
-   "label": "Moraga 1812 — First Visit to Ross",
+   "label": "Moraga 1812; First Visit to Ross",
    "layer": "rRoss1812",
    "color": "#8B2500",
    "path_confidence": "reconstructed",
@@ -3017,7 +3017,7 @@
   },
   {
    "id": "rross1813",
-   "label": "Moraga 1813 — Second Ross Mission",
+   "label": "Moraga 1813; Second Ross Mission",
    "layer": "rRoss1813",
    "color": "#e67e22",
    "path_confidence": "reconstructed",
@@ -3184,7 +3184,7 @@
   },
   {
    "id": "rsanrafael",
-   "label": "Moraga 1817 — San Rafael Founding Escort",
+   "label": "Moraga 1817; San Rafael Founding Escort",
    "layer": "rSanRafael",
    "color": "#2e6f40",
    "path_confidence": "reconstructed",
