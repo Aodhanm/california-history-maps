@@ -63,6 +63,109 @@
       '<path d="M6.4 15.2 3.2 14l2.4 4.4 3-.8z"/>' +             // tail fin
       '<path d="M2.6 19.4h11l1.4 2.6H4z"/>',                     // launcher base
 
+    // mission church — establishment-system artwork (panels-engine.js)
+    mission:
+      '<path d="M1.6 21v-8.2h20.8V21z"/>' +
+      '<path d="M8.6 12.8c0-2.3 1.3-3.8 3.4-3.8s3.4 1.5 3.4 3.8z"/>' +
+      '<path d="M2.8 12.8V7.4h5.4v5.4z"/>' +
+      '<path d="M3.3 7.4c0-2.1 1-3.4 2.2-3.4s2.2 1.3 2.2 3.4z"/>' +
+      '<path d="M5.15 1h.7v1h.95v.7h-.95v1.4h-.7V2.7H4.2V2h.95z"/>' +
+      '<path d="M16 12.8V9.2h4.4v3.6z"/>' +
+      '<path d="M16.5 9.2c0-1.7.75-2.7 1.7-2.7s1.7 1 1.7 2.7z"/>' +
+      '<path fill="#fff" d="M10.65 21v-3.8c0-.9.55-1.5 1.35-1.5s1.35.6 1.35 1.5V21z"/>' +
+      '<circle fill="#fff" cx="12" cy="11.7" r=".9"/>' +
+      '<path fill="#fff" d="M4.65 11.5V9.8c0-.7.4-1.2.85-1.2s.85.5.85 1.2v1.7z"/>' +
+      '<circle fill="#fff" cx="18.2" cy="11.1" r=".7"/>' +
+      '<rect fill="#fff" x="13.2" y="16.4" width="1.7" height="1.9"/><rect fill="#fff" x="17.3" y="16.4" width="1.7" height="1.9"/>',
+
+    // pueblo — establishment-system artwork
+    pueblo:
+      '<path d="M2.2 20.8v-7.6l4.9-3.2 4.9 3.2v7.6z"/>' +
+      '<path d="M12.6 20.8v-6.1l4.1-2.7 4.1 2.7v6.1z"/>' +
+      '<path fill="#fff" d="M5.8 20.8v-3.9c0-.8.55-1.3 1.3-1.3s1.3.5 1.3 1.3v3.9z"/>' +
+      '<rect fill="#fff" x="15.6" y="16" width="2.2" height="2.2"/>',
+
+    // outstation house — Spanish outstations and Russian farm ranches alike
+    house:
+      '<path d="M2.6 12.8 12 6.4l9.4 6.4-1.3 1.9L12 9.1l-8.1 5.6z"/>' +
+      '<path fill-rule="evenodd" d="M5 14.2 12 9.4l7 4.8V21H5zM10.9 15.4h2.2V21h-2.2z"/>',
+
+    // Russian-American Company double-headed eagle — establishment-system artwork
+    eagle:
+      /* raised left wing, three feather steps */
+      '<path d="M10.9 10.2C9.3 6.9 6.5 5.2 2.3 5c.5 1.3 1.2 2.4 2.2 3.2-1.3.1-2.5.5-3.7 1.2 1 1.1 2.2 1.9 3.6 2.3-1 .6-1.8 1.4-2.4 2.5 1.4.4 2.8.5 4.2.1-.6 1-.9 2-.9 3.2 2.3-.6 4-1.9 5-4z"/>' +
+      /* raised right wing, mirrored */
+      '<path d="M13.1 10.2c1.6-3.3 4.4-5 8.6-5.2-.5 1.3-1.2 2.4-2.2 3.2 1.3.1 2.5.5 3.7 1.2-1 1.1-2.2 1.9-3.6 2.3 1 .6 1.8 1.4 2.4 2.5-1.4.4-2.8.5-4.2.1.6 1 .9 2 .9 3.2-2.3-.6-4-1.9-5-4z"/>' +
+      /* body */
+      '<path d="M10.6 8.8h2.8l1 6.3-2.4 2.1-2.4-2.1z"/>' +
+      /* fanned tail with notches */
+      '<path d="M12 15.9l3.4 2.2 1.2 3-2.4-.8-.9 1.6-1.3-1.2-1.3 1.2-.9-1.6-2.4.8 1.2-3z"/>' +
+      /* left neck + head, beak hooked outward */
+      '<path d="M11.5 9c.1-2.3-.6-3.9-2.2-4.9.9-.1 1.7 0 2.4.4-.3-.9-.2-1.7.2-2.5-1.6-.2-2.9.2-3.9 1.2l-2.1-.4 1.3 1.4c-.3 1.9.5 3.4 2.4 4.6z" transform="translate(-1.2 0)"/>' +
+      /* right neck + head, mirrored */
+      '<path d="M12.5 9c-.1-2.3.6-3.9 2.2-4.9-.9-.1-1.7 0-2.4.4.3-.9.2-1.7-.2-2.5 1.6-.2 2.9.2 3.9 1.2l2.1-.4-1.3 1.4c.3 1.9-.5 3.4-2.4 4.6z" transform="translate(1.2 0)"/>' +
+      /* single crown above, between the heads */
+      '<path d="M9.9 1.9l1-1.3.6 1 .5-1 .6 1 1-1.3.6 2.1H10z"/>' +
+      '<rect x="9.9" y="2.7" width="4.2" height=".8"/>',
+
+    // longhorn — hacienda/rancho headquarters, establishment-system artwork
+    longhorn:
+      '<path d="M9.7 12.2c0-2.1 1-3.6 2.3-3.6s2.3 1.5 2.3 3.6c0 2.7-1 5.2-2.3 5.2s-2.3-2.5-2.3-5.2z"/>' +
+      '<path d="M10.9 9.4C8 8.9 5.3 7.4 4 4.9c2.7-.2 5.5.7 7.5 2.4z"/>' +
+      '<path d="M13.1 9.4c2.9-.5 5.6-2 6.9-4.5-2.7-.2-5.5.7-7.5 2.4z"/>',
+
+    // Colony Ross: the company eagle knocked out of the four-bastioned fort plan
+    ross:
+      '<path d="M22.6 1.4 17.6 12l5 10.6L12 17.6 1.4 22.6l5-10.6-5-10.6L12 6.4z"/>' +
+      '<g fill="#fff" transform="translate(12 13.1) scale(0.52) translate(-12 -12)">' +
+      /* raised left wing, three feather steps */
+      '<path d="M10.9 10.2C9.3 6.9 6.5 5.2 2.3 5c.5 1.3 1.2 2.4 2.2 3.2-1.3.1-2.5.5-3.7 1.2 1 1.1 2.2 1.9 3.6 2.3-1 .6-1.8 1.4-2.4 2.5 1.4.4 2.8.5 4.2.1-.6 1-.9 2-.9 3.2 2.3-.6 4-1.9 5-4z"/>' +
+      /* raised right wing, mirrored */
+      '<path d="M13.1 10.2c1.6-3.3 4.4-5 8.6-5.2-.5 1.3-1.2 2.4-2.2 3.2 1.3.1 2.5.5 3.7 1.2-1 1.1-2.2 1.9-3.6 2.3 1 .6 1.8 1.4 2.4 2.5-1.4.4-2.8.5-4.2.1.6 1 .9 2 .9 3.2-2.3-.6-4-1.9-5-4z"/>' +
+      /* body */
+      '<path d="M10.6 8.8h2.8l1 6.3-2.4 2.1-2.4-2.1z"/>' +
+      /* fanned tail with notches */
+      '<path d="M12 15.9l3.4 2.2 1.2 3-2.4-.8-.9 1.6-1.3-1.2-1.3 1.2-.9-1.6-2.4.8 1.2-3z"/>' +
+      /* left neck + head, beak hooked outward */
+      '<path d="M11.5 9c.1-2.3-.6-3.9-2.2-4.9.9-.1 1.7 0 2.4.4-.3-.9-.2-1.7.2-2.5-1.6-.2-2.9.2-3.9 1.2l-2.1-.4 1.3 1.4c-.3 1.9.5 3.4 2.4 4.6z" transform="translate(-1.2 0)"/>' +
+      /* right neck + head, mirrored */
+      '<path d="M12.5 9c-.1-2.3.6-3.9 2.2-4.9-.9-.1-1.7 0-2.4.4.3-.9.2-1.7-.2-2.5 1.6-.2 2.9.2 3.9 1.2l2.1-.4-1.3 1.4c.3 1.9-.5 3.4-2.4 4.6z" transform="translate(1.2 0)"/>' +
+      /* single crown above, between the heads */
+      '<path d="M9.9 1.9l1-1.3.6 1 .5-1 .6 1 1-1.3.6 2.1H10z"/>' +
+      '<rect x="9.9" y="2.7" width="4.2" height=".8"/>' +
+      '</g>',
+
+    // sailing ship — a vessel's visit, sighting, or action on the coast
+    ship:
+      '<path d="M2.2 17.2h19.6l-2.6 4.4H4.8z"/>' +
+      '<path d="M11.2 2.2h1.2v15h-1.2z"/>' +
+      '<path d="M12.8 3.2c3.6 1.6 5.4 4.6 5.4 8.6 0 .6 0 1.2-.1 1.8h-5.3z"/>' +
+      '<path d="M10.8 5.4c-2.8 1.3-4.3 3.7-4.3 6.8 0 .5 0 .9.1 1.4h4.2z"/>',
+
+    // baidarka — a Russian-Aleut hunting party afloat
+    kayak:
+      '<path d="M1 16.6c3.6 1.6 8 2.4 11 2.4s7.4-.8 11-2.4c-1.6 2.4-6 4-11 4s-9.4-1.6-11-4z"/>' +
+      '<circle cx="12" cy="12.2" r="1.7"/>' +
+      '<path d="M11.2 14h1.6v3.4h-1.6z"/>' +
+      '<path d="M5.6 10.2 17.8 16l-.5 1.1L5.1 11.3z"/>',
+
+    // parish / presidio chapel (secular church): nave with a square bell TOWER —
+    // distinct from the mission's espadaña bell-wall
+    parish:
+      '<path d="M1.8 21v-7.6h13.4V21z"/>' +
+      '<path d="M1 13.6l7.5-4.4 7.5 4.4-.9 1.5-6.6-3.9-6.6 3.9z"/>' +
+      '<path d="M15.8 21V8.2h6V21z"/>' +
+      '<path d="M15.2 8.6l3.6-3 3.6 3z"/>' +
+      '<path fill="#fff" d="M17.6 10.4h2.4v3h-2.4zM6.4 16h3v5h-3z"/>' +
+      '<path d="M18.1 2h1.4v2.6h-1.4z"/><path d="M17.2 2.9h3.2v1h-3.2z"/>',
+
+    // crossed sabers — a battle or armed engagement
+    swords:
+      '<path d="M3.2 2.6 18.6 16.4l-1.6 1.8L1.8 4.8z"/>' +
+      '<path d="M18.4 15.2 22 18.4l-1.2 1.4-1.4-.6-.6 1.4-1.4 1.2-3.2-3.6z"/>' +
+      '<path d="M20.8 2.6 5.4 16.4l1.6 1.8L22.2 4.8z"/>' +
+      '<path d="M5.6 15.2 2 18.4l1.2 1.4 1.4-.6.6 1.4 1.4 1.2 3.2-3.6z"/>',
+
     // four-bastioned fort in plan — the atlas convention for a masonry work
     fort:
       '<path d="M19.9 4.1 16.2 12l3.7 7.9L12 16.2l-7.9 3.7L7.8 12 4.1 4.1 12 7.8z"/>',

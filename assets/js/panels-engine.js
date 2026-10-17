@@ -92,6 +92,16 @@
       /* single crown above, between the heads */
       '<path d="M9.9 1.9l1-1.3.6 1 .5-1 .6 1 1-1.3.6 2.1H10z"/>' +
       '<rect x="9.9" y="2.7" width="4.2" height=".8"/>',
+    // parish / presidio chapel (secular church): nave with a square bell TOWER —
+    // distinct from the mission's espadaña bell-wall
+    parish:
+      '<path d="M1.8 21v-7.6h13.4V21z"/>' +
+      '<path d="M1 13.6l7.5-4.4 7.5 4.4-.9 1.5-6.6-3.9-6.6 3.9z"/>' +
+      '<path d="M15.8 21V8.2h6V21z"/>' +
+      '<path d="M15.2 8.6l3.6-3 3.6 3z"/>' +
+      '<path fill="#fff" d="M17.6 10.4h2.4v3h-2.4zM6.4 16h3v5h-3z"/>' +
+      '<path d="M18.1 2h1.4v2.6h-1.4z"/><path d="M17.2 2.9h3.2v1h-3.2z"/>',
+
     // longhorn, for hacienda/rancho headquarters when pointed
     longhorn:
       '<path d="M9.7 12.2c0-2.1 1-3.6 2.3-3.6s2.3 1.5 2.3 3.6c0 2.7-1 5.2-2.3 5.2s-2.3-2.5-2.3-5.2z"/>' +
@@ -121,6 +131,7 @@
     if (f.layer === 'asistencias') return 'asistencia';
     if (f.layer === 'outstations') return 'house';
     if (f.type === 'mission') return 'mission';
+    if (f.type === 'parish') return 'parish';
     if (f.type === 'presidio') return 'fort';
     if (f.type === 'pueblo') return 'pueblo';
     return null;
@@ -129,7 +140,7 @@
     if (f.layer === 'russian') return RUSSIAN_PURPLE;
     if (f.layer === 'sutter') return '#4a4a4a';
     if (f.type === 'battery') return '#8a1f1f';
-    if (f.type === 'mission' || f.type === 'presidio' || f.type === 'pueblo' ||
+    if (f.type === 'mission' || f.type === 'presidio' || f.type === 'pueblo' || f.type === 'parish' ||
         f.layer === 'asistencias' || f.layer === 'outstations') return SPANISH_BROWN;
     return fallback || SPANISH_BROWN;
   }
@@ -297,8 +308,8 @@
       var g = glyphFor(f);
       if (g) {
         lyr = L.marker(f.coords, { icon: glyphIcon(g, glyphColor(f, color), f.layer === 'missions' || f.type === 'presidio' ? 26 : 21) });
-        if (f.name && (f.layer === 'missions' || f.layer === 'russian' || f.type === 'presidio')) {
-          var yr = f.date && f.date.display ? f.date.display.replace(/^est\.\s*/, '') : '';
+        if (f.name && (f.layer === 'missions' || f.layer === 'russian' || f.type === 'presidio' || f.type === 'parish')) {
+          var yr = (f.type === 'parish') ? '' : (f.date && f.date.display ? f.date.display.replace(/^est\.\s*/, '') : '');
           lyr.bindTooltip(esc(f.name) + (yr ? '<br>' + esc(yr) : ''), {
             permanent: true, direction: 'bottom', offset: [0, 10], className: 'est-label', opacity: 1
           });

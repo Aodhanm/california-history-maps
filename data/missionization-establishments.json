@@ -13,7 +13,7 @@
  ],
  "zoom": 6,
  "cite_key": "establishments",
- "last_updated": "2026-07-15",
+ "last_updated": "2026-10-16",
  "layers": [
   {
    "id": "missions",
@@ -39,6 +39,11 @@
    "id": "sutter",
    "label": "New Helvetia (Sutter)",
    "color": "#275d7a"
+  },
+  {
+   "id": "parish",
+   "label": "Parish & Presidio Chapels (secular)",
+   "color": "#7a4a1f"
   }
  ],
  "features": [
@@ -1330,6 +1335,151 @@
    ],
    "native_groups": [],
    "tags": [],
+   "notes": ""
+  },
+  {
+   "id": "royal-presidio-chapel-monterey",
+   "register_no": null,
+   "name": "Royal Presidio Chapel",
+   "date": {
+    "iso": "1794",
+    "display": "stone chapel completed 1794",
+    "confidence": "year"
+   },
+   "coords": [
+    36.5971,
+    -121.8929
+   ],
+   "coord_precision": "exact",
+   "type": "parish",
+   "layer": "parish",
+   "summary": "Dedicated to San Carlos Borromeo — not to be confused with Mission San Carlos at Carmel. The capital's own church — the presidio chapel rebuilt in stone 1791–94, serving soldiers and vecinos under royal (not missionary) auspices; the only presidio chapel still standing. The crown furnished it: the 1794 accounts approve decorating its wall with a retablo and altar canvas.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. State Papers (C-A 6), doc 341 — the 1794 retablo/altar approval",
+     "ca_record": "ca6-d341",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, History of California I, 684–86 (the 1791–94 rebuilding)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "parish-church"
+   ],
+   "notes": "Drawn at the chapel site itself (today’s San Carlos Cathedral), a block from the presidio quadrangle marker."
+  },
+  {
+   "id": "plaza-church-los-angeles",
+   "register_no": null,
+   "name": "Plaza Church (Los Ángeles)",
+   "date": {
+    "iso": "1822-12-08",
+    "display": "dedicated December 8, 1822",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.0577,
+    -118.2384
+   ],
+   "coord_precision": "exact",
+   "type": "parish",
+   "layer": "parish",
+   "summary": "La Iglesia de Nuestra Señora de los Ángeles — The pueblo's own church, begun 1818 and dedicated in December 1822 — built because Los Ángeles had none: in 1810 the San Gabriel padre refused to come confess the vecinos, and the pueblo's representation went up to the Padre Presidente. The largest town in California finally got an altar of its own.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. Records (C-A 26), doc 11 — the 1810 confession refusal and the vecinos' representation",
+     "ca_record": "ca26-d11",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, History of California II, 110–11, 566–67 (construction 1818–22, dedication)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "parish-church"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "st-josephs-chapel-san-jose",
+   "register_no": null,
+   "name": "St. Joseph's Chapel",
+   "date": {
+    "iso": "1803",
+    "display": "adobe chapel built 1803",
+    "confidence": "year"
+   },
+   "coords": [
+    37.3366,
+    -121.8937
+   ],
+   "coord_precision": "exact",
+   "type": "parish",
+   "layer": "parish",
+   "summary": "At the Pueblo de San José: the vecinos raised its own adobe chapel in 1803, ending dependence on Mission Santa Clara three miles off — the third secular congregation of Spanish California, and the seed of today's St. Joseph's.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft, History of California II, 135 (the 1803 pueblo chapel) [standard record]",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "parish-church"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "presidio-chapel-santa-barbara",
+   "register_no": null,
+   "name": "Presidio Chapel, Santa Bárbara",
+   "date": {
+    "iso": "1782",
+    "display": "with the presidio, 1782",
+    "confidence": "year"
+   },
+   "coords": [
+    34.4208,
+    -119.6985
+   ],
+   "coord_precision": "exact",
+   "type": "parish",
+   "layer": "parish",
+   "summary": "The chapel of the Presidio de Santa Bárbara, serving the garrison and the vecinos who grew up around the quadrangle — the fourth secular congregation of Spanish California. The chapel standing today at El Presidio State Historic Park is a reconstruction on the original foundations.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. State Papers (C-A 1), doc 183 — the 1779 founding blueprint for the Presidio del Canal de Santa Bárbara",
+     "ca_record": "ca1-d183",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, History of California I (the presidio's founding, 1782) [standard record]",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Chumash"
+   ],
+   "tags": [
+    "parish-church"
+   ],
    "notes": ""
   }
  ]

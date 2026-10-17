@@ -423,31 +423,6 @@
    "notes": ""
   },
   {
-   "id": "province-force",
-   "name": "The force of the province, counted whole",
-   "date": {
-    "iso": null,
-    "display": "1819 Jul",
-    "confidence": "exact"
-   },
-   "coords": [
-    36.596,
-    -121.899
-   ],
-   "coord_precision": "exact",
-   "type": "mission",
-   "layer": "presidios",
-   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure — including the allocations that existed only on paper.",
-   "sources": [
-    {
-     "citation": "Rows cited document-by-document in the dated series",
-     "ca_record": null,
-     "ia_leaf_url": null
-    }
-   ],
-   "notes": ""
-  },
-  {
    "id": "san-antonio-baja",
    "name": "San Antonio (Baja California) — the comandancia in the US war",
    "date": {
@@ -471,7 +446,52 @@
     }
    ],
    "notes": ""
+  },
+  {
+   "id": "pueblo-los-angeles-1781",
+   "register_no": null,
+   "name": "Pueblo de Los Ángeles",
+   "date": {
+    "iso": "1781-09-04",
+    "display": "founded September 4, 1781",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.0566,
+    -118.24
+   ],
+   "coord_precision": "place",
+   "type": "pueblo",
+   "layer": "pueblos",
+   "summary": "El Pueblo de Nuestra Señora la Reina de los Ángeles, planted on the Porciúncula by Neve's plan — 11 families, 44 settlers. The founding paper trail sits in this archive: the 1778 pueblo plan, the 1779 founding blueprint, and Argüello's signed measured plat of the pueblo itself.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Prov. State Papers (C-A 1), doc 183 — the 1779 founding blueprint (presidio, missions, and the pueblo)",
+     "ca_record": "ca1-d183",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Prov. State Papers (C-A 2), doc 41 — Argüello's signed measured plat of the Pueblo de Los Ángeles",
+     "ca_record": "ca2-d41",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Prov. State Papers (C-A 1), doc 127 — the 1778 plan for pueblos on the Guadalupe and Porciúncula",
+     "ca_record": "ca1-d127",
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Tongva"
+   ],
+   "tags": [
+    "pueblo"
+   ],
+   "notes": ""
   }
  ],
- "routes": []
+ "routes": [],
+ "last_updated": "2026-10-16"
 }

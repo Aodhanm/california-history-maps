@@ -13,37 +13,37 @@
  ],
  "zoom": 9,
  "cite_key": "bodega",
- "last_updated": "2026-08-22",
+ "last_updated": "2026-10-16",
  "layers": [
   {
    "id": "spanish",
    "label": "Spanish Surveys & the 1793 Attempt",
-   "color": "#7a2e2e"
+   "color": "#5a3317"
   },
   {
    "id": "russian",
    "label": "The Russians at Bodega & Ross",
-   "color": "#8e44ad"
+   "color": "#6d3fa0"
   },
   {
    "id": "overland",
    "label": "Spanish Overland Probes",
-   "color": "#2e5a4b"
+   "color": "#8a5a2b"
   },
   {
    "id": "indigenous",
    "label": "Coast Miwok & Native Agency",
-   "color": "#b7791f"
+   "color": "#d4ac0d"
   },
   {
    "id": "foreign",
    "label": "Other Foreign Visits",
-   "color": "#275d7a"
+   "color": "#1a5276"
   },
   {
    "id": "refs",
    "label": "Spanish Posts (reference)",
-   "color": "#6b6257"
+   "color": "#5a3317"
   }
  ],
  "features": [
@@ -105,7 +105,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "golden-gate-crossing-borrowed-launches",
@@ -255,7 +256,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "kayak"
   },
   {
    "id": "130-bidarkas-in-san-francisco-bay",
@@ -285,7 +287,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "kayak"
   },
   {
    "id": "farallon-islands-russian-sealing-station",
@@ -315,7 +318,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "kayak"
   },
   {
    "id": "hagemeister-treaty-with-kashaya-pomo",
@@ -465,7 +469,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "yanovsky-s-rac-trade-overture",
@@ -525,7 +530,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "rezanov-arrives-on-juno",
@@ -555,7 +561,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "coast-miwok-intelligence-to-sal",
@@ -765,7 +772,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "hms-raccoon-at-san-francisco",
@@ -795,7 +803,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "kotzebue-visits-on-rurik",
@@ -825,7 +834,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "colnett-s-argonaut-at-bodega",
@@ -855,7 +865,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "ship"
   },
   {
    "id": "sola-to-viceroy-san-rafael-russian-threat",
@@ -872,7 +883,7 @@
    ],
    "coord_precision": "place",
    "type": "event",
-   "layer": "foreign",
+   "layer": "spanish",
    "summary": "Same letter contains Mission San Rafael founding AND Russian threat warning. Dual purpose: health + strategic. Proves mission expansion was explicitly about territorial defense against Russia.",
    "result": "Missions as counter-Russian strategy",
    "quote": null,
@@ -933,7 +944,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Both the Ross figure (a Spanish estimate) and the SF figure (a Spanish self-inventory) are Spanish-sourced, so the comparison is internally consistent. The defensible claim is order-of-magnitude parity, not a precise gun-for-gun ratio."
+   "notes": "Both the Ross figure (a Spanish estimate) and the SF figure (a Spanish self-inventory) are Spanish-sourced, so the comparison is internally consistent. The defensible claim is order-of-magnitude parity, not a precise gun-for-gun ratio.",
+   "symbol": "ross",
+   "symbol_major": true
   },
   {
    "id": "ref-presidio-of-san-francisco",
@@ -959,7 +972,9 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "ref-fort-san-joaquin-castillo-de-sf",
@@ -985,7 +1000,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "cannon"
   },
   {
    "id": "ref-mission-san-rafael",
@@ -1011,7 +1027,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "bodega-survey-1775",
@@ -1037,11 +1054,21 @@
      "citation": "Plano del Puerto del Capitan Bodega (LOC, gallery item loc-bq05); resurveyed 1793 (Cartas esfericas sheet 8)",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Edwards, 'Wandering Toponyms: El Puerto de la Bodega and Bodega Bay' (1964) — identifies the 1775 anchorage as Tomales Bay",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Wagner, Sir Francis Drake's Voyage Around the World (1926), 158–59 — reads the chart as Bodega Harbor",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Which water the Sonora actually entered is disputed: Edwards (1964) and Beals identify Tomales Bay, Wagner (1926) Bodega Harbor; see the hollow companion point for the Tomales reading."
   },
   {
    "id": "matute-attempt-1793",
@@ -1108,7 +1135,8 @@
     "Unangan/Alutiiq (Aleut) hunters"
    ],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "kayak"
   },
   {
    "id": "vallejo-informe-1833",
@@ -1169,6 +1197,392 @@
    "native_groups": [],
    "tags": [],
    "notes": ""
+  },
+  {
+   "id": "ref-port-rumiantsev-bodega-bay",
+   "register_no": null,
+   "name": "Port Rumiantsev (Bodega Bay)",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.31,
+    -123.045
+   ],
+   "coord_precision": "place",
+   "type": "settlement",
+   "layer": "russian",
+   "summary": "~1807. RAC fur-collecting base. First representative: Tarakanov. Permanent.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": "Anchorage in Bodega Harbor; the precise landing/port site is approximate.",
+   "symbol": "anchor",
+   "symbol_major": true
+  },
+  {
+   "id": "ref-kostromitinov-ranch",
+   "register_no": null,
+   "name": "Kostromitinov Ranch",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.465,
+    -123.09
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "russian",
+   "summary": "1833. Russian River near Willow Creek. ~100 acres wheat by 1841.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": "Exact ranch site debated (Osborn); descriptions place it on the south side of the Russian River near its mouth.",
+   "symbol": "house"
+  },
+  {
+   "id": "ref-khlebnikov-ranch",
+   "register_no": null,
+   "name": "Khlebnikov Ranch",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.35,
+    -123.02
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "russian",
+   "summary": "1833. Upper Salmon Creek valley, ~5 mi E of Bodega. Largest ranch — bakery, forge, tobacco shed.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": "",
+   "symbol": "house"
+  },
+  {
+   "id": "ref-chernykh-ranch",
+   "register_no": null,
+   "name": "Chernykh Ranch",
+   "date": {
+    "iso": null,
+    "display": "",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.41,
+    -122.91
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "russian",
+   "summary": "~1833. Near Graton (Purrington Creek). First vineyard in Sonoma County.",
+   "result": "",
+   "quote": null,
+   "sources": [],
+   "native_groups": [],
+   "tags": [
+    "reference"
+   ],
+   "notes": "",
+   "symbol": "house"
+  },
+  {
+   "id": "matute-sutil-bodega-1793",
+   "register_no": null,
+   "name": "Matute on the Sutil — the Occupation Refused",
+   "date": {
+    "iso": "1793-07-23",
+    "display": "July 23 – October 1793",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.308,
+    -123.053
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "spanish",
+   "summary": "Naval lieutenant Juan Bautista Matute arrives on the Sutil to plant the Bodega settlement, finds no English, and refuses to carry out the occupation: the harbor too shallow for the mission, no timber, no building material. He takes his artisans and troops back to San Blas in October — the quiet end of Spain's last northward move. If Edwards is right about the 1775 name, Matute was also surveying a different water than the one Bodega had praised.",
+   "result": "Occupation abandoned",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Matute's resultas of the Bodega commission (AGN, Historia 71)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Matute's 1793 plan of Bodega (AHN, Estado, MPD. 33)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Edwards, 'Wandering Toponyms' (1964) — the wrong-harbor argument",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "bodega-1793"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "tomales-anchorage-reading-1775",
+   "register_no": null,
+   "name": "The 1775 Anchorage — the Tomales Reading",
+   "date": {
+    "iso": "1775-10-03",
+    "display": "October 3, 1775",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.225,
+    -122.975
+   ],
+   "coord_precision": "conjectural",
+   "type": "event",
+   "layer": "spanish",
+   "summary": "Edwards's reconstruction: the water the Sonora entered on October 3, 1775 — the original 'Puerto de la Bodega' — was Tomales Bay. Beals's edition of Bodega's journal reaches the same identification. Everything on the modern map called Bodega carries a migrated name.",
+   "result": "Identification debated",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Edwards, 'Wandering Toponyms' (1964)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Beals (ed.), For Honor and Country: the diary of Bodega y Quadra (Hakluyt, 2007), editorial note",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Coast Miwok"
+   ],
+   "tags": [
+    "bodega-1775"
+   ],
+   "notes": "Drawn hollow: a scholarly reconstruction, not a documented position."
+  },
+  {
+   "id": "san-rafael-attack-1832",
+   "register_no": null,
+   "name": "San Rafael Attacked — the Piña Expedition",
+   "date": {
+    "iso": "1832",
+    "display": "1832",
+    "confidence": "year"
+   },
+   "coords": [
+    37.9735,
+    -122.5311
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "Mission San Rafael, its founding padre Amorós just dead and its population collapsing, is attacked by gentiles; an expedition goes out under Lázaro Piña. Word of the rising carries through fugitive mission Indians to the Ross-area rancherías — the likely referent of the Russians' report of a 'spring 1832 San Rafael revolt'.",
+   "result": "The North Bay crisis opens",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bancroft, History of California III, 716 (citing Vallejo, Documentos, MS, i.307)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bolkhovitinov & Istomin, Istoriia Russkoi Ameriki III, ch. 6 (the Russian report)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Coast Miwok",
+    "Kashaya Pomo"
+   ],
+   "tags": [
+    "north-bay-crisis"
+   ],
+   "notes": "",
+   "symbol": "swords"
+  },
+  {
+   "id": "kashaya-resistance-1833-38",
+   "register_no": null,
+   "name": "Kashaya Resistance at Ross",
+   "date": {
+    "iso": "1833",
+    "display": "1833–1838",
+    "confidence": "range"
+   },
+   "coords": [
+    38.52,
+    -123.23
+   ],
+   "coord_precision": "area",
+   "type": "event",
+   "layer": "indigenous",
+   "summary": "With the otter gone and Ross living off its grain, manager Kostromitinov's parties seize Kashaya laborers by force — Wrangell records up to 150 gathered, families 'driven to the settlement like cattle to work'. Kashaya and Miwok answer with five years of attacks on company property, culminating in an 1838 raid that kills about a hundred Ross cattle. Indian resistance becomes one cause of the colony's unprofitability and sale.",
+   "result": "Resistance presses on the colony's economics",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Wrangell and Kostromitonov, ethnographic reports (Stross trans., 1974)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bolkhovitinov & Istomin, Istoriia Russkoi Ameriki III, ch. 6",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [
+    "Kashaya Pomo",
+    "Coast Miwok"
+   ],
+   "tags": [
+    "north-bay-crisis"
+   ],
+   "notes": "",
+   "symbol": "swords"
+  },
+  {
+   "id": "rac-plate-14-malaya-bodega",
+   "register_no": null,
+   "name": "RAC Possession Plate No. 14 — Malaya Bodega",
+   "date": {
+    "iso": "1809",
+    "display": "1809 (Kuskov's first expedition)",
+    "confidence": "year"
+   },
+   "coords": [
+    38.317,
+    -123.048
+   ],
+   "coord_precision": "place",
+   "type": "event",
+   "layer": "russian",
+   "symbol": "eagle",
+   "summary": "Kuskov's expedition buries numbered metal claiming plate No. 14 at 'Malaya Bodega,' the inner harbor — one of a chain of iron plates with brass crosses by which the company staked New Albion years before Ross was built (No. 1 at Trinidad, 1808).",
+   "result": "The coast staked in metal",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bolkhovitinov (ed.), Istoriia Russkoi Ameriki II, 210, 214 (RAC file, OR RGB F.204, K.32, D.12)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Istomin, the Kuskov reconnaissance reports, 1809–11 (cited ibid.)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "rac-plates"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "rac-plate-20-drakes-estero",
+   "register_no": null,
+   "name": "RAC Possession Plate No. 20 — Drake's Estero",
+   "date": {
+    "iso": "1809",
+    "display": "1809–11",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.03,
+    -122.93
+   ],
+   "coord_precision": "area",
+   "type": "event",
+   "layer": "russian",
+   "symbol": "eagle",
+   "summary": "A second numbered claiming plate buried at the mouth of Drake's Estero — the company quietly marking the shore of New Albion down to 38°.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bolkhovitinov (ed.), Istoriia Russkoi Ameriki II, 210, 214 (RAC file, OR RGB F.204, K.32, D.12)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Istomin, the Kuskov reconnaissance reports, 1809–11 (cited ibid.)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "rac-plates"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "rac-plate-eagle-san-pablo-bay",
+   "register_no": null,
+   "name": "The Buried Eagle — a Plate in San Pablo Bay",
+   "date": {
+    "iso": "1811",
+    "display": "by 1811 (reported later by the RAC)",
+    "confidence": "circa"
+   },
+   "coords": [
+    38.07,
+    -122.4
+   ],
+   "coord_precision": "conjectural",
+   "type": "event",
+   "layer": "russian",
+   "symbol": "eagle",
+   "summary": "The company later reported placing 'plate No. 1000 and one coat of arms' — a double-headed eagle — at 'Malaya Bodega, in the northern arm of San Francisco, where the fort and mission of the Spaniards were built': a possession marker buried inside the Spanish bay itself, in the waters of San Pablo Bay. Its spot has never been found.",
+   "result": "A claim buried inside Spanish waters",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Bolkhovitinov (ed.), Istoriia Russkoi Ameriki II, 210, 214 (RAC file, OR RGB F.204, K.32, D.12)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Istomin, the Kuskov reconnaissance reports, 1809–11 (cited ibid.)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "rac-plates"
+   ],
+   "notes": "Position conjectural — drawn hollow; the RAC report's geography is ambiguous."
   }
  ],
  "routes": [
