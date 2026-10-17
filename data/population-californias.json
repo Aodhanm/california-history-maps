@@ -476,7 +476,7 @@
    "coord_precision": "exact",
    "type": "settlement",
    "layer": "pueblos",
-   "summary": "The third and smallest pueblo, founded 1797 across the river from Mission Santa Cruz. The 1823 padrones catch it at 128 souls, or 67 by the summer count — the two returns are shown as recorded. The 1803 padrón counts the villa at exactly 101 souls — 16 married, 42 single — a failed colony small enough to name.",
+   "summary": "The third and smallest pueblo, founded 1797 across the river from Mission Santa Cruz. The 1823 padrones catch it at 128 souls, or 67 by the summer count — the two returns are shown as recorded. The 1803 padrón counts the villa at exactly 101 souls, 16 married, 42 single; a failed colony small enough to name.",
    "series": [
     [
      "1823 Dec",
@@ -505,7 +505,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Padrón de los habitantes de la Villa de Branciforte, Dec 1803 — 101 almas (C-A 8), doc 473",
+     "citation": "Padrón de los habitantes de la Villa de Branciforte, Dec 1803 · 101 almas (C-A 8), doc 473",
      "ca_record": "ca8-d473",
      "ia_leaf_url": null
     }
@@ -2651,12 +2651,12 @@
    "type": "event",
    "layer": "province",
    "symbol": "scroll",
-   "summary": "The count laid before the founding session of the Diputación: California at independence held 24,990 inhabitants — 21,196 of them 'nuevos ciudadanos,' the mission neophytes of the 20 missions, and 2,994 the four presidial companies with their women, children, and invalids. The gente de razón were a rounding error on their own province.",
+   "summary": "The count laid before the founding session of the Diputación: California at independence held 24,990 inhabitants; 21,196 of them 'nuevos ciudadanos,' the mission neophytes of the 20 missions, and 2,994 the four presidial companies with their women, children, and invalids. The gente de razón were a rounding error on their own province.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "Legislative Records (C-A 59), doc 4 — the founding session acta with the 1822 census",
+     "citation": "Legislative Records (C-A 59), doc 4 · the founding session acta with the 1822 census",
      "ca_record": "ca59-d4",
      "ia_leaf_url": null
     }

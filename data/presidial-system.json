@@ -54,7 +54,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran about 30 to 56 men for most of the Spanish period and never surged to meet the Russian arrival in 1812. In 1794 its own inspection called it 'abierto y sin defensa ninguna' — tule-roofed houses renewed yearly, chapel and warehouses threatening ruin; the March 1831 review counts 44 men all told. At independence the company counted itself whole: June 1822, fuerza efectiva with the militias, 127 men, eight of them artillerymen.",
+   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran about 30 to 56 men for most of the Spanish period and never surged to meet the Russian arrival in 1812. In 1794 its own inspection called it 'abierto y sin defensa ninguna': tule-roofed houses renewed yearly, chapel and warehouses threatening ruin; the March 1831 review counts 44 men all told. At independence the company counted itself whole: June 1822, fuerza efectiva with the militias, 127 men, eight of them artillerymen.",
    "series": [
     [
      "1778 Dec 31",
@@ -213,17 +213,17 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "SF presidio condition report, Jun 1794 — 'abierto y sin defensa' (C-A 14), doc 100",
+     "citation": "SF presidio condition report, Jun 1794 · 'abierto y sin defensa' (C-A 14), doc 100",
      "ca_record": "ca14-d100",
      "ia_leaf_url": null
     },
     {
-     "citation": "San Francisco company, Mar 1831 — 44 hombres (C-A 19), doc 76",
+     "citation": "San Francisco company, Mar 1831 · 44 hombres (C-A 19), doc 76",
      "ca_record": "ca19-d76",
      "ia_leaf_url": null
     },
     {
-     "citation": "Estado de fuerza efectiva (veterana y milicias), San Francisco, 26 Jun 1822 — total 127 (C-A 18), doc 1",
+     "citation": "Estado de fuerza efectiva (veterana y milicias), San Francisco, 26 Jun 1822 · total 127 (C-A 18), doc 1",
      "ca_record": "ca18-d1",
      "ia_leaf_url": null
     }
@@ -410,7 +410,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The capital's presidio and the largest company in the province, with the Real Cuerpo de Artillería headquartered here. Even so, in 1809 its ~85 men were dispersed as mission escorts and herd guards, with only 4 men on the battery. Its Mexican-era arithmetic survives month by month: March 1829, a lieutenant, an alférez, sergeants, ten corporals and sixty soldiers drawing $1,668 — Mariano Vallejo keeping the books as habilitado; by November 1833 the same company musters 35 men.",
+   "summary": "The capital's presidio and the largest company in the province, with the Real Cuerpo de Artillería headquartered here. Even so, in 1809 its ~85 men were dispersed as mission escorts and herd guards, with only 4 men on the battery. Its Mexican-era arithmetic survives month by month: March 1829, a lieutenant, an alférez, sergeants, ten corporals and sixty soldiers drawing $1,668, Mariano Vallejo keeping the books as habilitado; by November 1833 the same company musters 35 men.",
    "series": [
     [
      "1781",
@@ -609,12 +609,12 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Monterey company pay & strength, Mar 1829 — Vallejo habilitado (C-A 19), doc 9",
+     "citation": "Monterey company pay & strength, Mar 1829 · Vallejo habilitado (C-A 19), doc 9",
      "ca_record": "ca19-d9",
      "ia_leaf_url": null
     },
     {
-     "citation": "Monterey company, Nov 1833 — 35 hombres (C-A 19), doc 207",
+     "citation": "Monterey company, Nov 1833 · 35 hombres (C-A 19), doc 207",
      "ca_record": "ca19-d207",
      "ia_leaf_url": null
     },
@@ -646,7 +646,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "Founded 1782 with about 58 men and holding near that strength for decades. In 1797 its commander reported 118 cartridges for his single six-pounder, with no artilleryman to serve it. Its 1788 munitions account runs the escopeta cartridges down from 3,784 to 2,634 across the year, gunflints 1,900 to 1,685 — consumption bookkeeping, round by round. The Mexican-era returns continue the series: Goycoechea's November 1797 estado de la fuerza, and Ibarra's Christmas 1834 garrison return.",
+   "summary": "Founded 1782 with about 58 men and holding near that strength for decades. In 1797 its commander reported 118 cartridges for his single six-pounder, with no artilleryman to serve it. Its 1788 munitions account runs the escopeta cartridges down from 3,784 to 2,634 across the year, gunflints 1,900 to 1,685: consumption bookkeeping, round by round. The Mexican-era returns continue the series: Goycoechea's November 1797 estado de la fuerza, and Ibarra's Christmas 1834 garrison return.",
    "series": [
     [
      "1781 Nov 15",
@@ -878,7 +878,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The first presidio, founded 1769. In September 1783 the whole company held 72 cartridges. Its guns were dismounted in 1793 with nobody able to operate them. The 1827 company roster counts 69 present — captain's chair vacant, its Habilitado General away in Guadalajara.",
+   "summary": "The first presidio, founded 1769. In September 1783 the whole company held 72 cartridges. Its guns were dismounted in 1793 with nobody able to operate them. The 1827 company roster counts 69 present, captain's chair vacant, its Habilitado General away in Guadalajara.",
    "series": [
     [
      "1775 May",
@@ -1062,7 +1062,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "San Diego company roster, Aug 1827 — 69 present (C-A 18), doc 237",
+     "citation": "San Diego company roster, Aug 1827 · 69 present (C-A 18), doc 237",
      "ca_record": "ca18-d237",
      "ia_leaf_url": null
     },
@@ -1263,7 +1263,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Estrada's nine-year cuenta general of the Loreto caudales, 1781–89 — 144,527 pesos (C-A 5), doc 204",
+     "citation": "Estrada's nine-year cuenta general of the Loreto caudales, 1781–89 · 144,527 pesos (C-A 5), doc 204",
      "ca_record": "ca5-d204",
      "ia_leaf_url": null
     }
@@ -1732,7 +1732,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "forts",
-   "summary": "The province's artillery as a series: the headline is the 5 September 1818 count of every gun in California — 58 pieces by calibre and metal, 3 useless, carriages failing for want of ironwork — now paired with the manning record around it: the Real Cuerpo detachment of 1795 named man by man, the militia-gunner allocations of 1817, the 62 militia gunners counted the same day as the 58 guns, and the shrinking corps musters of 1827 and 1836. The series has earlier and later rungs: in 1797 the viceroy shuffled two- and three-pounder cannon from San Miguel and Loreto to fortify the new frontier mission, and a San Diego gunner coaxed a broken 24-pounder back into service; by December 1835 the artillery company itself musters by presidio — Monterey five corporals, a drummer and eleven gunners; San Francisco one and four; Santa Bárbara one and five.",
+   "summary": "The province's artillery as a series: the headline is the 5 September 1818 count of every gun in California — 58 pieces by calibre and metal, 3 useless, carriages failing for want of ironwork — now paired with the manning record around it: the Real Cuerpo detachment of 1795 named man by man, the militia-gunner allocations of 1817, the 62 militia gunners counted the same day as the 58 guns, and the shrinking corps musters of 1827 and 1836. The series has earlier and later rungs: in 1797 the viceroy shuffled two- and three-pounder cannon from San Miguel and Loreto to fortify the new frontier mission, and a San Diego gunner coaxed a broken 24-pounder back into service; by December 1835 the artillery company itself musters by presidio: Monterey five corporals, a drummer and eleven gunners; San Francisco one and four; Santa Bárbara one and five.",
    "series": [
     [
      "1795 Oct",
@@ -2041,7 +2041,7 @@
    "coord_precision": "exact",
    "type": "document",
    "layer": "presidios",
-   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure — including the allocations that existed only on paper. The floor of the curve is documented twice over: in 1804 the governor, writing from Loreto, reported 'el mal estado de los Presidios y escasez de tropa'; and an 1833 muster analysis found only 35 men present in all California — the company's bulk at Santa Bárbara with Figueroa, and ten men holding the capital. The reinforcements came counted too: the Mazatlán squadron's 1819 detachment for Alta California boarded the Cosak as a full estado de fuerza — a captain, two lieutenants, two alféreces, sergeants, drummers, corporals and men, itemized before they sailed.",
+   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure — including the allocations that existed only on paper. The floor of the curve is documented twice over: in 1804 the governor, writing from Loreto, reported 'el mal estado de los Presidios y escasez de tropa'; and an 1833 muster analysis found only 35 men present in all California, the company's bulk at Santa Bárbara with Figueroa, and ten men holding the capital. The reinforcements came counted too: the Mazatlán squadron's 1819 detachment for Alta California boarded the Cosak as a full estado de fuerza: a captain, two lieutenants, two alféreces, sergeants, drummers, corporals and men, itemized before they sailed.",
    "series": [
     [
      "1819 Jul",
@@ -2069,12 +2069,12 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Gov. to Viceroy, 8 May 1804 — 'mal estado de los Presidios y escasez de tropa' (C-A 25), doc 1050",
+     "citation": "Gov. to Viceroy, 8 May 1804 · 'mal estado de los Presidios y escasez de tropa' (C-A 25), doc 1050",
      "ca_record": "ca25-d1050",
      "ia_leaf_url": null
     },
     {
-     "citation": "Muster analysis, Sept 1833 — 35 men present in California (C-A 19), doc 221",
+     "citation": "Muster analysis, Sept 1833 · 35 men present in California (C-A 19), doc 221",
      "ca_record": "ca19-d221",
      "ia_leaf_url": null
     },

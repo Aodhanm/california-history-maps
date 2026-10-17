@@ -1056,12 +1056,12 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Edwards, 'Wandering Toponyms: El Puerto de la Bodega and Bodega Bay' (1964) — identifies the 1775 anchorage as Tomales Bay",
+     "citation": "Edwards, 'Wandering Toponyms: El Puerto de la Bodega and Bodega Bay' (1964) · identifies the 1775 anchorage as Tomales Bay",
      "ca_record": null,
      "ia_leaf_url": null
     },
     {
-     "citation": "Wagner, Sir Francis Drake's Voyage Around the World (1926), 158–59 — reads the chart as Bodega Harbor",
+     "citation": "Wagner, Sir Francis Drake's Voyage Around the World (1926), 158–59 · reads the chart as Bodega Harbor",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1323,7 +1323,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanish",
-   "summary": "Naval lieutenant Juan Bautista Matute arrives on the Sutil to plant the Bodega settlement, finds no English, and refuses to carry out the occupation: the harbor too shallow for the mission, no timber, no building material. He takes his artisans and troops back to San Blas in October — the quiet end of Spain's last northward move. If Edwards is right about the 1775 name, Matute was also surveying a different water than the one Bodega had praised.",
+   "summary": "Naval lieutenant Juan Bautista Matute arrives on the Sutil to plant the Bodega settlement, finds no English, and refuses to carry out the occupation: the harbor too shallow for the mission, no timber, no building material. He takes his artisans and troops back to San Blas in October; the quiet end of Spain's last northward move. If Edwards is right about the 1775 name, Matute was also surveying a different water than the one Bodega had praised.",
    "result": "Occupation abandoned",
    "quote": null,
    "sources": [
@@ -1338,7 +1338,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Edwards, 'Wandering Toponyms' (1964) — the wrong-harbor argument",
+     "citation": "Edwards, 'Wandering Toponyms' (1964) · the wrong-harbor argument",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1365,7 +1365,7 @@
    "coord_precision": "conjectural",
    "type": "event",
    "layer": "spanish",
-   "summary": "Edwards's reconstruction: the water the Sonora entered on October 3, 1775 — the original 'Puerto de la Bodega' — was Tomales Bay. Beals's edition of Bodega's journal reaches the same identification. Everything on the modern map called Bodega carries a migrated name.",
+   "summary": "Edwards's reconstruction: the water the Sonora entered on October 3, 1775; the original 'Puerto de la Bodega'; was Tomales Bay. Beals's edition of Bodega's journal reaches the same identification. Everything on the modern map called Bodega carries a migrated name.",
    "result": "Identification debated",
    "quote": null,
    "sources": [
@@ -1404,7 +1404,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Mission San Rafael, its founding padre Amorós just dead and its population collapsing, is attacked by gentiles; an expedition goes out under Lázaro Piña. Word of the rising carries through fugitive mission Indians to the Ross-area rancherías — the likely referent of the Russians' report of a 'spring 1832 San Rafael revolt'.",
+   "summary": "Mission San Rafael, its founding padre Amorós just dead and its population collapsing, is attacked by gentiles; an expedition goes out under Lázaro Piña. Word of the rising carries through fugitive mission Indians to the Ross-area rancherías; the likely referent of the Russians' report of a 'spring 1832 San Rafael revolt'.",
    "result": "The North Bay crisis opens",
    "quote": null,
    "sources": [
@@ -1445,7 +1445,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "indigenous",
-   "summary": "With the otter gone and Ross living off its grain, manager Kostromitinov's parties seize Kashaya laborers by force — Wrangell records up to 150 gathered, families 'driven to the settlement like cattle to work'. Kashaya and Miwok answer with five years of attacks on company property, culminating in an 1838 raid that kills about a hundred Ross cattle. Indian resistance becomes one cause of the colony's unprofitability and sale.",
+   "summary": "With the otter gone and Ross living off its grain, manager Kostromitinov's parties seize Kashaya laborers by force; Wrangell records up to 150 gathered, families 'driven to the settlement like cattle to work'. Kashaya and Miwok answer with five years of attacks on company property, culminating in an 1838 raid that kills about a hundred Ross cattle. Indian resistance becomes one cause of the colony's unprofitability and sale.",
    "result": "Resistance presses on the colony's economics",
    "quote": null,
    "sources": [
@@ -1487,7 +1487,7 @@
    "type": "event",
    "layer": "russian",
    "symbol": "eagle",
-   "summary": "Kuskov's expedition buries numbered metal claiming plate No. 14 at 'Malaya Bodega,' the inner harbor — one of a chain of iron plates with brass crosses by which the company staked New Albion years before Ross was built (No. 1 at Trinidad, 1808).",
+   "summary": "Kuskov's expedition buries numbered metal claiming plate No. 14 at 'Malaya Bodega,' the inner harbor; one of a chain of iron plates with brass crosses by which the company staked New Albion years before Ross was built (No. 1 at Trinidad, 1808).",
    "result": "The coast staked in metal",
    "quote": null,
    "sources": [
@@ -1525,7 +1525,7 @@
    "type": "event",
    "layer": "russian",
    "symbol": "eagle",
-   "summary": "A second numbered claiming plate buried at the mouth of Drake's Estero — the company quietly marking the shore of New Albion down to 38°.",
+   "summary": "A second numbered claiming plate buried at the mouth of Drake's Estero; the company quietly marking the shore of New Albion down to 38°.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1563,7 +1563,7 @@
    "type": "event",
    "layer": "russian",
    "symbol": "eagle",
-   "summary": "The company later reported placing 'plate No. 1000 and one coat of arms' — a double-headed eagle — at 'Malaya Bodega, in the northern arm of San Francisco, where the fort and mission of the Spaniards were built': a possession marker buried inside the Spanish bay itself, in the waters of San Pablo Bay. Its spot has never been found.",
+   "summary": "The company later reported placing 'plate No. 1000 and one coat of arms'; a double-headed eagle; at 'Malaya Bodega, in the northern arm of San Francisco, where the fort and mission of the Spaniards were built': a possession marker buried inside the Spanish bay itself, in the waters of San Pablo Bay. Its spot has never been found.",
    "result": "A claim buried inside Spanish waters",
    "quote": null,
    "sources": [
@@ -1582,7 +1582,7 @@
    "tags": [
     "rac-plates"
    ],
-   "notes": "Position conjectural — drawn hollow; the RAC report's geography is ambiguous."
+   "notes": "Position conjectural; drawn hollow; the RAC report's geography is ambiguous."
   }
  ],
  "routes": [

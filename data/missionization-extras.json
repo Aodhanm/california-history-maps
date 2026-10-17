@@ -463,22 +463,22 @@
    "coord_precision": "place",
    "type": "pueblo",
    "layer": "pueblos",
-   "summary": "El Pueblo de Nuestra Señora la Reina de los Ángeles, planted on the Porciúncula by Neve's plan — 11 families, 44 settlers. The founding paper trail sits in this archive: the 1778 pueblo plan, the 1779 founding blueprint, and Argüello's signed measured plat of the pueblo itself.",
+   "summary": "El Pueblo de Nuestra Señora la Reina de los Ángeles, planted on the Porciúncula by Neve's plan; 11 families, 44 settlers. The founding paper trail sits in this archive: the 1778 pueblo plan, the 1779 founding blueprint, and Argüello's signed measured plat of the pueblo itself.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. State Papers (C-A 1), doc 183 — the 1779 founding blueprint (presidio, missions, and the pueblo)",
+     "citation": "Prov. State Papers (C-A 1), doc 183 · the 1779 founding blueprint (presidio, missions, and the pueblo)",
      "ca_record": "ca1-d183",
      "ia_leaf_url": null
     },
     {
-     "citation": "Prov. State Papers (C-A 2), doc 41 — Argüello's signed measured plat of the Pueblo de Los Ángeles",
+     "citation": "Prov. State Papers (C-A 2), doc 41 · Argüello's signed measured plat of the Pueblo de Los Ángeles",
      "ca_record": "ca2-d41",
      "ia_leaf_url": null
     },
     {
-     "citation": "Prov. State Papers (C-A 1), doc 127 — the 1778 plan for pueblos on the Guadalupe and Porciúncula",
+     "citation": "Prov. State Papers (C-A 1), doc 127 · the 1778 plan for pueblos on the Guadalupe and Porciúncula",
      "ca_record": "ca1-d127",
      "ia_leaf_url": null
     }
