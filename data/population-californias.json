@@ -2178,8 +2178,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
-   "symbol": "scroll"
+   "notes": ""
   },
   {
    "id": "mi-la-soledad",
@@ -2242,8 +2241,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
-   "symbol": "scroll"
+   "notes": ""
   },
   {
    "id": "mi-san-jose",
@@ -2288,8 +2286,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ No mission-specific padrón for San José has been identified in the catalog. The readings here are its lines in province-wide tables.",
-   "symbol": "scroll"
+   "notes": "⚠ No mission-specific padrón for San José has been identified in the catalog. The readings here are its lines in province-wide tables."
   },
   {
    "id": "mi-san-miguel",
@@ -2352,8 +2349,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
-   "symbol": "scroll"
+   "notes": ""
   },
   {
    "id": "mi-san-fernando",
@@ -2410,8 +2406,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
-   "symbol": "scroll"
+   "notes": ""
   },
   {
    "id": "mi-santa-ines",
@@ -2474,8 +2469,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
-   "symbol": "scroll"
+   "notes": ""
   },
   {
    "id": "mi-san-rafael",
@@ -2532,8 +2526,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
-   "symbol": "scroll"
+   "notes": ""
   },
   {
    "id": "mi-solano",
@@ -2584,8 +2577,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
-   "symbol": "scroll"
+   "notes": ""
   }
  ],
  "symbol_min_zoom": 5

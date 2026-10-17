@@ -165,12 +165,12 @@
       '<path d="M15.4 20.4v-1.2c0-3.2 2-5.4 4.6-5.4 1.4 0 2.6.6 3.4 1.7-.5 1.9-.7 3.3-.7 4.9z" transform="translate(-1.4 0)"/>' +
       '<path fill="#fff" d="M8.6 20.4v-3.4c0-1.1.7-1.8 1.6-1.8s1.6.7 1.6 1.8v3.4z"/>',
 
-    // scroll — a decree, order, or report
+    // scroll — a decree, order, or report: rolled head and foot, text between
     scroll:
-      '<path d="M5.2 4.6h13.2v14.2H5.2z"/>' +
-      '<path d="M3 3.2c1.5 0 2.6 1 2.6 2.4v1H3c-1.1 0-2-.8-2-1.7S1.9 3.2 3 3.2z"/>' +
-      '<path d="M21 20.8c-1.5 0-2.6-1-2.6-2.4v-1H21c1.1 0 2 .8 2 1.7s-.9 1.7-2 1.7z"/>' +
-      '<path fill="#fff" d="M7.6 8h8.4v1.4H7.6zM7.6 11h8.4v1.4H7.6zM7.6 14h5.8v1.4H7.6z"/>',
+      '<path d="M4.2 3.2h15.6a2.1 2.1 0 010 4.2H4.2a2.1 2.1 0 010-4.2z"/>' +
+      '<path d="M5.6 7.4h12.8v9.2H5.6z"/>' +
+      '<path d="M4.2 16.6h15.6a2.1 2.1 0 010 4.2H4.2a2.1 2.1 0 010-4.2z"/>' +
+      '<path fill="#fff" d="M7.4 9.4h9.2v1.3H7.4zM7.4 12h9.2v1.3H7.4zM7.4 14.6h6.2v1.3H7.4z"/>',
 
     // flame — a raid or burning
     flame:

@@ -7448,7 +7448,8 @@
     "reference"
    ],
    "notes": "",
-   "symbol": "mission"
+   "symbol": "ross",
+   "symbol_major": true
   },
   {
    "id": "label-san-diego",
@@ -7879,8 +7880,7 @@
    "tags": [
     "reference"
    ],
-   "notes": "",
-   "symbol": "pueblo"
+   "notes": ""
   },
   {
    "id": "label-carquinez-strait",

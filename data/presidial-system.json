@@ -1265,7 +1265,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Both the Ross figure (a Spanish estimate) and the SF figure (a Spanish self-inventory) are Spanish-sourced, so the comparison is internally consistent. The defensible claim is order-of-magnitude parity, not a precise gun-for-gun ratio."
+   "notes": "Both the Ross figure (a Spanish estimate) and the SF figure (a Spanish self-inventory) are Spanish-sourced, so the comparison is internally consistent. The defensible claim is order-of-magnitude parity, not a precise gun-for-gun ratio.",
+   "symbol": "ross",
+   "symbol_major": true
   },
   {
    "id": "armed-san-buenaventura",
@@ -1953,8 +1955,8 @@
     "confidence": "exact"
    },
    "coords": [
-    36.596,
-    -121.899
+    36.635,
+    -121.93
    ],
    "coord_precision": "exact",
    "type": "document",

@@ -102,6 +102,27 @@
       '<path fill="#fff" d="M17.6 10.4h2.4v3h-2.4zM6.4 16h3v5h-3z"/>' +
       '<path d="M18.1 2h1.4v2.6h-1.4z"/><path d="M17.2 2.9h3.2v1h-3.2z"/>',
 
+    // Colony Ross: the company eagle knocked out of the four-bastioned fort plan
+    ross:
+      '<path d="M22.6 1.4 17.6 12l5 10.6L12 17.6 1.4 22.6l5-10.6-5-10.6L12 6.4z"/>' +
+      '<g fill="#fff" transform="translate(12 13.1) scale(0.52) translate(-12 -12)">' +
+      /* raised left wing, three feather steps */
+      '<path d="M10.9 10.2C9.3 6.9 6.5 5.2 2.3 5c.5 1.3 1.2 2.4 2.2 3.2-1.3.1-2.5.5-3.7 1.2 1 1.1 2.2 1.9 3.6 2.3-1 .6-1.8 1.4-2.4 2.5 1.4.4 2.8.5 4.2.1-.6 1-.9 2-.9 3.2 2.3-.6 4-1.9 5-4z"/>' +
+      /* raised right wing, mirrored */
+      '<path d="M13.1 10.2c1.6-3.3 4.4-5 8.6-5.2-.5 1.3-1.2 2.4-2.2 3.2 1.3.1 2.5.5 3.7 1.2-1 1.1-2.2 1.9-3.6 2.3 1 .6 1.8 1.4 2.4 2.5-1.4.4-2.8.5-4.2.1.6 1 .9 2 .9 3.2-2.3-.6-4-1.9-5-4z"/>' +
+      /* body */
+      '<path d="M10.6 8.8h2.8l1 6.3-2.4 2.1-2.4-2.1z"/>' +
+      /* fanned tail with notches */
+      '<path d="M12 15.9l3.4 2.2 1.2 3-2.4-.8-.9 1.6-1.3-1.2-1.3 1.2-.9-1.6-2.4.8 1.2-3z"/>' +
+      /* left neck + head, beak hooked outward */
+      '<path d="M11.5 9c.1-2.3-.6-3.9-2.2-4.9.9-.1 1.7 0 2.4.4-.3-.9-.2-1.7.2-2.5-1.6-.2-2.9.2-3.9 1.2l-2.1-.4 1.3 1.4c-.3 1.9.5 3.4 2.4 4.6z" transform="translate(-1.2 0)"/>' +
+      /* right neck + head, mirrored */
+      '<path d="M12.5 9c-.1-2.3.6-3.9 2.2-4.9-.9-.1-1.7 0-2.4.4.3-.9.2-1.7-.2-2.5 1.6-.2 2.9.2 3.9 1.2l2.1-.4-1.3 1.4c.3 1.9-.5 3.4-2.4 4.6z" transform="translate(1.2 0)"/>' +
+      /* single crown above, between the heads */
+      '<path d="M9.9 1.9l1-1.3.6 1 .5-1 .6 1 1-1.3.6 2.1H10z"/>' +
+      '<rect x="9.9" y="2.7" width="4.2" height=".8"/>' +
+      '</g>',
+
     // rancheria — a Native polity or village: domed tule houses
     rancheria:
       '<path d="M3.4 18.6c0-4.6 3-7.8 6.8-7.8s6.8 3.2 6.8 7.8v1.8H3.4z"/>' +
