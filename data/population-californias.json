@@ -136,6 +136,11 @@
      "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "The 1795–96 mission estados of both Californias, received in triplicate (C-A 10), doc 21",
+     "ca_record": "ca10-d21",
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -207,6 +212,11 @@
     {
      "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Mission estados of both Californias 1795–96 (C-A 10), doc 21",
+     "ca_record": "ca10-d21",
      "ia_leaf_url": null
     }
    ],
@@ -2133,7 +2143,7 @@
    "coord_precision": "exact",
    "type": "event",
    "layer": "presidios",
-   "summary": "The capital's garrison and the seat of the Monterey jurisdiction. It is the single best-documented place in the archive — 6,123 catalog records carry Monterey as their place — yet it appears in the census series only through the province-wide tables and its own jurisdiction estados.",
+   "summary": "The capital's garrison and the seat of the Monterey jurisdiction. It is the single best-documented place in the archive — 6,123 catalog records carry Monterey as their place — yet it appears in the census series only through the province-wide tables and its own jurisdiction estados. The 1797 estado of the whole Monterey jurisdiction — presidio plus the six missions from San Carlos to San Miguel — survives as its own tabulation.",
    "series": [
     [
      "1790 Jul 1",
@@ -2173,6 +2183,11 @@
     {
      "citation": "Every row cites its own document in the Archives of California; follow the link to the catalog record.",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Estado de población de la jurisdicción del Presidio de Monterey, 1797 (C-A 50), doc 238",
+     "ca_record": "ca50-d238",
      "ia_leaf_url": null
     }
    ],
@@ -2578,6 +2593,39 @@
    "native_groups": [],
    "tags": [],
    "notes": ""
+  },
+  {
+   "id": "census-1822-independence",
+   "register_no": null,
+   "name": "The 1822 census — California counted at independence",
+   "date": {
+    "iso": "1822-04-11",
+    "display": "April 1822 (the Diputación's founding session)",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.66,
+    -121.95
+   ],
+   "coord_precision": "area",
+   "type": "event",
+   "layer": "province",
+   "symbol": "scroll",
+   "summary": "The count laid before the founding session of the Diputación: California at independence held 24,990 inhabitants — 21,196 of them 'nuevos ciudadanos,' the mission neophytes of the 20 missions, and 2,994 the four presidial companies with their women, children, and invalids. The gente de razón were a rounding error on their own province.",
+   "result": "",
+   "quote": null,
+   "sources": [
+    {
+     "citation": "Legislative Records (C-A 59), doc 4 — the founding session acta with the 1822 census",
+     "ca_record": "ca59-d4",
+     "ia_leaf_url": null
+    }
+   ],
+   "native_groups": [],
+   "tags": [
+    "census"
+   ],
+   "notes": "Corroborates the '3,000 almas' of gente de razón in C-A 46 Doc 99."
   }
  ],
  "symbol_min_zoom": 5,
