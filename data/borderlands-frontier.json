@@ -3391,7 +3391,8 @@
    "tags": [
     "nootka"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "vancouver-open-door-claim-1792",
@@ -3427,7 +3428,8 @@
    "tags": [
     "nootka"
    ],
-   "notes": "Anchored at San Francisco, the claim's named southern limit."
+   "notes": "Anchored at San Francisco, the claim's named southern limit.",
+   "symbol": "scroll"
   },
   {
    "id": "calleja-bodega-precautions-1813",
@@ -3464,7 +3466,8 @@
    "tags": [
     "russian-threat"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "san-rafael-attack-1832",

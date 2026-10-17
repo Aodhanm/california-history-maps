@@ -13,7 +13,7 @@
  ],
  "zoom": 7,
  "cite_key": "1806",
- "last_updated": "2026-07-14",
+ "last_updated": "2026-10-16",
  "layers": [
   {
    "id": "zalvidea",
@@ -71,7 +71,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-san-gabriel",
@@ -97,7 +98,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-san-juan-bautista",
@@ -123,7 +125,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-san-fernando",
@@ -149,7 +152,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "village-jonatas",
@@ -2747,5 +2751,6 @@
     }
    ]
   }
- ]
+ ],
+ "symbol_min_zoom": 6
 }

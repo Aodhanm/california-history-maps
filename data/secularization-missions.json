@@ -13,7 +13,7 @@
  ],
  "zoom": 6,
  "cite_key": "secularization",
- "last_updated": "2026-07-23",
+ "last_updated": "2026-10-16",
  "layers": [
   {
    "id": "decrees",
@@ -79,7 +79,8 @@
     "secularization",
     "decree"
    ],
-   "notes": "The proclamation's own text is not in the vault surveys; its execution is. Standard accounts date the proclamation July 1826."
+   "notes": "The proclamation's own text is not in the vault surveys; its execution is. Standard accounts date the proclamation July 1826.",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1827-land-inventory-bando",
@@ -117,7 +118,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1831-echeandia-decree",
@@ -160,7 +162,8 @@
     "secularization",
     "decree"
    ],
-   "notes": "The C-A 49 copy sits after Nov-1831 letters in the volume; the surveys flag the year for verification against Bancroft/Hutchinson."
+   "notes": "The C-A 49 copy sits after Nov-1831 letters in the volume; the surveys flag the year for verification against Bancroft/Hutchinson.",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1833-mexican-law",
@@ -198,7 +201,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1834-gomez-farias",
@@ -231,7 +235,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1834-figueroa-reglamento",
@@ -279,7 +284,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1839-alvarado-reglamento",
@@ -317,7 +323,8 @@
     "secularization",
     "decree"
    ],
-   "notes": "The standard accounts' 'Jan 17, 1839 regulation' matches neither vault instrument exactly; both are shown."
+   "notes": "The standard accounts' 'Jan 17, 1839 regulation' matches neither vault instrument exactly; both are shown.",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1840-mayordomos",
@@ -360,7 +367,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1843-micheltorena-return",
@@ -403,7 +411,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1845-pico-reglamento",
@@ -446,7 +455,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1845-mexico-suspends",
@@ -479,7 +489,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1846-sale-decree",
@@ -517,7 +528,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "dec-1846-assembly-annuls",
@@ -555,7 +567,8 @@
     "secularization",
     "decree"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "sec-san-diego",
@@ -625,7 +638,8 @@
      "C-A 63 (vault survey)"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-luis-rey",
@@ -695,7 +709,8 @@
      "C-A 51 (vault survey)"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-juan-capistrano",
@@ -755,7 +770,8 @@
      "C-A 51 Doc 161; C-A 63 Doc 508c"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-gabriel",
@@ -825,7 +841,8 @@
      "C-A 51 Doc 159"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-fernando",
@@ -895,7 +912,8 @@
      "C-A 51 Doc 161"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-buenaventura",
@@ -960,7 +978,8 @@
      "C-A 51 Doc 160"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-santa-barbara",
@@ -1025,7 +1044,8 @@
      "C-A 51 Doc 161; C-A 42 Doc 611"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-santa-ines",
@@ -1090,7 +1110,8 @@
      "C-A 51 Doc 161"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-la-purisima",
@@ -1150,7 +1171,8 @@
      "C-A 51 Doc 161"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-luis-obispo",
@@ -1210,7 +1232,8 @@
      "C-A 51 Doc 161"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-miguel",
@@ -1270,7 +1293,8 @@
      "C-A 36 Doc 107"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-antonio",
@@ -1330,7 +1354,8 @@
      "standard account"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-soledad",
@@ -1385,7 +1410,8 @@
      "C-A 51 Doc 161"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-carlos",
@@ -1435,7 +1461,8 @@
      "C-A 36 Doc 107"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-juan-bautista",
@@ -1495,7 +1522,8 @@
      "C-A 63 Doc 282"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-santa-cruz",
@@ -1555,7 +1583,8 @@
      "C-A 63 Doc 132"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-santa-clara",
@@ -1610,7 +1639,8 @@
      "C-A 63 Doc 388"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-jose",
@@ -1670,7 +1700,8 @@
      "C-A 63 Doc 388"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-dolores",
@@ -1730,7 +1761,8 @@
      "C-A 36 Doc 107"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-san-rafael",
@@ -1795,7 +1827,8 @@
      "C-A 51 Doc 149"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "sec-solano",
@@ -1845,7 +1878,8 @@
      "C-A 29 Doc 30"
     ]
    ],
-   "series_label": "Secularization record"
+   "series_label": "Secularization record",
+   "symbol": "mission"
   },
   {
    "id": "col-natalia-arrival",
@@ -2524,5 +2558,6 @@
    ],
    "notes": ""
   }
- ]
+ ],
+ "symbol_min_zoom": 5
 }

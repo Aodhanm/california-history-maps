@@ -13,7 +13,7 @@
  ],
  "zoom": 6,
  "cite_key": "native",
- "last_updated": "2026-08-22",
+ "last_updated": "2026-10-16",
  "layers": [
   {
    "id": "penutian",
@@ -227,7 +227,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chimariko",
@@ -373,7 +374,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-whilkut",
@@ -499,7 +501,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-lassik",
@@ -645,7 +648,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-wailaki",
@@ -791,7 +795,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-cahto",
@@ -905,7 +910,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-wappo",
@@ -991,7 +997,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-lake-miwok",
@@ -1121,7 +1128,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-wappo-2",
@@ -1295,7 +1303,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tataviam",
@@ -1525,7 +1534,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-cupeno",
@@ -1627,7 +1637,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tolowa",
@@ -1829,7 +1840,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-karuk",
@@ -2051,7 +2063,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-shasta",
@@ -2421,7 +2434,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-modoc",
@@ -2575,7 +2589,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-yurok",
@@ -2849,7 +2864,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-wintu",
@@ -3207,7 +3223,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chilula",
@@ -3325,7 +3342,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-wiyot",
@@ -3639,7 +3657,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-yana",
@@ -3885,7 +3904,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-nongatl",
@@ -4059,7 +4079,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-mattole",
@@ -4181,7 +4202,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-sinkyone",
@@ -4351,7 +4373,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-nomlaki",
@@ -4601,7 +4624,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-yuki",
@@ -5011,7 +5035,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-konkow",
@@ -5269,7 +5294,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-pomo",
@@ -6013,7 +6039,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-patwin",
@@ -6691,7 +6718,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations. Editorial deviation: a coastal strip on the strait's north shore (Crockett to Benicia, to about two miles inland) is assigned to the Karkin (Ohlone); Vallejo and the Suisun plain remain Patwin."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations. Editorial deviation: a coastal strip on the strait's north shore (Crockett to Benicia, to about two miles inland) is assigned to the Karkin (Ohlone); Vallejo and the Suisun plain remain Patwin.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-eastern-miwok",
@@ -7213,7 +7241,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-coast-miwok",
@@ -7967,7 +7996,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-northern-paiute",
@@ -8057,7 +8087,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-northern-valley-yokuts",
@@ -8471,7 +8502,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-eastern-miwok-2",
@@ -8745,7 +8777,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-ohlone-costanoan",
@@ -10291,7 +10324,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations. Editorial deviation at Carquinez, drawn and flagged; Vallejo and the Napa plain remain Patwin."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations. Editorial deviation at Carquinez, drawn and flagged; Vallejo and the Napa plain remain Patwin.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-owens-valley-paiute",
@@ -10609,7 +10643,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-western-shoshone",
@@ -10779,7 +10814,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-foothill-yokuts",
@@ -11221,7 +11257,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-monache",
@@ -11523,7 +11560,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-southern-valley-yokuts",
@@ -11869,7 +11907,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tubatulabal",
@@ -12183,7 +12222,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-esselen",
@@ -12349,7 +12389,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-salinan",
@@ -12735,7 +12776,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-kawaiisu",
@@ -13065,7 +13107,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chumash",
@@ -13847,7 +13890,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-kitanemuk",
@@ -14085,7 +14129,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-serrano",
@@ -14563,7 +14608,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tongva-gabrielino",
@@ -15185,7 +15231,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chumash-2",
@@ -15303,7 +15350,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chumash-3",
@@ -15469,7 +15517,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chumash-4",
@@ -15599,7 +15648,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chumash-5",
@@ -15649,7 +15699,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chumash-6",
@@ -15699,7 +15750,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-luiseno",
@@ -15901,7 +15953,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-quechan",
@@ -16199,7 +16252,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tongva-gabrielino-2",
@@ -16253,7 +16307,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tongva-gabrielino-3",
@@ -16411,7 +16466,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tipai-kumeyaay",
@@ -16813,7 +16869,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tongva-gabrielino-4",
@@ -16895,7 +16952,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-ipai-kumeyaay",
@@ -17185,7 +17243,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-tongva-gabrielino-5",
@@ -17335,7 +17394,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-achumawi",
@@ -17665,7 +17725,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-northern-paiute-2",
@@ -17823,7 +17884,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-atsugewi",
@@ -18017,7 +18079,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-maidu",
@@ -18283,7 +18346,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-washoe",
@@ -18553,7 +18617,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-nisenan",
@@ -18899,7 +18964,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-southern-paiute",
@@ -19089,7 +19155,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-chemehuevi",
@@ -19343,7 +19410,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-mohave",
@@ -19613,7 +19681,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-halchidhoma",
@@ -19927,7 +19996,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "t-cahuilla",
@@ -20305,7 +20375,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
+   "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-karkin",
@@ -20336,7 +20407,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-ramaytush",
@@ -20367,7 +20439,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-chochenyo",
@@ -20398,7 +20471,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-tamyen",
@@ -20429,7 +20503,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-awaswas",
@@ -20460,7 +20535,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-mutsun",
@@ -20491,7 +20567,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-rumsen",
@@ -20522,7 +20599,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-chalon",
@@ -20553,7 +20631,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-kashaya",
@@ -20584,7 +20663,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-southern-pomo",
@@ -20615,7 +20695,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-central-pomo",
@@ -20646,7 +20727,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-northern-pomo",
@@ -20677,7 +20759,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-eastern-pomo",
@@ -20708,7 +20791,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-southeastern-pomo",
@@ -20739,7 +20823,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-olamentko-bodega-miwok",
@@ -20770,7 +20855,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-hookooeko-marin-miwok",
@@ -20801,7 +20887,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-lekahtewutko-petaluma",
@@ -20832,7 +20919,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-suisun",
@@ -20863,7 +20951,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-napa-patwin",
@@ -20894,7 +20983,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-northern-sierra-miwok",
@@ -20925,7 +21015,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-central-sierra-miwok",
@@ -20956,7 +21047,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-southern-sierra-miwok",
@@ -20987,7 +21079,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-tachi",
@@ -21018,7 +21111,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-chowchilla",
@@ -21049,7 +21143,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-chunut",
@@ -21080,7 +21175,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-yauelmani",
@@ -21111,7 +21207,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-obispeno",
@@ -21142,7 +21239,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-purisimeno",
@@ -21173,7 +21271,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-ineseno-samala",
@@ -21204,7 +21303,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-barbareno",
@@ -21235,7 +21335,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-ventureno",
@@ -21266,7 +21367,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-island-chumash",
@@ -21297,7 +21399,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-mountain-cahuilla",
@@ -21328,7 +21431,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-desert-cahuilla",
@@ -21359,7 +21463,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "sub-pass-cahuilla",
@@ -21390,7 +21495,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory."
+   "notes": "A label, not a boundary: the position is an approximate center within the parent nation's territory.",
+   "symbol": "rancheria"
   },
   {
    "id": "arc-chumash-channel",
@@ -21420,7 +21526,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ Placed on the channel as a group. The nineteen rancherías are named individually in the manuscript; itemising and locating them requires a leaf-by-leaf read, which has not been done. This feature stands for the census, not for a single place."
+   "notes": "⚠ Placed on the channel as a group. The nineteen rancherías are named individually in the manuscript; itemising and locating them requires a leaf-by-leaf read, which has not been done. This feature stands for the census, not for a single place.",
+   "symbol": "rancheria"
   },
   {
    "id": "arc-carmel-rancherias",
@@ -21450,7 +21557,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ The ranchería names here are the mission's Spanish names for them, recorded at Carmel. Their locations are not given in the document."
+   "notes": "⚠ The ranchería names here are the mission's Spanish names for them, recorded at Carmel. Their locations are not given in the document.",
+   "symbol": "rancheria"
   },
   {
    "id": "arc-coast-miwok-san-rafael",
@@ -21480,7 +21588,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ Placed between San Rafael and Tomales Bay to span the described limits; the boundary itself is not mapped here."
+   "notes": "⚠ Placed between San Rafael and Tomales Bay to span the described limits; the boundary itself is not mapped here.",
+   "symbol": "rancheria"
   },
   {
    "id": "arc-amajaba",
@@ -21510,7 +21619,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ Placed at the Mojave villages on the Colorado. The document names the people, not a mapped location."
+   "notes": "⚠ Placed at the Mojave villages on the Colorado. The document names the people, not a mapped location.",
+   "symbol": "rancheria"
   },
   {
    "id": "arc-sespesuya",
@@ -21540,7 +21650,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CONJECTURAL. The document says only 'north of the presidio' and 'across the estero de San Francisco'. The pin marks the north bay generally and should not be read as a located site."
+   "notes": "⚠ CONJECTURAL. The document says only 'north of the presidio' and 'across the estero de San Francisco'. The pin marks the north bay generally and should not be read as a located site.",
+   "symbol": "rancheria"
   },
   {
    "id": "arc-tinoqui",
@@ -21570,7 +21681,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CONJECTURAL. Placed in the interior behind Santa Bárbara; neither ranchería's site is given in the document."
+   "notes": "⚠ CONJECTURAL. Placed in the interior behind Santa Bárbara; neither ranchería's site is given in the document.",
+   "symbol": "rancheria"
   },
   {
    "id": "arc-huilantuliyami",
@@ -21600,7 +21712,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CONJECTURAL. Placed in the San Joaquín/Tulares interior, the usual destination of Monterey-district fugitive pursuits. The document gives no location."
+   "notes": "⚠ CONJECTURAL. Placed in the San Joaquín/Tulares interior, the usual destination of Monterey-district fugitive pursuits. The document gives no location.",
+   "symbol": "rancheria"
   }
- ]
+ ],
+ "symbol_min_zoom": 5
 }

@@ -13,7 +13,7 @@
  ],
  "zoom": 7,
  "cite_key": "moraga",
- "last_updated": "2026-08-22",
+ "last_updated": "2026-10-16",
  "layers": [
   {
    "id": "r1807",
@@ -91,7 +91,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-san-fernando",
@@ -117,7 +118,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-san-jose",
@@ -143,7 +145,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-santa-clara",
@@ -169,7 +172,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-san-miguel",
@@ -195,7 +199,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-monterey-presidio",
@@ -221,7 +226,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-mission-san-rafael",
@@ -247,7 +253,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-fort-ross",
@@ -273,7 +280,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "ref-presidio-of-san-francisco",
@@ -299,7 +307,8 @@
    "tags": [
     "reference"
    ],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "label-san-jose",
@@ -3301,5 +3310,6 @@
    ],
    "ca_record": "ca25-d499"
   }
- ]
+ ],
+ "symbol_min_zoom": 6
 }

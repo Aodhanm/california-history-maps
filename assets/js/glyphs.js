@@ -159,6 +159,49 @@
       '<path fill="#fff" d="M17.6 10.4h2.4v3h-2.4zM6.4 16h3v5h-3z"/>' +
       '<path d="M18.1 2h1.4v2.6h-1.4z"/><path d="M17.2 2.9h3.2v1h-3.2z"/>',
 
+    // rancheria — a Native polity or village: domed tule houses
+    rancheria:
+      '<path d="M3.4 18.6c0-4.6 3-7.8 6.8-7.8s6.8 3.2 6.8 7.8v1.8H3.4z"/>' +
+      '<path d="M15.4 20.4v-1.2c0-3.2 2-5.4 4.6-5.4 1.4 0 2.6.6 3.4 1.7-.5 1.9-.7 3.3-.7 4.9z" transform="translate(-1.4 0)"/>' +
+      '<path fill="#fff" d="M8.6 20.4v-3.4c0-1.1.7-1.8 1.6-1.8s1.6.7 1.6 1.8v3.4z"/>',
+
+    // scroll — a decree, order, or report
+    scroll:
+      '<path d="M5.2 4.6h13.2v14.2H5.2z"/>' +
+      '<path d="M3 3.2c1.5 0 2.6 1 2.6 2.4v1H3c-1.1 0-2-.8-2-1.7S1.9 3.2 3 3.2z"/>' +
+      '<path d="M21 20.8c-1.5 0-2.6-1-2.6-2.4v-1H21c1.1 0 2 .8 2 1.7s-.9 1.7-2 1.7z"/>' +
+      '<path fill="#fff" d="M7.6 8h8.4v1.4H7.6zM7.6 11h8.4v1.4H7.6zM7.6 14h5.8v1.4H7.6z"/>',
+
+    // flame — a raid or burning
+    flame:
+      '<path d="M12.6 1.6c.6 3 2.8 4.6 4.6 6.8 1.6 2 2.6 4 2.6 6.2 0 4.4-3.4 7.8-7.8 7.8s-7.8-3.4-7.8-7.8c0-2.9 1.5-5 3.1-7 .3 1.2.9 2.1 1.9 2.8-.3-3.4.8-6.3 3.4-8.8z"/>' +
+      '<path fill="#fff" d="M12.1 20.6c-2 0-3.6-1.6-3.6-3.7 0-1.5.8-2.5 1.7-3.6.3.9.8 1.4 1.6 1.8-.2-1.6.3-3 1.4-4.2.4 1.7 1.4 2.6 2.2 3.7.6.9 1 1.6 1 2.5 0 2-1.6 3.5-4.3 3.5z"/>',
+
+    // parallel sabers, not crossed — an armed standoff without battle
+    standoff:
+      '<path d="M2.2 4.4 13.8 15l-1.5 1.6L.7 6z"/>' +
+      '<path d="M13.6 13.8l3.2 2.9-1.1 1.3-1.3-.5-.5 1.3-1.3 1.1-2.9-3.2z"/>' +
+      '<path d="M9.2 2.2 20.8 12.8l-1.5 1.6L7.7 3.8z"/>' +
+      '<path d="M20.6 11.6l3.2 2.9-1.1 1.3-1.3-.5-.5 1.3-1.3 1.1-2.9-3.2z"/>',
+
+    // beacon — a minor light or fog signal
+    beacon:
+      '<path d="M11 8h2v13h-2z"/>' +
+      '<path d="M8 21h8v1.6H8z"/>' +
+      '<path d="M9.4 3h5.2v5H9.4z"/>' +
+      '<path d="M7.9 1.6h8.2v1.2H7.9z"/>' +
+      '<path d="M4.6 4.2l3 1.2v1.4l-3 1.2zM19.4 4.2l-3 1.2v1.4l3 1.2z"/>',
+
+    // dwelling-style light: keeper's house carrying the lantern on its roof
+    lhhouse:
+      '<path d="M3 21.2v-7.8h12v7.8z"/>' +
+      '<path d="M1.8 13.8 9 8.6l7.2 5.2-1 1.4L9 10.9l-6.2 4.3z"/>' +
+      '<path fill="#fff" d="M6.6 21.2v-4h2.6v4zM10.8 15.6h2.2v2.6h-2.2z"/>' +
+      '<path d="M16.6 21.2V10.4h4.2v10.8z"/>' +
+      '<path d="M16 10.6V7.2h5.4v3.4z"/>' +
+      '<path fill="#fff" d="M17.2 8h3v1.8h-3z"/>' +
+      '<path d="M15.5 7.4h6.4v1h-6.4z"/><path d="M17.8 4.8h1.8v2.4h-1.8z"/>',
+
     // crossed sabers — a battle or armed engagement
     swords:
       '<path d="M3.2 2.6 18.6 16.4l-1.6 1.8L1.8 4.8z"/>' +

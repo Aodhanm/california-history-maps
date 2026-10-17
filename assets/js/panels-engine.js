@@ -102,6 +102,12 @@
       '<path fill="#fff" d="M17.6 10.4h2.4v3h-2.4zM6.4 16h3v5h-3z"/>' +
       '<path d="M18.1 2h1.4v2.6h-1.4z"/><path d="M17.2 2.9h3.2v1h-3.2z"/>',
 
+    // rancheria — a Native polity or village: domed tule houses
+    rancheria:
+      '<path d="M3.4 18.6c0-4.6 3-7.8 6.8-7.8s6.8 3.2 6.8 7.8v1.8H3.4z"/>' +
+      '<path d="M15.4 20.4v-1.2c0-3.2 2-5.4 4.6-5.4 1.4 0 2.6.6 3.4 1.7-.5 1.9-.7 3.3-.7 4.9z" transform="translate(-1.4 0)"/>' +
+      '<path fill="#fff" d="M8.6 20.4v-3.4c0-1.1.7-1.8 1.6-1.8s1.6.7 1.6 1.8v3.4z"/>',
+
     // longhorn, for hacienda/rancho headquarters when pointed
     longhorn:
       '<path d="M9.7 12.2c0-2.1 1-3.6 2.3-3.6s2.3 1.5 2.3 3.6c0 2.7-1 5.2-2.3 5.2s-2.3-2.5-2.3-5.2z"/>' +
@@ -218,7 +224,7 @@
       phase2: '',
       files: [
         { f: '../data/sf-bay-expeditions.json' },
-        { f: '../data/missions-establishments.json', only: ['missions'] },
+        { f: '../data/missionization-establishments.json', only: ['missions'] },
         { f: '../data/zalvidea-moraga-1806.json', only: ['moraga-north', 'moraga-south'] },
         { f: '../data/moraga-expeditions.json', off: true }
       ]

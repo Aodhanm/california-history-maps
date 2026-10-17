@@ -117,14 +117,14 @@
         The headline: in 1790 the entire Spanish population of Alta California was 910 people.</p>
       </div>
     </a>
-    <a class="card" href="maps/missions-establishments.html">
+    <a class="card" href="maps/missionization.html">
       <div class="thumb" style="background-image:url(assets/previews/missions-establishments.jpg)"></div>
       <div class="body">
-        <h3>Missions &amp; Establishments, 1769–1846</h3>
-        <p class="meta" data-count="missions-establishments">21 missions · asistencias · Ross · Sutter</p>
-        <p>Every fixed establishment of colonial California: the mission chain and its sub-stations,
-        the Russian fort, port, and farms on the Sonoma coast, and New Helvetia on the Sacramento.
-        Slide the timeline to watch the chain grow.</p>
+        <h3>Missionization &#8212; the Establishment System</h3>
+        <p class="meta">21 missions · parish chapels · pueblos · presidios · batteries · Ross · Sutter</p>
+        <p>Every fixed establishment of colonial California in pictorial symbols: the mission chain
+        and its sub-stations, the parish chapels, pueblos, presidios and batteries, the Russian
+        fort, port, and farms, and New Helvetia &#8212; founding orders from the archive on the popups.</p>
       </div>
     </a>
     <a class="card" href="maps/lighthouses.html">
@@ -202,17 +202,7 @@
         expeditions of 1769–1776, with diary citations and C-A record anchors on the routes.</p>
       </div>
     </a>
-    <a class="card" href="maps/missionization.html">
-      <div class="thumb" style="background:#d9c9a8"></div>
-      <div class="body">
-        <h3>Missionization — the Establishment System</h3>
-        <p class="meta">Missions · presidios · pueblos · batteries · outstations · Russian posts</p>
-        <p>Every establishment class in pictorial symbols, with founding orders from the C-A
-        catalog on the popups, the crown stock ranches restored, and the Russian posts under
-        the company's double-headed eagle.</p>
-      </div>
-    </a>
-    <a class="card" href="maps/ranchos-by-era.html">
+        <a class="card" href="maps/ranchos-by-era.html">
       <div class="thumb" style="background:#d8b8a8"></div>
       <div class="body">
         <h3>Ranchos by Era</h3>
@@ -301,7 +291,7 @@
 
 <script>
 (function () {
-  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "missions-establishments", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806", "lumber-ports", "lighthouses"];
+  var maps = ["native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806", "lumber-ports", "lighthouses"];
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {

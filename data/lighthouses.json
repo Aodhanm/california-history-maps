@@ -13,7 +13,7 @@
  ],
  "zoom": 7,
  "cite_key": "lighthouses",
- "last_updated": "2026-09-14",
+ "last_updated": "2026-10-16",
  "hover_labels": true,
  "layers": [
   {
@@ -209,7 +209,8 @@
     "url": "https://web.archive.org/web/20161218161356id_/http://www.uscg.mil/history/weblighthouses/stgeorgereef.JPG",
     "credit": "U.S. Coast Guard Historian's Office · undated",
     "alt": "St. George Reef Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "battery-point-light-crescent-city",
@@ -325,7 +326,8 @@
     "url": "../assets/photos/lighthouses/battery-point-light-crescent-city.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 89402) · undated",
     "alt": "Battery Point Light (Crescent City)"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "trinidad-head-light-station",
@@ -445,7 +447,8 @@
     "url": "https://web.archive.org/web/20161218161408id_/http://www.uscg.mil/history/weblighthouses/trinidadhead.JPG",
     "credit": "U.S. Coast Guard Historian's Office · undated",
     "alt": "Trinidad Head Light Station"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "table-bluff-light-station",
@@ -560,7 +563,8 @@
     "url": "../assets/photos/lighthouses/table-bluff-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 94902) · 1917",
     "alt": "Table Bluff Light Station"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "humboldt-harbor-light-1856",
@@ -682,7 +686,8 @@
     "url": "../assets/photos/lighthouses/humboldt-harbor-light-1856.jpg",
     "credit": "Photographer unknown; sourced by the uploader from the U.S. Lighthouse Society archive · 1920",
     "alt": "Humboldt Harbor Light (1856)"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "cape-mendocino-light-station",
@@ -802,7 +807,8 @@
     "url": "../assets/photos/lighthouses/cape-mendocino-light-station.jpg",
     "credit": "National Archives Photography; U.S. Lighthouse Society Lighthouse Research Catalog (node 8318) · 1912",
     "alt": "Cape Mendocino Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "punta-gorda-light-station",
@@ -923,7 +929,8 @@
     "url": "../assets/photos/lighthouses/punta-gorda-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 93749) · undated",
     "alt": "Punta Gorda Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-cabrillo-light-station",
@@ -1028,7 +1035,8 @@
     "url": "../assets/photos/lighthouses/point-cabrillo-light-station.jpg",
     "credit": "National Archives (RG 26, negative 26-LG-65-55); U.S. Lighthouse Society Lighthouse Research Catalog (node 91518) · undated (station established 1909)",
     "alt": "Point Cabrillo Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-arena-light-station",
@@ -1152,7 +1160,8 @@
     "url": "../assets/photos/lighthouses/point-arena-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 91020) · undated in the record; shows the 1870 station, destroyed by the 1906 earthquake, so pre-1906",
     "alt": "Point Arena Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-reyes-light-station",
@@ -1280,7 +1289,8 @@
     "url": "../assets/photos/lighthouses/point-reyes-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file PuntadeLosReyes002.jpg); 19th-century albumen print with mounted letterpress caption \"FIRST ORDER LIGHT-HOUSE AT PUNTA DE LOS REYES ... SEACOAST OF CALIFORNIA (U.S.)\"",
     "alt": "Point Reyes Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "farallon-islands-light-southeast-farallon",
@@ -1404,7 +1414,8 @@
     "url": "../assets/photos/lighthouses/farallon-islands-light-southeast-farallon.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file SouthFarallonIsland001.jpg); albumen print inscribed \"South Farallon Light House, Cal.\"",
     "alt": "Farallon Islands Light (Southeast Farallon)"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-montara-light-station",
@@ -1494,7 +1505,8 @@
     "url": "../assets/photos/lighthouses/point-montara-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT MONTARA LIGHTHOUSE\" (file pointmontara.JPG)",
     "alt": "Point Montara Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "pigeon-point-light-station",
@@ -1614,7 +1626,8 @@
     "url": "../assets/photos/lighthouses/pigeon-point-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"PIDGEON POINT LIGHTHOUSE\" [sic] (file pigeonpoint.JPG)",
     "alt": "Pigeon Point Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "a-o-nuevo-island-light-station",
@@ -1730,7 +1743,8 @@
     "url": "../assets/photos/lighthouses/a-o-nuevo-island-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"AÑO NUEVO ISLAND LIGHTHOUSE (1890)\" (file anonuevo2.JPG)",
     "alt": "Año Nuevo Island Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "santa-cruz-light-station",
@@ -1840,7 +1854,8 @@
     "url": "https://web.archive.org/web/20161218161408id_/http://www.uscg.mil/history/weblighthouses/santacruz.JPG",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"SANTA CRUZ LIGHTHOUSE\" (file santacruz.JPG)",
     "alt": "Santa Cruz Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-pinos-light-station",
@@ -1960,7 +1975,8 @@
     "url": "../assets/photos/lighthouses/point-pinos-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file PointPinos001.jpg); albumen print inscribed \"Point Pinos, Cal.\"",
     "alt": "Point Pinos Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-sur-light-station",
@@ -2071,7 +2087,8 @@
     "url": "../assets/photos/lighthouses/point-sur-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT SUR LIGHTHOUSE\" (file Point_Sur_1.jpg)",
     "alt": "Point Sur Light Station"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "piedras-blancas-light-station",
@@ -2181,7 +2198,8 @@
     "url": "../assets/photos/lighthouses/piedras-blancas-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"PIEDRAS BLANCAS LIGHT TOWER WITH LANTERN ROOM\" (file piedrasblancasWith.JPG)",
     "alt": "Piedras Blancas Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "san-luis-obispo-light-station-port-harford",
@@ -2282,7 +2300,8 @@
     "url": "../assets/photos/lighthouses/san-luis-obispo-light-station-port-harford.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"SAN LUIS OBISPO 'PORT HARFORD' LIGHTHOUSE\" (file sanluisobispo.JPG)",
     "alt": "San Luis Obispo Light Station (Port Harford)"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "point-arguello-light-station",
@@ -2393,7 +2412,8 @@
     "url": "../assets/photos/lighthouses/point-arguello-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection (file pointarguellooriginal.JPG)",
     "alt": "Point Arguello Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-conception-light-station",
@@ -2511,7 +2531,8 @@
     "url": "../assets/photos/lighthouses/point-conception-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"THE 1882 POINT CONCEPTION LIGHT TOWER\" (file pointconception1882.JPG)",
     "alt": "Point Conception Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "santa-barbara-light-station",
@@ -2629,7 +2650,8 @@
     "url": "https://web.archive.org/web/20161218161347id_/http://www.uscg.mil/history/weblighthouses/santabarbara.JPG",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"SANTA BARBARA LIGHTHOUSE\" (file santabarbara.JPG)",
     "alt": "Santa Barbara Light Station"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "point-hueneme-light-station",
@@ -2753,7 +2775,8 @@
     "url": "../assets/photos/lighthouses/point-hueneme-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"THE 1874 POINT HUENEME LIGHT TOWER\" (file pointhuenemeOld.JPG)",
     "alt": "Point Hueneme Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "anacapa-island-light-station",
@@ -2862,7 +2885,8 @@
     "url": "../assets/photos/lighthouses/anacapa-island-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"ANACAPA ISLAND LIGHTHOUSE\" (file anacapa.JPG)",
     "alt": "Anacapa Island Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-vicente-light-station",
@@ -2952,7 +2976,8 @@
     "url": "../assets/photos/lighthouses/point-vicente-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT VICENTE LIGHTHOUSE\" (file pointvicente.JPG)",
     "alt": "Point Vicente Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-fermin-light-station",
@@ -3076,7 +3101,8 @@
     "url": "../assets/photos/lighthouses/point-fermin-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT FERMIN LIGHTHOUSE\" (file pointfermin.JPG)",
     "alt": "Point Fermin Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "los-angeles-harbor-light-station-angels-gate",
@@ -3189,7 +3215,8 @@
     "url": "../assets/photos/lighthouses/los-angeles-harbor-light-station-angels-gate.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"LOS ANGELES HARBOR LIGHTHOUSE\" (file losangelesharbor.JPG)",
     "alt": "Los Angeles Harbor Light Station (Angels Gate)"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "ballast-point-light-station",
@@ -3300,7 +3327,8 @@
     "url": "../assets/photos/lighthouses/ballast-point-light-station.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"BALLAST POINT LIGHTHOUSE\" (file ballastpoint.JPG)",
     "alt": "Ballast Point Light Station"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "old-point-loma-lighthouse",
@@ -3414,7 +3442,8 @@
     "url": "../assets/photos/lighthouses/old-point-loma-lighthouse.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"POINT LOMA LIGHTHOUSE\" (file pointlomaOld.JPG)",
     "alt": "Old Point Loma Lighthouse"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "new-point-loma-lighthouse-point-loma-light",
@@ -3519,7 +3548,8 @@
     "url": "../assets/photos/lighthouses/new-point-loma-lighthouse-point-loma-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office, historic light-station photograph collection, \"THE NEW POINT LOMA LIGHTHOUSE (B&W)\" (file pointlomaNew.JPG)",
     "alt": "New Point Loma Lighthouse (Point Loma Light)"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "san-francisco-lightship-station",
@@ -3636,7 +3666,8 @@
     "url": "../assets/photos/lighthouses/san-francisco-lightship-station.jpg",
     "credit": "Lightship LV-70, lettered SAN FRANCISCO, off San Francisco, 4 August 1911. Photographer unknown. San Francisco Maritime National Historical Park, SAFR 21374 (San Francisco Maritime Museum collection), via NPGallery accession 1f5eebc7-3e83-4b40-8de9-05aa5559fdfc; Wikimedia Commons · 1911-08-04",
     "alt": "San Francisco Lightship Station"
-   }
+   },
+   "symbol": "lightship"
   },
   {
    "id": "blunts-reef-lightship-station",
@@ -3746,7 +3777,8 @@
      "cite": "Report of the Light-House Board, printed in the Reports of the Department of Commerce and Labor, FY1904 (Reports of the Department of Commerce and Labor, 1904; Report of the Light-House Board, Twelfth District), p. 281"
     }
    ],
-   "notes": "1905 (station index) vs 1906 (LV-83 page) establishment discrepancy flagged; settle from the Lighthouse Board AR for 1905-06. Also known as: Blunt's Reef lightship, off Cape Mendocino."
+   "notes": "1905 (station index) vs 1906 (LV-83 page) establishment discrepancy flagged; settle from the Lighthouse Board AR for 1905-06. Also known as: Blunt's Reef lightship, off Cape Mendocino.",
+   "symbol": "lightship"
   },
   {
    "id": "alcatraz-island-light",
@@ -3910,7 +3942,8 @@
     "url": "../assets/photos/lighthouses/alcatraz-island-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 88739) · undated in the record; the 1854 tower shown was demolished in 1909, so the photograph predates 1909",
     "alt": "Alcatraz Island Light"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "fort-point-light",
@@ -4044,7 +4077,8 @@
     "url": "../assets/photos/lighthouses/fort-point-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 89887) · undated",
     "alt": "Fort Point Light"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-bonita-light",
@@ -4192,7 +4226,8 @@
     "url": "../assets/photos/lighthouses/point-bonita-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 91429) · undated",
     "alt": "Point Bonita Light"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "lime-point-light-fog-signal-station",
@@ -4296,7 +4331,8 @@
     "url": "../assets/photos/lighthouses/lime-point-light-fog-signal-station.jpg",
     "credit": "National Archives (RG 26, negative 26-LG-64-59); U.S. Lighthouse Society Lighthouse Research Catalog (node 90019) · undated (the record's sibling image is dated 1891)",
     "alt": "Lime Point Light (Fog Signal Station)"
-   }
+   },
+   "symbol": "beacon"
   },
   {
    "id": "mile-rocks-light",
@@ -4413,7 +4449,8 @@
     "url": "../assets/photos/lighthouses/mile-rocks-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office · 1962",
     "alt": "Mile Rocks Light"
-   }
+   },
+   "symbol": "lighthouse"
   },
   {
    "id": "point-diablo-light",
@@ -4507,7 +4544,8 @@
     "url": "../assets/photos/lighthouses/point-diablo-light.jpg",
     "credit": "Frank Schulenburg / Wikimedia Commons · 2014-09-21 (modern view)",
     "alt": "Point Diablo Light"
-   }
+   },
+   "symbol": "beacon"
   },
   {
    "id": "yerba-buena-island-light-and-12th-district-lighthouse-depot",
@@ -4631,7 +4669,8 @@
     "url": "../assets/photos/lighthouses/yerba-buena-island-light-and-12th-district-lighthouse-depot.jpg",
     "credit": "National Archives (RG 26, negative 26-LG-67-45); U.S. Lighthouse Society Lighthouse Research Catalog (node 94980) · undated",
     "alt": "Yerba Buena Island Light (and 12th District Lighthouse Depot)"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "oakland-harbor-light",
@@ -4744,7 +4783,8 @@
     "url": "../assets/photos/lighthouses/oakland-harbor-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office · undated",
     "alt": "Oakland Harbor Light"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "southampton-shoal-light",
@@ -4871,7 +4911,8 @@
     "url": "https://web.archive.org/web/20161218161354id_/http://www.uscg.mil/history/weblighthouses/southamptonshoals.JPG",
     "credit": "U.S. Coast Guard Historian's Office · undated; Commons mirror of the same file states 'uncertain, but before 1960'",
     "alt": "Southampton Shoal Light"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "east-brother-island-light-station",
@@ -4995,7 +5036,8 @@
     "url": "../assets/photos/lighthouses/east-brother-island-light-station.jpg",
     "credit": "National Archives (RG 26, negative 26-LG-64-14b); U.S. Lighthouse Society Lighthouse Research Catalog (node 89633) · undated (station established 1874)",
     "alt": "East Brother Island Light Station"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "mare-island-light",
@@ -5169,7 +5211,8 @@
     "url": "../assets/photos/lighthouses/mare-island-light.jpg",
     "credit": "National Archives (RG 26 Lighthouse Service photographs, negative 26-LG-64a-68); copy served by the U.S. Lighthouse Society Lighthouse Research Catalog · undated (station established 1873; razed 1917)",
     "alt": "Mare Island Light"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "carquinez-strait-light",
@@ -5290,7 +5333,8 @@
     "url": "../assets/photos/lighthouses/carquinez-strait-light.jpg",
     "credit": "National Archives (RG 26, negative 26-LG-63a-70); U.S. Lighthouse Society Lighthouse Research Catalog (node 89549) · 1910 (the print is inscribed 'ph'd 23 Febr. '10')",
     "alt": "Carquinez Strait Light"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "roe-island-light",
@@ -5403,7 +5447,8 @@
     "url": "../assets/photos/lighthouses/roe-island-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 93789) · 1920",
     "alt": "Roe Island Light"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "angel-island-light-station-point-knox",
@@ -5522,7 +5567,8 @@
     "url": "../assets/photos/lighthouses/angel-island-light-station-point-knox.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog · 1946",
     "alt": "Angel Island Light Station (Point Knox)"
-   }
+   },
+   "symbol": "lhhouse"
   },
   {
    "id": "point-stuart-light",
@@ -5633,7 +5679,8 @@
     "url": "../assets/photos/lighthouses/point-stuart-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog · 1946",
     "alt": "Point Stuart Light"
-   }
+   },
+   "symbol": "beacon"
   },
   {
    "id": "point-blunt-light",
@@ -5729,7 +5776,9 @@
     "url": "../assets/photos/lighthouses/point-blunt-light.jpg",
     "credit": "U.S. Coast Guard Historian's Office; U.S. Lighthouse Society Lighthouse Research Catalog (node 91239) · 1946",
     "alt": "Point Blunt Light"
-   }
+   },
+   "symbol": "beacon"
   }
- ]
+ ],
+ "symbol_min_zoom": 5
 }

@@ -13,7 +13,7 @@
  ],
  "zoom": 6,
  "cite_key": "presidial",
- "last_updated": "2026-09-20",
+ "last_updated": "2026-10-16",
  "layers": [
   {
    "id": "presidios",
@@ -215,7 +215,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design.",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "castillo-san-joaquin-sf",
@@ -328,7 +330,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The 1793 '6 vs 2' is resolved: the leaf of C-A 14 (n101, read 2026-09-14) says 2, agreeing with C-A 15 — the 6 is a catalogue-summary defect, errata pending. The 1823 copies agree on the 3 heavy guns and disagree only on the powder figure; the earlier '2 (or 3)' note was wrong and the Doc 98 citation was a mis-reference (that record is a cadet discharge)."
+   "notes": "The 1793 '6 vs 2' is resolved: the leaf of C-A 14 (n101, read 2026-09-14) says 2, agreeing with C-A 15 — the 6 is a catalogue-summary defect, errata pending. The 1823 copies agree on the 3 heavy guns and disagree only on the powder figure; the earlier '2 (or 3)' note was wrong and the Doc 98 citation was a mis-reference (that record is a cadet discharge).",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "bateria-yerba-buena",
@@ -371,7 +375,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "presidio-monterey",
@@ -590,7 +596,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design.",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "presidio-santa-barbara",
@@ -805,7 +813,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "presidio-san-diego",
@@ -1009,7 +1019,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design.",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "fort-guijarros-sd",
@@ -1072,7 +1084,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "presidio-loreto",
@@ -1191,7 +1205,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design.",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "colony-ross",
@@ -1312,7 +1328,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "armed-mission-santa-barbara",
@@ -1350,7 +1367,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "armed-la-purisima",
@@ -1398,7 +1416,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "armed-santa-ines",
@@ -1436,7 +1455,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "armed-san-fernando",
@@ -1479,7 +1499,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "armed-san-juan-bautista",
@@ -1522,7 +1543,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "armed-pueblo-san-jose",
@@ -1585,7 +1607,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "pueblo"
   },
   {
    "id": "armed-mission-san-luis",
@@ -1623,7 +1646,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The 1798 census says 'Mission San Luis' without specifying Obispo or Rey; Obispo is the Monterey-district reading. Flagged."
+   "notes": "The 1798 census says 'Mission San Luis' without specifying Obispo or Rey; Obispo is the Monterey-district reading. Flagged.",
+   "symbol": "mission"
   },
   {
    "id": "artillery-1818",
@@ -1758,7 +1782,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Armament of the fort itself is deliberately not totalled here: the catalogue records the Russian-property purchase and the 1845 field artillery, not a fort inventory. What can be said from the record is sourced line by line above."
+   "notes": "Armament of the fort itself is deliberately not totalled here: the catalogue records the Russian-property purchase and the 1845 field artillery, not a fort inventory. What can be said from the record is sourced line by line above.",
+   "symbol": "fort",
+   "symbol_major": true
   },
   {
    "id": "armed-mission-san-gabriel",
@@ -1801,7 +1827,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "armed-pueblo-los-angeles",
@@ -1869,7 +1896,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "presidio-sonoma",
@@ -1912,7 +1940,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   },
   {
    "id": "province-force",
@@ -1960,7 +1989,8 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "scroll"
   },
   {
    "id": "san-antonio-baja",
@@ -2003,7 +2033,9 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "",
+   "symbol": "mission"
   }
- ]
+ ],
+ "symbol_min_zoom": 5
 }
