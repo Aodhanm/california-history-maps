@@ -1,0 +1,477 @@
+{
+ "id": "missionization-extras",
+ "title": "Pueblos, batteries, and missing outstations (panel prototype additions)",
+ "abstract": "Establishment classes the exhibit panels carry that the missions dataset lacked: the two civil pueblos on this canvas, the Spanish harbor batteries, and the Pacifica outstation our live data conflates with San Mateo. Battery features reuse the presidial-system map's verified text and anchors.",
+ "date_range": [
+  1769,
+  1846
+ ],
+ "layers": [
+  {
+   "id": "pueblos",
+   "label": "Pueblos (civil settlements)",
+   "color": "#5d4037"
+  },
+  {
+   "id": "defense",
+   "label": "Spanish batteries & castillos",
+   "color": "#8a1f1f"
+  },
+  {
+   "id": "outstations",
+   "label": "Outstations (additions)",
+   "color": "#355e3b"
+  },
+  {
+   "id": "royal-ranchos",
+   "label": "Ranchos del Rey (crown stock ranches)",
+   "color": "#7a5c2e"
+  },
+  {
+   "id": "presidios",
+   "label": "Presidios",
+   "color": "#8a2f2b"
+  }
+ ],
+ "features": [
+  {
+   "id": "pueblo-san-jose-1777",
+   "name": "Pueblo de San José de Guadalupe",
+   "date": {
+    "iso": "1777-11-29",
+    "display": "29 Nov 1777",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.3361,
+    -121.8905
+   ],
+   "coord_precision": "place",
+   "type": "pueblo",
+   "layer": "pueblos",
+   "summary": "The province's first civil settlement, planted by Lt. José Joaquín Moraga with fourteen families from the San Francisco and Monterey companies. Its early governance runs straight through C-A 2: the first alcalde election (Ygnacio Archuleta), the distribution of solares and suertes, and the boundary fight with Mission Santa Clara.",
+   "sources": [
+    {
+     "citation": "Founding: Bancroft, History of California I (vault full text)."
+    },
+    {
+     "citation": "First alcalde election: C-A 2 Doc 195",
+     "ca_record": "ca2-d195"
+    },
+    {
+     "citation": "Pueblo–Mission Santa Clara boundary dispute: C-A 2 Doc 240",
+     "ca_record": "ca2-d240"
+    }
+   ]
+  },
+  {
+   "id": "villa-branciforte-1797",
+   "name": "Villa de Branciforte",
+   "date": {
+    "iso": "1797",
+    "display": "1797",
+    "confidence": "year"
+   },
+   "coords": [
+    36.981,
+    -122.012
+   ],
+   "coord_precision": "place",
+   "type": "pueblo",
+   "layer": "pueblos",
+   "summary": "The third and last Spanish civil settlement, laid out across the San Lorenzo from Mission Santa Cruz for invalid-soldier colonists; under-funded from birth and a permanent irritant to the mission. The pobladores' ration appears in C-A 8 within weeks of their arrival.",
+   "sources": [
+    {
+     "citation": "Founding: Bancroft, History of California I (vault full text)."
+    },
+    {
+     "citation": "Branciforte pobladores' ration, May 1797: C-A 8 Doc 374",
+     "ca_record": "ca8-d374"
+    }
+   ]
+  },
+  {
+   "id": "x-castillo-san-joaquin-sf",
+   "name": "Castillo de San Joaquín (Fort Point, San Francisco)",
+   "date": {
+    "iso": null,
+    "display": "blessed Dec 1794",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.8107,
+    -122.477
+   ],
+   "coord_precision": "exact",
+   "type": "battery",
+   "layer": "defense",
+   "summary": "The battery at the Golden Gate narrows, blessed December 1794. Built for 6,491 pesos, partly with mission mule labor. The register's headline series: the fort's serviceable guns never exceeded a handful, and a single Russian outpost at Ross reported more mounted cannon than the whole San Francisco defense.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault); build cost C-A 24 Docs 62, 70",
+     "ca_record": "ca24-d70"
+    }
+   ]
+  },
+  {
+   "id": "x-bateria-san-jose-yb",
+   "name": "Batería de San José / de Yerba Buena (San Francisco)",
+   "date": {
+    "iso": null,
+    "display": "1797",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.8065,
+    -122.4266
+   ],
+   "coord_precision": "area",
+   "type": "battery",
+   "layer": "defense",
+   "summary": "The cove battery east of the presidio, garrisoned in the 1790s by a Catalan Volunteers detail relieved every 8 days. Ordered recomposed with adobe, earth, and fascine in 1799; abandoned by 1800 per the intelligence layer of the borderlands map.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault)"
+    }
+   ]
+  },
+  {
+   "id": "x-el-castillo-monterey",
+   "name": "El Castillo (Monterey battery)",
+   "date": {
+    "iso": "1792",
+    "display": "by 1792",
+    "confidence": "circa"
+   },
+   "coords": [
+    36.6069,
+    -121.8972
+   ],
+   "coord_precision": "place",
+   "type": "battery",
+   "layer": "defense",
+   "summary": "The capital's shore battery on the hill above the landing, described by Vancouver's 1792 visit. The leaf-verified 1795 ordnance relación counts ten bronze guns at Monterey against San Francisco's eight, the two batteries called 'construidas' and 'nuevas'.",
+   "notes": "Battery date given as circa: shown 'by 1792' on Vancouver's description; the 1795 count is AGN Californias 9, exp. 4 (read at full resolution, 2026-10).",
+   "sources": [
+    {
+     "citation": "AGN Californias 9, exp. 4, ff. 149-150 (25 July 1795), leaf-verified ordnance relación; Vancouver, Voyage of Discovery."
+    }
+   ]
+  },
+  {
+   "id": "x-fort-guijarros-sd",
+   "name": "Fort Guijarros (Punta de Guijarros, San Diego)",
+   "date": {
+    "iso": null,
+    "display": "battery manned by 1802",
+    "confidence": "exact"
+   },
+   "coords": [
+    32.6866,
+    -117.2333
+   ],
+   "coord_precision": "place",
+   "type": "battery",
+   "layer": "defense",
+   "summary": "The harbor battery on Ballast Point, formally the Castillo de San Joaquín de Punta de Guijarros. The province had two forts of that name; this is the San Diego one. In 1798 it mounted 7 six-pounders of which 2 were serviceable; the 1820 census found the bronze guns vent-worn and the carriages rotted.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault)"
+    }
+   ]
+  },
+  {
+   "id": "x-san-pedro-san-pablo-pacifica",
+   "name": "San Pedro y San Pablo outstation (San Pedro Valley, Pacifica)",
+   "date": {
+    "iso": "1786",
+    "display": "1786",
+    "confidence": "year"
+   },
+   "coords": [
+    37.5942,
+    -122.491
+   ],
+   "coord_precision": "place",
+   "type": "settlement",
+   "layer": "outstations",
+   "summary": "Mission Dolores's farm and chapel outstation in the San Pedro Valley, worked from 1786 until epidemic losses and earthquake damage ended it in the early 1790s; the Sanchez Adobe stands on the site today. Found missing from our live map by Aodhan at the exhibit.",
+   "notes": "Data correction queued: the live missions map pins one 'San Pedro y San Pablo (San Mateo)' at San Mateo Creek, conflating this Pacifica outstation with the separate San Mateo outstation. Both existed; fix goes live only after approval.",
+   "sources": [
+    {
+     "citation": "Milliken, A Time of Little Choice (1995); San Mateo County history of the Sanchez Adobe site."
+    }
+   ]
+  },
+  {
+   "id": "rancho-del-rey-buriburi",
+   "name": "Rancho del Rey at Buri Buri (San Francisco presidio)",
+   "date": {
+    "iso": "1797",
+    "display": "1797",
+    "confidence": "year"
+   },
+   "coords": [
+    37.6,
+    -122.405
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "royal-ranchos",
+   "symbol": "longhorn",
+   "summary": "The crown herd ranch of the San Francisco company, founded 1797 with corral and toril at Buri Buri between San Mateo and San Bruno, chosen for its pasture and water. Surfaced by the 2026-10-16 deep check: the royal stock ranches were missing from the establishment map entirely.",
+   "sources": [
+    {
+     "citation": "'Fundación de un Rancho' at Buriburi: C-A 9 Doc 143 (1797) (catalog-matched 2026-10-16; leaf review pending)",
+     "ca_record": "ca9-d143"
+    },
+    {
+     "citation": "Report of establishing the royal cattle ranch near San Francisco: C-A 24 Doc 584 (1797) (catalog-matched 2026-10-16; leaf review pending)",
+     "ca_record": "ca24-d584"
+    }
+   ]
+  },
+  {
+   "id": "rancho-del-rey-monterey",
+   "name": "Rancho del Rey (Monterey)",
+   "date": {
+    "iso": "1796",
+    "display": "by 1796",
+    "confidence": "circa"
+   },
+   "coords": [
+    36.68,
+    -121.64
+   ],
+   "coord_precision": "area",
+   "type": "settlement",
+   "layer": "royal-ranchos",
+   "symbol": "longhorn",
+   "summary": "The crown stock ranch of the Monterey company on the Salinas plain, supplying troop rations; its accounts run through the archive (5,794 horses and mules in the 1797 cuenta) and its herd losses to theft and want of hands became a standing complaint.",
+   "notes": "Placed on the Salinas plain (the later Rancho Nacional); exact headquarters site approximate.",
+   "sources": [
+    {
+     "citation": "Cuenta de ganados of the Rancho del Rey: C-A 16 Doc 125 (1797) (catalog-matched 2026-10-16; leaf review pending)",
+     "ca_record": "ca16-d125"
+    },
+    {
+     "citation": "Sal and Carrillo ordered to report the royal ranch's history and herd: C-A 23 Doc 1667 (1798) (catalog-matched 2026-10-16; leaf review pending)",
+     "ca_record": "ca23-d1667"
+    },
+    {
+     "citation": "Testimony on herd diminution at the King's ranch: C-A 24 Doc 843 (1798) (catalog-matched 2026-10-16; leaf review pending)",
+     "ca_record": "ca24-d843"
+    }
+   ]
+  },
+  {
+   "id": "presidio-san-francisco",
+   "name": "Presidio of San Francisco",
+   "date": {
+    "iso": null,
+    "display": "founded 1776",
+    "confidence": "exact"
+   },
+   "coords": [
+    37.7862,
+    -122.4572
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "presidios",
+   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran about 30 to 56 men for most of the Spanish period and never surged to meet the Russian arrival in 1812.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault), compiled from C-A 10, 16, 21, 54",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Neve's 'Fundación de Misiones' report names the new Presidio of San Francisco: C-A 22 Doc 170 (1777) (catalog-matched 2026-10-16; leaf review pending)",
+     "ca_record": "ca22-d170"
+    }
+   ],
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+  },
+  {
+   "id": "presidio-monterey",
+   "name": "Presidio of Monterey",
+   "date": {
+    "iso": null,
+    "display": "founded 1770",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.6002,
+    -121.8947
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "presidios",
+   "summary": "The capital's presidio and the largest company in the province, with the Real Cuerpo de Artillería headquartered here. Even so, in 1809 its ~85 men were dispersed as mission escorts and herd guards, with only 4 men on the battery.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Viceroy Croix's measures to establish the Presidio of Monterey and the missions: C-A 1 Doc 23 (12 Nov 1770)",
+     "ca_record": "ca1-d23"
+    }
+   ],
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+  },
+  {
+   "id": "presidio-santa-barbara",
+   "name": "Presidio of Santa Bárbara",
+   "date": {
+    "iso": null,
+    "display": "founded 1782",
+    "confidence": "exact"
+   },
+   "coords": [
+    34.4221,
+    -119.6989
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "presidios",
+   "summary": "Founded 1782 with about 58 men and holding near that strength for decades. In 1797 its commander reported 118 cartridges for his single six-pounder, with no artilleryman to serve it.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "presidio-san-diego",
+   "name": "Presidio of San Diego",
+   "date": {
+    "iso": null,
+    "display": "founded 1769",
+    "confidence": "exact"
+   },
+   "coords": [
+    32.7573,
+    -117.1966
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "presidios",
+   "summary": "The first presidio, founded 1769. In September 1783 the whole company held 72 cartridges. Its guns were dismounted in 1793 with nobody able to operate them.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+  },
+  {
+   "id": "presidio-loreto",
+   "name": "Presidio of Loreto (Baja California)",
+   "date": {
+    "iso": null,
+    "display": "founded 1697",
+    "confidence": "exact"
+   },
+   "coords": [
+    26.0115,
+    -111.3486
+   ],
+   "coord_precision": "exact",
+   "type": "presidio",
+   "layer": "presidios",
+   "summary": "The old Baja capital, included for context: its company (47 to 85 men plus a small marine department) was comparable to any Alta California presidio.",
+   "sources": [
+    {
+     "citation": "Presidio garrison & artillery register (vault)",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
+  },
+  {
+   "id": "presidio-sonoma",
+   "name": "Sonoma garrison (Presidio of Sonoma)",
+   "date": {
+    "iso": null,
+    "display": "1823 Aug 25",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.2946,
+    -122.4568
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "presidios",
+   "summary": "The northern frontier's last Mexican garrison: founded as the twelve-man armed escort of Mission San Francisco Solano in 1823, and after 1835 the seat of Vallejo's frontier command, absorbing what remained of the San Francisco company.",
+   "sources": [
+    {
+     "citation": "Rows cited document-by-document in the dated series",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "province-force",
+   "name": "The force of the province, counted whole",
+   "date": {
+    "iso": null,
+    "display": "1819 Jul",
+    "confidence": "exact"
+   },
+   "coords": [
+    36.596,
+    -121.899
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "presidios",
+   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure — including the allocations that existed only on paper.",
+   "sources": [
+    {
+     "citation": "Rows cited document-by-document in the dated series",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "san-antonio-baja",
+   "name": "San Antonio (Baja California) — the comandancia in the US war",
+   "date": {
+    "iso": null,
+    "display": "1847 Nov",
+    "confidence": "exact"
+   },
+   "coords": [
+    23.81,
+    -110.06
+   ],
+   "coord_precision": "exact",
+   "type": "mission",
+   "layer": "presidios",
+   "summary": "The southern comandancia militar in the Mexican-American War: a twenty-man force mustered against the invasion, thanked by the government 'por la defenza brillante', and begging powder and subsistence from Sonora.",
+   "sources": [
+    {
+     "citation": "Rows cited document-by-document in the dated series",
+     "ca_record": null,
+     "ia_leaf_url": null
+    }
+   ],
+   "notes": ""
+  }
+ ],
+ "routes": []
+}

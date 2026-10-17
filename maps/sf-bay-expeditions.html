@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>San Francisco Bay Expeditions · California History Maps</title>
+<meta name="description" content="Sea and land expeditions 1542-1776 after the Mission Dolores exhibit panel, with diary citations and C-A record anchors; plus Moraga 1806.">
+<meta property="og:title" content="San Francisco Bay Expeditions">
+<meta property="og:description" content="Sea and land expeditions 1542-1776 after the Mission Dolores exhibit panel, with diary citations and C-A record anchors; plus Moraga 1806.">
+<meta property="og:type" content="website">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="../assets/css/site.css">
+<link rel="stylesheet" href="../assets/css/panels.css">
+</head>
+<body class="map-page panels-page" data-panel="expeditions">
+<header class="site-header">
+  <a class="brand" href="../index.html">California History Maps</a>
+  <nav aria-label="Site">
+    <a href="../index.html">Maps</a>
+    <a href="../gallery/index.html">Gallery</a>
+    <a href="../index.html#about">About</a>
+    <a href="sources.html">Sources</a>
+    <a href="../index.html#data">Data</a>
+  </nav>
+</header>
+<div class="map-head">
+  <h1 id="map-title">San Francisco Bay Expeditions</h1>
+  <p class="subtitle">Sea and land, 1542-1776, after the Mission Dolores exhibit panel; every course interpretive, every anchor labeled.</p>
+</div>
+<div class="panel-note" id="panel-note"></div>
+<div class="base-controls">
+  <label><input type="checkbox" id="baylands-toggle" checked> Pre-1850 baylands (SFEI, ca. 1800)</label>
+  <label>opacity <input type="range" id="baylands-opacity" min="0" max="100" value="80" style="vertical-align:middle"></label>
+  <span id="feat-count"></span>
+</div>
+<div class="layer-boxes" id="layer-boxes"></div>
+<div id="map" role="application" aria-label="Interactive historical map"></div>
+<p class="baylands-credit">Historical baylands drawn live from the State of California (CDFW BIOS ds3201) public map service: the San Francisco Estuary Institute’s historical ecology compilation of habitats at European contact, traced largely from 1850s U.S. Coast Survey T-sheets. © SFEI; served by CDFW; not redistributed by this site. Coverage is the San Francisco Estuary.</p>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="../assets/js/panels-engine.js?v=1"></script>
+</body>
+</html>
