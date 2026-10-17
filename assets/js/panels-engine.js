@@ -256,7 +256,7 @@
   // service, SFEI historical ecology ds3201 — not redistributed by this site) ----------
   var BAYLANDS_URL = 'https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/biosds3201_fpu/FeatureServer/0/query' +
     '?where=' + encodeURIComponent("HEProject='Historical Baylands'") +
-    '&outFields=LegLabel,ClickLabel,RGB&outSR=4326&f=geojson&resultRecordCount=2000';
+    '&outFields=LegLabel,ClickLabel,RGB&outSR=4326&geometryPrecision=5&maxAllowableOffset=0.0003&f=geojson&resultRecordCount=2000';
   var baylandsLayer = null, baylandsOpacity = 0.8;
   function bayStyle(ft) {
     var fill = BAYLANDS_FILL[ft.properties.LegLabel] || '#c9d8c2';
