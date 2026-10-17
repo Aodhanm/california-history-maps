@@ -141,6 +141,11 @@
      "citation": "The 1795–96 mission estados of both Californias, received in triplicate (C-A 10), doc 21",
      "ca_record": "ca10-d21",
      "ia_leaf_url": null
+    },
+    {
+     "citation": "The census machinery itself: the Real Orden of 10 Nov 1776 with the padrón/estado format, transmitted 1783 (C-A 2), doc 231",
+     "ca_record": "ca2-d231",
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -217,6 +222,16 @@
     {
      "citation": "Mission estados of both Californias 1795–96 (C-A 10), doc 21",
      "ca_record": "ca10-d21",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "The Baja general padrón for 1784 (C-A 3), doc 159",
+     "ca_record": "ca3-d159",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "General State of the population of Antigua California, end-1785 (C-A 3), doc 314",
+     "ca_record": "ca3-d314",
      "ia_leaf_url": null
     }
    ],
@@ -341,7 +356,7 @@
    "coord_precision": "exact",
    "type": "settlement",
    "layer": "pueblos",
-   "summary": "The pueblo's whole arc in five counts: 139 souls in the 1790 province table, 148 in 1792, 274 in 1817, then the Mexican-era growth to over a thousand — with the padrones counting Indians separately, in the pueblo and on its ranchos.",
+   "summary": "The pueblo's whole arc in five counts: 139 souls in the 1790 province table, 148 in 1792, 274 in 1817, then the Mexican-era growth to over a thousand — with the padrones counting Indians separately, in the pueblo and on its ranchos. The 1790 padrón survives with its arithmetic on its face: 51 single men and 40 single women, the married couples counted pair by pair, caste by caste.",
    "series": [
     [
      "1781 Nov",
@@ -433,6 +448,11 @@
      "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Estado del número de almas, padrón of the Pueblo de la Reyna de los Ángeles, 1790 (C-A 5), doc 143",
+     "ca_record": "ca5-d143",
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -456,7 +476,7 @@
    "coord_precision": "exact",
    "type": "settlement",
    "layer": "pueblos",
-   "summary": "The third and smallest pueblo, founded 1797 across the river from Mission Santa Cruz. The 1823 padrones catch it at 128 souls, or 67 by the summer count — the two returns are shown as recorded.",
+   "summary": "The third and smallest pueblo, founded 1797 across the river from Mission Santa Cruz. The 1823 padrones catch it at 128 souls, or 67 by the summer count — the two returns are shown as recorded. The 1803 padrón counts the villa at exactly 101 souls — 16 married, 42 single — a failed colony small enough to name.",
    "series": [
     [
      "1823 Dec",
@@ -482,6 +502,11 @@
     {
      "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Padrón de los habitantes de la Villa de Branciforte, Dec 1803 — 101 almas (C-A 8), doc 473",
+     "ca_record": "ca8-d473",
      "ia_leaf_url": null
     }
    ],
@@ -669,6 +694,11 @@
      "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "The 1783 padrones of the SF presidio, Missions San Francisco & Santa Clara, and the Pueblo de San José (C-A 2), doc 302",
+     "ca_record": "ca2-d302",
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -743,6 +773,11 @@
     {
      "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Padrón de almas of the Santa Bárbara presidial jurisdiction, 1788 (C-A 4), doc 329",
+     "ca_record": "ca4-d329",
      "ia_leaf_url": null
     }
    ],
@@ -850,6 +885,11 @@
     {
      "citation": "All rows from the Archives of California survey catalogs; C-A 50 unless noted. Figures are the documents' own.",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Resumen de almas of Loreto and its missions, 1793 (C-A 6), doc 208",
+     "ca_record": "ca6-d208",
      "ia_leaf_url": null
     }
    ],

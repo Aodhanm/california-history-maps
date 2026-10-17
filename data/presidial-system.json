@@ -54,7 +54,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran about 30 to 56 men for most of the Spanish period and never surged to meet the Russian arrival in 1812. In 1794 its own inspection called it 'abierto y sin defensa ninguna' — tule-roofed houses renewed yearly, chapel and warehouses threatening ruin; the March 1831 review counts 44 men all told.",
+   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran about 30 to 56 men for most of the Spanish period and never surged to meet the Russian arrival in 1812. In 1794 its own inspection called it 'abierto y sin defensa ninguna' — tule-roofed houses renewed yearly, chapel and warehouses threatening ruin; the March 1831 review counts 44 men all told. At independence the company counted itself whole: June 1822, fuerza efectiva with the militias, 127 men, eight of them artillerymen.",
    "series": [
     [
      "1778 Dec 31",
@@ -220,6 +220,11 @@
     {
      "citation": "San Francisco company, Mar 1831 — 44 hombres (C-A 19), doc 76",
      "ca_record": "ca19-d76",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Estado de fuerza efectiva (veterana y milicias), San Francisco, 26 Jun 1822 — total 127 (C-A 18), doc 1",
+     "ca_record": "ca18-d1",
      "ia_leaf_url": null
     }
    ],
@@ -641,7 +646,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "Founded 1782 with about 58 men and holding near that strength for decades. In 1797 its commander reported 118 cartridges for his single six-pounder, with no artilleryman to serve it. Its 1788 munitions account runs the escopeta cartridges down from 3,784 to 2,634 across the year, gunflints 1,900 to 1,685 — consumption bookkeeping, round by round.",
+   "summary": "Founded 1782 with about 58 men and holding near that strength for decades. In 1797 its commander reported 118 cartridges for his single six-pounder, with no artilleryman to serve it. Its 1788 munitions account runs the escopeta cartridges down from 3,784 to 2,634 across the year, gunflints 1,900 to 1,685 — consumption bookkeeping, round by round. The Mexican-era returns continue the series: Goycoechea's November 1797 estado de la fuerza, and Ibarra's Christmas 1834 garrison return.",
    "series": [
     [
      "1781 Nov 15",
@@ -838,6 +843,16 @@
     {
      "citation": "Santa Bárbara company munitions account & estado de fuerza, 1788 (C-A 4), doc 339",
      "ca_record": "ca4-d339",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Goycoechea's revista extracts + estado de la fuerza, Nov 1797 (C-A 8), doc 467",
+     "ca_record": "ca8-d467",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Ibarra, fuerza de la guarnición de Santa Bárbara, 25 Dec 1834 (C-A 19), doc 278",
+     "ca_record": "ca19-d278",
      "ia_leaf_url": null
     }
    ],
@@ -1144,7 +1159,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The old Baja capital, included for context: its company (47 to 85 men plus a small marine department) was comparable to any Alta California presidio.",
+   "summary": "The old Baja capital, included for context: its company (47 to 85 men plus a small marine department) was comparable to any Alta California presidio. Its treasury side survives at full length: the Real Tribunal audited the 1781–82 presidio accounts, and the habilitado's nine-year cuenta general (1781–89) runs the company's money at 144,527 pesos of cargo.",
    "series": [
     [
      "1783 Jun 1",
@@ -1240,6 +1255,16 @@
     {
      "citation": "Presidio garrison & artillery register (vault)",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Reparos of the Loreto presidio accounts, 1781–82 (C-A 3), doc 236",
+     "ca_record": "ca3-d236",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Estrada's nine-year cuenta general of the Loreto caudales, 1781–89 — 144,527 pesos (C-A 5), doc 204",
+     "ca_record": "ca5-d204",
      "ia_leaf_url": null
     }
    ],
@@ -1707,7 +1732,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "forts",
-   "summary": "The province's artillery as a series: the headline is the 5 September 1818 count of every gun in California — 58 pieces by calibre and metal, 3 useless, carriages failing for want of ironwork — now paired with the manning record around it: the Real Cuerpo detachment of 1795 named man by man, the militia-gunner allocations of 1817, the 62 militia gunners counted the same day as the 58 guns, and the shrinking corps musters of 1827 and 1836.",
+   "summary": "The province's artillery as a series: the headline is the 5 September 1818 count of every gun in California — 58 pieces by calibre and metal, 3 useless, carriages failing for want of ironwork — now paired with the manning record around it: the Real Cuerpo detachment of 1795 named man by man, the militia-gunner allocations of 1817, the 62 militia gunners counted the same day as the 58 guns, and the shrinking corps musters of 1827 and 1836. The series has earlier and later rungs: in 1797 the viceroy shuffled two- and three-pounder cannon from San Miguel and Loreto to fortify the new frontier mission, and a San Diego gunner coaxed a broken 24-pounder back into service; by December 1835 the artillery company itself musters by presidio — Monterey five corporals, a drummer and eleven gunners; San Francisco one and four; Santa Bárbara one and five.",
    "series": [
     [
      "1795 Oct",
@@ -1759,6 +1784,21 @@
      "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 17) Doc 324 — province-wide artillery inventory, Monterey, 5 September 1818.",
      "ca_record": "ca17-d324",
      "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n265"
+    },
+    {
+     "citation": "Branciforte: fortify Santa Catalina with cannon from San Miguel + Loreto, Mar 1797 (C-A 8), doc 399",
+     "ca_record": "ca8-d399",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "'Compostura de un cañón' — one of the three 24-pounders repaired, Jul 1797 (C-A 10), doc 161",
+     "ca_record": "ca10-d161",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Fuerza de Artillería by presidio, 3 Dec 1835 (C-A 20), doc 241",
+     "ca_record": "ca20-d241",
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -2001,7 +2041,7 @@
    "coord_precision": "exact",
    "type": "document",
    "layer": "presidios",
-   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure — including the allocations that existed only on paper. The floor of the curve is documented twice over: in 1804 the governor, writing from Loreto, reported 'el mal estado de los Presidios y escasez de tropa'; and an 1833 muster analysis found only 35 men present in all California — the company's bulk at Santa Bárbara with Figueroa, and ten men holding the capital.",
+   "summary": "Province-wide force returns, reinforcement squadrons and musket allocations that counted Alta California's soldiery as a single figure — including the allocations that existed only on paper. The floor of the curve is documented twice over: in 1804 the governor, writing from Loreto, reported 'el mal estado de los Presidios y escasez de tropa'; and an 1833 muster analysis found only 35 men present in all California — the company's bulk at Santa Bárbara with Figueroa, and ten men holding the capital. The reinforcements came counted too: the Mazatlán squadron's 1819 detachment for Alta California boarded the Cosak as a full estado de fuerza — a captain, two lieutenants, two alféreces, sergeants, drummers, corporals and men, itemized before they sailed.",
    "series": [
     [
      "1819 Jul",
@@ -2036,6 +2076,11 @@
     {
      "citation": "Muster analysis, Sept 1833 — 35 men present in California (C-A 19), doc 221",
      "ca_record": "ca19-d221",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Estado de fuerza of the Mazatlán-squadron detachment aboard the 'Cosak' under Capt. Pablo de la Portilla, 13 Jul 1819 (C-A 13), doc 86",
+     "ca_record": "ca13-d86",
      "ia_leaf_url": null
     }
    ],
