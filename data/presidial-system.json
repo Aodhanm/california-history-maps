@@ -2039,5 +2039,33 @@
    "symbol": "mission"
   }
  ],
- "symbol_min_zoom": 5
+ "symbol_min_zoom": 5,
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "fort",
+   "label": "Presidio",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "mission",
+   "label": "Mission",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "pueblo",
+   "label": "Pueblo",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "ross",
+   "label": "Colony Ross",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "scroll",
+   "label": "Force return (document)",
+   "color": "#8a5a2b"
+  }
+ ]
 }

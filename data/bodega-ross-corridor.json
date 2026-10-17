@@ -2159,5 +2159,58 @@
    ],
    "ca_record": "ca12-d439"
   }
+ ],
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "fort",
+   "label": "Presidio of San Francisco",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "castillo",
+   "label": "Castillo de San Joaquín",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "mission",
+   "label": "Mission San Rafael",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "ross",
+   "label": "Colony Ross — the company eagle in the fort",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "anchor",
+   "label": "Port Rumiantsev (RAC port)",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "house",
+   "label": "Russian farm ranch",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "eagle",
+   "label": "Buried RAC possession plate",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "ship",
+   "label": "A vessel: visit, survey, or action",
+   "color": "#7a2e2e"
+  },
+  {
+   "symbol": "kayak",
+   "label": "Russian-Aleut baidarka party",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "swords",
+   "label": "Armed clash",
+   "color": "#7c1d1d"
+  }
  ]
 }

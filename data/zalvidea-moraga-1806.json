@@ -2752,5 +2752,13 @@
    ]
   }
  ],
- "symbol_min_zoom": 6
+ "symbol_min_zoom": 6,
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "mission",
+   "label": "Mission (reference)",
+   "color": "#6b6257"
+  }
+ ]
 }

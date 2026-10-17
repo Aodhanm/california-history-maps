@@ -232,3 +232,9 @@ body {
   font-size: 0.72rem; color: var(--ink, #14120E); }
 .legend-key .krow svg { flex: 0 0 auto; }
 @media (max-width: 640px) { .legend-key { display: none; } }
+
+/* retractable symbol key */
+.legend-key .ktoggle { cursor: pointer; user-select: none; }
+.legend-key .karr { display: inline-block; width: 0.9em; color: #8a7f72; }
+.legend-key.closed .krows { display: none; }
+.legend-key .krows { max-height: 46vh; overflow-y: auto; }

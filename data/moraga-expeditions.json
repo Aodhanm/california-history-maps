@@ -3312,5 +3312,18 @@
    "ca_record": "ca25-d499"
   }
  ],
- "symbol_min_zoom": 6
+ "symbol_min_zoom": 6,
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "mission",
+   "label": "Mission (reference)",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "ross",
+   "label": "Colony Ross",
+   "color": "#6d3fa0"
+  }
+ ]
 }

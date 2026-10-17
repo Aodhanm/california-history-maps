@@ -2559,5 +2559,18 @@
    "notes": ""
   }
  ],
- "symbol_min_zoom": 5
+ "symbol_min_zoom": 5,
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "mission",
+   "label": "Mission (handover / inventory / disposition)",
+   "color": "#2e6f40"
+  },
+  {
+   "symbol": "scroll",
+   "label": "Decree or reglamento — the legal arc",
+   "color": "#6b5b1e"
+  }
+ ]
 }

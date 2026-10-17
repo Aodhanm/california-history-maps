@@ -5780,5 +5780,28 @@
    "symbol": "beacon"
   }
  ],
- "symbol_min_zoom": 5
+ "symbol_min_zoom": 5,
+ "symbol_key_title": "Reading the stations",
+ "symbol_key": [
+  {
+   "symbol": "lighthouse",
+   "label": "Light tower",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "lhhouse",
+   "label": "Dwelling-style light — keeper's house carries the lantern",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "lightship",
+   "label": "Lightship station",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "beacon",
+   "label": "Minor light or fog signal",
+   "color": "#6b6257"
+  }
+ ]
 }

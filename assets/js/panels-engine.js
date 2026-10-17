@@ -454,7 +454,58 @@
     document.getElementById('map').classList.toggle('labels-off', map.getZoom() < 8.5);
   });
 
+  // ---------- retractable symbol key (shared look with map-engine) ----------
+  function glyphSvgStr(key, color, size) {
+    var paths = GLYPHS[key];
+    if (!paths) return '';
+    return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 28 28" width="' + size + '" height="' + size + '">' +
+      '<g fill="#fff" stroke="#fff" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round">' + paths + '</g>' +
+      '<g fill="' + color + '">' + paths + '</g></svg>';
+  }
+  function addSymbolKey(rows, title) {
+    if (!rows || !rows.length) return;
+    var ctl = L.control({ position: 'bottomleft' });
+    ctl.onAdd = function () {
+      var box = document.createElement('div');
+      box.className = 'legend-key';
+      var h = '<h4 class="ktoggle"><span class="karr">\u25be</span> ' + (title || 'What the symbols mean') + '</h4><div class="krows">';
+      rows.forEach(function (k) {
+        var g = glyphSvgStr(k[0], k[2] || '#6b6257', 22);
+        if (g) h += '<div class="krow">' + g + '<span>' + k[1] + '</span></div>';
+      });
+      box.innerHTML = h + '</div>';
+      box.querySelector('.ktoggle').addEventListener('click', function () {
+        box.classList.toggle('closed');
+        box.querySelector('.karr').textContent = box.classList.contains('closed') ? '\u25b8' : '\u25be';
+      });
+      L.DomEvent.disableClickPropagation(box);
+      return box;
+    };
+    ctl.addTo(map);
+  }
+  var SYMBOL_KEYS = {
+    missionization: [
+      ['mission','Franciscan mission','#5a3317'],
+      ['asistencia','Asistencia / estancia','#5a3317'],
+      ['house','Outstation — Spanish or Russian farm ranch','#5a3317'],
+      ['parish','Parish / presidio chapel (secular)','#7a4a1f'],
+      ['pueblo','Civil pueblo','#555'],
+      ['fort','Presidio','#8a1f1f'],
+      ['cannon','Battery / castillo','#8a1f1f'],
+      ['longhorn','Rancho del Rey (crown stock ranch)','#8a6a10'],
+      ['ross','Colony Ross — the company eagle in the fort','#6d3fa0'],
+      ['eagle','Russian-American Company post','#6d3fa0'],
+      ['sutterfort',"New Helvetia (Sutter's fort)",'#4a4a4a']
+    ],
+    expeditions: [
+      ['mission','Mission founded in the expedition era','#5a3317'],
+      ['fort','Presidio','#8a1f1f']
+    ],
+    languages: [
+      ['rancheria','Ranchería named in the colonial archive','#c0392b']
+    ]
+  };
   // ---------- boot: one page, chosen by <body data-panel> ----------
   var page = PAGES[document.body.getAttribute('data-panel')];
-  if (page) showEra(page);
+  if (page) { showEra(page); addSymbolKey(SYMBOL_KEYS[page.id], 'What the symbols mean'); }
 })();

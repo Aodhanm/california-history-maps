@@ -2580,5 +2580,28 @@
    "notes": ""
   }
  ],
- "symbol_min_zoom": 5
+ "symbol_min_zoom": 5,
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "mission",
+   "label": "Mission (counted)",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "fort",
+   "label": "Presidio (counted)",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "pueblo",
+   "label": "Pueblo (counted)",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "scroll",
+   "label": "Province-wide return",
+   "color": "#8a5a2b"
+  }
+ ]
 }

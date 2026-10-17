@@ -21716,5 +21716,13 @@
    "symbol": "rancheria"
   }
  ],
- "symbol_min_zoom": 5
+ "symbol_min_zoom": 5,
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "rancheria",
+   "label": "Ranchería named in the colonial archive",
+   "color": "#c0392b"
+  }
+ ]
 }

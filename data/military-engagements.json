@@ -8995,5 +8995,48 @@
    "symbol": "flame"
   }
  ],
- "symbol_min_zoom": 6
+ "symbol_min_zoom": 6,
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "swords",
+   "label": "Battle or revolt",
+   "color": "#7c1d1d"
+  },
+  {
+   "symbol": "flame",
+   "label": "Raid",
+   "color": "#b8860b"
+  },
+  {
+   "symbol": "standoff",
+   "label": "Armed standoff — no battle",
+   "color": "#555"
+  },
+  {
+   "symbol": "earthwork",
+   "label": "Defensive work / garrison measure",
+   "color": "#555"
+  },
+  {
+   "symbol": "mission",
+   "label": "Mission (reference)",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "fort",
+   "label": "Presidio (reference)",
+   "color": "#6b6257"
+  },
+  {
+   "symbol": "ross",
+   "label": "Colony Ross (reference)",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "pueblo",
+   "label": "Settlement (reference)",
+   "color": "#6b6257"
+  }
+ ]
 }

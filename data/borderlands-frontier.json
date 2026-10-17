@@ -3717,5 +3717,68 @@
   "opacity": 0.6,
   "attribution": "F. W. Beechey, HMS <em>Blossom</em>, 1827 · David Rumsey Map Collection",
   "note": "approximate georeferencing"
- }
+ },
+ "symbol_key_title": "What the symbols mean",
+ "symbol_key": [
+  {
+   "symbol": "fort",
+   "label": "Presidio (royal garrison)",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "castillo",
+   "label": "Castillo / shore battery",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "mission",
+   "label": "Franciscan mission",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "pueblo",
+   "label": "Civil pueblo",
+   "color": "#5a3317"
+  },
+  {
+   "symbol": "ross",
+   "label": "Colony Ross — the company eagle in the fort",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "anchor",
+   "label": "Port Rumiantsev (RAC port)",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "house",
+   "label": "Russian farm ranch",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "eagle",
+   "label": "RAC station / buried possession plate",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "ship",
+   "label": "A vessel: visit, sighting, or action",
+   "color": "#c0392b"
+  },
+  {
+   "symbol": "kayak",
+   "label": "Russian-Aleut baidarka party",
+   "color": "#6d3fa0"
+  },
+  {
+   "symbol": "swords",
+   "label": "Battle or armed engagement",
+   "color": "#7c1d1d"
+  },
+  {
+   "symbol": "scroll",
+   "label": "Decree, claim, or report",
+   "color": "#8a5a2b"
+  }
+ ]
 }

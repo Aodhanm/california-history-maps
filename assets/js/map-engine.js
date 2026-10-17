@@ -482,12 +482,16 @@
       var keyCtl = L.control({ position: 'bottomleft' });
       keyCtl.onAdd = function () {
         var box = el('div', 'legend-key');
-        var h = '<h4>' + esc(data.symbol_key_title || 'Symbols') + '</h4>';
+        var h = '<h4 class="ktoggle"><span class="karr">\u25be</span> ' + esc(data.symbol_key_title || 'Symbols') + '</h4><div class="krows">';
         data.symbol_key.forEach(function (k) {
           var g = G().svg(k.symbol, k.color || '#6b6257', { size: 22 });
           if (g) h += '<div class="krow">' + g + '<span>' + esc(k.label) + '</span></div>';
         });
-        box.innerHTML = h;
+        box.innerHTML = h + '</div>';
+        box.querySelector('.ktoggle').addEventListener('click', function () {
+          box.classList.toggle('closed');
+          box.querySelector('.karr').textContent = box.classList.contains('closed') ? '\u25b8' : '\u25be';
+        });
         L.DomEvent.disableClickPropagation(box);
         return box;
       };
