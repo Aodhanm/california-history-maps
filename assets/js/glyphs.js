@@ -299,6 +299,34 @@
       '<path d="M2.8 21V8L7 5v3.8l4-3v4.2l4.2-3.4v4.6l4.4-3.6V21z"/>',
 
     // a work surveyed, funded or begun but never armed: the trace only
+    /* ---------------- possession-acts map (2026-10-26 prototype) ---------------- */
+
+    // planted possession cross on its stone cairn (formulario arts. X-XI)
+    cross:
+      '<path d="M10.9 2h2.2v15.5h-2.2z"/>' +
+      '<path d="M5.2 5.9h13.6v2.3H5.2z"/>' +
+      '<path d="M4 22c1.4-3.6 4.2-5.6 8-5.6s6.6 2 8 5.6z"/>',
+
+    // royal crown - British claims
+    crown:
+      '<path d="M3.8 16.2 5 8l4.6 4.2L12 5.4l2.4 6.8L19 8l1.2 8.2z"/>' +
+      '<path d="M3.8 17.4h16.4v3.4H3.8z"/>' +
+      '<circle cx="5" cy="6.6" r="1.4"/><circle cx="12" cy="4" r="1.4"/><circle cx="19" cy="6.6" r="1.4"/>',
+
+    // flag on its pole - American claims (Jones 1842, Sloat 1846)
+    flagus:
+      '<path d="M4.4 3.4h1.8V22H4.4z"/>' +
+      '<circle cx="5.3" cy="2.4" r="1.3"/>' +
+      '<path d="M6.6 4.2c4.8-1.6 8.6 1.8 13.8.2l-1.4 3.4 1.4 3.6c-5.2 1.6-9-1.8-13.8-.2z"/>',
+
+    // fleur-de-lis - French claims (Laperouse 1786)
+    fleur:
+      '<path d="M12 1.8c-2.6 3.8-2.6 7.4 0 10.6 2.6-3.2 2.6-6.8 0-10.6z"/>' +
+      '<path d="M10.4 11.2C6.2 7.6 3 9.2 4 12.8c.8 2.6 3.8 3 6.8 1.4z"/>' +
+      '<path d="M13.6 11.2c4.2-3.6 7.4-2 6.4 1.6-.8 2.6-3.8 3-6.8 1.4z"/>' +
+      '<path d="M8.6 14.6h6.8v2.4H8.6z"/>' +
+      '<path d="M12 17.4c-1.6 1.8-1.6 3.2 0 4.6 1.6-1.4 1.6-2.8 0-4.6z"/>',
+
     unbuilt:
       '<path d="M19.9 4.1 16.2 12l3.7 7.9L12 16.2l-7.9 3.7L7.8 12 4.1 4.1 12 7.8z"/>'
   };

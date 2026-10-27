@@ -49,8 +49,10 @@ for path in sorted(glob.glob(os.path.join(ROOT, "data", "*.json"))):
             err(f"{name}: duplicate id {fid}")
         ids.add(fid)
         c = f.get("coords")
+        # default box = the Californias; possession-acts spans Balboa (Panama) to Unalaska
+        lat_lo, lat_hi, lon_lo, lon_hi = (5, 62, -167, -75) if name.startswith("possession-acts") else (22, 45, -127, -108)
         if (not isinstance(c, list) or len(c) != 2 or
-                not (22 <= c[0] <= 45) or not (-127 <= c[1] <= -108)):
+                not (lat_lo <= c[0] <= lat_hi) or not (lon_lo <= c[1] <= lon_hi)):
             # 22°N reaches Cabo San Lucas (Cochrane's 1822 Baja raids are registered)
             err(f"{name}: {fid} coords out of range: {c}")
         if f.get("coord_precision") not in PREC:
