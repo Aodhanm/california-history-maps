@@ -1,8 +1,8 @@
 {
  "id": "possession-acts",
  "title": "Acts of Possession on the Pacific Coast",
- "subtitle": "Balboa to Sloat, 1513–1846 — the ceremonies by which empires claimed the coast, each pinned to its manuscript",
- "abstract": "Every known formal claiming ceremony on the Pacific coast of the Americas, from Balboa wading into the Gulf of San Miguel (1513) to Sloat's flag at Monterey (1846). Spanish acts follow a prescribed legal script — by 1773 a literal fill-in-the-blanks formulario (AGN, Historia 68; trans. Servín, CHSQ 40:3): Te Deum on the beach, the proclamation 'in a loud voice' in the king's name under the 1493 Alexandrine bull, sword-cut branches and moved stones 'without encountering opposition,' a cross planted on a cairn with a duplicate of the notarized act sealed in a bottle beneath it. Rival empires answered with their own legal theaters: England's consent-and-plate (Drake 1579), Russia's buried plates and double eagles and a signed treaty with the Kashaya (1817), America's proclamation by conquest. Every pinned act is documented in its manuscripts or scholarly editions; candidates whose attestation remains secondhand or contested are held back in the research files rather than mapped. Census compiled from Servín (1961, 1963), Wagner (PHR 1938; CHSQ 1924-30), Bolton, Engelhardt, Beals, Howay, Orth, PARES/AGI, AGN, AHN and LC records; 78 entries, each carrying its archival signature and published text.",
+ "subtitle": "Claiming ceremonies on the Pacific coast from Balboa to Sloat, 1513 to 1846, with the manuscript record for every act",
+ "abstract": "Every documented claiming ceremony on the Pacific coast of the Americas, from Balboa wading into the Gulf of San Miguel in 1513 to Sloat's flag at Monterey in 1846. Spanish acts followed a prescribed legal script. By 1773 it was literally a fill-in-the-blanks form, the viceregal formulario (AGN, Historia 68; trans. Servín, CHSQ 40:3): the Te Deum on the beach, a proclamation 'in a loud voice' in the king's name under the bull of 1493, branches cut and stones moved 'without encountering opposition,' a cross planted on a cairn with a duplicate of the notarized act sealed in a bottle beneath it. Rival empires answered with their own legal theaters: England with consent ceremonies and an engraved plate, Russia with buried plates, a double-headed eagle, and a signed record of Kashaya consent, the United States with proclamation by conquest. Every pinned act is documented in its manuscripts or scholarly editions; candidates whose attestation remains secondhand or contested are held back in the research files rather than mapped. Census compiled from Servín (1961, 1963), Wagner (PHR 1938; CHSQ 1924-1930), Bolton, Engelhardt, Beals, Howay, Orth, and the AGI, AGN, AHN and Library of Congress records; each entry carries its archival signature and published text.",
  "date_range": [
   1513,
   1846
@@ -79,7 +79,7 @@
    "label": "Status/cluster"
   }
  ],
- "legend_note": "Ceremonies sharing one shore carry small display offsets, noted per entry with the documented coordinates. Documented but unlocatable, so not pinned: Iturbi (Cardona pearl expedition), gulf coast of Baja California, c. 1615 (Servín n.30; AGI Guadalajara 133; Patronato 20, N.5, R.18); Porter y Casanate, \"various unknown ports\" of the Gulf, 1648–49 (AGI Guadalajara 134); two further 1788 Martínez–Haro anchorages (AHN Estado 4289). Entries whose attestation remains secondhand or contested are held in the research files pending verification rather than mapped.",
+ "legend_note": "Ceremonies sharing one shore carry small display offsets, noted per entry with the documented coordinates. Documented but unlocatable, so not pinned: Iturbi (Cardona pearl expedition), gulf coast of Baja California, c. 1615 (Servín n.30; AGI Guadalajara 133; Patronato 20, N.5, R.18); Porter y Casanate, 'various unknown ports' of the Gulf, 1648-49 (AGI Guadalajara 134); two further 1788 Martínez-Haro anchorages (AHN Estado 4289). Entries whose attestation remains secondhand or contested are held in the research files pending verification rather than mapped.",
  "features": [
   {
    "id": "1513-09-29-toma-de-posesion-of-the-mar-del-sur-a",
@@ -117,7 +117,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -144,7 +144,7 @@
      "url": null
     },
     {
-     "citation": "Pedro Mártir de Anglería, De Orbe Novo, Década III (first printed 1516) — Early description based on letters and returning participants; no act text",
+     "citation": "Pedro Mártir de Anglería, De Orbe Novo, Década III (first printed 1516). Early description based on letters and returning participants; no act text",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -177,7 +177,7 @@
   },
   {
    "id": "1515-unv-pearl-islands-isla-rica-isla-del-rey-gu",
-   "name": "Pearl Islands — Isla Rica (Balboa's name), renamed Isla de Flores by Morales; today Isla del Rey",
+   "name": "Pearl Islands. Isla Rica (Balboa's name), renamed Isla de Flores by Morales; today Isla del Rey",
    "date": {
     "iso": "1515",
     "display": "1515 (year per Oviedo; the island-by-island itinerary is undocumented)",
@@ -192,7 +192,7 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Gaspar de Morales, sent by Pedrarias with Francisco Pizarro, took repeated notarized possession of the Pearl Islands — autos before the escribano, testimonios drawn — in the name of the Crown and of Pedrarias: an explicit counter-claim to Balboa's act of 1513. Oviedo mentions no cross or standard; the instrument was the notary's record itself.",
+   "summary": "Gaspar de Morales, sent by Pedrarias with Francisco Pizarro, took repeated notarized possession of the Pearl Islands; autos before the escribano, testimonios drawn; in the name of the Crown and of Pedrarias: an explicit counter-claim to Balboa's act of 1513. Oviedo mentions no cross or standard; the instrument was the notary's record itself.",
    "result": "sovereign-act",
    "facts": [
     [
@@ -221,7 +221,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Oviedo, Historia general y natural de las Indias, ed. Amador de los Rios, t. III (Madrid, 1853), lib. XXIX, cap. X, p. 49 — notarized possessions at the Pearl Islands, renaming as Isla de Flores",
+     "citation": "Oviedo, Historia general y natural de las Indias, ed. Amador de los Rios, t. III (Madrid, 1853), lib. XXIX, cap. X, p. 49; notarized possessions at the Pearl Islands, renaming as Isla de Flores",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historiageneraly03fern"
@@ -242,7 +242,7 @@
   },
   {
    "id": "1533-dece-revillagigedo-islands-isla-santo-tomas",
-   "name": "Revillagigedo Islands (Isla Santo Tomás = Socorro), Pacific off Mexico — edge of the censu",
+   "name": "Revillagigedo Islands (Isla Santo Tomás = Socorro), Pacific off Mexico; edge of the censu",
    "date": {
     "iso": "1533-12-26",
     "display": "26 Dec 1533 (anchored Christmas Day; act the following afternoon)",
@@ -257,7 +257,7 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Grijalva's San Lázaro expedition anchored on Christmas Day 1533; the captain took possession in person the following afternoon on Isla Santo Tomás (Socorro) — a cross planted with a parchment escrito recording the arrival. No notary is named: the record is the expedition derrotero, preserved in a Muñoz copy. The act covered Santo Tomás alone; the northern islets were merely named Los Inocentes.",
+   "summary": "Grijalva's San Lázaro expedition anchored on Christmas Day 1533; the captain took possession in person the following afternoon on Isla Santo Tomás (Socorro); a cross planted with a parchment escrito recording the arrival. No notary is named: the record is the expedition derrotero, preserved in a Muñoz copy. The act covered Santo Tomás alone; the northern islets were merely named Los Inocentes.",
    "result": "sovereign-act",
    "facts": [
     [
@@ -275,13 +275,13 @@
    ],
    "sources": [
     {
-     "citation": "Servín, 'Symbolic Acts of Sovereignty in Spanish California,' SCQ 45:2 (1963), 110 — his census's first row; vault: 02 Source Material/servin-symbolic-acts-sovereignty-1963.md (pdftotext-verified PDF in vault)",
+     "citation": "Servín, 'Symbolic Acts of Sovereignty in Spanish California,' SCQ 45:2 (1963), 110; his census's first row; vault: 02 Source Material/servin-symbolic-acts-sovereignty-1963.md (pdftotext-verified PDF in vault)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Relacion de la jornada que hizo a descubrir en la Mar del Sur el Capitan Hernando de Grijalva... 1533, in Buckingham Smith, Coleccion de varios documentos para la historia de la Florida y tierras adyacentes (London, 1857), pp. 165-172 (possession and cross at pp. 166-167); also printed in CDI, 1st ser., t. XIV (Madrid, 1870), pp. 128-142 (per Bancroft NMS I, 45 n.23 — CDI printing not independently checked today)",
+     "citation": "Relacion de la jornada que hizo a descubrir en la Mar del Sur el Capitan Hernando de Grijalva... 1533, in Buckingham Smith, Coleccion de varios documentos para la historia de la Florida y tierras adyacentes (London, 1857), pp. 165-172 (possession and cross at pp. 166-167); also printed in CDI, 1st ser., t. XIV (Madrid, 1870), pp. 128-142 (per Bancroft NMS I, 45 n.23. CDI printing not independently checked today)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/coleccindevari01smituoft"
@@ -390,13 +390,13 @@
      "url": "https://archive.org/details/annalsofspanishn01oakhrich"
     },
     {
-     "citation": "W. Michael Mathes, The Conquistador in California: 1535. The Voyage of Fernando Cortés to Baja California in Chronicles and Documents, Baja California Travels Series 31 (Los Angeles: Dawson's Book Shop, 1973), section 'The act of possession and discovery' (123 pp. total; exact pages not verified) — FULL ENGLISH TRANSLATION of the act of p",
+     "citation": "W. Michael Mathes, The Conquistador in California: 1535. The Voyage of Fernando Cortés to Baja California in Chronicles and Documents, Baja California Travels Series 31 (Los Angeles: Dawson's Book Shop, 1973), section 'The act of possession and discovery' (123 pp. total; exact pages not verified). FULL ENGLISH TRANSLATION of the act of p",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://search.worldcat.org/title/641868"
     },
     {
-     "citation": "Colección de documentos inéditos... de América y Oceanía (Pacheco-Cárdenas-Torres de Mendoza, 1st series) - commonly stated to print the 1535 auto in tomo IV (Madrid, 1865); PAGES NOT VERIFIED: tomo IV could not be located online this session — Spanish text (attribution to tomo IV unconfirmed; see negatives)",
+     "citation": "Colección de documentos inéditos... de América y Oceanía (Pacheco-Cárdenas-Torres de Mendoza, 1st series) - commonly stated to print the 1535 auto in tomo IV (Madrid, 1865); PAGES NOT VERIFIED: tomo IV could not be located online this session. Spanish text (attribution to tomo IV unconfirmed; see negatives)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://catalog.hathitrust.org/Record/008646614"
@@ -450,7 +450,7 @@
      "url": null
     },
     {
-     "citation": "H. R. Wagner, Spanish Voyages to the Northwest Coast (1929), ch. I, translation of Ulloa's relación by Irene A. Wright at pp. 15-50; the seven actas at pp. 46-49; notes pp. 297-318 — FULL ENGLISH TRANSLATION of all the actas de posesión and the relación",
+     "citation": "H. R. Wagner, Spanish Voyages to the Northwest Coast (1929), ch. I, translation of Ulloa's relación by Irene A. Wright at pp. 15-50; the seven actas at pp. 46-49; notes pp. 297-318. FULL ENGLISH TRANSLATION of all the actas de posesión and the relación",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -576,7 +576,7 @@
      "url": null
     },
     {
-     "citation": "Wagner, Spanish Voyages (1929), p. 47 (acta translation); notes 62-63 p. 307 — Full acta in English translation",
+     "citation": "Wagner, Spanish Voyages (1929), p. 47 (acta translation); notes 62-63 p. 307. Full acta in English translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -630,7 +630,7 @@
      "url": null
     },
     {
-     "citation": "Wagner, Spanish Voyages (1929), p. 48 (acta translation); note 73 p. 308 — Full acta in English translation",
+     "citation": "Wagner, Spanish Voyages (1929), p. 48 (acta translation); note 73 p. 308. Full acta in English translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -684,7 +684,7 @@
      "url": null
     },
     {
-     "citation": "Wagner, Spanish Voyages (1929), p. 48 (acta translation); note 24 (Punta Tosco identification) — Full acta in English translation",
+     "citation": "Wagner, Spanish Voyages (1929), p. 48 (acta translation); note 24 (Punta Tosco identification). Full acta in English translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -738,7 +738,7 @@
      "url": null
     },
     {
-     "citation": "Wagner, Spanish Voyages (1929), pp. 48-49 (acta translation); note 138 p. 313 — Full acta in English translation",
+     "citation": "Wagner, Spanish Voyages (1929), pp. 48-49 (acta translation); note 138 p. 313. Full acta in English translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -792,7 +792,7 @@
      "url": null
     },
     {
-     "citation": "Buckingham Smith, Colección de varios documentos para la historia de la Florida y tierras adyacentes (London, 1857), pp. 173-189 — First printing of the FULL SPANISH TEXT (from the Navarrete copy)",
+     "citation": "Buckingham Smith, Colección de varios documentos para la historia de la Florida y tierras adyacentes (London, 1857), pp. 173-189. First printing of the FULL SPANISH TEXT (from the Navarrete copy)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/coleccindevari01smituoft"
@@ -804,7 +804,7 @@
      "url": null
     },
     {
-     "citation": "Alexander S. Taylor, The First Voyage to the Coast of California... by Cabrillo and Ferrelo (San Francisco, 1853) — First (defective) English translation",
+     "citation": "Alexander S. Taylor, The First Voyage to the Coast of California... by Cabrillo and Ferrelo (San Francisco, 1853). First (defective) English translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/discoveryofcalif00taylrich"
@@ -816,13 +816,13 @@
      "url": "https://archive.org/details/reportuponunited07whee"
     },
     {
-     "citation": "H. E. Bolton, Spanish Exploration in the Southwest, 1542-1706 (New York: Scribner's, 1916), pp. 13-39 — FULL ENGLISH TRANSLATION (revised from Evans)",
+     "citation": "H. E. Bolton, Spanish Exploration in the Southwest, 1542-1706 (New York: Scribner's, 1916), pp. 13-39. FULL ENGLISH TRANSLATION (revised from Evans)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishexplora00bolt"
     },
     {
-     "citation": "Wagner, Spanish Voyages (1929), ch. IV, translation pp. 79-93; bibliographical note p. 319; notes pp. 329-335; Appendix No. VIII, facsimile of the relación, pp. 450-463; Herrera's derivative account translated at pp. 426-430 — FULL ENGLISH TRANSLATION with facsimile of the manuscript",
+     "citation": "Wagner, Spanish Voyages (1929), ch. IV, translation pp. 79-93; bibliographical note p. 319; notes pp. 329-335; Appendix No. VIII, facsimile of the relación, pp. 450-463; Herrera's derivative account translated at pp. 426-430. FULL ENGLISH TRANSLATION with facsimile of the manuscript",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -861,7 +861,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -876,7 +876,7 @@
      "url": null
     },
     {
-     "citation": "Same editions as the Puerto de la Posesión entry: Smith 1857, 173-189; CDI XIV, 165-191; Evans/Henshaw 1879, 293-314; Bolton 1916, 13-39; Wagner 1929, 79-93 (this passage at pp. 83-84, note 64 p. 331) — Full text/translation of the relación including this one-line possession notice",
+     "citation": "Same editions as the Puerto de la Posesión entry: Smith 1857, 173-189; CDI XIV, 165-191; Evans/Henshaw 1879, 293-314; Bolton 1916, 13-39; Wagner 1929, 79-93 (this passage at pp. 83-84, note 64 p. 331). Full text/translation of the relación including this one-line possession notice",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -926,7 +926,7 @@
      "url": null
     },
     {
-     "citation": "Same editions; Wagner 1929 passage at p. 84, note 66 p. 331 — Full text/translation including the possession notice",
+     "citation": "Same editions; Wagner 1929 passage at p. 84, note 66 p. 331. Full text/translation including the possession notice",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -965,7 +965,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -980,7 +980,7 @@
      "url": null
     },
     {
-     "citation": "Same editions; Wagner 1929 passage at p. 86, note 77 p. 332 — Full text/translation including the possession notice",
+     "citation": "Same editions; Wagner 1929 passage at p. 86, note 77 p. 332. Full text/translation including the possession notice",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -1030,7 +1030,7 @@
      "url": null
     },
     {
-     "citation": "Same editions; Wagner 1929 pp. 86-87 (naming), p. 89 ff. (wintering and death), analysis p. 74, note 90 p. 333 — Full text/translation; the act itself is attested only by the toponym",
+     "citation": "Same editions; Wagner 1929 pp. 86-87 (naming), p. 89 ff. (wintering and death), analysis p. 74, note 90 p. 333. Full text/translation; the act itself is attested only by the toponym",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -1073,7 +1073,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -1082,13 +1082,13 @@
    ],
    "sources": [
     {
-     "citation": "Vaux (ed.), The World Encompassed (Hakluyt Soc. XVI, 1854), 225-26; Hakluyt 1589 — the possession passage",
+     "citation": "Vaux (ed.), The World Encompassed (Hakluyt Soc. XVI, 1854), 225-26; Hakluyt 1589; the possession passage",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Bolton, \"Francis Drake's Plate of Brass,\" CHSQ 16:2 (1937) — the plate — PROVEN HOAX 1977; cite only historiographically",
+     "citation": "Bolton, \"Francis Drake's Plate of Brass,\" CHSQ 16:2 (1937); the plate. PROVEN HOAX 1977; cite only historiographically",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1100,7 +1100,7 @@
      "url": "https://archive.org/details/worldencompassed16drak"
     },
     {
-     "citation": "The Plate of Brass Reexamined: A Report (Berkeley: Bancroft Library, 1977) — the metallurgical proof of the hoax",
+     "citation": "The Plate of Brass Reexamined: A Report (Berkeley: Bancroft Library, 1977); the metallurgical proof of the hoax",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/plateofbrassreex00banc"
@@ -1139,7 +1139,7 @@
     ],
     [
      "Ceremony",
-     "cross planted · branches cut · proclamation in King Philip’s name \"in due legal form\" before the elected alcalde Diego Vázquez Mexía acting as justicia — NO notary; narrative record only"
+     "cross planted · branches cut · proclamation in King Philip’s name \"in due legal form\" before the elected alcalde Diego Vázquez Mexía acting as justicia. NO notary; narrative record only"
     ],
     [
      "Class",
@@ -1147,7 +1147,7 @@
     ],
     [
      "Native presence",
-     "five people fled the first landing; confrontation 19 Oct; the 20 Oct fight killed one Spaniard and one Luzon Indian. No source names the people — \"Northern (Obispeño) Chumash\" is a modern inference from location"
+     "five people fled the first landing; confrontation 19 Oct; the 20 Oct fight killed one Spaniard and one Luzon Indian. No source names the people; \"Northern (Obispeño) Chumash\" is a modern inference from location"
     ]
    ],
    "sources": [
@@ -1158,7 +1158,7 @@
      "url": null
     },
     {
-     "citation": "H. R. Wagner, 'The Voyage of Pedro de Unamuno to California in 1587', California Historical Society Quarterly 2:2 (July 1923), pp. 140-160 — FULL ENGLISH TRANSLATION of the relación, including the complete possession pass",
+     "citation": "H. R. Wagner, 'The Voyage of Pedro de Unamuno to California in 1587', California Historical Society Quarterly 2:2 (July 1923), pp. 140-160. FULL ENGLISH TRANSLATION of the relación, including the complete possession pass",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.jstor.org/stable/25177703"
@@ -1176,18 +1176,18 @@
      "url": "https://www.jstor.org/stable/25177703"
     },
     {
-     "citation": "Henry R. Wagner, Spanish Voyages to the Northwest Coast of America in the Sixteenth Century, CHS Special Publication 4 (San Francisco, 1929), ch. 'The Voyage of Pedro de Unamuno,' pp. 139-153 (possession passage at pp. 143-144); facsimile of the Unamuno account, appendix X, pp. 481-504 — English translation (revised Wright text) + facsimi",
+     "citation": "Henry R. Wagner, Spanish Voyages to the Northwest Coast of America in the Sixteenth Century, CHS Special Publication 4 (San Francisco, 1929), ch. 'The Voyage of Pedro de Unamuno,' pp. 139-153 (possession passage at pp. 143-144); facsimile of the Unamuno account, appendix X, pp. 481-504. English translation (revised Wright text) + facsimi",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
     },
     {
-     "citation": "AGI, Patronato, Leg. 25 (R.32 per Servín 1963 n.27) — the 1587 certified copy (Antonio de Castro, \"cotejado\"; Wagner’s old signature 1-1-3/25); a second 1587 copy at old 58-3-10; Muñoz transcript RAH Madrid vol. 38. PARES unconfirmed (rate-limited)",
+     "citation": "AGI, Patronato, Leg. 25 (R.32 per Servín 1963 n.27); the 1587 certified copy (Antonio de Castro, \"cotejado\"; Wagner’s old signature 1-1-3/25); a second 1587 copy at old 58-3-10; Muñoz transcript RAH Madrid vol. 38. PARES unconfirmed (rate-limited)",
      "ca_record": null,
      "ia_leaf_url": null
     },
     {
-     "citation": "Wagner (trans. Irene A. Wright), \"The Voyage of Pedro de Unamuno to California in 1587,\" CHSQ 2:2 (Jul 1923), 140–60 — open copy",
+     "citation": "Wagner (trans. Irene A. Wright), \"The Voyage of Pedro de Unamuno to California in 1587,\" CHSQ 2:2 (Jul 1923), 140–60; open copy",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/california-history_1923-07_2_2"
@@ -1230,7 +1230,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -1263,7 +1263,7 @@
      "url": "https://www.jstor.org/stable/25613599"
     },
     {
-     "citation": "Wagner, Spanish Voyages (1929), ch. IX, pp. 154-167 (translation incl. the Declaración, possession passage at p. 158); Appendix No. XI, FACSIMILE of the Declaración of Cermeño, pp. 505-532; bibliographical note p. 368 — Translation plus photographic facsimile of the Declaración",
+     "citation": "Wagner, Spanish Voyages (1929), ch. IX, pp. 154-167 (translation incl. the Declaración, possession passage at p. 158); Appendix No. XI, FACSIMILE of the Declaración of Cermeño, pp. 505-532; bibliographical note p. 368. Translation plus photographic facsimile of the Declaración",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -1287,7 +1287,7 @@
      "url": "https://estudiosamericanos.revistas.csic.es/index.php/estudiosamericanos/article/download/9/7/7"
     },
     {
-     "citation": "C. E. Chapman, article on the Cermeño voyage, Southwestern Historical Quarterly (January 1920); substance in his History of California: The Spanish Period (1921), ch. X — First extended notice; description only",
+     "citation": "C. E. Chapman, article on the Cermeño voyage, Southwestern Historical Quarterly (January 1920); substance in his History of California: The Spanish Period (1921), ch. X. First extended notice; description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1330,7 +1330,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -1339,7 +1339,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 20 (Parte 2), Ramo 17 — 'Relación del descubrimiento de las Californias por el capitán Sebastián Vizcaíno' (12 pp., dated 16 April 1598) and 'Copia de la Relación de Sebastián Vizcaíno de 1598, con notaciones al margen' (17 pp.); same ramo holds",
+     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 20 (Parte 2), Ramo 17; 'Relación del descubrimiento de las Californias por el capitán Sebastián Vizcaíno' (12 pp., dated 16 April 1598) and 'Copia de la Relación de Sebastián Vizcaíno de 1598, con notaciones al margen' (17 pp.); same ramo holds",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://library.unm.edu/cswr/docs/nmarchives/FindingAids/mss841patronato.pdf"
@@ -1369,13 +1369,13 @@
      "url": "http://www.archivohistoricobcs.com.mx/files/libros/pdf/IMPORTANCIA_DE_CABO_SAN_LUCAS_R.pdf"
     },
     {
-     "citation": "W. Michael Mathes, Californiana I: Documentos para la historia de la demarcación comercial de California, 1583-1632, 2 vols. (Madrid: José Porrúa Turanzas, 1965) — INFERRED to print the 1596-98 relaciones in full with AGI signatures (Mathes's quoted texts derive from this corpus); doc/page not verified — Full Spanish texts (INFERRED)",
+     "citation": "W. Michael Mathes, Californiana I: Documentos para la historia de la demarcación comercial de California, 1583-1632, 2 vols. (Madrid: José Porrúa Turanzas, 1965). INFERRED to print the 1596-98 relaciones in full with AGI signatures (Mathes's quoted texts derive from this corpus); doc/page not verified. Full Spanish texts (INFERRED)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "George Butler Griffin, 'Documents from the Sutro Collection', Publications of the Historical Society of Southern California II.1 (Los Angeles, 1891), 5-73 — translates the related 1596-97 correspondence (Monterrey letter 29 Feb 1596; Vizcaíno letter 27 Feb 1597; First Memorial), NOT the relación with the possession passage — Translations",
+     "citation": "George Butler Griffin, 'Documents from the Sutro Collection', Publications of the Historical Society of Southern California II.1 (Los Angeles, 1891), 5-73; translates the related 1596-97 correspondence (Monterrey letter 29 Feb 1596; Vizcaíno letter 27 Feb 1597; First Memorial), NOT the relación with the possession passage. Translations",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/cihm_15070"
@@ -1423,7 +1423,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Same relaciones as the San Felipe act: Patronato, Legajo 20 (Parte 2), Ramo 17; Wagner old pressmark 141-1-1 [unknown — PARES endpoint unreachable at check (429)]",
+     "citation": "Archivo General de Indias, Seville, Same relaciones as the San Felipe act: Patronato, Legajo 20 (Parte 2), Ramo 17; Wagner old pressmark 141-1-1 [unknown. PARES endpoint unreachable at check (429)]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1441,7 +1441,7 @@
      "url": "http://www.archivohistoricobcs.com.mx/files/libros/pdf/IMPORTANCIA_DE_CABO_SAN_LUCAS_R.pdf"
     },
     {
-     "citation": "Carrasco y Guisasola, Documentos (1882), doc. no. 14 — Full Spanish text of the relación covering the La Paz episode; pages not establi",
+     "citation": "Carrasco y Guisasola, Documentos (1882), doc. no. 14. Full Spanish text of the relación covering the La Paz episode; pages not establi",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1456,7 +1456,7 @@
   },
   {
    "id": "1598-04-30-la-toma-possession-of-the-kingdoms-an",
-   "name": "La Toma — possession of the kingdoms and provinces of New Mexico (OFF-MAP COMPARANDUM: inland, Rio Grande)",
+   "name": "La Toma: possession of the kingdoms and provinces of New Mexico (off-mAP COMPARANDUM: inland, Rio Grande)",
    "date": {
     "iso": "1598-04-30",
     "display": "1598-04-30 (Feast of the Ascension)",
@@ -1476,7 +1476,7 @@
    "facts": [
     [
      "Actors",
-     "Don Juan de Oñate (governor and captain-general, read and executed the act); Fray Alonso Martínez (Franciscan commissary; mass and sermon) with the Franciscans — the testimonio names ten friars as witnesses; Juan Pérez d"
+     "Don Juan de Oñate (governor and captain-general, read and executed the act); Fray Alonso Martínez (Franciscan commissary; mass and sermon) with the Franciscans; the testimonio names ten friars as witnesses; Juan Pérez d"
     ],
     [
      "Ceremony",
@@ -1489,31 +1489,31 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 22, Ramo 13 — 'Testimonio de la toma de posesión de las provincias de Nuevo México por el gobernador don Juan de Oñate en nombre del Rey Felipe II', 30 April 1598, 7 pp., naming the ten friar-witnesses; same ramo holds the obediencias y vasallaje",
+     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 22, Ramo 13; 'Testimonio de la toma de posesión de las provincias de Nuevo México por el gobernador don Juan de Oñate en nombre del Rey Felipe II', 30 April 1598, 7 pp., naming the ten friar-witnesses; same ramo holds the obediencias y vasallaje",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://library.unm.edu/cswr/docs/nmarchives/FindingAids/mss841patronato.pdf"
     },
     {
-     "citation": "'Treslado de la posesión que en nombre de Su Magestad tomó Don Juan de Oñate, de los Reynos y Provincias de la Nueva México...', in Pacheco & Cárdenas, Colección de documentos inéditos... de América y Oceanía (CDI, 1.ª serie), XVI (Madrid, 1871), 88-141 (act of 30 April 1598 at the head, followed by the acts of obedience and vassalage) —",
+     "citation": "'Treslado de la posesión que en nombre de Su Magestad tomó Don Juan de Oñate, de los Reynos y Provincias de la Nueva México...', in Pacheco & Cárdenas, Colección de documentos inéditos... de América y Oceanía (CDI, 1.ª serie), XVI (Madrid, 1871), 88-141 (act of 30 April 1598 at the head, followed by the acts of obedience and vassalage) , ",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Gaspar Pérez de Villagrá, Historia de la Nueva México (Alcalá de Henares, 1610), fols. 114-132 — the prose act inserted at Canto XIV ('DE COMO SE TOMO Y APREHENDIO LA POSSESION DE LA NUEVA TIERRA'); reprinted Mexico: Museo Nacional, 1900 (ed. González Obregón), digitized by the Library of Congress; modern bilingual ed. M. Encinias, A. Rod",
+     "citation": "Gaspar Pérez de Villagrá, Historia de la Nueva México (Alcalá de Henares, 1610), fols. 114-132; the prose act inserted at Canto XIV ('DE COMO SE TOMO Y APREHENDIO LA POSSESION DE LA NUEVA TIERRA'); reprinted Mexico: Museo Nacional, 1900 (ed. González Obregón), digitized by the Library of Congress; modern bilingual ed. M. Encinias, A. Rod",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.loc.gov/item/04000234"
     },
     {
-     "citation": "George P. Hammond & Agapito Rey, Don Juan de Oñate, Colonizer of New Mexico, 1595-1628 (Albuquerque: UNM Press, 1953), vol. I — act of taking possession of New Mexico, 30 April 1598; the possession formula at I, 334-335 (page anchor verified via J. P. Sánchez, 'Villagrá's Historia and the Itinerario', n.30; full span commonly cited as I,",
+     "citation": "George P. Hammond & Agapito Rey, Don Juan de Oñate, Colonizer of New Mexico, 1595-1628 (Albuquerque: UNM Press, 1953), vol. I; act of taking possession of New Mexico, 30 April 1598; the possession formula at I, 334-335 (page anchor verified via J. P. Sánchez, 'Villagrá's Historia and the Itinerario', n.30; full span commonly cited as I,",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://institutofranklin.net/sites/default/files/revistas/%5B2020-11/JosephSanchez.pdf"
     },
     {
-     "citation": "Itinerario ('Discurso de las jornadas que hizo el Campo de Su Magestad...'), CDI XVI, 228-276 (La Toma noticed at p. 242); trans. Hammond & Rey, Oñate, I — Contemporary description of the ceremony (diary form)",
+     "citation": "Itinerario ('Discurso de las jornadas que hizo el Campo de Su Magestad...'), CDI XVI, 228-276 (La Toma noticed at p. 242); trans. Hammond & Rey, Oñate, I. Contemporary description of the ceremony (diary form)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1536,11 +1536,11 @@
     "off-map-comparandum",
     "vizcaino"
    ],
-   "notes": "FLAG: off-map inland comparandum only, per tasking. A second, ecclesiastical act — Oñate's delivery of possession of the provinces to the Franciscans, 8/9 Sept 1598 at San Juan de los Caballeros — survives separately ('Relación de cómo los Padres de San Francisco se encargaron...', AGI, transcript i"
+   "notes": "Off-map inland comparandum, kept for comparison with the coastal acts. A second, ecclesiastical act. Oñate's delivery of possession of the provinces to the Franciscans, 8/9 Sept 1598 at San Juan de los Caballeros; survives separately ('Relación de cómo los Padres de San Francisco se encargaron...', AGI, transcript i"
   },
   {
    "id": "1602-11-10-puerto-de-san-diego-naming-mass-of-th",
-   "name": "Puerto de San Diego (naming; mass of the feast of San Diego — NO act of possession)",
+   "name": "Puerto de San Diego (naming; mass of the feast of San Diego. NO act of possession)",
    "date": {
     "iso": "1602-11-10",
     "display": "1602-11-10 (arrival) and 1602-11-12 (mass per the diary; Bol",
@@ -1555,7 +1555,7 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "A hut was built ashore and mass was said 'in celebration of the feast of Señor San Diego', after which the general held a council on refitting; the bay (Cabrillo's San Miguel) was renamed San Diego. The official diary records NO act of possession, no standard, no notarial instrument — a mass and a naming only.",
+   "summary": "A hut was built ashore and mass was said 'in celebration of the feast of Señor San Diego', after which the general held a council on refitting; the bay (Cabrillo's San Miguel) was renamed San Diego. The official diary records NO act of possession, no standard, no notarial instrument; a mass and a naming only.",
    "result": "naming-only",
    "facts": [
     [
@@ -1573,19 +1573,19 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 372 — certified copy ('Corregido con el libro original de Su Magd...') of the expedition diary, authenticated in Mexico City 8 Dec 1603 by escribano mayor Diego de Santiago; begins 'Reynando el rrey don Phelipe nuestro señor...' [not di",
+     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 372; certified copy ('Corregido con el libro original de Su Magd...') of the expedition diary, authenticated in Mexico City 8 Dec 1603 by escribano mayor Diego de Santiago; begins 'Reynando el rrey don Phelipe nuestro señor...' [not di",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 25, N.10 — Conde de Monterrey's instructions to Vizcaíno, Mexico, 18 March 1602 (demarcation only; no mandate to take possession or settle), and Monterrey's letter to the king, 31 May 1602 [unknown]",
+     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 25, N.10. Conde de Monterrey's instructions to Vizcaíno, Mexico, 18 March 1602 (demarcation only; no mandate to take possession or settle), and Monterrey's letter to the king, 31 May 1602 [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Newberry Library, Chicago, VAULT Ayer MS 1038 — Fray Antonio de la Ascensión, 'Relación de la jornada que hizo el general Sevastián Vizcayno al descubrimiento de las Californias el año de 1602' (quarto, 248 pp., last 11 pp. autograph, signed; dated by ArchiveGrid 12 Oct 1620, by Wagner c. 1611) [not",
+     "citation": "Newberry Library, Chicago, VAULT Ayer MS 1038. Fray Antonio de la Ascensión, 'Relación de la jornada que hizo el general Sevastián Vizcayno al descubrimiento de las Californias el año de 1602' (quarto, 248 pp., last 11 pp. autograph, signed; dated by ArchiveGrid 12 Oct 1620, by Wagner c. 1611) [not",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1597,7 +1597,7 @@
      "url": "https://archive.org/details/spanishexplorati00bolt"
     },
     {
-     "citation": "Carrasco y Guisasola, Documentos referentes al reconocimiento de las costas de las Californias (Madrid, 1882): diary pp. 68-107; Libro Diario (juntas) pp. 109-148; Derrotero of Palacios pp. 149-172 — Full Spanish texts of the diary, the junta records, and the sailing directions",
+     "citation": "Carrasco y Guisasola, Documentos referentes al reconocimiento de las costas de las Californias (Madrid, 1882): diary pp. 68-107; Libro Diario (juntas) pp. 109-148; Derrotero of Palacios pp. 149-172. Full Spanish texts of the diary, the junta records, and the sailing directions",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1609,13 +1609,13 @@
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Henry R. Wagner, Spanish Voyages to the Northwest Coast (1929), ch. XI 'Father Antonio de la Ascension's Account of the Voyage of Sebastian Vizcaino', pp. 180-272 (translation of Ayer MS 1038); notes pp. 377-379 — Full English translation of Ascensión's long account; San Diego: mass and naming",
+     "citation": "Henry R. Wagner, Spanish Voyages to the Northwest Coast (1929), ch. XI 'Father Antonio de la Ascension's Account of the Voyage of Sebastian Vizcaino', pp. 180-272 (translation of Ayer MS 1038); notes pp. 377-379. Full English translation of Ascensión's long account; San Diego: mass and naming",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
     },
     {
-     "citation": "Juan de Torquemada, Monarquía Indiana (Seville, 1615), I, lib. V; 1723 Barcia ed. I, 693-725 (reprinted in Venegas/Burriel, Noticia de la California, Madrid 1757, III, 22-139) — Near-verbatim early printed derivative of Ascensión's account; description only",
+     "citation": "Juan de Torquemada, Monarquía Indiana (Seville, 1615), I, lib. V; 1723 Barcia ed. I, 693-725 (reprinted in Venegas/Burriel, Noticia de la California, Madrid 1757, III, 22-139). Near-verbatim early printed derivative of Ascensión's account; description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/torquemada-monarquia-indiana-vol-2-bk-4-5-leon-portilla"
@@ -1626,11 +1626,11 @@
     "naming-only",
     "vizcaino"
    ],
-   "notes": "Entered to answer the tasking's 'San Diego — possession? mass?': the primary record shows mass only. Any modern claim of a 1602 possession at San Diego is unsupported by the diary, the Libro Diario, or Ascensión."
+   "notes": "the primary record shows mass only. Any modern claim of a 1602 possession at San Diego is unsupported by the diary, the Libro Diario, or Ascensión."
   },
   {
    "id": "1602-12-16-puerto-de-monterey-naming-in-honor-of",
-   "name": "Puerto de Monterey (naming in honor of Viceroy Conde de Monterrey; mass under the great oak — NO act of possession recorded)",
+   "name": "Puerto de Monterey (naming in honor of Viceroy Conde de Monterrey; mass under the great oak. NO act of possession recorded)",
    "date": {
     "iso": "1602-12-16",
     "display": "1602-12-16 (anchored 7 p.m.) and 1602-12-17 (landing, hut/ar",
@@ -1663,25 +1663,25 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 372 — certified copy of the expedition diary (chaps. 13-14 cover Monterey), Mexico, 8 Dec 1603, escribano Diego de Santiago [not digitized so far as found (PARES endpoint 429 at check)]",
+     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 372; certified copy of the expedition diary (chaps. 13-14 cover Monterey), Mexico, 8 Dec 1603, escribano Diego de Santiago [not digitized so far as found (PARES endpoint 429 at check)]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Archivo General de Indias, Seville, Audiencia de Guadalajara, Legajo 133 — Vizcaíno to the king/Council, 'deste puerto de Monterey a 28 de diziembre de 1602' (reports discoveries; no possession) [unknown]",
+     "citation": "Archivo General de Indias, Seville, Audiencia de Guadalajara, Legajo 133. Vizcaíno to the king/Council, 'deste puerto de Monterey a 28 de diziembre de 1602' (reports discoveries; no possession) [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Biblioteca Nacional de España, Madrid, MS 3042 — Fray Antonio de la Ascensión, 'Relación breve en que se da noticia del descubrimiento...' (1620), which states the three Carmelites had been designated so the commissary might 'tomar la posesión del Reyno de las Californias' in the king's name — an em",
+     "citation": "Biblioteca Nacional de España, Madrid, MS 3042. Fray Antonio de la Ascensión, 'Relación breve en que se da noticia del descubrimiento...' (1620), which states the three Carmelites had been designated so the commissary might 'tomar la posesión del Reyno de las Californias' in the king's name; an em",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Newberry Library, Chicago, VAULT Ayer MS 1038 — Ascensión's long Relación (the base of Torquemada and of Wagner's ch. XI translation) [not digitized so far as found]",
+     "citation": "Newberry Library, Chicago, VAULT Ayer MS 1038. Ascensión's long Relación (the base of Torquemada and of Wagner's ch. XI translation) [not digitized so far as found]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1693,13 +1693,13 @@
      "url": null
     },
     {
-     "citation": "Bolton, Spanish Exploration in the Southwest (1916), diary pp. 52-103 — Monterey at pp. 91-93; Ascensión's Relación breve translated at pp. 104-134",
+     "citation": "Bolton, Spanish Exploration in the Southwest (1916), diary pp. 52-103. Monterey at pp. 91-93; Ascensión's Relación breve translated at pp. 104-134",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishexplorati00bolt"
     },
     {
-     "citation": "Carrasco y Guisasola, Documentos (1882): diary pp. 68-107 (Monterey chapters); Libro Diario pp. 109-148 (junta of 16 Dec at pp. 128-129); Derrotero p. 169 (description of the bay) — Full Spanish texts",
+     "citation": "Carrasco y Guisasola, Documentos (1882): diary pp. 68-107 (Monterey chapters); Libro Diario pp. 109-148 (junta of 16 Dec at pp. 128-129); Derrotero p. 169 (description of the bay). Full Spanish texts",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1723,7 +1723,7 @@
      "url": null
     },
     {
-     "citation": "Torquemada, Monarquía Indiana (1615) I, lib. V (1723 ed. I, 693-725) — Early printed description derived from Ascensión",
+     "citation": "Torquemada, Monarquía Indiana (1615) I, lib. V (1723 ed. I, 693-725). Early printed description derived from Ascensión",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/torquemada-monarquia-indiana-vol-2-bk-4-5-leon-portilla"
@@ -1738,7 +1738,7 @@
   },
   {
    "id": "1605-01-25-port-at-the-mouth-of-the-colorado-riv",
-   "name": "Oñate at the Colorado mouth — \"Port of the Conversion of San Pablo\"",
+   "name": "Oñate at the Colorado mouth; \"Port of the Conversion of San Pablo\"",
    "date": {
     "iso": "1605-01-25",
     "display": "1605-01-25 (day of the Conversion of St. Paul)",
@@ -1753,12 +1753,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Oñate's overland party reached the head of the Gulf and took possession at the river mouth he named the Port of the Conversion of San Pablo (25 Jan 1605, the feast of the Conversion). The record is Zárate Salmerón's Relaciones (1626), a compilation from expedition reports — no escribano is named, so the ceremony's detail is limited to the quoted statement.",
+   "summary": "Oñate's overland party reached the head of the Gulf and took possession at the river mouth he named the Port of the Conversion of San Pablo (25 Jan 1605, the feast of the Conversion). The record is Zárate Salmerón's Relaciones (1626), a compilation from expedition reports; no escribano is named, so the ceremony's detail is limited to the quoted statement.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
-     "Juan de Oñate — 'took possession of this port in the name of his Majesty, and gave possession in his Majesty's name to the Father Commissary, Fray Francisco de Escobar'"
+     "Juan de Oñate; 'took possession of this port in the name of his Majesty, and gave possession in his Majesty's name to the Father Commissary, Fray Francisco de Escobar'"
     ],
     [
      "Class",
@@ -1767,13 +1767,13 @@
    ],
    "sources": [
     {
-     "citation": "Zárate Salmerón, Relaciones §§54-55, trans. Bolton, Spanish Exploration in the Southwest, 1542-1706 (1916), 277-78 — verified verbatim in IA full text today. Same geography as Ulloa 1539 and Alarcón 1540, both already in the census",
+     "citation": "Zárate Salmerón, Relaciones §§54-55, trans. Bolton, Spanish Exploration in the Southwest, 1542-1706 (1916), 277-78; verified verbatim in IA full text today. Same geography as Ulloa 1539 and Alarcón 1540, both already in the census",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "H. E. Bolton, Spanish Exploration in the Southwest, 1542-1706 (1916), pp. 268-280 ('The Journey of Oñate to California by Land, [Zárate, 1626]'), possession at pp. 277-78 — full text verified on IA",
+     "citation": "H. E. Bolton, Spanish Exploration in the Southwest, 1542-1706 (1916), pp. 268-280 ('The Journey of Oñate to California by Land, [Zárate, 1626]'), possession at pp. 277-78; full text verified on IA",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishexplora00bolt"
@@ -1823,7 +1823,7 @@
    ],
    "sources": [
     {
-     "citation": "Engelhardt, Missions and Missionaries I, 65 (verified in IA full text today); Bolton, Kino's Historical Memoir I, 39-40; Servín 1963 n.32 (⚠ Servín's quote says vivas 'for Charles III' — king in 1683 was Carlos II, check Bolton before quoting)",
+     "citation": "Engelhardt, Missions and Missionaries I, 65 (verified in IA full text today); Bolton, Kino's Historical Memoir I, 39-40; Servín 1963 n.32 (⚠ Servín's quote says vivas 'for Charles III'; king in 1683 was Carlos II, check Bolton before quoting)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1840,7 +1840,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Francisco Javier Alegre, Historia de la Compania de Jesus en Nueva-Espana, t. III (Mexico, 1842), 43-45 — the printed text of Atondo's formal act (lead per Bolton n.24; not read today)",
+     "citation": "Francisco Javier Alegre, Historia de la Compania de Jesus en Nueva-Espana, t. III (Mexico, 1842), 43-45; the printed text of Atondo's formal act (lead per Bolton n.24; not read today)",
      "ca_record": null,
      "ia_leaf_url": null
     },
@@ -1855,7 +1855,7 @@
     "sovereign-act",
     "census"
    ],
-   "notes": "Pin offset ~4–6 km for display (site overlaps its neighbors); documented site = 24.16, -110.31. | Vivas were for CARLOS II (Bolton, Kino I:39-40) — Servín 1963 prints \"Charles III,\" a misprint; never quote it."
+   "notes": "Pin offset ~4–6 km for display (site overlaps its neighbors); documented site = 24.16, -110.31. | Vivas were for CARLOS II (Bolton, Kino I:39-40). Servín 1963 prints \"Charles III,\" a misprint; never quote it."
   },
   {
    "id": "1683-10-l-san-bruno-gulf-coast-c-26-5n-north-of-",
@@ -1879,7 +1879,7 @@
    "facts": [
     [
      "Actors",
-     "Atondo ('Otondo took formal possession of the land in the name of the king' — Engelhardt)"
+     "Atondo ('Otondo took formal possession of the land in the name of the king'. Engelhardt)"
     ],
     [
      "Class",
@@ -1888,13 +1888,13 @@
    ],
    "sources": [
     {
-     "citation": "Engelhardt I (verified in IA full text today, the San Bruno founding passage); Venegas, Noticia de la California (Madrid, 1757), pte. II, 219–20 (= I, 165 of the 1944 Mexico ed., per Servín n.33); Servín 1963 nn.33-34 — Servín: the last act before Loreto 1697",
+     "citation": "Engelhardt I (verified in IA full text today, the San Bruno founding passage); Venegas, Noticia de la California (Madrid, 1757), pte. II, 219–20 (= I, 165 of the 1944 Mexico ed., per Servín n.33); Servín 1963 nn.33-34. Servín: the last act before Loreto 1697",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Miguel Venegas, Noticia de la California, y de su conquista temporal, y espiritual, t. I (Madrid, 1757), pte. II, pp. 219-220 — landing 6 Oct, naming for the feast, possession 'con las acostumbradas ceremonias'",
+     "citation": "Miguel Venegas, Noticia de la California, y de su conquista temporal, y espiritual, t. I (Madrid, 1757), pte. II, pp. 219-220; landing 6 Oct, naming for the feast, possession 'con las acostumbradas ceremonias'",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/noticiadelacalif01vene_0"
@@ -1920,10 +1920,10 @@
   },
   {
    "id": "1697-10-19-loreto-concho-bahia-de-san-dionisio-b",
-   "name": "Loreto (Conchó), Bahía de San Dionisio, Baja California Sur — founding of the mission and ",
+   "name": "Loreto (Conchó), Bahía de San Dionisio, Baja California Sur; founding of the mission and ",
    "date": {
     "iso": "1697-10-19",
-    "display": "19 Oct 1697 landing and procession; 25 Oct the formal possession — the mission’s official founding date",
+    "display": "19 Oct 1697 landing and procession; 25 Oct the formal possession; the mission’s official founding date",
     "confidence": "exact"
    },
    "coords": [
@@ -1949,7 +1949,7 @@
    ],
    "sources": [
     {
-     "citation": "Engelhardt I, 77 and 430 (quoting Palóu, Noticias I) — both passages verified in IA full text today",
+     "citation": "Engelhardt I, 77 and 430 (quoting Palóu, Noticias I); both passages verified in IA full text today",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1989,7 +1989,7 @@
    "facts": [
     [
      "Actors",
-     "Gaspar de Portolá — Palóu: 'on the morning of the feast of Pentecost Portolá took solemn possession of the country in the name of the Spanish king'; Serra founded the mission the same morning"
+     "Gaspar de Portolá. Palóu: 'on the morning of the feast of Pentecost Portolá took solemn possession of the country in the name of the Spanish king'; Serra founded the mission the same morning"
     ],
     [
      "Class",
@@ -1998,7 +1998,7 @@
    ],
    "sources": [
     {
-     "citation": "Palóu, Vida cap. xv, 69-70 and Noticias I cap. viii, quoted in Engelhardt I, 357-58 — verified in IA full text today. A sovereign-possession act proper, not just a founding; clear omission",
+     "citation": "Palóu, Vida cap. xv, 69-70 and Noticias I cap. viii, quoted in Engelhardt I, 357-58; verified in IA full text today. A sovereign-possession act proper, not just a founding; clear omission",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -2068,38 +2068,38 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville — Audiencia de Guadalajara, legajo 417 (Chapman's old signature 104-3-3), AGI, Guadalajara, 417 ('Expediente relativo a la expedición a los puertos de San Diego y Monterrey, en California...'); certified copy of the possession instrument/oath, 3 pp., enclosed with",
+     "citation": "Archivo General de Indias, Seville. Audiencia de Guadalajara, legajo 417 (Chapman's old signature 104-3-3), AGI, Guadalajara, 417 ('Expediente relativo a la expedición a los puertos de San Diego y Monterrey, en California...'); certified copy of the possession instrument/oath, 3 pp., enclosed with",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/344862",
      "link_note": "PARES record id unconfirmed"
     },
     {
-     "citation": "Archivo General de la Nación, Mexico City — Ramo Californias, AGN, Californias, vol. 76 as numbered in 1913 ('Correspondencia, 1759 a 1773'): 'Autos of possession at Monterrey, by Portolá, Pérez, Pino, and Fages. June 3, June 11, 1770', filed as enclosures to the viceroy–Portolá correspondence (Port",
+     "citation": "Archivo General de la Nación, Mexico City. Ramo Californias, AGN, Californias, vol. 76 as numbered in 1913 ('Correspondencia, 1759 a 1773'): 'Autos of possession at Monterrey, by Portolá, Pérez, Pino, and Fages. June 3, June 11, 1770', filed as enclosures to the viceroy–Portolá correspondence (Port",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/guidetomaterials00bolt"
     },
     {
-     "citation": "Archivo General de la Nación, Mexico City — Ramo Californias (modern numbering), AGN, Californias, vol. 66, exp. 52, ff. 114-115v: Fages and Costansó to Viceroy Croix, 'Puerto de San Carlos Monterey', 13 June 1770, reporting the arrival at Monterey (eyewitness report accompanying the possession disp",
+     "citation": "Archivo General de la Nación, Mexico City. Ramo Californias (modern numbering), AGN, Californias, vol. 66, exp. 52, ff. 114-115v: Fages and Costansó to Viceroy Croix, 'Puerto de San Carlos Monterey', 13 June 1770, reporting the arrival at Monterey (eyewitness report accompanying the possession disp",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://repositorio.agn.gob.mx/api/description/417d3b6e-87dd-440c-a13c-a6ea357819da"
     },
     {
-     "citation": "Archivo General de la Nación, Mexico City — Ramo Historia, AGN, Historia, tomo 396: original of Costansó's field diary of the expedition (per Teggart, APCH II no. 4 introduction); Sutro Library, San Francisco, holds contemporary copies of the Costansó and Vila diaries [not digitized]",
+     "citation": "Archivo General de la Nación, Mexico City. Ramo Historia, AGN, Historia, tomo 396: original of Costansó's field diary of the expedition (per Teggart, APCH II no. 4 introduction); Sutro Library, San Francisco, holds contemporary copies of the Costansó and Vila diaries [not digitized]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/portolaexpeditio02cost"
     },
     {
-     "citation": "Estracto de noticias del Puerto de Monterrey, de la Mission, y Presidio que se han establecido en él con la denominación de San Carlos... (México: Imprenta del Superior Gobierno, 16 Aug 1770), 8 pp. — the official printed account (two 1770 editions exist)",
+     "citation": "Estracto de noticias del Puerto de Monterrey, de la Mission, y Presidio que se han establecido en él con la denominación de San Carlos... (México: Imprenta del Superior Gobierno, 16 Aug 1770), 8 pp.; the official printed account (two 1770 editions exist)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/estractodenotici00imprrich"
     },
     {
-     "citation": "'The Official Account of the Portolá Expedition of 1769-1770', Publications of the Academy of Pacific Coast History, vol. 1, no. 2 (Berkeley, 1909) — facsimile, Spanish text and English translation of the Estracto; possession passage at pp. 22-23 (Spanish p. 22, translation p. 23)",
+     "citation": "'The Official Account of the Portolá Expedition of 1769-1770', Publications of the Academy of Pacific Coast History, vol. 1, no. 2 (Berkeley, 1909); facsimile, Spanish text and English translation of the Estracto; possession passage at pp. 22-23 (Spanish p. 22, translation p. 23)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/publicationsofac01acad"
@@ -2117,7 +2117,7 @@
      "url": "https://archive.org/details/historicalmemoir0000fray"
     },
     {
-     "citation": "Serra to Fr. Juan Andrés (guardian of San Fernando), Monterey, 12 June 1770 — trans. Antonine Tibesar, Writings of Junípero Serra (Washington: Academy of American Franciscan History, 1955), vol. I; ceremony passage at 1:169 (page as cited in K. Cherry, 'Serra and Sacred Song at the Founding of California's First Missions', Cal Poly); Serr",
+     "citation": "Serra to Fr. Juan Andrés (guardian of San Fernando), Monterey, 12 June 1770; trans. Antonine Tibesar, Writings of Junípero Serra (Washington: Academy of American Franciscan History, 1955), vol. I; ceremony passage at 1:169 (page as cited in K. Cherry, 'Serra and Sacred Song at the Founding of California's First Missions', Cal Poly); Serr",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015019766065"
@@ -2129,7 +2129,7 @@
      "url": "https://archive.org/details/publicationsofac01acad"
     },
     {
-     "citation": "Engelhardt, The Missions and Missionaries of California, vol. II (San Francisco, 1912), act of possession at pp. 76-77 — open full text",
+     "citation": "Engelhardt, The Missions and Missionaries of California, vol. II (San Francisco, 1912), act of possession at pp. 76-77; open full text",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/missionsmissiona02enge"
@@ -2203,13 +2203,13 @@
      "link_note": "digitized (PARES)"
     },
     {
-     "citation": "Fray Benito de la Sierra, 'Fray Benito de la Sierra's Account of the Hezeta Expedition to the Northwest Coast in 1775', ed. H. R. Wagner, trans. A. J. Baker, California Historical Society Quarterly 9, no. 3 (Sept 1930): 201-242, Trinidad ceremony at 219-220 — translation of eyewitness diary; full ceremony description (not the act text)",
+     "citation": "Fray Benito de la Sierra, 'Fray Benito de la Sierra's Account of the Hezeta Expedition to the Northwest Coast in 1775', ed. H. R. Wagner, trans. A. J. Baker, California Historical Society Quarterly 9, no. 3 (Sept 1930): 201-242, Trinidad ceremony at 219-220; translation of eyewitness diary; full ceremony description (not the act text)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "[F. A. Mourelle], 'Journal of a Voyage in 1775...', in Daines Barrington, Miscellanies (London: J. Nichols, 1781), journal at ca. 471-534, Trinidad possession at 483-484 — contemporary English translation of Mourelle's journal; eyewitness description o",
+     "citation": "[F. A. Mourelle], 'Journal of a Voyage in 1775...', in Daines Barrington, Miscellanies (London: J. Nichols, 1781), journal at ca. 471-534, Trinidad possession at 483-484; contemporary English translation of Mourelle's journal; eyewitness description o",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/miscellanies00barr"
@@ -2251,7 +2251,7 @@
    "name": "Rada de Bucareli (anchorage; point named Punta de los Martires)",
    "date": {
     "iso": "1775-07-14",
-    "display": "14 July 1775 (the eyewitness diaries — Sierra, Mourelle — are unanimous; a 12 July date in some modern summaries is unsupported)",
+    "display": "14 July 1775 (the eyewitness diaries. Sierra, Mourelle; are unanimous; a 12 July date in some modern summaries is unsupported)",
     "confidence": "exact"
    },
    "coords": [
@@ -2276,7 +2276,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -2298,7 +2298,7 @@
      "url": null
     },
     {
-     "citation": "Sierra diary, CHSQ 9:3 (1930): 227-228 — eyewitness translation; ceremony and naming 'Rada de Bucareli', observed 47 deg",
+     "citation": "Sierra diary, CHSQ 9:3 (1930): 227-228; eyewitness translation; ceremony and naming 'Rada de Bucareli', observed 47 deg",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -2316,7 +2316,7 @@
      "url": "https://archive.org/details/miscellanies00barr"
     },
     {
-     "citation": "Beals, For Honor and Country (1985) — full translation of Hezeta's diary covering the 14 July act; pages unverified",
+     "citation": "Beals, For Honor and Country (1985); full translation of Hezeta's diary covering the 14 July act; pages unverified",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -2334,19 +2334,19 @@
      "url": null
     },
     {
-     "citation": "Sierra account, CHSQ 9:3 (1930), pp. 201-242 (as above) — Translation of eyewitness description",
+     "citation": "Sierra account, CHSQ 9:3 (1930), pp. 201-242 (as above). Translation of eyewitness description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.jstor.org/stable/25178081"
     },
     {
-     "citation": "Beals, For Honor and Country (1985) — Full translation of Hezeta's diary covering the act",
+     "citation": "Beals, For Honor and Country (1985). Full translation of Hezeta's diary covering the act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.historylink.org/File/5690"
     },
     {
-     "citation": "Barrington, Miscellanies (1781), Mourelle journal pp. 471-540 — Translation describing the expedition (Mourelle was on the Sonora)",
+     "citation": "Barrington, Miscellanies (1781), Mourelle journal pp. 471-540. Translation describing the expedition (Mourelle was on the Sonora)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/miscellanies00barr"
@@ -2391,7 +2391,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -2420,7 +2420,7 @@
      "link_note": "digitized (PARES)"
     },
     {
-     "citation": "Mourelle in Barrington, Miscellanies (1781), 503-504 — eyewitness translation of the landing and possession",
+     "citation": "Mourelle in Barrington, Miscellanies (1781), 503-504; eyewitness translation of the landing and possession",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/miscellanies00barr"
@@ -2438,19 +2438,19 @@
      "url": null
     },
     {
-     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 176-177 — description + the Sea Lion Bay site identification against Salisbury Sound",
+     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 176-177; description + the Sea Lion Bay site identification against Salisbury Sound",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "'Navegacion hecha por Don Juan Francisco de la Bodega y Quadra... a los descubrimientos de los mares y costa septentrional de California', in Coleccion de diarios y relaciones para la historia de los viajes y descubrimientos (Madrid: Instituto Historico de Marina, 1943- ) — Spanish text of Bodega's 1775 journal (tomo/pages unverified)",
+     "citation": "'Navegacion hecha por Don Juan Francisco de la Bodega y Quadra... a los descubrimientos de los mares y costa septentrional de California', in Coleccion de diarios y relaciones para la historia de los viajes y descubrimientos (Madrid: Instituto Historico de Marina, 1943- ). Spanish text of Bodega's 1775 journal (tomo/pages unverified)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Barrington, Miscellanies (1781), Mourelle journal, Remedios passage ('We named this port de los Remedios... planted the cross with all proper devotion'), within pp. 471-540 — English translation DESCRIBING the act",
+     "citation": "Barrington, Miscellanies (1781), Mourelle journal, Remedios passage ('We named this port de los Remedios... planted the cross with all proper devotion'), within pp. 471-540. English translation DESCRIBING the act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/miscellanies00barr"
@@ -2495,7 +2495,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -2517,7 +2517,7 @@
      "url": null
     },
     {
-     "citation": "Mourelle in Barrington, Miscellanies (1781), 508-509 — eyewitness translation by the man who performed the act",
+     "citation": "Mourelle in Barrington, Miscellanies (1781), 508-509; eyewitness translation by the man who performed the act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/miscellanies00barr"
@@ -2529,25 +2529,25 @@
      "url": null
     },
     {
-     "citation": "Voyage of the Sonora in the Second Bucareli Expedition..., Barrington's translation reprinted with notes (San Francisco: Thomas C. Russell, 1920) — reprint of the Mourelle journal translation",
+     "citation": "Voyage of the Sonora in the Second Bucareli Expedition..., Barrington's translation reprinted with notes (San Francisco: Thomas C. Russell, 1920); reprint of the Mourelle journal translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/bcbooks-1.0225974"
     },
     {
-     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 177 — description and location",
+     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 177; description and location",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Beals (ed.), Four Travel Journals (Hakluyt Society 2007), Bodega 1775 journal — full translation; pages unverified",
+     "citation": "Beals (ed.), Four Travel Journals (Hakluyt Society 2007), Bodega 1775 journal; full translation; pages unverified",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Barrington, Miscellanies (1781), Mourelle journal, Bucareli passage ('He also directed me to take possession for his Majesty of this part of the coast, and name it Bucarelly'), within pp. 471-540 — English translation DESCRIBING the act",
+     "citation": "Barrington, Miscellanies (1781), Mourelle journal, Bucareli passage ('He also directed me to take possession for his Majesty of this part of the coast, and name it Bucarelly'), within pp. 471-540. English translation DESCRIBING the act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/miscellanies00barr"
@@ -2577,16 +2577,16 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Bodega and Mourelle anchored one night; the longboat was smashed at the entrance and no act of possession is recorded in any eyewitness text. In April 1793 the viceregal office nonetheless grounded Spain's claim in this visit — Bodega 'anchored in the port of his name in 38° 18'… and took possession of it.' Mapped as a claim, not an act.",
+   "summary": "Bodega and Mourelle anchored one night; the longboat was smashed at the entrance and no act of possession is recorded in any eyewitness text. In April 1793 the viceregal office nonetheless grounded Spain's claim in this visit. Bodega 'anchored in the port of his name in 38° 18'… and took possession of it.' Mapped as a claim, not an act.",
    "result": "claim-only",
    "facts": [
     [
      "Actors",
-     "Juan Francisco de la Bodega y Quadra — Revillagigedo's 12 Apr 1793 report: Bodega 'anchored in the port of his name in 38°18′ close to San Francisco and took possession of it'"
+     "Juan Francisco de la Bodega y Quadra. Revillagigedo's 12 Apr 1793 report: Bodega 'anchored in the port of his name in 38°18′ close to San Francisco and took possession of it'"
     ],
     [
      "Class",
-     "claim-only — a later assertion of possession, no executed act established"
+     "claim-only; a later assertion of possession, no executed act established"
     ]
    ],
    "sources": [
@@ -2597,7 +2597,7 @@
      "url": null
     },
     {
-     "citation": "H. R. Wagner (intro) in 'Fray Benito de la Sierra's Account of the Hezeta Expedition to the Northwest Coast in 1775', California Historical Society Quarterly 9:3 (1930), p. 205 (Revillagigedo report of 12 Apr 1793, quoted verbatim) and the Sierra account + Wagner n.40 (3 Oct 1775 arrival, no ceremony) — verified in local full text scratchpad/sierra1775.txt and vault 02 Source Material/wagner-sierra-1775-chsq-1930-read.md",
+     "citation": "H. R. Wagner (intro) in 'Fray Benito de la Sierra's Account of the Hezeta Expedition to the Northwest Coast in 1775', California Historical Society Quarterly 9:3 (1930), p. 205 (Revillagigedo report of 12 Apr 1793, quoted verbatim) and the Sierra account + Wagner n.40 (3 Oct 1775 arrival, no ceremony); verified in local full text scratchpad/sierra1775.txt and vault 02 Source Material/wagner-sierra-1775-chsq-1930-read.md",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -2631,7 +2631,7 @@
    "facts": [
     [
      "Actors",
-     "Lt. José Joaquín Moraga (comandante — he and the officers performed the possession in the king's name); Capt. Fernando Quirós, pilots José de Cañizares and Cristóbal Revilla and the crew of the San Carlos; Fr. Francisco "
+     "Lt. José Joaquín Moraga (comandante; he and the officers performed the possession in the king's name); Capt. Fernando Quirós, pilots José de Cañizares and Cristóbal Revilla and the crew of the San Carlos; Fr. Francisco "
     ],
     [
      "Ceremony",
@@ -2644,13 +2644,13 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de la Nación, Mexico City, Palóu, Noticias de la Nueva California, the 'Figueroa manuscript' — Bolton's translation made 'from the manuscript in the Archives of Mexico' (title page, Hist. Mem. 1926); exact modern AGN classification not verified in this pass [unknown]",
+     "citation": "Archivo General de la Nación, Mexico City, Palóu, Noticias de la Nueva California, the 'Figueroa manuscript'. Bolton's translation made 'from the manuscript in the Archives of Mexico' (title page, Hist. Mem. 1926); exact modern AGN classification not verified in this pass [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historicalmemoir0000fray"
     },
     {
-     "citation": "Archivo General de la Nación, Mexico City ('Archivo General y Público'), Moraga's official account/report of the founding of San Francisco, 1776 — 'the unpublished official manuscript in the Archivo General y Público, Mexico' (Bolton, Anza's California Expeditions III, preface); ramo/volume not stat",
+     "citation": "Archivo General de la Nación, Mexico City ('Archivo General y Público'), Moraga's official account/report of the founding of San Francisco, 1776; 'the unpublished official manuscript in the Archivo General y Público, Mexico' (Bolton, Anza's California Expeditions III, preface); ramo/volume not stat",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/anzascaliforniae03bolt"
@@ -2668,25 +2668,25 @@
      "url": "https://archive.org/details/anzascaliforniae03bolt"
     },
     {
-     "citation": "Palóu, Vida (1787), SF founding account; trans. C. Scott Williams (1913), pp. 203-205: 'Formal possession of the presidio was taken on the 17th of September... The officers then performed the solemn act of taking possession in the name of Our Sovereign, with a cannonade from vessel and shore' — Translation of Palóu's first-person descript",
+     "citation": "Palóu, Vida (1787), SF founding account; trans. C. Scott Williams (1913), pp. 203-205: 'Formal possession of the presidio was taken on the 17th of September... The officers then performed the solemn act of taking possession in the name of Our Sovereign, with a cannonade from vessel and shore'. Translation of Palóu's first-person descript",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/franciscopalousl00palrich"
     },
     {
-     "citation": "Palóu, Noticias, trans. Bolton, Historical Memoirs of New California, vol. IV (1926) (SF founding chapters; page numbers not verified — vol. IV not in the open IA set consulted); H. E. Bolton, An Outpost of Empire (= Anza's California Expeditions I, 1930), pp. 469-471; Z. S. Eldredge, The Beginnings of San Francisco (San Francisco, 1912),",
+     "citation": "Palóu, Noticias, trans. Bolton, Historical Memoirs of New California, vol. IV (1926) (SF founding chapters; page numbers not verified; vol. IV not in the open IA set consulted); H. E. Bolton, An Outpost of Empire (= Anza's California Expeditions I, 1930), pp. 469-471; Z. S. Eldredge, The Beginnings of San Francisco (San Francisco, 1912),",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/anzascaliforniae01bolt"
     },
     {
-     "citation": "Palóu, Historical Memoirs of New California, trans. Bolton (1926), vol. IV, pp. 125-127 (ceremony; arrival and layout at pp. 121-125) - pages per the NPS Presidio of San Francisco Historic Resource Study footnotes 39, 44, 45 — Eyewitness DESCRIPTION in English translation (vol. IV not on IA)",
+     "citation": "Palóu, Historical Memoirs of New California, trans. Bolton (1926), vol. IV, pp. 125-127 (ceremony; arrival and layout at pp. 121-125) - pages per the NPS Presidio of San Francisco Historic Resource Study footnotes 39, 44, 45. Eyewitness DESCRIPTION in English translation (vol. IV not on IA)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.nps.gov/prsf/learn/historyculture/loader.cfm?csModule=security%2Fgetfile&PageID=141683"
     },
     {
-     "citation": "Palóu, Noticias de la Nueva California (San Francisco: CHS, 1874), 4 vols. (Spanish text) — Spanish original of the same account",
+     "citation": "Palóu, Noticias de la Nueva California (San Francisco: CHS, 1874), 4 vols. (Spanish text). Spanish original of the same account",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/cihm_15836"
@@ -2740,13 +2740,13 @@
      "url": "https://archive.org/details/anzascaliforniae03bolt"
     },
     {
-     "citation": "'Palóu's Account of the Founding of San Francisco, 1776', Bolton, Anza's California Expeditions III, pp. 400-401 (ceremony 'on the 8th of the same month') — Full translation of Palóu's account of the mission founding ceremony",
+     "citation": "'Palóu's Account of the Founding of San Francisco, 1776', Bolton, Anza's California Expeditions III, pp. 400-401 (ceremony 'on the 8th of the same month'). Full translation of Palóu's account of the mission founding ceremony",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/anzascaliforniae03bolt"
     },
     {
-     "citation": "Palóu, Vida, trans. Williams (1913), pp. 207-208 ('This they did on the 9th of October. After having blessed the site, set up the Holy Cross, and made a procession...') — Translation; gives 9 Oct",
+     "citation": "Palóu, Vida, trans. Williams (1913), pp. 207-208 ('This they did on the 9th of October. After having blessed the site, set up the Holy Cross, and made a procession...'). Translation; gives 9 Oct",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/franciscopalousl00palrich"
@@ -2824,7 +2824,7 @@
    "name": "Puerto de Santiago (island named Santa Maria Magdalena)",
    "date": {
     "iso": "1779-07-23",
-    "display": "Possession 21 July 1779 per Riobó (eyewitness); 23 July per Wagner, Cartography I, 194 — unresolved",
+    "display": "Possession 21 July 1779 per Riobó (eyewitness); 23 July per Wagner, Cartography I, 194; unresolved",
     "confidence": "range"
    },
    "coords": [
@@ -2880,25 +2880,25 @@
      "url": null
     },
     {
-     "citation": "[Fr. Juan Antonio Garcia Riobo], 'An Account of the Voyage Made by the Frigates Princesa and Favorita in the Year 1799 [recte 1779] from San Blas to Northern Alaska', trans. Walter Thornton SJ, Catholic Historical Review 4, no. 2 (July 1918): 222-229, Santiago possession at 227-228 — translation of eyewitness chaplain's account; descripti",
+     "citation": "[Fr. Juan Antonio Garcia Riobo], 'An Account of the Voyage Made by the Frigates Princesa and Favorita in the Year 1799 [recte 1779] from San Blas to Northern Alaska', trans. Walter Thornton SJ, Catholic Historical Review 4, no. 2 (July 1918): 222-229, Santiago possession at 227-228; translation of eyewitness chaplain's account; descripti",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/jstor-25011566"
     },
     {
-     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 194-195 — description, dating, latitude analysis of the possession spot",
+     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 194-195; description, dating, latitude analysis of the possession spot",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Bancroft, History of Alaska 1730-1885 (San Francisco, 1886), 219 — description ('The usual forms of taking possession were observed')",
+     "citation": "Bancroft, History of Alaska 1730-1885 (San Francisco, 1886), 219; description ('The usual forms of taking possession were observed')",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historyalaska01nemogoog"
     },
     {
-     "citation": "H. R. Wagner, 'Creation of Rights of Sovereignty through Symbolic Acts', Pacific Historical Review 7 (Dec 1938): 297-326, at 312-313 — census/location of the 1779 acts (cited by Servin n.8; content not independently",
+     "citation": "H. R. Wagner, 'Creation of Rights of Sovereignty through Symbolic Acts', Pacific Historical Review 7 (Dec 1938): 297-326, at 312-313; census/location of the 1779 acts (cited by Servin n.8; content not independently",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://online.ucpress.edu/phr/article/7/4/297/79504/"
@@ -2959,7 +2959,7 @@
      "url": null
     },
     {
-     "citation": "Riobo trans. Thornton, Catholic Historical Review 4:2 (July 1918): 229 — eyewitness translation; description only",
+     "citation": "Riobo trans. Thornton, Catholic Historical Review 4:2 (July 1918): 229; eyewitness translation; description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/jstor-25011566"
@@ -2971,13 +2971,13 @@
      "url": null
     },
     {
-     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 194-195 — description, actors (Quiros, Bodega, Mourelle), latitude analysis",
+     "citation": "Wagner, Cartography of the Northwest Coast, I (1937), 194-195; description, actors (Quiros, Bodega, Mourelle), latitude analysis",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Bancroft, History of Alaska (1886), 220 and n. 49 — description + the Azanza-instruccion chart legend locating the possession cross",
+     "citation": "Bancroft, History of Alaska (1886), 220 and n. 49; description + the Azanza-instruccion chart legend locating the possession cross",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historyalaska01nemogoog"
@@ -3020,7 +3020,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -3029,13 +3029,13 @@
    ],
    "sources": [
     {
-     "citation": "Bancroft Library, Berkeley — Archives of California (Savage transcripts; the original provincial archives burned in San Francisco, 1906), Provincial Records, MS, ii. 61-62, 64: Neve to Commandant-General Teodoro de Croix, 24 April 1782, reporting the founding (Bancroft, Hist. Cal. I, 377 n.10); also",
+     "citation": "Bancroft Library, Berkeley. Archives of California (Savage transcripts; the original provincial archives burned in San Francisco, 1906), Provincial Records, MS, ii. 61-62, 64: Neve to Commandant-General Teodoro de Croix, 24 April 1782, reporting the founding (Bancroft, Hist. Cal. I, 377 n.10); also",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/works-of-hubert-howe-bancroft_1884_18"
     },
     {
-     "citation": "Santa Barbara Mission Archive-Library (originals); Bancroft Library copy = 'Archivo de Santa Bárbara' transcripts, Serra letter of 29 April 1782 on the founding (Bancroft's citation: Arch. Sta. Bárbara, MS, ix. 293-294); presidio baptismal register with Serra's autograph founding title — in the orig",
+     "citation": "Santa Barbara Mission Archive-Library (originals); Bancroft Library copy = 'Archivo de Santa Bárbara' transcripts, Serra letter of 29 April 1782 on the founding (Bancroft's citation: Arch. Sta. Bárbara, MS, ix. 293-294); presidio baptismal register with Serra's autograph founding title; in the orig",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.sbmal.org/"
@@ -3053,7 +3053,7 @@
      "url": "https://archive.org/details/works-of-hubert-howe-bancroft_1884_18"
     },
     {
-     "citation": "Serra's 1782 correspondence in A. Tibesar, ed., Writings of Junípero Serra, 4 vols. (Washington, 1955-66) — the April-May 1782 letters (volume/pages not verified in this pass); 'The Founders of Santa Barbara', California State Military Museum (secondary, with the register anecdote) — Translations of Serra's letters; secondary description",
+     "citation": "Serra's 1782 correspondence in A. Tibesar, ed., Writings of Junípero Serra, 4 vols. (Washington, 1955-66); the April-May 1782 letters (volume/pages not verified in this pass); 'The Founders of Santa Barbara', California State Military Museum (secondary, with the register anecdote). Translations of Serra's letters; secondary description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://militarymuseum.org/SBFounding.html"
@@ -3083,7 +3083,7 @@
    "layer": "russia",
    "symbol": "eagle",
    "symbol_major": true,
-   "summary": "Settlement founded at Three Saints Bay — Russian possession asserted by occupation; no discrete marker or possession ceremony at Kodiak is described in the sources read. The plates-and-crests instrument begins with the 1788 voyage and the 1790 Kokh instruction.",
+   "summary": "Settlement founded at Three Saints Bay. Russian possession asserted by occupation; no discrete marker or possession ceremony at Kodiak is described in the sources read. The plates-and-crests instrument begins with the 1788 voyage and the 1790 Kokh instruction.",
    "result": "founding-rite",
    "facts": [
     [
@@ -3097,7 +3097,7 @@
    ],
    "sources": [
     {
-     "citation": "Shelikhov, Voyage (1791; Eng. trans. 1981) — VERIFY — description",
+     "citation": "Shelikhov, Voyage (1791; Eng. trans. 1981). VERIFY; description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -3109,7 +3109,7 @@
      "url": "https://archive.org/details/bwhistofalaska33bancroft"
     },
     {
-     "citation": "G. I. Shelikhov, A Voyage to America 1783-1786, trans. Marina Ramsay, ed. R. A. Pierce (Kingston: Limestone Press, 1981) — REAL, on IA but access-restricted (401 on full text)",
+     "citation": "G. I. Shelikhov, A Voyage to America 1783-1786, trans. Marina Ramsay, ed. R. A. Pierce (Kingston: Limestone Press, 1981). REAL, on IA but access-restricted (401 on full text)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/voyagetoamerica10000shel"
@@ -3152,7 +3152,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -3161,7 +3161,7 @@
    ],
    "sources": [
     {
-     "citation": "Milet-Mureau (ed.), Voyage de La Pérouse autour du monde (Paris, 1797); English trans. London 1799 — Port des Français (Lituya Bay), July 1786: purchase of the island from the Tlingit chief and bottle with act buried on Cenotaph Island",
+     "citation": "Milet-Mureau (ed.), Voyage de La Pérouse autour du monde (Paris, 1797); English trans. London 1799. Port des Français (Lituya Bay), July 1786: purchase of the island from the Tlingit chief and bottle with act buried on Cenotaph Island",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -3173,7 +3173,7 @@
      "url": "https://archive.org/details/bim_eighteenth-century_a-voyage-round-the-world_la-prouse-jean-franoi_1798_2"
     },
     {
-     "citation": "L. A. Milet-Mureau (ed.), Voyage de La Perouse autour du monde (Paris: Imprimerie de la Republique, 1797), t. II — French original (pagination not verified this session)",
+     "citation": "L. A. Milet-Mureau (ed.), Voyage de La Perouse autour du monde (Paris: Imprimerie de la Republique, 1797), t. II. French original (pagination not verified this session)",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3222,7 +3222,7 @@
    ],
    "sources": [
     {
-     "citation": "Shelikhov appendix; Bolkhovitinov — VERIFY — description",
+     "citation": "Shelikhov appendix; Bolkhovitinov. VERIFY; description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -3264,7 +3264,7 @@
    "layer": "england",
    "symbol": "crown",
    "symbol_major": false,
-   "summary": "Claimed purchase of shore land — the consent claim litigated in the Nootka crisis",
+   "summary": "Claimed purchase of shore land; the consent claim litigated in the Nootka crisis",
    "result": "consent-claim",
    "facts": [
     [
@@ -3277,7 +3277,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -3310,7 +3310,7 @@
      "url": "https://archive.org/details/dixonmearescontr0000fred"
     },
     {
-     "citation": "Authentic Copy of the Memorial to the... House of Commons by Lieut. John Mears (London, 1790) — the purchase claim as litigated in the Nootka crisis",
+     "citation": "Authentic Copy of the Memorial to the... House of Commons by Lieut. John Mears (London, 1790); the purchase claim as litigated in the Nootka crisis",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -3382,13 +3382,13 @@
      "url": null
     },
     {
-     "citation": "Timo C. Allan, 'Discoverers & Possessors: Symbolic Acts of Possession and Spain's Struggle for Sovereignty on the North Pacific Coast' (MA thesis, University of Alaska Fairbanks, 2002), Appendix E, pp. 142-143 — Reprints the Moore translation of Haro's eyewitness account in full",
+     "citation": "Timo C. Allan, 'Discoverers & Possessors: Symbolic Acts of Possession and Spain's Struggle for Sovereignty on the North Pacific Coast' (MA thesis, University of Alaska Fairbanks, 2002), Appendix E, pp. 142-143. Reprints the Moore translation of Haro's eyewitness account in full",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://web.archive.org/web/20240728024206/https://scholarworks.alaska.edu/bitstream/handle/11122/6711/Allan_T_2002.pdf"
     },
     {
-     "citation": "H. H. Bancroft, History of Alaska, 1730-1885 (San Francisco, 1886), 271 — Description only ('Here they took possession and remained till the 15th of June'",
+     "citation": "H. H. Bancroft, History of Alaska, 1730-1885 (San Francisco, 1886), 271. Description only ('Here they took possession and remained till the 15th of June'",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historyalaska00nemogoog"
@@ -3444,7 +3444,7 @@
      "url": null
     },
     {
-     "citation": "H. H. Bancroft, History of Alaska (1886), 272 — Description only",
+     "citation": "H. H. Bancroft, History of Alaska (1886), 272. Description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historyalaska00nemogoog"
@@ -3522,25 +3522,25 @@
      "url": "https://journals.lib.washington.edu/index.php/WHQ/article/view/9111"
     },
     {
-     "citation": "Washington Historical Quarterly vol. 8 (1917) - full-view volume on HathiTrust — Same translation, pp. 164-167",
+     "citation": "Washington Historical Quarterly vol. 8 (1917) - full-view volume on HathiTrust. Same translation, pp. 164-167",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://hdl.handle.net/2027/uva.x004508811"
     },
     {
-     "citation": "JSTOR stable copy of the Howay article — Same translation (free Early Journal Content)",
+     "citation": "JSTOR stable copy of the Howay article. Same translation (free Early Journal Content)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.jstor.org/stable/23908694"
     },
     {
-     "citation": "Allan, 'Discoverers & Possessors' (UAF 2002), Appendix H, pp. 148-151 — Reprints Howay's translation of the full act",
+     "citation": "Allan, 'Discoverers & Possessors' (UAF 2002), Appendix H, pp. 148-151. Reprints Howay's translation of the full act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://web.archive.org/web/20240728024206/https://scholarworks.alaska.edu/bitstream/handle/11122/6711/Allan_T_2002.pdf"
     },
     {
-     "citation": "W. R. Manning, The Nootka Sound Controversy (Washington: GPO, 1905), ch. II with n.121 — Description of the instrument and its diplomatic context, citing the AGI manuscr",
+     "citation": "W. R. Manning, The Nootka Sound Controversy (Washington: GPO, 1905), ch. II with n.121. Description of the instrument and its diplomatic context, citing the AGI manuscr",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.gutenberg.org/files/53719/53719-h/53719-h.htm"
@@ -3606,7 +3606,7 @@
      "url": null
     },
     {
-     "citation": "Greg Bradsher, 'Spanish and British Explorations of the Pacific Northwest and the Nootka Sound Controversy, 1774-1789', The Text Message (NARA blog), 5 Oct 2017 — Description only",
+     "citation": "Greg Bradsher, 'Spanish and British Explorations of the Pacific Northwest and the Nootka Sound Controversy, 1774-1789', The Text Message (NARA blog), 5 Oct 2017. Description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://text-message.blogs.archives.gov/2017/10/05/spanish-explorations-of-the-pacific-northwest-and-the-first-spanish-settlement-in-washington-state-nunez-gaona-neah-bay-1792-part-i/"
@@ -3678,13 +3678,13 @@
      "url": null
     },
     {
-     "citation": "H. H. Bancroft, History of Alaska (1886), 273-274 and nn. — Description only",
+     "citation": "H. H. Bancroft, History of Alaska (1886), 273-274 and nn.. Description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historyalaska00nemogoog"
     },
     {
-     "citation": "H. E. Bolton, Guide to Materials for the History of the United States in the Principal Archives of Mexico (Washington, 1913), 41 — Calendar entry for the four escrituras with their dates",
+     "citation": "H. E. Bolton, Guide to Materials for the History of the United States in the Principal Archives of Mexico (Washington, 1913), 41. Calendar entry for the four escrituras with their dates",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/guidetomaterials00boltuoft"
@@ -3699,7 +3699,7 @@
   },
   {
    "id": "1790-06-08-ensenada-de-menendez-sheep-bay-second",
-   "name": "Ensenada de Menéndez (Sheep Bay) — second Prince William Sound escritura de posesión",
+   "name": "Ensenada de Menéndez (Sheep Bay); second Prince William Sound escritura de posesión",
    "date": {
     "iso": "1790-06-08",
     "display": "1790-06-08",
@@ -3738,7 +3738,7 @@
      "url": null
     },
     {
-     "citation": "Bolton, Guide (1913), 41 — Calendar entry with date only",
+     "citation": "Bolton, Guide (1913), 41. Calendar entry with date only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/guidetomaterials00boltuoft"
@@ -3753,7 +3753,7 @@
   },
   {
    "id": "1790-06-10-puerto-de-gravina-port-gravina-third-",
-   "name": "Puerto de Gravina (Port Gravina) — third Prince William Sound escritura de posesión",
+   "name": "Puerto de Gravina (Port Gravina); third Prince William Sound escritura de posesión",
    "date": {
     "iso": "1790-06-10",
     "display": "1790-06-10",
@@ -3792,7 +3792,7 @@
      "url": null
     },
     {
-     "citation": "Bolton, Guide (1913), 41 — Calendar entry with date only",
+     "citation": "Bolton, Guide (1913), 41. Calendar entry with date only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/guidetomaterials00boltuoft"
@@ -3859,7 +3859,7 @@
      "url": null
     },
     {
-     "citation": "Devon Drury, ''That Immense and Dangerous Sea'' (MA thesis, University of Victoria, 2010), 77-78 — Quotes the Wagner translation of the act passage in full",
+     "citation": "Devon Drury, ''That Immense and Dangerous Sea'' (MA thesis, University of Victoria, 2010), 77-78. Quotes the Wagner translation of the act passage in full",
      "ca_record": null,
      "ia_leaf_url": null,
      "link_note": "file link dead; cite print"
@@ -3920,13 +3920,13 @@
      "link_note": "PARES record id unconfirmed"
     },
     {
-     "citation": "Quimper diary, trans. Wagner, Spanish Explorations in the Strait of Juan de Fuca (1933), c. 107-108 (n.63) — Translation of the diary account of the act",
+     "citation": "Quimper diary, trans. Wagner, Spanish Explorations in the Strait of Juan de Fuca (1933), c. 107-108 (n.63). Translation of the diary account of the act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Drury, 'That Immense and Dangerous Sea' (UVic MA, 2010), 84 — Detailed description from the Wagner translation",
+     "citation": "Drury, 'That Immense and Dangerous Sea' (UVic MA, 2010), 84. Detailed description from the Wagner translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "link_note": "file link dead; cite print"
@@ -3987,13 +3987,13 @@
      "link_note": "PARES record id unconfirmed"
     },
     {
-     "citation": "Quimper diary, trans. Wagner, Spanish Explorations in the Strait of Juan de Fuca (1933), 112-113 — Translation of the diary account of the act",
+     "citation": "Quimper diary, trans. Wagner, Spanish Explorations in the Strait of Juan de Fuca (1933), 112-113. Translation of the diary account of the act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Drury, UVic MA thesis 2010, 90-91 — Detailed description quoting the Wagner translation",
+     "citation": "Drury, UVic MA thesis 2010, 90-91. Detailed description quoting the Wagner translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "link_note": "file link dead; cite print"
@@ -4047,7 +4047,7 @@
      "url": null
     },
     {
-     "citation": "Bolton, Guide (1913), 41 — Calendar entry",
+     "citation": "Bolton, Guide (1913), 41. Calendar entry",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/guidetomaterials00boltuoft"
@@ -4114,13 +4114,13 @@
      "link_note": "PARES record id unconfirmed"
     },
     {
-     "citation": "Quimper diary, trans. Wagner, Spanish Explorations in the Strait of Juan de Fuca (1933), 126 (and n.98) — Translation of the diary account of the act",
+     "citation": "Quimper diary, trans. Wagner, Spanish Explorations in the Strait of Juan de Fuca (1933), 126 (and n.98). Translation of the diary account of the act",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Drury, UVic MA thesis 2010, 108-109 — Detailed description quoting the Wagner translation",
+     "citation": "Drury, UVic MA thesis 2010, 108-109. Detailed description quoting the Wagner translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "link_note": "file link dead; cite print"
@@ -4132,7 +4132,7 @@
      "url": "https://archive.org/details/historyofnorthwe01banc"
     },
     {
-     "citation": "Bradsher, NARA Text Message blog Part II (12 Oct 2017) — Description quoting the diary translation",
+     "citation": "Bradsher, NARA Text Message blog Part II (12 Oct 2017). Description quoting the diary translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://text-message.blogs.archives.gov/2017/10/12/225-years-ago-spanish-explorations-of-the-pacific-northwest-and-the-first-spanish-settlement-in-washington-state-nunez-gaona-neah-bay-1792-part-ii-spanish-explorations-of-the-pacific-northwest-a/"
@@ -4198,12 +4198,12 @@
      "url": "https://archive.org/details/cihm_17743"
     },
     {
-     "citation": "F. W. Howay (ed.), Voyages of the 'Columbia' to the Northwest Coast, 1787-1790 and 1790-1793 (Boston: Massachusetts Historical Society, 1941) — standard edition of the voyage documents",
+     "citation": "F. W. Howay (ed.), Voyages of the 'Columbia' to the Northwest Coast, 1787-1790 and 1790-1793 (Boston: Massachusetts Historical Society, 1941); standard edition of the voyage documents",
      "ca_record": null,
      "ia_leaf_url": null
     },
     {
-     "citation": "F. W. Howay (ed.), Voyages of the \"Columbia\" to the Northwest Coast 1787–1790 and 1790–1793 (Mass. Hist. Soc., 1941) — the deeds’ textual tradition",
+     "citation": "F. W. Howay (ed.), Voyages of the \"Columbia\" to the Northwest Coast 1787–1790 and 1790–1793 (Mass. Hist. Soc., 1941); the deeds’ textual tradition",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -4213,7 +4213,7 @@
     "consent-claim",
     "rivals"
    ],
-   "notes": "Originals reportedly lost; texts descend through attested copies — hence class consent-claim, not sovereign-act."
+   "notes": "Originals reportedly lost; texts descend through attested copies; hence class consent-claim, not sovereign-act."
   },
   {
    "id": "1792-06-04-vancouver-at-possession-sound",
@@ -4300,13 +4300,13 @@
    ],
    "sources": [
     {
-     "citation": "RAC MS cited by Bolkhovitinov, Ф. 204, К. 32, Д. 12 — NOT seen by this project; cite Bolkhovitinov [unseen]",
+     "citation": "RAC MS cited by Bolkhovitinov, Ф. 204, К. 32, Д. 12. NOT seen by this project; cite Bolkhovitinov [unseen]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Bolkhovitinov (ed.), Istoriia Russkoi Ameriki, t. II / Russian-American colonies docs — per vault [[russian-sources-for-bodega]] §2a — description",
+     "citation": "Bolkhovitinov (ed.), Istoriia Russkoi Ameriki, t. II / Russian-American colonies docs; per vault [[russian-sources-for-bodega]] §2a; description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -4317,7 +4317,7 @@
     "concealed-act",
     "rivals"
    ],
-   "notes": "Concealed act — a claim asserted, not communicated."
+   "notes": "Concealed act; a claim asserted, not communicated."
   },
   {
    "id": "1811-plate-no-1000-double-headed-eagle-san-pablo",
@@ -4350,13 +4350,13 @@
    ],
    "sources": [
     {
-     "citation": "RAC MS cited by Bolkhovitinov, Ф. 204, К. 32, Д. 12 — unseen; cite Bolkhovitinov [unseen]",
+     "citation": "RAC MS cited by Bolkhovitinov, Ф. 204, К. 32, Д. 12; unseen; cite Bolkhovitinov [unseen]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Bolkhovitinov per vault [[russian-sources-for-bodega]] §2a — description",
+     "citation": "Bolkhovitinov per vault [[russian-sources-for-bodega]] §2a; description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -4386,7 +4386,7 @@
    "layer": "russia",
    "symbol": "eagle",
    "symbol_major": false,
-   "summary": "Fort raised and formally dedicated with a prayer service (Bancroft: \"formally dedicated\"); the specific flag-raising detail is not anchored in the sources read. Possession by settlement — the thing Spain could not execute at Bodega in 1793.",
+   "summary": "Fort raised and formally dedicated with a prayer service (Bancroft: \"formally dedicated\"); the specific flag-raising detail is not anchored in the sources read. Possession by settlement; the thing Spain could not execute at Bodega in 1793.",
    "result": "founding-rite",
    "facts": [
     [
@@ -4404,7 +4404,7 @@
    ],
    "sources": [
     {
-     "citation": "Khlebnikov; Fort Ross literature — VERIFY ceremony detail — description",
+     "citation": "Khlebnikov; Fort Ross literature. VERIFY ceremony detail; description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -4445,7 +4445,7 @@
    "layer": "russia",
    "symbol": "eagle",
    "symbol_major": true,
-   "summary": "Signed instrument of cession/amity — title by indigenous consent",
+   "summary": "Signed instrument of cession/amity; title by indigenous consent",
    "result": "consent-claim",
    "facts": [
     [
@@ -4463,7 +4463,7 @@
    ],
    "sources": [
     {
-     "citation": "vault [[hagemeister-pomo-treaty-1817]] (Doc. 36 of the Russian collection; Nesselrode note = Doc. 35) — treaty text",
+     "citation": "vault [[hagemeister-pomo-treaty-1817]] (Doc. 36 of the Russian collection; Nesselrode note = Doc. 35); treaty text",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -4474,7 +4474,7 @@
     "consent-claim",
     "rivals"
    ],
-   "notes": "Russia grounding title in consent precisely because Spain grounded it in the bull. | Pin offset ~4–6 km for display (site overlaps its neighbors); documented site = 38.51, -123.24. | Protocol signed by the Russian witnesses; the chiefs assented orally — phrase as \"recorded consent,\" not a mutually signed treaty."
+   "notes": "Russia grounding title in consent precisely because Spain grounded it in the bull. | Pin offset ~4–6 km for display (site overlaps its neighbors); documented site = 38.51, -123.24. | Protocol signed by the Russian witnesses; the chiefs assented orally; phrase as \"recorded consent,\" not a mutually signed treaty."
   },
   {
    "id": "1818-09-valenila-asks-golovnin-for-the-russian-f",
@@ -4493,7 +4493,7 @@
    "layer": "russia",
    "symbol": "eagle",
    "symbol_major": false,
-   "summary": "Chief requests flag + protection \"from the oppression of the Spanish\" — three witnesses",
+   "summary": "Chief requests flag + protection \"from the oppression of the Spanish\"; three witnesses",
    "result": "consent-claim",
    "facts": [
     [
@@ -4506,7 +4506,7 @@
     ],
     [
      "Native presence",
-     "named in the sources — see summary/quotes"
+     "named in the sources; see summary/quotes"
     ],
     [
      "Class",
@@ -4515,7 +4515,7 @@
    ],
    "sources": [
     {
-     "citation": "Golovnin, Matiushkin, Lütke — vault [[russian-sources-for-bodega]] §2b/§6, original Russian held — accounts",
+     "citation": "Golovnin, Matiushkin, Lütke; vault [[russian-sources-for-bodega]] §2b/§6, original Russian held; accounts",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -4545,7 +4545,7 @@
    "layer": "usa",
    "symbol": "flagus",
    "symbol_major": false,
-   "summary": "Jones, misreading war rumors, demanded Monterey’s surrender on 19 Oct 1842; the US flag went up at noon on the 20th (Capt. Armstrong’s demand; Cmdr. Stribling’s landing force) and was hauled down late on the 21st with apologies — a full possession ceremony performed and undone in thirty hours.",
+   "summary": "Jones, misreading war rumors, demanded Monterey’s surrender on 19 Oct 1842; the US flag went up at noon on the 20th (Capt. Armstrong’s demand; Cmdr. Stribling’s landing force) and was hauled down late on the 21st with apologies; a full possession ceremony performed and undone in thirty hours.",
    "result": "sovereign-act",
    "facts": [
     [
@@ -4563,7 +4563,7 @@
    ],
    "sources": [
     {
-     "citation": "H. H. Bancroft, History of California, IV (1886), ch. xii, pp. 298-329 — demand p. 307, capitulation and flag pp. 308-09, restoration and salute to the Mexican flag p. 311; Bancroft's primary authority is the official correspondence he cites as 'Jones at Monterey, 1842' (the congressional print of Jones's despatches and the articles of capitulation, pp. 20-31, 71-78 therein; I believe this is H. Ex. Doc. 166, 27th Cong., not re-verified today). Verified against local text vol4-1840-1845.txt",
+     "citation": "H. H. Bancroft, History of California, IV (1886), ch. xii, pp. 298-329; demand p. 307, capitulation and flag pp. 308-09, restoration and salute to the Mexican flag p. 311; Bancroft's primary authority is the official correspondence he cites as 'Jones at Monterey, 1842' (the congressional print of Jones's despatches and the articles of capitulation, pp. 20-31, 71-78 therein; I believe this is H. Ex. Doc. 166, 27th Cong., not re-verified today). Verified against local text vol4-1840-1845.txt",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -4601,7 +4601,7 @@
     ],
     [
      "Ceremony",
-     "proclamation read aloud · standard/flag · salutes/volleys (3 warships, 21 guns) · bilingual posting — NO mass, NO notarial instrument"
+     "proclamation read aloud · standard/flag · salutes/volleys (3 warships, 21 guns) · bilingual posting. NO mass, NO notarial instrument"
     ],
     [
      "Class",
@@ -4610,13 +4610,13 @@
    ],
    "sources": [
     {
-     "citation": "Sloat proclamation, printed; Bancroft HC V — proclamation text",
+     "citation": "Sloat proclamation, printed; Bancroft HC V; proclamation text",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "H. H. Bancroft, History of California, V (1886), pp. 231-36 — landing and flag-raising at the custom-house pp. 231-32; full proclamation text pp. 234-36; Sloat's official report of July 31, 1846 to the Secretary of the Navy cited there. Verified against local text vol5-1846-1848.txt",
+     "citation": "H. H. Bancroft, History of California, V (1886), pp. 231-36; landing and flag-raising at the custom-house pp. 231-32; full proclamation text pp. 234-36; Sloat's official report of July 31, 1846 to the Secretary of the Navy cited there. Verified against local text vol5-1846-1848.txt",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -4669,25 +4669,25 @@
      "url": null
     },
     {
-     "citation": "Tomás de Suría, 'Journal of Tomás de Suría of his Voyage with Malaspina to the Northwest Coast of America in 1791', trans. and ed. Henry R. Wagner, Pacific Historical Review 5:3 (Sept 1936), at 251 — Eyewitness translation of the bottle-burial",
+     "citation": "Tomás de Suría, 'Journal of Tomás de Suría of his Voyage with Malaspina to the Northwest Coast of America in 1791', trans. and ed. Henry R. Wagner, Pacific Historical Review 5:3 (Sept 1936), at 251. Eyewitness translation of the bottle-burial",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Antonio de Tova Arredondo, 'Malaspina at Yakutat Bay', trans. and ed. Donald C. Cutter, Alaska Journal 2 (Autumn 1972), at 43 — Eyewitness translation (coin, bottle, stone pyramid)",
+     "citation": "Antonio de Tova Arredondo, 'Malaspina at Yakutat Bay', trans. and ed. Donald C. Cutter, Alaska Journal 2 (Autumn 1972), at 43. Eyewitness translation (coin, bottle, stone pyramid)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Allan, 'Discoverers & Possessors' (UAF 2002), 105 — Description with both eyewitness citations",
+     "citation": "Allan, 'Discoverers & Possessors' (UAF 2002), 105. Description with both eyewitness citations",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://web.archive.org/web/20240728024206/https://scholarworks.alaska.edu/bitstream/handle/11122/6711/Allan_T_2002.pdf"
     },
     {
-     "citation": "H. H. Bancroft, History of Alaska (1886), 274 — Description only ('thence to explore in boats... and to take possession')",
+     "citation": "H. H. Bancroft, History of Alaska (1886), 274. Description only ('thence to explore in boats... and to take possession')",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historyalaska00nemogoog"
@@ -4726,7 +4726,7 @@
     ],
     [
      "Ceremony",
-     "abbreviated rite — the full formulario elements (Mass, cross, notarial instrument) were OMITTED; see summary"
+     "abbreviated rite; the full formulario elements (Mass, cross, notarial instrument) were OMITTED; see summary"
     ],
     [
      "Class",
@@ -4741,13 +4741,13 @@
      "url": null
     },
     {
-     "citation": "Warren L. Cook, Flood Tide of Empire: Spain and the Pacific Northwest, 1543-1819 (New Haven: Yale UP, 1973), 127 — Description with quotation from Martínez (translation of a phrase, not the act t",
+     "citation": "Warren L. Cook, Flood Tide of Empire: Spain and the Pacific Northwest, 1543-1819 (New Haven: Yale UP, 1973), 127. Description with quotation from Martínez (translation of a phrase, not the act t",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Allan, 'Discoverers & Possessors' (UAF MA thesis, 2002), 70-71 — Description quoting Cook",
+     "citation": "Allan, 'Discoverers & Possessors' (UAF MA thesis, 2002), 70-71. Description quoting Cook",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://web.archive.org/web/20240728024206/https://scholarworks.alaska.edu/bitstream/handle/11122/6711/Allan_T_2002.pdf"
@@ -4797,7 +4797,7 @@
      "url": null
     },
     {
-     "citation": "F. W. Howay, 'The Spanish Settlement at Nootka', WHQ 8:3 (1917), 167 — Description only",
+     "citation": "F. W. Howay, 'The Spanish Settlement at Nootka', WHQ 8:3 (1917), 167. Description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://journals.lib.washington.edu/index.php/WHQ/article/view/9111"
