@@ -2091,11 +2091,6 @@
    "layer": "phase3a",
    "summary": "MAJOR ENGAGEMENT. Alf. Moraga, 17 cavalry vs. ~120 Sespesuña/Suisun warriors. Crossed Carquines Strait by boat. Hard fight; 18 captured (released, expected to die). Survivors in 3 huts: 2 stormed, all killed; 3rd set on fire; \"bravely preferred to perish in the flames.\" 4 Spanish wounded (23.5% rate); highest in any Spanish victory. Royal Order from Spain praised \"glorious action.\" Moraga promoted; Herrera + Soto made sergeants.",
    "result": "Spanish tactical victory; highest casualty rate of any Spanish victory",
-   "quote": {
-    "es": "Chief Malaca: \"Es mejor morir libres que vivir como esclavos, despreciados por nuestro Puy.\"",
-    "en": "",
-    "source": ""
-   },
    "sources": [
     {
      "citation": "Prov. Rec. (BANC MSS C-A 25), tomo ix, orig. pp. 367-71 [= Bancroft's ix. 122-3, hand folio] / Savage pp. 371-372, scan leaves n374-n375, Doc 686. Arrillaga to the Viceroy, 28 June 1810, 'Sobre encuentro y campaña con gentiles'.",
@@ -2141,7 +2136,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "THE PAGE-NUMBER PUZZLE, SOLVED. Bancroft's 'Prov. Rec., MS., ix. 122-3' does not match the C-A record's fields at first sight (ca25-d686 is catalogued at tomo IX pp. 367-71, Savage p. 371-372, scan n374). It resolves through Savage's DUAL foliation: a neighbouring record in the same run, ca25-d649, carries savage_page '365/116', giving an offset of 249 between the stamped number and the hand folio. 371-249 = 122 and 372-249 = 123. So Savage 371-372 IS hand folio 122-123, and Bancroft was citing the hand folio. The map's citation is right and the record is right; I record the arithmetic so nobody 'corrects' it later. DATE DISCREPANCY INSIDE C-A: ca26-d1218 dates the 'gloriosa acción' to 20 May 1810 while ca26-d831, ca12-d395, Bancroft and the royal order all say 22 May. The catalog record already flags this ('⚠ fecha 20 May, no 22'). Not reconciled. NAME DISCREPANCY: the promoted corporals are 'Herrera y Soto' in ca26-d831, ca12-d395 and Bancroft, but 'José Correa y Francisco Soto' in ca26-d1218. Also 'Ventura' vs 'Buenaventura' Zúñiga. SOURCE CAUTION Bancroft raises and the map should carry: Vallejo's account describes a fight in the same region by José Sánchez in 1817 against the Suisunes under chief Malaca, and Bancroft judges 'It is possible that the author has confounded two different battles'; Alvarado, Hist. Cal., MS., i. 69-70 dates the affair 1817, puts Gabriel Moraga in command, and says Solano was captured on that occasion. Using Vallejo for 1810 detail is therefore risky.",
+   "notes": "THE PAGE-NUMBER PUZZLE, SOLVED. Bancroft's 'Prov. Rec., MS., ix. 122-3' does not match the C-A record's fields at first sight (ca25-d686 is catalogued at tomo IX pp. 367-71, Savage p. 371-372, scan n374). It resolves through Savage's DUAL foliation: a neighbouring record in the same run, ca25-d649, carries savage_page '365/116', giving an offset of 249 between the stamped number and the hand folio. 371-249 = 122 and 372-249 = 123. So Savage 371-372 IS hand folio 122-123, and Bancroft was citing the hand folio. The map's citation is right and the record is right; I record the arithmetic so nobody 'corrects' it later. DATE DISCREPANCY INSIDE C-A: ca26-d1218 dates the 'gloriosa acción' to 20 May 1810 while ca26-d831, ca12-d395, Bancroft and the royal order all say 22 May. The catalog record already flags this ('⚠ fecha 20 May, no 22'). Not reconciled. NAME DISCREPANCY: the promoted corporals are 'Herrera y Soto' in ca26-d831, ca12-d395 and Bancroft, but 'José Correa y Francisco Soto' in ca26-d1218. Also 'Ventura' vs 'Buenaventura' Zúñiga. SOURCE CAUTION Bancroft raises and the map should carry: Vallejo's account describes a fight in the same region by José Sánchez in 1817 against the Suisunes under chief Malaca, and Bancroft judges 'It is possible that the author has confounded two different battles'; Alvarado, Hist. Cal., MS., i. 69-70 dates the affair 1817, puts Gabriel Moraga in command, and says Solano was captured on that occasion. Using Vallejo for 1810 detail is therefore risky. A Spanish sentence previously shown here as a quotation is not in any cited source: neither 'morir libres'/'esclavos' nor 'envueltos en las llamas' occurs anywhere in Bancroft's seven volumes or in the 34,972-record Archives of California catalogue. What the record does support is Bancroft's own statement. Bancroft, History of California II, 91: after a hard fight the survivors made a brave resistance, and when the last hut was set on fire to drive out its occupants 'they bravely preferred to perish in the flames.'",
    "symbol": "swords"
   },
   {
@@ -8521,7 +8516,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "conquest",
-   "summary": "Mervine's ~350 sailors and marines, marching on Los Angeles without artillery, occupy the Dominguez rancho buildings overnight (7th), then are repulsed on the morning of the 8th by Carrillo's horsemen with the 'old woman's gun' pedrero fired by Ignacio Aguilar and dragged off by reatas to reload; ~4-6 Americans killed.",
+   "summary": "Mervine's ~350 sailors and marines, marching on Los Angeles without artillery, occupy the Dominguez rancho buildings overnight (7th), then are repulsed on the morning of the 8th by Carrillo's horsemen with the pedrero known traditionally as the old woman's gun, an old four-pounder dug up from Inocencia Reyes's garden where it had been buried, fired by Ignacio Aguilar and dragged off by reatas to reload; ~4-6 Americans killed.",
    "result": "Mervine repulsed to San Pedro",
    "quote": null,
    "sources": [
