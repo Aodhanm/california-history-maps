@@ -210,6 +210,8 @@ body {
   border-left: 3px solid var(--accent-3, #8c4a2f); font-size: 0.82rem; font-style: italic; }
 .popup blockquote.src-quote cite { display: block; margin-top: 0.2rem; font-style: normal;
   font-size: 0.72rem; color: var(--ink-soft); }
+.popup blockquote cite { display: block; margin-top: 0.2rem; font-style: normal;
+  font-size: 0.72rem; color: var(--ink-soft); }
 
 
 /* pictorial symbol markers (see assets/js/glyphs.js) */
