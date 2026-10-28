@@ -215,12 +215,22 @@
      "citation": "C-A 12; C-A 25; Bancroft II:91 fn.24.",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Mariano Guadalupe Vallejo, Recuerdos Históricos y Personales tocante a la Alta California, Tomo 1, ch. 10, trans. Beebe and Senkewicz, 151, recounting Alférez José Sánchez's narration. Vallejo's footnote records that the phrase stands in English in the original manuscript.",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "A Spanish sentence previously shown here as a quotation is not in any cited source: neither 'morir libres'/'esclavos' nor 'envueltos en las llamas' occurs anywhere in Bancroft's seven volumes or in the 34,972-record Archives of California catalogue. What the record does support is Bancroft's own statement. Bancroft, History of California II, 91: after a hard fight the survivors made a brave resistance, and when the last hut was set on fire to drive out its occupants 'they bravely preferred to perish in the flames.'",
-   "symbol": "swords"
+   "notes": "Malaca's words come from Vallejo's memoir of the 1870s reporting what Alférez Sánchez told him, not from a contemporary record, and Vallejo wrote the phrase in English. Earlier versions of this map rendered it into Spanish and presented that rendering as the source wording.",
+   "symbol": "swords",
+   "quote": {
+    "es": "",
+    "en": "Chief Malaca, as Vallejo reports him: \"it is better to die free than to live as slaves, despised by our Puy (priest).\"",
+    "source": "Mariano Guadalupe Vallejo, Recuerdos Históricos y Personales tocante a la Alta California, Tomo 1, ch. 10, trans. Beebe and Senkewicz, 151, recounting Alférez José Sánchez's narration. Vallejo's footnote records that the phrase stands in English in the original manuscript."
+   }
   },
   {
    "id": "moraga-investigates-russian-bodega",
