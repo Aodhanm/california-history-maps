@@ -86,7 +86,7 @@
    "name": "Toma de posesión of the Mar del Sur (and Golfo de San Miguel, named 25 Sept)",
    "date": {
     "iso": "1513-09-29",
-    "display": "1513-09-29 (St Michael's day; first sight and naming of the ",
+    "display": "1513-09-29 (St Michael's day; first sight and naming of the gulf 1513-09-25; further autos de posesión around the gulf in October 1513)",
     "confidence": "exact"
    },
    "coords": [
@@ -98,7 +98,7 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": true,
-   "summary": "Per Oviedo (who read and later held Valderrábano's original testimonio): at vespers, as the tide rose, Balboa took in hand a banner/pendón real painted with the Virgin and Child above the royal arms of Castile and León, and with naked sword and shield waded knee-deep into the salt water, pacing about and proclaiming: «Vivan los muy altos é muy poderosos Reyes don Fernando é doña Johana... en cuyo nombre é por la corona real de Castilla tomo é aprehendo la possesion real é corporal é actualmente destas mares é…",
+   "summary": "Per Oviedo (who read and later held Valderrábano's original testimonio): at vespers, as the tide rose, Balboa took in hand a banner/pendón real painted with the Virgin and Child above the royal arms of Castile and León, and with naked sword and shield waded knee-deep into the salt water, pacing about and proclaiming: «Vivan los muy altos é muy poderosos Reyes don Fernando é doña Johana...",
    "result": "sovereign-act",
    "quotes": [
     {
@@ -109,7 +109,7 @@
    "facts": [
     [
      "Actors",
-     "Vasco Núñez de Balboa with 26 picked men (among them Francisco Pizarro); escribano real Andrés de Valderrábano, who drew the testimonio; priest Andrés de Vera. The roll of the 67 'primeros chripstianos que vieron la mar "
+     "Vasco Núñez de Balboa with 26 picked men (among them Francisco Pizarro); escribano real Andrés de Valderrábano, who drew the testimonio; priest Andrés de Vera. The roll of the 67 'primeros chripstianos que vieron la mar del Sur' was recorded by Valderrábano on 25 Sept. Days earlier Alonso Martín de Don Benito had been the first to enter the sea in a canoe (his 1535 Lima probanza attests the possession)."
     ],
     [
      "Ceremony",
@@ -126,7 +126,7 @@
    ],
    "sources": [
     {
-     "citation": "Original notarial testimonio by Andrés de Valderrábano, No surviving exemplar known in any archive. Oviedo states he personally saw and read the signed testimonio ('el qual testimonio yo vi é leí, y el mismo escribano me lo enseñó') and that Valderrábano's and Balboa's papers came into his own hands",
+     "citation": "Original notarial testimonio by Andrés de Valderrábano, No surviving exemplar known in any archive. Oviedo states he personally saw and read the signed testimonio ('el qual testimonio yo vi é leí, y el mismo escribano me lo enseñó') and that Valderrábano's and Balboa's papers came into his own hands after their execution at Acla (Jan 1519). Not in AGI; neither Medina nor Altolaguirre could print an original. [lost]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -311,7 +311,7 @@
    "name": "Auto de posesión of the puerto y bahía de Santa Cruz",
    "date": {
     "iso": "1535-05-03",
-    "display": "1535-05-03 (Day of the Holy Cross; followed on 1535-05-10 by",
+    "display": "1535-05-03 (Day of the Holy Cross; followed on 1535-05-10 by the auto of public reading of the 1529 royal provision naming Cortés governor,…",
     "confidence": "exact"
    },
    "coords": [
@@ -323,7 +323,7 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": true,
-   "summary": "Per the acta (full text read): about midday 3 May 1535 Cortés landed 'con gente é caballos' on the beach, declared before the escribano that in the King's name and by virtue of his 1529 capitulación he took 'la tenencia é posesión de la dicha tierra, nuevamente descobierta... é de todas las demás que desde ella se comunican'; named the port 'el puerto é baya de Santa Cruz'; walked over the land from one part to another, threw sand about, struck certain trees with his sword, ordered the company to hold him as…",
+   "summary": "Per the acta (full text read): about midday 3 May 1535 Cortés landed 'con gente é caballos' on the beach, declared before the escribano that in the King's name and by virtue of his 1529 capitulación he took 'la tenencia é posesión de la dicha tierra, nuevamente descobierta... é de todas las demás que desde ella se comunican'; named the port 'el puerto é baya de Santa Cruz';",
    "result": "sovereign-act",
    "quotes": [
     {
@@ -334,7 +334,7 @@
    "facts": [
     [
      "Actors",
-     "Hernán Cortés, Marqués del Valle de Oaxaca; escribano Martín de Castro ('escribano de Sus Magestades é escribano de la gobernación del dicho señor Marqués'); witnesses: Doctor Juan González de Valdivieso (alcalde mayor),"
+     "Hernán Cortés, Marqués del Valle de Oaxaca; escribano Martín de Castro ('escribano de Sus Magestades é escribano de la gobernación del dicho señor Marqués'); witnesses: Doctor Juan González de Valdivieso (alcalde mayor), Juan de Jaso, Alonso de Navarrete, Fernando Arias de Saavedra, Bernardino del Castillo, Francisco de Ulloa 'é otros muchos del dicho exército é armada'."
     ],
     [
      "Ceremony",
@@ -347,7 +347,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, AGI, Patronato, 21 (old signature 1-1-2/21, 'Part 9a' per Wagner 1929) - the acta was filed as an exhibit in the Proceso del Marqués del Valle over northern discovery rights, presented in the Consejo de Indias by Íñigo López de Mondragón 3/13 March 1540; a 2020s P",
+     "citation": "Archivo General de Indias, Seville, AGI, Patronato, 21 (old signature 1-1-2/21, 'Part 9a' per Wagner 1929) - the acta was filed as an exhibit in the Proceso del Marqués del Valle over northern discovery rights, presented in the Consejo de Indias by Íñigo López de Mondragón 3/13 March 1540; a 2020s PARES-derived snippet places the related autos at PATRONATO,21,N.2,R.4 (ramo-level signature",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -390,7 +390,7 @@
      "url": "https://archive.org/details/annalsofspanishn01oakhrich"
     },
     {
-     "citation": "W. Michael Mathes, The Conquistador in California: 1535. The Voyage of Fernando Cortés to Baja California in Chronicles and Documents, Baja California Travels Series 31 (Los Angeles: Dawson's Book Shop, 1973), section 'The act of possession and discovery' (123 pp. total; exact pages not verified). FULL ENGLISH TRANSLATION of the act of p",
+     "citation": "W. Michael Mathes, The Conquistador in California: 1535. The Voyage of Fernando Cortés to Baja California in Chronicles and Documents, Baja California Travels Series 31 (Los Angeles: Dawson's Book Shop, 1973), section 'The act of possession and discovery' (123 pp. total; exact pages not verified) . FULL ENGLISH TRANSLATION of the act of possession, with the other expedition documents",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://search.worldcat.org/title/641868"
@@ -414,7 +414,7 @@
    "name": "Acta de posesión at El Puerto de los Puertos, Bahía de la Posesión",
    "date": {
     "iso": "1539-09-18",
-    "display": "1539-09-18 (date as given in the acta; Preciado also describ",
+    "display": "1539-09-18 (date as given in the acta; Preciado also describes the ceremony, adding that a cross was set up on the hill)",
     "confidence": "exact"
    },
    "coords": [
@@ -426,12 +426,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Per the acta (Wagner/Wright translation): Ulloa 'actually and in reality took possession for the Marqués in the name of the Emperor... placing his hand upon his sword and saying that if any person disputed it, he was ready to defend such possession, cutting trees with his sword, moving stones from one place to another and taking water out of the sea and throwing it upon the land, all which was done in token of said possession'; Palencia drew the instrument with his notarial mark; per Preciado a cross was…",
+   "summary": "Per the acta (Wagner/Wright translation): Ulloa 'actually and in reality took possession for the Marqués in the name of the Emperor... placing his hand upon his sword and saying that if any person disputed it, he was ready to defend such possession, cutting trees with his sword, moving stones from one place to another and taking water out of the sea and throwing it upon the land, all which was done in token of said possession'; Palencia drew the instrument with his notarial mark; per Preciado a cross was erected on the hill",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
-     "Francisco de Ulloa, teniente de gobernador and captain of the fleet for the Marqués del Valle; notary public of the fleet Pedro de Palencia; witnesses: Franciscans fray Raimundo [Frater Raimundus Anyelibus], fray Antonio"
+     "Francisco de Ulloa, teniente de gobernador and captain of the fleet for the Marqués del Valle; notary public of the fleet Pedro de Palencia; witnesses: Franciscans fray Raimundo [Frater Raimundus Anyelibus], fray Antonio de Meno [Mena], fray Pedro de Ariche; Francisco de Terrazas (veedor), Gonzalo Hidalgo, Diego de Haro, Martín de Espinosa"
     ],
     [
      "Ceremony",
@@ -540,7 +540,7 @@
    "name": "Acta de posesión at the Bahía de San Marcos",
    "date": {
     "iso": "1539-10-06",
-    "display": "1539-10-06 (so the acta; Wagner notes San Marcos' feast is 7",
+    "display": "1539-10-06 (so the acta; Wagner notes San Marcos' feast is 7 Oct; Ulloa's narrative implies possession on Thursday 4 Oct)",
     "confidence": "exact"
    },
    "coords": [
@@ -648,7 +648,7 @@
    "name": "Acta de posesión at the Bahía de Santa Catalina, Punta de la Trinidad",
    "date": {
     "iso": "1539-12-01",
-    "display": "1539-12-01 (so the acta; Ulloa's narrative puts the possessi",
+    "display": "1539-12-01 (so the acta; Ulloa's narrative puts the possession on Thursday 4 Dec)",
     "confidence": "exact"
    },
    "coords": [
@@ -702,7 +702,7 @@
    "name": "Acta de posesión on the Isla de los Cedros",
    "date": {
     "iso": "1540-01-20",
-    "display": "1540-01-20 (so the acta; Wagner note 138 argues the ceremony",
+    "display": "1540-01-20 (so the acta; Wagner note 138 argues the ceremony actually occurred 21 Jan)",
     "confidence": "exact"
    },
    "coords": [
@@ -798,7 +798,7 @@
      "url": "https://archive.org/details/coleccindevari01smituoft"
     },
     {
-     "citation": "Colección de documentos inéditos... de América y Oceanía [CDI, 1st series], t. XIV (Madrid, 1870), pp. 165-191: 'Relación del descubrimiento que hizo Juan Rodríguez, navegando por la contracosta del Mar del Sur al Norte, hecha por Juan Páez' (start page verified from the collection's chronological index, t. XXXIII; closing page per standa",
+     "citation": "Colección de documentos inéditos... de América y Oceanía [CDI, 1st series], t. XIV (Madrid, 1870), pp. 165-191: 'Relación del descubrimiento que hizo Juan Rodríguez, navegando por la contracosta del Mar del Sur al Norte, hecha por Juan Páez' (start page verified from the collection's chronological index, t. XXXIII; closing page per standard bibliographies) . FULL SPANISH TEXT printed from the AGI original (carelessly, per Wagner)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -810,7 +810,7 @@
      "url": "https://archive.org/details/discoveryofcalif00taylrich"
     },
     {
-     "citation": "[Richard Stuart Evans, trans.], 'Translation from the Spanish of the Account by the Pilot Ferrel of the Voyage of Cabrillo along the West Coast of North America in 1542', with notes by H. W. Henshaw, in Report upon U.S. Geographical Surveys West of the One Hundredth Meridian, vol. VII (Washington: GPO, 1879), Appendix to Part I, pp. 293-3",
+     "citation": "[Richard Stuart Evans, trans.], 'Translation from the Spanish of the Account by the Pilot Ferrel of the Voyage of Cabrillo along the West Coast of North America in 1542', with notes by H. W. Henshaw, in Report upon U.S. Geographical Surveys West of the One Hundredth Meridian, vol. VII (Washington: GPO, 1879), Appendix to Part I, pp. 293-314 . FULL ENGLISH TRANSLATION",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/reportuponunited07whee"
@@ -840,7 +840,7 @@
    "name": "Possession at the Cabo/Puerto de Santa María",
    "date": {
     "iso": "1542-09-08",
-    "display": "1542-09-08/11 (anchored and named the cape Friday 8 Sept, th",
+    "display": "1542-09-08/11 (anchored and named the cape Friday 8 Sept, the Virgin's nativity;",
     "confidence": "exact"
    },
    "coords": [
@@ -894,7 +894,7 @@
    "name": "Possession at the Puerto de San Mateo",
    "date": {
     "iso": "1542-09-17",
-    "display": "1542-09-17/22 (arrived Sunday 17 Sept; 'They took possession",
+    "display": "1542-09-17/22 (arrived Sunday 17 Sept; 'They took possession and were there until the following Saturday', the 23rd;",
     "confidence": "exact"
    },
    "coords": [
@@ -944,7 +944,7 @@
    "name": "Possession at the Pueblo de las Canoas (Xucu)",
    "date": {
     "iso": "1542-10-10",
-    "display": "1542-10-10/13 (anchored Tuesday 10 Oct; 'Here they took poss",
+    "display": "1542-10-10/13 (anchored Tuesday 10 Oct; 'Here they took possession and remained until Friday, the 13th')",
     "confidence": "exact"
    },
    "coords": [
@@ -998,7 +998,7 @@
    "name": "Isla de Posesión (possession inferred from the naming)",
    "date": {
     "iso": "1542-10-18",
-    "display": "1542-10-18/25 (islands reached and named 'Islas de San Lucas",
+    "display": "1542-10-18/25 (islands reached and named 'Islas de San Lucas' from 18 Oct;",
     "confidence": "exact"
    },
    "coords": [
@@ -1118,7 +1118,7 @@
    "name": "Possession of the Puerto de San Lucas and its land",
    "date": {
     "iso": "1587-10-18",
-    "display": "1587-10-18 (Sunday, day of San Lucas; the inland entrada and",
+    "display": "1587-10-18 (Sunday, day of San Lucas; the inland entrada and the fatal skirmish followed 19-20 Oct)",
     "confidence": "exact"
    },
    "coords": [
@@ -1130,12 +1130,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": true,
-   "summary": "Per Unamuno's relación: on a hill near the shore strewn with pearl-oyster shells, 'as it seemed to be a suitable place to take possession in His Majesty's name of the port and the country, seeing that I and the rest of the party had landed and traversed the country round about... quietly and pacifically, as in territory belonging to his domain, I did so in the name of King Philip, our master, in due legal form, through Diego Vasquez Mexia... in his capacity of Justicia, setting up a cross as a sign of the…",
+   "summary": "Per Unamuno's relación: on a hill near the shore strewn with pearl-oyster shells, 'as it seemed to be a suitable place to take possession in His Majesty's name of the port and the country, seeing that I and the rest of the party had landed and traversed the country round about... quietly and pacifically, as in territory belonging to his domain, I did so in the name of King Philip, our master, in due legal form, through Diego Vasquez Mexia...",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
-     "Captain Pedro de Unamuno; possession executed 'through Diego Vázquez Mexía (one of the alcaldes elected for this purpose) in his capacity of Justicia'; Fr. Martín Ignacio de Loyola O.F.M. walked in advance carrying a cro"
+     "Captain Pedro de Unamuno; possession executed 'through Diego Vázquez Mexía (one of the alcaldes elected for this purpose) in his capacity of Justicia'; Fr. Martín Ignacio de Loyola O.F.M. walked in advance carrying a cross; with 12 soldiers in mail with harquebuses and Luzon indios with swords and shields;"
     ],
     [
      "Ceremony",
@@ -1176,7 +1176,7 @@
      "url": "https://www.jstor.org/stable/25177703"
     },
     {
-     "citation": "Henry R. Wagner, Spanish Voyages to the Northwest Coast of America in the Sixteenth Century, CHS Special Publication 4 (San Francisco, 1929), ch. 'The Voyage of Pedro de Unamuno,' pp. 139-153 (possession passage at pp. 143-144); facsimile of the Unamuno account, appendix X, pp. 481-504. English translation (revised Wright text) + facsimi",
+     "citation": "Henry R. Wagner, Spanish Voyages to the Northwest Coast of America in the Sixteenth Century, CHS Special Publication 4 (San Francisco, 1929), ch. 'The Voyage of Pedro de Unamuno,' pp. 139-153 (possession passage at pp. 143-144); facsimile of the Unamuno account, appendix X, pp. 481-504 . English translation (revised Wright text) + facsimile of the Spanish manuscript",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
@@ -1205,7 +1205,7 @@
    "name": "Possession of the land and port named La Baya de San Francisco",
    "date": {
     "iso": "1595-11-07",
-    "display": "1595-11-07 (ship anchored midday 6 Nov; captain landed with ",
+    "display": "1595-11-07 (ship anchored midday 6 Nov; captain landed with 22 men the morning of the 7th and took possession the same day)",
     "confidence": "exact"
    },
    "coords": [
@@ -1217,12 +1217,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Per the Declaración/derrotero: 'Y el dicho día que saltó el dicho capitán con la dicha jente en tierra pidió a todos le fuesen testigos como en nombre del Rey nuestro señor tomaua posesión de la tierra e puerto, al qual le pusso por nombre la baya de San Francisco que la bautizó el Reverendo Padre fray Francisco de la Conçepçión de la horden de Sant Francisco de los Descalços que uiene en la dicha nao' (AGI, México, 23, N.50\\3, ff. 6-7, quoted in Piedade 2006); the company then marched with the banner to the…",
+   "summary": "Per the Declaración/derrotero: 'Y el dicho día que saltó el dicho capitán con la dicha jente en tierra pidió a todos le fuesen testigos como en nombre del Rey nuestro señor tomaua posesión de la tierra e puerto, al qual le pusso por nombre la baya de San Francisco que la bautizó el Reverendo Padre fray Francisco de la Conçepçión de la horden de Sant Francisco de los Descalços que uiene en la dicha nao' (AGI, México, 23, N.50\\3, ff. 5-6, quoted in Piedade 2006); the company then marched with the banner to the Indian village. No separate acta instrument is known - the possession is recorded within the voyage records.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
-     "Captain and chief pilot Sebastián Rodríguez Cermeño; Fr. Francisco de la Concepción, O.F.M. descalzo, baptized/blessed the name; ensign Juan del Río carried the banner; Captain Francisco de Chaves; escribano del Rey Pedr"
+     "Captain and chief pilot Sebastián Rodríguez Cermeño; Fr. Francisco de la Concepción, O.F.M. descalzo, baptized/blessed the name; ensign Juan del Río carried the banner; Captain Francisco de Chaves; escribano del Rey Pedro de Lugo recorded Cermeño's Declaración; Alonso Gómez was the ship's escribano"
     ],
     [
      "Ceremony",
@@ -1239,7 +1239,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, AGI, México, 23, N.50 - 'Relación de lo sucedido en el viaje...' (enclosed with the Conde de Monterrey's letter of 19 April 1596; Wagner's old signature 58-3-12); AGI, México, 23, N.50\\3 - 'Derrotero y relación del descubrimiento que hizo Sebastián...', the posses",
+     "citation": "Archivo General de Indias, Seville, AGI, México, 23, N.50 - 'Relación de lo sucedido en el viaje...' (enclosed with the Conde de Monterrey's letter of 19 April 1596; Wagner's old signature 58-3-12); AGI, México, 23, N.50\\3 - 'Derrotero y relación del descubrimiento que hizo Sebastián...', the possession at ff. 5-6; AGI, México, 23, N.50\\4 - testimonies on the loss of the San Agustín and the Información on the character of the land at the bay (the 'two autos' Wagner translated) [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1305,7 +1305,7 @@
    "name": "Puerto de San Sebastián / Villa de San Felipe / Reino de Nueva Andalucía",
    "date": {
     "iso": "1596-09-04",
-    "display": "1596-09-04 (circa; ceremony 'otro día' after the 3 Sept land",
+    "display": "1596-09-04 (circa; ceremony 'otro día' after the 3 Sept landfall per Vizcaíno's relación; expedition stayed at the bay 3-10 Sept 1596)",
     "confidence": "exact"
    },
    "coords": [
@@ -1317,12 +1317,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Per Vizcaíno's own relación (quoted verbatim in Mathes): a tent town with streets and plaza was laid out; the next day, before ~200 Indians, 'con la solemnidad que se requería hincado el estandarte Real en tierra tomé possessión de ella en el nombre de Su Magestad y púsele por nombre a la Villa San Phillipe, al Puerto San Sebastián y el Reyno Nueba Andaluzía.' At the possession the friars said mass at an altar ashore, carrying the image of Nuestra Señora in procession from the beach; an Indian principal with…",
+   "summary": "Per Vizcaíno's own relación (quoted verbatim in Mathes): a tent town with streets and plaza was laid out; the next day, before ~200 Indians, 'con la solemnidad que se requería hincado el estandarte Real en tierra tomé possessión de ella en el nombre de Su Magestad y púsele por nombre a la Villa San Phillipe, al Puerto San Sebastián y el Reyno Nueba Andaluzía.' At the possession the friars said mass at an altar ashore, carrying the image of Nuestra Señora in procession from the beach; an Indian principal with ~800 followers knelt before the image. Large crosses were left standing when the expedition departed.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
-     "Sebastián Vizcaíno (general, performed the act personally); Fray Francisco de Balda (Franciscan commissary) and four other Franciscans (mass, procession of the image of Our Lady); Captain Rodrigo de Figueroa (lieutenant,"
+     "Sebastián Vizcaíno (general, performed the act personally); Fray Francisco de Balda (Franciscan commissary) and four other Franciscans (mass, procession of the image of Our Lady); Captain Rodrigo de Figueroa (lieutenant, left in command of the town); notary not named in the sources consulted."
     ],
     [
      "Ceremony",
@@ -1339,19 +1339,19 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 20 (Parte 2), Ramo 17; 'Relación del descubrimiento de las Californias por el capitán Sebastián Vizcaíno' (12 pp., dated 16 April 1598) and 'Copia de la Relación de Sebastián Vizcaíno de 1598, con notaciones al margen' (17 pp.); same ramo holds",
+     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 20 (Parte 2), Ramo 17; 'Relación del descubrimiento de las Californias por el capitán Sebastián Vizcaíno' (12 pp., dated 16 April 1598) and 'Copia de la Relación de Sebastián Vizcaíno de 1598, con notaciones al margen' (17 pp.); same ramo holds the asiento y capitulación of 1597 [unknown. PARES search endpoint returned 429 during check (control search failed, so a null is worthless); Patronato series is widely digitized on PARES (",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://library.unm.edu/cswr/docs/nmarchives/FindingAids/mss841patronato.pdf"
     },
     {
-     "citation": "Archivo General de Indias, Seville (Wagner's old pressmarks), Old signature 141-1-1: 'Vizcaino's original account of this expedition' (Wagner 1929, ch. X n.14), with his account dated 8 Dec 1596 and the abridged account of 16 Apr 1598; related viceregal letters in old 58-3-12 and 58-3-13 (modern equ",
+     "citation": "Archivo General de Indias, Seville (Wagner's old pressmarks), Old signature 141-1-1: 'Vizcaino's original account of this expedition' (Wagner 1929, ch. X n.14), with his account dated 8 Dec 1596 and the abridged account of 16 Apr 1598; related viceregal letters in old 58-3-12 and 58-3-13 (modern equivalents not established here) [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/spanishvoyagesto0000henr"
     },
     {
-     "citation": "Francisco Carrasco y Guisasola, Documentos referentes al reconocimiento de las costas de las Californias desde el Cabo de San Lucas al de Mendocino (Madrid: Dirección de Hidrografía, 1882), document no. 14 ('Vizcaíno's account of his voyage, the undated one' per Wagner); exact pages not established",
+     "citation": "Francisco Carrasco y Guisasola, Documentos referentes al reconocimiento de las costas de las Californias desde el Cabo de San Lucas al de Mendocino (Madrid: Dirección de Hidrografía, 1882), document no. 14 ('Vizcaíno's account of his voyage, the undated one' per Wagner); exact pages not established . Full Spanish text of Vizcaíno's relación of the 1596 voyage, which contains the possession passage; no digitization found",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1375,7 +1375,7 @@
      "url": null
     },
     {
-     "citation": "George Butler Griffin, 'Documents from the Sutro Collection', Publications of the Historical Society of Southern California II.1 (Los Angeles, 1891), 5-73; translates the related 1596-97 correspondence (Monterrey letter 29 Feb 1596; Vizcaíno letter 27 Feb 1597; First Memorial), NOT the relación with the possession passage. Translations",
+     "citation": "George Butler Griffin, 'Documents from the Sutro Collection', Publications of the Historical Society of Southern California II.1 (Los Angeles, 1891), 5-73; translates the related 1596-97 correspondence (Monterrey letter 29 Feb 1596; Vizcaíno letter 27 Feb 1597; First Memorial), NOT the relación with the possession passage . Translations of related correspondence only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/cihm_15070"
@@ -1393,7 +1393,7 @@
    "name": "Puerto y Villa de La Paz (renaming of Cortés's Santa Cruz)",
    "date": {
     "iso": "1596-09-13",
-    "display": "1596-09-13 (arrival and naming per Mathes; settlement occupi",
+    "display": "1596-09-13 (arrival and naming per Mathes; settlement occupied until abandonment, final departure 28 Oct 1596)",
     "confidence": "exact"
    },
    "coords": [
@@ -1471,12 +1471,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Solemn high mass, sermon, blessing of the royal standard, then Oñate read the long written act: 'En el nombre de la Santísima Trinidad...', taking 'la tenencia y posesión real y actual, civil y natural, una, dos y tres veces... en este dicho Río del Norte, sin exceptuar cosa alguna' of all the kingdoms and provinces of New Mexico for Philip II, with a cross raised and the requerimiento framework invoked; notarized by Pérez de Donís; feasting and a comedy followed ('the first Thanksgiving' tradition). A written,…",
+   "summary": "Solemn high mass, sermon, blessing of the royal standard, then Oñate read the long written act: 'En el nombre de la Santísima Trinidad...', taking 'la tenencia y posesión real y actual, civil y natural, una, dos y tres veces... en este dicho Río del Norte, sin exceptuar cosa alguna' of all the kingdoms and provinces of New Mexico for Philip II, with a cross raised and the requerimiento framework invoked; notarized by Pérez de Donís; feasting and a comedy followed ('the first Thanksgiving' tradition). A written, witnessed, notarized instrument survives.",
    "result": "off-map-comparandum",
    "facts": [
     [
      "Actors",
-     "Don Juan de Oñate (governor and captain-general, read and executed the act); Fray Alonso Martínez (Franciscan commissary; mass and sermon) with the Franciscans; the testimonio names ten friars as witnesses; Juan Pérez d"
+     "Don Juan de Oñate (governor and captain-general, read and executed the act); Fray Alonso Martínez (Franciscan commissary; mass and sermon) with the Franciscans; the testimonio names ten friars as witnesses; Juan Pérez de Donís (royal escribano and secretary of the expedition, certified the act); the whole army and colony present; Villagrá adds the royal standard given to Diego Núñez and a celebratory comedy."
     ],
     [
      "Ceremony",
@@ -1489,25 +1489,25 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 22, Ramo 13; 'Testimonio de la toma de posesión de las provincias de Nuevo México por el gobernador don Juan de Oñate en nombre del Rey Felipe II', 30 April 1598, 7 pp., naming the ten friar-witnesses; same ramo holds the obediencias y vasallaje",
+     "citation": "Archivo General de Indias, Seville, Patronato, Legajo 22, Ramo 13; 'Testimonio de la toma de posesión de las provincias de Nuevo México por el gobernador don Juan de Oñate en nombre del Rey Felipe II', 30 April 1598, 7 pp., naming the ten friar-witnesses; same ramo holds the obediencias y vasallajes of the pueblos and the Itinerario copy (4 Oct 1599) [unknown. PARES search endpoint 429 at check; Patronato series widely digitized on PARES ( Scholes transcripts at UNM CSWR MSS 841]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://library.unm.edu/cswr/docs/nmarchives/FindingAids/mss841patronato.pdf"
     },
     {
-     "citation": "'Treslado de la posesión que en nombre de Su Magestad tomó Don Juan de Oñate, de los Reynos y Provincias de la Nueva México...', in Pacheco & Cárdenas, Colección de documentos inéditos... de América y Oceanía (CDI, 1.ª serie), XVI (Madrid, 1871), 88-141 (act of 30 April 1598 at the head, followed by the acts of obedience and vassalage) , ",
+     "citation": "'Treslado de la posesión que en nombre de Su Magestad tomó Don Juan de Oñate, de los Reynos y Provincias de la Nueva México...', in Pacheco & Cárdenas, Colección de documentos inéditos... de América y Oceanía (CDI, 1.ª serie), XVI (Madrid, 1871), 88-141 (act of 30 April 1598 at the head, followed by the acts of obedience and vassalage) . Full Spanish act text",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Gaspar Pérez de Villagrá, Historia de la Nueva México (Alcalá de Henares, 1610), fols. 114-132; the prose act inserted at Canto XIV ('DE COMO SE TOMO Y APREHENDIO LA POSSESION DE LA NUEVA TIERRA'); reprinted Mexico: Museo Nacional, 1900 (ed. González Obregón), digitized by the Library of Congress; modern bilingual ed. M. Encinias, A. Rod",
+     "citation": "Gaspar Pérez de Villagrá, Historia de la Nueva México (Alcalá de Henares, 1610), fols. 114-132; the prose act inserted at Canto XIV ('DE COMO SE TOMO Y APREHENDIO LA POSSESION DE LA NUEVA TIERRA'); reprinted Mexico: Museo Nacional, 1900 (ed. González Obregón), digitized by the Library of Congress; modern bilingual ed. M. Encinias, A. Rodríguez, J. P. Sánchez (Albuquerque: UNM Press, 1992) . Full Spanish act text (prose, within the epic); 1992 edition gives English translation",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.loc.gov/item/04000234"
     },
     {
-     "citation": "George P. Hammond & Agapito Rey, Don Juan de Oñate, Colonizer of New Mexico, 1595-1628 (Albuquerque: UNM Press, 1953), vol. I; act of taking possession of New Mexico, 30 April 1598; the possession formula at I, 334-335 (page anchor verified via J. P. Sánchez, 'Villagrá's Historia and the Itinerario', n.30; full span commonly cited as I,",
+     "citation": "George P. Hammond & Agapito Rey, Don Juan de Oñate, Colonizer of New Mexico, 1595-1628 (Albuquerque: UNM Press, 1953), vol. I; act of taking possession of New Mexico, 30 April 1598; the possession formula at I, 334-335 (page anchor verified via J. P. Sánchez, 'Villagrá's Historia and the Itinerario', n.30; full span commonly cited as I, 329-336. Full English translation of the act: 'I take and seize tenancy and possession, real and actual, civil and natural, one, two, and three times...",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://institutofranklin.net/sites/default/files/revistas/%5B2020-11/JosephSanchez.pdf"
@@ -1543,7 +1543,7 @@
    "name": "Puerto de San Diego (naming; mass of the feast of San Diego. NO act of possession)",
    "date": {
     "iso": "1602-11-10",
-    "display": "1602-11-10 (arrival) and 1602-11-12 (mass per the diary; Bol",
+    "display": "1602-11-10 (arrival) and 1602-11-12 (mass per the diary; Bolton notes the date confusion;",
     "confidence": "exact"
    },
    "coords": [
@@ -1560,7 +1560,7 @@
    "facts": [
     [
      "Actors",
-     "Sebastián Vizcaíno (general); Admiral Toribio Gómez de Corbán; Carmelites Fray Andrés de la Asunción (comisario), Fray Antonio de la Ascensión, Fray Tomás de Aquino (mass); captains Peguero, Alarcón, Martín de Aguilar et"
+     "Sebastián Vizcaíno (general); Admiral Toribio Gómez de Corbán; Carmelites Fray Andrés de la Asunción (comisario), Fray Antonio de la Ascensión, Fray Tomás de Aquino (mass); captains Peguero, Alarcón, Martín de Aguilar et al."
     ],
     [
      "Ceremony",
@@ -1573,7 +1573,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 372; certified copy ('Corregido con el libro original de Su Magd...') of the expedition diary, authenticated in Mexico City 8 Dec 1603 by escribano mayor Diego de Santiago; begins 'Reynando el rrey don Phelipe nuestro señor...' [not di",
+     "citation": "Archivo General de Indias, Seville, Audiencia de México, Legajo 372; certified copy ('Corregido con el libro original de Su Magd...') of the expedition diary, authenticated in Mexico City 8 Dec 1603 by escribano mayor Diego de Santiago; begins 'Reynando el rrey don Phelipe nuestro señor...' [not digitized so far as found (PARES check blocked by 429; no digitization located)]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://escholarship.org/uc/item/38295559"
@@ -1585,7 +1585,7 @@
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Newberry Library, Chicago, VAULT Ayer MS 1038. Fray Antonio de la Ascensión, 'Relación de la jornada que hizo el general Sevastián Vizcayno al descubrimiento de las Californias el año de 1602' (quarto, 248 pp., last 11 pp. autograph, signed; dated by ArchiveGrid 12 Oct 1620, by Wagner c. 1611) [not",
+     "citation": "Newberry Library, Chicago, VAULT Ayer MS 1038. Fray Antonio de la Ascensión, 'Relación de la jornada que hizo el general Sevastián Vizcayno al descubrimiento de las Californias el año de 1602' (quarto, 248 pp., last 11 pp. autograph, signed; dated by ArchiveGrid 12 Oct 1620, by Wagner c. 1611) [not digitized so far as found]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -1633,7 +1633,7 @@
    "name": "Puerto de Monterey (naming in honor of Viceroy Conde de Monterrey; mass under the great oak. NO act of possession recorded)",
    "date": {
     "iso": "1602-12-16",
-    "display": "1602-12-16 (anchored 7 p.m.) and 1602-12-17 (landing, hut/ar",
+    "display": "1602-12-16 (anchored 7 p.m.) and 1602-12-17 (landing, hut/arbor under 'una gran encina', masses; junta on dispatching the Santo Tomás;",
     "confidence": "exact"
    },
    "coords": [
@@ -1645,12 +1645,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Diary (AGI México 372): hut made by 'a great oak near the shore', mass said, the port found 'the best that could be desired'; port named Monterey for the viceroy. Ascensión (Ayer MS 1038, trans. Wagner pp. 242-245): a large tent-church set up 'under the shade of a very large live-oak', Mass of the Holy Ghost sung, then the junta that sent the Santo Tomás home with the sick and the reports/charts. NO possession formula, standard, cross-raising as claim, or escritura appears in the diary, the Libro Diario,…",
+   "summary": "Diary (AGI México 372): hut made by 'a great oak near the shore', mass said, the port found 'the best that could be desired'; port named Monterey for the viceroy. Ascensión (Ayer MS 1038, trans. Wagner pp. 242-245): a large tent-church set up 'under the shade of a very large live-oak', Mass of the Holy Ghost sung, then the junta that sent the Santo Tomás home with the sick and the reports/charts. NO possession formula, standard, cross-raising as claim, or escritura appears in the diary, the Libro Diario, Vizcaíno's letter of 28 Dec 1602 written at Monterey, or either Ascensión account.",
    "result": "naming-only",
    "facts": [
     [
      "Actors",
-     "Sebastián Vizcaíno; Ensign Pascual de Alarcón (built the hut/arbor by the oak); Carmelites Fray Andrés de la Asunción and Fray Antonio de la Ascensión (daily masses; Mass of the Holy Ghost before the council), Fray Tomás"
+     "Sebastián Vizcaíno; Ensign Pascual de Alarcón (built the hut/arbor by the oak); Carmelites Fray Andrés de la Asunción and Fray Antonio de la Ascensión (daily masses; Mass of the Holy Ghost before the council), Fray Tomás de Aquino (ill); Admiral Toribio Gómez de Corbán; cosmographer Gerónimo Martín Palacios; no notary or possession instrument at the site;"
     ],
     [
      "Ceremony",
@@ -1675,7 +1675,7 @@
      "url": "https://escholarship.org/uc/item/38295559"
     },
     {
-     "citation": "Biblioteca Nacional de España, Madrid, MS 3042. Fray Antonio de la Ascensión, 'Relación breve en que se da noticia del descubrimiento...' (1620), which states the three Carmelites had been designated so the commissary might 'tomar la posesión del Reyno de las Californias' in the king's name; an em",
+     "citation": "Biblioteca Nacional de España, Madrid, MS 3042. Fray Antonio de la Ascensión, 'Relación breve en que se da noticia del descubrimiento...' (1620), which states the three Carmelites had been designated so the commissary might 'tomar la posesión del Reyno de las Californias' in the king's name; an empowerment, with no act recorded at any port [unknown; BNE's Biblioteca Digital Hispánica not checked successfully]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://escholarship.org/uc/item/38295559"
@@ -1862,7 +1862,7 @@
    "name": "San Bruno, gulf coast c. 26.5°N north of Loreto, Baja California Sur",
    "date": {
     "iso": "1683-10",
-    "display": "1683-10 (landed 6 Oct, San Bruno's day; formal possession at",
+    "display": "1683-10 (landed 6 Oct, San Bruno's day; formal possession at the new settlement before month's end)",
     "confidence": "month"
    },
    "coords": [
@@ -2032,7 +2032,7 @@
    "name": "Posesión del Puerto de Monterrey y fundación del presidio y misión de San Carlos de Monterrey (the 'Instrumento auténtico' of possession)",
    "date": {
     "iso": "1770-06-03",
-    "display": "1770-06-03 (Pentecost Sunday); officers' certifications date",
+    "display": "1770-06-03 (Pentecost Sunday); officers' certifications dated 9 and 11 June 1770",
     "confidence": "exact"
    },
    "coords": [
@@ -2044,7 +2044,7 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": true,
-   "summary": "Enramada built and cross made ready beside the oak where Vizcaíno's Carmelites said mass in 1602; bells hung and rung; Veni Creator Spiritus; water blessed, cross planted, blessed and venerated; beach and fields sprinkled against 'infernal enemies'; sung mass by Serra before the image of Our Lady given by Abp. Lorenzana; sermon; Salve; Te Deum. Then Portolá took formal civil possession in the name of Carlos III: royal standard raised and saluted, grass pulled, stones thrown, 'performing all the acts of…",
+   "summary": "Enramada built and cross made ready beside the oak where Vizcaíno's Carmelites said mass in 1602; bells hung and rung; Veni Creator Spiritus; water blessed, cross planted, blessed and venerated; beach and fields sprinkled against 'infernal enemies'; sung mass by Serra before the image of Our Lady given by Abp. Lorenzana; sermon; Salve; Te Deum.",
    "result": "sovereign-act",
    "quotes": [
     {
@@ -2055,7 +2055,7 @@
    "facts": [
     [
      "Actors",
-     "Gov. Gaspar de Portolá (performed the civil act and 'extendió' the written instrument); Fr. Junípero Serra (blessed water and cross, sang first mass, preached, Salve and Te Deum); Fr. Juan Crespí; Capt. Juan Pérez and se"
+     "Gov. Gaspar de Portolá (performed the civil act and 'extendió' the written instrument); Fr. Junípero Serra (blessed water and cross, sang first mass, preached, Salve and Te Deum); Fr. Juan Crespí; Capt. Juan Pérez and second captain Miguel del Pino of the San Antonio (Bolton's Noticias translation calls him 'Manuel' del Pino. Chapman and Bolton's Guide both read Miguel); Lt."
     ],
     [
      "Ceremony",
@@ -2068,20 +2068,20 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville. Audiencia de Guadalajara, legajo 417 (Chapman's old signature 104-3-3), AGI, Guadalajara, 417 ('Expediente relativo a la expedición a los puertos de San Diego y Monterrey, en California...'); certified copy of the possession instrument/oath, 3 pp., enclosed with",
+     "citation": "Archivo General de Indias, Seville. Audiencia de Guadalajara, legajo 417 (Chapman's old signature 104-3-3), AGI, Guadalajara, 417 ('Expediente relativo a la expedición a los puertos de San Diego y Monterrey, en California...'); certified copy of the possession instrument/oath, 3 pp., enclosed with Portolá to Croix, San Blas, 1 Aug 1770. Chapman, Catalogue (1919), no. 1489 (p. 230): '1770. June 9. Monterey. Gaspar de Portolá, Juan Pérez, Miguel del Pino and Pedro Fages (June 11).",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/344862",
      "link_note": "PARES record id unconfirmed"
     },
     {
-     "citation": "Archivo General de la Nación, Mexico City. Ramo Californias, AGN, Californias, vol. 76 as numbered in 1913 ('Correspondencia, 1759 a 1773'): 'Autos of possession at Monterrey, by Portolá, Pérez, Pino, and Fages. June 3, June 11, 1770', filed as enclosures to the viceroy–Portolá correspondence (Port",
+     "citation": "Archivo General de la Nación, Mexico City. Ramo Californias, AGN, Californias, vol. 76 as numbered in 1913 ('Correspondencia, 1759 a 1773'): 'Autos of possession at Monterrey, by Portolá, Pérez, Pino, and Fages. June 3, June 11, 1770', filed as enclosures to the viceroy–Portolá correspondence (Portolá letters of San Diego 4 Jul 1769; Monterey 15 Jun 1770; San Blas 1 Aug 1770). Bolton, Guide to Materials...Principal Archives of Mexico (1913), p. 171 [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/guidetomaterials00bolt"
     },
     {
-     "citation": "Archivo General de la Nación, Mexico City. Ramo Californias (modern numbering), AGN, Californias, vol. 66, exp. 52, ff. 114-115v: Fages and Costansó to Viceroy Croix, 'Puerto de San Carlos Monterey', 13 June 1770, reporting the arrival at Monterey (eyewitness report accompanying the possession disp",
+     "citation": "Archivo General de la Nación, Mexico City. Ramo Californias (modern numbering), AGN, Californias, vol. 66, exp. 52, ff. 114-115v: Fages and Costansó to Viceroy Croix, 'Puerto de San Carlos Monterey', 13 June 1770, reporting the arrival at Monterey (eyewitness report accompanying the possession dispatches); also exp. 53 (Fages, 13 Jun 1770, ff. 116-116v), exps. 54-55 (Fages, 1 Jul 1770, ff. 117-127v) [not digitized]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://repositorio.agn.gob.mx/api/description/417d3b6e-87dd-440c-a13c-a6ea357819da"
@@ -2105,25 +2105,25 @@
      "url": "https://archive.org/details/publicationsofac01acad"
     },
     {
-     "citation": "Palóu, Relación histórica de la vida y apostólicas tareas del venerable padre fray Junípero Serra (México, 1787), ch. XXII; English: Francisco Palóu's Life and Apostolic Labors of the Venerable Father Junípero Serra, trans. C. Scott Williams, intro. G. W. James (Pasadena, 1913), pp. 98-99 (Serra's eyewitness letter to Palóu, Monterey, fea",
+     "citation": "Palóu, Relación histórica de la vida y apostólicas tareas del venerable padre fray Junípero Serra (México, 1787), ch. XXII; English: Francisco Palóu's Life and Apostolic Labors of the Venerable Father Junípero Serra, trans. C. Scott Williams, intro. G. W. James (Pasadena, 1913), pp. 98-99 (Serra's eyewitness letter to Palóu, Monterey, feast of San Antonio = 13 June 1770, describing the whole ceremony incl.",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/franciscopalousl00palrich"
     },
     {
-     "citation": "Palóu, Noticias de la Nueva California, trans. H. E. Bolton, Historical Memoirs of New California (Berkeley: UC Press, 1926), vol. II, pp. 289-295 (ch. XXIII 'Formal possession is taken in the name of His Majesty of the port of Monterey' and ch. XXIV); Bolton's note 163 at II, 384-385 lists the unpublished MSS: 'Formal Act of Possession o",
+     "citation": "Palóu, Noticias de la Nueva California, trans. H. E. Bolton, Historical Memoirs of New California (Berkeley: UC Press, 1926), vol. II, pp. 289-295 (ch. XXIII 'Formal possession is taken in the name of His Majesty of the port of Monterey' and ch. XXIV); Bolton's note 163 at II, 384-385 lists the unpublished MSS: 'Formal Act of Possession of Monterey, June 3, 1770, signed by Portolá;",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/historicalmemoir0000fray"
     },
     {
-     "citation": "Serra to Fr. Juan Andrés (guardian of San Fernando), Monterey, 12 June 1770; trans. Antonine Tibesar, Writings of Junípero Serra (Washington: Academy of American Franciscan History, 1955), vol. I; ceremony passage at 1:169 (page as cited in K. Cherry, 'Serra and Sacred Song at the Founding of California's First Missions', Cal Poly); Serr",
+     "citation": "Serra to Fr. Juan Andrés (guardian of San Fernando), Monterey, 12 June 1770; trans. Antonine Tibesar, Writings of Junípero Serra (Washington: Academy of American Franciscan History, 1955), vol. I; ceremony passage at 1:169 (page as cited in K. Cherry, 'Serra and Sacred Song at the Founding of California's First Missions', Cal Poly); Serra to Gálvez, 2 July 1770 ('account of the formal act of possession at Monterey', AGI copy = Chapman no. 1509, p. 232) also in Tibesar I .",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015019766065"
     },
     {
-     "citation": "Costansó, Diario Histórico de los Viages de Mar, y Tierra hechos al Norte de la California (México, 24 Oct 1770); trans. in 'The Narrative of the Portolá Expedition of 1769-1770 by Miguel Costansó', ed. A. van Hemert-Engert and F. J. Teggart, APCH Publications vol. 1, no. 4 (Berkeley, 1910), Monterey occupation at pp. 150-159",
+     "citation": "Costansó, Diario Histórico de los Viages de Mar, y Tierra hechos al Norte de la California (México, 24 Oct 1770); trans. in 'The Narrative of the Portolá Expedition of 1769-1770 by Miguel Costansó', ed. A. van Hemert-Engert and F. J. Teggart, APCH Publications vol. 1, no. 4 (Berkeley, 1910), Monterey occupation at pp. 150-159 .",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/publicationsofac01acad"
@@ -2159,7 +2159,7 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": true,
-   "summary": "Per Sierra's eyewitness diary: cross adored on the beach, Te Deum Laudamus chanted, procession of officers and most of both crews to the hilltop, cross set up, 'the Commandant took formal possession of the territory, in accordance with the instructions of his Excellency the Viceroy Don Antonio Maria Bucareli'; Campa's Mass and sermon; gun volleys answered by the ships' cannon; port named for the feast of the Santisima Trinidad. Mourelle (Barrington trans., 483-84) adds: crews marched in two bodies, square…",
+   "summary": "Per Sierra's eyewitness diary: cross adored on the beach, Te Deum Laudamus chanted, procession of officers and most of both crews to the hilltop, cross set up, 'the Commandant took formal possession of the territory, in accordance with the instructions of his Excellency the Viceroy Don Antonio Maria Bucareli'; Campa's Mass and sermon; gun volleys answered by the ships' cannon; port named for the feast of the Santisima Trinidad.",
    "result": "sovereign-act",
    "quotes": [
     {
@@ -2170,7 +2170,7 @@
    "facts": [
     [
      "Actors",
-     "Bruno de Hezeta (comandante, performed the act and executed the escritura); Juan Francisco de la Bodega y Quadra present (had the Yurok chief shout 'Long live Charles III!'); Fray Miguel de la Campa Cos OFM (said the fir"
+     "Bruno de Hezeta (comandante, performed the act and executed the escritura); Juan Francisco de la Bodega y Quadra present (had the Yurok chief shout 'Long live Charles III!'); Fray Miguel de la Campa Cos OFM (said the first Mass and preached); Fray Benito de la Sierra OFM (co-chanted the Te Deum); pilot Cristobal Revilla prepared the hilltop site at dawn."
     ],
     [
      "Ceremony",
@@ -2183,7 +2183,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, Estado, Legajo 38, Docs. 6 and 7 (Hezeta's two escrituras de posesion, Trinidad + Rada de Bucareli; which number is which act not established) = modern PARES ESTADO,38A,N.6 / N.7 (INFERRED from the verified match Servin Doc. 8 = PARES ESTADO,38A,N.8) [unknown (PAR",
+     "citation": "Archivo General de Indias, Seville, Estado, Legajo 38, Docs. 6 and 7 (Hezeta's two escrituras de posesion, Trinidad + Rada de Bucareli; which number is which act not established) = modern PARES ESTADO,38A,N.6 / N.7 ( 8 = PARES ESTADO,38A,N.8) [digitization unconfirmed; the sibling units N.5 and N.8 are digitized]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/64437",
@@ -2263,12 +2263,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Sierra (eyewitness, in the launch): 'the Commandant, I, the pilot and the surgeon and twenty armed men went in the launch to take possession of the land, which was done without opposition but with the greatest possible haste and without mass being said, because the weather and the position of the Frigate did not admit of any delay' (CHSQ 9:3, 227). Cross erected (Bancroft NWC I, 160-61). Same morning, a few miles south, the Sonora's seven-man watering party (led by Pedro Santa Ana per Mourelle) was killed by…",
+   "summary": "Sierra (eyewitness, in the launch): 'the Commandant, I, the pilot and the surgeon and twenty armed men went in the launch to take possession of the land, which was done without opposition but with the greatest possible haste and without mass being said, because the weather and the position of the Frigate did not admit of any delay' (CHSQ 9:3, 227). Cross erected (Bancroft NWC I, 160-61).",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
-     "Bruno de Hezeta (performed; escritura in his name); Fray Benito de la Sierra; the pilot (Cristobal Revilla per Bancroft); the surgeon (Juan Davalos/Gonzales per Bancroft and HistoryLink); about twenty armed men in the la"
+     "Bruno de Hezeta (performed; escritura in his name); Fray Benito de la Sierra; the pilot (Cristobal Revilla per Bancroft); the surgeon (Juan Davalos/Gonzales per Bancroft and HistoryLink); about twenty armed men in the launch. No Mass - no time."
     ],
     [
      "Ceremony",
@@ -2366,7 +2366,7 @@
    "name": "Puerto de los Remedios (Puerto de Nuestra Senora de los Remedios)",
    "date": {
     "iso": "1775-08-18",
-    "display": "1775-08-18 (Mourelle's journal: entered 9 a.m., landed about",
+    "display": "1775-08-18 (Mourelle's journal: entered 9 a.m., landed about noon 'the same day';",
     "confidence": "exact"
    },
    "coords": [
@@ -2383,7 +2383,7 @@
    "facts": [
     [
      "Actors",
-     "Juan Francisco de la Bodega y Quadra (commander of the Sonora; the escritura is his - Servin n.7: 'Escritura de posesion tomada por Juan Francisco de la Bodega y Cuadra... Doc. 9'); landing party of five per Mourelle ('f"
+     "Juan Francisco de la Bodega y Quadra (commander of the Sonora; the escritura is his - Servin n.7: 'Escritura de posesion tomada por Juan Francisco de la Bodega y Cuadra... Doc. 9'); landing party of five per Mourelle ('five of us landed about noon'), Wagner says 'he went ashore with all his men'; Francisco Antonio Mourelle presumably among them. No chaplain aboard the Sonora (Arteaga's 1779 remark, Wagner I, 194)."
     ],
     [
      "Ceremony",
@@ -2470,7 +2470,7 @@
    "name": "Puerto de Bucareli / Entrada de Bucareli",
    "date": {
     "iso": "1775-08-24",
-    "display": "1775-08-24 (entered 2 p.m. doubling the cape at 55 deg 17 mi",
+    "display": "1775-08-24 (entered 2 p.m. doubling the cape at 55 deg 17 min; PARES catalogue of the escritura: 'que tomo el 24 de agosto de 1775')",
     "confidence": "exact"
    },
    "coords": [
@@ -2487,7 +2487,7 @@
    "facts": [
     [
      "Actors",
-     "Francisco Antonio Mourelle (second pilot of the Sonora) performed the act and executed the escritura, by order of Bodega y Quadra who was indisposed ('our Captain gave me orders (being himself indisposed) that I should l"
+     "Francisco Antonio Mourelle (second pilot of the Sonora) performed the act and executed the escritura, by order of Bodega y Quadra who was indisposed ('our Captain gave me orders (being himself indisposed) that I should land... take possession for his Majesty of this part of the coast, and name it Bucarelly'). Cape at the north entrance named San Bartolome (saint's day 24 Aug). No priest present."
     ],
     [
      "Ceremony",
@@ -2504,7 +2504,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, ESTADO,38A,N.8 (= Servin's 'Estado, Leg. 38, Doc. 8'): 'Testimonio autorizado del acta de posesion del puerto de Bucareli, que tomo el 24 de agosto de 1775, Francisco Antonio Maurelle, piloto de la goleta La Sonora, en nombre del rey...', certified Mexico 9 Dec 17",
+     "citation": "Archivo General de Indias, Seville, ESTADO,38A,N.8 (= Servin's 'Estado, Leg. 38, Doc. 8'): 'Testimonio autorizado del acta de posesion del puerto de Bucareli, que tomo el 24 de agosto de 1775, Francisco Antonio Maurelle, piloto de la goleta La Sonora, en nombre del rey...', certified Mexico 9 Dec 1775, 7 folios; PARES description id 64439 [digitized (16 images on PARES)]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/show/64439",
@@ -2591,7 +2591,7 @@
    ],
    "sources": [
     {
-     "citation": "Wagner's intro, CHSQ 9:3 (1930), 205 (vault: wagner-sierra-1775-chsq-1930-read.md). ⚠ Contradicted by the eyewitness 1775 record (scurvy crew, canoe smashed, no recorded landing ceremony) and by Cook, Flood Tide 83 ('four formal acts of possession far to the north' = Trinidad, Grenville, Remedios, Bucareli). Enter as a retrospective vicer",
+     "citation": "Wagner's intro, CHSQ 9:3 (1930), 205 (vault: wagner-sierra-1775-chsq-1930-read.md). ⚠ Contradicted by the eyewitness 1775 record (scurvy crew, canoe smashed, no recorded landing ceremony) and by Cook, Flood Tide 83 ('four formal acts of possession far to the north' = Trinidad, Grenville, Remedios, Bucareli). Enter as a retrospective viceregal CLAIM, not a verified act; but a census built for this project cannot omit the row",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -2614,7 +2614,7 @@
    "name": "Formal possession of the Presidio de San Francisco (patron San Francisco de Asís)",
    "date": {
     "iso": "1776-09-17",
-    "display": "1776-09-17 (feast of the Impression of the Stigmata of St. F",
+    "display": "1776-09-17 (feast of the Impression of the Stigmata of St. Francis)",
     "confidence": "exact"
    },
    "coords": [
@@ -2631,7 +2631,7 @@
    "facts": [
     [
      "Actors",
-     "Lt. José Joaquín Moraga (comandante; he and the officers performed the possession in the king's name); Capt. Fernando Quirós, pilots José de Cañizares and Cristóbal Revilla and the crew of the San Carlos; Fr. Francisco "
+     "Lt. José Joaquín Moraga (comandante; he and the officers performed the possession in the king's name); Capt. Fernando Quirós, pilots José de Cañizares and Cristóbal Revilla and the crew of the San Carlos; Fr. Francisco Palóu sang the mass, assisted by Frs. Pedro Benito Cambón, José Nocedal (ship's chaplain) and Tomás de la Peña; ~150+ persons present. No notary known; no written instrument located."
     ],
     [
      "Ceremony",
@@ -2650,7 +2650,7 @@
      "url": "https://archive.org/details/historicalmemoir0000fray"
     },
     {
-     "citation": "Archivo General de la Nación, Mexico City ('Archivo General y Público'), Moraga's official account/report of the founding of San Francisco, 1776; 'the unpublished official manuscript in the Archivo General y Público, Mexico' (Bolton, Anza's California Expeditions III, preface); ramo/volume not stat",
+     "citation": "Archivo General de la Nación, Mexico City ('Archivo General y Público'), Moraga's official account/report of the founding of San Francisco, 1776; 'the unpublished official manuscript in the Archivo General y Público, Mexico' (Bolton, Anza's California Expeditions III, preface); ramo/volume not stated [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/anzascaliforniae03bolt"
@@ -2668,13 +2668,13 @@
      "url": "https://archive.org/details/anzascaliforniae03bolt"
     },
     {
-     "citation": "Palóu, Vida (1787), SF founding account; trans. C. Scott Williams (1913), pp. 203-205: 'Formal possession of the presidio was taken on the 17th of September... The officers then performed the solemn act of taking possession in the name of Our Sovereign, with a cannonade from vessel and shore'. Translation of Palóu's first-person descript",
+     "citation": "Palóu, Vida (1787), SF founding account; trans. C. Scott Williams (1913), pp. 203-205: 'Formal possession of the presidio was taken on the 17th of September... The officers then performed the solemn act of taking possession in the name of Our Sovereign, with a cannonade from vessel and shore' . Translation of Palóu's first-person description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/franciscopalousl00palrich"
     },
     {
-     "citation": "Palóu, Noticias, trans. Bolton, Historical Memoirs of New California, vol. IV (1926) (SF founding chapters; page numbers not verified; vol. IV not in the open IA set consulted); H. E. Bolton, An Outpost of Empire (= Anza's California Expeditions I, 1930), pp. 469-471; Z. S. Eldredge, The Beginnings of San Francisco (San Francisco, 1912),",
+     "citation": "Palóu, Noticias, trans. Bolton, Historical Memoirs of New California, vol. IV (1926) (SF founding chapters; page numbers not verified; vol. IV not in the open IA set consulted); H. E. Bolton, An Outpost of Empire (= Anza's California Expeditions I, 1930), pp. 469-471; Z. S. Eldredge, The Beginnings of San Francisco (San Francisco, 1912), I, pp. 150-151; Bancroft, History of California I, pp. 288-289 . Translations/descriptions of the ceremony; none prints any instrument (none is known)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/anzascaliforniae01bolt"
@@ -2704,7 +2704,7 @@
    "name": "Formal possession/founding of Mission San Francisco de Asís (Mission Dolores), 'la Laguna de los Dolores'",
    "date": {
     "iso": "1776-10-09",
-    "display": "1776-10-09 per Palóu's Vida and Bancroft (the mission's offi",
+    "display": "1776-10-09 per Palóu's Vida and Bancroft (the mission's official founding date);",
     "confidence": "exact"
    },
    "coords": [
@@ -2716,12 +2716,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Church/site blessed (3 Oct); on the founding day the site was blessed, the Holy Cross set up, procession with the image of St. Francis carried on a frame, first High Mass sung by Palóu with sermon on St. Francis; repeated salvos of muskets and the bark's swivel-guns brought ashore, and rockets; feast (two beeves). Palóu's Vida calls the presidio rite the model: this was 'the formal possession of the Mission', delayed from 17 Sept. Religious/mission possession in the king's name and that of the College of San…",
+   "summary": "Church/site blessed (3 Oct); on the founding day the site was blessed, the Holy Cross set up, procession with the image of St. Francis carried on a frame, first High Mass sung by Palóu with sermon on St. Francis; repeated salvos of muskets and the bark's swivel-guns brought ashore, and rockets; feast (two beeves). Palóu's Vida calls the presidio rite the model: this was 'the formal possession of the Mission', delayed from 17 Sept. Religious/mission possession in the king's name and that of the College of San Fernando; distinct from a sovereignty claim over territory (that was Monterey 1770).",
    "result": "founding-rite",
    "facts": [
     [
      "Actors",
-     "Fr. Francisco Palóu (sang mass, preached; first minister, with Fr. Pedro Benito Cambón); Lt. José Joaquín Moraga and the presidio troops; Capt. Fernando Quirós, officers and crew of the San Carlos; Frs. Nocedal and Peña."
+     "Fr. Francisco Palóu (sang mass, preached; first minister, with Fr. Pedro Benito Cambón); Lt. José Joaquín Moraga and the presidio troops; Capt. Fernando Quirós, officers and crew of the San Carlos; Frs. Nocedal and Peña. Performed WITHOUT the authorization of Capt. Rivera y Moncada, which never arrived ('Thus Rivera's opposition was ignored'. Bolton)."
     ],
     [
      "Ceremony",
@@ -2841,7 +2841,7 @@
    "facts": [
     [
      "Actors",
-     "Ignacio de Arteaga y Bazan (expedition commander, Princesa; the escritura is his - Servin n.8: AGI Estado Leg. 38, Doc. 12); all the officers (incl. Bodega y Quadra, Quiros, Mourelle) and the chaplains Fray Juan Antonio "
+     "Ignacio de Arteaga y Bazan (expedition commander, Princesa; the escritura is his - Servin n.8: AGI Estado Leg. 38, Doc. 12); all the officers (incl. Bodega y Quadra, Quiros, Mourelle) and the chaplains Fray Juan Antonio Garcia Riobo OFM, Fray Matias de Santa Catalina Noriega OFM, and the secular priest Cristobal Diaz, ashore in procession."
     ],
     [
      "Ceremony",
@@ -2861,13 +2861,13 @@
      "link_note": "PARES record id unconfirmed"
     },
     {
-     "citation": "Archivo General de la Nacion, Mexico City, Historia (Historical Section), vols. 63-64 (original 1779 diaries of Arteaga, Bodega, Quiros, Camacho, Pantoja, Canizares, Aguirre, per Wagner I, 195); Mourelle's 1779 diary = W. A. Clark Jr. Library, Los Angeles [not digitized (no AGN Historia fondo online",
+     "citation": "Archivo General de la Nacion, Mexico City, Historia (Historical Section), vols. 63-64 (original 1779 diaries of Arteaga, Bodega, Quiros, Camacho, Pantoja, Canizares, Aguirre, per Wagner I, 195); Mourelle's 1779 diary = W. A. Clark Jr. Library, Los Angeles [not digitized (no AGN Historia fondo online)]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
     },
     {
-     "citation": "Archivo General de Indias, Seville, certified diary copies: Est. Aud. Mex. 18, Docs. 13-19 (Wagner I, 195-96); also ESTADO,38A,N.13 (Arteaga diary copy, 210 fols., PARES id 64444, digitized 428 imgs) and ESTADO,38A,N.14 (Quiros diary copy, 70 fols., PARES id 64445, digitized 140 imgs) [digitized (N.",
+     "citation": "Archivo General de Indias, Seville, certified diary copies: Est. Aud. Mex. 18, Docs. 13-19 (Wagner I, 195-96); also ESTADO,38A,N.13 (Arteaga diary copy, 210 fols., PARES id 64444, digitized 428 imgs) and ESTADO,38A,N.14 (Quiros diary copy, 70 fols., PARES id 64445, digitized 140 imgs) [digitized (N.13 and N.14 on PARES)]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/show/64444",
@@ -2880,7 +2880,7 @@
      "url": null
     },
     {
-     "citation": "[Fr. Juan Antonio Garcia Riobo], 'An Account of the Voyage Made by the Frigates Princesa and Favorita in the Year 1799 [recte 1779] from San Blas to Northern Alaska', trans. Walter Thornton SJ, Catholic Historical Review 4, no. 2 (July 1918): 222-229, Santiago possession at 227-228; translation of eyewitness chaplain's account; descripti",
+     "citation": "[Fr. Juan Antonio Garcia Riobo], 'An Account of the Voyage Made by the Frigates Princesa and Favorita in the Year 1799 [recte 1779] from San Blas to Northern Alaska', trans. Walter Thornton SJ, Catholic Historical Review 4, no. 2 (July 1918): 222-229, Santiago possession at 227-228 . translation of eyewitness chaplain's account; description only",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/jstor-25011566"
@@ -2916,7 +2916,7 @@
    "name": "Nuestra Senora de la Regla (ensenada de Nuestra Senora de la Regla; island group incl. Isla de San Aniceto)",
    "date": {
     "iso": "1779-08-02",
-    "display": "1779-08-02 (anchored 9 a.m. 2 Aug, 'a day memorable for our ",
+    "display": "1779-08-02 (anchored 9 a.m. 2 Aug, 'a day memorable for our religious order' - the Franciscan Portiuncula feast;",
     "confidence": "exact"
    },
    "coords": [
@@ -2933,7 +2933,7 @@
    "facts": [
     [
      "Actors",
-     "Fernando Bernardo de Quiros y Miranda (second commander of the Princesa; the escritura is his - Servin n.8: 'Escritura de la posesion tomada por Bernardo de Quiros, MS, A.G.I., Estado, Leg. 38, Doc. 12'), with Bodega y Q"
+     "Fernando Bernardo de Quiros y Miranda (second commander of the Princesa; the escritura is his - Servin n.8: 'Escritura de la posesion tomada por Bernardo de Quiros, MS, A.G.I., Estado, Leg. 38, Doc. 12'), with Bodega y Quadra and Mourelle 'with quite a party' crossing to the bay from the anchorage (Wagner I, 194)."
     ],
     [
      "Ceremony",
@@ -3007,12 +3007,12 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "Timber cut for a large cross, a hut-chapel and altar table; Serra blessed the ground and the Holy Cross, which was raised and venerated; first mass attended by governor, officers and troops; sermon; per Palóu the ceremony concluded 'by the formal act of taking possession of the site, without the slightest opposition on the part of the natives'; Bancroft (from Neve's and Serra's letters) records mass and a chanted alabado on 21 April. A secondary account (California Military Museum, uncited detail) adds…",
+   "summary": "Timber cut for a large cross, a hut-chapel and altar table; Serra blessed the ground and the Holy Cross, which was raised and venerated; first mass attended by governor, officers and troops; sermon; per Palóu the ceremony concluded 'by the formal act of taking possession of the site, without the slightest opposition on the part of the natives'; Bancroft (from Neve's and Serra's letters) records mass and a chanted alabado on 21 April. A secondary account (California Military Museum, uncited detail) adds flag-raising and the grass-pulling ritual. Mission Santa Barbara was NOT founded until 4/16 Dec 1786; only the presidio in 1782.",
    "result": "founding-rite",
    "facts": [
     [
      "Actors",
-     "Gov. Felipe de Neve (presided; the civil 'formal act of taking possession of the site'); Fr. Junípero Serra (blessed the ground and cross, sang first mass, preached, chanted the alabado); Lt. José Francisco Ortega (first"
+     "Gov. Felipe de Neve (presided; the civil 'formal act of taking possession of the site'); Fr. Junípero Serra (blessed the ground and cross, sang first mass, preached, chanted the alabado); Lt. José Francisco Ortega (first comandante); the new Santa Barbara company (a lieutenant, ensign, sergeants, ~42+ soldiers) and Neve's Monterey escort. No notary known; no instrument located."
     ],
     [
      "Ceremony",
@@ -3029,13 +3029,13 @@
    ],
    "sources": [
     {
-     "citation": "Bancroft Library, Berkeley. Archives of California (Savage transcripts; the original provincial archives burned in San Francisco, 1906), Provincial Records, MS, ii. 61-62, 64: Neve to Commandant-General Teodoro de Croix, 24 April 1782, reporting the founding (Bancroft, Hist. Cal. I, 377 n.10); also",
+     "citation": "Bancroft Library, Berkeley. Archives of California (Savage transcripts; the original provincial archives burned in San Francisco, 1906), Provincial Records, MS, ii. 61-62, 64: Neve to Commandant-General Teodoro de Croix, 24 April 1782, reporting the founding (Bancroft, Hist. Cal. I, 377 n.10); also Croix to Neve, 22 July 1782, approving, Prov. St. Pap., MS, iii. 232-233 [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://archive.org/details/works-of-hubert-howe-bancroft_1884_18"
     },
     {
-     "citation": "Santa Barbara Mission Archive-Library (originals); Bancroft Library copy = 'Archivo de Santa Bárbara' transcripts, Serra letter of 29 April 1782 on the founding (Bancroft's citation: Arch. Sta. Bárbara, MS, ix. 293-294); presidio baptismal register with Serra's autograph founding title; in the orig",
+     "citation": "Santa Barbara Mission Archive-Library (originals); Bancroft Library copy = 'Archivo de Santa Bárbara' transcripts, Serra letter of 29 April 1782 on the founding (Bancroft's citation: Arch. Sta. Bárbara, MS, ix. 293-294); presidio baptismal register with Serra's autograph founding title; in the original register Serra wrote 'esta misión de Santa Bárbara' with 'misión' struck out and 'presidio' written above (register cited by Bancroft as Arch. Sta. Bárbara, MS, vii. 32-33) [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.sbmal.org/"
@@ -3053,7 +3053,7 @@
      "url": "https://archive.org/details/works-of-hubert-howe-bancroft_1884_18"
     },
     {
-     "citation": "Serra's 1782 correspondence in A. Tibesar, ed., Writings of Junípero Serra, 4 vols. (Washington, 1955-66); the April-May 1782 letters (volume/pages not verified in this pass); 'The Founders of Santa Barbara', California State Military Museum (secondary, with the register anecdote). Translations of Serra's letters; secondary description",
+     "citation": "Serra's 1782 correspondence in A. Tibesar, ed., Writings of Junípero Serra, 4 vols. (Washington, 1955-66); the April-May 1782 letters (volume/pages not verified in this pass); 'The Founders of Santa Barbara', California State Military Museum (secondary, with the register anecdote) . Translations of Serra's letters; secondary description",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://militarymuseum.org/SBFounding.html"
@@ -3344,7 +3344,7 @@
    "facts": [
     [
      "Actors",
-     "Esteban José Martínez (commander, Princesa), Gonzalo López de Haro (San Carlos), chaplain Fr. José María Díaz (said Mass, 'the first ever said on these coasts between 50 and 60 degrees'), both ships' chaplains, officers,"
+     "Esteban José Martínez (commander, Princesa), Gonzalo López de Haro (San Carlos), chaplain Fr. José María Díaz (said Mass, 'the first ever said on these coasts between 50 and 60 degrees'), both ships' chaplains, officers, troops"
     ],
     [
      "Ceremony",
@@ -3406,7 +3406,7 @@
    "name": "Toma de posesión at Unalaska (anchorage off the northern point)",
    "date": {
     "iso": "1788-07-21",
-    "display": "1788-07-21 (Bancroft; the Princesa entered the Russian harbo",
+    "display": "1788-07-21 (Bancroft; the Princesa entered the Russian harbor on 28 July)",
     "confidence": "exact"
    },
    "coords": [
@@ -3462,7 +3462,7 @@
    "name": "Toma de posesión of the Puerto de Santa Cruz, Bahía de San Lorenzo de Nuca, and the whole coast",
    "date": {
     "iso": "1789-06-24",
-    "display": "1789-06-24 (Wednesday, feast of St John; act states lat 49°3",
+    "display": "1789-06-24 (Wednesday, feast of St John; act states lat 49°33'N, long 20°18' W of San Blas)",
     "confidence": "exact"
    },
    "coords": [
@@ -3479,7 +3479,7 @@
    "facts": [
     [
      "Actors",
-     "Esteban José Martínez (commander); notary of the expedition Rafael de Cañizares drew the instrument; chaplains José López de Nava (celebrated High Mass) and José María Díaz; Franciscans of San Fernando: Fr. Severo Patero"
+     "Esteban José Martínez (commander); notary of the expedition Rafael de Cañizares drew the instrument; chaplains José López de Nava (celebrated High Mass) and José María Díaz; Franciscans of San Fernando: Fr. Severo Patero (president, preached), Fr. Lorenzo Socies ('Lacies'), Fr. José Espí, Fr."
     ],
     [
      "Ceremony",
@@ -3492,7 +3492,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de Indias, Seville, old pressmark '90-3-18' - 'Instrument of possession, San Lorenzo de Nootka, June 24, 1789' (Manning 1905, n.121; modern signature equivalent not established here - Manning's 90-3-18 items are the viceregal correspondence series, cf. DCB's AGI México legs. 1529-153",
+     "citation": "Archivo General de Indias, Seville, old pressmark '90-3-18' - 'Instrument of possession, San Lorenzo de Nootka, June 24, 1789' (Manning 1905, n.121; modern signature equivalent not established here - Manning's 90-3-18 items are the viceregal correspondence series, cf. DCB's AGI México legs. 1529-1530 for Martínez) [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -3660,7 +3660,7 @@
    ],
    "sources": [
     {
-     "citation": "Archivo General de la Nación, México, Historia, vol. 68, exps. 7-10: 'Acts of taking possession (Escrituras de posecion) of different places about Príncipe Guillermo. June 3, 8, 10, and July 15, 1790' (Bolton, Guide, 41); also cited as 'Actos de posesión de Salvador Fidalgo, 1790', AGN Historia 68,",
+     "citation": "Archivo General de la Nación, México, Historia, vol. 68, exps. 7-10: 'Acts of taking possession (Escrituras de posecion) of different places about Príncipe Guillermo. June 3, 8, 10, and July 15, 1790' (Bolton, Guide, 41); also cited as 'Actos de posesión de Salvador Fidalgo, 1790', AGN Historia 68, in Servín 1957 n.23 [not digitized]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": null
@@ -3827,7 +3827,7 @@
    "facts": [
     [
      "Actors",
-     "Alférez Manuel Quimper; pilots Gonzalo López de Haro and Juan Carrasco; soldiers and sailors in the longboat and two (Clayoquot-bought) canoes; NO chaplain ('I performed the ceremonies which the instructions prescribe, e"
+     "Alférez Manuel Quimper; pilots Gonzalo López de Haro and Juan Carrasco; soldiers and sailors in the longboat and two (Clayoquot-bought) canoes; NO chaplain ('I performed the ceremonies which the instructions prescribe, except those which pertain to the chaplain, as none had been given to me')"
     ],
     [
      "Ceremony",
@@ -3846,7 +3846,7 @@
      "url": null
     },
     {
-     "citation": "Archivo General de Indias, Seville, ESTADO, 43, N.14 - 'Expedición de Manuel Quimper y Francisco de Eliza al descubrimiento del Estrecho de Fuca' (Mexico, 12-1-1791): contains 'testimonio y toma de posesión... del puerto de Revillagigedo (Sooke Inlet) el 23 de junio de 1790' and 'Copias nº 3, 4 y 5",
+     "citation": "Archivo General de Indias, Seville, ESTADO, 43, N.14 - 'Expedición de Manuel Quimper y Francisco de Eliza al descubrimiento del Estrecho de Fuca' (Mexico, 12-1-1791): contains 'testimonio y toma de posesión... del puerto de Revillagigedo (Sooke Inlet) el 23 de junio de 1790' and 'Copias nº 3, 4 y 5 de la toma de posesión de los puertos bahías y tierras descubiertas en la expedición, con ocho planos' (PARES description via Google index;",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/64730",
@@ -3944,7 +3944,7 @@
    "name": "Puerto de Quimper (New Dungeness) - toma de posesión",
    "date": {
     "iso": "1790-07-08",
-    "display": "1790-07-08 (5:30 am departure from ship; back aboard by 9 am",
+    "display": "1790-07-08 (5:30 am departure from ship; back aboard by 9 am)",
     "confidence": "exact"
    },
    "coords": [
@@ -3980,7 +3980,7 @@
      "url": null
     },
     {
-     "citation": "Archivo General de Indias, Seville, ESTADO, 43, N.14 - includes 'testimonio y toma de posesión... de las tierras... cercanas al nuevamente nombrado puerto y bahía de Quimper (New Dungeness Bay) el 8 de julio de 1790... siendo testigos el piloto Gonzalo López de Haro y el guardiamarina Juan Carrasco'",
+     "citation": "Archivo General de Indias, Seville, ESTADO, 43, N.14 - includes 'testimonio y toma de posesión... de las tierras... cercanas al nuevamente nombrado puerto y bahía de Quimper (New Dungeness Bay) el 8 de julio de 1790... siendo testigos el piloto Gonzalo López de Haro y el guardiamarina Juan Carrasco' (PARES description via Google index) [unknown]",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/64730",
@@ -4011,7 +4011,7 @@
    "name": "Puerto de Revillagigedo, Cook Inlet (ceremony of sovereignty near Russian Alexandrovsk)",
    "date": {
     "iso": "1790-07-15",
-    "display": "1790-07-15 per Bolton's calendar of the escritura; narrative",
+    "display": "1790-07-15 per Bolton's calendar of the escritura; narrative secondary sources give 5 July 1790 (day after first Russian contact on 4 July)…",
     "confidence": "exact"
    },
    "coords": [
