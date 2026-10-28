@@ -860,6 +860,10 @@
      "Cabrillo and the companies of the San Salvador and Victoria (no notary named)"
     ],
     [
+     "Ceremony",
+     "the relación records only that possession was taken; no ritual detail survives"
+    ],
+    [
      "Native presence",
      "named in the sources; see summary/quotes"
     ],
@@ -914,6 +918,10 @@
      "Cabrillo and company (no notary named)"
     ],
     [
+     "Ceremony",
+     "the relación records only that possession was taken; no ritual detail survives"
+    ],
+    [
      "Class",
      "sovereign-act"
     ]
@@ -962,6 +970,10 @@
     [
      "Actors",
      "Cabrillo and company; two Spaniards sent inland with Indian guides carrying a letter to the rumored Christians (no notary named)"
+    ],
+    [
+     "Ceremony",
+     "the relación records only that possession was taken; no ritual detail survives"
     ],
     [
      "Native presence",
@@ -1016,6 +1028,10 @@
     [
      "Actors",
      "Cabrillo and company"
+    ],
+    [
+     "Ceremony",
+     "no ceremony is described; the act is inferred from the name Posesión given to the island"
     ],
     [
      "Class",
@@ -1761,6 +1777,10 @@
      "Juan de Oñate; 'took possession of this port in the name of his Majesty, and gave possession in his Majesty's name to the Father Commissary, Fray Francisco de Escobar'"
     ],
     [
+     "Ceremony",
+     "no escribano is named and no ritual is itemised; the relación records the statement of possession only"
+    ],
+    [
      "Class",
      "sovereign-act"
     ]
@@ -1809,12 +1829,16 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "",
+   "summary": "Atondo y Antillon anchored in the bay on 1 April 1683 and issued a formal proclamation. The company landed on the 2nd and planted a palmetto cross, and on the 5th all disembarked with the royal standard, a salute was fired, three vivas were shouted for Carlos II, and the admiral took possession for the king, naming the province Santisima Trinidad de las Californias and the place Nuestra Senora de la Paz. Kino and Goni took ecclesiastical possession the same day. The notary Diego de Salas drew up the record, signed on 5 April by Atondo, the priests, four officers and the notary.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
      "Adm. Isidro de Atondo y Antillón, with Frs. Kino, Goñi, Guijosa as signatories"
+    ],
+    [
+     "Ceremony",
+     "royal standard raised, salute fired, three vivas for Carlos II, palmetto cross planted, banner of Nuestra Senora de los Remedios, ecclesiastical possession by Kino and Goni, notarial record by Diego de Salas"
     ],
     [
      "Class",
@@ -1874,12 +1898,16 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "",
+   "summary": "After La Paz failed, Atondo landed in October 1683 at a bay far to the north of it, in twenty-six and a half degrees, which he named San Bruno for the saint of the day, and took formal possession again in the king's name 'con las acostumbradas ceremonias.' Venegas, recording the act, called it one repeated many times with more pomp than fruit. San Bruno was the last place formally claimed in the peninsula before Loreto in 1697.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
      "Atondo ('Otondo took formal possession of the land in the name of the king'. Engelhardt)"
+    ],
+    [
+     "Ceremony",
+     "the customary ceremonies ('las acostumbradas ceremonias'); no itemised description survives"
     ],
     [
      "Class",
@@ -1935,12 +1963,16 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "",
+   "summary": "Salvatierra's party landed at the bay of San Dionisio on Saturday 19 October 1697, raised a tent chapel and planted a large cross, and carried the statue of Our Lady of Loreto in procession from the ship to the chapel, whereupon possession was taken of the country for the king after the usual manner. Palou's Noticias dates the formal possession of the peninsula and the first Mass to 25 October, which became the mission's official founding date.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
      "Juan María de Salvatierra's entrada (royal possession taken 'for the king after the usual manner')"
+    ],
+    [
+     "Ceremony",
+     "tent chapel raised, large cross planted, statue of Our Lady of Loreto borne in procession, possession taken for the king, first Mass on 25 October"
     ],
     [
      "Class",
@@ -1984,12 +2016,16 @@
    "layer": "spain",
    "symbol": "cross",
    "symbol_major": false,
-   "summary": "",
+   "summary": "On Pentecost Sunday, 14 May 1769, at the frontier station of San Fernando de Velicata, Portola took solemn possession of the country in the name of the Spanish king while Serra blessed the chapel and the cross and founded the mission the same morning, naming Fray Miguel de la Campa its missionary. It is the one act on the overland route where a sovereign possession and a mission founding were performed together.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
      "Gaspar de Portolá. Palóu: 'on the morning of the feast of Pentecost Portolá took solemn possession of the country in the name of the Spanish king'; Serra founded the mission the same morning"
+    ],
+    [
+     "Ceremony",
+     "Pentecost Mass, chapel and cross blessed, solemn possession in the king’s name, mission founded the same morning"
     ],
     [
      "Class",
@@ -2585,6 +2621,10 @@
      "Juan Francisco de la Bodega y Quadra. Revillagigedo's 12 Apr 1793 report: Bodega 'anchored in the port of his name in 38°18′ close to San Francisco and took possession of it'"
     ],
     [
+     "Ceremony",
+     "no act is recorded in any eyewitness text; the 1793 claim rests on the visit alone"
+    ],
+    [
      "Class",
      "claim-only; a later assertion of possession, no executed act established"
     ]
@@ -3091,6 +3131,10 @@
      "Grigorii Shelikhov (Russia)"
     ],
     [
+     "Ceremony",
+     "no ceremony attested; possession asserted by settlement"
+    ],
+    [
      "Class",
      "founding-rite (possession by settlement)"
     ]
@@ -3117,7 +3161,7 @@
    ],
    "native_groups": [],
    "tags": [
-    "sovereign-act",
+    "founding-rite",
     "rivals"
    ],
    "notes": ""
@@ -3424,6 +3468,10 @@
     [
      "Actors",
      "Esteban José Martínez"
+    ],
+    [
+     "Ceremony",
+     "possession taken in the name of Spain; the ritual is not itemised in the source"
     ],
     [
      "Class",
@@ -4232,12 +4280,16 @@
    "layer": "england",
    "symbol": "crown",
    "symbol_major": true,
-   "summary": "Formal possession of \"New Georgia\" on the king's birthday",
+   "summary": "On 4 June 1792, George III's birthday, the crews were served a double allowance of grog to drink the king's health and Vancouver went ashore about one o'clock with Broughton and his officers, 'pursuing the usual formalities' and under a royal salute from the vessels. He took possession of the coast from New Albion in latitude 39 degrees 20 minutes north to the entrance of the supposed strait of Juan de Fuca, naming the interior sea the Gulf of Georgia and the continent binding it New Georgia. The branch of Admiralty Inlet where it was done he named Possession Sound. The ceremony came two years after the Nootka Convention was supposed to have closed the age of such acts.",
    "result": "sovereign-act",
    "facts": [
     [
      "Actors",
      "George Vancouver (England); with Lt. W. R. Broughton and officers ashore"
+    ],
+    [
+     "Ceremony",
+     "royal salute from the vessels, the usual formalities performed ashore, the king’s health drunk, possession declared from 39°20′N to the Fuca entrance, New Georgia and Possession Sound named"
     ],
     [
      "Class",
@@ -4336,12 +4388,16 @@
    "layer": "russia",
    "symbol": "eagle",
    "symbol_major": true,
-   "summary": "Plate + coat of arms (double eagle) buried inside the Spanish bay",
+   "summary": "Numbered iron plate No. 1000 with a brass cross, together with a coat of arms bearing the double-headed eagle, buried at a point recorded as being in the northern arm of San Francisco, where the fort and mission of the Spaniards were built, that is inside San Pablo Bay. The marker was concealed rather than proclaimed: possession performed where no rival could witness it. The spot has never been found.",
    "result": "concealed-act",
    "facts": [
     [
      "Actors",
      "Russian-American Co. (Kuskov voyage)"
+    ],
+    [
+     "Ceremony",
+     "numbered iron plate and imperial coat of arms buried; a concealed act, with no public ceremony and no notice to Spain"
     ],
     [
      "Class",
@@ -4783,6 +4839,10 @@
     [
      "Actors",
      "Francisco de Eliza (commandant), with Pedro de Alberní's Catalonian Volunteers and Salvador Fidalgo and Manuel Quimper present"
+    ],
+    [
+     "Ceremony",
+     "a repeat of the 1789 ceremony, ‘with all the glitter and glamour of the preceding occasion’; fort San Miguel and the settlement re-established"
     ],
     [
      "Class",
