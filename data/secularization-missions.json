@@ -733,8 +733,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 161 (Pico's consolidated alienation record).",
-     "ca_record": "ca51-d161",
+     "citation": "St. Pap., Missions (C-A 51), Doc 46: handover inventory of Mission San Juan Capistrano, 1838 (warehouse goods, wine and oil, soap, forge, carpentry, loom, bakery, shoemaking, tannery).",
+     "ca_record": "ca51-d046",
      "ia_leaf_url": null
     },
     {
@@ -865,13 +865,13 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 50) Doc 445 (the 1834 entrega).",
-     "ca_record": "ca50-d445",
+     "citation": "St. Pap., Missions (C-A 51), Doc 28: Antonio del Valle, secularization inventory of Mission San Fernando, 26 July 1835 (active credits $5,736; buildings $15,511; 32,000 black-grape vines; workshop tools; church and sacristy).",
+     "ca_record": "ca51-d028",
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 161.",
-     "ca_record": "ca51-d161",
+     "citation": "St. Pap., Missions (C-A 50) Doc 445 (the 1834 entrega).",
+     "ca_record": "ca50-d445",
      "ia_leaf_url": null
     },
     {
@@ -1002,13 +1002,13 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 50) Doc 443 (the 1835 inventory).",
-     "ca_record": "ca50-d443",
+     "citation": "St. Pap., Missions (C-A 51), Doc 29: Raymundo Carrillo, active credits $15,390.87 and liabilities $4,628.37 of Mission Santa Barbara, 25 October 1838.",
+     "ca_record": "ca51-d029",
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 161.",
-     "ca_record": "ca51-d161",
+     "citation": "St. Pap., Missions (C-A 50) Doc 443 (the 1835 inventory).",
+     "ca_record": "ca50-d443",
      "ia_leaf_url": null
     },
     {
@@ -1073,11 +1073,6 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 161.",
-     "ca_record": "ca51-d161",
-     "ia_leaf_url": null
-    },
-    {
      "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
@@ -1134,13 +1129,13 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 50) Doc 439 (the 1834 inventory).",
-     "ca_record": "ca50-d439",
+     "citation": "St. Pap., Missions (C-A 51), Doc 25: comisionado Domingo Carrillo to administrator Joaquin Carrillo, secularization handover inventory of Mission La Purisima, 18 August 1838 (total $27,981; credits $1,774; liabilities $1,371).",
+     "ca_record": "ca51-d025",
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 161.",
-     "ca_record": "ca51-d161",
+     "citation": "St. Pap., Missions (C-A 50) Doc 439 (the 1834 inventory).",
+     "ca_record": "ca50-d439",
      "ia_leaf_url": null
     },
     {
@@ -1195,8 +1190,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 161.",
-     "ca_record": "ca51-d161",
+     "citation": "St. Pap., Missions (C-A 51), Doc 118: handover inventory of Mission San Luis Obispo, 1836, with asset valuations by category.",
+     "ca_record": "ca51-d118",
      "ia_leaf_url": null
     },
     {
@@ -1261,11 +1256,6 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 128 (the 1837 inventory).",
-     "ca_record": "ca51-d128",
-     "ia_leaf_url": null
-    },
-    {
      "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
@@ -1316,6 +1306,11 @@
    "result": "",
    "quote": null,
    "sources": [
+    {
+     "citation": "St. Pap., Missions (C-A 51), Doc 24: Mariano Soberanes to Jose Ramirez, secularization handover inventory of the pueblo of San Antonio, 10 October 1835 (total $7,883).",
+     "ca_record": "ca51-d024",
+     "ia_leaf_url": null
+    },
     {
      "citation": "St. Pap., Missions (C-A 50) Doc 448 (the 1834 entrega).",
      "ca_record": "ca50-d448",
@@ -1377,11 +1372,6 @@
    "result": "",
    "quote": null,
    "sources": [
-    {
-     "citation": "St. Pap., Missions (C-A 51) Doc 161.",
-     "ca_record": "ca51-d161",
-     "ia_leaf_url": null
-    },
     {
      "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
@@ -1546,6 +1536,11 @@
    "quote": null,
    "sources": [
     {
+     "citation": "St. Pap., Missions (C-A 51), Doc 53: comisionado Ignacio del Valle to Fr. Antonio del Real, inventory of the church and library of Mission Santa Cruz, 1 December 1835 (church $7,550; ornaments and furniture $23,383; library of 152 volumes).",
+     "ca_record": "ca51-d053",
+     "ia_leaf_url": null
+    },
+    {
      "citation": "St. Pap., Missions (C-A 50) Doc 452 (the 1835 inventory).",
      "ca_record": "ca50-d452",
      "ia_leaf_url": null
@@ -1662,11 +1657,6 @@
    "result": "",
    "quote": null,
    "sources": [
-    {
-     "citation": "St. Pap., Missions (C-A 51) Doc 143 (Hartnell's San José visita).",
-     "ca_record": "ca51-d143",
-     "ia_leaf_url": null
-    },
     {
      "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
@@ -1785,13 +1775,13 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 50) Doc 458 (the 1834 inventory).",
-     "ca_record": "ca50-d458",
+     "citation": "St. Pap., Missions (C-A 51), Doc 117: inventory of the extinguished Mission San Rafael at handover, 1836, with a credits and debits ledger.",
+     "ca_record": "ca51-d117",
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 149 (Hartnell's San Rafael report).",
-     "ca_record": "ca51-d149",
+     "citation": "St. Pap., Missions (C-A 50) Doc 458 (the 1834 inventory).",
+     "ca_record": "ca50-d458",
      "ia_leaf_url": null
     },
     {
@@ -2110,8 +2100,13 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 151 (the 24 Jun 1839 report).",
-     "ca_record": "ca51-d151",
+     "citation": "William E. P. Hartnell, visita diary and copybook as Visitador General of the Missions of Alta California, 1839-1840, translated by Starr Pait Gurcke and edited by Glenn J. Farris (2004). Page references for this entry are not yet recorded.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Dep. Rec. (C-A 49), Doc 470: the Visitador Hartnell sets out, 1839.",
+     "ca_record": "ca49-d470",
      "ia_leaf_url": null
     }
    ],
@@ -2147,8 +2142,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 149 (the San Rafael report).",
-     "ca_record": "ca51-d149",
+     "citation": "William E. P. Hartnell, visita diary and copybook as Visitador General of the Missions of Alta California, 1839-1840, translated by Starr Pait Gurcke and edited by Glenn J. Farris (2004). Page references for this entry are not yet recorded.",
+     "ca_record": null,
      "ia_leaf_url": null
     }
    ],
@@ -2182,8 +2177,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 149 (reported with the San Rafael visitation).",
-     "ca_record": "ca51-d149",
+     "citation": "William E. P. Hartnell, visita diary and copybook as Visitador General of the Missions of Alta California, 1839-1840, translated by Starr Pait Gurcke and edited by Glenn J. Farris (2004). Page references for this entry are not yet recorded.",
+     "ca_record": null,
      "ia_leaf_url": null
     }
    ],
@@ -2215,8 +2210,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 143.",
-     "ca_record": "ca51-d143",
+     "citation": "William E. P. Hartnell, visita diary and copybook as Visitador General of the Missions of Alta California, 1839-1840, translated by Starr Pait Gurcke and edited by Glenn J. Farris (2004). Page references for this entry are not yet recorded.",
+     "ca_record": null,
      "ia_leaf_url": null
     }
    ],
@@ -2250,8 +2245,13 @@
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 148 (the 26 Aug 1840 report).",
-     "ca_record": "ca51-d148",
+     "citation": "William E. P. Hartnell, visita diary and copybook as Visitador General of the Missions of Alta California, 1839-1840, translated by Starr Pait Gurcke and edited by Glenn J. Farris (2004). Page references for this entry are not yet recorded.",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Dep. Rec. (C-A 49), Doc 623: on the office and salary of Hartnell as Visitador de Misiones, 1840.",
+     "ca_record": "ca49-d623",
      "ia_leaf_url": null
     }
    ],
@@ -2346,7 +2346,7 @@
   {
    "id": "voice-slr-refusal-1835",
    "register_no": null,
-   "name": "'Somos libres': San Luis Rey refuses to work",
+   "name": "San Luis Rey refuses to work",
    "date": {
     "iso": "1835-01",
     "display": "December 1834 – March 1835",
@@ -2359,13 +2359,13 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "voices",
-   "summary": "Portilla's reports from San Luis Rey: the Luiseños refuse absolutely to return to mission labor; 'somos libres, no queremos volver, no queremos trabajar.' The plainest statement of what emancipation meant to the emancipated.",
+   "summary": "Portilla's reports from San Luis Rey: the Luiseños refuse absolutely to return to mission labor; reportedly in the words 'somos libres, no queremos volver, no queremos trabajar', a sentence not yet traced to a document. The plainest statement of what emancipation meant to the emancipated.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 156 (Portilla → Figueroa).",
-     "ca_record": "ca51-d156",
+     "citation": "Reports of Capt. Pablo de la Portilla from San Luis Rey, December 1834 to March 1835. The exact document has not been identified in the Archives of California catalogue, and the Spanish sentence quoted in this entry has not been located in any source consulted; it should be treated as unverified until the manuscript is found.",
+     "ca_record": null,
      "ia_leaf_url": null
     }
    ],
@@ -2468,11 +2468,6 @@
    "result": "",
    "quote": null,
    "sources": [
-    {
-     "citation": "St. Pap., Missions (C-A 51) Doc 141 (the juzgado record).",
-     "ca_record": "ca51-d141",
-     "ia_leaf_url": null
-    },
     {
      "citation": "Dep. St. Pap., Benicia Mil. (C-A 20) Doc 226 (the Temecula land conspiracy record: the land 'propiedad de todos').",
      "ca_record": "ca20-d226",
