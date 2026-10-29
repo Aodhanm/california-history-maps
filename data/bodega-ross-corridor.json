@@ -337,14 +337,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Russia negotiates land cession with Kashaya Pomo chiefs; not Spanish authorities. \"Allies of Russia\" medals distributed 1819. Russians treat indigenous peoples as sovereign landowners because, north of the Bay, they are.",
+   "summary": "Hagemeister convened the chiefs at Ross and had a protocol drawn recording their consent to the Company's occupation, with Spanish authority nowhere in the instrument. The protocol was signed by the Russian witnesses and the chiefs assented orally, so it is better described as recorded consent than as a mutually signed treaty. Medals reading allies of Russia were given out in 1819. Russia grounded its title here in recorded indigenous consent, where Spain grounded its own in the bull of 1493.",
    "result": "Russia treats Pomo as sovereign; Spain does not exist here",
    "quote": null,
    "sources": [
     {
-     "citation": "Protocol of the meeting at Colony Ross between the Indian tribal chiefs and Captain-Lieutenant Hagemeister, 22 September 1817. Archives of Foreign Policy of the Russian Empire, published by the Fort Ross Conservancy Digital Library in the 2012 bicentennial collection of sixteen documents.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Protocol of the meeting at Colony Ross between the Indian tribal chiefs and Captain-Lieutenant Hagemeister, 22 September 1817; Archive of Foreign Policy of the Russian Empire (AVPRI), reprinted in the Fort Ross Conservancy's 2012 bicentennial collection of documents, and in Istomin, Gibson and Tishkov (eds.), Russian California 1806-1860: A History in Documents (Moscow, 2005)."
+    },
+    {
+     "citation": "Glenn Farris, 'The Russian Imprint on the Colonization of California', and his discussion of the 1817 protocol and the 1819 medals."
     }
    ],
    "native_groups": [],
@@ -367,14 +368,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Ivan Kuskov, RAC commercial councillor at Ross, writes directly to the SF commandant \"in the name of the Honorable Russian-American Company under special protection of His Majesty the Emperor of all the Russias,\" sending agent Slobodchikov to settle accounts and pressing for the return of captured Kodiak Aleuts.",
-   "result": "Ross corresponds with SF as one sovereign to another",
+   "summary": "Ivan Kuskov, the Russian-American Company's man at Ross, corresponds directly with the San Francisco commandant. He had received the French-language letter sent through Moraga and Gervasio Argüello but had no interpreter for it; he sends the Company's confidential agent Slobodchikov to San Francisco with a boat and three bidarkas to settle the balance due, offering goods by the enclosed invoice or two oxen instead; and he presses again for the return of the Kodiak men, adding that if Arrillaga has truly ordered it they should be forwarded, and if not, 'it is my duty to inform my superior officers and the Home Government'. Ross writing to a Spanish presidio as one administration to another.",
+   "result": "Ross corresponds with San Francisco as one administration with another",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12 C431 / C433 (Jun 1814).",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1218-20 / Savage pp. 369-370 / scan n376-n377, Doc 440. Iván Kuskov, 8 June 1814, in the English translation by Iván Pisteff that Savage copied.",
+     "ca_record": "ca12-d440",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n376"
     }
    ],
    "native_groups": [],
@@ -518,14 +519,19 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "The RAC ship Suvorov (Lazarev) calls at San Francisco carrying a formal RAC directors' overture \"to the noble and honoured Spanish inhabitants of California,\" invoking Russo-Spanish friendship, the 1812 treaty, and Rezanov's 1806 visit; the institutional Russian demand for the California provision trade, arriving by ship.",
-   "result": "The RAC's formal trade-opening request, delivered to SF",
+   "summary": "The Russian ship Suvorov, from St Petersburg under Lazarev, anchored at San Francisco on 20 August 1815 asking water, wood and provisions, which were promised. She carried a formal passport and proclamation from the Company's directors, addressed «á nuestros buenos amigos y vecinos, los nobles y honrados Españoles habitantes de Cal.», to our good friends and neighbours, the noble and honoured Spaniards inhabiting California. The address invokes the long Russo-Spanish friendship, the treaty of Veliky Luki of 1812, the Battle of Vitoria with Jourdan's baton and 130 cannon taken, Napoleon's catastrophe in Russia, the regiment of Spanish prisoners named for Alexander, and Wellington crossing the Pyrenees; then it recounts Rezanov's visit to San Francisco in 1806 and the bid to open commerce between California and the Company's colonies at Kodiak and Sitka. The institutional Russian demand for the California provision trade, arriving by ship.",
+   "result": "The Company's formal trade overture delivered at San Francisco",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12 C478 + C479 (Suvorov 1815; passport-proclamation St. Petersburg, 12 Jul 1811).",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. p. 1404 / Savage pp. 395-396 / scan n402-n403, Doc 486. Luis Argüello on the arrival of the Russian ship, 21 August 1815.",
+     "ca_record": "ca12-d486",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n402"
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 12), tomo xix, orig. pp. 1405-10 / Savage pp. 396-399 / scan n403-n408, Doc 487. The passport and proclamation of the Suvorov, signed by the Company's directors Buldakov, Kramer and Zelensky under Alexander I, St Petersburg, 12 July 1811; the English above is a translation of the Spanish Savage copied.",
+     "ca_record": "ca12-d487",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n403"
     }
    ],
    "native_groups": [],
@@ -580,14 +586,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok informant tells Commandant Sal two ships at Bodega; soldiers \"dressed like ours turned inside out.\" Earliest warning of foreign presence, 3 weeks before diplomatic intelligence through official channels.",
-   "result": "Indigenous networks faster than imperial intelligence",
+   "summary": "An Indian 'de las Islas' came before the presidio and told Sal there were two ships at Bodega. Sal's own report: the man answered that they did not understand what was said to them, «y q.e los soldados traían ropa como nuestras vueltas, de q.e colegí serían ingleses», that the soldiers wore clothing like our facings, from which Sal inferred they must be English. Asked again, the informant said the ships had been there four moons and were no longer there, that they had taken water and wood and killed many deer, and that they had asked the Indians for cattle, showing them cattle horns. The English identification is Sal's inference from the clothing, not something the informant said, and «vueltas» is most likely the turned-back facings of a uniform; it is not a report of clothes worn inside out. Indigenous intelligence reaching the presidio three weeks ahead of the official channel.",
+   "result": "Native networks ahead of imperial intelligence; the nationality a Spanish inference",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 55, vi.67–68.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "St. Pap., Sac. (BANC MSS C-A 55), tomo vi, orig. pp. 67-68 / scan n66-n67, Doc 124. Hermenegildo Sal, San Francisco, 8 October 1792, «Buques ingleses en Bodega». Savage prints Sal's first-person report inside quotation marks; leaf re-read at full resolution.",
+     "ca_record": "ca55-d124",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_17/page/n66"
     }
    ],
    "native_groups": [],
@@ -610,14 +616,12 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok tell Goycoechea the eastern shores are \"impassable\"; he takes the harder western route via Marin headlands. Later admitted he was \"deceived.\" Information control: indigenous peoples directing Spanish military movements.",
-   "result": "Indigenous information warfare; Spain deceived",
+   "summary": "The Coast Miwok told Goycoechea, through his interpreter, that there was a vessel at the mouth of the port and that if he went their way he could speak to its captain, 'as the lagoon joined the sea and we could not cross it'. He went that way, down the west side of Tomales Bay, against instructions that had ordered him up the east side, and found he could not get round. Meeting Matute on 8 August he consulted him 'about the deceit practiced on me by the natives who had assured me that I could not cross the lagoon because it made a turn and entered the sea'. Wagner, editing him, suggests he may simply have misunderstood them. Either way, the route the Spanish party took that week was settled by what the people of the lagoon told it.",
+   "result": "A Spanish march routed by local information, mistaken or given",
    "quote": null,
    "sources": [
     {
-     "citation": "Wagner 1931:342–345.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Goycoechea's diary, 6 to 8 August 1793, AGN Sección Historia vol. 70, translated in Wagner, CHSQ 10, no. 4 (1931), 342-44, with the editor's notes 69 and 73."
     }
    ],
    "native_groups": [],
@@ -747,27 +751,28 @@
   {
    "id": "menzies-lands-at-tomales-bay",
    "register_no": null,
-   "name": "Menzies Lands at Tomales Bay",
+   "name": "Menzies Lands at Bodega",
    "date": {
     "iso": "1793-10-20",
     "display": "October 20, 1793",
     "confidence": "exact"
    },
    "coords": [
-    38.17,
-    -122.91
+    38.302,
+    -123.054
    ],
    "coord_precision": "place",
    "type": "event",
    "layer": "foreign",
-   "summary": "Menzies lands from Vancouver's ship. Finds cross made from cask stave, horse tracks from Goycoechea's expedition. Coast Miwok calling \"Amico,\" speaking Spanish, pointing up lagoon repeating \"Spaniard.\" British find Spanish traces in territory Spain couldn't hold.",
+   "summary": "Menzies landed from the Chatham with Lieutenant Puget on 20 October 1793, in a bay whose latitude they fixed by observation at 38 deg. 19' 30\" N. On the bluff headland they found a cross lately put up, made of a piece of a cask stave lashed to a pole with a rope yarn, and the brush burned off around it; Wagner, reading Goycoechea and Matute alongside, puts that cross on Bodega Head. Walking down to the channel they met a party of Coast Miwok who sat down at their approach and called out 'Amico', friend, a word Menzies had no doubt they had from the Spaniards, and who pointed repeatedly up the lagoon when they spoke of Spaniards. Four miles further south the Chatham passed the mouth of the next opening, about a mile wide, without entering it. The 1924 editor's footnote glossing the inland water as Tomales Bay is why this landing is often placed there.",
    "result": "British find evidence of failed Spanish expedition",
    "quote": null,
    "sources": [
     {
-     "citation": "Menzies 1924:301–304.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Menzies' California journal, California Historical Society Quarterly 2, no. 4 (1924), 301-04."
+    },
+    {
+     "citation": "Wagner, 'The Last Spanish Exploration of the Northwest Coast', CHSQ 10, no. 4 (1931), 338: Menzies at Bodega Bay on 20 October 1793, and the cross on Bodega Head."
     }
    ],
    "native_groups": [],
@@ -871,7 +876,7 @@
   {
    "id": "sola-to-viceroy-san-rafael-russian-threat",
    "register_no": null,
-   "name": "Solá to Viceroy: San Rafael + Russian Threat",
+   "name": "Solá to the Viceroy: San Rafael and the Russians in One Despatch",
    "date": {
     "iso": "1818-04",
     "display": "April 1818",
@@ -884,14 +889,17 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanish",
-   "summary": "Same letter contains Mission San Rafael founding AND Russian threat warning. Dual purpose: health + strategic. Proves mission expansion was explicitly about territorial defense against Russia.",
-   "result": "Missions as counter-Russian strategy",
+   "summary": "One despatch carries both the new establishment at San Rafael and the warning about the Russian posts at Ross and Bodega. That the two concerns travelled together is the fact; that the mission was founded for the Russians is a further claim the letter does not settle. Bancroft, reading the same report, gives the health of the San Francisco neophytes as doubtless the true reason for the foundation and attributes the anti-Russian motive to Russian writers rather than to the Spanish record.",
+   "result": "Two concerns in one despatch; the motive contested, not proved",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. Rec. (BANC MSS C-A 25), tomo ix, orig. pp. 583-604 / scan n429-n449, Doc 756: Sola's report to the Viceroy, Monterey, 3 April 1818, on the Russian establishments at Ross and Bodega.",
+     "citation": "Prov. Rec. (BANC MSS C-A 25), tomo ix, orig. pp. 583-604 / scan n429-n449, Doc 756: Solá's report to the Viceroy, Monterey, 3 April 1818, on the Russian establishments at Ross and Bodega.",
      "ca_record": "ca25-d756",
-     "ia_leaf_url": null
+     "ia_leaf_url": "https://archive.org/details/168036074_80_7_2/page/n429"
+    },
+    {
+     "citation": "Bancroft, History of California II (1885), 328-30, for the health reason and the Russian-writers attribution."
     }
    ],
    "native_groups": [],
@@ -914,7 +922,7 @@
    "coord_precision": "exact",
    "type": "event",
    "layer": "russian",
-   "summary": "The measuring stick. A single Russian-American Company outpost, founded September 1812 with about 95 Russians and 80 Alaska Native hunters. A 1813 Spanish intelligence report credited it with about 13 mounted cannon; Moraga's 1814 eyewitness reconnaissance counted 8 cannon in two corner towers with embrasures for far more. Either figure matches or exceeds the serviceable artillery of the entire San Francisco defense in the same decade.",
+   "summary": "The measuring stick. A single Russian-American Company outpost, founded September 1812. Gabriel Moraga's eyewitness reconnaissance of 30 July 1814 describes a firm wooden quadrangle with two corner torreones of four cannon each and about twenty-six embrasures, the other two corners empty; an interior galpón serving as barracks and warehouse; vegetable gardens; bidarkas of sea-lion hide; about forty personas de razón and many Kodiaks; some thirty cattle and horses in a separate enclosure; a night sentinel at Kuskov's house; and the ship gone to Sitka with grain and furs. His military judgement was about the approach rather than the walls: artillery could not be brought up without a better road. A 1813 Spanish intelligence report had credited the post with about thirteen mounted cannon. Either figure matches or exceeds the serviceable artillery of the whole San Francisco defence in the same decade.",
    "series": [
     [
      "1812 Sep",
@@ -933,13 +941,21 @@
     ]
    ],
    "series_label": "Strength",
-   "result": "One Russian fort ≈ the principal Spanish fort, in guns and in men",
+   "result": "One Russian post the equal of the principal Spanish fort, in guns and in men",
    "quote": null,
    "sources": [
     {
-     "citation": "Presidio garrison & artillery register (vault), section 0",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1215-17 / Savage pp. 364, 367-368 / scan n371, Doc 439. Gabriel Moraga's reconnaissance and defence assessment of the Russian post at Ross, San Francisco, 30 July 1814 (unsigned).",
+     "ca_record": "ca12-d439",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n371"
+    },
+    {
+     "citation": "Bancroft, History of California II (1885), 296-98 and 630-32, for the founding, the garrison and the artillery of Ross."
+    },
+    {
+     "citation": "For the San Francisco comparison: Prov. St. Pap. (C-A 13), tomo xx, orig. pp. i.1110-1113 / Savage pp. 261-263 / scan n260-n262, Doc 332. Manuel Gómez's report of 20 March 1820: eight cannon, two of them unserviceable, and not a single veteran artilleryman.",
+     "ca_record": "ca13-d332",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n260"
     }
    ],
    "native_groups": [],
