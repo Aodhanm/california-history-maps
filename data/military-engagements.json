@@ -790,8 +790,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "yuma",
-   "summary": "Gentiles attacked 3 times, killed 5 people on the Colorado River frontier. Eastern boundary violence.",
-   "result": "5 killed across 3 attacks",
+   "summary": "On his summer-1796 frontier reconnaissance Arrillaga was attacked three times by the rancherias of the Colorado River and, in his own account, killed only five. Eastern boundary violence.",
+   "result": "Three attacks repulsed; five of the attackers killed",
    "quote": null,
    "sources": [
     {
@@ -826,12 +826,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Gov. Pablo Vicente de Sola to Jose de la Guerra, San Carlos, 21 June 1819, 'Indios del Colorado presos, y otros muertos': 'de los 21 que eran se mataron alli once, y que 10 eran los fugados' (Guerra's first parte); Fr. Jose Senan's letter of 3 June said 10 were killed; Sola repeats his request for a vigia to watch the Colorado Indians. Prov. St. Pap., Benicia Mil. (C-A 17), tomo xl-lii, orig. pp. 401-3 / Savage pp. 221-22, scan n220-n221, Doc 275.",
-     "ca_record": "ca17-d275",
-     "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n220"
-    },
-    {
-     "citation": "Gov. Sola to Jose de la Guerra, San Carlos, 6 June 1819, 'Captura de indios': asks for a lookout on the Colorado-River route and orders the four prisoners taken by Sgt. Anastasio Carrillo held at Santa Barbara for deportation. Prov. St. Pap., Benicia Mil. (C-A 17), tomo xl-lii, orig. pp. 399-400 / Savage p. 220, scan n219, Doc 274. [leaf-checked 2026-09-01: re-pointed from ca17-d274 to ca17-d275, the document that actually attests this]",
+     "citation": "Prov. St. Pap., Benicia Mil. (C-A 17), scan n220-n221, Doc 275. Gob. Sola to de la Guerra, 21 June 1819: the Colorado raid, of 21 Indians 11 killed and 10 fled per Guerra, ten attackers per Senan.",
      "ca_record": "ca17-d275",
      "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n220"
     },
@@ -852,8 +847,8 @@
    "register_no": null,
    "name": "Fages · El Canelo Skirmish",
    "date": {
-    "iso": "1782-09-21",
-    "display": "September 21, 1782",
+    "iso": "1781-09-21",
+    "display": "September 21, 1781",
     "confidence": "exact"
    },
    "coords": [
@@ -880,7 +875,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "Dated from the feature's own citation (Fages's diary entry for Friday 21 September 1781); 21 September 1781 was a Friday, 1782 was not.",
    "symbol": "swords"
   },
   {
@@ -888,8 +883,8 @@
    "register_no": null,
    "name": "Fages · Battle of October 20",
    "date": {
-    "iso": "1782-10-20",
-    "display": "October 20, 1782",
+    "iso": "1781-10-20",
+    "display": "October 20, 1781",
     "confidence": "exact"
    },
    "coords": [
@@ -921,7 +916,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "Dated from the feature's own citation (diary entries for 18-21 October 1781); the diary's entry reads 'Savado 20 de Octubre', and 20 October 1781 was a Saturday.",
    "symbol": "swords"
   },
   {
@@ -1307,7 +1302,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase2",
-   "summary": "Carquinez Strait narrows. 12–15 Mission SJ neophytes killed by gentiles controlling the strait crossing.",
+   "summary": "Carquinez Strait narrows. 12-15 Mission San Francisco neophytes killed by gentiles controlling the strait crossing.",
    "result": "INDIGENOUS VICTORY",
    "quote": null,
    "sources": [
@@ -1324,7 +1319,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "UNRESOLVED, recorded as a null finding. What I tried: (1) `q.py hist 2 131 132` - returns only the Cueva-affair and 1806 horse-slaughter records cited elsewhere on those pages, nothing for note 51; (2) content searches for 'Abella', 'batalla entre cristianos y gentiles', 'Carquines/Karquines/Carquinez', and 1807 killings of neophytes across all 63 volumes - no Feb 1807 record; (3) year-filtered sweeps of C-A 12 (Prov. St. Pap. xix), C-A 16 (Ben. Mil.) and C-A 25/26 (Prov. Rec.) for Feb-Mar 1807 - nothing on the fight. DISCREPANCY TO FLAG: Bancroft says the twelve or fifteen killed were SAN FRANCISCO mission converts; the map says Mission San Jose neophytes. Bancroft also dates the fight 3-8 Feb 1807.",
+   "notes": "UNRESOLVED, recorded as a null finding. What I tried: (1) `q.py hist 2 131 132` - returns only the Cueva-affair and 1806 horse-slaughter records cited elsewhere on those pages, nothing for note 51; (2) content searches for 'Abella', 'batalla entre cristianos y gentiles', 'Carquines/Karquines/Carquinez', and 1807 killings of neophytes across all 63 volumes - no Feb 1807 record; (3) year-filtered sweeps of C-A 12 (Prov. St. Pap. xix), C-A 16 (Ben. Mil.) and C-A 25/26 (Prov. Rec.) for Feb-Mar 1807 - nothing on the fight. DISCREPANCY TO FLAG: Bancroft says the twelve or fifteen killed were SAN FRANCISCO mission converts; the map says Mission San Jose neophytes. Bancroft also dates the fight 3-8 Feb 1807. The dead are San Francisco converts, not San Jose: Bancroft II, 131-32, 'Twelve or fifteen of the San Francisco converts were also killed in February 1807 by the gentiles.'",
    "symbol": "swords"
   },
   {
@@ -1610,12 +1605,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (C-A 9), tomo xvi, Savage pp. 906-907 / scan n240, Doc 416. Marcos Briones to Sal, San Luis Obispo, 8 Jan. 1797.",
-     "ca_record": "ca9-d416",
-     "ia_leaf_url": "https://archive.org/details/bancarchca_79_11/page/n240"
-    },
-    {
-     "citation": "Prov. St. Pap. (C-A 9), tomo xvi, Savage pp. 904-905 / scan n239-n240, Doc 415. Marcos Briones to Sal, San Luis Obispo, 14 Jan. 1797 · the failed pursuit. [leaf-checked 2026-09-01: re-pointed from ca9-d415 to ca9-d416, the document that actually attests this]",
+     "citation": "Prov. St. Pap. (C-A 9), tomo xvi, orig. pp. 906-907 / scan n240, Doc 416. Marcos Briones to Sal, San Luis Obispo, 8 Jan. 1797, 'Muerte a un Indio cristiano': Toribio killed by an old Gentile and his two sons on suspicion of having bewitched a child.",
      "ca_record": "ca9-d416",
      "ia_leaf_url": "https://archive.org/details/bancarchca_79_11/page/n240"
     },
@@ -1651,12 +1641,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (C-A 9), tomo xvi, Savage pp. 904-905 / scan n239-n240, Doc 415. Marcos Briones to Sal, San Luis Obispo, 14 Jan. 1797.",
-     "ca_record": "ca9-d415",
-     "ia_leaf_url": "https://archive.org/details/bancarchca_79_11/page/n239"
-    },
-    {
-     "citation": "Prov. St. Pap. (C-A 9), tomo xvi, Savage pp. 794-795, 821-822 / scan n215-n217, Doc 364. Marcos Briones to Sal, San Luis Obispo, 26 Jan. 1797 · the second, successful sortie. [leaf-checked 2026-09-01: re-pointed from ca9-d364 to ca9-d415, the document that actually attests this]",
+     "citation": "Prov. St. Pap. (C-A 9), tomo xvi, orig. pp. 904-905 / scan n239-n240, Doc 415. Marcos Briones to Sal, San Luis Obispo, 14 Jan. 1797, 'Pesquisa de malhechores': the search for the malefactors, and word that the Gentiles of those parts had gathered near the headwaters as if heading for the Tulares.",
      "ca_record": "ca9-d415",
      "ia_leaf_url": "https://archive.org/details/bancarchca_79_11/page/n239"
     }
@@ -1763,7 +1748,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. Rec. (BANC MSS C-A 24), tomo vi, orig. p. 753 / Savage p. 558 (folio 235), scan leaf n560, Doc 1028. Borica to the Padres of San Antonio, Monterey, 4 April 1799, 'Indios \"Tulares\"'.",
+     "citation": "Prov. Rec. (BANC MSS C-A 24), tomo vi, orig. p. 753 / scan n560, Doc 1028. Borica to the padres of San Antonio, 'Indios fugitivos': it is on no account advisable to send neophytes or troops after the fugitive gentiles, who are too numerous and would risk a heavy loss to the spiritual conquest.",
      "ca_record": "ca24-d1028",
      "ia_leaf_url": "https://archive.org/details/168036074_80_6_2/page/n560"
     },
@@ -1771,11 +1756,6 @@
      "citation": "Prov. Rec. (BANC MSS C-A 24), tomo vi, orig. p. 753 / Savage p. 558 (folio 235), scan leaf n560, Doc 1029. Borica to the Padres of San Carlos, Monterey, 6 April 1799, 'Indios huidos' · order to Sgt. Macario Castro to go after nine runaway neophytes with trustworthy Indians chosen by the friars. [leaf-checked 2026-09-01: this document does not attest the engagement; link removed]",
      "ca_record": null,
      "ia_leaf_url": null
-    },
-    {
-     "citation": "Prov. Rec. (BANC MSS C-A 24), tomo vi, orig. p. 752 / Savage p. 558 (folio 235), scan leaf n560, Doc 1027. Borica to the Padres of San Carlos, Monterey, 20 March 1799, 'Sobre unos Indios huidos'. [leaf-checked 2026-09-01: re-pointed from ca24-d1027 to ca24-d1028, the document that actually attests this]",
-     "ca_record": "ca24-d1028",
-     "ia_leaf_url": "https://archive.org/details/168036074_80_6_2/page/n560"
     }
    ],
    "native_groups": [],
@@ -1916,8 +1896,8 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 290-92 / Savage pp. 115-18, scan leaves n117-n120, Doc 106. Arrillaga to Tte. de la Guerra, San Gabriel, 4 September 1806: orders forming the expedition. [leaf-checked 2026-09-01: re-pointed from ca12-d106 to ca12-d105, the document that actually attests this]",
-     "ca_record": "ca12-d105",
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 291-92 / scan n119-n120, Doc 106. Arrillaga to Tte. de la Guerra, 4 September 1806: the order forming the expedition, a party under Alferez Gabriel Moraga of 25 men with chaplain and interpreters, San Francisco to ready a sergeant, a corporal and eight soldiers.",
+     "ca_record": "ca12-d106",
      "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n119"
     },
     {
@@ -1928,7 +1908,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "UNRESOLVED for a C-A manuscript of the encounter itself, same reason as reg-16: the Muñoz diary is a standalone Bancroft MS, absent from all 34,567 C-A records (searched by five distinctive diary place-names, zero hits). The pre-computed candidate list for this feature was pure noise; its top hits were the O'Cain/Peacock affair at Todos Santos and a Santa Bárbara artillery inventory, nothing to do with the Tuolumne. GEOGRAPHY NOTE: Muñoz's 'Río Guadalupe' is the STANISLAUS, not the Tuolumne. Bancroft's abstract (ii. 52 n.16) identifies the river named 'Nª Sª de Guadalupe' on 2 October as the Stanislaus, and the Rio Dolores of 1 October as the Tuolumne. The map's placement of this feature in the 'Tuolumne River area' therefore conflicts with Bancroft's identification of the stream; flagged, not reconciled. The hostile demonstration is Bancroft's 'Oct. 5th, Hostile demonstrations of the Indians, whose fears could not be removed,' with the party camped back at the Rio Guadalupe.",
+   "notes": "UNRESOLVED for a C-A manuscript of the encounter itself, same reason as reg-16: the Muñoz diary is a standalone Bancroft MS, absent from all 34,567 C-A records (searched by five distinctive diary place-names, zero hits). The pre-computed candidate list for this feature was pure noise; its top hits were the O'Cain/Peacock affair at Todos Santos and a Santa Bárbara artillery inventory, nothing to do with the Tuolumne. GEOGRAPHY NOTE: Muñoz's 'Río Guadalupe' is the STANISLAUS, not the Tuolumne. Bancroft's abstract (ii. 52 n.16) identifies the river named 'Nª Sª de Guadalupe' on 2 October as the Stanislaus, and the Rio Dolores of 1 October as the Tuolumne. The map's placement of this feature in the 'Tuolumne River area' therefore conflicts with Bancroft's identification of the stream; flagged, not reconciled. The hostile demonstration is Bancroft's 'Oct. 5th, Hostile demonstrations of the Indians, whose fears could not be removed,' with the party camped back at the Rio Guadalupe. The record link here was briefly pointed at C-A 12 Doc 105, a retirement cedula; Doc 106 is the order forming Moraga's expedition and is what this citation describes.",
    "symbol": "standoff"
   },
   {
@@ -2930,7 +2910,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap., Benicia (Military) (BANC MSS C-A 17), scan n240 / Savage 241, orig. p.455, Doc 300: Gov. Sola to Capt. de la Guerra (in Mexico), Monterey, 6 Jan. 1820 · Sanchez's expedition 'muy brillante,' recommended for alferez.",
+     "citation": "Prov. St. Pap., Benicia (Military) (BANC MSS C-A 17), orig. p. 455 / scan n240, Doc 300. Gob. Sola to de la Guerra, 6 Jan. 1820: the expeditions had poor results, but Sgt. Sanchez's Santa Cruz-direction expedition was 'muy brillante', and Sola recommends him for the grade of alferez.",
      "ca_record": "ca17-d300",
      "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n240"
     },
@@ -2938,11 +2918,6 @@
      "citation": "Prov. St. Pap., Benicia (Military) (BANC MSS C-A 17), scan n227-n228 / Savage 228-229, orig. pp.421-22, Doc 284: Gov. Sola to Tte. Gabriel Moraga, San Carlos, 24 Sept. 1819 · instructions forming the campaign, including the San Francisco party under Sgt. Sanchez.",
      "ca_record": "ca17-d284",
      "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n227"
-    },
-    {
-     "citation": "Prov. St. Pap., Benicia (Military) (BANC MSS C-A 17), scan n231-n232 / Savage 232-233, orig. pp.425-30, Doc 288: Gov. Sola to Capt. de la Guerra, [Monterey], 7 Oct. 1819 · approves each presidio mounting its own expedition within its district. [leaf-checked 2026-09-01: re-pointed from ca17-d288 to ca17-d300, the document that actually attests this]",
-     "ca_record": "ca17-d300",
-     "ia_leaf_url": "https://archive.org/details/168035972_79_19_2/page/n240"
     },
     {
      "citation": "Hubert Howe Bancroft, History of California, vol. II (San Francisco: History Co., 1886), 334-36 and notes 31-32.",
@@ -5580,7 +5555,12 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Dep. St. Pap., Benicia (Military) (C-A 19), tomos lxix-lxxvii, Doc 232 (orig. p.334 / Savage p.435, scan n440): Gen. Figueroa's formal instructions to Alf. Damaso Antonio Rodriguez for the punitive expedition into the Tulares, 1833. [leaf-checked 2026-09-01: re-pointed from ca19-d232 to ca19-d231, the document that actually attests this]",
+     "citation": "Dep. St. Pap., Benicia (Military) (C-A 19), orig. pp. 492-497 / scan n435-n439, Doc 232: Gen. Figueroa's formal instructions to Alf. Damaso Antonio Rodriguez for the punitive expedition into the Tulares, 1833.",
+     "ca_record": "ca19-d232",
+     "ia_leaf_url": "https://archive.org/details/168035972_80_1_2/page/n440"
+    },
+    {
+     "citation": "Dep. St. Pap., Benicia (Military) (C-A 19), orig. pp. 501-502 / scan n440, Doc 231: Figueroa to the alcalde of Monterey, 26 February 1833, ordering armed vecinos named to join Rodriguez's expedition, with maximum secrecy.",
      "ca_record": "ca19-d231",
      "ia_leaf_url": "https://archive.org/details/168035972_80_1_2/page/n440"
     },
@@ -8896,7 +8876,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "maritime",
-   "summary": "Three English frigates (22–24 guns, 60–116 crew) anchor in the surgidero of Loreto; the capital itself; seizing a balandra, later ransomed for sugar, chocolate, and a church bell (~$8,000 losses). 'No dejan buque sin d[etener].'",
+   "summary": "Three English frigates (22–24 guns, 60–116 crew) anchor in the surgidero of Loreto; the capital itself; seizing a balandra, later ransomed for sugar, chocolate, and a church bell (~$8,000 losses). 'No dejan buque sin darle caza' (they leave no vessel unchased).",
    "result": "Capital raided; shipping seized",
    "quote": null,
    "sources": [
