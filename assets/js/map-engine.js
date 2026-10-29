@@ -188,18 +188,18 @@
       h += '</div>';
     }
     if (f.result) h += '<p class="result"><strong>' + esc(f.result) + '</strong></p>';
-    if (f.quote && f.quote.es) {
+    if (f.quote && (f.quote.es || f.quote.en)) {
       // The legacy field is named `es`, but it carries English passages and
       // editorial notes too. Tag the language only when the text really is
       // Spanish, and show the attribution when the record supplies one, so a
       // blockquote is never presented as a source quotation without its source.
-      var qt = f.quote.es,
+      var qt = f.quote.es || f.quote.en,
           isEs = /[\u00e1\u00e9\u00ed\u00f3\u00fa\u00f1\u00bf\u00a1]/.test(qt) ||
                  /\b(que|los|las|del|por|con|para|se|es|en|no)\b/i.test(qt) &&
                  !/\b(the|and|was|were|with|which|from)\b/i.test(qt);
       h += '<blockquote' + (isEs ? ' lang="es"' : '') + '>' + esc(qt) +
            (f.quote.source ? '<cite>' + esc(f.quote.source) + '</cite>' : '') + '</blockquote>';
-      if (f.quote.en) h += '<p class="quote-en">(' + esc(f.quote.en) + ')</p>';
+      if (f.quote.es && f.quote.en) h += '<p class="quote-en">(' + esc(f.quote.en) + ')</p>';
     }
     if (f.native_groups && f.native_groups.length)
       h += '<p class="native">Native peoples named in the sources: ' + esc(f.native_groups.join(', ')) + '</p>';

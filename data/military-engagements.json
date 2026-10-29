@@ -93,7 +93,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase1",
-   "summary": "First armed clash in Alta California. Spanish exploring party attacked at Cosoy. 1 Spaniard killed (blacksmith José Manuel Robles), 3 natives killed.",
+   "summary": "First armed clash in Alta California. The Spanish camp at Cosoy was attacked. One Spaniard was killed, the muleteer Jose Maria Vegerano, aged twenty; Padre Vizcaino, the blacksmith, a soldier and a Baja California Indian were wounded, the blacksmith fighting without a cuera. Three natives were killed.",
    "result": "First blood; Spanish hold position",
    "quote": null,
    "sources": [
@@ -120,7 +120,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "TWO FACTUAL PROBLEMS IN THE MAP TEXT, flagged not silently reconciled. (1) The map says the Spaniard killed was 'blacksmith José Manuel Robles'. Bancroft (I:138) says the blacksmith was WOUNDED and 'greatly distinguishes himself by his bravery, fighting without the protection of a cuera'; the man KILLED was a boy servant, and Bancroft's footnote 28, citing San Diego, Lib. Mis., MS., 65, names him 'a Spanish arriero 20 years old named José María Vegerano'. No source I consulted names any 'Robles'. The San Diego blacksmith named 'José Manuel' in Bancroft is Arroyo, who was killed in the DIFFERENT event of Nov. 1775 (feature reg-2); the map appears to have imported the 1775 blacksmith's death into the 1769 entry. (2) Bancroft's wounded are Padre Vizcaíno, the blacksmith, a soldier and a Baja California Indian; '3 natives killed' matches Bancroft. RECOMMEND correcting the summary. Nearest C-A record in date/place is ca62-d20 (Cañizares's copy of Rivera y Moncada's 1769 diary), but that diary CLOSES 3 July 1769, six weeks before the attack, so it is not an attestation and I have deliberately not linked it.",
+   "notes": "Bancroft I, 138 and n. 28 identifies the man killed from Serra's San Diego mission book as 'a Spanish arriero 20 years old named Jose Maria Vegerano'; the blacksmith was among the wounded, not the dead. Earlier versions of this entry named a blacksmith 'Jose Manuel Robles', a person the sources do not support.",
    "symbol": "swords"
   },
   {
@@ -1413,7 +1413,7 @@
   {
    "id": "reg-46-amador-s-failed-attack-at-san-jose",
    "register_no": "46",
-   "name": "Amador's Failed Attack at San José",
+   "name": "San Jose attack scare disproved",
    "date": {
     "iso": "1797",
     "display": "1797",
@@ -1424,11 +1424,10 @@
     -121.915
    ],
    "coord_precision": "place",
-   "type": "raid",
+   "type": "event",
    "layer": "phase2",
-   "summary": "\"Salió nulo el proyecto de atacar los Gentiles.\" Failed military operation by Sargento Pedro Amador.",
-   "result": "FAILED Spanish operation",
-   "quote": null,
+   "summary": "Arguello reported to Borica that the plan to attack Mission San Jose came to nothing: 'Dice salio nulo el proyecto de atacar los Gentiles a la Mis.n S.n Jose segun diligencias q.e practico el Sarg.to Amador'. The subject of 'atacar' is the gentiles and the object is the mission, so what was found baseless was a reported gentile plan against San Jose, not a Spanish operation. Bancroft reads it the same way (I, 556; I, 712).",
+   "result": "Reported attack on the mission found baseless",
    "sources": [
     {
      "citation": "Jose Dario Argüello to Gov. Diego de Borica, San Francisco, 30 Sept. 1797, 'Sobre un proyecto de ataque' - Provincial State Papers (BANC MSS C-A 9), tomo xvi, 1a pag. 48 / scan n30, Doc 26. Checked at the leaf: this document does not attest the engagement.",
@@ -1448,7 +1447,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "SUBSTANTIVE CORRECTION - the feature misreads the Spanish. I downloaded leaf n30 and transcribed Savage verbatim: '+ 1797 Set. 30 San Fran.co / Arguello a Borica sobre un proyecto de ataque. Dice salio nulo el proyecto de atacar los Gentiles a la Mis.n S.n Jose segun diligencias q.e practico el Sarg.to Amador. 1a pag. 48'. The subject of 'atacar' is 'los Gentiles' and the object is the mission: the GENTILES' plan to attack Mission San Jose came to nothing, as established by Amador's inquiry. There was no Spanish attack, hence no failed Spanish operation. Bancroft reads it the same way (I:556; I:712). Recommend retitling (e.g. 'San Jose attack scare disproved, 1797') and reclassifying the type: an alarm found baseless, not a raid.",
+   "notes": "Transcribed from the leaf: '+ 1797 Set. 30 San Fran.co / Arguello a Borica sobre un proyecto de ataque. Dice salio nulo el proyecto de atacar los Gentiles a la Mis.n S.n Jose segun diligencias q.e practico el Sarg.to Amador.' This entry formerly read as a failed Spanish attack and carried a quotation belonging to another feature.",
    "symbol": "flame"
   },
   {
