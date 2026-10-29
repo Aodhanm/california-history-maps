@@ -141,11 +141,7 @@
    "layer": "phase1",
    "summary": "800–1,000 attackers from 9+ rancherías; dual-axis plan (mission + presidio). Defenders: Cpl. Rocha + 3 soldiers, 2 friars, 3 artisans = 11 men. Padre Jayme martyred (18 arrow wounds). Blacksmith Arroyo killed. Carpenter Urselino died of wounds. Cpl. Rocha fired muskets all night from adobe enclosure.",
    "result": "INDIGENOUS TACTICAL VICTORY; first successful mission destruction",
-   "quote": {
-    "es": "\"Amad á Dios, hijos\" — Jayme's last words. Urselino left his pay \"for the benefit of his murderers.\"",
-    "en": "",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Tte. José Francisco de Ortega to Tte.-Col. Juan Bautista de Anza, San Diego, 30 Nov. 1775, 'Expediente de investigación' on the burning of Mission San Diego and the death of Fr. Luis Jayme (certified copy by Capt. Fernando de Rivera y Moncada) · Prov. St. Pap., Benicia Mil. (C-A 15), orig. pp.1–7 / Savage pp.2–9, scan n2–n8, Doc 1.",
@@ -181,7 +177,17 @@
    "native_groups": [],
    "tags": [],
    "notes": "Date/casualty checks against the manuscript: ca15-d1 gives the attack as the night of 5 Nov. 1775 (the map's 5 November is right; the catalog headline reads '4–5 Nov'). DISCREPANCY ON THE TRADES: the map says 'Blacksmith Arroyo killed. Carpenter Urselino died of wounds.' Ortega's informe as catalogued calls Manuel Arroyo a MASON (albañil) killed and Felipe Romero a mason wounded, while Bancroft I:250 calls Arroyo and Romero both BLACKSMITHS sleeping in the smithy. Both agree Urselino was the carpenter and died of his wounds (buried 10 Nov). I am not reconciling this; flagging it. Also: the manuscript names the wounded escort as cabo Rocha[?], Alejo Antonio Gonzáles, Juan Álvarez and Joaquín Armenta, which supports the map's 'Cpl. Rocha'. The map's '13+ rancherías' figure belongs properly to feature reg-63, which is the same leaf.",
-   "symbol": "swords"
+   "symbol": "swords",
+   "quotes": [
+    {
+     "text": "Amad á Dios, hijos.",
+     "cite": "Padre Luis Jayme's usual salutation, turning toward the attackers; Bancroft, History of California I (1884), 250"
+    },
+    {
+     "text": "having left all the pay due him to be used for the benefit of his murderers",
+     "cite": "the carpenter Urselino, buried 10 November 1775; Bancroft, History of California I (1884), 252"
+    }
+   ]
   },
   {
    "id": "reg-3-carrillo-s-punishment-at-alocuachomi",
@@ -388,8 +394,8 @@
    "coord_precision": "place",
    "type": "standoff",
    "layer": "phase1",
-   "summary": "Full intelligence from C-A 15: 13+ rancherías identified. Gentile woman warned of second attack planned.",
-   "result": "Intelligence document",
+   "summary": "Ortega's roster of the rancherias drawn into the November 1775 rising: the leaf names seven Christian rancherias (San Luis, Matamo, Tamacha, Mete, Yana, Abacaly and the newly reduced San Miguel) and four gentile ones (Melojo, Itai, Pocol and El Corral), with about six more unnamed. Several of the readings are doubtful on the manuscript. Warning of a second attack came from the Christian Indian Joaquin and from the capitan Mariano Yguatin.",
+   "result": "Intelligence roster: eleven rancherias named, about six more unnamed",
    "quote": null,
    "sources": [
     {
@@ -681,11 +687,7 @@
    "layer": "yuma",
    "summary": "Fages arrives at \"arruinado pueblo de la Purísima.\" Yumas have fled. Communicates with Romeu and Fueros.",
    "result": "Aftermath reconnaissance",
-   "quote": {
-    "es": "\"Los Yumas se han retirado y los demás gentiles son pacíficos.\"",
-    "en": "",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Gov.-elect Pedro Fages to Gov. Felipe de Neve, San Gabriel, 23 Apr. 1782, 'Expedición al río Colorado' · Provincial Records (C-A 22), orig. pp.563–64 / Savage p.200 (tomo folio 199), scan n200, Doc 287.",
@@ -706,7 +708,13 @@
    "native_groups": [],
    "tags": [],
    "notes": "THE MAP'S CITATION IS EXACTLY RIGHT AND I VERIFIED IT ON THE LEAF IMAGE; this is the cleanest existing link in the batch. Two small corrections to the feature's framing. (1) ADDRESSEE: the heading reads 'Fages á Neve', so this is Fages reporting to Governor Felipe de Neve, not to the Comandante General; the map does not state a recipient but the citation should. (2) GRAMMATICAL SUBJECT: Savage writes 'Que LLEGARON con felicidad al arruinado pueblo de la Purísima'; they arrived, i.e. the expedition, not Fages singly; and 'Que se comunicó con Romeu y Fueros', the two officers the map names. DATE: the feature is dated '1782' with year-confidence; the document is dated San Gabriel, 23 April 1782, so the date can be tightened. NOTE for accuracy: 'la Purísima' here is the Colorado River mission-pueblo of La Purísima Concepción (destroyed in the 1781 revolt), not Mission La Purísima Concepción in the Santa Bárbara Channel; an easy and consequential confusion on a California map, since one is on the Colorado and the other near Lompoc. The catalog summary of ca22-d287 omits the Romeu/Fueros clause that the leaf carries; that is a catalog-enrichment opportunity.",
-   "symbol": "standoff"
+   "symbol": "standoff",
+   "quotes": [
+    {
+     "text": "Los Yumas se han retirado y los demás gentiles son pacíficos.",
+     "cite": "Fages to Governor Felipe de Neve, San Gabriel, 23 April 1782"
+    }
+   ]
   },
   {
    "id": "reg-73-yuma-pacification-strategy",
@@ -726,11 +734,7 @@
    "layer": "yuma",
    "summary": "Fages proposes withdrawing troops to let Yumas return to agriculture, then apprehending ringleaders.",
    "result": "Strategy; not engagement",
-   "quote": {
-    "es": "\"Sin cuyo logro se dificultaría la aprehensión de los cabecillas.\"",
-    "en": "",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Neve to the Comandante General, Santa Barbara, 30 April 1782, on the Yumas' terror of the peninsular troops and the plan to draw them back to their sowings before seizing the ringleaders. Prov. Rec. (C-A 22), tomo ii. 176-77 / Savage p. 279, scan n280 (record spans n277-n280), Doc 2021.",
@@ -852,13 +856,13 @@
     "confidence": "exact"
    },
    "coords": [
-    32.68,
-    -114.56
+    29.6,
+    -111.1
    ],
-   "coord_precision": "place",
+   "coord_precision": "conjectural",
    "type": "battle",
    "layer": "yuma",
-   "summary": "First engagement of Fages' punitive expedition after Yuma Revolt. ~1 hour of fighting at El Canelo. 3 volunteers and 2 presidials wounded. Rescued 2 captive women and a child from Yuma captivity.",
+   "summary": "The first engagement of Fages's punitive expedition after the Yuma revolt, fought for about an hour at El Canelo. Three volunteers and two presidial soldiers were wounded; two captive women and a child were taken out of Yuma hands. El Canelo lay on the Sonoran road between Hermosillo and Querobabi, well inside Sonora rather than in California, so the pin is a guess on that road and the engagement is kept here only as part of the Colorado campaign that closed the overland route to California.",
    "result": "Spanish advance; 5 wounded, captives rescued",
    "quote": null,
    "sources": [
@@ -1668,11 +1672,7 @@
    "layer": "phase2",
    "summary": "Argüello orders Amador: \"A lo gentiles no se los violente para hacerlos de sus rancherías.\" Gentiles fled \"porque decían que querían bautizarlos\"; feared forced baptism.",
    "result": "Failed; gentiles fled",
-   "quote": {
-    "es": "\"A lo gentiles no se los violente.\"",
-    "en": "",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Prov. St. Pap. (C-A 10), tomo xvii, orig. pp. 218-220 / Savage p. 124 (stamp) / 123 (hand), scan n123, Doc 119. Argüello to Sgt. Pedro Amador, San Francisco, 12 Apr. 1798, with Amador's endorsement dated San José, 24 Apr. 1798.",
@@ -2020,11 +2020,7 @@
    "layer": "phase3a",
    "summary": "Delta; Old River area. \"Before dawn we assaulted a village.\" 15 San José Christians recovered, 18 heathen men captured, 51 women (released; \"went away very happy\"). 2 prisoners escaped.",
    "result": "Spanish decisive success; captives recovered",
-   "quote": {
-    "es": "",
-    "en": "\"Frankly military and aggressive character.\" — Cook",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Fr. José Viader, Diario de una Entrada al Río de San Joaquín, Octubre 1810, MS. (Bancroft Library titled manuscript, with a second copy from the Archivo de la Misión de Santa Bárbara; NOT in the Archives of California series), entries of 19-22 October 1810.",
@@ -2049,7 +2045,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CITATION CORRECTION, same as reg-19: 'Viader diary (Cook note 12). C-A 12'; the diary is Bancroft's 'Viader, Diario de una Entrada al Rio de San Joaquin, Octubre 1810, MS.', a standalone titled manuscript, not a C-A folio. Searched and not found (see reg-19 evidence). NUMBERS DISCREPANCY, FLAGGED NOT RECONCILED: the map says '15 San José Christians recovered, 18 heathen men captured, 51 women (released)'. Bancroft, summarising the same expedition at ii. 92, says 'sixteen Christian Indians were recovered and eighteen gentiles captured by a sudden attack on a rancheria, to say nothing of fifty women taken and set free; all without bloodshed.' 15 vs 16 Christians and 51 vs 50 women. The map's figures presumably come from Cook's text of the diary and Bancroft's from his own copy; Bancroft himself warns the two known copies of Viader disagree in details. Worth a footnote on the map rather than a silent choice. Bancroft's abstract also confirms 'Oct. 22d, Corporal Pico sent home with captives'; the link to reg-24's Pico.",
+   "notes": "⚠ CITATION CORRECTION, same as reg-19: 'Viader diary (Cook note 12). C-A 12'; the diary is Bancroft's 'Viader, Diario de una Entrada al Rio de San Joaquin, Octubre 1810, MS.', a standalone titled manuscript, not a C-A folio. Searched and not found (see reg-19 evidence). NUMBERS DISCREPANCY, FLAGGED NOT RECONCILED: the map says '15 San José Christians recovered, 18 heathen men captured, 51 women (released)'. Bancroft, summarising the same expedition at ii. 92, says 'sixteen Christian Indians were recovered and eighteen gentiles captured by a sudden attack on a rancheria, to say nothing of fifty women taken and set free; all without bloodshed.' 15 vs 16 Christians and 51 vs 50 women. The map's figures presumably come from Cook's text of the diary and Bancroft's from his own copy; Bancroft himself warns the two known copies of Viader disagree in details. Worth a footnote on the map rather than a silent choice. Bancroft's abstract also confirms 'Oct. 22d, Corporal Pico sent home with captives'; the link to reg-24's Pico. A quotation reading 'frankly military and aggressive character', credited to Cook, was published here; it is not in Colonial Expeditions and has been removed rather than left unanchored.",
    "symbol": "swords"
   },
   {
@@ -2231,7 +2227,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase3b",
-   "summary": "San Joaquin River between Dos Palos and Los Banos. Day 9: armed heathen crossing river, Cpl. Juarez engaged; killed 2. Day 10: Indians came to attack camp at dawn. Line of battle formed. Interpreter asked what they wanted; \"to fight.\" After firing, troops dismounted and pursued through brush. 3 killed, 1 captured. Dead included a Christian from Santa Cruz who was \"the one most determined\" to kill the soldiers.",
+   "summary": "On the San Joaquin between Dos Palos and Los Banos. On the 9th armed heathen crossing the river were engaged by Corporal Juarez, who killed two. At dawn on the 10th they came on to attack the camp; the troops formed a line of battle and the interpreter asked what they wanted, and was told, to fight. After the volley the troops dismounted and pursued through the brush, killing three and taking one alive. One of the dead was a Christian of Mission San Juan and a leader in stealing horses, whom the prisoners named as the one most determined to kill the soldiers. The rancheria was called Copicha. The only Spanish casualty in the engagement was Soldier Juan Espinoza, who took a dart between his coat and his skin and was not hurt.",
    "result": "Spanish victory; 5 killed total",
    "quote": null,
    "sources": [
@@ -2482,10 +2478,10 @@
   {
    "id": "reg-30-battle-at-malime-tasnil",
    "register_no": "30",
-   "name": "Battle at Malime/Tasnil",
+   "name": "Failed surprise on the apostates of Malmi",
    "date": {
-    "iso": "1816-12",
-    "display": "December 1816",
+    "iso": "1816-06",
+    "display": "June 1816",
     "confidence": "month"
    },
    "coords": [
@@ -2495,8 +2491,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase3b",
-   "summary": "Near Santa Cruz. Inter-indigenous: Christians vs. gentiles. 4 killed.",
-   "result": "4 killed; inter-indigenous",
+   "summary": "Alferez Gabriel Moraga went out in force from San Francisco against the apostate Christians at the rancheria of Malmi, in the Santa Cruz mountains. The surprise failed: by the time the column arrived the apostates were no longer there. The map formerly dated this December 1816 and described it as a fight between Christian and gentile Indians with four killed; no source in the register supports that date, those actors or that casualty count, and the place-name Tasnil appears in none of them.",
+   "result": "Spanish expedition arrived to find the rancheria abandoned",
    "quote": null,
    "sources": [
     {
@@ -3456,11 +3452,7 @@
    "layer": "maritime",
    "summary": "MAJOR NAVAL RAID. Argentine privateer Bouchard: Argentina (38 guns + 2 howitzers) + Santa Rosa (26 guns), ~285 crew. Spanish: 40 defenders (25 cavalry, 4 veteran artillery, 11 militia). Nov 21: 2-hour artillery duel; J.J. Vallejo's beach battery did most damage; 5+ insurgents killed. Nov 22: 400 men landed with 4 field pieces; Estrada's 25 men overwhelmed. Solá retreated to Salinas, saving archives + 6,000 cartridges. Presidio burned Nov 26-27. Damage: ~$10,000. Only foreign capture of a California capital.",
    "result": "Only time a California presidio fell to an enemy; Monterey burned",
-   "quote": {
-    "es": "",
-    "en": "Guerra's trick at Sta Barbara: marched troops round a hill repeatedly to look like a large army.",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Prov. Rec. (C-A 25), tomo viii-x, orig. pp. 304-306 / scan n481 (Savage 477-478), Doc 923: [Gov. Sola] to Gen. Jose de la Cruz, Monterey, 6 Jan 1819, 'Sobre ataque de la Provincia por 2 fragatas'.",
@@ -3540,7 +3532,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "FORCE FIGURES DISAGREE and the feature flags none of it. Sola's own report (C-A 25 Doc 923): two frigates of 38 and 28 guns, MORE THAN 500 men. Pre-raid warning (C-A 26 Doc 1162): 34 and 18-20 guns, 250 men. C-A 55 Doc 339: 34 and 18, 230 crew. Prisoner Taylor (C-A 13 Doc 33): 235 crew. The feature's 38+2 howitzers / 26 guns / ~285 crew matches none of these. DATES: feature says Nov 20-26; Sola says the ships appeared on the 21st and 23rd; C-A 17 Doc 292 fixes the occupation at 22-25 Nov; C-A 13 Doc 293 (27 Nov) says the castillo and presidio were fired 'yesterday' (26 Nov); the Viceroy was told 24 Nov (C-A 13 Doc 66). The '6,000 cartridges' saved is in NO C-A record I found - Sola confirms only that the archive papers were saved. J. J. Vallejo's beach battery is likewise absent from C-A; Bancroft attributes it entirely to the Californio dictations.",
+   "notes": "FORCE FIGURES DISAGREE and the feature flags none of it. Sola's own report (C-A 25 Doc 923): two frigates of 38 and 28 guns, MORE THAN 500 men. Pre-raid warning (C-A 26 Doc 1162): 34 and 18-20 guns, 250 men. C-A 55 Doc 339: 34 and 18, 230 crew. Prisoner Taylor (C-A 13 Doc 33): 235 crew. The feature's 38+2 howitzers / 26 guns / ~285 crew matches none of these. DATES: feature says Nov 20-26; Sola says the ships appeared on the 21st and 23rd; C-A 17 Doc 292 fixes the occupation at 22-25 Nov; C-A 13 Doc 293 (27 Nov) says the castillo and presidio were fired 'yesterday' (26 Nov); the Viceroy was told 24 Nov (C-A 13 Doc 66). The '6,000 cartridges' saved is in NO C-A record I found - Sola confirms only that the archive papers were saved. J. J. Vallejo's beach battery is likewise absent from C-A; Bancroft attributes it entirely to the Californio dictations. Guerra's device at Santa Barbara, marching the same troops round a hill again and again so that they would look like a large army, is told by Bancroft II, 237-39, not by any document in this register.",
    "symbol": "swords"
   },
   {
@@ -3941,11 +3933,7 @@
    "layer": "mexican",
    "summary": "Same afternoon as Sta Inés. Cpl. Tapia + 4-5 soldiers defended families through night; surrendered when powder ran out. 4 white travelers killed (Sepúlveda, Sotelo + 2). 7 Indians killed. ~400 neophytes then fortified mission: palisades, loopholes in adobe, mounted old cannon + 2 swivel-guns, drilled for month. Padre Rodríguez stayed; \"no disposition to molest him.\"",
    "result": "INDIGENOUS VICTORY; Chumash held fortified mission for 29 days",
-   "quote": {
-    "es": "",
-    "en": "Only time indigenous fighters used artillery in California.",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Bancroft, History of California, II:528-33.",
@@ -3980,7 +3968,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The 29-day occupation, Tapia's night defence and Padre Rodríguez's decision to stay are known only from Bancroft's non-C-A sources (Osio, Ord, Sarría in the Archivo del Arzobispado, Valdés). No C-A record narrates the night of 21-22 February at La Purísima; the C-A evidence is retrospective (the trial, the retaking parte, the governor's letterbook). Stated as inference, not fact. Companion C-A records not emitted, to avoid duplicating the recapture feature: ca46-d334 (25 Mar 1824, the same Estrada parte copied to a second correspondent) and ca56-d41 (C-A 56, XIV·334-335 / n19, the 26-name captive roster of those 'tomados en el alzamiento de las misiones [Purísima], Sta Barbª y Sta Inés', leaf-verified 2026-07-06).",
+   "notes": "The 29-day occupation, Tapia's night defence and Padre Rodríguez's decision to stay are known only from Bancroft's non-C-A sources (Osio, Ord, Sarría in the Archivo del Arzobispado, Valdés). No C-A record narrates the night of 21-22 February at La Purísima; the C-A evidence is retrospective (the trial, the retaking parte, the governor's letterbook). Stated as inference, not fact. Companion C-A records not emitted, to avoid duplicating the recapture feature: ca46-d334 (25 Mar 1824, the same Estrada parte copied to a second correspondent) and ca56-d41 (C-A 56, XIV·334-335 / n19, the 26-name captive roster of those 'tomados en el alzamiento de las misiones [Purísima], Sta Barbª y Sta Inés', leaf-verified 2026-07-06). Bancroft's account has the neophytes working the mission's cannon during the twenty-nine-day occupation. So far as this register records, that is the only use of artillery by indigenous fighters in California; the claim rests on Bancroft II, 528-33 and not on a document in the series.",
    "symbol": "swords"
   },
   {
@@ -4118,11 +4106,7 @@
    "layer": "mexican",
    "summary": "ESTANISLAO; \"a neophyte of more than ordinary ability, educated at Mission San José, of which establishment he was at one time alcalde.\" Ran away 1827-28 with CIPRIANO. By Nov 1828 PP. Durán and Viader warned Martínez of general rising. Earlier ~20-man expedition accomplished nothing. Estanislao continued \"insulting challenges to the soldiers.\" May 5-8: Alf. Sánchez with ~40 men + damaged swivel-gun. Divided into 6 parties of 6 under Cpls. Piña, Berreyesa, Soto. 2 of Piña's men \"so rash as to enter the wood\"; killed. \"Ammunition exhausted, men tired out, weather excessively hot.\" Estanislao left unconquered. Cpl. Soto and pvts. Peña and Pacheco praised for gallantry.",
    "result": "INDIGENOUS VICTORY; Sánchez's force repulsed with heavy losses (~50% casualty rate)",
-   "quote": {
-    "es": "Duhaut-Cilly claims Sánchez \"could not get at the Indian warriors, but killed 30 women and children, and with this shameful glory returned.\"",
-    "en": "",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "José Sánchez, 'Campaña contra Estanislao y sus Indios sublevados, 1829,' MS (Bancroft Library), dated San José, 10 May 1829.",
@@ -4163,7 +4147,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "DISCREPANCIES, flagged not reconciled. (1) ca53-d10 names 'cabo Antonio Soto, soldiers Manuel Piña & Tomás Pacheco'; Bancroft III:111 n.53 has 'Corp. Soto and privates Manuel Peña and Lorenzo Pacheco'. The map follows Bancroft. Two of three given names differ; a leaf check at n15-n20 would settle it. (2) Casualties: C-A gives 2 dead + 8 wounded + 3 auxiliaries wounded (1 mortally); Bancroft gives 2 dead, 8 wounded, ELEVEN auxiliaries wounded. The map's '~50% casualty rate' follows neither and looks like the map author's own arithmetic. (3) Bancroft flagged his order-date as suspect ('May 6th, probably an error in date'); the C-A copy reads 8 May 1829, still after Sánchez's 5 May departure. (4) METHOD: ca48-d353 was found by CONTENT search; 'Dept. Rec., MS., vii. 149' through the page resolver returns ca48-d38, a friar-loyalty roster; right arithmetic, wrong document.",
+   "notes": "DISCREPANCIES, flagged not reconciled. (1) ca53-d10 names 'cabo Antonio Soto, soldiers Manuel Piña & Tomás Pacheco'; Bancroft III:111 n.53 has 'Corp. Soto and privates Manuel Peña and Lorenzo Pacheco'. The map follows Bancroft. Two of three given names differ; a leaf check at n15-n20 would settle it. (2) Casualties: C-A gives 2 dead + 8 wounded + 3 auxiliaries wounded (1 mortally); Bancroft gives 2 dead, 8 wounded, ELEVEN auxiliaries wounded. The map's '~50% casualty rate' follows neither and looks like the map author's own arithmetic. (3) Bancroft flagged his order-date as suspect ('May 6th, probably an error in date'); the C-A copy reads 8 May 1829, still after Sánchez's 5 May departure. (4) METHOD: ca48-d353 was found by CONTENT search; 'Dept. Rec., MS., vii. 149' through the page resolver returns ca48-d38, a friar-loyalty roster; right arithmetic, wrong document. (3) A quotation from Duhaut-Cilly about Sanchez killing thirty women and children was published on this feature; it belongs to Sanchez's expedition against the Cosumnes in November 1826, not to the May 1829 campaign, and has been moved there.",
    "symbol": "swords"
   },
   {
@@ -4184,11 +4168,7 @@
    "layer": "mexican",
    "summary": "VALLEJO'S 3RD COMMAND; prior campaigns: Sierra Nevada from S. Miguel (1 killed, 15 wounded), Tulares (35 men, \"slain 48 Indians, no casualties\"). 107 men + 3-pounder. Set impenetrable wood on fire. Sánchez with 25 men fought 2+ hrs in burning wood. Vallejo with 37 men found \"pits and ditches arranged with considerable skill\"; \"Indians could never have been dislodged except by the agency employed.\" Pursued to Arroyo Seco: \"some negotiations\" then Indians declared \"they would die rather than surrender.\" Cut road through chaparral with axes; 8 wounded; ammunition ran out. Night: Indians escaped one by one. Morning: only dead bodies + 3 women. ATROCITY: Piña records 6+ captives killed. Osio: \"order of no quarter given by Vallejo, infuriated auxiliaries wrought terrible carnage, pits for defences utilized as graves.\" Fiscal concluded: only 1 man + 1 woman killed; woman \"unjustifiably by soldier Joaquín Alvarado.\" Martínez: \"no decisive results obtained.\" Pardoned Oct 7, 1829.",
    "result": "Pyrrhic Mexican victory; Estanislao escaped; atrocity investigation",
-   "quote": {
-    "es": "",
-    "en": "YOSCOLO CONNECTION: Davis reports Yoscolo later seized 200 girls from Sta Clara, joined Estanislao in Mariposa. Vallejo \"outgeneralled by the Indians.\" Yoscolo's head later displayed on pole at Sta Clara.",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Hubert Howe Bancroft, History of California, vol. III: 1825-1840 (San Francisco: The History Company, 1886), 110-14.",
@@ -4254,7 +4234,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Two discrepancies to flag, not reconciled. (1) CASUALTIES: the map text (from Bancroft) says the fiscal found 'only 1 man + 1 woman killed'; Vallejo's own report (ca53-d9) states 'several rebels + 3 women killed, 3 women captured' and 11 men + 2 auxiliaries wounded. Savage's abstract of Vallejo and the fiscal's finding do not agree, and Bancroft prints both without resolving them. (2) DATES: the map header reads 'May 29 - Jun 4, 1829'; ca53-d9 says the force set out 26 May with 107 men, a cannon and 2,500 cartridges, and the report is dated at San José 4 June. Bancroft's 29 May is the San Joaquin crossing, not the departure. Also note ca19-d47's catalogue summary hedges the commander's forename ('Gonzalo?'); the hedge is resolved by the record's own content, which names soldier Alvarado exactly as Bancroft's footnote does.",
+   "notes": "Two discrepancies to flag, not reconciled. (1) CASUALTIES: the map text (from Bancroft) says the fiscal found 'only 1 man + 1 woman killed'; Vallejo's own report (ca53-d9) states 'several rebels + 3 women killed, 3 women captured' and 11 men + 2 auxiliaries wounded. Savage's abstract of Vallejo and the fiscal's finding do not agree, and Bancroft prints both without resolving them. (2) DATES: the map header reads 'May 29 - Jun 4, 1829'; ca53-d9 says the force set out 26 May with 107 men, a cannon and 2,500 cartridges, and the report is dated at San José 4 June. Bancroft's 29 May is the San Joaquin crossing, not the departure. Also note ca19-d47's catalogue summary hedges the commander's forename ('Gonzalo?'); the hedge is resolved by the record's own content, which names soldier Alvarado exactly as Bancroft's footnote does. (3) Davis reports that Yoscolo afterwards carried off two hundred girls from Santa Clara and joined Estanislao in the Mariposa country, and that Vallejo was outgeneralled by the Indians. That is Davis's judgement, reported here as his and not as a finding of this register.",
    "symbol": "swords"
   },
   {
@@ -4275,11 +4255,7 @@
    "layer": "mexican",
    "summary": "VALLEJO'S SONOMA FRONTIER. Cainameros (allies near Sta Rosa) attacked by Sotoyomes/\"Guapos\"; 22 killed, 50 wounded. Chiefs appealed to Vallejo. Apr 1: 50 soldiers + 100 Indians + Cainamero force. Salvador Vallejo commanded one division. Apr 4: Battle in Geyser region hills. Guapos \"routed and driven back to their rancherías, where most of them were killed.\" Apr 7: back at Sonoma, zero casualties. Jun 7: TREATY with 7 tribes (Yoloytoy, Guilitoy, Ansactoy, Liguaytoy, Aclutoy, Churuptoy, Guapos). Approved by Gov. Chico. 1837: Chief Zampay of Yoloytoy revolted; captured by Solano + Salvador Vallejo; eventually became \"peaceful citizen and industrious farmer.\"",
    "result": "Decisive Mexican victory; zero casualties; 7-tribe treaty followed",
-   "quote": {
-    "es": "",
-    "en": "Bancroft: Vallejo's Indian policy \"excellent and effective when compared with any other policy ever followed in California.\"",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Hubert Howe Bancroft, History of California, vol. IV: 1840-1845 (San Francisco: The History Company, 1886), 70-72.",
@@ -4320,7 +4296,13 @@
    "native_groups": [],
    "tags": [],
    "notes": "The existing citation 'Dept. St. Pap. Ben. Mil. LXXXI.25-7' does resolve into C-A 20, but the only record in that neighbourhood whose content concerns the treaty is ca20-d279, Chico's approval of 27 June 1836. I found NO record carrying the text of the seven-tribe treaty of 7 June 1836 itself; I checked ca20-d275 through ca20-d288 individually and they are musters, pay budgets, mail arrangements and recruiting notes. The treaty text is therefore either unabstracted by Savage or survives only in Vallejo, Doc., iii. 119, 217. Second flag: I could find NO C-A record of the 1-7 April 1836 battle in the Geyser hills. Bancroft himself cites only Vallejo Documentos for it, which is consistent with the Sonoma frontier's operational correspondence living in C-B rather than C-A.",
-   "symbol": "swords"
+   "symbol": "swords",
+   "quotes": [
+    {
+     "text": "General Vallejo's Indian policy must be regarded as excellent and effective when compared with any other policy ever followed in California. True, his wealth, his untrammelled power, and other circumstances contributed much to his success; and he could by no means have done as well if placed in command at San Diego; yet he must be accredited besides with having managed wisely.",
+     "cite": "Bancroft, History of California IV (1886), 70-71, surveying the northern frontier"
+    }
+   ]
   },
   {
    "id": "battle-of-soscol-horse-thieves",
@@ -4382,11 +4364,7 @@
    "layer": "mexican",
    "summary": "Chief ZAMPAY of the Yoloytoy broke the 1836 treaty, \"committing many outrages and trying to arouse the Sotoyomes again.\" Head chief MOTI offered to aid his capture. Combined forces of SOLANO and SALVADOR VALLEJO effected capture. Zampay held captive at Sonoma but eventually \"became a peaceful citizen and industrious farmer.\"",
    "result": "Diplomatic/military capture; treaty enforcement",
-   "quote": {
-    "es": "",
-    "en": "Before this expedition Vallejo organized a company of 44 Suisunes and Napas, \"armed and equipped like Mexican soldiers,\" under Lt. Sabas Fernandez, given to Solano as bodyguard.",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Hubert Howe Bancroft, History of California, vol. IV: 1840-1845 (San Francisco: The History Company, 1886), 72.",
@@ -4422,7 +4400,13 @@
    "native_groups": [],
    "tags": [],
    "notes": "This is a recorded null for the C-A series. Every manuscript Bancroft cites for the Zampay episode is in the Vallejo Documentos (C-B) or is a Bancroft dictation. The map's existing citation is already correct as to collection; my only correction is that it is not a C-A citation and should not be expected to yield an archivesofcalifornia.com link.",
-   "symbol": "swords"
+   "symbol": "swords",
+   "quotes": [
+    {
+     "text": "just before this expedition he organized a company of 44 Suisunes and Napas, armed and equipped like Mexican soldiers, which was put under the command of Lieut. Sabas Fernandez and given to Solano as a body-guard, much to his delight",
+     "cite": "Vallejo, Hist. Cal., MS., iii. 230-38, reported in Bancroft, History of California IV (1886), 72 n. 56"
+    }
+   ]
   },
   {
    "id": "sacking-of-pacheco-sanchez-ranchos",
@@ -4631,11 +4615,7 @@
    "layer": "mexican",
    "summary": "LARGEST SINGLE-DAY DEATH TOLL IN CALIFORNIA. Capt. SALVADOR VALLEJO: 70 Californians + 200 auxiliary Indians. 12 soldiers + 30 auxiliaries reached island of \"Moth\" by rafts. Night attack 8-11 PM. 170 INDIANS KILLED. Official report placed island \"near Cape Mendocino\"; actually Clear Lake. Bojorges: real objective was slave-raiding (\"to obtain Indian laborers and servants\"). Dr. Sandels: attack was \"in the absence of all the fighting men.\" Negro deserter \"shot in the back.\" Governor ordered investigation; result unknown. Tribes: Mottiyomi, Chiliyomi, Holiyomi, Tuliyomi, Supuyomi, + 4 more.",
    "result": "Massacre; 170 killed; investigation ordered",
-   "quote": {
-    "es": "",
-    "en": "Precursor to 1850 U.S. Army \"Bloody Island\" massacre at same lake by Lt. Nathaniel Lyon.",
-    "source": ""
-   },
+   "quote": null,
    "sources": [
     {
      "citation": "Hubert Howe Bancroft, History of California, vol. IV: 1840-1845 (San Francisco: The History Company, 1886), 162-63.",
@@ -4680,7 +4660,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Recorded null for the C-A series, and I want to be explicit about why: this is one of the best-documented atrocities on the map and none of its documentation is in the Archives of California. Every manuscript Bancroft used is in Vallejo Documentos (BANC MSS C-B), because the Sonoma frontier command's operational correspondence went into Vallejo's private files rather than the departmental archive. The map's existing citation is accurate as to the documents; it simply names a collection that will never yield an archivesofcalifornia.com link. Note also the geography flag Bancroft himself raises and the map repeats: Salvador Vallejo's official report placed the island near Cape Mendocino, and Bancroft concludes on Bojorges's evidence that the scene was Clear Lake.",
+   "notes": "Recorded null for the C-A series, and I want to be explicit about why: this is one of the best-documented atrocities on the map and none of its documentation is in the Archives of California. Every manuscript Bancroft used is in Vallejo Documentos (BANC MSS C-B), because the Sonoma frontier command's operational correspondence went into Vallejo's private files rather than the departmental archive. The map's existing citation is accurate as to the documents; it simply names a collection that will never yield an archivesofcalifornia.com link. Note also the geography flag Bancroft himself raises and the map repeats: Salvador Vallejo's official report placed the island near Cape Mendocino, and Bancroft concludes on Bojorges's evidence that the scene was Clear Lake. The same lake was the site of the United States Army's Bloody Island massacre in 1850, under Lt. Nathaniel Lyon.",
    "symbol": "swords"
   },
   {
@@ -6203,21 +6183,21 @@
   {
    "id": "reg-108-gentile-attack-on-mission-neophytes-21-neophytes",
    "register_no": "108",
-   "name": "Gentile attack on mission neophytes · '21 neophytes killed'",
+   "name": "Twenty-one Mission San Jose neophytes killed",
    "date": {
     "iso": "1826",
     "display": "1826",
     "confidence": "year"
    },
    "coords": [
-    33.0,
-    -116.5
+    38.1,
+    -121.35
    ],
    "coord_precision": "conjectural",
    "type": "raid",
    "layer": "frontera",
-   "summary": "A report of 21 neophytes killed by gentiles on the interior frontier of the San Diego district; evidence for the raiding-economy pressure on mission populations in the 1820s, and for inter-indigenous violence between mission and independent communities.",
-   "result": "Gentile raid; 21 neophytes killed",
+   "summary": "Written from San Jose: a party of Mission San Jose neophytes out on a holiday trip with their alcalde was attacked by gentiles in the Cosumnes and San Joaquin country, and twenty-one Christian Indians were killed; the news came from a survivor who fled the fight, and the settlement was much excited. Bancroft, who prints the same report, says twenty or thirty were killed or at least never returned, and that the Indians had either attacked or been attacked. This is the provocation for Sanchez's expedition against the Cosumnes later that month. The manuscript gives no location; the pin follows the country the campaign went into.",
+   "result": "Twenty-one neophytes killed; the provocation for the November 1826 campaign",
    "quote": null,
    "sources": [
     {
@@ -6814,7 +6794,7 @@
   {
    "id": "reg-120-punitive-battle-near-san-juan-bautista-death-of",
    "register_no": "120",
-   "name": "Punitive battle near San Juan Bautista · death of captain 'Talholostl'[?]",
+   "name": "Punitive battle near San Juan Bautista and the death of Tatillosti",
    "date": {
     "iso": "1798-11-21",
     "display": "21 Nov 1798",
@@ -6827,14 +6807,12 @@
    "coord_precision": "area",
    "type": "battle",
    "layer": "phase2",
-   "summary": "Gentiles 'de la otra banda' killed 5 Indians and 2 women of the mission rancherías; Borica sent Sgt. Macario Castro with 10 cuera soldiers, 8 Christian Indians, and 24 aggrieved gentiles; the column caught the malefactors, killed the enemy captain 'Talholostl'[?], recovered 2 women, and captured 2; a mixed Spanish–Native punitive force whose gentile allies were the majority.",
+   "summary": "Gentiles from the other side killed six Indians and two women of the mission rancherias, and Borica sent Sergeant Macario Castro with ten cuera soldiers, eight Christian Indians and twenty-four aggrieved gentiles. The column caught the malefactors and killed their captain, whose name the leaf gives as Tatillosti; two women were recovered and two prisoners taken. Bancroft, who names the band the Osos, counts the mission dead as eight rancheria Indians, and adds that another chief and a soldier were wounded and that two gentiles were brought in to be educated as interpreters. A mixed Spanish and Native punitive force in which the Native allies were the majority.",
    "result": "Punitive column killed the enemy captain",
    "quote": null,
    "sources": [
     {
-     "citation": "Hubert Howe Bancroft, History of California, vol. I: 1542-1800 (San Francisco: A. L. Bancroft & Co., 1884), 558-559.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California I (1884), 558-59, in the local annals of San Juan Bautista: the Osos, the chief Tatillosti, and the two gentiles taken as interpreters."
     },
     {
      "citation": "Prov. Rec. (C-A 24), tomo VI, orig. pp. 443-444 / Savage stamp 430-431 = tomo pp. 106-107, scan leaves n431-n432 - Borica al Virrey, Monterrey, 21 Nov. 1798, 'Pelea con Indios'. NO ITEM-LEVEL CATALOG RECORD EXISTS FOR THIS DOCUMENT.",
@@ -8967,6 +8945,48 @@
    "tags": [],
    "notes": "⚠ DO NOT CONFUSE WITH THE 1846 EXPEDITION. The catalogue holds a second, later Wilson punitive expedition; ca31-d118, B. D. Wilson writing from Jurupa on 23 August 1846, 'Matanza de Indios', reporting his 22 August attack on a ranchería of the Amajaques. That is a different action, a year later, under a different government, and it must not be merged into this feature. DATE NOTE: ca30-d277 is dated to the month only (June 1845), so the feature's bare '1845' is correct and cannot honestly be sharpened from this record; the follow-up (d276) is 1 July 1845, which brackets the expedition as late June 1845. NUMBERS NOTE: '200 mounted men' comes straight from the manuscript abstract ('con 200 montados') and is Savage's summary of the diary's own claim, not an independent count. The map's 'raiders not destroyed' is a fair reading; the diary records a skirmish at Los Naranjos and the submission of the capitanejos, and d276 then asks for a further expedition, which implies the first did not settle the matter; but note the abstract also says Wilson 'somete á los capitanejos', so 'inconclusive' is a safer characterisation than 'failed'.",
    "symbol": "flame"
+  },
+  {
+   "id": "sanchez-cosumnes-expedition-1826",
+   "register_no": null,
+   "name": "Sánchez's Expedition against the Cosumnes",
+   "date": {
+    "iso": "1826-11-19",
+    "display": "November 19 to 27, 1826",
+    "confidence": "exact"
+   },
+   "coords": [
+    38.3,
+    -121.25
+   ],
+   "coord_precision": "conjectural",
+   "type": "campaign",
+   "layer": "frontera",
+   "summary": "Alferez Sanchez crossed the San Joaquin Valley against the Cosemenes, the reprisal for the twenty-one Mission San Jose neophytes killed earlier that month. He was out eight days. Mission San Jose paid for the expedition, the padre judging the outrage on his neophytes had to be avenged; afterwards he thought the forty new converts too dearly bought, feared another attack and asked Captain Beechey for fireworks to frighten the Cosemenes if it came. One soldier, Jose Maria Gomez, was killed by the bursting of his own musket. Bancroft reads the diary as placing the Cosemenes on or near the river the Spanish called the San Francisco, the later Cosumnes, which takes its name from them; the column passed Las Positas, the San Joaquin and the Rio Yachicume on the way. The pin follows that reading and is a guess.",
+   "result": "Forty converts brought in, one soldier dead, and an account of the killing that is contested",
+   "notes": "Duhaut-Cilly, who was on the coast that season, tells it against Sanchez. Bancroft prints both and does not adjudicate. Duhaut-Cilly also says the neophyte victims belonged to San Francisco Solano rather than San Jose.",
+   "quote": null,
+   "quotes": [
+    {
+     "text": "Sanchez could not get at the Indian warriors, but killed 30 women and children, and with this shameful glory returned, bringing 2 children and an old woman captives.",
+     "cite": "Duhaut-Cilly, Viaggio, ii. 85-86, as reported in Bancroft, History of California III (1886), 110 n. 51"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Bancroft, History of California III (1886), 109-10 and 110 n. 51."
+    },
+    {
+     "citation": "Sanchez's diary, summarised by Elliot in the Overland Monthly iv (1870), 311-12."
+    },
+    {
+     "citation": "Dep. St. Pap. (BANC MSS C-A 27), tomo i-ii, orig. pp. 498-500 / Savage p. ~136 / scan n130, Doc 145: the report from San Jose of 3 November 1826 that twenty-one Christian Indians had been killed.",
+     "ca_record": "ca27-d145"
+    },
+    {
+     "citation": "Beechey, Narrative of a Voyage to the Pacific and Beering's Strait (London, 1831), for the Blossom at San Francisco that season; Huish, Narrative, 427-30, takes his account from Beechey."
+    }
+   ]
   }
  ],
  "symbol_min_zoom": 6,
