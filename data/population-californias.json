@@ -2,7 +2,7 @@
  "id": "population-californias",
  "title": "Population of the Californias",
  "subtitle": "Padrones, censos and mission registros, 1777–1847; every count so far transcribed from the Archives of California, each linked to its record",
- "abstract": "The population counts of Spanish and Mexican California, settlement by settlement, as the archive recorded them. A note on what these numbers are: they are the counts of a colonial bureaucracy. Padrones undercount, categories like gente de razon and neofito are the empire's constructs, and Native people appear only when and how the state counted them; inside missions, pueblos, and jurisdictions. The map shows what the documents say, in their own units, not how many people lived in California; the nations of the Native California map were mostly never counted at all. Every row cites its document. The headline: in 1790 the entire Spanish population of Alta California was 910 people.",
+ "abstract": "The population counts of Spanish and Mexican California, settlement by settlement, as the archive recorded them. A note on what these numbers are: they are the counts of a colonial bureaucracy. Padrones undercount, categories like gente de razon and neofito are the empire's constructs, and Native people appear only when and how the state counted them; inside missions, pueblos, and jurisdictions. The map shows what the documents say, in their own units, not how many people lived in California; the nations of the Native California map were mostly never counted at all. Every row cites its document. The headline: in 1790 the entire Spanish population of Alta California was 970 people.",
  "date_range": [
   1777,
   1847
@@ -59,11 +59,11 @@
    "coord_precision": "exact",
    "type": "event",
    "layer": "province",
-   "summary": "The whole colony, counted. In 1790 the entire Spanish population of Alta California was 910 people, inside a mission population of 7,353. The cumulative mission ledgers then state the system's demographic arithmetic: by 1817, 64,675 baptized against 41,757 dead; by Durán's 1833 cuadro; covering the 13 southern (Fernandino) missions only, after the Zacatecan split; 52,882 baptized, 38,417 dead, 10,482 living.",
+   "summary": "The whole colony, counted. In 1790 the entire gente de razon population of Alta California was 970 people, inside a mission population of 7,353. The cumulative mission ledgers then state the system's demographic arithmetic: by 1817, 64,675 baptized against 41,757 dead; by Durán's 1833 cuadro; covering the 13 southern (Fernandino) missions only, after the Zacatecan split; 52,882 baptized, 38,417 dead, 10,482 living.",
    "series": [
     [
      "1790 Jul 1",
-     "8,323 souls total: 910 gente de razon + 7,353 Indios (per-establishment table)",
+     "8,323 souls total: 970 gente de razon + 7,353 Indios (per-establishment table)",
      "C-A 50 Doc 32"
     ],
     [
@@ -150,7 +150,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Placed at Monterey as the capital; the counts are province-wide.",
+   "notes": "Placed at Monterey as the capital; the counts are province-wide. The 1790 resumen's own total of 8,323 reconciles only with 970 gente de razon against 7,353 Indios; the figure 910, carried here previously, leaves the table 60 short.",
    "symbol": "scroll"
   },
   {
@@ -2665,7 +2665,7 @@
    "tags": [
     "census"
    ],
-   "notes": "Corroborates the '3,000 almas' of gente de razón in C-A 46 Doc 99."
+   "notes": "Corroborates the '3,000 almas' of gente de razón in C-A 46 Doc 99. The components as the document gives them do not sum to its own total: 21,196 neophytes plus 2,994 presidial people make 24,190, some 800 short of the 24,990 stated. The figures are left as the record has them and the discrepancy is noted rather than reconciled."
   }
  ],
  "symbol_min_zoom": 5,
