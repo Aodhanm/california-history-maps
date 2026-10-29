@@ -415,7 +415,7 @@
      "url": "https://ohp.parks.ca.gov/pages/1067/files/CA_Sonoma%20and%20Mendocino%20Counties_%20Nor%20Cal%20Doghole%20Ports_MPDF_Draft.pdf"
     }
    ],
-   "notes": "Sequence 1900-1933 from CoastView/Hough-derived summaries; company names New York & Pennsylvania Lumber vs. Redwood Co. vary across sources. Coordinate source: GNIS 254782 Cottaneva Creek (prim/mouth 39.7359882,-123.829187); GNIS 231753 Rockport Bay (39.7340439,-123.8286314) Audit 2026-09-13: the David-and-Edward machinery-landing anecdote and the 'Southern Redwood 1928-29' span are re-sourcing tasks; Rockport Redwood Co. from 1938 (MPDF; the Dusenbury attribution is unsourced).",
+   "notes": "Sequence 1900-1933 from CoastView/Hough-derived summaries; company names New York & Pennsylvania Lumber vs. Redwood Co. vary across sources. Coordinate source: GNIS 254782 Cottaneva Creek (prim/mouth 39.7359882,-123.829187); GNIS 231753 Rockport Bay (39.7340439,-123.8286314) The David-and-Edward machinery-landing anecdote and the 'Southern Redwood 1928-29' span are re-sourcing tasks; Rockport Redwood Co. from 1938 (MPDF; the Dusenbury attribution is unsourced).",
    "photo": {
     "url": "../assets/photos/lumber-ports/rockport-landing.jpg",
     "credit": "mendorailhistory.org (defunct site), 'The shipping point for the Rockport Mill', via Internet Archive Wayback Machine · undated, pre-1930",
@@ -5477,7 +5477,7 @@
     "first": 1850,
     "last": 1880
    },
-   "notes": "Framing claim rests on Stanger 1967 (standard county history, print; not directly consulted in this pass) - marked accordingly.",
+   "notes": "Framing claim rests on Stanger 1967 (standard county history, print; not consulted directly here).",
    "symbol": "riverbar"
   },
   {

@@ -345,7 +345,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The 1793 '6 vs 2' is resolved: the leaf of C-A 14 (n101, read 2026-09-14) says 2, agreeing with C-A 15; the 6 is a catalogue-summary defect, errata pending. The 1823 copies agree on the 3 heavy guns and disagree only on the powder figure; the earlier '2 (or 3)' note was wrong and the Doc 98 citation was a mis-reference (that record is a cadet discharge).",
+   "notes": "The 1793 '6 vs 2' is resolved: the leaf of C-A 14 (n101, read 2026-09-14) says 2, agreeing with C-A 15; the 6 is a defect in the catalogue summary, not a copy variant. The 1823 copies agree on the 3 heavy guns and disagree only on the powder figure; the earlier '2 (or 3)' note was wrong and the Doc 98 citation was a mis-reference (that record is a cadet discharge).",
    "symbol": "fort",
    "symbol_major": true
   },
@@ -1853,7 +1853,8 @@
    "result": "By 1845: a private force with newer artillery than most presidios; deputized, purchased into the Russians' place, then named in a treason charge",
    "quote": {
     "es": "dicho Gral. se hallaba en relaciones secretas con el extranjero Sutter, dueño del establecimiento del Río del Sacramento",
-    "en": "(the said General was in secret relations with the foreigner Sutter, owner of the establishment on the Sacramento River — the Asamblea's charge against Gov. Micheltorena, 1845; verified on scan n300)"
+    "en": "(the said General was in secret relations with the foreigner Sutter, owner of the establishment on the Sacramento River — the Asamblea's charge against Gov. Micheltorena, 1845; verified on scan n300)",
+    "source": "the charge in the anti-Micheltorena dossier, Leg. Rec. (BANC MSS C-A 61) Doc 215, scan n300, pinned at the leaf"
    },
    "sources": [
     {
