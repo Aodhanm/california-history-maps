@@ -88,14 +88,17 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "32 horses ferried across the Golden Gate using launches borrowed from visiting San Blas frigates Princesa and Aranzazu. Spain cannot cross its own bay without foreign ships.",
-   "result": "Spain depends on visiting vessels to cross its own frontier",
+   "summary": "With no boat of its own at San Francisco, the government borrowed launches from the San Blas ships then in port to ferry the horses across the mouth of the harbour, so that Goycoechea could ride north to open a road to Bodega. Savage's entry for the governor's despatch gives 34 horses crossed; Bancroft, summarising the same business, says some thirty. Goycoechea set out on 5 August 1793 with a sergeant and ten men. The same entry carries the governor's judgement on the overland route: «el grande rodeo y tierra incognita».",
+   "result": "Spain borrows boats from visiting ships to cross its own harbour mouth",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 14 p. 113. Arrillaga.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxii, orig. p. ~290 / scan n112, Doc 99. The Bodega land expedition.",
+     "ca_record": "ca14-d99",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n112"
+    },
+    {
+     "citation": "Bancroft, History of California I, 507."
     }
    ],
    "native_groups": [],
@@ -135,27 +138,28 @@
   {
    "id": "moraga-s-1st-interior-expedition",
    "register_no": null,
-   "name": "Moraga's 1st Interior Expedition",
+   "name": "Moraga's 1806 Interior Expedition",
    "date": {
     "iso": "1806",
     "display": "September–October 1806",
     "confidence": "range"
    },
    "coords": [
-    38.58,
-    -121.49
+    37.45,
+    -120.75
    ],
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "First major Central Valley expedition. Named the Sacramento River. 30+ stops, 17 villages contacted. No permanent occupation.",
-   "result": "Reconnaissance only; a round trip",
+   "summary": "The first long reconnaissance of the Central Valley, 21 September to 2 November 1806, with Fr. Pedro Munoz as chaplain and diarist. The rivers the party named on the way north were the Merced, the Dolores, the Guadalupe and the San Francisco, a dry bed; the large river they reached on 4 October already carried the name Rio de la Pasion from an earlier expedition looking for a land route to Bodega. Bancroft doubts they got as far as the Sacramento at all, finding nothing in the narrative to suggest the Pasion was so large a river, and reads the sequence instead as the Tuolumne, the Stanislaus and the Calaveras. Reconnaissance only; nothing was occupied.",
+   "result": "A round trip; no occupation, and the northern limit unsettled",
    "quote": null,
    "sources": [
     {
-     "citation": "Cook 1960; gabriel-moraga-military-campaigns.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California II, 52-54."
+    },
+    {
+     "citation": "Munoz's diary, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820, Anthropological Records 16(6) (1960), chap. III. Mapped stop by stop at maps/zalvidea-moraga-1806.html."
     }
    ],
    "native_groups": [],
@@ -235,11 +239,11 @@
   {
    "id": "moraga-investigates-russian-bodega",
    "register_no": null,
-   "name": "Moraga Investigates Russian Bodega",
+   "name": "Reports of a Ship at Bodega",
    "date": {
-    "iso": "1810",
-    "display": "September–October 1810",
-    "confidence": "range"
+    "iso": "1810-09-19",
+    "display": "September 19, 1810",
+    "confidence": "exact"
    },
    "coords": [
     38.34,
@@ -248,14 +252,13 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Moraga goes by boat to Bodega. Finds 40+ Aleut hunting canoes, Russian supply ships at anchor. Reconnaissance, no confrontation. Protests to commandant.",
-   "result": "Round trip; reconnaissance only",
+   "summary": "Arguello reports to Arrillaga that twenty or more otter canoes have been sighted heading for the San Jose esteros, that the Christian Indians of San Francisco say many are taking otter, and that the gentiles say a large ship is lying at Bodega. The nationality of that ship is not established in the despatch. The first inspection of Bodega the record shows is Moraga's of 1812, and his diary describes an American vessel there with Alaskan hunters aboard, not a Russian one. The map previously credited an autumn 1810 reconnaissance with forty Aleut canoes and Russian supply ships at anchor; neither is in the despatch.",
+   "result": "The Spanish learn of Bodega from the gentiles, and do not go",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12; gabriel-moraga-military-campaigns.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 741-743 / Savage pp. 275-276 / scan n278-n279. Luis Arguello to Arrillaga, San Francisco, 19 September 1810.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n278"
     }
    ],
    "native_groups": [],
@@ -283,9 +286,16 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12; gabriel-moraga-military-campaigns.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1045-1048 / Savage pp. 320-322 / scan n327-n329. Luis Arguello to Arrillaga, San Francisco, 31 July 1812, on the otter hunters in the bay and the first verification mission to Bodega; leaf read.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n327"
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 12), tomo xix, orig. pp. 1215-1217 / Savage pp. 364, 367-368 / scan n371, n374-n375, Doc 432. Gabriel Moraga's reconnaissance and defence assessment of the Russian post at Ross, San Francisco, 30 July 1814.",
+     "ca_record": "ca12-d432",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n374"
+    },
+    {
+     "citation": "Mathes (ed.), Documentos para la historia de la Alta California: the same despatches as his Docs 10 and 11."
     }
    ],
    "native_groups": [],
@@ -447,27 +457,28 @@
   {
    "id": "menzies-lands-at-tomales-bay",
    "register_no": null,
-   "name": "Menzies Lands at Tomales Bay",
+   "name": "Menzies Lands at Bodega",
    "date": {
     "iso": "1793-10-20",
     "display": "October 20, 1793",
     "confidence": "exact"
    },
    "coords": [
-    38.17,
-    -122.91
+    38.302,
+    -123.054
    ],
    "coord_precision": "place",
    "type": "event",
    "layer": "british",
-   "summary": "Menzies lands from Vancouver's ship. Finds cross made from cask stave, horse tracks from Goycoechea's expedition. Coast Miwok calling \"Amico,\" speaking Spanish, pointing up lagoon repeating \"Spaniard.\" British find Spanish traces in territory Spain couldn't hold.",
-   "result": "British find evidence of failed Spanish expedition",
+   "summary": "Menzies landed from the Chatham with Lieutenant Puget on 20 October 1793. The ship came in through a passage half a mile wide, a steep rocky bluff to port and a small rocky island to starboard that Menzies named Gibson's Island, and anchored in six fathoms; the latitude they took by observation at the anchorage was 38 deg. 19' 30\" N. On the bluff headland they found a cross lately put up, made of a piece of a cask stave lashed to a pole with a rope yarn, and the grass and brush recently burned off. Walking down to the channel they came on a hut and a party of Coast Miwok who sat down at their approach and called out 'Amico', friend, a word Menzies had no doubt they had from the Spaniards, 'as we afterwards found that they spoke many words of the language of that Nation'. A woman offered them fish from a basket, under the name Piscau. The 1924 editor glossed the inland water behind the beach as Tomales Bay, and that gloss is why this landing is often placed there; Wagner, working from Goycoechea's and Matute's accounts, puts the cross on Bodega Head, and the latitude agrees with Bodega.",
+   "result": "The British find the traces of a Spanish establishment that was already abandoned",
    "quote": null,
    "sources": [
     {
-     "citation": "Menzies 1924:301–304.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Menzies' California journal, California Historical Society Quarterly 2, no. 4 (1924), 301-04."
+    },
+    {
+     "citation": "Wagner, 'The Last Spanish Exploration of the Northwest Coast', CHSQ 10, no. 4 (1931), 338: the cross on Bodega Head, and Menzies' visit to Bodega Bay dated 20 October 1793. Wagner also reads Gibson's Island as Menzies' mistake for Colnett's 1790 call."
     }
    ],
    "native_groups": [],
@@ -509,7 +520,7 @@
   {
    "id": "zuniga-shows-bodega-plans-to-british-no-concealm",
    "register_no": null,
-   "name": "Zúñiga Shows Bodega Plans to British · No Concealment",
+   "name": "The San Diego Commandant Shows the Bodega Plan",
    "date": {
     "iso": "1793-11",
     "display": "November 1793",
@@ -522,14 +533,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "british",
-   "summary": "San Diego commandant Zúñiga freely shows Bodega harbor plans to British officers. No concealment at all; contradicts the tight security at SF. The policy was inconsistent.",
-   "result": "Concealment policy fails at San Diego",
+   "summary": "At San Diego in late November 1793 the commandant showed Vancouver's officers his plan of the opening six leagues north of Point Reyes where he said a settlement had been attempted that summer, and the plan carried a sketch of both waters with their Spanish names. Menzies distinguishes the commandant from Captain Zuniga throughout, and the commandant at that date was Antonio Grajera, whose predecessor Zuniga had handed over on 19 October 1793 and was waiting to leave. The plan was shown while access was being closed down: on seeing how many of the English had walked up, the commandant asked that they take their walk another way, since his orders did not allow so many into the presidio, and afterwards only officers were let that far. Bancroft reads the same visit as courteous reception hemmed in by Arrillaga's 'severe and inhospitable injunctions'. Not an absence of concealment, but a chart given away while the gate was shut.",
+   "result": "A chart shown and the presidio closed, in the same week",
    "quote": null,
    "sources": [
     {
-     "citation": "Menzies 1924:335.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Menzies' California journal, CHSQ 2, no. 4 (1924), 335."
+    },
+    {
+     "citation": "Bancroft, History of California I, 491, 666: Zuniga in command until October 1793, his successor taking the offices on the 19th; Vancouver's ships at San Diego 27 November to 9 December 1793, received by Grajera and Zuniga."
     }
    ],
    "native_groups": [],
@@ -588,9 +600,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 8; ca8-prov-state-papers-xiv-xv-survey, Find #3.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xiv, orig. pp. 371-373 / Savage p. 313 / leaf 116 / scan n312. Caro de Alterni to Borica, San Francisco, 14 April 1797, «Naufragio de un buque desconocido»: a body washed up near Punta de Reyes; P. Landaeta's mayordomo reported a ship seen between the Farallones that shortly disappeared; the gentiles said they had seen two uniformed men who were English.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n312"
     }
    ],
    "native_groups": [],
@@ -619,9 +630,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 8; ca8-prov-state-papers-xiv-xv-survey, Find #4.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xv, orig. pp. 501-502 / Savage p. 351 / leaf 155 / scan n350. Vallejo to Borica, San Jose, 1 October 1797, «Sobre un buque Ingles llegado a Santa Cruz»: an English vessel at the port of Santa Cruz; Vallejo arranged assistance with the alcalde, there being no war officer present, and reported himself ready if called.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n350"
     }
    ],
    "native_groups": [],
@@ -650,9 +660,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 14; english-corsair-campaign-1799.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxi, orig. pp. 65-93 / Savage pp. 16-30: Arrillaga's dispatches on the English corsair crisis, 1799."
     }
    ],
    "native_groups": [],
@@ -680,9 +688,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12; ca12-russian-california-documents.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1240-1244 / scan n380. Capt. Black of HMS Raccoon to the Governor, March 1814, written in English: the ship grounded on the bar leaving the Columbia and 'made much water which ruined her powder'; he asks for 1,400 to 1,500 lbs of gunpowder, and reports that some of his crew 'intend to desert & claim the protection of the Spanish Authorities under plea of being Roman Catholics'.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n380"
     }
    ],
    "native_groups": [],
@@ -693,7 +700,7 @@
   {
    "id": "eliza-s-activo-at-bodega-spain-s-last-pacific-ex",
    "register_no": null,
-   "name": "Eliza's Activo at Bodega · Spain's Last Pacific Exploration",
+   "name": "Eliza's Activa at Bodega: Spain's Last Pacific Exploration",
    "date": {
     "iso": "1793-08-09",
     "display": "August 9, 1793",
@@ -706,14 +713,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Eliza arrives in Activo after near-starvation NW Coast voyage. Spain's last Pacific exploration. The exhausted vessel barely makes it to Bodega; the empire's reach is collapsing.",
-   "result": "Last Spanish Pacific exploration; barely survived",
+   "summary": "Francisco de Eliza's call at Bodega on the way south, on the last exploring expedition Spain sent up this coast. He had left San Blas on 30 April 1793 with the schooner Mexicana under Martinez y Zayas, and got no higher than about 44 degrees before settled winds and a want of water turned him back; only the schooner reached the Strait of Juan de Fuca. Eliza stopped at Trinidad for wood and water, then at Bodega, examining the coast between them, as Wagner says, superficially, and went on to San Francisco, where he sent his pilots to chart the bay, and then down to Monterey and San Diego. Wagner's verdict on him is flat: distinctly, he was a failure. The empire's reach was not starving but it had stopped going north.",
+   "result": "Spain's last northwest exploration turns back at 44 degrees",
    "quote": null,
    "sources": [
     {
-     "citation": "Wagner 1931; C-A 14.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Wagner, 'The Last Spanish Exploration of the Northwest Coast', CHSQ 10, no. 4 (1931), 318-19."
+    },
+    {
+     "citation": "Bancroft, History of California I, 509 n.50, for the Activa's arrival at San Francisco on 11 August 1793."
     }
    ],
    "native_groups": [],
@@ -786,11 +794,11 @@
   {
    "id": "130-bidarkas-in-san-francisco-bay",
    "register_no": null,
-   "name": "130 Bidarkas in San Francisco Bay",
+   "name": "Fifty Bidarkas in the Bay, 130 Reported on the Coast",
    "date": {
-    "iso": "1811",
-    "display": "1811",
-    "confidence": "year"
+    "iso": "1811-05-30",
+    "display": "May 30, 1811",
+    "confidence": "exact"
    },
    "coords": [
     37.812,
@@ -799,14 +807,13 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "130 Aleut bidarkas (kayaks) hunting sea otter inside San Francisco Bay. The Russians are inside Spain's premier port and Spain cannot stop them.",
-   "result": "Russian hunting inside the Bay; sovereignty violated",
+   "summary": "Luis Arguello reports fifty bidarkas counted inside San Francisco Bay, and 130 reported to him between Point Bonita and San Antonio; the hunters' canoes between them held more men than the whole mission. Six neophytes out hunting seals for their padres were briefly held by the hunters as suspected spies and then let go. No ship was seen. The coast figure is what the Indians told him, not what the Spanish counted.",
+   "result": "Russian hunting inside the bay, in numbers the presidio could not match",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12 (Prov. St. Pap. XIX).",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 983-986 / Savage pp. 306-307 / scan n311-n313. Luis Arguello to Arrillaga, San Francisco, 30 May 1811.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n311"
     }
    ],
    "native_groups": [],
@@ -830,14 +837,12 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Russian sealing station on the Farallones; 18 miles off the coast of San Francisco. Aleut hunters camped seasonally. Spain/Mexico never contested it.",
+   "summary": "The Russian-American Company's sealing station on the Farallones, about 29 miles west of the Golden Gate by the coordinates plotted here. Aleut hunters camped there through the season, taking seals, sea lions and birds' eggs for Ross. Neither Spain nor Mexico ever contested the occupation.",
    "result": "Russian territory visible from SF; unchallenged",
    "quote": null,
    "sources": [
     {
-     "citation": "Bancroft II; Fort Ross sources.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California II, 296-98, 631-32."
     }
    ],
    "native_groups": [],
@@ -897,9 +902,10 @@
    "quote": null,
    "sources": [
     {
-     "citation": "ca25-tomo-ix-gap-read; Golovnin 1979.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. Rec. (BANC MSS C-A 25), tomo ix, orig. p. 197 / Savage p. 446 / leaf 450, entry of 5 October 1818: «Da parte de arribada de fragata expedicionaria Rusa Kamtschatca», orig. pp. 626-627. Partly cited by Bancroft."
+    },
+    {
+     "citation": "Golovnin, Around the World on the Kamchatka, 1817-1819, trans. Ella Lury Wiswell (Honolulu: Hawaiian Historical Society, 1979)."
     }
    ],
    "native_groups": [],
@@ -928,9 +934,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "ca25-tomo-ix-gap-read.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. Rec. (BANC MSS C-A 25), tomo ix, orig. p. 197 / Savage p. 446 / leaf 450, entry of 2 September 1818: «arribada de fragata Rusa 'Cotknoff' [Kutuzov], Corbeta Americana de guerra Ontario», orig. pp. 624-625. Partly cited by Bancroft."
     }
    ],
    "native_groups": [],
@@ -941,7 +945,7 @@
   {
    "id": "vasiliev-corvettes-at-sf",
    "register_no": null,
-   "name": "Vasiliev Corvettes at SF",
+   "name": "Vasiliev's Corvettes at San Francisco",
    "date": {
     "iso": "1820-11",
     "display": "November 1820",
@@ -954,14 +958,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Two Russian warships anchor at SF; sailing past the fortress that had 6 functional cannons and no grapeshot. Argüello follows orders to receive them \"cordially and hospitably.\"",
-   "result": "Russian warships pass indefensible fortress; received as guests",
+   "summary": "Luis Arguello reports to Governor Sola the arrival of the Russian war corvettes Otkrytie and Blagonamerennyi, anchored on the 22nd at three in the afternoon, and says he will receive them cordially and hospitably, as his standing orders required. They had sailed past a fort that by its own commander's account four months earlier had six serviceable guns.",
+   "result": "Russian warships pass an unserviceable fort and are received as guests",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13; ca13-prov-state-papers-xx-documents, Doc. 10.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 13), tomo xx, orig. pp. i.1146-1147 / Savage p. 276 / scan n275, Doc 366. Luis Arguello to Gov. Sola, San Francisco, 23 November 1820.",
+     "ca_record": "ca13-d366",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n275"
     }
    ],
    "native_groups": [],
@@ -1020,9 +1024,10 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 11; lelia-byrd-punta-guijarros-1803.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 11), orig. pp. 633-636 (leaves 256-262): Rodriguez to Arrillaga, 10 April 1803, on the affair at Punta de los Guijarros; with the Lelia Byrd's Norfolk dispatch of 1 April 1801 at orig. pp. 641-642, Vidalva's petition for 233 otter skins at 645-647, and Velasquez's defence of 11 April 1803 at 648-650. None of these is cited by Bancroft."
+    },
+    {
+     "citation": "Shaler, Journal of a Voyage Between China and the North-Western Coast of America (1808); Cleveland, A Narrative of Voyages and Commercial Enterprises (1842), for the two American accounts."
     }
    ],
    "native_groups": [],
@@ -1051,9 +1056,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "PP 0389; pueblo-papers-project.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Pueblo Papers (Bancroft Library), PP 0389."
     }
    ],
    "native_groups": [],
@@ -1082,9 +1085,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "ca25-tomo-ix-gap-read.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. Rec. (BANC MSS C-A 25), tomo ix, orig. p. 197 / Savage p. 446 / leaf 450, entry of 2 September 1818, which reports the Russian frigate and the American corvette Ontario at San Francisco together, orig. pp. 624-625. Partly cited by Bancroft."
     }
    ],
    "native_groups": [],
@@ -1125,7 +1126,7 @@
   {
    "id": "anglo-american-vessel-blockades-guaymas",
    "register_no": null,
-   "name": "Anglo-American Vessel Blockades Guaymas",
+   "name": "The Brig Cosak at Guaymas",
    "date": {
     "iso": "1818-01",
     "display": "January 1818",
@@ -1138,14 +1139,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "american",
-   "summary": "Brig \"Cesak,\" Captain \"Clarick,\" raised American flag, fired 3 cannon shots, blockaded Guaymas. American aggression on Pacific coast in same period as Bouchard.",
-   "result": "American naval aggression on Pacific coast",
+   "summary": "Antonio Cordero reports to Governor Sola from Arispe: the brig Cosak tried to water at Guaymas, was threatened with sinking for having no port captain aboard and its captain jailed, then got under way, raised the Anglo-American flag, fired three cannon shots and fled with abuse. Cordero orders it seized wherever it arrives, anyone who lands arrested and the goods confiscated. The same winter as Bouchard, on the other shore of the gulf.",
+   "result": "Anglo-American defiance in the Gulf in the same season as Bouchard",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13; ca13-prov-state-papers-xx-documents, Doc. 13.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 13), tomo xx, orig. pp. i.1001-1004 / Savage p. 221 / scan n220, Doc 277. Antonio Cordero to Gov. Sola, Arispe, 7 January 1818.",
+     "ca_record": "ca13-d277",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n220"
     }
    ],
    "native_groups": [],
@@ -1159,7 +1160,7 @@
    "name": "Bouchard's Attack on Monterey",
    "date": {
     "iso": "1818-11-20",
-    "display": "November 20–26, 1818",
+    "display": "November 20 to 27, 1818",
     "confidence": "exact"
    },
    "coords": [
@@ -1169,14 +1170,12 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "bouchard",
-   "summary": "Argentine privateer: Argentina (38 guns) + Santa Rosa (26 guns), ~285 crew. 400 men landed. Presidio burned. Only time a California capital fell to a foreign enemy. Solá retreated to Salinas with archives + 6,000 cartridges.",
-   "result": "MONTEREY FALLS; only foreign capture of a California capital",
+   "summary": "Hipolito Bouchard, sailing under Buenos Aires colours, took Monterey with the Argentina of thirty-eight guns and the Santa Rosa of twenty-six. The prisoners put his crews at about 285, a figure Bancroft thinks probably exaggerated; Sola reported 400 men landed. The presidio and the castillo were burned. Sola fell back on the Salinas with the archives and six thousand cartridges. The only foreign capture of the California capital in the Spanish period; Monterey was taken again by Commodore Jones in 1842 and by Commodore Sloat in 1846.",
+   "result": "Monterey falls; the only foreign capture of the capital under Spanish rule",
    "quote": null,
    "sources": [
     {
-     "citation": "bouchard-raid-1818; Bancroft II:227–243.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California II, 220-49."
     }
    ],
    "native_groups": [],
@@ -1189,9 +1188,9 @@
    "register_no": null,
    "name": "Bouchard at Refugio",
    "date": {
-    "iso": "1818-12-04",
-    "display": "December 4–6, 1818",
-    "confidence": "exact"
+    "iso": "1818-12-02",
+    "display": "December 2 to 3, 1818",
+    "confidence": "circa"
    },
    "coords": [
     34.465,
@@ -1200,14 +1199,12 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "bouchard",
-   "summary": "Bouchard lands, plunders Ortega's rancho, kills cattle. 3 insurgents captured in ambush: Lt. William Taylor (Boston), Martin Romero (Paraguay), Mateo José Pascual.",
+   "summary": "Bouchard's men landed at Refugio, plundered the Ortega rancho and killed cattle, and sailed again the next morning. Three of the party were taken in an ambush: Lieutenant William Taylor of Boston, Martin Romero of Paraguay, and Mateo Jose Pascual. Bancroft twice says probably of the dates; the ships were off Santa Barbara on the 6th.",
    "result": "Ranch plundered; 3 captured by Spanish ambush",
    "quote": null,
    "sources": [
     {
-     "citation": "bouchard-raid-1818; Bancroft II:236–237.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California II, 236-37."
     }
    ],
    "native_groups": [],
@@ -1236,7 +1233,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "bouchard-raid-1818; Bancroft II:237–239.",
+     "citation": "Bancroft II:237–239.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1267,7 +1264,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "bouchard-raid-1818; Bancroft II:240–241.",
+     "citation": "Bancroft II:240–241.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1293,14 +1290,12 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "french",
-   "summary": "First foreign account of Spanish military capacity. Governor Fages tells La Pérouse \"North California has no northern boundary at all; it extends to Mount Saint Elias.\" Reality: 282 soldiers for 800+ leagues of coast, 25 missions, ~50,000 Indians, only 10,000 Christian. Continental claim vs. actual control; 7 years before Nootka.",
-   "result": "France sees through the fiction; 282 soldiers for 800 leagues",
+   "summary": "The first foreign account of Spanish military capacity in California, and of the size of the Spanish claim. La Perouse reports the claim at second hand and does not stop it at Mount St Elias; he says it has no stopping place at all: 'North California, the most northern settlement in which is Saint Francis, in latitude 37 deg. 58', has, according to the opinion of the governor of Monterey, no other boundary than that of America; and our ships, in penetrating as far as Mount Saint Elias, have not reached its limits.' Against that he sets what he counted: a government more than eight hundred leagues in circumference whose governor's 'real subjects consist only of two hundred and eighty-two cavalry', garrisoning five small forts and finding detachments of four or five men for each of twenty-five missions, to restrain 'about fifty thousand wandering Indians', of whom nearly ten thousand had been baptized. A continental claim against that, seven years before Nootka.",
+   "result": "France prints the claim and the garrison roll on facing pages",
    "quote": null,
    "sources": [
     {
-     "citation": "Milet-Mureau (ed.), Voyage de La Perouse autour du monde (Paris, 1797); English translation, London, 1799.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "La Perouse, A Voyage Round the World, performed in the years 1785, 1786, 1787 and 1788, ed. Milet-Mureau, English translation (London: Johnson, 1799), ii. 196 (the garrison) and ii. 224-25 (the boundary); French original, Voyage de La Perouse autour du monde (Paris, 1797)."
     }
    ],
    "native_groups": [],
@@ -1354,14 +1349,12 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok tell Goycoechea the eastern shores are \"impassable\"; he takes the harder western route via Marin headlands. Later admitted he was \"deceived.\" Information control: indigenous peoples directing Spanish military movements.",
-   "result": "Indigenous information warfare; Spain deceived",
+   "summary": "The Coast Miwok told Goycoechea, through his interpreter, that there was a vessel at the mouth of the port and that if he went their way he could speak to its captain, 'as the lagoon joined the sea and we could not cross it'. He went that way, down the west side of Tomales Bay, against instructions that had ordered him up the east side, and found he could not get round. Meeting Matute on 8 August he consulted him 'about the deceit practiced on me by the natives who had assured me that I could not cross the lagoon because it made a turn and entered the sea'. Wagner, editing him, suggests he may simply have misunderstood them. Either way, what the Spanish party did with its horses that week was settled by what the people of the lagoon told it.",
+   "result": "A Spanish march routed by local information, mistaken or given",
    "quote": null,
    "sources": [
     {
-     "citation": "Wagner 1931:342–345.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Goycoechea's diary, 6 to 8 August 1793, AGN Seccion Historia vol. 70, translated in Wagner, CHSQ 10, no. 4 (1931), 342-44, with the editor's notes 69 and 73."
     }
    ],
    "native_groups": [],
@@ -1371,27 +1364,25 @@
   {
    "id": "coast-miwok-calibrated-diplomacy-at-bodega",
    "register_no": null,
-   "name": "Coast Miwok Calibrated Diplomacy at Bodega",
+   "name": "Coast Miwok Calibrated Diplomacy at Tomales Bay",
    "date": {
-    "iso": "1793-08",
-    "display": "August 1793",
-    "confidence": "month"
+    "iso": "1793-08-07",
+    "display": "August 7, 1793",
+    "confidence": "exact"
    },
    "coords": [
-    38.335,
-    -123.05
+    38.18,
+    -122.92
    ],
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok \"prepared to give us battle\"; choose instead to present pinole and fruit. Not submission; calibrated response. They evaluated the Spanish party and chose diplomacy.",
-   "result": "Military capability held in reserve; diplomacy chosen",
+   "summary": "Ten or twelve leagues along the inlet on 7 August, Goycoechea counted nine settlements. The Indians travelling with him said these were 'prepared to give us battle'; he passed all of them 'without noticing any of the inhabitants in any warlike demonstration', and 'instead, they presented my men with pinole and some little fruits from the beach', which he repaid in beads and food. Note whose assessment the warning was: it came from his own companions, not from the villages. What the villages did was decide, nine times over, how to meet an armed party on their shore.",
+   "result": "Capability held in reserve; nine villages choosing the same way",
    "quote": null,
    "sources": [
     {
-     "citation": "Wagner 1931:342–345.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Goycoechea's diary, 7 August 1793, AGN Seccion Historia vol. 70, translated in Wagner, CHSQ 10, no. 4 (1931), 343."
     }
    ],
    "native_groups": [],
@@ -1401,27 +1392,28 @@
   {
    "id": "coast-miwok-bilingual-intermediaries-at-tomales",
    "register_no": null,
-   "name": "Coast Miwok Bilingual Intermediaries at Tomales",
+   "name": "Coast Miwok Bilingual Intermediaries at Bodega",
    "date": {
     "iso": "1793-10-20",
     "display": "October 20, 1793",
     "confidence": "exact"
    },
    "coords": [
-    38.228,
-    -122.933
+    38.308,
+    -123.046
    ],
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok calling \"Amico,\" speaking Spanish, pointing up lagoon repeating \"Spaniard.\" Bilingual intermediaries positioning between British and Spanish empires. They know both powers and broker between them.",
-   "result": "Trilingual positioning between empires",
+   "summary": "The same party Menzies met on 20 October 1793: one man, five women and some children, who called out 'Amico' and spoke many words of Spanish, and who pointed repeatedly up the lagoon when they said the word for Spaniards. Wagner reads that pointing as evidence that Matute's establishment stood further up the water. People with a working command of one empire's language, giving a second empire directions to the first.",
+   "result": "Brokers between two empires, with the language of one of them",
    "quote": null,
    "sources": [
     {
-     "citation": "Menzies 1924:302.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Menzies' California journal, CHSQ 2, no. 4 (1924), 302-03."
+    },
+    {
+     "citation": "Wagner, CHSQ 10, no. 4 (1931), 338, on the pointing up the lagoon."
     }
    ],
    "native_groups": [],
@@ -1509,9 +1501,12 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 26; ca26-prov-rec-xi-xii-survey.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. Rec. (BANC MSS C-A 26), tomo xi, orig. p. 63 / Savage p. 16 / scan n15, Doc 53. Arrillaga, Soledad, 2 October 1811, approving the despatch of Cabo Juan Ortega in pursuit of the gentiles of the rancheria of Suispaques.",
+     "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n15"
+    },
+    {
+     "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 64-66 / Savage p. 17 / scan n16, Doc 56. Arrillaga, Soledad, 31 October 1811: Cabo Ortega returned without having taken the gentile Suispaques.",
+     "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n16"
     }
    ],
    "native_groups": [],
@@ -1539,9 +1534,10 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Golovnin 1979:165 via Farris 1998:6; AVPRI deep read lines 176–190.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Golovnin, Around the World on the Kamchatka, 1817-1819, trans. Wiswell (1979), 165, cited in Farris, 'The Russian Imprint on the Colonization of California' (1998), 6."
+    },
+    {
+     "citation": "Archive of Foreign Policy of the Russian Empire (AVPRI), the Golovnin materials."
     }
    ],
    "native_groups": [],
@@ -1595,14 +1591,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "intel",
-   "summary": "Sal to Arrillaga: \"Segun sus opiniones, quieren los ingleses la boca de este puerto por línea divisoria.\" Also reports one burst cannon, two English frigates at Bodega. Intelligence from Bodega y Quadra at Nootka.",
-   "result": "THESIS-CRITICAL; the boundary claim stated explicitly",
+   "summary": "Sal to Arrillaga, reporting the intelligence Bodega y Quadra brought back from Nootka: «Segun sus espresiones, quieren los ingleses la boca de este puerto por línea divisoria», by their own account the English want the mouth of this port for the dividing line. The same letter reports a burst cannon and two English frigates at Bodega.",
+   "result": "The boundary claim stated explicitly",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 54, MS p. 119; bodega-failure-1793.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "St. Pap., Sac. (BANC MSS C-A 54), tomo i, orig. pp. 657-8 / Savage p. 120 / scan n119, Doc 279. Bancroft cites this leaf as St. Pap., Sac., MS., i. 119.",
+     "ca_record": "ca54-d279",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_16/page/n119"
     }
    ],
    "native_groups": [],
@@ -1656,13 +1652,12 @@
    "type": "event",
    "layer": "intel",
    "summary": "\"Los Presidios de Alta Cal. están indefensos, cuya circunstancia ha sido notada por los mismos ingleses... no pueden resistir contra una invasion.\" The governor's own admission to his viceroy.",
-   "result": "THESIS-CRITICAL; Spain admits its own weakness",
+   "result": "Spain admits its own weakness",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 14; ca14-prov-state-papers-xxi-xxii-survey, Find #1.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxi, orig. pp. 236-237 / Savage p. 94 / scan n93. Arrillaga to the Viceroy, San Diego, 16 March 1793: «Representa q.e los Presidios de Alta Cal. estan indefensos, cuya circunstancia ha sido notada p.r los mismos ingleses». The same entry reports eight English prisoners at Monterey.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n93"
     }
    ],
    "native_groups": [],
@@ -1685,14 +1680,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "intel",
-   "summary": "\"El grande rodeo y tierra incognita.\" Territory 45 miles north of SF is literally unknown to the Spanish governor after 24 years in California.",
-   "result": "THESIS-CRITICAL; Spain does not know its own territory",
+   "summary": "«El grande rodeo y tierra incognita». Asked to open a road from San Francisco to Bodega, the governor reported the overland route impossible: the great detour, and unknown country. The ground in question begins about forty-five miles north of the presidio he was writing from.",
+   "result": "The governor reports the country north of the Gate as unknown",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap., MS., tomo xxi, p. 113.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxii, orig. p. ~290 / scan n112, Doc 99. Arrillaga, 1793. Bancroft's shelfmark xxi. 113 belongs to a different despatch of 20 August 1793.",
+     "ca_record": "ca14-d99",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n112"
     }
    ],
    "native_groups": [],
@@ -1715,14 +1710,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "intel",
-   "summary": "Revilla Gigedo orders Bodega occupied. Full fortification plan for Bodega + SF + Monterey + SD. Never executed. Supplies eventually repurposed (June 10, 1794).",
+   "summary": "Revilla Gigedo ordered Bodega reconnoitred and occupied, to deny foreigners a shelter next door to the presidios, together with a fortification plan for Bodega, San Francisco, Monterey and San Diego. None of it was built. Sal reallocated the Bodega stores to San Francisco the following summer.",
    "result": "Order given; never carried out",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 22, ii.144–148; bodega-failure-1793.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. Rec. (BANC MSS C-A 22), tomo ii, orig. pp. 144-148."
+    },
+    {
+     "citation": "Bancroft, History of California I, 506-08, citing Prov. St. Pap., MS., xi. 92 for the viceroy's order of 6 July 1793."
     }
    ],
    "native_groups": [],
@@ -1750,9 +1746,8 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 8; ca8-prov-state-papers-xiv-xv-survey, Find #5.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xv, orig. pp. 764-765 / Savage p. 443 / leaf 247 / scan n444. Branciforte to the Governor of California, Orizaba, 22 May 1797, on the receipt of Cordoba's plans of San Diego and the Santa Barbara channel: the Fiscal de Real Hacienda holds that «la defensa de aquellos establecimientos debe hacerse por la marina», at less cost than works that «no embarazarian el desembarco».",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n444"
     }
    ],
    "native_groups": [],
@@ -1780,9 +1775,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 11; ca11-prov-state-papers-xviii-survey.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 11), tomo xviii, orig. pp. 80-81. Arguello on the garrison left at San Francisco, one corporal, four artillerymen, three corporals and ten volunteer soldiers, barely enough for the guards of the presidio and the fort, «quedando abandonada la Bateria de Yerba Buena», visited daily by the lookout and every eight days by the artillery corporal."
     }
    ],
    "native_groups": [],
@@ -1806,13 +1799,14 @@
    "type": "event",
    "layer": "intel",
    "summary": "Comandante General of the Provincias Internas explicitly rejects overland California–New Mexico road. Cites 1786 prohibition. California's territories \"useless.\" Indigenous nations form impassable barrier. The only route is the Sea of Cortez.",
-   "result": "THESIS-CRITICAL; isolation was policy, not accident",
+   "result": "Isolation was policy, not accident",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 11, orig. pp. 101–3; ca11-prov-state-papers-xviii-survey.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 11), tomo xviii, orig. pp. 101-103. Pedro de Nava, Comandante General de las Provincias Internas, to the Viceroy, Chihuahua, 20 July 1800, on the project of a road between California and New Mexico and a presidio on the Colorado: he argues against both, and against extending the presidio line, as «abasando inutilmente inmensos territorios que de mucho tiempo de nada nos pueden servir». Savage's copy."
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 11), tomo xviii, orig. pp. 101-103 (continued). El Fiscal de lo Civil, Mexico, 4 March 1801, his parecer on the same project."
     }
    ],
    "native_groups": [],
@@ -1835,14 +1829,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "intel",
-   "summary": "Only 8 cannons (2 non-functional), no grapeshot, no forge, no hot-shot furnace, wadding falling apart, cartridges irreplaceable. Two years after Bouchard proved the vulnerability; still not repaired.",
+   "summary": "Manuel Gomez's report on the fort: eight cannons, two of them unserviceable, the twelve-pounder's mounting bad and its bore pitted, the eight-pounder's ball jamming for want of a rasador; the gunner's tools broken; two cannons at the landing place unusable for want of platform planking and emplaced in sand; and not a single veteran artilleryman fit for duty. Two years after Bouchard had proved the place could be taken, and still not repaired.",
    "result": "The fortress is a ruin",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13; ca13-prov-state-papers-xx-documents, Doc. 7.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 13), tomo xx, orig. pp. i.1110-1113 / Savage pp. 261-263 / scan n260-n262, Doc 332. Manuel Gomez to Gov. Sola, San Francisco, 20 March 1820.",
+     "ca_record": "ca13-d332",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n260"
     }
    ],
    "native_groups": [],
@@ -1852,7 +1846,7 @@
   {
    "id": "sola-to-viceroy-san-rafael-russian-threat",
    "register_no": null,
-   "name": "Solá to Viceroy: San Rafael + Russian Threat",
+   "name": "Solá to the Viceroy: San Rafael and the Russians in One Despatch",
    "date": {
     "iso": "1818-04",
     "display": "April 1818",
@@ -1865,14 +1859,17 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "intel",
-   "summary": "Same letter contains Mission San Rafael founding AND Russian threat warning. Dual purpose: health + strategic. Proves mission expansion was explicitly about territorial defense against Russia.",
-   "result": "Missions as counter-Russian strategy",
+   "summary": "One despatch carries both the new establishment at San Rafael and the warning about the Russian posts at Ross and Bodega. That the two concerns travelled together is the fact; that the mission was founded for the Russians is a further claim the letter does not settle. Bancroft, reading the same April 1818 report, gives the health of the San Francisco neophytes as doubtless the true reason for the foundation, and attributes the anti-Russian motive to Russian writers rather than to the Spanish record.",
+   "result": "Two concerns in one despatch; the motive is contested, not proved",
    "quote": null,
    "sources": [
     {
      "citation": "Prov. Rec. (BANC MSS C-A 25), tomo ix, orig. pp. 583-604 / scan n429-n449, Doc 756: Sola's report to the Viceroy, Monterey, 3 April 1818, on the Russian establishments at Ross and Bodega.",
      "ca_record": "ca25-d756",
-     "ia_leaf_url": null
+     "ia_leaf_url": "https://archive.org/details/168036074_80_7_2/page/n429"
+    },
+    {
+     "citation": "Bancroft, History of California II, 328-29, 372, for the health reason and the Russian-writers attribution."
     }
    ],
    "native_groups": [],
@@ -1882,7 +1879,7 @@
   {
    "id": "the-1793-bodega-occupation-attempt-matute-aranza",
    "register_no": null,
-   "name": "The 1793 Bodega Occupation Attempt · Matute / Aránzazu",
+   "name": "The 1793 Bodega Occupation Attempt",
    "date": {
     "iso": "1793",
     "display": "1793",
@@ -1895,24 +1892,24 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "The occupation the whole story turns on. On the Viceroy's order to \"reconocer y ocupar dicho Puerto, quitando á extranjeros ese abrigo inmediato á los Presidios,\" an expedition under Lt. Juan Bautista Matute aboard the Aránzazu was to plant a Spanish establishment at Bodega. Matute reported he \"no verificaría aquel año el establecimiento\"; the attempt collapsed for want of imperial capacity, not suitable ground.",
-   "result": "The establishment that did not happen; Spain's claim north of SF never occupied",
+   "summary": "The occupation the whole story turns on. Alarmed that Colnett's 1790 stay at Bodega would draw other Britons to take possession, the viceroy ordered the port occupied. Juan Bautista Matute went ahead in the schooner Sutil about 1 April 1793 to put up buildings; later that month the Aranzazu, under Salvador Melendez Valdes, followed with the garrison and the artisans to form a regular establishment. The Aranzazu reached Bodega on 16 July and had to anchor five or six leagues from the site, which Matute judged she could not enter, so he landed the troops, artisans, food and supplies at San Francisco instead. He had already run up some kind of barracks near the south end of the sand dunes, two miles from the end of Bodega Head, and Goycoechea saw them standing on 11 August. Matute was back at San Francisco by 12 August; five days later Arrillaga told the viceroy that the occupation of Bodega was put off for that year. The postponement turned out to be permanent, and the ten soldiers and five mechanics with the Bodega stores stayed at San Francisco under Sal. Matute gave the reason as a want of timber for building.",
+   "result": "The establishment that did not happen; Spain's claim north of the Gate never occupied",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 55 Doc 335 (Matute/Aránzazu, 25 Jul 1793).",
-     "ca_record": "ca55-d335",
-     "ia_leaf_url": null
+     "citation": "Matute's report to the provisional commandant of the department of San Blas, San Blas, 7 November 1793, translated in Wagner, 'The Last Spanish Exploration of the Northwest Coast', California Historical Society Quarterly 10, no. 4 (1931), 338, 340-46."
     },
     {
-     "citation": "Occupation order: C-A 6 Doc 192 (Revillagigedo, 6 Jul 1793).",
-     "ca_record": "ca6-d192",
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California I, 507-08, on the Aranzazu's arrival at San Francisco on 24 July, Goycoechea's departure on 5 August, Matute's return on 12 August, Arrillaga's postponement, and the ten soldiers and five mechanics retained by Sal."
     },
     {
-     "citation": "C-A 15 Doc 515 (presidios & Bodega, 16 Jul 1793).",
-     "ca_record": "ca15-d515",
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxii, orig. p. ~273-4 / Savage p. 107 / scan n106, Doc 468. Arrillaga to the Viceroy, Monterey, 16 July 1793, acknowledging the order that the port of Bodega be occupied.",
+     "ca_record": "ca14-d468",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n106"
+    },
+    {
+     "citation": "St. Pap., Missions (C-A 15), Doc 515: the presidios and Bodega, 16 July 1793.",
+     "ca_record": "ca15-d515"
     }
    ],
    "native_groups": [],
@@ -1935,14 +1932,13 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Sal reports that \"no se efectuará el establecimiento del puerto de Bodega,\" and that the articles destined for Bodega have been reassigned to the San Francisco presidio. The closing bracket on the 1793 order-and-attempt.",
-   "result": "The Bodega plan formally dead; supplies redirected to SF",
+   "summary": "Sal reports that the establishment at the port of Bodega will not be carried out, and that the articles destined for it have been reassigned to the San Francisco presidio. The words are Savage's digest of the letter rather than Sal's own, and the entry records no act of abandonment: what it records is Sal disposing of the Bodega stores on his own understanding that nothing further was coming. The closing bracket on the 1793 order and attempt.",
+   "result": "Supplies redirected to San Francisco; nothing further ordered for Bodega",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 15 Doc 520 (Sal → Arrillaga, 25 Jul 1794).",
-     "ca_record": "ca15-d520",
-     "ia_leaf_url": null
+     "citation": "St. Pap., Missions (C-A 15), Doc 520: Sal to Arrillaga, 25 July 1794. Savage's abstract, which expands the manuscript's establecim.to.",
+     "ca_record": "ca15-d520"
     }
    ],
    "native_groups": [],
@@ -1970,9 +1966,14 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13 Docs 193–206 (the Wilcocks affair; the Bodega call & blanket sale in his voyage account, Doc 206, orig. i.716–726; the annexation accusation denounced in Doc 203). Formerly cited as survey entry 19.",
+     "citation": "Prov. St. Pap. (BANC MSS C-A 13), tomo xx, orig. pp. i.716-726 / Savage pp. 166-172 / scan n165-n171, Doc 206. Wilcocks's «historia exacta», Guaymas, 1817: left Hawaii 7 October and reached «un establecimiento ruso llamado Bodega» on the 25th [October 1816], but «los rusos no quisieron comprar nada»; then Santa Barbara, and at Monterey sold Gov. Sola $700 of manta for the four presidios.",
      "ca_record": "ca13-d206",
-     "ia_leaf_url": null
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n165"
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 13), orig. pp. i.~716 / Savage pp. 163-165 / scan n162-n164, Doc 203. Wilcocks to Gov. Sola, Guaymas, 12 December 1817, denouncing the slander that he meant «levantarme con las Californias para integrarlas a los anglo-americanos mis paisanos».",
+     "ca_record": "ca13-d203",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n162"
     }
    ],
    "native_groups": [],
@@ -2027,14 +2028,19 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Baranov, from Novo-Arkhangelsk, protests the \"insults to the Russian Flag and the capture and keeping in cruel bondage of Russians… in the waters and the coasts of California,\" invokes the 1812 treaty, and sends Lt. Podushkin as a parlamentario aboard the Chirikoff to Monterey. Russia negotiating as a commercial sovereign on Spain's claimed coast.",
-   "result": "Russia treats with Spain as an equal power on the California coast",
+   "summary": "Baranov, from Novo-Arkhangelsk, protests 'insults to the Russian Flag and the capture and keeping in cruel bondage of Russians and other people subject to our august Monarch in the waters and coasts of California', invokes articles 3 and 4 of the treaty of 1812, says he has petitioned the Emperor, and sends Lieutenant Yakov Podushkin aboard the Chirikoff as a parlamentario. The English is Ivan Petroff's, made for the Bancroft project seventy years later, not Baranov's own and not a 1817 translation; Petroff's reliability as a translator for Bancroft is a standing problem. Podushkin's own errand at Monterey was narrower: the arrest and return of a Kodiak sailor, Peter Leonoff, who had deserted the Chirikoff at Little Bodega on 30 March.",
+   "result": "Russia treats with Spain as a power on the California coast",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13 Docs 263–264 (Podushkin's request, 22 Apr 1817; Baranov's protest, 2 Feb 1817). Formerly cited as survey entry 20.",
+     "citation": "Prov. St. Pap. (BANC MSS C-A 13), tomo xx, orig. pp. i.866-870 / Savage pp. 207-209 / scan n206-n208, Doc 264. Baranov to Gov. Sola, Novo-Arkhangelsk, 2 February 1817, in Ivan Petroff's English translation; leaf verified.",
      "ca_record": "ca13-d264",
-     "ia_leaf_url": null
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n206"
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 13), orig. p. i.868 / Savage p. 206 / scan n205, Doc 263. Lt. Yakov Podushkin to Gov. Sola, Monterey, aboard the Chirikoff, 22 April 1817.",
+     "ca_record": "ca13-d263",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_15_2/page/n205"
     }
    ],
    "native_groups": [],
@@ -2209,14 +2215,13 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "british",
-   "summary": "A sworn 1799 deposition: a British naval squadron awaiting the Manila galleon, with 22 Peru prizes, states a plan to winter at San Diego; whose harbour they had already secretly sounded c.1797, \"entered in their boats one moonlit night, sounded the whole harbour,\" \"instruidos por los planos de Nutka.\" The open coast as an actual reconnaissance ground.",
+   "summary": "A sworn deposition of 28 June 1799: a British naval squadron waiting for the Manila galleon, with twenty-two prizes taken off Peru, meant to winter at San Diego, whose harbour its boats had already sounded in secret one moonlit night a year or two before, working «instruidos por los planos de Nutka». The English phrasing above is the cataloguer's rendering of the Spanish, not the document's own words; the deponent's name for the officer concerned is read doubtfully in the manuscript. The open coast as a reconnaissance ground, which is exactly what the 1793 order had feared.",
    "result": "San Diego's harbor already mapped by the enemy; the threat the 1793 order feared",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 15 Doc 392 (Loreto deposition, 28 Jun 1799).",
-     "ca_record": "ca15-d392",
-     "ia_leaf_url": null
+     "citation": "St. Pap., Missions (C-A 15), Doc 392: deposition taken at Loreto, 28 June 1799.",
+     "ca_record": "ca15-d392"
     }
    ],
    "native_groups": [],
@@ -2460,10 +2465,14 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "spanSet",
-   "summary": "1817. Anti-Russian buffer. 83 days after Hagemeister treaty. Founded without a boat.",
+   "summary": "Founded December 1817 as a branch of San Francisco, 83 days after the Hagemeister agreement, and without a boat of its own. Whether it was meant as a counterweight to Ross is contested: Bancroft gives the health of the San Francisco neophytes as the reason and credits the anti-Russian reading to Russian writers.",
    "result": "",
    "quote": null,
-   "sources": [],
+   "sources": [
+    {
+     "citation": "Bancroft, History of California II, 328-29."
+    }
+   ],
    "native_groups": [],
    "tags": [
     "reference"
@@ -2487,10 +2496,14 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "spanSet",
-   "summary": "1823. Northernmost mission. Altimira: \"you will all be Russians.\"",
+   "summary": "Founded 1823, the northernmost of the missions. The sentence often attached to its founding, that at the moment Spain acknowledged Mexican independence the friars would all be Russians, is not Altimira's: Bancroft prints it as the declaration in a letter sent from Mexico to one of the friars, which Padre Duran recapitulated in January 1823 along with Iturbide's remark that the Russians were threatening Mexico in the Californias.",
    "result": "",
    "quote": null,
-   "sources": [],
+   "sources": [
+    {
+     "citation": "Bancroft, History of California II, 483."
+    }
+   ],
    "native_groups": [],
    "tags": [
     "reference"
@@ -2651,7 +2664,7 @@
    "coord_precision": "exact",
    "type": "settlement",
    "layer": "rusSet",
-   "summary": "~1812. 18 mi off SF coast. Seasonal Aleut camps. Unchallenged.",
+   "summary": "From about 1812. Some 29 miles west of the Golden Gate. Seasonal Aleut camps for the Ross settlement. Never contested.",
    "result": "",
    "quote": null,
    "sources": [],
@@ -3297,19 +3310,18 @@
    "coord_precision": "conjectural",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Edwards's reconstruction: the water the Sonora entered on October 3, 1775; the original 'Puerto de la Bodega'; was Tomales Bay. Beals's edition of Bodega's journal reaches the same identification. Everything on the modern map called Bodega carries a migrated name.",
-   "result": "Identification debated",
+   "summary": "Edwards's reconstruction: the water the Sonora entered on 3 October 1775, the original Puerto de la Bodega, was Tomales Bay, and everything called Bodega on the modern map carries a migrated name. Against it stands what the Spanish themselves told Vancouver's people in 1793. Menzies records that the San Diego commandant's plan of the coast showed both waters, and that the Spanish called the lagoon the Chatham's boat had visited, the one behind Bodega Head, Port Bodega, while 'the other to the Southward of it which goes to the South East they calld Port Juan Francisco'. Goycoechea's diary of August 1793 uses the two names the same way. The identification is genuinely open, but in 1793 the northern water already carried the name.",
+   "result": "Identification debated; the 1793 Spanish usage runs against the Tomales reading",
    "quote": null,
    "sources": [
     {
-     "citation": "Edwards, 'Wandering Toponyms' (1964)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Edwards, 'Wandering Toponyms: El Puerto de la Bodega and Bodega Bay', Pacific Historical Review 33 (1964)."
     },
     {
-     "citation": "Beals (ed.), For Honor and Country: the diary of Bodega y Quadra (Hakluyt, 2007), editorial note",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Menzies' California journal, CHSQ 2, no. 4 (1924), 335, for the Spanish names on the commandant's plan."
+    },
+    {
+     "citation": "Goycoechea's diary, 6 to 13 August 1793, AGN Seccion Historia vol. 70, translated in Wagner, CHSQ 10, no. 4 (1931), 342-45."
     }
    ],
    "native_groups": [
@@ -3323,11 +3335,11 @@
   {
    "id": "matute-sutil-bodega-1793",
    "register_no": null,
-   "name": "Matute on the Sutil · the Occupation Refused",
+   "name": "Matute on the Sutil: the Occupation Given Up",
    "date": {
-    "iso": "1793-07-23",
-    "display": "July 23 – October 1793",
-    "confidence": "exact"
+    "iso": "1793-04-01",
+    "display": "April to August 1793",
+    "confidence": "circa"
    },
    "coords": [
     38.308,
@@ -3336,24 +3348,24 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Naval lieutenant Juan Bautista Matute arrives on the Sutil to plant the Bodega settlement, finds no English, and refuses to carry out the occupation: the harbor too shallow for the mission, no timber, no building material. He takes his artisans and troops back to San Blas in October; the quiet end of Spain's last northward move. If Edwards is right about the 1775 name, Matute was also surveying a different water than the one Bodega had praised.",
-   "result": "Occupation abandoned",
+   "summary": "Juan Bautista Matute came up in the schooner Sutil about 1 April 1793 to put up the buildings for the Bodega settlement, found no English, and gave the occupation up: the Aranzazu could not be brought in, there was no timber for building, and the Sutil alone was not enough. He had got some kind of barracks up near the south end of the sand dunes, two miles from the end of Bodega Head, which Goycoechea saw on 11 August. Two ships left Bodega together the day before Goycoechea arrived on the 10th; Matute was at San Francisco by the 12th, stayed until 10 October, and reached San Blas on 7 November, where he wrote his report. His people did not go with him: he landed the troops, artisans, food and supplies at San Francisco, left the food and the troops there in service, and brought four artisans back to San Blas. Bancroft has ten soldiers and five mechanics retained by Sal with the Bodega stores. If Edwards is right about the 1775 name, Matute was also surveying a different water from the one Bodega had praised.",
+   "result": "Occupation given up; the garrison absorbed into San Francisco",
    "quote": null,
    "sources": [
     {
-     "citation": "Matute's resultas of the Bodega commission (AGN, Historia 71)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Matute's report, San Blas, 7 November 1793, translated in Wagner, CHSQ 10, no. 4 (1931), 340-46; Wagner's account at 338."
     },
     {
-     "citation": "Matute's 1793 plan of Bodega (AHN, Estado, MPD. 33)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California I, 507-08."
     },
     {
-     "citation": "Edwards, 'Wandering Toponyms' (1964) · the wrong-harbor argument",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Matute's resultas of the Bodega commission (AGN, Historia 71)."
+    },
+    {
+     "citation": "Matute's 1793 plan of Bodega (AHN, Estado, MPD. 33)."
+    },
+    {
+     "citation": "Edwards, 'Wandering Toponyms' (1964), for the wrong-harbour argument."
     }
    ],
    "native_groups": [],
@@ -3452,18 +3464,13 @@
    "coord_precision": "area",
    "type": "document",
    "layer": "intel",
-   "summary": "Viceroy Calleja writes the governor on the Russian establishment at Bodega, ordering precautions against Americans and against privateers; Mexico City registering, mid-insurgency, that the coast north of the Gate now belonged to someone else's initiative. A parallel despatch went to the governor of Baja California.",
+   "summary": "Viceroy Calleja writes the governor on the Russian establishment at Bodega, ordering precautions against Americans and against privateers: Mexico City registering, in the middle of the insurgency, that the coast north of the Gate now answered to somebody else's initiative. The same despatch carries the Baja California parallel.",
    "result": "",
    "quote": null,
    "sources": [
     {
      "citation": "Provincial State Papers (C-A 12), doc 491 · Calleja to the Gov. of California, 9 Jul 1813",
      "ca_record": "ca12-d491",
-     "ia_leaf_url": null
-    },
-    {
-     "citation": "Provincial State Papers (C-A 14), doc 455 · the Baja California parallel",
-     "ca_record": "ca14-d455",
      "ia_leaf_url": null
     }
    ],
@@ -3490,19 +3497,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Mission San Rafael, its founding padre Amorós just dead and its population collapsing, is attacked by gentiles; an expedition goes out under Lázaro Piña. Word of the rising carries through fugitive mission Indians to the Ross-area rancherías; the likely referent of the Russians' report of a 'spring 1832 San Rafael revolt'.",
+   "summary": "Mission San Rafael, its long-serving padre Juan Amoros dead that year and its population falling, is attacked by gentiles, and an expedition goes out under Lazaro Pina. Amoros was not the founder: Luis Gil y Taboada took charge of the branch establishment at the 1817 founding, and Amoros served there until his death. Word of the rising travelled through fugitive mission Indians to the rancherias around Ross, and is the likely referent of the Russian report of a San Rafael revolt in the spring of 1832.",
    "result": "The North Bay crisis opens",
    "quote": null,
    "sources": [
     {
-     "citation": "Bancroft, History of California III, 716 (citing Vallejo, Documentos, MS, i.307)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California III, 716 (citing Vallejo, Documentos, MS, i. 307) for the attack and the Pina expedition; III, 719, and II, 328-29, for Gil y Taboada at the founding and Amoros's death in 1832."
     },
     {
-     "citation": "Bolkhovitinov & Istomin, Istoriia Russkoi Ameriki III, ch. 6 (the Russian report)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bolkhovitinov and Istomin, Istoriia Russkoi Ameriki III, ch. 6, for the Russian report."
     }
    ],
    "native_groups": [
@@ -3531,14 +3534,12 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Padre Mercado of San Rafael sends an armed party of neophytes against the gentile rancherías; some twenty-one are killed and prisoners taken. Figueroa suspends the padre; the violent peak of the 1832–33 North Bay crisis, with the mission itself now the aggressor.",
-   "result": "Figueroa intervenes",
+   "summary": "Padre Mercado of San Rafael, claiming he feared an attack to free the visitors he had already seized, sent his majordomo Molina out on the morning of 20 May with thirty-seven armed neophytes. They surprised the strangers, killed twenty-one, wounded many more and took twenty men, women and children prisoner, against five wounded of their own, one mortally. Mercado reported it coolly to Figueroa five days later and asked for reinforcements. Figueroa, indignant that his promises to the Indians had been violated, sent the case to Prefect Garcia Diego as the competent ecclesiastical judge, and it was the prefect who suspended Mercado from his ministry and summoned him to Santa Clara. Vallejo, on Figueroa's orders, freed the prisoners at San Francisco and San Rafael and toured the rancherias to calm them. Mercado was out of arrest by the middle of the following year.",
+   "result": "Figueroa refers the case; the prefect suspends the padre",
    "quote": null,
    "sources": [
     {
-     "citation": "Bancroft, History of California III, 716–17 (the Mercado affair)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California III, 322-24, summarised at III, 716."
     }
    ],
    "native_groups": [
