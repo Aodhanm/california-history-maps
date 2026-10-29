@@ -195,8 +195,8 @@
    "coord_precision": "place",
    "type": "settlement",
    "layer": "outstations",
-   "summary": "Mission Dolores's farm and chapel outstation in the San Pedro Valley, worked from 1786 until epidemic losses and earthquake damage ended it in the early 1790s; the Sanchez Adobe stands on the site today. Found missing from our live map by Aodhan at the exhibit.",
-   "notes": "Data correction queued: the live missions map pins one 'San Pedro y San Pablo (San Mateo)' at San Mateo Creek, conflating this Pacifica outstation with the separate San Mateo outstation. Both existed; fix goes live only after approval.",
+   "summary": "Mission Dolores's farm and chapel outstation in the San Pedro Valley, worked from 1786 until epidemic losses and earthquake damage ended it in the early 1790s. The Sanchez Adobe stands on the site today. The name belongs here, not to the separate San Mateo outstation on San Mateo Creek with which it has long been conflated.",
+   "notes": "",
    "sources": [
     {
      "citation": "Milliken, A Time of Little Choice (1995); San Mateo County history of the Sanchez Adobe site."

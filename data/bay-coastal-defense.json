@@ -134,7 +134,7 @@
      "url": null
     }
    ],
-   "notes": "Six 17th-c. Peruvian bronze cannon survive on the Presidio. Bancroft V: Frémont spiked four guns, 1 July 1846 (not five, per some sources).",
+   "notes": "Six seventeenth-century Peruvian bronze cannon survive on the Presidio. Bancroft V records that one of the insurgent parties that crossed the bay on 1 and 2 July 1846 spiked the guns in the abandoned fort, and that when Lieutenant Misroon toured the place on the 11th he found the cannon 'just as Fremont had left them on July 1st, spiked, and requiring much labor to render them of any service'. He gives no count for the fort; the four spiked guns in Bancroft V belong to Castro's abandoned camp outside Los Angeles, where ten pieces were found, four of them spiked.",
    "symbol": "castillo"
   },
   {
@@ -207,14 +207,14 @@
     "display": "1822–1846",
     "confidence": "range"
    },
-   "summary": "Garrison shrank to 15–20 men (1824–25) and was largely relocated to El Cuartel de Sonoma (1835, Vallejo); by the 1840s the presidio was 'entirely dismantled.'",
+   "summary": "Garrison shrank to 15 to 20 men in 1824-25 and was largely relocated to the Cuartel de Sonoma under Vallejo in 1835. Duflot de Mofras, who saw it about 1841, described the presidio as entirely dismantled; Simpson, whom Bancroft quotes, has it dismantled and dilapidated.",
    "result": "Preserved as the Main Post",
    "sources": [
     {
-     "citation": "Bancroft, History of California; NPS",
-     "ca_record": null,
-     "ia_leaf_url": null,
-     "url": "https://www.militarymuseum.org/PSF.html"
+     "citation": "Duflot de Mofras, Exploration du territoire de l'Orégon, des Californies et de la mer Vermeille (Paris, 1844), i. 325, 427-29, which Bancroft, History of California IV, also cites; Bancroft, History of California IV, for Simpson's description and the garrison figures."
+    },
+    {
+     "citation": "National Park Service, Presidio of San Francisco historical documentation."
     }
    ],
    "symbol": "presidio"

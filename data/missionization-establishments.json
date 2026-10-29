@@ -1101,7 +1101,7 @@
   {
    "id": "o-san-pedro-y-san-pablo-san-mateo",
    "register_no": null,
-   "name": "San Pedro y San Pablo (San Mateo)",
+   "name": "San Mateo outstation (Dolores)",
    "date": {
     "iso": null,
     "display": "Mexican-era estate",
@@ -1114,7 +1114,7 @@
    "coord_precision": "area",
    "type": "settlement",
    "layer": "outstations",
-   "summary": "Mission Dolores' farm outstation on the peninsula, established in the 1780s; the 1830 SF padron still lists San Mateo among the jurisdiction's ranchos (C-A 50 Doc 425). Outstation of Mission San Francisco de Asís.",
+   "summary": "Mission Dolores' farm outstation on San Mateo Creek, established in the 1780s; the 1830 San Francisco padron still lists San Mateo among the jurisdiction's ranchos. It is a separate place from the San Pedro y San Pablo outstation in the San Pedro Valley at Pacifica, which this map also carries; the two were long conflated under the one name.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1126,7 +1126,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Verify against the 1834-36 secularization inventories (C-A 50-53) for the documented estate lists."
+   "notes": ""
   },
   {
    "id": "o-rancho-san-francisco-xavier",
@@ -1329,9 +1329,9 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Standard accounts (Bancroft, Hist. Cal., IV); cf. Leg. Rec. (C-A 61) Doc 19",
-     "ca_record": "ca61-d19",
-     "ia_leaf_url": null
+     "citation": "Leg. Rec. (BANC MSS C-A 61) Doc 215, scan n300: the Micheltorena and Sutter treason dossier, where the charge is pinned, that the general «se hallaba en relaciones secretas con el extranjero Sutter, dueño del establecimiento del Río del Sacramento». Doc 19, formerly cited, is Mariano Chico's June 1836 note enclosing Rafael Gómez's excuse from serving as diputado. Standard accounts: Bancroft, History of California IV.",
+     "ca_record": "ca61-d215",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_82_03/page/n246"
     }
    ],
    "native_groups": [],
