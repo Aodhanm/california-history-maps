@@ -241,7 +241,7 @@
   var PAGES = {
     expeditions: {
       id: 'expeditions',
-      note: 'The 1542-1776 approaches, after the Mission Dolores exhibit panel: five sea expeditions as coastal ribbons running on to where they came from and went, Ayala\u2019s longboat surveys inside the bay, the seven land expeditions of 1769-1776, and Moraga\u2019s 1806 Central Valley expedition. Every course is generalized and INTERPRETIVE; diary citations and C-A record anchors sit on the routes and key stops (C-A anchors are catalog-matched, leaf review pending).',
+      note: 'The approaches to San Francisco Bay, after the Mission Dolores exhibit panel: five sea expeditions as coastal ribbons running on to where they came from and went, Ayala\u2019s longboat surveys inside the bay, the six land expeditions of 1769 to 1776 with the 1774 reconnaissance drawn out and back, and Moraga\u2019s 1806 expeditions into the Central Valley. Every course is a generalized, interpretive line, never a surveyed track. Diary citations sit on the routes and the key stops; links to records in the Archives of California are catalogue-level matches, not leaf-verified.',
       phase2: '',
       files: [
         { f: '../data/sf-bay-expeditions.json' },

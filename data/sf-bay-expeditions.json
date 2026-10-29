@@ -1,11 +1,11 @@
 {
  "id": "sf-bay-expeditions",
  "title": "San Francisco Bay Expeditions",
- "subtitle": "Sea and land, 1542-1776, after the Mission Dolores exhibit panel",
- "abstract": "The exploration of the San Francisco-Monterey coast as the exhibit panel presents it: five sea approaches and the land expeditions of 1769-1776. Every course here is INTERPRETIVE: a generalized line meaning 'they passed roughly this way,' traced after the exhibit panel and the published diary reconstructions (Crespi ed. Brown; Font; Palou; Bolton's Anza volumes), never a surveyed track. Diary citations sit on the key stops; C-A record anchors get attached in a later review pass, not invented here. C-A anchors attached 2026-10-16 from a catalog sweep (Docs plainly concerning each expedition per our own catalog); they are catalog-level matches, leaf review pending.",
+ "subtitle": "Sea and land approaches to San Francisco Bay, 1542 to 1776, after the Mission Dolores exhibit panel, with the Manila galleon run that passed them by",
+ "abstract": "The exploration of the San Francisco and Monterey coast as the Mission Dolores exhibit panel presents it: five sea approaches, Ayala's longboat surveys inside the bay in 1775, and the land expeditions of 1769 to 1776. Every course drawn here is interpretive, a generalized line meaning the party passed roughly this way, traced after the panel and the published diaries, and never a surveyed track. The stops carry the diary account of what happened at each place, and say where the published reconstructions disagree with each other. Links to records in the Archives of California are catalogue-level matches, not leaf-verified.",
  "date_range": [
   1542,
-  1776
+  1815
  ],
  "center": [
   37.3,
@@ -13,12 +13,12 @@
  ],
  "zoom": 8,
  "cite_key": "sf-bay-expeditions",
- "last_updated": "2026-10-16",
- "legend_note": "All courses generalized and interpretive, after the Mission Dolores exhibit panel and the published diaries.",
+ "last_updated": "2026-10-28",
+ "legend_note": "All courses are generalized and interpretive, after the Mission Dolores exhibit panel and the published diaries. Record links are catalogue-level matches.",
  "layers": [
   {
    "id": "sea",
-   "label": "Sea expeditions (1542-1775)",
+   "label": "Sea approaches, 1542 to 1815",
    "color": "#2e5f8a"
   },
   {
@@ -112,6 +112,9 @@
    ],
    "sources": [
     {
+     "citation": "Course interpretive, after the exhibit panel; Cabrillo relation (Wagner, Spanish Voyages to the Northwest Coast)."
+    },
+    {
      "citation": "Predates the provincial archive; published sources only (see the stop)."
     }
    ],
@@ -201,7 +204,7 @@
      "coord_precision": "conjectural",
      "type": "expedition-leg",
      "layer": "sea",
-     "summary": "Returning galleons made their American landfall to the north and ran south along this coast for Acapulco, year after year for two and a half centuries. Course generalized (interpretive).",
+     "summary": "Returning galleons made their American landfall to the north and ran south along this coast for Acapulco, year after year from 1565 until 1815. Only the first two centuries of that run fall inside the period this map covers, and no galleon ever entered the bay: the line is the traffic that passed the Gate without finding it. Course generalized and interpretive.",
      "sources": [
       {
        "citation": "After the exhibit panel; Schurz, The Manila Galleon."
@@ -210,6 +213,9 @@
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Schurz, The Manila Galleon; the Nao regime in C-A 1 Doc 8."
+    },
     {
      "citation": "The standing anticontraband regime for receiving the Manila ship at San José del Cabo: C-A 1 Doc 8 (Neve, 24 Oct 1775)",
      "ca_record": "ca1-d8"
@@ -284,7 +290,7 @@
    "stops": [
     {
      "id": "drake-careening",
-     "name": "Drake careens in a 'faire and good Baye'",
+     "name": "Drake careens in 'a faire and good bay'",
      "date": {
       "iso": "1579-06",
       "display": "Jun-Jul 1579",
@@ -297,16 +303,25 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "sea",
-     "summary": "Five weeks ashore among the Coast Miwok. The landing site is a famous fight; Drakes Bay is the prevailing identification and the one the exhibit panel follows.",
+     "summary": "Five weeks ashore among the Coast Miwok. The quoted phrase is from the narrative Hakluyt printed, which has the ship driven back south from forty-three degrees until 'it pleased God to send us into a faire and good bay, with a good winde to enter the same', and anchoring there on 17 June; its own heading says Drake landed where he found 'a faire and goodly haven'. The World Encompassed, the 1628 account usually cited for the landfall, words it differently: the ship 'fell with a conuenient and fit harborough' in 38 degrees 30 minutes and lay there until 23 July. The landing site is a long-running argument; Drakes Bay is the prevailing identification and the one the exhibit panel follows.",
      "notes": "Site identification debated; shown at Drakes Bay per the panel.",
      "sources": [
       {
-       "citation": "After the exhibit panel; The World Encompassed (1628); cf. the site controversy literature."
+       "citation": "Hakluyt's narrative of the voyage, printed in W. S. W. Vaux (ed.), The World Encompassed by Sir Francis Drake (London: Hakluyt Society, 1854), Appendix V no. I."
+      },
+      {
+       "citation": "The World Encompassed (1628), as printed in W. S. W. Vaux (ed.), The World Encompassed by Sir Francis Drake (London: Hakluyt Society, 1854)."
+      },
+      {
+       "citation": "After the Mission Dolores exhibit panel; cf. the landing-site controversy literature."
       }
      ]
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel. Hakluyt's narrative and The World Encompassed (1628), both as printed in W. S. W. Vaux (ed.), The World Encompassed by Sir Francis Drake (London: Hakluyt Society, 1854); landing-site identification debated."
+    },
     {
      "citation": "Predates the provincial archive; published sources only (see the stop)."
     }
@@ -327,7 +342,7 @@
      "label": "across the Pacific, homeward"
     }
    ],
-   "citation": "Course interpretive, after the exhibit panel; The World Encompassed (1628); landing-site identification debated."
+   "citation": "Course interpretive, after the exhibit panel. Hakluyt's narrative and The World Encompassed (1628), both as printed in W. S. W. Vaux (ed.), The World Encompassed by Sir Francis Drake (London: Hakluyt Society, 1854); landing-site identification debated."
   },
   {
    "id": "cermeno-1595",
@@ -400,12 +415,15 @@
      "summary": "The Manila ship sent to survey the coast anchored in the bay behind Point Reyes and was driven ashore; the crew ran south in an open launch, surveying as they went. Her porcelain cargo still washes into Coast Miwok sites.",
      "sources": [
       {
-       "citation": "After the exhibit panel; Wagner, 'The Voyage of Cermeno' (CHS Quarterly, 1924)."
+       "citation": "Henry R. Wagner, Spanish Voyages to the Northwest Coast of America in the Sixteenth Century (San Francisco: California Historical Society, 1929), chap. IX, 'The Voyage of Cermeno'; after the Mission Dolores exhibit panel."
       }
      ]
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Wagner, Spanish Voyages to the Northwest Coast of America in the Sixteenth Century (1929), chap. IX."
+    },
     {
      "citation": "Predates the provincial archive; published sources only (see the stop)."
     }
@@ -426,7 +444,7 @@
      "label": "south to Acapulco, surveying from the launch"
     }
    ],
-   "citation": "Course interpretive, after the exhibit panel; Wagner, 'The Voyage of Cermeno' (CHS Quarterly, 1924)."
+   "citation": "Course interpretive, after the exhibit panel; Wagner, Spanish Voyages to the Northwest Coast of America in the Sixteenth Century (1929), chap. IX."
   },
   {
    "id": "ayala-1775",
@@ -483,10 +501,10 @@
    "stops": [
     {
      "id": "ayala-angel-island",
-     "name": "The San Carlos inside the Golden Gate",
+     "name": "The San Carlos enters the bay",
      "date": {
       "iso": "1775-08-05",
-      "display": "5 Aug 1775",
+      "display": "5 August 1775 (entry); the ship moved to Angel Island later that month",
       "confidence": "exact"
      },
      "coords": [
@@ -496,15 +514,21 @@
      "coord_precision": "place",
      "type": "expedition-leg",
      "layer": "sea",
-     "summary": "Ayala brings the first ship through the Gate by night and anchors off the island he names for Our Lady of the Angels; forty-four days inside the bay while Canizares surveys it by longboat.",
+     "summary": "Ayala brought the first ship through the Gate, at night, with the launch sent in ahead of the packet. The San Carlos anchored inside on arrival and only afterwards moved to the island Ayala named for Our Lady of the Angels, where she lay for the rest of a stay of forty-four days while Jose de Canizares surveyed the bay by longboat and Juan Bautista de Aguirre took the southern arm. The land expedition Ayala was waiting for never appeared. The entry is dated 5 August 1775 from the ship's own diaries, published by Galvin in 1971; Bancroft, who had only Palou and no diary or map of the survey, put the entry on the night of 1 August and the move to Angel Island on the 2nd, taking the island's name from that day.",
      "sources": [
       {
-       "citation": "After the exhibit panel; Galvin ed., The First Spanish Entry into San Francisco Bay, 1775."
+       "citation": "Galvin (ed.), The First Spanish Entry into San Francisco Bay, 1775 (San Francisco: John Howell Books, 1971); after the Mission Dolores exhibit panel."
+      },
+      {
+       "citation": "Bancroft, History of California I (San Francisco: The History Company, 1884), 188-89, for the divergent chronology."
       }
      ]
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Galvin ed., The First Spanish Entry into San Francisco Bay, 1775; C-A 1 Docs 74, 109."
+    },
     {
      "citation": "A corporal and nine soldiers assigned to navy lieutenant Juan Manuel de Ayala at San Francisco: C-A 1 Doc 74 (20 Jan 1776)",
      "ca_record": "ca1-d74"
@@ -559,7 +583,11 @@
     ]
    ],
    "stops": [],
-   "sources": [],
+   "sources": [
+    {
+     "citation": "Longboat survey arm, interpretive; Canizares's 1775 plano and Galvin ed. (1971)."
+    }
+   ],
    "citation": "Longboat survey arm, interpretive; Canizares's 1775 plano and Galvin ed. (1971)."
   },
   {
@@ -596,7 +624,11 @@
     ]
    ],
    "stops": [],
-   "sources": [],
+   "sources": [
+    {
+     "citation": "Longboat survey arm, interpretive; Canizares's 1775 plano and Galvin ed. (1971)."
+    }
+   ],
    "citation": "Longboat survey arm, interpretive; Canizares's 1775 plano and Galvin ed. (1971)."
   },
   {
@@ -683,10 +715,13 @@
      "coord_precision": "place",
      "type": "expedition-leg",
      "layer": "land",
-     "summary": "Ortega's scouts, hunting Monterey, stumble instead onto 'a great arm of the sea': the first European sight of San Francisco Bay. The whole strategic geography of Alta California changes in an afternoon.",
+     "summary": "The first European sight of San Francisco Bay, and not by the party sent to look for it. On 1 November 1769 Sergeant Ortega went north with a small party and three days' provisions to settle whether Monterey had been passed; while he was away, on 2 November, soldiers from the camp went up these hills after deer and came back with word of a great inland sea reaching north and south-east as far as they could see. Bancroft: the names of the deer hunters can never be known. Ortega returned on the 3rd, unable to cross the inlet, but carrying what he had understood from the people of the peninsula: that at the head of the arm of the sea lay a harbour with a vessel at anchor in it. It was that report, and the hope that the vessel was the San Jose with their supplies, that moved the camp. On 4 November the whole company broke camp, crossed the hills north-eastward and looked down from the summit on the inland sea.",
      "sources": [
       {
-       "citation": "After the exhibit panel; Crespi diary, ed. Brown, A Description of Distant Roads."
+       "citation": "Bancroft, History of California I (San Francisco: The History Company, 1884), 159-60, following Crespi's and Costanso's diaries."
+      },
+      {
+       "citation": "Crespi's diary, ed. Brown, A Description of Distant Roads; after the Mission Dolores exhibit panel."
       }
      ]
     },
@@ -705,7 +740,7 @@
      "coord_precision": "place",
      "type": "expedition-leg",
      "layer": "land",
-     "summary": "The expedition's council under the tall redwood (the palo alto): short of food, they turn back south for San Diego.",
+     "summary": "The expedition's council on 11 November 1769 under the tall redwood, the palo alto: short of food, with the port still not identified, they turned back south for San Diego.",
      "sources": [
       {
        "citation": "After the exhibit panel; Crespi diary, ed. Brown."
@@ -714,6 +749,9 @@
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Crespi diary ed. Brown, A Description of Distant Roads; C-A 1 Docs 14-15, C-A 62 Doc 20."
+    },
     {
      "citation": "Gálvez's 14-article sailing instruction for the San Carlos, the sea half of the Sacred Expedition: C-A 1 Doc 14 (5 Jan 1769)",
      "ca_record": "ca1-d14"
@@ -747,7 +785,7 @@
   },
   {
    "id": "portola-1770",
-   "label": "Portola-Fages-Crespi, 1770",
+   "label": "Portola's second march to Monterey, 1770",
    "layer": "land",
    "color": "#7fa05a",
    "path_confidence": "interpretive",
@@ -763,44 +801,16 @@
     [
      36.6,
      -121.89
-    ],
-    [
-     36.74,
-     -121.74
-    ],
-    [
-     36.9,
-     -121.92
-    ],
-    [
-     36.97,
-     -122.05
-    ],
-    [
-     37.12,
-     -122.31
-    ],
-    [
-     37.26,
-     -122.41
-    ],
-    [
-     37.47,
-     -122.45
-    ],
-    [
-     37.58,
-     -122.49
     ]
    ],
    "stops": [
     {
      "id": "monterey-founded-1770",
-     "name": "Monterey occupied; the coast re-walked",
+     "name": "Monterey recognized and occupied",
      "date": {
-      "iso": "1770",
-      "display": "1770",
-      "confidence": "year"
+      "iso": "1770-06-03",
+      "display": "3 June 1770",
+      "confidence": "exact"
      },
      "coords": [
       36.6,
@@ -809,15 +819,22 @@
      "coord_precision": "place",
      "type": "expedition-leg",
      "layer": "land",
-     "summary": "With Monterey finally recognized and occupied, the 1769 trail up the coast is re-run to probe the new bay.",
+     "summary": "Monterey was identified at last and the presidio and mission of San Carlos founded here on 3 June 1770. No probe north followed under Portola: as soon as a beginning had been made he handed the government of the new establishments to Pedro Fages as military commandant and sailed for San Blas in the San Antonio on 9 July 1770, taking the engineer Costanso with him. The order to explore the port of San Francisco was written in Mexico on 12 November 1770 and reached Fages at Monterey in May 1771; he could not act on it until the spring rains of 1772 had passed.",
      "sources": [
       {
-       "citation": "After the exhibit panel; Crespi diary, ed. Brown."
+       "citation": "Bancroft, History of California I (San Francisco: The History Company, 1884), 174, 183-84."
+      },
+      {
+       "citation": "Viceroy Croix's measures to establish the Presidio of Monterey and the missions: C-A 1 Doc 23.",
+       "ca_record": "ca1-d23"
       }
      ]
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884); Crespi's diary ed. Brown; C-A 1 Doc 23."
+    },
     {
      "citation": "Viceroy Croix's measures to establish the Presidio of Monterey and the missions, acknowledging Fages's reports: C-A 1 Doc 23 (12 Nov 1770)",
      "ca_record": "ca1-d23"
@@ -830,13 +847,20 @@
       -120.92
      ],
      "label": "from San Diego"
+    },
+    {
+     "at": [
+      36.6,
+      -121.89
+     ],
+     "label": "Monterey, 3 June 1770"
     }
    ],
-   "citation": "Course interpretive, after the exhibit panel; Crespi diary ed. Brown; C-A 1 Doc 23."
+   "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884); Crespi's diary ed. Brown; C-A 1 Doc 23."
   },
   {
    "id": "fages-crespi-1772",
-   "label": "Fages-Crespi, 1772",
+   "label": "Fages and Crespi, 20 March to April 1772",
    "layer": "land",
    "color": "#6b4f8a",
    "path_confidence": "interpretive",
@@ -937,28 +961,64 @@
    "stops": [
     {
      "id": "carquinez-1772",
-     "name": "First Europeans at the Carquinez strait",
+     "name": "The Strait of Carquines",
      "date": {
-      "iso": "1772-03-30",
-      "display": "30 Mar 1772",
+      "iso": "1772-03-29",
+      "display": "29 March 1772",
       "confidence": "exact"
      },
      "coords": [
-      38.05,
-      -122.19
+      38.04,
+      -122.2
      ],
      "coord_precision": "place",
      "type": "expedition-leg",
      "layer": "land",
-     "summary": "Marching up the eastern bayshore, Fages and Crespi reach the narrows where the whole interior drains to the sea, and look across at the mouths of the great rivers.",
+     "summary": "Fages left Monterey on 20 March 1772 with Crespi, twelve soldiers, a muleteer and an Indian, under the viceroy's order to find the port of San Francisco. Marching up the eastern bayshore he was stopped here: trying to get round the round bay, which Crespi thought large enough for all the armadas of Spain, the party found the narrows barring the way. They followed the treeless hills along the strait, were received at five large villages whose people came across from the far shore on rafts, and camped on a stream near the shore, probably the Arroyo del Hambre near Martinez.",
      "sources": [
       {
-       "citation": "After the exhibit panel; Crespi diary, ed. Brown."
+       "citation": "Bancroft, History of California I (San Francisco: The History Company, 1884), 184-86."
+      },
+      {
+       "citation": "Crespi, Diario que se formo en el registro que se hizo del puerto de Nuestro Serafico Padre San Francisco, printed in Palou, Noticias, i. 481-501; trans. in Crespi's diary, ed. Brown, A Description of Distant Roads."
+      }
+     ]
+    },
+    {
+     "id": "willow-pass-1772",
+     "register_no": null,
+     "name": "The river mouths from the Willow Pass hills",
+     "date": {
+      "iso": "1772-03-30",
+      "display": "30 to 31 March 1772",
+      "confidence": "exact"
+     },
+     "coords": [
+      38.0,
+      -121.84
+     ],
+     "coord_precision": "area",
+     "type": "expedition-leg",
+     "layer": "land",
+     "summary": "On 30 March the party left the strait, advanced two leagues to the Arroyo de las Nueces near Pacheco, crossed Mount Diablo Creek and climbed a range of low hills near Willow Pass. From the summit they looked down on the two broad rivers and their channels, sloughs and islands, which Crespi described closely, then crossed four or five leagues of plain to camp half a mile from the bank of the great river, which they named the Rio de San Francisco: the San Joaquin, at or near Antioch. It is the farthest inland any Spanish party had yet seen, and the first European sight of the delta.",
+     "result": "",
+     "quote": null,
+     "notes": "",
+     "sources": [
+      {
+       "citation": "Bancroft, History of California I (San Francisco: The History Company, 1884), 186."
+      },
+      {
+       "citation": "Crespi's diary of the 1772 registro, in Palou, Noticias, i. 481-501, trans. ed. Brown."
       }
      ]
     }
    ],
-   "sources": [],
+   "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884), 184-86; Crespi's diary of the 1772 registro, in Palou, Noticias, i. 481-501, trans. ed. Brown."
+    }
+   ],
    "ends": [
     {
      "at": [
@@ -968,64 +1028,11 @@
      "label": "returns to Monterey"
     }
    ],
-   "citation": "Course interpretive, after the exhibit panel; Crespi diary ed. Brown (30 Mar 1772 at the Carquinez strait)."
-  },
-  {
-   "id": "rivera-1774",
-   "label": "Rivera, 1774",
-   "layer": "land",
-   "color": "#8a8a8a",
-   "path_confidence": "interpretive",
-   "path": [
-    [
-     36.6,
-     -121.88
-    ],
-    [
-     36.9,
-     -121.94
-    ],
-    [
-     36.97,
-     -122.04
-    ],
-    [
-     37.12,
-     -122.3
-    ],
-    [
-     37.27,
-     -122.42
-    ],
-    [
-     37.47,
-     -122.46
-    ],
-    [
-     37.59,
-     -122.5
-    ],
-    [
-     37.7,
-     -122.49
-    ]
-   ],
-   "stops": [],
-   "sources": [],
-   "ends": [
-    {
-     "at": [
-      37.7,
-      -122.49
-     ],
-     "label": "returns to Monterey"
-    }
-   ],
-   "citation": "Course interpretive, after the exhibit panel; Palou (Bolton, Historical Memoirs of New California)."
+   "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884), 184-86; Crespi's diary of the 1772 registro, in Palou, Noticias, i. 481-501, trans. ed. Brown."
   },
   {
    "id": "rivera-palou-1774",
-   "label": "Rivera-Palou, 1774",
+   "label": "Rivera and Palou, outbound by the interior, 23 November to 4 December 1774",
    "layer": "land",
    "color": "#3a3a3a",
    "path_confidence": "interpretive",
@@ -1035,32 +1042,36 @@
      -121.885
     ],
     [
-     36.91,
-     -121.96
+     36.84,
+     -121.54
     ],
     [
-     36.98,
-     -122.06
+     37.0,
+     -121.56
     ],
     [
-     37.13,
-     -122.32
+     37.2,
+     -121.8
     ],
     [
-     37.28,
+     37.33,
+     -121.95
+    ],
+    [
+     37.43,
+     -122.18
+    ],
+    [
+     37.52,
+     -122.33
+    ],
+    [
+     37.63,
      -122.43
     ],
     [
-     37.48,
-     -122.47
-    ],
-    [
-     37.6,
-     -122.51
-    ],
-    [
      37.72,
-     -122.5
+     -122.49
     ],
     [
      37.781,
@@ -1070,11 +1081,11 @@
    "stops": [
     {
      "id": "point-lobos-cross",
-     "name": "Palou's cross at Point Lobos",
+     "name": "The cross above the Seal Rocks",
      "date": {
       "iso": "1774-12-04",
-      "display": "Dec 1774",
-      "confidence": "month"
+      "display": "4 December 1774",
+      "confidence": "exact"
      },
      "coords": [
       37.781,
@@ -1083,15 +1094,21 @@
      "coord_precision": "place",
      "type": "expedition-leg",
      "layer": "land",
-     "summary": "Rivera and Palou walk the peninsula to its tip and plant a cross above the Gate: the marker Ayala's men will find standing the next summer.",
+     "summary": "From the camp on Lake Merced, Rivera took four soldiers and Palou north-west over the dunes to the beach and followed it until a steep hill stopped them, in sight of the pointed rocks offshore. They climbed it, set up a cross on the summit and were back in camp within four hours. This is the marker Ayala's men had missed the summer before and that later parties found still standing. Rivera had set a first cross a week earlier, on 28 November, on San Francisquito Creek, as a sign that San Francisco was to be founded there; Palou came home from the trip with six sites he thought fit for missions, at Hollister, San Francisquito Creek, two vales between Spanish Town and Pescadero, Santa Cruz on the San Lorenzo, and Watsonville on the Pajaro.",
      "sources": [
       {
-       "citation": "After the exhibit panel; Palou diary (Bolton, Historical Memoirs of New California)."
+       "citation": "Bancroft, History of California I (San Francisco: The History Company, 1884), 233-34."
+      },
+      {
+       "citation": "Palou's diary of the 1774 registro, Noticias, ii. 43-92, trans. Bolton, Historical Memoirs of New California."
       }
      ]
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884), 232-34; Palou, Expedicion y registro que se hizo de las cercanias del puerto de Nuestro Serafico Padre San Francisco, in Palou, Noticias, ii. 43-92, trans. Bolton, Historical Memoirs of New California."
+    },
     {
      "citation": "Bucareli acknowledges the DIARY of Rivera's Nov 1774 reconnaissance of the port of San Francisco in company with Fr. Palóu: C-A 1 Doc 63 (24 May 1775)",
      "ca_record": "ca1-d63"
@@ -1105,7 +1122,103 @@
      "ca_record": "ca14-d395"
     }
    ],
-   "citation": "Course interpretive, after the exhibit panel; Palou diary (Bolton); C-A 1 Docs 58, 63; C-A 14 Doc 395."
+   "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884), 232-34; Palou, Expedicion y registro que se hizo de las cercanias del puerto de Nuestro Serafico Padre San Francisco, in Palou, Noticias, ii. 43-92, trans. Bolton, Historical Memoirs of New California.",
+   "ends": [
+    {
+     "at": [
+      36.6,
+      -121.885
+     ],
+     "label": "from Monterey, 23 Nov 1774"
+    }
+   ]
+  },
+  {
+   "id": "rivera-1774",
+   "label": "Rivera and Palou, the coastal return, 5 to 13 December 1774",
+   "layer": "land",
+   "color": "#8a8a8a",
+   "path_confidence": "interpretive",
+   "path": [
+    [
+     37.72,
+     -122.49
+    ],
+    [
+     37.6,
+     -122.51
+    ],
+    [
+     37.47,
+     -122.46
+    ],
+    [
+     37.27,
+     -122.42
+    ],
+    [
+     37.12,
+     -122.3
+    ],
+    [
+     36.97,
+     -122.04
+    ],
+    [
+     36.9,
+     -121.94
+    ],
+    [
+     36.6,
+     -121.88
+    ]
+   ],
+   "stops": [
+    {
+     "id": "rivera-return-1774",
+     "register_no": null,
+     "name": "Into the shore trail of 1769",
+     "date": {
+      "iso": "1774-12-05",
+      "display": "5 to 13 December 1774",
+      "confidence": "exact"
+     },
+     "coords": [
+      37.12,
+      -122.3
+     ],
+     "coord_precision": "area",
+     "type": "expedition-leg",
+     "layer": "land",
+     "summary": "Exploration of the Rio de San Francisco was put off until after the rains and the party turned for home by the shore route of 1769. Three hours south of Lake Merced on 5 December they struck the old trail, crossed the San Lorenzo and the Pajaro on the 11th and reached the presidio of Monterey on 13 December 1774. This coastal line is the leg they travelled last, not the way they came.",
+     "result": "",
+     "quote": null,
+     "notes": "",
+     "sources": [
+      {
+       "citation": "Bancroft, History of California I (San Francisco: The History Company, 1884), 234."
+      },
+      {
+       "citation": "Palou's diary of the 1774 registro, Noticias, ii. 43-92."
+      }
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884), 234; Palou's diary of the 1774 registro, Noticias, ii. 43-92."
+    }
+   ],
+   "ends": [
+    {
+     "at": [
+      36.6,
+      -121.88
+     ],
+     "label": "Monterey, 13 Dec 1774"
+    }
+   ],
+   "citation": "Course interpretive, after the exhibit panel; Bancroft, History of California I (San Francisco: The History Company, 1884), 234; Palou's diary of the 1774 registro, Noticias, ii. 43-92."
   },
   {
    "id": "anza-1774",
@@ -1165,11 +1278,14 @@
    ],
    "sources": [
     {
+     "citation": "Course interpretive, after the exhibit panel; Bolton, Anza's California Expeditions; C-A 1 Doc 42, C-A 14 Doc 396."
+    },
+    {
      "citation": "Bucareli authorizes Anza to open the overland road via the Colorado and Gila: C-A 1 Doc 42 (19 Sep 1773)",
      "ca_record": "ca1-d42"
     },
     {
-     "citation": "The same order as Savage calendars it: C-A 14 Doc 396",
+     "citation": "Savage's index entry for the same business, dated 17 September 1773, two days before the letter transcribed in C-A 1: C-A 14 Doc 396",
      "ca_record": "ca14-d396"
     }
    ],
@@ -1324,10 +1440,10 @@
      "coord_precision": "place",
      "type": "expedition-leg",
      "layer": "land",
-     "summary": "Font: a table-land commanding the narrows, 'the harbor of harbors.' The white cliff above the Gate becomes the presidio of San Francisco that autumn.",
+     "summary": "A table-land commanding the narrows, picked for the presidio on 28 March 1776. Font had written the day before, looking at the port from this side of the water, that it was the harbour of harbours. The white cliff above the Gate became the presidio of San Francisco that autumn.",
      "sources": [
       {
-       "citation": "After the exhibit panel; Font's complete diary (Bolton, Anza's California Expeditions IV)."
+       "citation": "Font's complete diary, entries of 27 and 28 March 1776, in Bolton, Anza's California Expeditions IV; after the Mission Dolores exhibit panel."
       }
      ]
     },
@@ -1377,6 +1493,9 @@
     }
    ],
    "sources": [
+    {
+     "citation": "Course interpretive, after the exhibit panel; Font's complete diary (Bolton IV); C-A 14 Docs 400, 432; C-A 1 Docs 62, 75."
+    },
     {
      "citation": "Viceregal instruction warning Rivera of Anza's coming WITH FAMILIES to occupy the port of San Francisco: C-A 14 Doc 400 (15 Dec 1774)",
      "ca_record": "ca14-d400"
