@@ -80,7 +80,7 @@
    ],
    "path_confidence": "reconstructed \u2014 documented at nodes (pier, incline top, Moody, Andersonia: NRHP + Douohor 1901 survey + Peterson 1885 map + GNIS), reconstructed along the connecting corridor; incline base conjectural",
    "sources": [
-    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (NRHP draft, Bear Harbor Landing Historical and Archaeological District, read in full: \u00a77 pp.4-20, \u00a78 pp.21-50)",
+    "the research vault Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (NRHP draft, Bear Harbor Landing Historical and Archaeological District, read in full: \u00a77 pp.4-20, \u00a78 pp.21-50)",
     "https://www.northcoastjournal.com/humboldt/the-bear-harbor-railroad-1892-1905/Content?oid=12185246 (Jerry Rohde)",
     "https://en.wikipedia.org/wiki/Andersonia,_California",
     "https://en.wikipedia.org/wiki/Lost_Coast",
@@ -116,7 +116,7 @@
    ],
    "path_confidence": "documented at Morgan Rock (archaeology + Peterson 1885 map), reconstructed on the terrace",
    "sources": [
-    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (CA-MEN-3852H, \u00a77 pp.11-12)",
+    "the research vault Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (CA-MEN-3852H, \u00a77 pp.11-12)",
     "GNIS via carto.nationalmap.gov"
    ],
    "notes": "Distinct from the BH&ER: separate NRHP contributing site (MEN-3852H, 'lumber rail line, circa 1885 to 1889') at the FIRST landing; the 1892-93 railroad served the SECOND landing (MEN-2149H). Horse haulage is documented on the second landing's coastal stretch; motive power on the 1885-89 line is not stated \u2014 do not label it 'horse tram' as fact."
@@ -163,7 +163,7 @@
    "sources": [
     "https://en.wikipedia.org/wiki/California_Western_Railroad",
     "https://www.skunktrain.com/pudding-creek-history/",
-    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (line ~1772)",
+    "the research vault Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (line ~1772)",
     "GNIS"
    ],
    "notes": "1885 original main ran up Pudding Creek to Glen Blair; the Noyo River alignment with tunnel became the through main, and Pudding Creek became the Glen Blair branch (see Glen Blair route)."
@@ -601,7 +601,7 @@
    ],
    "path_confidence": "conjectural between the two documented endpoints (no source consulted draws the alignment; Miller Gulch mill site coords not established \u2014 GNIS has no Miller Gulch in Sonoma)",
    "sources": [
-    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Salt Point Landing, lines ~1725-1750, 2782-2812)",
+    "the research vault Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Salt Point Landing, lines ~1725-1750, 2782-2812)",
     "https://en.wikipedia.org/wiki/Salt_Point_State_Park",
     "https://www.saltpoint.org/history",
     "GNIS"
@@ -640,7 +640,7 @@
    ],
    "path_confidence": "reconstructed \u2014 MPDF states the route 'paralleled the coastline' for about a mile; endpoints anchored, alignment between them inferred along the coastal terrace",
    "sources": [
-    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Duncan's Landing, lines ~2941-2990)",
+    "the research vault Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (Duncan's Landing, lines ~2941-2990)",
     "GNIS",
     "https://en.wikipedia.org/wiki/Duncans_Point (lead)"
    ],
@@ -704,11 +704,11 @@
    "sources": [
     "https://en.wikipedia.org/wiki/North_Pacific_Coast_Railroad",
     "https://www.pacificng.com/template.php?page=roads%2Fca%2Fnpc%2Findex.htm",
-    "/Users/aodhan/vault/07 Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (lines ~1770-1773, 2990s)",
+    "the research vault Files/Raw/lumber-ports/doghole-ports-nrhp-mpdf-fulltext.txt (lines ~1770-1773, 2990s)",
     "GNIS"
    ],
    "notes": "Included as the rail alternative that undercut the Sonoma coast doghole trade (Duncan's Landing chutes abandoned by 1889 \u2014 Davidson 1889 via MPDF)."
   }
  ],
- "gaps": "KEY OPEN ITEMS AND HONESTY FLAGS. (1) BEAR HARBOR GAUGE: the contradiction is real and internal to the NRHP nomination itself \u2014 Section 8 history (via Bordon 1964 and 1896 press) says STANDARD gauge and the surviving Gypsy/Baldwin locomotives are described as standard, but Section 7 archaeology records CA-MEN-2149H as a NARROW-gauge rail line with in-situ narrow-gauge track, and the 1977 CSP inventory found BOTH narrow- and standard-gauge rails on the ground. Both readings are reported in the route record; do not collapse them. A read of Bordon 1964 (Western Railroader No. 292) would be the next step. (2) BH&ER incline geometry: the top is well anchored (NHD Anderson Creek headwater tip 158 m from OSM Usal Road, matching the NRHP verbal), but the base coordinate [39.9378,-123.9502] is a bearing-derived offset \u2014 conjectural; the incline length itself has three source readings (1,900 / 2,000 / 3,000 ft). (3) SCHOOL MARM: GNIS 1724375 'School Marm Grove' (Woods) is at 39.88988,-123.91587, beside Wheeler and Jackass Creek ~2.7 km SSE of Bear Harbor \u2014 on the Lost Coast Trail corridor and the 1950s Wheeler mill area, NOT on the BH&ER alignment, and no consulted source names it as a railroad station; recommend NOT mapping it on this line. (4) Moody's coordinate is a proxy (GNIS Moody Creek mouth on Indian Creek; NRHP puts the town on the NW bank of Indian Creek); the townsite itself has no GNIS record. Kenny (GNIS 252710, 39.92182,-123.89865) matches the NRHP's hotel settlement at the Usal Creek headwaters but was a wagon-road stop, not a rail station. (5) Route-mileage arithmetic in the NRHP is internally rough (2 mi + incline + 10 mi to Moody; a 1903 press claim of a '12-mile section' Moody-to-Eel; totals 17.5 vs 'nearly 18' mi) \u2014 quote, don't reconcile. (6) NRHP Section 10 location data is REDACTED (restricted archaeological information) \u2014 all coordinates here came from GNIS/NHD/OSM instead, which is why nothing is 'exact' precision on the Bear Harbor routes. (7) Crescent City & Smith River RR: gauge NOT established (no explicit statement found; wx4.org gives 40-lb rail only) and construction dates conflict (1884 initial line per wx4.org vs 1890-94 per the NPS Redwood history) \u2014 both reported. (8) Salt Point: the '1850s railroad / one of California's first railroads' claim FAILED verification \u2014 1850s quarrying and a pier are documented, but the documented rail feature is the 1870s-era horse-drawn railroad from the Miller sawmill; pull the Salt Point Landing NRHP district nomination (NRIS RS100007268) and Douglass 2002 before promoting this claim, and the Miller Gulch mill site still lacks coordinates. (9) Arcata Wharf terminus (11,000-ft wharf into Humboldt Bay) has no sourced coordinate \u2014 town coordinate used; wharf end left unmapped rather than guessed. (10) Dolbeer & Carson: gauge unverified and alignment coarse; their Humboldt Northern line is a separate railroad. (11) Calisphere is bot-blocked; three item URLs recorded as leads only (Usal mill photo SV-284; two 1934 D&C North Fork Elk River photos). (12) Local files used: /Users/aodhan/vault/07 Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (read pp.1-58 of 78; remainder is bibliography/figures) and doghole-ports-nrhp-mpdf-fulltext.txt; GNIS query helper left at /private/tmp/claude-501/-Users-aodhan/5cb0858e-1b33-4cdb-a8f8-06d8ea288992/scratchpad/gnis.py (queries carto.nationalmap.gov geonames MapServer; multipoint geometry handling required). (13) Fine polyline geometry between waypoints is NOT drawn by any consulted source except where noted (CWR/NPC follow known extant/well-mapped corridors; Sinkyone's Lost Coast Trail 'roughly follows' the BH&ER railbed along Railroad Creek); treat inter-waypoint segments at the stated route confidence, not better."
+ "gaps": "KEY OPEN ITEMS AND HONESTY FLAGS. (1) BEAR HARBOR GAUGE: the contradiction is real and internal to the NRHP nomination itself \u2014 Section 8 history (via Bordon 1964 and 1896 press) says STANDARD gauge and the surviving Gypsy/Baldwin locomotives are described as standard, but Section 7 archaeology records CA-MEN-2149H as a NARROW-gauge rail line with in-situ narrow-gauge track, and the 1977 CSP inventory found BOTH narrow- and standard-gauge rails on the ground. Both readings are reported in the route record; do not collapse them. A read of Bordon 1964 (Western Railroader No. 292) would be the next step. (2) BH&ER incline geometry: the top is well anchored (NHD Anderson Creek headwater tip 158 m from OSM Usal Road, matching the NRHP verbal), but the base coordinate [39.9378,-123.9502] is a bearing-derived offset \u2014 conjectural; the incline length itself has three source readings (1,900 / 2,000 / 3,000 ft). (3) SCHOOL MARM: GNIS 1724375 'School Marm Grove' (Woods) is at 39.88988,-123.91587, beside Wheeler and Jackass Creek ~2.7 km SSE of Bear Harbor \u2014 on the Lost Coast Trail corridor and the 1950s Wheeler mill area, NOT on the BH&ER alignment, and no consulted source names it as a railroad station; recommend NOT mapping it on this line. (4) Moody's coordinate is a proxy (GNIS Moody Creek mouth on Indian Creek; NRHP puts the town on the NW bank of Indian Creek); the townsite itself has no GNIS record. Kenny (GNIS 252710, 39.92182,-123.89865) matches the NRHP's hotel settlement at the Usal Creek headwaters but was a wagon-road stop, not a rail station. (5) Route-mileage arithmetic in the NRHP is internally rough (2 mi + incline + 10 mi to Moody; a 1903 press claim of a '12-mile section' Moody-to-Eel; totals 17.5 vs 'nearly 18' mi) \u2014 quote, don't reconcile. (6) NRHP Section 10 location data is REDACTED (restricted archaeological information) \u2014 all coordinates here came from GNIS/NHD/OSM instead, which is why nothing is 'exact' precision on the Bear Harbor routes. (7) Crescent City & Smith River RR: gauge NOT established (no explicit statement found; wx4.org gives 40-lb rail only) and construction dates conflict (1884 initial line per wx4.org vs 1890-94 per the NPS Redwood history) \u2014 both reported. (8) Salt Point: the '1850s railroad / one of California's first railroads' claim FAILED verification \u2014 1850s quarrying and a pier are documented, but the documented rail feature is the 1870s-era horse-drawn railroad from the Miller sawmill; pull the Salt Point Landing NRHP district nomination (NRIS RS100007268) and Douglass 2002 before promoting this claim, and the Miller Gulch mill site still lacks coordinates. (9) Arcata Wharf terminus (11,000-ft wharf into Humboldt Bay) has no sourced coordinate \u2014 town coordinate used; wharf end left unmapped rather than guessed. (10) Dolbeer & Carson: gauge unverified and alignment coarse; their Humboldt Northern line is a separate railroad. (11) Calisphere is bot-blocked; three item URLs recorded as leads only (Usal mill photo SV-284; two 1934 D&C North Fork Elk River photos). (12) Local files used: the research vault Files/Raw/lumber-ports/bear-harbor-landing-nrhp-nomination.pdf (read pp.1-58 of 78; remainder is bibliography/figures) and doghole-ports-nrhp-mpdf-fulltext.txt; GNIS query helper left at a local working directory (queries carto.nationalmap.gov geonames MapServer; multipoint geometry handling required). (13) Fine polyline geometry between waypoints is NOT drawn by any consulted source except where noted (CWR/NPC follow known extant/well-mapped corridors; Sinkyone's Lost Coast Trail 'roughly follows' the BH&ER railbed along Railroad Creek); treat inter-waypoint segments at the stated route confidence, not better."
 }
