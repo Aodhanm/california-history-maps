@@ -2,7 +2,7 @@
  "id": "native-california",
  "title": "Native California",
  "subtitle": "Territories of the nations of California at contact, after the Handbook of North American Indians; with the rancherías the colonial archive names",
- "abstract": "The nations whose country the other maps on this site cross, with territory boundaries following the standard scholarly map: the Handbook of North American Indians, vol. 8 (1978), digitized by the University of Redlands. A note on the lines: they are the best available reconstruction, not exact borders. Territories interlocked, shifted over time, and are drawn differently by different scholars and by the nations themselves. Language-family colors follow the Handbook's groupings; the larger groupings (Hokan, Penutian) are conventional and linguists treat them as unproven. These are living nations; names use current preferred forms where they differ from the Handbook's. See also the Native Peoples Index for named individuals and communities in this site's sources. A toggleable Subgroups layer adds the prominent regional communities and languages within the larger nations; these are labels at approximate centers, not bounded territories. One editorial deviation from the Handbook plate is drawn and flagged: the Karkin (Ohlone) are shown holding a coastal strip on both shores of Carquinez Strait.",
+ "abstract": "The nations whose country the other maps on this site cross, with territory boundaries following the standard scholarly map: the Handbook of North American Indians, digitized by the University of Redlands. Most territories follow vol. 8, California (1978); the Colorado River and desert peoples follow vol. 10, Southwest (1983), and the Great Basin peoples vol. 11 (1986), as each polygon's own citation records. A note on the lines: they are the best available reconstruction, not exact borders. Territories interlocked, shifted over time, and are drawn differently by different scholars and by the nations themselves. Language-family colors follow the Handbook's groupings; the larger groupings (Hokan, Penutian) are conventional and linguists treat them as unproven. These are living nations; names use current preferred forms where they differ from the Handbook's. See also the Native Peoples Index for named individuals and communities in this site's sources. A toggleable Subgroups layer adds the prominent regional communities and languages within the larger nations; these are labels at approximate centers, not bounded territories. One editorial deviation from the Handbook plate is drawn and flagged: the Karkin (Ohlone) are shown holding a coastal strip on both shores of Carquinez Strait.",
  "date_range": [
   1769,
   1848
@@ -57,7 +57,7 @@
    "color": "#b5442e"
   }
  ],
- "legend_note": "Boundaries after the Handbook of North American Indians vol. 8; approximate by nature.",
+ "legend_note": "Boundaries after the Handbook of North American Indians, volume 8, 10 or 11 according to the people mapped; each entry cites its own. Approximate by nature.",
  "features": [
   {
    "id": "t-hupa",
@@ -8080,7 +8080,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 11, Great Basin (Smithsonian, 1986), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -10636,7 +10636,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 11, Great Basin (Smithsonian, 1986), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -10807,7 +10807,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 11, Great Basin (Smithsonian, 1986), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -13100,7 +13100,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 11, Great Basin (Smithsonian, 1986), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -16245,7 +16245,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 10, Southwest (Smithsonian, 1983), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -17871,13 +17871,13 @@
     ]
    ],
    "type": "event",
-   "layer": "algic",
+   "layer": "uto",
    "summary": "",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 11, Great Basin (Smithsonian, 1986), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -18610,7 +18610,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 11, Great Basin (Smithsonian, 1986), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -19148,7 +19148,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 10, Southwest (Smithsonian, 1983), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -19403,7 +19403,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 10, Southwest (Smithsonian, 1983), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -19674,7 +19674,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 10, Southwest (Smithsonian, 1983), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -19989,7 +19989,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Territory boundaries: Handbook of North American Indians, vol. 8, California (Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
+     "citation": "Territory boundaries: Handbook of North American Indians, vol. 10, Southwest (Smithsonian, 1983), as digitized by the Salton Sea Database Program, University of Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.",
      "ca_record": null,
      "ia_leaf_url": null
     }

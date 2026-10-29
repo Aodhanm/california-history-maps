@@ -84,9 +84,18 @@ BLURBS = {
  "Chemehuevi": "The desert west of the Colorado River.",
 }
 
-CITE = ("Territory boundaries: Handbook of North American Indians, vol. 8, California "
-        "(Smithsonian, 1978), as digitized by the Salton Sea Database Program, University of "
-        "Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.")
+# The shapefile attributes each polygon to its own Handbook volume, so the citation is
+# emitted per record rather than hard-coded: 8 California (1978), 10 Southwest (1983),
+# 11 Great Basin (1986).
+HNAI_VOL = {"8": ("vol. 8, California", 1978),
+            "10": ("vol. 10, Southwest", 1983),
+            "11": ("vol. 11, Great Basin", 1986)}
+
+def cite_for(volume):
+    vol, year = HNAI_VOL.get(str(volume).strip(), ("vol. 8, California", 1978))
+    return ("Territory boundaries: Handbook of North American Indians, " + vol +
+            f" (Smithsonian, {year}), as digitized by the Salton Sea Database Program, University of "
+            "Redlands. Boundaries are the Handbook's scholarly reconstruction, not exact lines.")
 
 def slug(s):
     s = unicodedata.normalize("NFD", s.lower())
@@ -107,7 +116,13 @@ for srec in sf.iterShapeRecords():
     rings = []
     for i in range(len(shp.parts)):
         ring = [(p[0], p[1]) for p in shp.points[parts[i]:parts[i + 1]]]
-        simp = dp(ring, 0.004)  # ~400 m tolerance
+        # Small islands cannot survive a 400 m tolerance: an islet narrower than the
+        # tolerance collapses to fewer than four points and is dropped entirely. Scale the
+        # tolerance to the ring's own extent so offshore islands keep their outlines.
+        lats = [p[1] for p in ring]; lngs = [p[0] for p in ring]
+        extent = max(max(lats) - min(lats), max(lngs) - min(lngs))
+        tol = 0.004 if extent > 0.08 else max(0.0002, extent / 40.0)
+        simp = dp(ring, tol)
         if len(simp) >= 4:
             rings.append([[round(y, 4), round(x, 4)] for x, y in simp])  # -> [lat,lng]
             total_pts += len(simp)
@@ -133,7 +148,7 @@ for srec in sf.iterShapeRecords():
         "type": "event", "layer": FAM_LAYER[r["LINGUISTIC"]],
         "summary": summary,
         "result": "", "quote": None,
-        "sources": [{"citation": CITE, "ca_record": None, "ia_leaf_url": None}],
+        "sources": [{"citation": cite_for(r.get("VOLUME")), "ca_record": None, "ia_leaf_url": None}],
         "native_groups": [], "tags": [],
         "notes": "Boundary follows the Handbook's map; territories interlocked and shifted, and no line here is exact. These are living nations."
     })
