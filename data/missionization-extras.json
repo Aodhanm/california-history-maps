@@ -3,8 +3,8 @@
  "title": "Pueblos, batteries, and missing outstations (panel prototype additions)",
  "abstract": "Establishment classes the exhibit panels carry that the missions dataset lacked: the two civil pueblos on this canvas, the Spanish harbor batteries, and the Pacifica outstation our live data conflates with San Mateo. Battery features reuse the presidial-system map's verified text and anchors.",
  "date_range": [
-  1769,
-  1846
+  1697,
+  1847
  ],
  "layers": [
   {

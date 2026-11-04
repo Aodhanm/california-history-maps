@@ -8028,7 +8028,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "mexican",
-   "summary": "Mission San Rafael; its founding padre Amorós dead 14 July 1832, its population collapsing (~970 to ~300) and baptisms crashing (155 to 15); was attacked by gentiles; a punitive expedition was sent out under Lázaro Piña. Most likely the \"spring 1832 San Rafael revolt\" the Russians at Fort Ross heard of from fugitive-Indian informants.",
+   "summary": "Mission San Rafael; its long-serving padre Juan Amorós dead 14 July 1832, its population collapsing (~970 to ~300) and baptisms crashing (155 to 15); was attacked by gentiles; a punitive expedition was sent out under Lázaro Piña. Most likely the \"spring 1832 San Rafael revolt\" the Russians at Fort Ross heard of from fugitive-Indian informants.",
    "result": null,
    "quote": null,
    "sources": [
@@ -8052,7 +8052,7 @@
     "Coast Miwok (gentiles)"
    ],
    "tags": [],
-   "notes": "1832 date and Piña command per Bancroft; the underlying Vallejo Documentos i.307 leaf is not yet read; treat the year as attested but not leaf-verified. Bancroft's entire authority for this feature is one line and one manuscript citation, and that manuscript is NOT in the Archives of California. I could find no C-A record of the attack or of the Pina expedition. Searches run: 'San Rafael gentiles ataque expedicion' (year 1832), 'San Rafael mision indios' (1832), 'Lazaro Pina' (all volumes). The only Lazaro Pina hit is ca20-d513 (Cabo Lazaro Pina, artillery detachment pay return, 2 Nov 1831, C-A 20) - it establishes that Lazaro Pina was the artillery corporal on the San Francisco side at the right date, but it says nothing about San Rafael and I am NOT linking it. DISCREPANCY to flag: the map summary's identification with 'the spring 1832 San Rafael revolt the Russians at Fort Ross heard of' is not in Bancroft, who gives no month; and Bancroft's own p.716 statistics note calls the 970-to-300 population collapse 'extremely unreliable... more likely there is an error in the figures', so the demographic framing in the map summary should not be presented as fact. Separately, the Pina of Bancroft III:111-113 (the 1829 Estanislao campaign) is Joaquin Pina, not Lazaro - do not conflate them.",
+   "notes": "1832 date and Piña command per Bancroft; the underlying Vallejo Documentos i.307 leaf is not yet read; treat the year as attested but not leaf-verified. Bancroft's entire authority for this feature is one line and one manuscript citation, and that manuscript is NOT in the Archives of California. I could find no C-A record of the attack or of the Pina expedition. Searches run: 'San Rafael gentiles ataque expedicion' (year 1832), 'San Rafael mision indios' (1832), 'Lazaro Pina' (all volumes). The only Lazaro Pina hit is ca20-d513 (Cabo Lazaro Pina, artillery detachment pay return, 2 Nov 1831, C-A 20) - it establishes that Lazaro Pina was the artillery corporal on the San Francisco side at the right date, but it says nothing about San Rafael and I am NOT linking it. DISCREPANCY to flag: the map summary's identification with 'the spring 1832 San Rafael revolt the Russians at Fort Ross heard of' is not in Bancroft, who gives no month; and Bancroft's own p.716 statistics note calls the 970-to-300 population collapse 'extremely unreliable... more likely there is an error in the figures', so the demographic framing in the map summary should not be presented as fact. Separately, the Pina of Bancroft III:111-113 (the 1829 Estanislao campaign) is Joaquin Pina, not Lazaro - do not conflate them. Amorós was not the founder. Luis Gil y Taboada took charge of the branch establishment at the December 1817 founding; Bancroft's biography of Amorós has him at San Carlos from 1804 to 1819 and at San Rafael from 1819 until his death.",
    "symbol": "swords"
   },
   {
@@ -8111,8 +8111,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "mexican",
-   "summary": "After a 16 Nov parley; 15 gentiles under Toribio came to talk at Figueroa's encouragement, and Padre Vázquez del Mercado seized them following an overnight robbery; on the morning of 20 Nov 1833 Mercado sent majordomo Molina with 37 armed neophytes against the strangers: 21 killed, many wounded, 20 men, women, and children captured; the mission party lost 5 wounded, 1 mortally. Figueroa, furious that the assurances he had given the Indians were violated, suspended Mercado and ordered him to trial; Vallejo freed the captives.",
-   "result": "21 gentiles killed; Mercado suspended; Vallejo freed the captives",
+   "summary": "After a 16 Nov parley; 15 gentiles under Toribio came to talk at Figueroa's encouragement, and Padre Vázquez del Mercado seized them following an overnight robbery; on the morning of 20 Nov 1833 Mercado sent majordomo Molina with 37 armed neophytes against the strangers: 21 killed, many wounded, 20 men, women, and children captured; the mission party lost 5 wounded, 1 mortally. Figueroa, indignant that the assurances he had given the Indians had been violated, sent the case on the advice of Asesor Gómez to Prefect García Diego as the competent ecclesiastical judge; it was the prefect who suspended Mercado from his ministry, summoned him to Santa Clara and announced he would send him to his college for trial. Vallejo, on Figueroa's orders, freed the captives at San Francisco and San Rafael and toured the rancherías to calm them. Mercado was out of arrest by the middle of the next year.",
+   "result": "21 gentiles killed; the prefect suspended Mercado; Vallejo freed the captives",
    "quote": null,
    "sources": [
     {
