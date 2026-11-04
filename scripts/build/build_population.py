@@ -19,8 +19,8 @@ def F(fid, name, coords, prec, typ, layer, summary, series, result="", notes="",
 
 features = [
     F("prov-alta", "Alta California (province-wide counts)", [36.6002, -121.8947], "exact", "event", "province",
-      "The whole colony, counted. In 1790 the entire Spanish population of Alta California was 910 people, inside a mission population of 7,353. Duran's 1833 ledger then states the mission system's demographic arithmetic in three numbers: 82,882 baptized since founding, 58,417 dead, 10,482 living.",
-      [["1790 Jul 1", "8,323 souls total: 910 gente de razon + 7,353 Indios (per-establishment table)", "C-A 50 Doc 32"],
+      "The whole colony, counted. In 1790 the entire Spanish population of Alta California was 970 people, inside a mission population of 7,353. Duran's 1833 ledger then states the mission system's demographic arithmetic in three numbers: 82,882 baptized since founding, 58,417 dead, 10,482 living.",
+      [["1790 Jul 1", "8,323 souls total: 970 gente de razon + 7,353 Indios (per-establishment table)", "C-A 50 Doc 32"],
        ["1817", "mission ledger: 64,675 baptized / 41,767 died / 20,238 living since founding", "C-A 50 Doc 387"],
        ["1822 Apr", "24,990 habitantes: 21,196 neophytes in the 20 missions, 2,994 gente de razon — read into the Diputacion's founding session", "Leg. Rec. (C-A 59) Doc 4"],
        ["1827", "'under 25,000, mostly Indians'; ~4,000 gente de razon, ~1,800 able to bear arms", "Dep. Rec. (C-A 48) Doc 29 — abstract"],
@@ -170,7 +170,7 @@ out = {
                  "the documents say, in their own units, not how many people lived in California; the "
                  "nations of the Native California map were mostly never counted at all. Every row "
                  "cites its document. The headline: in 1790 the entire Spanish population of Alta "
-                 "California was 910 people."),
+                 "California was 970 people."),
     "date_range": [1777, 1847],
     "center": [33.5, -117.5],
     "zoom": 6,

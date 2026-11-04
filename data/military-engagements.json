@@ -2727,13 +2727,13 @@
     "confidence": "year"
    },
    "coords": [
-    34.5,
-    -119.5
+    34.3,
+    -117.3
    ],
-   "coord_precision": "place",
+   "coord_precision": "conjectural",
    "type": "raid",
    "layer": "phase3b",
-   "summary": "Interior Santa Barbara. \"Impassable roads, no water/pasture. Sin haber podido llegar á la ranchería de los Amajavas.\" Gentiles attacked others as reprisal for mission punishment.",
+   "summary": "East from Mission San Gabriel toward the Mojave; the column turned back short of the Amajava rancherías. \"Impassable roads, no water/pasture. Sin haber podido llegar á la ranchería de los Amajavas.\" Gentiles attacked others as reprisal for mission punishment.",
    "result": "Failed; could not reach objective",
    "quote": null,
    "sources": [
@@ -3006,8 +3006,8 @@
     "confidence": "year"
    },
    "coords": [
-    30.5,
-    -115.5
+    31.6606,
+    -115.8211
    ],
    "coord_precision": "place",
    "type": "battle",
@@ -3062,8 +3062,8 @@
     "confidence": "year"
    },
    "coords": [
-    38.31,
-    -122.98
+    38.328,
+    -123.06
    ],
    "coord_precision": "place",
    "type": "standoff",

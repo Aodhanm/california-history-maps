@@ -262,7 +262,7 @@
   {
    "id": "130-bidarkas-in-san-francisco-bay",
    "register_no": null,
-   "name": "130 Bidarkas in San Francisco Bay",
+   "name": "Fifty Bidarkas in the Bay, 130 Reported on the Coast",
    "date": {
     "iso": "1811",
     "display": "1811",
@@ -275,14 +275,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "130 Aleut bidarkas (kayaks) hunting sea otter inside San Francisco Bay. The Russians are inside Spain's premier port and Spain cannot stop them.",
-   "result": "Russian hunting inside the Bay; sovereignty violated",
+   "summary": "Luis Arguello reports fifty bidarkas counted inside San Francisco Bay, and 130 reported to him between Point Bonita and San Antonio; the hunters' canoes between them held more men than the whole mission. Six neophytes out hunting seals for their padres were briefly held by the hunters as suspected spies and then let go. No ship was seen. The coast figure is what the Indians told him, not what the Spanish counted.",
+   "result": "Russian hunting inside the bay, in numbers the presidio could not match",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12 (Prov. St. Pap. XIX).",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 983-986 / Savage pp. 306-307 / scan n311-n313. Luis Arguello to Arrillaga, San Francisco, 30 May 1811.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n311",
+     "ca_record": "ca12-d381"
     }
    ],
    "native_groups": [],
@@ -337,15 +337,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Hagemeister convened the chiefs at Ross and had a protocol drawn recording their consent to the Company's occupation, with Spanish authority nowhere in the instrument. The protocol was signed by the Russian witnesses and the chiefs assented orally, so it is better described as recorded consent than as a mutually signed treaty. Medals reading allies of Russia were given out in 1819. Russia grounded its title here in recorded indigenous consent, where Spain grounded its own in the bull of 1493.",
+   "summary": "Russia negotiates land cession with Kashaya Pomo chiefs; not Spanish authorities. \"Allies of Russia\" medals distributed 1819. Russians treat indigenous peoples as sovereign landowners because, north of the Bay, they are.",
    "result": "Russia treats Pomo as sovereign; Spain does not exist here",
    "quote": null,
    "sources": [
     {
-     "citation": "Protocol of the meeting at Colony Ross between the Indian tribal chiefs and Captain-Lieutenant Hagemeister, 22 September 1817; Archive of Foreign Policy of the Russian Empire (AVPRI), reprinted in the Fort Ross Conservancy's 2012 bicentennial collection of documents, and in Istomin, Gibson and Tishkov (eds.), Russian California 1806-1860: A History in Documents (Moscow, 2005)."
-    },
-    {
-     "citation": "Glenn Farris, 'The Russian Imprint on the Colonization of California', and his discussion of the 1817 protocol and the 1819 medals."
+     "citation": "Protocol of the meeting at Colony Ross between the Indian tribal chiefs and Captain-Lieutenant Hagemeister, 22 September 1817. Archives of Foreign Policy of the Russian Empire, published by the Fort Ross Conservancy Digital Library in the 2012 bicentennial collection of sixteen documents.",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -573,7 +572,7 @@
   {
    "id": "coast-miwok-intelligence-to-sal",
    "register_no": null,
-   "name": "Coast Miwok Intelligence to Sal",
+   "name": "Native Intelligence of Two Ships at Bodega",
    "date": {
     "iso": "1792-10-08",
     "display": "October 8, 1792",
@@ -631,27 +630,25 @@
   {
    "id": "coast-miwok-calibrated-diplomacy-at-bodega",
    "register_no": null,
-   "name": "Coast Miwok Calibrated Diplomacy at Bodega",
+   "name": "Coast Miwok Calibrated Diplomacy at Tomales Bay",
    "date": {
-    "iso": "1793-08",
-    "display": "August 1793",
-    "confidence": "month"
+    "iso": "1793-08-07",
+    "display": "August 7, 1793",
+    "confidence": "exact"
    },
    "coords": [
-    38.335,
-    -123.05
+    38.18,
+    -122.92
    ],
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok \"prepared to give us battle\"; choose instead to present pinole and fruit. Not submission; calibrated response. They evaluated the Spanish party and chose diplomacy.",
-   "result": "Military capability held in reserve; diplomacy chosen",
+   "summary": "Ten or twelve leagues along the inlet on 7 August, Goycoechea counted nine settlements. The Indians travelling with him said these were 'prepared to give us battle'; he passed all of them 'without noticing any of the inhabitants in any warlike demonstration', and 'instead, they presented my men with pinole and some little fruits from the beach', which he repaid in beads and food. Note whose assessment the warning was: it came from his own companions, not from the villages. What the villages did was decide, nine times over, how to meet an armed party on their shore.",
+   "result": "Capability held in reserve; nine villages choosing the same way",
    "quote": null,
    "sources": [
     {
-     "citation": "Wagner 1931:342–345.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Goycoechea's diary, 7 August 1793, AGN Seccion Historia vol. 70, translated in Wagner, CHSQ 10, no. 4 (1931), 343."
     }
    ],
    "native_groups": [],
@@ -661,27 +658,28 @@
   {
    "id": "coast-miwok-bilingual-intermediaries-at-tomales",
    "register_no": null,
-   "name": "Coast Miwok Bilingual Intermediaries at Tomales",
+   "name": "Coast Miwok Bilingual Intermediaries at Bodega",
    "date": {
     "iso": "1793-10-20",
     "display": "October 20, 1793",
     "confidence": "exact"
    },
    "coords": [
-    38.228,
-    -122.933
+    38.308,
+    -123.046
    ],
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok calling \"Amico,\" speaking Spanish, pointing up lagoon repeating \"Spaniard.\" Bilingual intermediaries positioning between British and Spanish empires. They know both powers and broker between them.",
+   "summary": "The same party Menzies met on 20 October 1793: one man, five women and some children, who called out 'Amico' and spoke many words of Spanish, and who pointed repeatedly up the lagoon when they said the word for Spaniards. Wagner reads that pointing as evidence that Matute's establishment stood further up the water. People with a working command of one empire's language, giving a second empire directions to the first.",
    "result": "Trilingual positioning between empires",
    "quote": null,
    "sources": [
     {
-     "citation": "Menzies 1924:302.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Menzies' California journal, CHSQ 2, no. 4 (1924), 302-03."
+    },
+    {
+     "citation": "Wagner, CHSQ 10, no. 4 (1931), 338, on the pointing up the lagoon."
     }
    ],
    "native_groups": [],
@@ -764,15 +762,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "foreign",
-   "summary": "Menzies landed from the Chatham with Lieutenant Puget on 20 October 1793, in a bay whose latitude they fixed by observation at 38 deg. 19' 30\" N. On the bluff headland they found a cross lately put up, made of a piece of a cask stave lashed to a pole with a rope yarn, and the brush burned off around it; Wagner, reading Goycoechea and Matute alongside, puts that cross on Bodega Head. Walking down to the channel they met a party of Coast Miwok who sat down at their approach and called out 'Amico', friend, a word Menzies had no doubt they had from the Spaniards, and who pointed repeatedly up the lagoon when they spoke of Spaniards. Four miles further south the Chatham passed the mouth of the next opening, about a mile wide, without entering it. The 1924 editor's footnote glossing the inland water as Tomales Bay is why this landing is often placed there.",
-   "result": "British find evidence of failed Spanish expedition",
+   "summary": "Menzies landed from the Chatham with Lieutenant Puget on 20 October 1793. The ship came in through a passage half a mile wide, a steep rocky bluff to port and a small rocky island to starboard that Menzies named Gibson's Island, and anchored in six fathoms; the latitude they took by observation at the anchorage was 38 deg. 19' 30\" N. On the bluff headland they found a cross lately put up, made of a piece of a cask stave lashed to a pole with a rope yarn, and the grass and brush recently burned off. Walking down to the channel they came on a hut and a party of Coast Miwok who sat down at their approach and called out 'Amico', friend, a word Menzies had no doubt they had from the Spaniards, 'as we afterwards found that they spoke many words of the language of that Nation'. A woman offered them fish from a basket, under the name Piscau. The 1924 editor glossed the inland water behind the beach as Tomales Bay, and that gloss is why this landing is often placed there; Wagner, working from Goycoechea's and Matute's accounts, puts the cross on Bodega Head, and the latitude agrees with Bodega.",
+   "result": "The British find the traces of a Spanish establishment that was already abandoned",
    "quote": null,
    "sources": [
     {
      "citation": "Menzies' California journal, California Historical Society Quarterly 2, no. 4 (1924), 301-04."
     },
     {
-     "citation": "Wagner, 'The Last Spanish Exploration of the Northwest Coast', CHSQ 10, no. 4 (1931), 338: Menzies at Bodega Bay on 20 October 1793, and the cross on Bodega Head."
+     "citation": "Wagner, 'The Last Spanish Exploration of the Northwest Coast', CHSQ 10, no. 4 (1931), 338: the cross on Bodega Head, and Menzies' visit to Bodega Bay dated 20 October 1793. Wagner also reads Gibson's Island as Menzies' mistake for Colnett's 1790 call."
     }
    ],
    "native_groups": [],
@@ -1326,7 +1324,7 @@
   {
    "id": "matute-sutil-bodega-1793",
    "register_no": null,
-   "name": "Matute on the Sutil · the Occupation Refused",
+   "name": "Matute on the Sutil: the Occupation Given Up",
    "date": {
     "iso": "1793-07-23",
     "display": "July 23 – October 1793",
@@ -1339,24 +1337,24 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanish",
-   "summary": "Naval lieutenant Juan Bautista Matute arrives on the Sutil to plant the Bodega settlement, finds no English, and refuses to carry out the occupation: the harbor too shallow for the mission, no timber, no building material. He takes his artisans and troops back to San Blas in October; the quiet end of Spain's last northward move. If Edwards is right about the 1775 name, Matute was also surveying a different water than the one Bodega had praised.",
-   "result": "Occupation abandoned",
+   "summary": "Juan Bautista Matute came up in the schooner Sutil about 1 April 1793 to put up the buildings for the Bodega settlement, found no English, and gave the occupation up: the Aranzazu could not be brought in, there was no timber for building, and the Sutil alone was not enough. He had got some kind of barracks up near the south end of the sand dunes, two miles from the end of Bodega Head, which Goycoechea saw on 11 August. Two ships left Bodega together the day before Goycoechea arrived on the 10th; Matute was at San Francisco by the 12th, stayed until 10 October, and reached San Blas on 7 November, where he wrote his report. His people did not go with him: he landed the troops, artisans, food and supplies at San Francisco, left the food and the troops there in service, and brought four artisans back to San Blas. Bancroft has ten soldiers and five mechanics retained by Sal with the Bodega stores. If Edwards is right about the 1775 name, Matute was also surveying a different water from the one Bodega had praised.",
+   "result": "Occupation given up; the garrison absorbed into San Francisco",
    "quote": null,
    "sources": [
     {
-     "citation": "Matute's resultas of the Bodega commission (AGN, Historia 71)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Matute's report, San Blas, 7 November 1793, translated in Wagner, CHSQ 10, no. 4 (1931), 340-46; Wagner's account at 338."
     },
     {
-     "citation": "Matute's 1793 plan of Bodega (AHN, Estado, MPD. 33)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California I, 507-08."
     },
     {
-     "citation": "Edwards, 'Wandering Toponyms' (1964) · the wrong-harbor argument",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Matute's resultas of the Bodega commission (AGN, Historia 71)."
+    },
+    {
+     "citation": "Matute's 1793 plan of Bodega (AHN, Estado, MPD. 33)."
+    },
+    {
+     "citation": "Edwards, 'Wandering Toponyms' (1964), for the wrong-harbour argument."
     }
    ],
    "native_groups": [],
@@ -1420,19 +1418,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Mission San Rafael, its founding padre Amorós just dead and its population collapsing, is attacked by gentiles; an expedition goes out under Lázaro Piña. Word of the rising carries through fugitive mission Indians to the Ross-area rancherías; the likely referent of the Russians' report of a 'spring 1832 San Rafael revolt'.",
+   "summary": "Mission San Rafael, its long-serving padre Juan Amoros dead that year and its population falling, is attacked by gentiles, and an expedition goes out under Lazaro Pina. Amoros was not the founder: Luis Gil y Taboada took charge of the branch establishment at the 1817 founding, and Amoros served there until his death. Word of the rising travelled through fugitive mission Indians to the rancherias around Ross, and is the likely referent of the Russian report of a San Rafael revolt in the spring of 1832.",
    "result": "The North Bay crisis opens",
    "quote": null,
    "sources": [
     {
-     "citation": "Bancroft, History of California III, 716 (citing Vallejo, Documentos, MS, i.307)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bancroft, History of California III, 716 (citing Vallejo, Documentos, MS, i. 307) for the attack and the Pina expedition; III, 719, and II, 328-29, for Gil y Taboada at the founding and Amoros's death in 1832."
     },
     {
-     "citation": "Bolkhovitinov & Istomin, Istoriia Russkoi Ameriki III, ch. 6 (the Russian report)",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Bolkhovitinov and Istomin, Istoriia Russkoi Ameriki III, ch. 6, for the Russian report."
     }
    ],
    "native_groups": [
@@ -1740,13 +1734,13 @@
       "confidence": "circa"
      },
      "coords": [
-      38.23,
-      -122.88
+      38.22,
+      -122.63
      ],
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "overland",
-     "summary": "Likely crossed or followed Petaluma Creek toward the coast. Natural route from interior Marin to Bodega Bay.",
+     "summary": "Likely crossed or followed Petaluma Creek toward the coast. Natural route from interior Marin to Bodega Bay. ",
      "result": "",
      "quote": null,
      "sources": [
@@ -1770,8 +1764,8 @@
       "confidence": "circa"
      },
      "coords": [
-      38.31,
-      -122.98
+      38.3244,
+      -123.0386
      ],
      "coord_precision": "area",
      "type": "expedition-leg",
@@ -1806,10 +1800,16 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "overland",
-     "summary": "Returns after 10 days. Report confirms Russian presence and fur-hunting operations at Bodega.",
+     "summary": "Moraga's report back at the presidio. The route's own record, C-A 12 Doc 335, says the vessel was «La frag.ta no es rusa sino Americana»: an American otter camp, with Alaskan hunters aboard, two years before Fort Ross. Company-contracted hunters were present, but the ship was not Russian.",
      "result": "",
      "quote": null,
-     "sources": [],
+     "sources": [
+      {
+       "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, Savage pp. 276-279 / scan n279, Doc 335: Moraga's reconnaissance diary of Bodega, 23 September to 2 October 1810.",
+       "ca_record": "ca12-d335",
+       "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n279"
+      }
+     ],
      "native_groups": [],
      "tags": [],
      "notes": ""
@@ -1937,8 +1937,8 @@
       "confidence": "circa"
      },
      "coords": [
-      38.31,
-      -122.98
+      38.3244,
+      -123.0386
      ],
      "coord_precision": "area",
      "type": "expedition-leg",
@@ -2104,8 +2104,8 @@
       "confidence": "circa"
      },
      "coords": [
-      38.31,
-      -122.98
+      38.3244,
+      -123.0386
      ],
      "coord_precision": "area",
      "type": "expedition-leg",

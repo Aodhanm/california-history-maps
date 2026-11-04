@@ -821,7 +821,8 @@
    "sources": [
     {
      "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 983-986 / Savage pp. 306-307 / scan n311-n313. Luis Arguello to Arrillaga, San Francisco, 30 May 1811.",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n311"
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n311",
+     "ca_record": "ca12-d381"
     }
    ],
    "native_groups": [],
@@ -1314,7 +1315,7 @@
   {
    "id": "coast-miwok-intelligence-to-sal",
    "register_no": null,
-   "name": "Coast Miwok Intelligence to Sal",
+   "name": "Native Intelligence of Two Ships at Bodega",
    "date": {
     "iso": "1792-10-08",
     "display": "October 8, 1792",
@@ -1327,14 +1328,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Coast Miwok informant tells Commandant Sal two ships at Bodega; soldiers \"dressed like ours turned inside out.\" Earliest warning of foreign presence, 3 weeks before diplomatic intelligence through official channels.",
-   "result": "Indigenous networks faster than imperial intelligence",
+   "summary": "An Indian 'de las Islas' came before the presidio and told Sal there were two ships at Bodega. Sal's own report: the man answered that they did not understand what was said to them, «y q.e los soldados traían ropa como nuestras vueltas, de q.e colegí serían ingleses», that the soldiers wore clothing like our facings, from which Sal inferred they must be English. Asked again, the informant said the ships had been there four moons and were no longer there, that they had taken water and wood and killed many deer, and that they had asked the Indians for cattle, showing them cattle horns. The English identification is Sal's inference from the clothing, not something the informant said, and «vueltas» is most likely the turned-back facings of a uniform; it is not a report of clothes worn inside out. Indigenous intelligence reaching the presidio three weeks ahead of the official channel.",
+   "result": "Native networks ahead of imperial intelligence; the nationality a Spanish inference",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 55, vi.67–68.",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "St. Pap., Sac. (BANC MSS C-A 55), tomos VI-IX, orig. p. i. 296 / Savage pp. 67-68 / scan n66-n67, Doc 124. Hermenegildo Sal, San Francisco, 8 October 1792, «Buques ingleses en Bodega». Savage prints Sal's first-person report inside quotation marks; leaf re-read at full resolution.",
+     "ca_record": "ca55-d124",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_17/page/n66"
     }
    ],
    "native_groups": [],
