@@ -518,9 +518,9 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 160 (the San Buenaventura escritura quoting the 13 Apr decree).",
-     "ca_record": "ca51-d160",
-     "ia_leaf_url": null
+     "citation": "St. Pap., Missions (C-A 51) Doc 449 (the San Buenaventura escritura quoting the 13 Apr decree).",
+     "ca_record": "ca51-d449",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_13/page/n338"
     }
    ],
    "native_groups": [],
@@ -767,7 +767,8 @@
     [
      "1845 Dec",
      "Sold to John Forster & partner, $710 'en moneda, cueros y sebo'",
-     "C-A 51 Doc 161; C-A 63 Doc 508c"
+     "C-A 51 Doc 454; C-A 63 Doc 508c",
+     "ca51-d454"
     ]
    ],
    "series_label": "Secularization record",
@@ -904,12 +905,14 @@
     [
      "1845 Dec 5",
      "Leased to Andrés Pico & Juan Manso ($1,120/yr; one record $1,125 split gov't/padre/neophytes)",
-     "C-A 51 Doc 161; C-A 63 Doc 517"
+     "C-A 51 Doc 459; C-A 63 Doc 517",
+     "ca51-d459"
     ],
     [
      "1846 Jun",
      "Sold to Eulogio Célis, $14,000",
-     "C-A 51 Doc 161"
+     "C-A 51 Doc 452",
+     "ca51-d452"
     ]
    ],
    "series_label": "Secularization record",
@@ -941,9 +944,9 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "St. Pap., Missions (C-A 51) Doc 160 (the deed of sale).",
-     "ca_record": "ca51-d160",
-     "ia_leaf_url": null
+     "citation": "St. Pap., Missions (C-A 51) Doc 449 (the deed of sale).",
+     "ca_record": "ca51-d449",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_13/page/n338"
     },
     {
      "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
@@ -970,7 +973,8 @@
     [
      "1845 Dec 5",
      "Leased to Narciso Botello & José Arnaz, $1,630/yr",
-     "C-A 51 Doc 161"
+     "C-A 51 Doc 459",
+     "ca51-d459"
     ],
     [
      "1846 Jun 8",
@@ -1041,7 +1045,8 @@
     [
      "1845 Dec 5",
      "Leased to Nicolás A. Den & Daniel Hill, $1,260/yr",
-     "C-A 51 Doc 161; C-A 42 Doc 611"
+     "C-A 51 Doc 459; C-A 42 Doc 611",
+     "ca51-d459"
     ]
    ],
    "series_label": "Secularization record",
@@ -1102,7 +1107,8 @@
     [
      "1845 Dec 5",
      "Leased to José M. Covarrubias & Joaquín Carrillo, $580/yr",
-     "C-A 51 Doc 161"
+     "C-A 51 Doc 459",
+     "ca51-d459"
     ]
    ],
    "series_label": "Secularization record",
@@ -1163,7 +1169,8 @@
     [
      "1845 Dec",
      "Sold to Juan (John) Temple, $10,110",
-     "C-A 51 Doc 161"
+     "C-A 51 Doc 450",
+     "ca51-d450"
     ]
    ],
    "series_label": "Secularization record",
@@ -1224,7 +1231,8 @@
     [
      "1845 Dec",
      "Sold to Scott, Wilson & James McKinley",
-     "C-A 51 Doc 161"
+     "C-A 51 Doc 453",
+     "ca51-d453"
     ]
    ],
    "series_label": "Secularization record",
@@ -1397,7 +1405,8 @@
     [
      "1846 Jun",
      "Sold to Feliciano Soberanes, $800",
-     "C-A 51 Doc 161"
+     "C-A 51 Doc 455",
+     "ca51-d455"
     ]
    ],
    "series_label": "Secularization record",
@@ -2102,6 +2111,11 @@
    "result": "",
    "quote": null,
    "sources": [
+    {
+     "citation": "St. Pap., Missions (BANC MSS C-A 51), Doc 421: Hartnell's southern-visitation report, «Sobre estado en que ha encontrado las misiones desde Sn Diego hasta Sn Fernando inclusive», 24 June 1839, scan n300-n307 / orig. pp. 334-341.",
+     "ca_record": "ca51-d421",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_13/page/n300"
+    },
     {
      "citation": "Gurcke and Farris (eds.), The Diary and Copybook of William E. P. Hartnell, Visitador General of the Missions of Alta California, 1839-1840 (CMSA / Arthur H. Clark, 2004). Page references for this entry are not yet recorded.",
      "ca_record": null,

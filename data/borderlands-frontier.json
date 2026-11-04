@@ -2073,14 +2073,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Ivan Kuskov, RAC commercial councillor at Ross, writes directly to the SF commandant \"in the name of the Honorable Russian-American Company under special protection of His Majesty the Emperor of all the Russias,\" sending agent Slobodchikov to settle accounts and pressing for the return of captured Kodiak Aleuts.",
-   "result": "Ross corresponds with SF as one sovereign to another",
+   "summary": "Ivan Kuskov, the Russian-American Company's man at Ross, corresponds directly with the San Francisco commandant. He had received the French-language letter sent through Moraga and Gervasio Argüello but had no interpreter for it; he sends the Company's confidential agent Slobodchikov to San Francisco with a boat and three bidarkas to settle the balance due, offering goods by the enclosed invoice or two oxen instead; and he presses again for the return of the Kodiak men, adding that if Arrillaga has truly ordered it they should be forwarded, and if not, 'it is my duty to inform my superior officers and the Home Government'. Ross writing to a Spanish presidio as one administration to another.",
+   "result": "Ross corresponds with San Francisco as one administration with another",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12 C431 / C433 (Jun 1814).",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1218-20 / Savage pp. 369-370 / scan n376-n377, Doc 440. Iván Kuskov, 8 June 1814, in the English translation by Iván Pisteff that Savage copied.",
+     "ca_record": "ca12-d440",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n376"
     }
    ],
    "native_groups": [],
@@ -2193,14 +2193,19 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "The RAC ship Suvorov (Lazarev) calls at San Francisco carrying a formal RAC directors' overture \"to the noble and honoured Spanish inhabitants of California,\" invoking Russo-Spanish friendship, the 1812 treaty, and Rezanov's 1806 visit; the institutional Russian demand for the California provision trade, arriving by ship.",
-   "result": "The RAC's formal trade-opening request, delivered to SF",
+   "summary": "The Russian ship Suvorov, from St Petersburg under Lazarev, anchored at San Francisco on 20 August 1815 asking water, wood and provisions, which were promised. She carried a formal passport and proclamation from the Company's directors, addressed «á nuestros buenos amigos y vecinos, los nobles y honrados Españoles habitantes de Cal.», to our good friends and neighbours, the noble and honoured Spaniards inhabiting California. The address invokes the long Russo-Spanish friendship, the treaty of Veliky Luki of 1812, the Battle of Vitoria with Jourdan's baton and 130 cannon taken, Napoleon's catastrophe in Russia, the regiment of Spanish prisoners named for Alexander, and Wellington crossing the Pyrenees; then it recounts Rezanov's visit to San Francisco in 1806 and the bid to open commerce between California and the Company's colonies at Kodiak and Sitka. The institutional Russian demand for the California provision trade, arriving by ship.",
+   "result": "The Company's formal trade overture delivered at San Francisco",
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 12 C478 + C479 (Suvorov 1815; passport-proclamation St. Petersburg, 12 Jul 1811).",
-     "ca_record": null,
-     "ia_leaf_url": null
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. p. 1404 / Savage pp. 395-396 / scan n402-n403, Doc 486. Luis Argüello on the arrival of the Russian ship, 21 August 1815.",
+     "ca_record": "ca12-d486",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n402"
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 12), tomo xix, orig. pp. 1405-10 / Savage pp. 396-399 / scan n403-n408, Doc 487. The passport and proclamation of the Suvorov, signed by the Company's directors Buldakov, Kramer and Zelensky under Alexander I, St Petersburg, 12 July 1811; the English above is a translation of the Spanish Savage copied.",
+     "ca_record": "ca12-d487",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n403"
     }
    ],
    "native_groups": [],
