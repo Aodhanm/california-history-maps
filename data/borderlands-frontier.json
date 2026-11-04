@@ -239,10 +239,10 @@
   {
    "id": "moraga-investigates-russian-bodega",
    "register_no": null,
-   "name": "Reports of a Ship at Bodega",
+   "name": "Moraga's Reconnaissance of Bodega",
    "date": {
-    "iso": "1810-09-19",
-    "display": "September 19, 1810",
+    "iso": "1810-09-23",
+    "display": "23 September to 3 October 1810",
     "confidence": "exact"
    },
    "coords": [
@@ -252,13 +252,21 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Arguello reports to Arrillaga that twenty or more otter canoes have been sighted heading for the San Jose esteros, that the Christian Indians of San Francisco say many are taking otter, and that the gentiles say a large ship is lying at Bodega. The nationality of that ship is not established in the despatch. The first inspection of Bodega the record shows is Moraga's of 1812, and his diary describes an American vessel there with Alaskan hunters aboard, not a Russian one. The map previously credited an autumn 1810 reconnaissance with forty Aleut canoes and Russian supply ships at anchor; neither is in the despatch.",
-   "result": "The Spanish learn of Bodega from the gentiles, and do not go",
+   "summary": "Arguello reported on 19 September 1810 that twenty or more otter canoes had been sighted heading for the San Jose esteros, that the Christian Indians of San Francisco said many were taking otter, and that the gentiles said a large ship was lying at Bodega. Moraga went to look. His own overland and naval reconnaissance ran from 23 September to 2 October, and the dateline of his diary reads 3 October 1810. What he found was not Russian: the frigate at Bodega was «no... rusa sino Americana», an American otter camp, two years before Fort Ross was founded. The standard published edition, Mathes's, prints this diary under 1812, a two-year misdate disproved at the leaf; the map formerly followed it, and formerly credited the trip with forty Aleut canoes and Russian supply ships at anchor, neither of which is in the record.",
+   "result": "An American otter camp at Bodega, two years before the Russians came",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 741-743 / Savage pp. 275-276 / scan n278-n279. Luis Arguello to Arrillaga, San Francisco, 19 September 1810.",
+     "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 741-743 / Savage pp. 275-276 / scan n278-n279. Luis Arguello to Arrillaga, San Francisco, 19 September 1810: the otter canoes and the gentiles' report of a ship at Bodega.",
      "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n278"
+    },
+    {
+     "citation": "Prov. St. Pap. (C-A 12), tomo xix, Savage pp. 276-279 / scan n279, Doc 335: Moraga's own overland and naval reconnaissance diary of Bodega, 23 September to 2 October 1810, dateline 3 October. The project's errata record the leaf reading «frag.ta no... rusa sino Americana» against Mathes's 1812 dating (errata ca12-d332b-n279, crop-verified).",
+     "ca_record": "ca12-d335",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n279"
+    },
+    {
+     "citation": "Mathes (ed.), Documentos para la historia de la Alta California, which prints the diary under 1812."
     }
    ],
    "native_groups": [],
@@ -3266,7 +3274,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Returning from the north, Bodega y Quadra's 36-foot schooner Sonora anchors and names the Puerto de la Bodega, charting it with keyed points and soundings; the founding document of the Spanish claim to this coast. Which water he actually anchored in is a live scholarly dispute: Edwards (1964) demonstrates the 1775 anchorage was Tomales Bay and the name later migrated north; Wagner (1926) read the chart as Bodega Harbor.",
+   "summary": "Returning from the north, Bodega y Quadra's 36-foot schooner Sonora anchored and charted this port with keyed points and soundings: the founding document of the Spanish claim to the coast. The chart's own title settles what the name means, and it is not the place-name it became: «Plano del Puerto del Cap.n Bodega descubierto con la Goleta 'Sonora' el día 23 de 8bre», the port of Captain Bodega. Its scale line runs «Desde la punta del Cordon á la de Munguia, 1 Legua. Idem idem á la de las Arenas, 300 varas», and the enclosed water is lettered «Mar ó Río». The leaf gives the day as the 23rd, in two clear glyphs, but Bodega entered the port on 3 October 1775 on four independent witnesses including his own daily navigation table, so the 2 is a copyist's, introduced somewhere in the chain. Which water he anchored in is a live dispute: Edwards (1964) argues the 1775 anchorage was Tomales Bay and the name migrated north; Wagner (1926) read the chart as Bodega Harbor.",
    "result": "The port named and claimed",
    "quote": null,
    "sources": [
@@ -3276,9 +3284,9 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Plano del Puerto de la Bodega (1775), Savage copy in C-A 15",
+     "citation": "«Plano del Puerto del Cap.n Bodega descubierto con la Goleta 'Sonora' el día 23 de 8bre», Savage's copy in St. Pap., Missions and Colonization (BANC MSS C-A 15), scan n21, Doc 21; title and scale line re-read at full resolution. AGI MP-MEXICO,582 carries the same form of the title.",
      "ca_record": "ca15-d21",
-     "ia_leaf_url": null
+     "ia_leaf_url": "https://archive.org/details/168035972_79_17_2/page/n21"
     },
     {
      "citation": "Wagner, Sir Francis Drake's Voyage Around the World (1926), 158–59 (the Bodega-Harbor reading)",
