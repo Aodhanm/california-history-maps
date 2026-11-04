@@ -2706,11 +2706,11 @@
      "quote": {
       "es": "",
       "en": "'After defeating the Indians on the banks of the Suisun River... pursued them to their last stronghold.'",
-      "source": "Bancroft, History of California II, 325-26, on Moraga's May 1810 Suisun campaign"
+      "source": "Vallejo's narration of Alférez José Sánchez's account, Recuerdos Históricos, Tomo 1 ch. 10; Vallejo, Hist. Cal., MS., i. 131-5 as Bancroft cites it. Not Bancroft's own words: his account of the May 1810 action has the survivors retiring to three huts, two taken and all in them killed, and the occupants of the third choosing to perish in the flames rather than be driven out."
      },
      "sources": [
       {
-       "citation": "Vallejo, Recuerdos Históricos, i. 151-5. Vallejo attributes to Sánchez (1817) but likely describes 1810.",
+       "citation": "Vallejo, Recuerdos Históricos y Personales tocante a la Alta California, Tomo 1, ch. 10, the manuscript Bancroft short-titles Vallejo, Hist. Cal., MS., i. 131-5, which is the foliation he cites at II, 91 n. 24; the Beebe and Senkewicz translation carries the same chapter at 151-55. Vallejo attributes the action to Sánchez in 1817, but it most likely describes the 1810 affair.",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -2739,7 +2739,7 @@
      "result": "",
      "sources": [
       {
-       "citation": "Bancroft II, p. 91 fn. 24. Arrillaga: Prov. Rec. ix. 122–3. Royal Order: Prov. St. Pap. xix. 314. Vallejo: MS. i. 151-5.",
+       "citation": "Bancroft II, p. 91 fn. 24. Arrillaga: Prov. Rec. ix. 122–3. Royal Order: Prov. St. Pap. xix. 314. Vallejo, Hist. Cal., MS., i. 131-5 (Bancroft II, 91 n. 24).",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2779,7 +2779,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Vallejo, Recuerdos, i. 151-5.",
+       "citation": "Vallejo, Recuerdos Históricos y Personales tocante a la Alta California, Tomo 1, ch. 10, the manuscript Bancroft short-titles Vallejo, Hist. Cal., MS., i. 131-5, which is the foliation he cites at II, 91 n. 24; the Beebe and Senkewicz translation carries the same chapter at 151-55.",
        "ca_record": null,
        "ia_leaf_url": null
       }
