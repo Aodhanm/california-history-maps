@@ -1172,7 +1172,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1958), ch. III, 254-256.",
+       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1960), ch. III, 254-55.",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -1202,12 +1202,12 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 46: 'This expedition of 1807 is otherwise unrecorded.'",
+       "citation": "Cook, ch. III, note [46]: 'This expedition of 1807 is otherwise unrecorded.'",
        "ca_record": null,
        "ia_leaf_url": null
       },
       {
-       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1958), ch. III, 254-256.",
+       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1960), ch. III, 254-55.",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -1237,12 +1237,12 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 47: possibly entrance to Gorge of Kern R., E of Bakersfield",
+       "citation": "Cook, ch. III, note [47]: possibly entrance to Gorge of Kern R., E of Bakersfield",
        "ca_record": null,
        "ia_leaf_url": null
       },
       {
-       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1958), ch. III, 254-256.",
+       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1960), ch. III, 254-55.",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -1272,7 +1272,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1958), ch. III, 254-256.",
+       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1960), ch. III, 254-55.",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -1302,7 +1302,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1958), ch. III, 254-256.",
+       "citation": "Felipe Santiago García's reminiscence, taken down by Alexander S. Taylor, in S. F. Cook, 'Colonial Expeditions to the Interior of California' (1960), ch. III, 254-55.",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -1320,7 +1320,7 @@
    "layer": "r1810a",
    "color": "#275d7a",
    "path_confidence": "reconstructed",
-   "citation": "Cook note 1: route via Sunol, Dublin, Walnut Creek",
+   "citation": "Cook, ch. V, note [1]: route via Sunol, Dublin, Walnut Creek",
    "stops": [
     {
      "id": "r1810a-1-mission-san-jose",
@@ -1362,7 +1362,7 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "r1810a",
-     "summary": "Aug 15. 6 leagues N. 'Good water. So near and so well known to everyone.'",
+     "summary": "Aug 15. 6 leagues N. a pool of good water in the western part of the valley, which they did not stop to explore «because it is so near and so well known to everyone»",
      "result": "",
      "quote": null,
      "sources": [
@@ -1392,12 +1392,12 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "r1810a",
-     "summary": "Aug 16 (lunch). 6 leagues N. 'Good water but runs in very small amount.' Killed 2 bears and a deer.",
+     "summary": "Aug 16 (lunch). 6 leagues N. «good water but it runs in a very small amount» Killed 2 bears and a deer.",
      "result": "",
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 1: route via Sunol, Dublin, Walnut Creek",
+       "citation": "Cook, ch. V, note [1]: route via Sunol, Dublin, Walnut Creek",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1462,7 +1462,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 2: at or near Antioch. Julpunes oak forest to Brentwood.",
+       "citation": "Cook, ch. V, note [2]: at or near Antioch. Julpunes oak forest to Brentwood.",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1497,7 +1497,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 2: halt near Oakley",
+       "citation": "Cook, ch. V, note [2]: halt near Oakley",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -1527,7 +1527,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 3: Bethany. Lakes vanished.",
+       "citation": "Cook, ch. V, note [3]: Bethany. Lakes vanished.",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1562,7 +1562,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 4: north of Tracy",
+       "citation": "Cook, ch. V, note [4]: north of Tracy",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1597,7 +1597,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 4: left bank, 3 mi above highway bridge",
+       "citation": "Cook, ch. V, note [4]: left bank, 3 mi above highway bridge",
        "ca_record": null,
        "ia_leaf_url": null
       }
@@ -1627,7 +1627,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 5: ~2 mi NNE of Vernalis",
+       "citation": "Cook, ch. V, note [5]: ~2 mi NNE of Vernalis",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1662,7 +1662,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 6: right bank, E of Vernalis",
+       "citation": "Cook, ch. V, note [6]: right bank, E of Vernalis",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1701,7 +1701,7 @@
      },
      "sources": [
       {
-       "citation": "Cook note 7: ~2 mi SE of Grayson",
+       "citation": "Cook, ch. V, note [7]: ~2 mi SE of Grayson",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1736,7 +1736,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 8: probably E of Patterson",
+       "citation": "Cook, ch. V, note [8]: probably E of Patterson",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1771,7 +1771,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 9: Orestimba Cr., E of Crows Landing",
+       "citation": "Cook, ch. V, note [9]: Orestimba Cr., E of Crows Landing",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1806,7 +1806,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 10: 3–4 mi NE of Gustine. Southernmost point.",
+       "citation": "Cook, ch. V, note [10]: 3–4 mi NE of Gustine. Southernmost point.",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -1918,7 +1918,7 @@
    "layer": "r1810b",
    "color": "#16a085",
    "path_confidence": "reconstructed",
-   "citation": "Cook note 14",
+   "citation": "Cook, ch. V, note [14]",
    "stops": [
     {
      "id": "r1810b-1-mission-san-jose",
@@ -1989,7 +1989,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 11: Mission San José to Bethany = ~32 mi",
+       "citation": "Cook, ch. V, note [11]: Mission San José to Bethany = ~32 mi",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2028,7 +2028,7 @@
      },
      "sources": [
       {
-       "citation": "Cook note 12: two villages on Old River / Union I.",
+       "citation": "Cook, ch. V, note [12]: two villages on Old River / Union I.",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2063,7 +2063,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 14",
+       "citation": "Cook, ch. V, note [14]",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2098,7 +2098,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 14",
+       "citation": "Cook, ch. V, note [14]",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2163,7 +2163,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 14: Mayem 9 leagues from Pescadero",
+       "citation": "Cook, ch. V, note [14]: Mayem 9 leagues from Pescadero",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2198,7 +2198,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 14–15",
+       "citation": "Cook, ch. V, note [14]–15",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2293,7 +2293,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 15",
+       "citation": "Cook, ch. V, note [15]",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2383,12 +2383,12 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "r1810b",
-     "summary": "Oct 25. 1 league. 'Allies of the Tatives when they fought us.' Creek dry. 'Least bad spot — only firewood, river water, and good fish.'",
+     "summary": "Oct 25. 1 league. «the allies of the Tatives when the latter fought us» Creek dry. «This spot is the least bad on this whole side of the river but even so it would not be suitable for a mission... It has only firewood, river water, and much good fish»",
      "result": "",
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 9/16",
+       "citation": "Cook, ch. V, note [9]/16",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2418,7 +2418,7 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "r1810b",
-     "summary": "Oct 25. 2 leagues. 'Refused to come out, saying they were afraid. They guessed right for they would have been taken captive.'",
+     "summary": "Oct 25. 2 leagues. «they refused to come out, saying that they were afraid. They guessed right for they would have been taken captive»",
      "result": "",
      "quote": null,
      "sources": [
@@ -2453,7 +2453,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 16: Del Puerto Cr.",
+       "citation": "Cook, ch. V, note [16]: Del Puerto Cr.",
        "ca_record": null,
        "ia_leaf_url": null
       },
@@ -2542,7 +2542,7 @@
      "quote": null,
      "sources": [
       {
-       "citation": "Cook note 16: through hills NE of Mt. Hamilton",
+       "citation": "Cook, ch. V, note [16]: through hills NE of Mt. Hamilton",
        "ca_record": null,
        "ia_leaf_url": null
       }

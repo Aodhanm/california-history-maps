@@ -225,7 +225,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Hubert Howe Bancroft, History of California, I:314 · 'in June 1777 the Alocuachomi rancheria threatened the neophytes of San Juan Capistrano, and Corporal Guillermo Carrillo was sent with five men to chastise the offenders, which he did by killing three and wounding several.'",
+     "citation": "Hubert Howe Bancroft, History of California, I:314 · 'in June 1777 when the Alocuachomi rancheria threatened the neophytes of San Juan Capistrano, and Corporal Guillermo Carrillo was sent with five men to chastise the offenders, which he did by killing three and wounding several.'",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -1670,7 +1670,7 @@
    "coord_precision": "place",
    "type": "raid",
    "layer": "phase2",
-   "summary": "Argüello orders Amador: \"A lo gentiles no se los violente para hacerlos de sus rancherías.\" Gentiles fled \"porque decían que querían bautizarlos\"; feared forced baptism.",
+   "summary": "Argüello orders Amador: «que á los gentiles no se les violente p.a traerlos de sus rancherias» Gentiles fled \"porque decían que querían bautizarlos\"; feared forced baptism.",
    "result": "Failed; gentiles fled",
    "quote": null,
    "sources": [
@@ -2176,7 +2176,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase3b",
-   "summary": "LARGEST PITCHED BATTLE IN COLONIAL CA. Sgt. Soto + 12 soldiers from SF (by boat) + 100 Mission San José auxiliaries vs. ~1,000 warriors from 4 united rancherías (Unsumnes). Warriors pre-positioned on marshy island, women/children removed. \"Fell upon the soldiers at landing.\" 3-hour battle. Soto \"was at one time doubtful of the result, so reliant were the foes on their numbers, so careless of life.\" 1 neophyte killed (Alcalde Julio); many indigenous dead. Not a single fugitive captured.",
+   "summary": "LARGEST PITCHED BATTLE IN COLONIAL CA. Sgt. Soto + 12 soldiers from SF (by boat) + 100 Mission San José auxiliaries vs. ~1,000 warriors from 4 united rancherías (Unsumnes). Warriors pre-positioned on marshy island, women/children removed. \"Fell upon the soldiers and their allies at landing.\" 3-hour battle. Soto \"was at one time doubtful of the result, so reliant were the foes on their numbers, so careless of life.\" 1 neophyte killed (Alcalde Julio); many indigenous dead. Not a single fugitive captured.",
    "result": "Spanish tactical / INDIGENOUS STRATEGIC VICTORY; largest single-engagement indigenous army in CA",
    "quote": null,
    "sources": [
@@ -2201,7 +2201,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Sherburne F. Cook, 'Colonial Expeditions to the Interior of California: Central Valley, 1800-1820,' University of California Anthropological Records 16:6 (1960), 265-77.",
+     "citation": "Sherburne F. Cook, 'Colonial Expeditions to the Interior of California: Central Valley, 1800-1820,' University of California Anthropological Records 16:6 (1960), 265-66.",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -2242,7 +2242,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Sherburne F. Cook, 'Colonial Expeditions to the Interior of California: Central Valley, 1800-1820,' University of California Anthropological Records 16:6 (1960), 271-74 (Pico diary, November 1815).",
+     "citation": "Sherburne F. Cook, 'Colonial Expeditions to the Interior of California: Central Valley, 1800-1820,' University of California Anthropological Records 16:6 (1960), 268-71 (Pico diary, November 1815).",
      "ca_record": null,
      "ia_leaf_url": null
     },
@@ -2254,7 +2254,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CITATION PROBLEM AND AN OPEN HISTORIOGRAPHICAL CONFLICT. (1) C-A 13 cannot hold this: q.py vol 13 shows it is Prov. St. Pap. tomo XX, whose records run 1816-1821; the 1815 material is not there. C-A 12 (tomo XIX) I searched directly and found nothing. (2) Bancroft, Hist. Cal. ii. 326, says flatly of the 1815 gran expedición: 'It is only from allusions in the archives that this affair is known, for no diary is extant.' Cook nevertheless prints a Pico diary at pp. 271-74. Either the diary surfaced after Bancroft wrote, or Cook used a copy Bancroft did not connect to this campaign. I cannot resolve that from here and will not guess. (3) Bancroft's own manuscript pointers for the 1815 campaign are 'Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4' (the northern party of 50 under Gabriel Moraga against the Pitemas, out from San Francisco about 25 Sept) and 'Sola to Ruiz, Oct. 5, 1815. Id., xlvi. 5-6' (Sgt. Pico delivering 11 Indians accused of the killing of Christians and the wounding of vaqueros). Prov. St. Pap. Benicia Military is C-A 17, but Savage's abstracts in that stretch carry NO original page numbers (the orig_page field is empty throughout), so the page-interval resolver cannot reach them, and my content searches of C-A 17 for a 1815 Pico entry found nothing. This is a genuine gap, not a search failure I can close. (4) DATE: the map's 'November 9-10, 1815' is consistent with Bancroft's note that Solá's letters on this expedition run 'Sept. 14th to Nov. 9th' and that the expedition returned 1 December 1815 (Tapis to Guerra, 2 Dec).",
+   "notes": "⚠ CITATION PROBLEM AND AN OPEN HISTORIOGRAPHICAL CONFLICT. (1) C-A 13 cannot hold this: q.py vol 13 shows it is Prov. St. Pap. tomo XX, whose records run 1816-1821; the 1815 material is not there. C-A 12 (tomo XIX) I searched directly and found nothing. (2) Bancroft, Hist. Cal. ii. 326, says flatly of the 1815 gran expedición: 'It is only from allusions in the archives that this affair is known, for no diary is extant.' Cook nevertheless prints a Pico diary at pp. 268-71. Either the diary surfaced after Bancroft wrote, or Cook used a copy Bancroft did not connect to this campaign. I cannot resolve that from here and will not guess. (3) Bancroft's own manuscript pointers for the 1815 campaign are 'Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4' (the northern party of 50 under Gabriel Moraga against the Pitemas, out from San Francisco about 25 Sept) and 'Sola to Ruiz, Oct. 5, 1815. Id., xlvi. 5-6' (Sgt. Pico delivering 11 Indians accused of the killing of Christians and the wounding of vaqueros). Prov. St. Pap. Benicia Military is C-A 17, but Savage's abstracts in that stretch carry NO original page numbers (the orig_page field is empty throughout), so the page-interval resolver cannot reach them, and my content searches of C-A 17 for a 1815 Pico entry found nothing. This is a genuine gap, not a search failure I can close. (4) DATE: the map's 'November 9-10, 1815' is consistent with Bancroft's note that Solá's letters on this expedition run 'Sept. 14th to Nov. 9th' and that the expedition returned 1 December 1815 (Tapis to Guerra, 2 Dec).",
    "symbol": "swords"
   },
   {
@@ -2320,7 +2320,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 270–71 (Pico's diary, in translation); Cook note [9] places the Cheneches near the mouth of Mariposa Creek.",
+     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 270–71 (Pico's diary, in translation); Cook, ch. VI, note [9] places the Cheneches near the mouth of Mariposa Creek.",
      "ca_record": null,
      "ia_leaf_url": null
     },
@@ -2362,7 +2362,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 275–76 (Pico's diary, in translation); Cook note [9] places Tape ~20 mi. west of Fresno, south of the great bend of the San Joaquin.",
+     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 275–76 (Pico's diary, in translation); Cook, ch. VI, note [9] places Tape ~20 mi. west of Fresno, south of the great bend of the San Joaquin.",
      "ca_record": null,
      "ia_leaf_url": null
     },
@@ -2403,7 +2403,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 277–78 (Pico's diary, in translation); Cook note [9] places Malim between the Cheneches and the Nupchenches along the San Joaquin River.",
+     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 277–78 (Pico's diary, in translation); Cook, ch. VI, note [9] places Malim between the Cheneches and the Nupchenches along the San Joaquin River.",
      "ca_record": null,
      "ia_leaf_url": null
     },
@@ -2444,7 +2444,7 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 279–86 (Padre Luis Antonio Martínez's tular entrada, in translation); Cook note [6] identifies Bubal as Wowol on the shore of Tulare Lake.",
+     "citation": "Sherburne F. Cook, \"Colonial Expeditions to the Interior of California: Central Valley, 1800–1820,\" University of California Anthropological Records 16:6 (Berkeley, 1960), 279–86 (Padre Luis Antonio Martínez's tular entrada, in translation); Cook, ch. VI, note [6] identifies Bubal as Wowol on the shore of Tulare Lake.",
      "ca_record": null,
      "ia_leaf_url": null
     },
@@ -3678,7 +3678,7 @@
    "coord_precision": "place",
    "type": "defense",
    "layer": "infra",
-   "summary": "Fray Diego de Noboa warns: rancherías augmented, \"rompimiento muy semejante al de Sonora\" (uprising like Sonora). Exiled gentiles from Monterey/Santa Cruz fled with Christians. \"Situación muy crítica.\"",
+   "summary": "Fray Diego de Noboa warns: rancherías augmented, \"rompimiento muy semejante al de Sonora\" (uprising like Sonora). Exiled gentiles from Monterey/Santa Cruz fled Santa Cruz with two of its Christians. «juzgo estamos en una situacion muy critica»",
    "result": "Intelligence warning; no engagement",
    "quote": null,
    "sources": [
@@ -5576,7 +5576,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Bancroft narrates this affair at Hist.Cal. iii. 395-97, naming 'a grand military expedition sent out under Alferez Damaso Rodriguez.' His footnote cites 'Nuevo Mexico, Expediente de Abigeato, 1833, MS.', Los Angeles Arch. iv. 73, 86-7 and Dept. St. Pap., Angeles i.109, xi.3-4 - none of which resolved to a C-A record via q.py banc (DSP_ANG returned only ca37-d2, 1825, unrelated). The C-A 19 run is the manuscript basis regardless. Date note: Savage puts the San Miguel complaint 24 Feb 1833 and Figueroa's orders 26 Feb; d232 (the instructions) carries only a year, so the map's 'February 1833' is safe for the orders but the march itself is undated.",
+   "notes": "Bancroft narrates this affair at Hist.Cal. iii. 395-97, naming 'a grand military expedition was sent out under Alferez Damaso Rodriguez against the robbers' His footnote cites 'Nuevo Mexico, Expediente de Abigeato, 1833, MS.', Los Angeles Arch. iv. 73, 86-7 and Dept. St. Pap., Angeles i.109, xi.3-4 - none of which resolved to a C-A record via q.py banc (DSP_ANG returned only ca37-d2, 1825, unrelated). The C-A 19 run is the manuscript basis regardless. Date note: Savage puts the San Miguel complaint 24 Feb 1833 and Figueroa's orders 26 Feb; d232 (the instructions) carries only a year, so the map's 'February 1833' is safe for the orders but the march itself is undated.",
    "symbol": "flame"
   },
   {
@@ -5913,7 +5913,7 @@
    "coord_precision": "conjectural",
    "type": "raid",
    "layer": "mexican",
-   "summary": "'Indios malhechores' drove off a caballada of 140 head from the national rancho; Gov. Argüello sent Alf. Santiago Argüello with 34 troops to punish the raiders and the rancherías that harbor them ('por cortar de raiz los daños'). In a related San Diego–frontier action, 14 of 15 neophyte auxiliaries who fought were killed, and ~40 raiders later burned a San Diego rancho.",
+   "summary": "'Indios malhechores' drove off a caballada of 140 head from the national rancho; Gov. Argüello sent Alf. Santiago Argüello with 24 troops (the map formerly read 34; the only cited record has 24) to punish the raiders and the rancherías that harbor them («p.a cortar de raiz los daños»). In a related San Diego–frontier action, 14 of 15 neophyte auxiliaries who fought were killed, and ~40 raiders later burned a San Diego rancho.",
    "result": "Stock raid + collective punishment",
    "quote": null,
    "sources": [
