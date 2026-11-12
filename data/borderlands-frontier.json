@@ -258,7 +258,8 @@
    "sources": [
     {
      "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 741-743 / Savage pp. 275-276 / scan n278-n279. Luis Arguello to Arrillaga, San Francisco, 19 September 1810: the otter canoes and the gentiles' report of a ship at Bodega.",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n278"
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n278",
+     "ca_record": "ca12-d334"
     },
     {
      "citation": "Prov. St. Pap. (C-A 12), tomo xix, Savage pp. 276-279 / scan n279, Doc 335: Moraga's own overland and naval reconnaissance diary of Bodega, 23 September to 2 October 1810, dateline 3 October. The project's errata record the leaf reading «frag.ta no... rusa sino Americana» against Mathes's 1812 dating (errata ca12-d332b-n279, crop-verified).",
@@ -295,7 +296,8 @@
    "sources": [
     {
      "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1045-1048 / Savage pp. 320-322 / scan n327-n329. Luis Arguello to Arrillaga, San Francisco, 31 July 1812, on the otter hunters in the bay and the first verification mission to Bodega; leaf read.",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n327"
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n327",
+     "ca_record": "ca12-d404"
     },
     {
      "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1215-1217 / Savage pp. 364, 367-368 / scan n371, Doc 439. Gabriel Moraga's reconnaissance and defence assessment of the Russian post at Ross, San Francisco, 30 July 1814 (unsigned). Doc 432 in the same volume, which an earlier citation named, is Argüello's earthquake report of January 1813.",
@@ -603,13 +605,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "british",
-   "summary": "Ship sinks near Farallones. Indigenous informants report two uniformed Englishmen at Point Reyes. English naval presence at the Bay entrance during wartime. The report comes through indigenous intelligence networks.",
+   "summary": "A body washed up near Punta de Reyes, «un cuerpo blanco con mucho pelo», which the surf would not let them recover. Fr. Landaeta's mayordomo sighted a ship among the Farallones that soon vanished, and he believes it went down there, because gentiles told him they had seen two more bodies and that they were English. The vessel was wrecked the same day as the packet San Carlos. The report of an English presence at the Bay entrance in wartime comes through indigenous informants.",
    "result": "English at the Bay entrance; indigenous networks provide the warning",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xiv, orig. pp. 371-373 / Savage p. 313 / leaf 116 / scan n312. Caro de Alterni to Borica, San Francisco, 14 April 1797, «Naufragio de un buque desconocido»: a body washed up near Punta de Reyes; P. Landaeta's mayordomo reported a ship seen between the Farallones that shortly disappeared; the gentiles said they had seen two uniformed men who were English.",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n312"
+     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xiv, orig. pp. 371-373 / Savage stamp 313, hand 116 / scan n310, Doc 327. **Pedro de Alberni** to Borica, San Francisco, 14 April 1797, «Naufragio de un buque desconocido». Leaf-verified: the map read the writer as 'Caro de Alterni' and put the leaf at n312; the stamp 313 and the hand 116 are both on n310.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n310",
+     "ca_record": "ca8-d327"
     }
    ],
    "native_groups": [],
@@ -638,8 +641,9 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xv, orig. pp. 501-502 / Savage p. 351 / leaf 155 / scan n350. Vallejo to Borica, San Jose, 1 October 1797, «Sobre un buque Ingles llegado a Santa Cruz»: an English vessel at the port of Santa Cruz; Vallejo arranged assistance with the alcalde, there being no war officer present, and reported himself ready if called.",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n350"
+     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xv, orig. pp. 501-504 / scan n348, Doc 354. Vallejo to Borica, San José, 1 October 1797, on an English vessel arrived at the port of Santa Cruz: he has agreed with the alcalde to march to help if needed. ⚠ The map cited scan n350 and pp. 501-502; the catalogue record spans n348 and pp. 501-504.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n348",
+     "ca_record": "ca8-d354"
     }
    ],
    "native_groups": [],
@@ -697,7 +701,8 @@
    "sources": [
     {
      "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1240-1244 / scan n380. Capt. Black of HMS Raccoon to the Governor, March 1814, written in English: the ship grounded on the bar leaving the Columbia and 'made much water which ruined her powder'; he asks for 1,400 to 1,500 lbs of gunpowder, and reports that some of his crew 'intend to desert & claim the protection of the Spanish Authorities under plea of being Roman Catholics'.",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n380"
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n380",
+     "ca_record": "ca12-d447"
     }
    ],
    "native_groups": [],
@@ -1511,11 +1516,13 @@
    "sources": [
     {
      "citation": "Prov. Rec. (BANC MSS C-A 26), tomo xi, orig. p. 63 / Savage p. 16 / scan n15, Doc 53. Arrillaga, Soledad, 2 October 1811, approving the despatch of Cabo Juan Ortega in pursuit of the gentiles of the rancheria of Suispaques.",
-     "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n15"
+     "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n15",
+     "ca_record": "ca26-d53"
     },
     {
      "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 64-66 / Savage p. 17 / scan n16, Doc 56. Arrillaga, Soledad, 31 October 1811: Cabo Ortega returned without having taken the gentile Suispaques.",
-     "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n16"
+     "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n16",
+     "ca_record": "ca26-d56"
     }
    ],
    "native_groups": [],
@@ -1665,9 +1672,10 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxi, orig. pp. 436-437 / Savage p. 94 / scan n93. Arrillaga, gobernador interino, to the Viceroy, San Diego, 16 March 1793. The same entry forwards three copies on the desertion of five men from English vessels, held at Monterey, three of whom ask to enter the Catholic church while the other two say they are already in it. Leaf-verified.",
+     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxi, orig. pp. 436-437 / Savage p. 94 / scan n93. Arrillaga, gobernador interino, to the Viceroy, San Diego, 16 March 1793. The same entry forwards three copies on the desertion of five men from English vessels, held at Monterey, three of whom ask to enter the Catholic church while the other two say they are already in it. Leaf-verified. ⚠ The catalogue abstract of ca14-d84 reads 'Cannot resist invasion. 8 English prisoners at Monterey; 3 want to convert' and gives the pages as xxi.236-7. The leaf reads «no juzgar remota una invasion», five deserters, and pp. 436-7. The map had followed the abstract.",
      "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n93",
-     "notes": "Written at San Diego; placed here with the other province-wide intelligence reports about the Bay."
+     "notes": "Written at San Diego; placed here with the other province-wide intelligence reports about the Bay.",
+     "ca_record": "ca14-d84"
     }
    ],
    "native_groups": [],
@@ -1751,13 +1759,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "intel",
-   "summary": "Crown fiscal officer declares defense should be naval; land fortifications useless. Devastating assessment from within the imperial bureaucracy itself.",
+   "summary": "The Crown's fiscal de Real Hacienda, on Alberto de Córdova's plans of San Diego and the Ensenada del Príncipe, gives his opinion «sobre que la defensa de aquellos establecimientos deve hacerse por la marina á menos costos de los que serian necesario invertir en fuertes y otras obras q.e despues de todo no embarazarian el desembarco» — the defence of those establishments should be made by sea, at less cost than forts that would not stop a landing anyway. A devastating assessment from inside the imperial bureaucracy.",
    "result": "Spain's own bureaucracy declares California indefensible",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xv, orig. pp. 764-765 / Savage p. 443 / leaf 247 / scan n444. Branciforte to the Governor of California, Orizaba, 22 May 1797, on the receipt of Cordoba's plans of San Diego and the Santa Barbara channel: the Fiscal de Real Hacienda holds that «la defensa de aquellos establecimientos debe hacerse por la marina», at less cost than works that «no embarazarian el desembarco».",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n444"
+     "citation": "Prov. St. Pap. (BANC MSS C-A 8), tomo xv, orig. pp. 771-773 / Savage stamp 443, hand 247 / scan n442-n443, Doc 407. Branciforte to the Governor of California, Orizaba, 22 May 1797, «sobre haver recibido los planos del Puerto de S.n Diego y ensenada del canal de S.ta Barbara», relaying the fiscal's dictamen of 1 May. Leaf-verified. ⚠ The map cited pp. 764-765 and scan n444; stamp 443 and hand 247 are both on n442.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_10/page/n442",
+     "ca_record": "ca8-d407"
     }
    ],
    "native_groups": [],
