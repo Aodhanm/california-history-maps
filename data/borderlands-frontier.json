@@ -1649,9 +1649,9 @@
    "register_no": null,
    "name": "Arrillaga: \"Presidios Are Indefensible · English Said So\"",
    "date": {
-    "iso": "1793",
-    "display": "1793",
-    "confidence": "year"
+    "iso": "1793-03-16",
+    "display": "16 March 1793",
+    "confidence": "exact"
    },
    "coords": [
     37.8,
@@ -1660,13 +1660,14 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "intel",
-   "summary": "\"Los Presidios de Alta Cal. están indefensos, cuya circunstancia ha sido notada por los mismos ingleses... no pueden resistir contra una invasion.\" The governor's own admission to his viceroy.",
+   "summary": "«Representa q.e los Presidios de Alta Cal. estan indefensos, cuya circunstancia ha sido notada p.r los mismos ingleses \"los q.e insinuan haber muchos piratas y no juzgar remota una invasion\".» The governor's own admission to his viceroy, with the English themselves quoted inside it: it is they who say an invasion is not to be thought remote.",
    "result": "Spain admits its own weakness",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxi, orig. pp. 236-237 / Savage p. 94 / scan n93. Arrillaga to the Viceroy, San Diego, 16 March 1793: «Representa q.e los Presidios de Alta Cal. estan indefensos, cuya circunstancia ha sido notada p.r los mismos ingleses». The same entry reports eight English prisoners at Monterey.",
-     "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n93"
+     "citation": "Prov. St. Pap. (BANC MSS C-A 14), tomo xxi, orig. pp. 436-437 / Savage p. 94 / scan n93. Arrillaga, gobernador interino, to the Viceroy, San Diego, 16 March 1793. The same entry forwards three copies on the desertion of five men from English vessels, held at Monterey, three of whom ask to enter the Catholic church while the other two say they are already in it. Leaf-verified.",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n93",
+     "notes": "Written at San Diego; placed here with the other province-wide intelligence reports about the Bay."
     }
    ],
    "native_groups": [],

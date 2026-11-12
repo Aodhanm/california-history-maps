@@ -3899,8 +3899,8 @@
      "link_note": "link probable, not confirmed by the record itself"
     },
     {
-     "citation": "Departmental Records (BANC MSS C-A 46), tomo I, orig. pp. 75-76 / scan n105 (Savage 106/105), Doc 140: Argüello to Sgt. Ignacio Vallejo, Monterey, 24 March 1824 · the 2 a.m. dispatch.",
-     "ca_record": null,
+     "citation": "Departmental Records (BANC MSS C-A 46), tomo I, orig. pp. 75-76 / scan n105-n106 (Savage 106/105), Doc 140: Argüello to Vallejo, Monterey, 24 March 1824, the 2 a.m. dispatch. Leaf-verified: the copyist heads it only 'Argüello á Vallejo' and gives no forename. Argüello encloses Fr. Blas Ordaz's letter of the 21st and, if Estrada's division 'no hace mayor en esa Mis.n de la Purisima', orders it sent in by San Miguel 'y q.e acaben con esta chusma p.r q.e de lo contrario, nada adelantamos y podremos ser victimas de estos Bárb.s' — with the division, the cañón violento already out of the presidio, and '100 cartuchos de bala rasa y 100 de metralla, q.e en estos dias he mandado hacer'.",
+     "ca_record": "ca46-d140",
      "ia_leaf_url": "https://archive.org/details/168036065_81_8_regular/page/n105"
     },
     {
@@ -3908,6 +3908,11 @@
      "ca_record": "ca27-d41",
      "ia_leaf_url": "https://archive.org/details/168036073_80_9_2/page/n31",
      "link_note": "link probable, not confirmed by the record itself"
+    },
+    {
+     "citation": "Departmental Records (BANC MSS C-A 46), tomo I, orig. p. 75 / scan n105, Doc 141: Argüello to Vallejo, Monterey, 21 April 1824 — scattered Purísima and Santa Inés Indians near Mission San Luis, one of San Luis itself named Berano; Vallejo to work with Fr. Luis Martínez for news of their course, and to take the precautions needed 'p.a q.e no haga ning.a desgracia'. On the same leaf as the 2 a.m. dispatch.",
+     "ca_record": "ca46-d141",
+     "ia_leaf_url": "https://archive.org/details/168036065_81_8_regular/page/n105"
     }
    ],
    "native_groups": [],
@@ -4105,7 +4110,7 @@
    "type": "battle",
    "layer": "mexican",
    "summary": "ESTANISLAO; \"a neophyte of more than ordinary ability, educated at Mission San José, of which establishment he was at one time alcalde.\" Ran away 1827-28 with CIPRIANO. By Nov 1828 PP. Durán and Viader warned Martínez of general rising. Earlier ~20-man expedition accomplished nothing. Estanislao continued \"insulting challenges to the soldiers.\" May 5-8: Alf. Sánchez with ~40 men + damaged swivel-gun. Divided into 6 parties of 6 under Cpls. Piña, Berreyesa, Soto. 2 of Piña's men \"so rash as to enter the wood\"; killed. \"Ammunition exhausted, men tired out, weather excessively hot.\" Estanislao left unconquered. Cpl. Soto and pvts. Peña and Pacheco praised for gallantry.",
-   "result": "INDIGENOUS VICTORY; Sánchez's force repulsed with heavy losses (~50% casualty rate)",
+   "result": "Indigenous victory; Sánchez's force repulsed. Casualties are given two ways and not reconciled: the C-A copy has 2 dead, 8 wounded and 3 Indian auxiliaries wounded, one mortally; Bancroft has 2 dead, 8 wounded and eleven auxiliaries wounded.",
    "quote": null,
    "sources": [
     {
@@ -4129,7 +4134,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "State Papers, Missions and Colonization (BANC MSS C-A 53), tomo II, orig. pp. 37-44 / scan n15-n20 (Savage 16-21), Doc 10: Alférez José Sánchez to Comte. Ignacio Martínez, San José, 16 May 1829 · report of the first expedition against Estanislao.",
+     "citation": "State Papers, Missions and Colonization (BANC MSS C-A 53), tomo II, orig. pp. 37-44 / scan n15-n20 (Savage 16-21), Doc 10: Alférez José Sánchez to Comte. Ignacio Martínez, San José, 10 May 1829 · report of the first expedition against Estanislao. ⚠ Leaf-verified at n15: the copyist's heading reads '1829. Mayo 10 S. José'; 16 May was an error here.",
      "ca_record": "ca53-d10",
      "ia_leaf_url": "https://archive.org/details/bancarchca_81_15/page/n15"
     },
@@ -4147,7 +4152,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "DISCREPANCIES, flagged not reconciled. (1) ca53-d10 names 'cabo Antonio Soto, soldiers Manuel Piña & Tomás Pacheco'; Bancroft III:111 n.53 has 'Corp. Soto and privates Manuel Peña and Lorenzo Pacheco'. The map follows Bancroft. Two of three given names differ; a leaf check at n15-n20 would settle it. (2) Casualties: C-A gives 2 dead + 8 wounded + 3 auxiliaries wounded (1 mortally); Bancroft gives 2 dead, 8 wounded, ELEVEN auxiliaries wounded. The map's '~50% casualty rate' follows neither and looks like the map author's own arithmetic. (3) Bancroft flagged his order-date as suspect ('May 6th, probably an error in date'); the C-A copy reads 8 May 1829, still after Sánchez's 5 May departure. (4) METHOD: ca48-d353 was found by CONTENT search; 'Dept. Rec., MS., vii. 149' through the page resolver returns ca48-d38, a friar-loyalty roster; right arithmetic, wrong document. (3) A quotation from Duhaut-Cilly about Sanchez killing thirty women and children was published on this feature; it belongs to Sanchez's expedition against the Cosumnes in November 1826, not to the May 1829 campaign, and has been moved there.",
+   "notes": "DISCREPANCIES, flagged not reconciled. (1) ca53-d10 names 'cabo Antonio Soto, soldiers Manuel Piña & Tomás Pacheco'; Bancroft III:111 n.53 has 'Corp. Soto and privates Manuel Peña and Lorenzo Pacheco'. The map follows Bancroft. Two of three given names differ; a leaf check at n15-n20 would settle it. (2) Casualties: C-A gives 2 dead + 8 wounded + 3 auxiliaries wounded (1 mortally); Bancroft gives 2 dead, 8 wounded, ELEVEN auxiliaries wounded. A '~50% casualty rate' was published here; it followed neither source and has been replaced by the two counts themselves. (3) Bancroft flagged his order-date as suspect ('May 6th, probably an error in date'); the C-A copy reads 8 May 1829, still after Sánchez's 5 May departure. (4) METHOD: ca48-d353 was found by CONTENT search; 'Dept. Rec., MS., vii. 149' through the page resolver returns ca48-d38, a friar-loyalty roster; right arithmetic, wrong document. (3) A quotation from Duhaut-Cilly about Sanchez killing thirty women and children was published on this feature; it belongs to Sanchez's expedition against the Cosumnes in November 1826, not to the May 1829 campaign, and has been moved there.",
    "symbol": "swords"
   },
   {
@@ -4166,7 +4171,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "mexican",
-   "summary": "VALLEJO'S 3RD COMMAND; prior campaigns: Sierra Nevada from S. Miguel (1 killed, 15 wounded), Tulares (35 men, \"slain 48 Indians, no casualties\"). 107 men + 3-pounder. Set impenetrable wood on fire. Sánchez with 25 men fought 2+ hrs in burning wood. Vallejo with 37 men found \"pits and ditches arranged with considerable skill\"; \"Indians could never have been dislodged except by the agency employed.\" Pursued to Arroyo Seco: \"some negotiations\" then Indians declared \"they would die rather than surrender.\" Cut road through chaparral with axes; 8 wounded; ammunition ran out. Night: Indians escaped one by one. Morning: only dead bodies + 3 women. ATROCITY: Piña records 6+ captives killed. Osio: \"order of no quarter given by Vallejo, infuriated auxiliaries wrought terrible carnage, pits for defences utilized as graves.\" Fiscal concluded: only 1 man + 1 woman killed; woman \"unjustifiably by soldier Joaquín Alvarado.\" Martínez: \"no decisive results obtained.\" Pardoned Oct 7, 1829.",
+   "summary": "VALLEJO'S 3RD COMMAND; prior campaigns: Sierra Nevada from S. Miguel (1 killed, 15 wounded), Tulares (35 men, \"slain 48 Indians, no casualties\"). 107 men + 3-pounder. Set impenetrable wood on fire. Sánchez with 25 men fought 2+ hrs in burning wood. Vallejo with 37 men found \"pits and ditches arranged with considerable skill\"; \"Indians could never have been dislodged except by the agency employed.\" Pursued to Arroyo Seco: \"some negotiations\" then Indians declared \"they would die rather than surrender.\" Cut road through chaparral with axes; 8 wounded; ammunition ran out. Night: Indians escaped one by one. Morning: only dead bodies and 3 women. Vallejo's own report, read at the leaf, counts seven Indian corpses a little over half a league downriver, 'muertos en el sitio de la noche', and three women 'que tambien se encontraron muertas de balazos'; 18 stolen horses recovered; 11 of his own men and 2 Indian auxiliaries wounded, none thought to be in danger. ATROCITY: Piña records 6+ captives killed. Osio: \"order of no quarter given by Vallejo, infuriated auxiliaries wrought terrible carnage, pits for defences utilized as graves.\" Fiscal concluded: only 1 man + 1 woman killed; woman \"unjustifiably by soldier Joaquín Alvarado.\" Martínez: \"no decisive results obtained.\" Pardoned Oct 7, 1829.",
    "result": "Pyrrhic Mexican victory; Estanislao escaped; atrocity investigation",
    "quote": null,
    "sources": [
@@ -4192,7 +4197,7 @@
      "link_note": "link probable, not confirmed by the record itself"
     },
     {
-     "citation": "St. Pap., Missions and Colonization (C-A 53), tomo ii. 37-44 / Savage 16-21, scan n15-n20, Doc 10. Alf. José Sánchez (San José) to comandante Ignacio Martínez, 16 May 1829 - report of the FIRST, failed expedition against Estanislao.",
+     "citation": "St. Pap., Missions and Colonization (C-A 53), tomo ii. 37-44 / Savage 16-21, scan n15-n20, Doc 10. Alf. José Sánchez (San José) to comandante Ignacio Martínez, 10 May 1829 - report of the FIRST, failed expedition against Estanislao. ⚠ Leaf-verified at n15: the copyist's heading reads '1829. Mayo 10 S. José'; 16 May was an error here.",
      "ca_record": null,
      "ia_leaf_url": "https://archive.org/details/bancarchca_81_15/page/n15"
     },
@@ -4234,7 +4239,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Two discrepancies to flag, not reconciled. (1) CASUALTIES: the map text (from Bancroft) says the fiscal found 'only 1 man + 1 woman killed'; Vallejo's own report (ca53-d9) states 'several rebels + 3 women killed, 3 women captured' and 11 men + 2 auxiliaries wounded. Savage's abstract of Vallejo and the fiscal's finding do not agree, and Bancroft prints both without resolving them. (2) DATES: the map header reads 'May 29 - Jun 4, 1829'; ca53-d9 says the force set out 26 May with 107 men, a cannon and 2,500 cartridges, and the report is dated at San José 4 June. Bancroft's 29 May is the San Joaquin crossing, not the departure. Also note ca19-d47's catalogue summary hedges the commander's forename ('Gonzalo?'); the hedge is resolved by the record's own content, which names soldier Alvarado exactly as Bancroft's footnote does. (3) Davis reports that Yoscolo afterwards carried off two hundred girls from Santa Clara and joined Estanislao in the Mariposa country, and that Vallejo was outgeneralled by the Indians. That is Davis's judgement, reported here as his and not as a finding of this register.",
+   "notes": "Two discrepancies to flag, not reconciled. (1) CASUALTIES: the map text (from Bancroft) says the fiscal found 'only 1 man + 1 woman killed'; Vallejo's own report (ca53-d9) states 'several rebels + 3 women killed, 3 women captured' and 11 men + 2 auxiliaries wounded. Leaf-verified at n15: Vallejo reports seven Indian dead and three women dead. The fiscal's finding of one man and one woman is therefore not a smaller reading of the same count but a contradiction of the commander's own report, and Bancroft prints both without resolving them. (2) DATES: the map header reads 'May 29 - Jun 4, 1829'; ca53-d9 says the force set out 26 May with 107 men, a cannon and 2,500 cartridges, and the report is dated at San José 4 June. Bancroft's 29 May is the San Joaquin crossing, not the departure. Also note ca19-d47's catalogue summary hedges the commander's forename ('Gonzalo?'); the hedge is resolved by the record's own content, which names soldier Alvarado exactly as Bancroft's footnote does. (3) Davis reports that Yoscolo afterwards carried off two hundred girls from Santa Clara and joined Estanislao in the Mariposa country, and that Vallejo was outgeneralled by the Indians. That is Davis's judgement, reported here as his and not as a finding of this register.",
    "symbol": "swords"
   },
   {
@@ -4679,8 +4684,8 @@
    "coord_precision": "place",
    "type": "raid",
    "layer": "mexican",
-   "summary": "CHAGUANOSOS (Shawnees from New Mexico, under Canadian chiefs, in league with trappers). Stole 1,200 horses from San Luis Obispo. \"Well armed, ready for any kind of profitable adventure.\" Pursuers from LA saw \"the foe retiring deliberately and independently\" but \"thought it imprudent to risk a conflict, especially when they saw that among the Chaguanosos there were more Americans than Indians.\"",
-   "result": "Raiders escaped unchallenged; Mexicans too afraid to attack",
+   "summary": "The Chaguanosos, raiding out of the New Mexican region. Bancroft calls them «ostensibly traders, under Canadian chiefs, and in league with the roving bands of trappers», «well armed, ready for any kind of profitable adventure or speculation»; Osio calls them Shauanoos, which Bancroft himself queries as Shawnees with a question mark, so the identification is reported here as Osio's and not settled. Their one clearly defined exploit of the period was «the stealing of twelve hundred horses from San Luis Obispo in April 1840». Of the Los Angeles parties sent after them, Bancroft says one «seems to have come in sight of the foe retiring deliberately and independently with the stolen animals; but the pursuers thought it imprudent to risk a conflict, especially when they saw that among the Chaguanosos there were more Americans than Indians».",
+   "result": "Horses taken; the pursuit was fought, not declined. Palomares attacked the raiders on 19 May and came away with two of the pursuers dead, one wounded and the caballada lost, his own men having gone over to Los Angeles; he recovered caballadas beyond the Matanceras the same day.",
    "quote": null,
    "sources": [
     {
@@ -4715,13 +4720,13 @@
      "link_note": "link probable, not confirmed by the record itself"
     },
     {
-     "citation": "Dept. St. Pap., Angeles (C-A 34), Prefecturas y Juzgados tomo iv, doc pp. 426-429, scan n525-n526, Doc 1292. Tiburcio Tapia to the jueces de paz 1o and 2o, 23 May 1840 - a 10-man advance guard sent to observe the enemy; the raiders had gone with the caballada and darkness prevented tracking; the pursuit party inventoried at 13 men, 4 muskets, 7 pairs of pistols, 19 lances, 22 sabres, 445 cartridges.",
-     "ca_record": null,
+     "citation": "Dept. St. Pap., Angeles (C-A 34), Prefecturas y Juzgados tomo iv, orig. pp. 426-429, scan n525-n526, Doc 1292. Tiburcio Tapia to the jueces de paz 1º and 2º, Los Ángeles, 23 May 1840: a 10-man advance guard sent out the day before to observe the enemy; the raiders had already gone and the dark prevented tracking. ⚠ Leaf-verified at n526: «la partida se compone de 75 hombres provistos de 49 fusiles, 9 pares pistolas, 19 lanzas, 22 espadas y sables y 445 cartuchos todo en buen estado». The catalogue abstract reads 13 men, 4 muskets and 7 pairs of pistols; the leaf reads 75, 49 and 9.",
+     "ca_record": "ca34-d1292",
      "ia_leaf_url": "https://archive.org/details/168036072_80_16/page/n525"
     },
     {
-     "citation": "Dept. St. Pap., Angeles (C-A 34), Prefecturas y Juzgados tomo iv, doc pp. 430-432, scan n526, Doc 1293. Ignacio Palomares (San Bernardino) to the juez de paz, 19 May 1840 - combat report: of a 23-man party, in an attack on the Chaguanosos there were deaths; he broke off as tired horses let his men fall to the raiders.",
-     "ca_record": null,
+     "citation": "Dept. St. Pap., Angeles (C-A 34), Prefecturas y Juzgados tomo iv, orig. pp. 431-432, scan n526, Doc 1293. Ignacio Palomares (San Bernardino) to the juez de paz, 19 May 1840, leaf-verified: he reached the point at 8 p.m. with 8 of the 23 his party had numbered, «y en un ataque á los Chaguanosos, murieron 2 de otra partida uno de razon un indio y toda la caballada y uno q.e salió herido; que salió á escape por que del rancho de las animas se pasó á los Ang.s la gente que lo acompañaba». Offered 50 men, he answers that they will be like the muchachos he took from Los Ángeles, «no saben el manejo de las armas». ⚠ The catalogue abstract gives the flight to tired horses; the leaf gives it to his escort leaving for Los Ángeles.",
+     "ca_record": "ca34-d1293",
      "ia_leaf_url": "https://archive.org/details/168036072_80_16/page/n526"
     },
     {
@@ -4744,7 +4749,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "This is the richest feature in the batch: nine C-A records, two of them matching Bancroft's footnote page citations exactly. NUMBERS DISCREPANCY, flagged not reconciled: the map and Bancroft say 1,200 horses; the two governor's circulars of 9 May 1840 (ca43-d554, ca45-d83) say 1,000 and 'mas de 1000 bestias'; Casarín's order (ca49-d562) says 1,000+; and Carrillo's own campaign parte (ca34-d1321, ca34-d1308) says the raiders were driving about 3,000 head and lost more than half of them, abandoning about 1,500 dead animals. The manuscripts do not support a single figure. DATE: the map says April 1840; the San Luis Obispo report is dated 24 April, relayed 26 April, and the governor's circulars follow on 9 May, with the Los Angeles pursuit running 19-30 May. CORRECTION to the map's claim that the pursuers never engaged: ca34-d1293 records Palomares's party of 23 actually attacking the Chaguanosos with deaths on the field before he broke off, and ca34-d1307 records him recovering the caballadas beyond the Matanceras with one man wounded and one unaccounted for. Bancroft's 'thought it imprudent to risk a conflict' describes Carrillo's later party, not Palomares's.",
+   "notes": "This is the richest feature in the batch: nine C-A records, two of them matching Bancroft's footnote page citations exactly. NUMBERS DISCREPANCY, flagged not reconciled: the map and Bancroft say 1,200 horses; the two governor's circulars of 9 May 1840 (ca43-d554, ca45-d83) say 1,000 and 'mas de 1000 bestias'; Casarín's order (ca49-d562) says 1,000+; and Carrillo's own campaign parte (ca34-d1321, ca34-d1308) says the raiders were driving about 3,000 head and lost more than half of them, abandoning about 1,500 dead animals. The manuscripts do not support a single figure. DATE: the map says April 1840; the San Luis Obispo report is dated 24 April, relayed 26 April, and the governor's circulars follow on 9 May, with the Los Angeles pursuit running 19-30 May. CORRECTED on the leaf: the map read 'raiders escaped unchallenged; Mexicans too afraid to attack'. ca34-d1293, read at n526, records an attack on the Chaguanosos in which two of the pursuers died (one de razón, one Indian), one was wounded and the whole caballada was lost; ca34-d1307 records Palomares recovering caballadas beyond the Matanceras the same day, with José Mª Almenara wounded and 'el Chino Véjar' unaccounted for. Bancroft's 'thought it imprudent to risk a conflict' describes a different party, not Palomares's. ⚠ Two catalogue abstracts in this group disagree with their own leaves: ca34-d1292 on the pursuit party's strength, ca34-d1293 on why Palomares fled.",
    "symbol": "flame"
   },
   {
