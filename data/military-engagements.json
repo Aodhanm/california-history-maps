@@ -1228,7 +1228,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Jose de la Guerra (comandante, Monterey) to Gov. Jose Joaquin de Arrillaga, 29 Jan. 1804, 'Espedicion contra Indios' - Provincial State Papers, Benicia (Military) (BANC MSS C-A 16), tomo xxxiv. 183-4 / scan n265-266 (Savage pp. 266-267), Doc 449.",
+     "citation": "Jose de la Guerra (comandante, Monterey) to Gov. Jose Joaquin de Arrillaga, 29 Jan. 1804, 'Espedicion contra Indios' - Provincial State Papers, Benicia (Military) (BANC MSS C-A 16), tomo xxxiv. 183-4 / scan n265-266 (Savage pp. 266-267), Doc 449. ⚠ Date unsettled: Savage's heading reads 1804, which this citation follows and from which the feature's December 1803 dating is derived; the catalogue enters the record under 29 January 1805 and flags Savage's year as its own note. If the catalogue is right the episode belongs to December 1804. One leaf read would settle it; it has not been done.",
      "ca_record": "ca16-d449",
      "ia_leaf_url": "https://archive.org/details/168035972_79_18_2/page/n265"
     }
@@ -2464,7 +2464,7 @@
      "ia_leaf_url": null
     },
     {
-     "citation": "Gov. Pablo Vicente de Solá to P. Fr. [Luis] Antonio Martínez, Monterey, 17 June 1816, 'Instruido de cuanto le acaeció en la Expedicion' · Prov. Rec. (BANC MSS C-A 26), tomo xi, orig. p. 334 / scan n352 (Savage B-333-335 / scan n352), Doc 1127. The governor's acknowledgement of Fr. Martínez's report on the Tulares expedition; the Jun 8 entry on the same leaf names him in full as 'P. Fr. Luis Antº Martinez'.",
+     "citation": "Gov. Pablo Vicente de Solá to P. Fr. [Luis] Antonio Martínez, Monterey, 17 June 1816, 'Instruido de cuanto le acaeció en la Expedicion' · Prov. Rec. (BANC MSS C-A 26), tomo xi, orig. p. 334 / scan n352 (Savage B-333-335 / scan n352), Doc 1127. The governor's acknowledgement of Fr. Martínez's report on the Tulares expedition; the Jun 8 entry on the same leaf names him in full as 'P. Fr. Luis Antº Martinez'. ⚠ The catalogue dates this record 11 June 1816 against the 17 June given here; the cited page, 334, falls inside the record's span of 333-335, so the entry probably covers more than one oficio. Unresolved.",
      "ca_record": "ca26-d1127",
      "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n352",
      "link_note": "the administrative echo of the expedition, not a narrative of the Bubal incident itself"
@@ -3057,9 +3057,9 @@
    "register_no": "41",
    "name": "English Ship at Bodega with Cannons on Land",
    "date": {
-    "iso": "1793",
-    "display": "1793",
-    "confidence": "year"
+    "iso": "1793-03-15",
+    "display": "15 March 1793",
+    "confidence": "exact"
    },
    "coords": [
     38.328,
@@ -3068,8 +3068,8 @@
    "coord_precision": "place",
    "type": "standoff",
    "layer": "maritime",
-   "summary": "English ship anchored at Bodega with cannons on land; possible temporary fortification. Same year as Spanish Bodega colonization failure.",
-   "result": "Foreign military presence",
+   "summary": "Arrillaga to the viceroy, leaf-verified at C-A 14 n93: «Da parte encontrarse en la boca de P.to de S.n Fran.co un buque ingles, otros fondeados en Bodega, con los cañones en tierra y q.e el Comt.e teme una sorpresa» — one English vessel in the mouth of San Francisco, others anchored at Bodega with their guns put ashore, and the commandant fearing a surprise. Sal's own letter of the next day, read at C-A 54 n261-n263, adds that for sixteen days they had not lost sight of Monterey and San Francisco, «pareciendo á su Guarda-Pescas»; that «por los naturales he sabido que aquí estuvieron mas de dos meses»; that he keeps a daylight lookout, «del día mantengo un vigía á la vista del Puerto»; and that he judged their distress feigned, «no ser cierta la necesidad que manifiestan… no caminan con buenas intenciones». Sal's knowledge of Bodega itself is second-hand, «por carta del Teniente D. José Argüello».",
+   "result": "Foreign armed presence; guns landed at Bodega, and a watch set on the port",
    "quote": null,
    "sources": [
     {
@@ -3083,12 +3083,12 @@
      "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n93"
     },
     {
-     "citation": "State Papers, Sacramento (BANC MSS C-A 54), scan n261-n263, Savage 262-264, Doc 161 (Savage's Doc II-64): Hermenegildo Sal to acting Gov. Arrillaga, San Francisco, 16 Mar. 1793 · the English ship under Captain Brown off San Francisco, and the English at Bodega. Checked at the leaf: this document does not attest the engagement.",
+     "citation": "State Papers, Sacramento (BANC MSS C-A 54), scan n261-n263, Savage 262-264, Doc 161 (Savage's Doc II-64): Hermenegildo Sal to acting Gov. Arrillaga, San Francisco, 16 Mar. 1793 · Sal to Arrillaga, San Francisco, 16 Mar. 1793. Leaf-verified 2026-10-06 across n261-n263 with word-level crops, which corrected four published readings: sixteen days of surveillance, not ten (the ten days are the crew's own claim about their passage to Monterey); more than two months of English presence on the Native report, not six; a daylight watch, not a Sunday one; and «sin perder de vista» is not what the leaf says. Savage transcribed this letter verbatim and in the first person, so Sal's wording is quotable. ⚠ Checked at the leaf: this document does not attest an engagement.",
      "ca_record": "ca54-d161",
-     "ia_leaf_url": null
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_16/page/n261"
     },
     {
-     "citation": "Prov. St. Pap. (BANC MSS C-A 6), tomo x-xi. 254 / scan n276, Savage stamp 276 / ink folio 92, Doc 217: Viceroy Revilla Gigedo to Gov. Arrillaga, Mexico, 6 July 1793 · 'Sobre ocupacion del Puerto de Bodega.'",
+     "citation": "Prov. St. Pap. (BANC MSS C-A 6), tomo x-xi. 254 / scan n276, Savage stamp 276 / ink folio 92, Doc 217: Viceroy Revilla Gigedo to Gov. Arrillaga, Mexico, 6 July 1793 · 'Sobre ocupacion del Puerto de Bodega.' The AGN file long cited alongside this record has since been located: AGN, Californias, vol. 9, exp. 3, ff. 40-147v, «Quad.º N.º 19» in the manuscript's own hand, titled «Sobre fortificar los Puertos de San Fran.co, Monterrey, y San Diego con Artillería, pertrechos y demás utiles», 1792-1794. A reading of its first 16 leaves found no occupation material; whether it also carries the Bodega orders is left open. The C-A record itself is unaffected.",
      "ca_record": "ca6-d217",
      "ia_leaf_url": "https://archive.org/details/168036075_79_8/page/n276"
     },
@@ -3110,7 +3110,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "DATE PRECISION: the report is of 15 March 1793 (written from San Diego), not merely '1793'; confirmed two ways: the leaf shows the item inside Savage's 'Marzo 15 (3 Docs) - pp. 233-6' cluster, and ca6-d217 records the viceroy acknowledging Arrillaga's news 'en 15 de Marzo... sobre haber visto los indios de S.n Fran.co ancladas embarcaciones inglesas en Bodega.' NOTE the manuscript has ships PLURAL at Bodega ('otros fondeados en Bodega') and one vessel at the San Francisco mouth; the feature's singular 'English ship at Bodega' is slightly off. DISCREPANCY: Bancroft I:514 n.28 renders the natives' report as the vessel 'hanging about the coast for two months,' while Savage's copy of Sal (ca54-d161) says the English had been at Bodega 'mas de seis meses.'",
+   "notes": "DATE PRECISION: the report is of 15 March 1793 (written from San Diego), not merely '1793'; confirmed two ways: the leaf shows the item inside Savage's 'Marzo 15 (3 Docs) - pp. 233-6' cluster, and ca6-d217 records the viceroy acknowledging Arrillaga's news 'en 15 de Marzo... sobre haber visto los indios de S.n Fran.co ancladas embarcaciones inglesas en Bodega.' The plural at Bodega and the single vessel at the San Francisco mouth are now in the summary, in the manuscript's own words. DISCREPANCY: Bancroft I:514 n.28 renders the natives' report as the vessel 'hanging about the coast for two months,' while Savage's copy of Sal (ca54-d161) says the English had been at Bodega 'mas de seis meses.'",
    "symbol": "standoff"
   },
   {
