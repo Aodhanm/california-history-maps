@@ -213,6 +213,21 @@
       f.facts.forEach(function (row) { h += '<tr><th>' + esc(row[0]) + '</th><td>' + esc(row[1]) + '</td></tr>'; });
       h += '</tbody></table>';
     }
+    if (f.series && f.series.length) {
+      h += '<details class="series-box"><summary>' + esc(f.series_label || 'Dated series') +
+           ' (' + f.series.length + ' entries)</summary>';
+      h += '<table class="series"><tbody>';
+      f.series.forEach(function (row) {
+        var srec = row[3] || citeToRecord(row[2], f.ca_volume);
+        var scite = row[2]
+          ? ' <span class="cite">' + (srec
+              ? '<a href="' + caUrl(srec) + '" target="_blank" rel="noopener">' + esc(row[2]) + '</a>'
+              : esc(row[2])) + '</span>'
+          : '';
+        h += '<tr><td>' + esc(row[0]) + '</td><td>' + esc(row[1]) + scite + '</td></tr>';
+      });
+      h += '</tbody></table></details>';
+    }
     if (f.quotes && f.quotes.length) f.quotes.forEach(function (q) {
       h += '<blockquote class="src-quote">' + esc(q.text) + (q.cite ? '<cite>; ' + esc(q.cite) + '</cite>' : '') + '</blockquote>';
     });
