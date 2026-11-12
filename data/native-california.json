@@ -21534,8 +21534,8 @@
    "register_no": null,
    "name": "The rancherías behind Carmel, in Serra's padrón of 1781",
    "date": {
-    "iso": null,
-    "display": "",
+    "iso": "1781-12-22",
+    "display": "22 December 1781",
     "confidence": "exact"
    },
    "coords": [
@@ -21545,7 +21545,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "Serra counted his neophytes not as a mission population but by the rancherías they came from: San Carlos 23 married men and 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18; 96 adult males in all. Behind the mission's single number stand five named communities. Since the mission's founding 659 Indians had been baptised and 243 had died.",
+   "summary": "Serra counted his neophytes not as a mission population but by the rancherías they came from: San Carlos 23 married men and 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18; 96 adult males in all, though the named rancherías as listed sum to 92. Behind the mission's single number stand five named communities. Since the mission's founding 659 Indians had been baptised and 243 had died.",
    "result": "",
    "quote": null,
    "sources": [

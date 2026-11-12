@@ -479,11 +479,6 @@
      "C-A 10 Doc 148; C-A 23 Doc 1257; C-A 24 Doc 599"
     ],
     [
-     "1797 Apr",
-     "57 men (4 plazas vacant); short 13 muskets, 6 cueras, 19 sword-guards, 'armamento en uso… en mediano estado'; 4@ 17 lb powder, 3,600 musket cartridges, 1,900 gunflints, 113 @ lead; 124 horses, 109 mules",
-     "C-A 54 Doc 3"
-    ],
-    [
      "1799 Jan",
      "63 plazas (Borica's Estado; the largest company)",
      "C-A 10 Doc 233"
@@ -617,11 +612,6 @@
      "citation": "Monterey company, Nov 1833 · 35 hombres (C-A 19), doc 207",
      "ca_record": "ca19-d207",
      "ia_leaf_url": null
-    },
-    {
-     "citation": "Monterey muster roll & arms report, Apr 1797 (C-A 54), doc 3",
-     "ca_record": "ca54-d3",
-     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -673,6 +663,12 @@
      "1784 Apr",
      "2 bronze 4-pdrs on carriages; 58 muskets (46 of 1780 + 12 short of 1775), 57 pairs of pistols",
      "C-A 3 Doc 97"
+    ],
+    [
+     "1787 Nov 3",
+     "56 men on Goycoechea's roll (1 lieutenant, 3 sergeants, 2 corporals, 50 soldiers, 4 plazas vacantes, the alférez post vacant); short 13 escopetas, 6 cueras, 19 sword-guards, 'Armamento en uso está en mediano estado'; 42 @ of 17-lb powder, 3,600 musket cartridges, 1,900 gunflints, 113 @ lead plate; 124 horses, 109 mules. The same return records the third curtain-wall of the presidio finished, 'con Iglesia, casas de oficiales, casa de capellan, y 5 casas de soldados'. ⚠ The catalogue enters this as Monterey, April 1797; the leaf is headed '1787. Nov. 3. Sta Bárb.ª' and the roll is Santa Bárbara's. Leaf-verified.",
+     "C-A 54 Doc 3",
+     "ca54-d3"
     ],
     [
      "1788 Nov",
@@ -854,6 +850,11 @@
      "citation": "Ibarra, fuerza de la guarnición de Santa Bárbara, 25 Dec 1834 (C-A 19), doc 278",
      "ca_record": "ca19-d278",
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Goycoechea, Compañía presidial de Santa Bárbara, muster roll and arms/munitions return, 3 November 1787 (C-A 54), doc 3 · leaf-verified; the catalogue enters it as Monterey, April 1797",
+     "ca_record": "ca54-d3",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_16/page/n4"
     }
    ],
    "native_groups": [],

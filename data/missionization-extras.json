@@ -279,7 +279,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran about 30 to 56 men for most of the Spanish period and never surged to meet the Russian arrival in 1812.",
+   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran from 26 men in 1780 to a peak of 73 in 1808, and it did not grow to meet the Russian arrival of 1812: 57 soldiers and 4 artillerymen in 1815, 54 in 1818.",
    "sources": [
     {
      "citation": "Presidio garrison & artillery register (vault), compiled from C-A 10, 16, 21, 54",
@@ -289,6 +289,26 @@
     {
      "citation": "Neve's 'Fundación de Misiones' report names the new Presidio of San Francisco: C-A 22 Doc 170 (1777) (catalog-matched 2026-10-16; leaf review pending)",
      "ca_record": "ca22-d170"
+    },
+    {
+     "citation": "SF founding company list, 1 May 1780 — Moraga, Grijalva, 4 cabos, 26 soldiers: C-A 21 Doc 152",
+     "ca_record": "ca21-d152",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "SF presidial company muster, 1 Dec 1808 — 73 men + 5 artillery + 9 invalids: C-A 16 Doc 604",
+     "ca_record": "ca16-d604",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "SF company and arms, 4 Dec 1815 — 57 soldiers: C-A 21 Doc 150",
+     "ca_record": "ca21-d150",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "SF company muster, Oct 1818 (the Bouchard year): C-A 21 Doc 66",
+     "ca_record": "ca21-d66",
+     "ia_leaf_url": null
     }
    ],
    "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
@@ -318,6 +338,16 @@
     {
      "citation": "Viceroy Croix's measures to establish the Presidio of Monterey and the missions: C-A 1 Doc 23 (12 Nov 1770)",
      "ca_record": "ca1-d23"
+    },
+    {
+     "citation": "Estudillo's estado de fuerza efectiva, Monterey, 1 Nov 1809 — the garrison dispersed, 4 men on the battery: C-A 54 Doc 239",
+     "ca_record": "ca54-d239",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Borica's 1 Jan 1799 Estado of the whole establishment — Monterey the largest company at 63 plazas: C-A 10 Doc 233",
+     "ca_record": "ca10-d233",
+     "ia_leaf_url": null
     }
    ],
    "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
@@ -342,6 +372,21 @@
     {
      "citation": "Presidio garrison & artillery register (vault)",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Muster of the force raised to garrison Santa Bárbara, revista of 1 Nov 1781 (Ortega commanding): C-A 2 Doc 143",
+     "ca_record": "ca2-d143",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Santa Bárbara presidial muster, 1 Sep 1782 — 51 soldiers, 58 men: C-A 54 Doc 229",
+     "ca_record": "ca54-d229",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Goycoechea's war assessment, 31 May 1797 — '118 cartuchos' for the six-pounder, no artilleryman to serve it, and his refusal to build a beach battery: C-A 8 Doc 292",
+     "ca_record": "ca8-d292",
      "ia_leaf_url": null
     }
    ],
@@ -368,6 +413,16 @@
      "citation": "Presidio garrison & artillery register (vault)",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "San Diego presidial company, full nominal roster, 1 Sep 1783 — 5 corporals and 43 soldiers, 50 men: C-A 54 Doc 117",
+     "ca_record": "ca54-d117",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "State and needed reinforcement of the California presidios, 16 Jul 1793 — the guns dismounted, 'sin q.e haya quien los maneje': C-A 15 Doc 515",
+     "ca_record": "ca15-d515",
+     "ia_leaf_url": null
     }
    ],
    "notes": "Rows cited 'presidio register' rest on the vault's register compilation; their catalog doc numbers are still being resolved and they carry no link by design."
@@ -387,11 +442,26 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The old Baja capital, included for context: its company (47 to 85 men plus a small marine department) was comparable to any Alta California presidio.",
+   "summary": "The old Baja capital, included for context: its company ran from 44 men in 1783 to 85 in 1805, with a marine department attached — six rated men in 1783, and thirty of maestranza y marinería alongside 68 plazas in Borica's Estado of 1799. It was comparable to any Alta California presidio.",
    "sources": [
     {
      "citation": "Presidio garrison & artillery register (vault)",
      "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Loreto presidial company roster, 1 Jun 1783 — Cañete, 2 sergeants, 3 corporals, 39 soldiers, plus the Departamento de Marina: C-A 62 Doc 17",
+     "ca_record": "ca62-d17",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Borica's Estado of the peninsula, 1 Jan 1799 — 68 plazas with 30 of maestranza y marinería: C-A 10 Doc 233",
+     "ca_record": "ca10-d233",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Loreto presidial company muster, 31 Dec 1805 — 85 men: C-A 16 Doc 550",
+     "ca_record": "ca16-d550",
      "ia_leaf_url": null
     }
    ],

@@ -74,7 +74,7 @@
     ],
     [
      "1795 Mar",
-     "1,275 gente de razón in the whole of Alta California — 4 presidios + 2 pueblos; of these only 368 were vecinos, the rest military families",
+     "1,275 gente de razón in the whole of Alta California — 4 presidios + 2 pueblos; of these only 368 were vecinos, the rest military families. The six establishments as the document lists them — San Diego 231, Santa Bárbara 253, Monterey 255, San Francisco 153, Los Ángeles 186, San José 182 — sum to 1,260, fifteen short of its own total.",
      "St. Pap., Sacramento (C-A 56) Doc 378 — province-wide census of both Californias",
      "ca56-d378"
     ],
@@ -98,8 +98,9 @@
     ],
     [
      "1817",
-     "mission ledger: 64,675 baptized / 41,757 died / 20,238 living since founding (+ a fourth reconciliation column, 3,205)",
-     "C-A 50 Doc 387"
+     "mission ledger: 64,675 baptized / 41,757 died / 20,238 living since founding (+ a fourth reconciliation column, 3,205). Baptisms less deaths give 22,918 against the 20,238 living the ledger states; the 2,680 difference is runaways and transfers, not an error of reading.",
+     "St. Pap., Missions (C-A 50) Doc 401 — the since-conquest cumulative estado for the 19 missions to the end of 1817",
+     "ca50-d401"
     ],
     [
      "1822 Apr",
@@ -124,8 +125,9 @@
     ],
     [
      "1833 Dec",
-     "Durán's cumulative Cuadro Estadístico for the 13 Fernandino (southern) missions: 52,882 baptized / 14,533 married / 38,417 died / 10,482 living",
-     "C-A 50 Doc 427"
+     "Durán's cumulative Cuadro Estadístico for the 13 Fernandino (southern) missions: 52,882 baptized / 14,533 married / 38,417 died / 10,482 living. Baptisms less deaths give 14,465 against the 10,482 living stated, a difference of 3,983.",
+     "St. Pap., Missions (C-A 50) Doc 441 — the 1833 cumulative Cuadro Estadístico of the 13 Fernandino missions",
+     "ca50-d441"
     ]
    ],
    "series_label": "Counted",
@@ -858,11 +860,11 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The old capital counted in 1790: 399 souls, a fifth of them under the fuero militar.",
+   "summary": "The old capital counted in 1790: 399 souls, fifty of them under the fuero militar and nineteen more in the marine department.",
    "series": [
     [
      "1790 Dec",
-     "399 souls (3 europeos, 73 espanoles, 152 indios, 10 mulatos, 158 otras castas)",
+     "399 souls (3 europeos, 73 españoles, 152 indios, 10 mulatos, 158 otras castas; by class 50 fuero militar, 19 tropa de marina, 9 jornaleros, 1 ranchero, 3 religiosos). The caste columns and the sex columns each sum to 396, three short of the stated total.",
      "C-A 50 Doc 39"
     ],
     [
@@ -914,11 +916,11 @@
    "coord_precision": "place",
    "type": "settlement",
    "layer": "presidios",
-   "summary": "The southern mining district, the most casta-diverse place in either California: 696 souls with 5 miners, 16 rancheros, and 93 others by trade.",
+   "summary": "The southern mining district: 696 souls, 5 miners, 16 rancheros, 93 day labourers and 8 artisans. Mulatos and other castas together make up 361 of the count, over half, the highest share of any place in this census series.",
    "series": [
     [
      "1790",
-     "696 souls (3 europeos, 133 espanoles, 178 indios, 157 mulatos, 204 castas)",
+     "696 souls (3 europeos, 133 españoles, 178 indios, 157 mulatos, 204 castas, 1 religioso). The caste columns sum to 676 and the sex columns to 695, against the 696 the document states.",
      "C-A 50 Doc 29"
     ],
     [
@@ -969,7 +971,7 @@
    "series": [
     [
      "1781 Dec 22",
-     "Serra's padrón of the neophytes by ranchería — 96 adult males (San Carlos 23 married + 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18); 659 Indians baptized since the mission's founding, 243 dead",
+     "Serra's padrón of the neophytes by ranchería — 96 adult males (San Carlos 23 married + 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18 — the rancherías as listed sum to 92, four short of the padrón's own total); 659 Indians baptized since the mission's founding, 243 dead",
      "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 163 — padrón of neophyte Indians at Mission San Carlos, by Serra",
      "ca15-d163"
     ],

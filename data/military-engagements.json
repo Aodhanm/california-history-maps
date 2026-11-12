@@ -436,8 +436,8 @@
    "coord_precision": "conjectural",
    "type": "battle",
    "layer": "phase1",
-   "summary": "From the hoja de servicios of Sargento Mariano de la Luz Verdugo: in 1769 he was one of the party that, by order of Capt. Fernando de Rivera y Moncada, \"sostuvieron el ataque que hicieron los gentiles en el parage de la Cieneguilla en que se mataron 8\"; the gentiles attacked and the party withstood it, with eight of the attackers killed. Verdugo's earlier 1781 service sheet describes the same action.",
-   "result": "Attack withstood; 8 gentiles killed",
+   "summary": "From the hoja de servicios of Sargento Mariano de la Luz Verdugo: in 1769 he was one of the party that, by order of Capt. Fernando de Rivera y Moncada, \"sostuvieron el ataque que hicieron los gentiles en el parage de la Cieneguilla en que se mataron 8\"; the gentiles attacked and the party withstood it, with eight of the attackers killed. Verdugo's earlier 1781 service sheet describes the same action. The hoja does not say on which side the eight died.",
+   "result": "Attack withstood; 8 killed, the side not stated",
    "quote": {
     "es": "sostuvieron el ataque que hicieron los gentiles en el parage de la Cieneguilla en que se mataron 8",
     "en": "they withstood the attack the gentiles made at the paraje of la Cieneguilla, in which 8 were killed",
@@ -825,8 +825,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "yuma",
-   "summary": "\"De los 21 que eran se mataron allí once, y que 10 eran los fugados.\" Fr. Señan reports 10 killed. Solá orders vigía on Colorado River Indians.",
-   "result": "11 killed",
+   "summary": "Guerra's first parte: «De los 21 que eran se mataron allí once, y que 10 eran los fugados.» Fr. Señán reports ten killed, and Solá queried the figures, asking whether six others were killed or only wounded. Solá orders a vigía on the Colorado River Indians.",
+   "result": "Figures disputed in the record (Guerra 11, Señán 10)",
    "quote": null,
    "sources": [
     {
