@@ -6,6 +6,11 @@
    "color": "#5b7f92"
   },
   {
+   "id": "arguello",
+   "label": "Solá and Argüello, Mexican period (1822–1825)",
+   "color": "#7a6a9b"
+  },
+  {
    "id": "echeandia",
    "label": "Echeandía (1825–1831)",
    "color": "#8aa05a"
@@ -6256,7 +6261,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Grantee: Isaac Graham and William Ware. Granted 1834. 2,658 acres. U.S. land case ND 342: Confirmed.",
+   "summary": "Grantee: Isaac Graham and William Ware. Granted 1834, and again on 22 April 1841 by Gov. Juan B. Alvarado to Juan José Crisóstomo Mayor, which is the instrument Hoffman prints. 2,658 acres. U.S. land case ND 342: Confirmed.",
    "owner": "Isaac Graham and William Ware",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-zayanta-santa-cruz-co-calif-by-james-w-wee--rec78712.jpg",
    "land_case": "ND 342",
@@ -6270,7 +6275,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264179"
     }
    ],
-   "notes": null,
+   "notes": "Two instruments. The pin is coloured for Alvarado's administration, under which the operative grant was made; the 1834 date is the earlier one, under Figueroa.",
    "tags": [],
    "polygon": [
     [
@@ -11971,8 +11976,8 @@
    "id": "rancho-milpitas",
    "name": "Milpitas (Alviso)",
    "date": {
-    "iso": "1830",
-    "display": "1830",
+    "iso": "1835",
+    "display": "1835",
     "confidence": "year"
    },
    "coords": [
@@ -11982,7 +11987,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1830 by the interim government to José María Alviso. Present-day Santa Clara County. 4,457 acres. U.S. land case ND 037: Confirmed.",
+   "summary": "Granted 23 September 1835 by José Castro to José María Alviso. Present-day Santa Clara County. 4,457 acres. U.S. land case ND 037: Confirmed.",
    "owner": "José María Alviso",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-sitio-del-rancho-milpitas-santa-clara-co-calif--rec79006.jpg",
    "land_case": "ND 037",
@@ -11996,7 +12001,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264424"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map dated this 1830 and named only 'the interim government'. Hoffman (commission 141, N.D. 37) reads 'granted September 23d, 1835, by Jose Castro to J. M. Alviso'. Castro succeeded as gefe político ad interim on Figueroa's death on 29 September 1835, six days after this grant; Bancroft writes that it is not known what duties, if any, Castro performed as acting gefe earlier that month, so the office he held on the day is unsettled.",
    "tags": [
     "Santa Clara"
    ],
@@ -21550,7 +21555,7 @@
    ],
    "coord_precision": "exact",
    "type": "rancho",
-   "layer": "spanish",
+   "layer": "arguello",
    "summary": "Granted 1823 by Luis Antonio Argüello, acting governor, to José Mariano Estrada. Present-day Monterey County. 8,446 acres. U.S. land case SD 151: Confirmed.",
    "owner": "David Spence",
    "image": null,
@@ -27451,7 +27456,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Grantee: Pedro Sainsevain. Granted 1843. 5,826 acres. U.S. land case SD 391: Confirmed.",
+   "summary": "Grantee: Pedro Sainsevain. Granted 1843 under Micheltorena and completed under Pío Pico. 5,826 acres. U.S. land case SD 391: Confirmed.",
    "owner": "Pedro Sainsevain",
    "image": null,
    "land_case": "SD 391",
@@ -27465,7 +27470,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/269009"
     }
    ],
-   "notes": null,
+   "notes": "Two administrations. The pin is coloured for Pío Pico, under whom the title was completed; the 1843 date is the earlier instrument, under Micheltorena. This docket has no entry in Hoffman's printed appendix.",
    "tags": [],
    "polygon": [
     [
@@ -28278,7 +28283,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Grantee: Ignacio Peralta. Granted 1820. 9,416 acres. U.S. land case ND 099: Confirmed.",
+   "summary": "Grantee: Ignacio Peralta. Granted 1820 by Gov. Pablo Vicente de Solá to Luis Peralta, with later instruments under Argüello and Micheltorena. 9,416 acres. U.S. land case ND 099: Confirmed.",
    "owner": "Ignacio Peralta",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/map-of-the-rancho-san-antonio-alameda-county-calif--rec78588.jpg",
    "land_case": "ND 099",
@@ -28292,7 +28297,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265459"
     }
    ],
-   "notes": null,
+   "notes": "Three administrations. Hoffman (commission 274, N.D. 99) names Pablo V. de Solá as grantor in 1820 and Luis Peralta as grantee; Ignacio Peralta was among the heirs. The pin is coloured for Micheltorena, under whom the last instrument was issued, which is why a grant dated 1820 appears in that band.",
    "tags": [],
    "polygon": [
     [
@@ -32825,7 +32830,7 @@
    ],
    "coord_precision": "exact",
    "type": "rancho",
-   "layer": "spanish",
+   "layer": "arguello",
    "summary": "Granted 1822 to Mariano Malarín, attorney for José S. Estrada. Present-day Monterey County. 7,725 acres. U.S. land case SD 204: Confirmed.",
    "owner": "Mariano Malarin, attorney for José S. Estrada",
    "image": null,
@@ -35424,7 +35429,7 @@
    ],
    "coord_precision": "exact",
    "type": "rancho",
-   "layer": "interim",
+   "layer": "alvarado",
    "summary": "Granted 10 August 1841 by Gov. Juan B. Alvarado to Joaquín Moraga and Juan Bernal. Present-day Contra Costa County. 13,316 acres. U.S. land case ND 276: Confirmed.",
    "owner": "Joaquín Moraga",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-laguna-de-los-palos-colorados-calif--rec78642.jpg",
@@ -37144,7 +37149,7 @@
    ],
    "coord_precision": "exact",
    "type": "rancho",
-   "layer": "spanish",
+   "layer": "arguello",
    "summary": "Granted 22 June 1822 by Gov. Pablo Vicente de Solá to José Joaquín de la Torre. Present-day Monterey County. 6,915 acres. U.S. land case SD 007: Confirmed.",
    "owner": "John B. R. Cooper",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-bolsa-del-potrero-y-moro-cojo-or-la-sagrad--rec79251.jpg",
@@ -89124,7 +89129,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Grantee: Vicente and Domingo Peralta. Granted 1820. 18,848 acres. U.S. land case ND 021: Confirmed.",
+   "summary": "Grantee: Vicente and Domingo Peralta. Granted 1820 under Solá, with later instruments under Argüello and Micheltorena. 18,848 acres. U.S. land case ND 021: Confirmed.",
    "owner": "Vicente and Domingo Peralta",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/map-of-the-rancho-san-antonio-alameda-county-calif--rec78588.jpg",
    "land_case": "ND 021",
@@ -89138,7 +89143,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264410"
     }
    ],
-   "notes": null,
+   "notes": "Three administrations. The pin is coloured for Micheltorena, under whom the last instrument was issued, which is why a grant dated 1820 appears in that band. This docket has no entry in Hoffman's printed appendix.",
    "tags": [],
    "polygon": [
     [
@@ -91069,7 +91074,7 @@
    ],
    "coord_precision": "exact",
    "type": "rancho",
-   "layer": "alvarado",
+   "layer": "micheltorena",
    "summary": "Granted 3 December 1843 by Gov. Manuel Micheltorena to Francisco Rivera. 48,821 acres. U.S. land case ND 062: Confirmed.",
    "owner": "Juan P. Pacheco",
    "image": null,
@@ -101488,8 +101493,8 @@
    "id": "rancho-santa-rosa-island",
    "name": "Santa Rosa Island",
    "date": {
-    "iso": "1841",
-    "display": "1841",
+    "iso": "1843",
+    "display": "1843",
     "confidence": "year"
    },
    "coords": [
@@ -101499,7 +101504,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Grantee: Manuela Carrillo de Jones. Granted 1841. 62,696 acres. U.S. land case SD 056: Confirmed.",
+   "summary": "Grantee: Manuela Carrillo de Jones. Granted 4 October 1843 by Gov. Manuel Micheltorena to José Antonio and Carlos Carrillo. 62,696 acres. U.S. land case SD 056: Confirmed.",
    "owner": "Manuela Carrillo de Jones",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-santa-rosa-santa-barbara-county-calif--rec78544.jpg",
    "land_case": "SD 056",
@@ -101513,7 +101518,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266093"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map dated this 1841, under Alvarado. Hoffman (commission 117, S.D. 56) reads 'granted October 4th, 1843, by Manuel Micheltorena to Jose Antonio and Carlos Carrillo'. Manuela Carrillo de Jones was the claimant, not the grantee.",
    "tags": [],
    "polygon": [
     [
