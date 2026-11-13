@@ -1143,7 +1143,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "unattributed",
-   "summary": "Granted 1833 by Gov. Jose Sanchez to Apolinario Miranda. U.S. land case ND 401: Confirmed.",
+   "summary": "Granted 1833 by José Sánchez to Apolinario Miranda. U.S. land case ND 401: Confirmed.",
    "owner": "The",
    "image": null,
    "land_case": "ND 401",
@@ -1157,7 +1157,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264248"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Sánchez was not governor. José Figueroa held the government from 15 January 1833. Hoffman (commission 310, N.D. 401) independently names José Sánchez as the grantor, so the name is not an error of this map, but the office under which he granted is not stated in the printed record and is not asserted here.",
    "tags": [],
    "polygon": [
     [
@@ -1190,7 +1190,7 @@
    "disenos": [],
    "outcome": "Confirmed",
    "grantee": "Apolinario Miranda",
-   "governor_name": "Jose Sanchez",
+   "governor_name": "José Sánchez",
    "acres": 2,
    "patent": {
     "to": "the heirs of Apolinario Miranda",
@@ -1326,7 +1326,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "unattributed",
-   "summary": "Granted 1838 by Gov. Jose E. Estrada (Prefect); Jose Jimeno to Jose R. Buelna; Jose Arana. 176 acres. U.S. land case SD 383: Confirmed.",
+   "summary": "Granted 1838 by José R. Estrada, prefect, to José R. Buelna, and in 1842 by José Jimeno, acting governor, to José Arana. 176 acres. U.S. land case SD 383: the Commission rejected the 1838 grant and confirmed only the 1842 grant.",
    "owner": "Thomas W. Russell and Eliza W. Farnham",
    "image": null,
    "land_case": "SD 383",
@@ -1340,7 +1340,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/269002"
     }
    ],
-   "notes": null,
+   "notes": "⚠⚠ Two corrections. The map called a prefect 'Gov.' and gave his initial as E; Hoffman (commission 747, S.D. 383) reads 'Jose R. Estrada, Prefect'. More seriously, the map published the whole land case as Confirmed: Hoffman records that the Commission REJECTED the 800-vara grant of 1838 and confirmed only the Jimeno grant of 1842.",
    "tags": [],
    "polygon": [
     [
@@ -1379,7 +1379,7 @@
    "rank_note": "among the smallest mapped grants (176 acres)",
    "outcome": "Confirmed",
    "grantee": "Jose R. Buelna; Jose Arana",
-   "governor_name": "Jose E. Estrada (Prefect); Jose Jimeno",
+   "governor_name": "José R. Estrada (prefect); José Jimeno",
    "patent": {
     "date": "June 18, 1859",
     "glo": "213",
@@ -4907,8 +4907,8 @@
    "id": "rancho-mallacomes-moristul",
    "name": "Mallacomes Or Moristul",
    "date": {
-    "iso": "1841",
-    "display": "1841",
+    "iso": "1843",
+    "display": "1843",
     "confidence": "year"
    },
    "coords": [
@@ -4918,7 +4918,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1841 by Gov. Micheltorena to Jose de los Santos Berreyesa. Present-day Napa County. 280 acres. U.S. land case ND 375: Confirmed.",
+   "summary": "Granted October 1843 by Gov. Manuel Micheltorena to José de los Santos Berreyesa. Present-day Napa County. 280 acres. U.S. land case ND 375: Confirmed.",
    "owner": "Martin E. Cook and Rufus Ingalls",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-rancho-mallacomes-or-moristul-y-plan-de-agua-cal--rec79394.jpg",
    "land_case": "ND 375",
@@ -4932,7 +4932,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264211"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map dated this 1841. Micheltorena did not take the oath of office until 31 December 1842. Hoffman (commission 657, N.D. 375) reads 'granted October 1843, by Manuel Micheltorena to Jose de los Santos Berreyesa'.",
    "tags": [
     "Napa"
    ],
@@ -4996,7 +4996,7 @@
    "rank_note": "481st of 493 by area (280 acres)",
    "outcome": "Confirmed",
    "grantee": "Jose de los Santos Berreyesa",
-   "governor_name": "Micheltorena",
+   "governor_name": "Manuel Micheltorena",
    "patent": {
     "to": "Martin E. Cook and Rufus Ingalls",
     "date": "Feb. 18, 1859",
@@ -9453,7 +9453,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1843 by Gov. Alvarado to Antonio del Valle. Present-day Los Angeles County. 4,438 acres. U.S. land case SD 305: Confirmed.",
+   "summary": "Granted 24 February 1843 by Gov. Manuel Micheltorena to Máximo Alanís. Present-day Los Angeles County. 4,438 acres. U.S. land case SD 305: Confirmed.",
    "owner": "Benjamin D. Wilson and W. T. B. Sanford",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-san-jos-de-buenos-ayres-calif--rec78545.jpg",
    "land_case": "SD 305",
@@ -9467,7 +9467,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268931"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map named Alvarado as grantor and Antonio del Valle as grantee. Hoffman (commission 368, S.D. 305) reads 'granted February 24th, 1843, by Manuel Micheltorena to Maximo Alanis'; Alvarado left office on 31 December 1842. Benjamin D. Wilson and others were the 1850s claimants, not the grantees.",
    "tags": [
     "Los Angeles"
    ],
@@ -9539,7 +9539,7 @@
    "rank_note": "371st of 493 by area (4,438 acres)",
    "outcome": "Confirmed",
    "grantee": "Antonio del Valle",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Micheltorena",
    "patent": {
     "to": "Benjamin D. Wilson",
     "date": "July 25, 1866",
@@ -10123,7 +10123,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1821 by Gov. Jose de la Guerra y Noriega to Bernardo Higuera. Present-day Los Angeles County. 3,127 acres. U.S. land case SD 131: Confirmed.",
+   "summary": "Granted 1821 by José de la Guerra y Noriega, comandante of Santa Bárbara, to Bernardo Higuera, and again on 10 July 1843 by Gov. Manuel Micheltorena. Present-day Los Angeles County. 3,127 acres. U.S. land case SD 131: Confirmed.",
    "owner": "Francisco and Secundino Higuera",
    "image": null,
    "land_case": "SD 131",
@@ -10137,7 +10137,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265870"
     }
    ],
-   "notes": null,
+   "notes": "⚠ De la Guerra was never governor. Pablo Vicente de Solá held the government in 1821. Hoffman (commission 409, S.D. 131) carries both instruments: the 1821 grant by de la Guerra to Bernardo Higuera and a second of 10 July 1843 by Micheltorena. The office under which de la Guerra acted is not stated in the printed record; in the analogous Las Ciénegas case the case file calls him military commandant of the southern portion of the territory.",
    "tags": [
     "Los Angeles"
    ],
@@ -10183,7 +10183,7 @@
    "outcome": "Confirmed",
    "leagues": "0.6",
    "grantee": "Bernardo Higuera",
-   "governor_name": "Jose de la Guerra y Noriega",
+   "governor_name": "José de la Guerra y Noriega (comandante of Santa Bárbara); Manuel Micheltorena",
    "patent": {
     "to": "Francisco Higuera et al",
     "date": "Aug. 27, 1872",
@@ -10662,7 +10662,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1841 by Gov. Alvarado; Luis Arenas; Jimeno to Ignacio Palomares and Ricardo Vejar; Luis Arenas. Present-day Los Angeles County. 4,431 acres. U.S. land case SD 121: Confirmed.",
+   "summary": "Granted 15 April 1837 by Juan B. Alvarado, then governor ad interim, to Ignacio Palomares and Ricardo Vejar under the name San José, with a further league of 14 March 1840 under the name Azusa. Present-day Los Angeles County. 4,431 acres. U.S. land case SD 121: Confirmed.",
    "owner": "Henry Dalton",
    "image": null,
    "land_case": "SD 121",
@@ -10676,7 +10676,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265862"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map's grantor field read 'Alvarado; Luis Arenas; Jimeno'. Luis Arenas was a grantee, not a granting officer. Hoffman (commission 364, S.D. 121) names Arenas as the grantor of the second instrument of 14 March 1840 while counting the leagues to Alvarado, Bancroft names no grantor for 1840, and the two cannot be reconciled from the printed record, so no grantor is asserted here for the 1840 league.",
    "tags": [
     "Los Angeles"
    ],
@@ -10750,7 +10750,7 @@
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Ignacio Palomares and Ricardo Vejar; Luis Arenas",
-   "governor_name": "Alvarado; Luis Arenas; Jimeno",
+   "governor_name": "Juan B. Alvarado",
    "patent": {
     "to": "Henry Dalton",
     "date": "May 29, 1876",
@@ -13521,7 +13521,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1821 by a Spanish governor to The. Present-day Santa Clara County. 4,384 acres. U.S. land case ND 228: Confirmed.",
+   "summary": "Granted 1821 by Gov. Pablo Vicente de Solá to José Higuera. Present-day Santa Clara County. 4,384 acres. U.S. land case ND 228: Confirmed.",
    "owner": "The",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/rancho-los-tularcitos-santa-clara-co-calif-exhibit-a--rec78652.jpg",
    "land_case": "ND 228",
@@ -13535,7 +13535,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256562"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map named 'a Spanish governor' and gave the grantee as 'The', a truncation. Hoffman (commission 148, N.D. 228) names P. V. de Solá as grantor and José Higuera as grantee, whose heirs were the claimants.",
    "tags": [
     "Santa Clara"
    ],
@@ -13686,7 +13686,7 @@
    "acres": 4384,
    "rank_note": "394th of 493 by area (4,384 acres)",
    "grantee": "The",
-   "governor_name": "a Spanish governor",
+   "governor_name": "Pablo Vicente de Solá",
    "outcome": "Confirmed",
    "patent": {
     "to": "the heirs of Jos\\u00e9 Higuera",
@@ -15482,7 +15482,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1835 by the interim government to Josefa de Haro. Present-day San Mateo County. 2,219 acres. U.S. land case ND 380: Confirmed.",
+   "summary": "Granted 1835 by José Castro, then gefe político ad interim, to Josefa de Haro. Present-day San Mateo County. 2,219 acres. U.S. land case ND 380: Confirmed.",
    "owner": "Josefa de Haro",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-terreno-que-nombran-de-la-laguna-de-la-merced-y-p--rec78757.jpg",
    "land_case": "ND 380",
@@ -15496,7 +15496,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264231"
     }
    ],
-   "notes": null,
+   "notes": "The map said only 'the interim government'. Hoffman names José Castro, who succeeded as gefe político ad interim on Figueroa's death, 29 September 1835, and held the office to 2 January 1836.",
    "tags": [
     "San Mateo"
    ],
@@ -15675,7 +15675,7 @@
    "acres": 2219,
    "rank_note": "434th of 493 by area (2,219 acres)",
    "grantee": "Josefa de Haro",
-   "governor_name": "the interim government",
+   "governor_name": "José Castro",
    "outcome": "Confirmed",
    "patent": {
     "to": "Josefa de Haro et al",
@@ -21551,7 +21551,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1823 by a Spanish governor to David Spence. Present-day Monterey County. 8,446 acres. U.S. land case SD 151: Confirmed.",
+   "summary": "Granted 1823 by Luis Antonio Argüello, acting governor, to José Mariano Estrada. Present-day Monterey County. 8,446 acres. U.S. land case SD 151: Confirmed.",
    "owner": "David Spence",
    "image": null,
    "land_case": "SD 151",
@@ -21565,7 +21565,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266111"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map called the grantor 'a Spanish governor'. California had sworn to Mexico in April 1822 and Argüello took possession on Solá's departure in November 1822, holding the office provisionally. Hoffman (commission 518, S.D. 151) reads 'granted in 1823, by Luis Antonio Arguello to Jose Mariano Estrada'. David Spence, whom the map named as grantee, was the 1853 claimant.",
    "tags": [
     "Monterey"
    ],
@@ -21637,7 +21637,7 @@
    "acres": 8446,
    "rank_note": "306th of 493 by area (8,446 acres)",
    "grantee": "David Spence",
-   "governor_name": "a Spanish governor",
+   "governor_name": "Luis Antonio Argüello",
    "outcome": "Confirmed",
    "patent": {
     "date": "Jan. 4, 1860",
@@ -31798,7 +31798,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1836 by the interim government to George C. Yount. Present-day Napa County. 11,814 acres. U.S. land case ND 032: Confirmed.",
+   "summary": "Granted 1836 by Nicolás Gutiérrez, acting governor, to George C. Yount. Present-day Napa County. 11,814 acres. U.S. land case ND 032: Confirmed.",
    "owner": "George C. Yount",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-caymus-rancho-y-rio-de-napa-napa-co-calif--rec78434.jpg",
    "land_case": "ND 032",
@@ -31812,7 +31812,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264419"
     }
    ],
-   "notes": null,
+   "notes": "The map said only 'the interim government'. Hoffman names Nicolás Gutiérrez, who held the government ad interim from 2 January to 3 May 1836 and again from 1 August to 5 November 1836.",
    "tags": [
     "Napa"
    ],
@@ -31965,7 +31965,7 @@
    "acres": 11814,
    "rank_note": "235th of 493 by area (11,814 acres)",
    "grantee": "George C. Yount",
-   "governor_name": "the interim government",
+   "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
    "patent": {
     "to": "George C. Yount",
@@ -32826,7 +32826,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1822 by a Spanish governor to Mariano Malarin, attorney for José S. Estrada. Present-day Monterey County. 7,725 acres. U.S. land case SD 204: Confirmed.",
+   "summary": "Granted 1822 to Mariano Malarín, attorney for José S. Estrada. Present-day Monterey County. 7,725 acres. U.S. land case SD 204: Confirmed.",
    "owner": "Mariano Malarin, attorney for José S. Estrada",
    "image": null,
    "land_case": "SD 204",
@@ -32840,7 +32840,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/267548"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map named 'a Spanish governor'. California swore allegiance to Mexico in April 1822, so no grant of that year was made under Spanish authority. This docket has no entry in Hoffman's printed appendix and the grantor is not named here.",
    "tags": [
     "Monterey"
    ],
@@ -32936,7 +32936,7 @@
    "acres": 7725,
    "rank_note": "312th of 493 by area (7,725 acres)",
    "grantee": "Mariano Malarin, attorney for José S. Estrada",
-   "governor_name": "a Spanish governor",
+   "governor_name": "",
    "outcome": "Confirmed",
    "patent": {
     "to": "Mariano Malarin, attorney for Jose S. Estrada",
@@ -35414,8 +35414,8 @@
    "id": "rancho-laguna-palos-colorados",
    "name": "Laguna Del Los Palos Colorados",
    "date": {
-    "iso": "1835",
-    "display": "1835",
+    "iso": "1841",
+    "display": "1841",
     "confidence": "year"
    },
    "coords": [
@@ -35425,7 +35425,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1835 by Gov. Alvarado to J. Moraga and Juan Bernal. Present-day Contra Costa County. 13,316 acres. U.S. land case ND 276: Confirmed.",
+   "summary": "Granted 10 August 1841 by Gov. Juan B. Alvarado to Joaquín Moraga and Juan Bernal. Present-day Contra Costa County. 13,316 acres. U.S. land case ND 276: Confirmed.",
    "owner": "Joaquín Moraga",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-laguna-de-los-palos-colorados-calif--rec78642.jpg",
    "land_case": "ND 276",
@@ -35439,7 +35439,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256608"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map dated this 1835, when Alvarado was not governor. Hoffman's printed 1862 appendix (commission 590, N.D. 276) reads 'granted August 10th, 1841, by Juan B. Alvarado to J. Moraga and Juan Bernal'. Bancroft's San Francisco district list records the rancho under both 1835 and 1841 and names a grantor for neither.",
    "tags": [
     "Contra Costa"
    ],
@@ -35620,7 +35620,7 @@
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "J. Moraga and Juan Bernal",
-   "governor_name": "Alvarado",
+   "governor_name": "Juan B. Alvarado",
    "patent": {
     "to": "Joaquin Moraga and Juan Bernal",
     "date": "Aug. 10, 1876",
@@ -37145,7 +37145,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1822 by a Spanish governor to John B. R. Cooper. Present-day Monterey County. 6,915 acres. U.S. land case SD 007: Confirmed.",
+   "summary": "Granted 22 June 1822 by Gov. Pablo Vicente de Solá to José Joaquín de la Torre. Present-day Monterey County. 6,915 acres. U.S. land case SD 007: Confirmed.",
    "owner": "John B. R. Cooper",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-bolsa-del-potrero-y-moro-cojo-or-la-sagrad--rec79251.jpg",
    "land_case": "SD 007",
@@ -37159,7 +37159,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266048"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map called the grantor 'a Spanish governor'. Solá was the last Spanish governor but he continued in office under the Mexican empire, and California had sworn to Mexico in April 1822, so this is a Mexican-period grant. Hoffman (commission 138, S.D. 7) reads 'granted June 22d, 1822, by P. V. de Sola to Jose Joaquin de la Torre'. John B. R. Cooper, whom the map named as grantee, was the claimant.",
    "tags": [
     "Monterey"
    ],
@@ -37440,7 +37440,7 @@
    "acres": 6915,
    "rank_note": "315th of 493 by area (6,915 acres)",
    "grantee": "John B. R. Cooper",
-   "governor_name": "a Spanish governor",
+   "governor_name": "Pablo Vicente de Solá",
    "outcome": "Confirmed",
    "patent": {
     "to": "John B.R. Cooper",
@@ -39817,8 +39817,8 @@
    "id": "rancho-mallacomes-moristul-plan-agua-caliente",
    "name": "Mallacomes Or Moristul Y Plan De Agua Caliente",
    "date": {
-    "iso": "1841",
-    "display": "1841",
+    "iso": "1843",
+    "display": "1843",
     "confidence": "year"
    },
    "coords": [
@@ -39828,7 +39828,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1841 by Gov. Micheltorena to J. de los Santos Berreyesa. 17,742 acres. U.S. land case ND 161: Confirmed.",
+   "summary": "Granted 14 October 1843 by Gov. Manuel Micheltorena to José de los Santos Berreyesa. 17,742 acres. U.S. land case ND 161: Confirmed.",
    "owner": "José de los Santos Berreyesa",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-rancho-mallacomes-or-moristul-y-plan-de-agua-cal--rec79394.jpg",
    "land_case": "ND 161",
@@ -39842,7 +39842,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265521"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map dated this 1841, before Micheltorena took office on 31 December 1842. Hoffman (commission 58, N.D. 161) reads 'granted October 14th, 1843, by Manuel Micheltorena'.",
    "tags": [],
    "polygon": [
     [
@@ -39929,7 +39929,7 @@
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "J. de los Santos Berreyesa",
-   "governor_name": "Micheltorena",
+   "governor_name": "Manuel Micheltorena",
    "patent": {
     "to": "Jose de los Santos Berreyesa",
     "date": "July 20, 1873",
@@ -42439,7 +42439,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1836 by the interim government to Teodora Gonzales. Present-day Monterey County. 15,218 acres. U.S. land case SD 101: Confirmed.",
+   "summary": "Granted 1836 by Nicolás Gutiérrez, acting governor, to Teodora Gonzales. Present-day Monterey County. 15,218 acres. U.S. land case SD 101: Confirmed.",
    "owner": "Teodora Gonzales",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-rancho-rincon-de-la-puente-del-monte-calif-final--rec79295-1.jpg",
    "land_case": "SD 101",
@@ -42453,7 +42453,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265844"
     }
    ],
-   "notes": null,
+   "notes": "The map said only 'the interim government'. Hoffman names Gutiérrez, who held the government ad interim for two periods in 1836.",
    "tags": [
     "Monterey"
    ],
@@ -42550,7 +42550,7 @@
    "acres": 15218,
    "rank_note": "187th of 493 by area (15,218 acres)",
    "grantee": "Teodora Gonzales",
-   "governor_name": "the interim government",
+   "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
    "patent": {
     "to": "Teodoro Gonzales",
@@ -53220,7 +53220,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1836 by the interim government to Rafael García. Present-day Marin County. 9,467 acres. U.S. land case ND 068: Confirmed.",
+   "summary": "Granted 1836 by Nicolás Gutiérrez, acting governor, to Rafael García. Present-day Marin County. 9,467 acres. U.S. land case ND 068: Confirmed.",
    "owner": "Rafael García",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-rancho-tomales-y-baulines-finally-confirmed-to-r--rec79031-1.jpg",
    "land_case": "ND 068",
@@ -53234,7 +53234,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264452"
     }
    ],
-   "notes": null,
+   "notes": "The map said only 'the interim government'. Hoffman names Nicolás Gutiérrez.",
    "tags": [
     "Marin"
    ],
@@ -53693,7 +53693,7 @@
    "acres": 9467,
    "rank_note": "246th of 493 by area (9,467 acres)",
    "grantee": "Rafael García",
-   "governor_name": "the interim government",
+   "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
    "patent": {
     "to": "Rafael Garcia",
@@ -62424,7 +62424,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "figueroa",
-   "summary": "Granted 1836 by Gov. Jose Figueroa to S. Pacheco. Present-day Contra Costa County. 17,921 acres. U.S. land case ND 020: Confirmed.",
+   "summary": "Granted by Gov. José Figueroa to Salvio Pacheco. Present-day Contra Costa County. 17,921 acres. U.S. land case ND 020: Confirmed.",
    "owner": "Salvio Pacheco",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-de-un-sitio-baldio-situado-al-s-o-del-monte-del-diabl--rec78568.jpg",
    "land_case": "ND 020",
@@ -62438,7 +62438,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264409"
     }
    ],
-   "notes": null,
+   "notes": "⚠⚠ The grant year is unresolved and no date is asserted here. The published register dates it 1836 and Hoffman (commission 76, N.D. 20) reads 'granted March 30th, 1844'. José Figueroa died on 29 September 1835, so neither date can be right, and both witnesses are impossible as they stand. A reading of the land case file would settle it.",
    "tags": [
     "Contra Costa"
    ],
@@ -62710,7 +62710,7 @@
    "rank_note": "147th of 493 by area (17,921 acres)",
    "outcome": "Confirmed",
    "grantee": "S. Pacheco",
-   "governor_name": "Jose Figueroa",
+   "governor_name": "José Figueroa",
    "patent": {
     "to": "Salvio Pacheco",
     "date": "Mar. 19, 1859",
@@ -62734,7 +62734,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1836 by the interim government to Bethuel Phelps. Present-day Marin County. 13,644 acres. U.S. land case ND 418: Confirmed.",
+   "summary": "Granted 1836 by Nicolás Gutiérrez, acting governor, to Bethuel Phelps. Present-day Marin County. 13,644 acres. U.S. land case ND 418: Confirmed.",
    "owner": "Bethuel Phelps",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-rancho-tomales-y-baulines-finally-confirmed-to-r--rec79031-1.jpg",
    "land_case": "ND 418",
@@ -62748,7 +62748,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264264"
     }
    ],
-   "notes": null,
+   "notes": "The map said only 'the interim government'. Hoffman names Nicolás Gutiérrez.",
    "tags": [
     "Marin"
    ],
@@ -62999,7 +62999,7 @@
    "acres": 13644,
    "rank_note": "196th of 493 by area (13,644 acres)",
    "grantee": "Bethuel Phelps",
-   "governor_name": "the interim government",
+   "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
    "patent": {
     "to": "Bethuel Phelps",
@@ -63024,7 +63024,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1836 by the interim government to Silvestre de la Portilla. Present-day San Diego County. 17,634 acres. U.S. land case SD 144: Confirmed.",
+   "summary": "Granted 1836 by Nicolás Gutiérrez, acting governor, to Silvestre de la Portilla. Present-day San Diego County. 17,634 acres. U.S. land case SD 144: Confirmed.",
    "owner": "Silvestre de la Portilla",
    "image": null,
    "land_case": "SD 144",
@@ -63038,7 +63038,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265880"
     }
    ],
-   "notes": null,
+   "notes": "The map said only 'the interim government'. Hoffman names Gutiérrez.",
    "tags": [
     "San Diego"
    ],
@@ -63158,7 +63158,7 @@
    "acres": 17634,
    "rank_note": "170th of 493 by area (17,634 acres)",
    "grantee": "Silvestre de la Portilla",
-   "governor_name": "the interim government",
+   "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
    "patent": {
     "to": "Silvestre de la Portilla",
@@ -69182,7 +69182,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1835 by the interim government to José de la Cruz Sánchez. Present-day San Mateo County. 14,639 acres. U.S. land case ND 101: Confirmed.",
+   "summary": "Granted 1835 by José Castro, then gefe político ad interim, to José de la Cruz Sánchez. Present-day San Mateo County. 14,639 acres. U.S. land case ND 101: Confirmed.",
    "owner": "José de la Cruz Sánchez",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/survey-of-rancho-buri-buri-san-mateo-co-calif--rec78592-1.jpg",
    "land_case": "ND 101",
@@ -69196,7 +69196,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265461"
     }
    ],
-   "notes": null,
+   "notes": "The map said only 'the interim government'. Hoffman names José Castro, gefe político ad interim from 29 September 1835 to 2 January 1836.",
    "tags": [
     "San Mateo"
    ],
@@ -69611,7 +69611,7 @@
    "acres": 14639,
    "rank_note": "190th of 493 by area (14,639 acres)",
    "grantee": "José de la Cruz Sánchez",
-   "governor_name": "the interim government",
+   "governor_name": "José Castro",
    "outcome": "Confirmed",
    "patent": {
     "to": "Jose de la Cruz Sanchez et al",
@@ -69636,7 +69636,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1836 by Gov. Jose Figueroa to J. B. R. Cooper. 17,892 acres. U.S. land case ND 227: Confirmed.",
+   "summary": "Granted 31 December 1833 by Gov. José Figueroa and again on 24 February 1836 by Nicolás Gutiérrez, acting governor, to John B. R. Cooper. 17,892 acres. U.S. land case ND 227: Confirmed.",
    "owner": "John B. R. Cooper",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-rio-de-los-molinos-calif-john-bidwell--rec78453-1.jpg",
    "land_case": "ND 227",
@@ -69650,7 +69650,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256561"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map paired Figueroa with 1836; he died on 29 September 1835. Hoffman (commission 193, N.D. 227) prints both instruments, and the rancho portal's grantor-office audit read the case file and found the same, recording Gutiérrez as acting governor.",
    "tags": [],
    "polygon": [
     [
@@ -69877,7 +69877,7 @@
    "outcome": "Confirmed",
    "leagues": "10½",
    "grantee": "J. B. R. Cooper",
-   "governor_name": "Jose Figueroa",
+   "governor_name": "José Figueroa; Nicolás Gutiérrez",
    "patent": {
     "to": "John B. R. Cooper",
     "date": "April 3, 1858",
@@ -70667,7 +70667,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena and J. A. Sutter to S. Neal. Present-day Butte County. 22,193 acres. U.S. land case ND 179: Confirmed.",
+   "summary": "Granted 1844 by Gov. Manuel Micheltorena to Samuel Neal, on the favourable report of John A. Sutter, juez encargado of the Sacramento jurisdiction. Present-day Butte County. 22,193 acres. U.S. land case ND 179: Confirmed.",
    "owner": "Samuel Neal",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-esquon-calif--rec78475.jpg",
    "land_case": "ND 179",
@@ -70681,7 +70681,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265539"
     }
    ],
-   "notes": null,
+   "notes": "The grant is real and Hoffman confirms it (commission 183, N.D. 179, grantee S. Neal, patented). The map's phrasing made Sutter a joint granting authority. He was not: he held a commission as juez encargado on the Sacramento frontier and reported on petitions, and only the governor could grant.",
    "tags": [
     "Butte"
    ],
@@ -70952,7 +70952,7 @@
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "S. Neal",
-   "governor_name": "Micheltorena and J. A. Sutter",
+   "governor_name": "Manuel Micheltorena",
    "patent": {
     "to": "Samuel Neal",
     "date": "Apl. 4, 1860",
@@ -83829,8 +83829,8 @@
    "id": "rancho-animas",
    "name": "Las Animas",
    "date": {
-    "iso": "1803",
-    "display": "1803",
+    "iso": "1802",
+    "display": "1802",
     "confidence": "year"
    },
    "coords": [
@@ -83840,7 +83840,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1803 by Gov. Marquinas to Mariano Castro. Present-day Santa Clara County. 26,518 acres. U.S. land case ND 136: Confirmed.",
+   "summary": "Granted 17 August 1802 by Félix Berenguer de Marquina, viceroy of New Spain, to Mariano Castro, and regranted 7 August 1835 by Gov. José Figueroa to Castro's widow Josefa Romero. Present-day Santa Clara County. 26,518 acres. U.S. land case ND 136: Confirmed.",
    "owner": "José María Sanchez",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/rancho-las-animas-santa-clara-co-calif--rec78421.jpg",
    "land_case": "ND 136",
@@ -83854,7 +83854,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265496"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map called Marquina a governor of California. He was viceroy of New Spain, 1800 to 1803; Arrillaga held the California government. Hoffman (commission 161, N.D. 136) reads 'granted August 17th, 1802, by Marquinas to Mariano Castro, and August 7th, 1835, by Jose Figueroa to Josefa Romero, widow of M. Castro', so the year is 1802 and not 1803.",
    "tags": [
     "Santa Clara"
    ],
@@ -84186,7 +84186,7 @@
    "rank_note": "110th of 493 by area (26,518 acres)",
    "outcome": "Confirmed",
    "grantee": "Mariano Castro",
-   "governor_name": "Marquinas",
+   "governor_name": "Félix Berenguer de Marquina (viceroy of New Spain); José Figueroa",
    "patent": {
     "to": "the heirs of Jose Maria Sanchez",
     "date": "Mar. 15, 1873",
@@ -91059,8 +91059,8 @@
    "id": "rancho-san-luis-conzaga",
    "name": "San Luis Conzaga",
    "date": {
-    "iso": "1841",
-    "display": "1841",
+    "iso": "1843",
+    "display": "1843",
     "confidence": "year"
    },
    "coords": [
@@ -91070,7 +91070,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1841 by Gov. Micheltorena to Francisco Rivera. 48,821 acres. U.S. land case ND 062: Confirmed.",
+   "summary": "Granted 3 December 1843 by Gov. Manuel Micheltorena to Francisco Rivera. 48,821 acres. U.S. land case ND 062: Confirmed.",
    "owner": "Juan P. Pacheco",
    "image": null,
    "land_case": "ND 062",
@@ -91084,7 +91084,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264448"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map dated this 1841, before Micheltorena took office. Hoffman (commission 37, N.D. 62) reads 'granted December 3d, 1843, by Manuel Micheltorena to Francisco Rivera'.",
    "tags": [],
    "polygon": [
     [
@@ -91143,7 +91143,7 @@
    "rank_note": "20th of 493 by area (48,821 acres)",
    "outcome": "Confirmed",
    "grantee": "Francisco Rivera",
-   "governor_name": "Micheltorena",
+   "governor_name": "Manuel Micheltorena",
    "patent": {
     "to": "Juan P. Pacheco",
     "date": "May 6,1871",
@@ -124411,7 +124411,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "mission",
-   "summary": "Ex-mission lands (Near Mission San Juan Bautista (Castro)), secularized and later adjudicated as a U.S. land claim. Claimant: Rufina Castro. U.S. land case SD 350.",
+   "summary": "Granted 19 May 1839 by José Castro, prefect of the first district, to Mariano Castro. Ex-mission lands (Near Mission San Juan Bautista (Castro)), secularized and later adjudicated as a U.S. land claim. Claimant: Rufina Castro. U.S. land case SD 350.",
    "owner": "Rufina Castro",
    "image": null,
    "land_case": "SD 350",
@@ -124425,7 +124425,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268972"
     }
    ],
-   "notes": null,
+   "notes": "The grant is real and the date and parties are confirmed by Hoffman (commission 607, S.D. 350). Castro was not governor in 1839; he was prefect of the first district, the office under which the rancho portal's own case-file reading places his 1839 grants.",
    "tags": [],
    "polygon": [
     [
@@ -124452,7 +124452,7 @@
     ]
    ],
    "grantee": "Mariano Castro",
-   "governor_name": "Castro",
+   "governor_name": "José Castro, prefect of the first district",
    "acres": 33,
    "patent": {
     "to": "Rufina Castro",
