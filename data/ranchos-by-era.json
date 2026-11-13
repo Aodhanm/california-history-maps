@@ -400,7 +400,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1845 by Gov. Pío Pico to José Domingo. U.S. land case SD 058: Confirmed.",
+   "summary": "Granted 1845 by Gov. Pío Pico to Felipe. Claimant before the Land Commission: José Domingo. U.S. land case SD 058: Confirmed.",
    "owner": "José Domingo",
    "image": null,
    "land_case": "SD 058",
@@ -414,7 +414,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/267521"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as José Domingo, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Felipe.",
    "tags": [],
    "polygon": [
     [
@@ -2527,7 +2527,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1845 by Gov. Micheltorena to James Enright. 710 acres. U.S. land case ND 143: Confirmed.",
+   "summary": "Granted 1845 by Gov. Micheltorena to Francisco Garcia. Claimant before the Land Commission: James Enright. 710 acres. U.S. land case ND 143: Confirmed.",
    "owner": "James Enright",
    "image": null,
    "land_case": "ND 143",
@@ -2541,7 +2541,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265503"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as James Enright, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Francisco Garcia.",
    "tags": [],
    "polygon": [
     [
@@ -3363,7 +3363,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to George Cornwell. Present-day Marin County. 919 acres. U.S. land case ND 328: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Ramon Mesa. Claimant before the Land Commission: George Cornwell. Present-day Marin County. 919 acres. U.S. land case ND 328: Confirmed.",
    "owner": "George Cornwell",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-part-of-the-rancho-soulajule-finally-confirmed-to-le--rec79183-1.jpg",
    "land_case": "ND 328",
@@ -3377,7 +3377,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256655"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as George Cornwell, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ramon Mesa.",
    "tags": [
     "Marin"
    ],
@@ -3459,7 +3459,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Robert Walkinshaw. Present-day Santa Clara County. 847 acres. U.S. land case ND 410: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Lope Iñigo. Claimant before the Land Commission: Robert Walkinshaw. Present-day Santa Clara County. 847 acres. U.S. land case ND 410: Confirmed.",
    "owner": "Robert Walkinshaw",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/map-of-the-land-called-posolmi-or-y-igo-s-ranch-the-property--rec79632-1.jpg",
    "land_case": "ND 410",
@@ -3473,7 +3473,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264257"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Robert Walkinshaw, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Lope Iñigo.",
    "tags": [
     "Santa Clara"
    ],
@@ -3584,7 +3584,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Luis D. Watkins. Present-day Marin County. 1,446 acres. U.S. land case ND 352: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Ramon Mesa. Claimant before the Land Commission: Luis D. Watkins. Present-day Marin County. 1,446 acres. U.S. land case ND 352: Confirmed.",
    "owner": "Luis D. Watkins",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-part-of-the-rancho-soulajule-finally-confirmed-to-le--rec79183-1.jpg",
    "land_case": "ND 352",
@@ -3598,7 +3598,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264189"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Luis D. Watkins, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ramon Mesa.",
    "tags": [
     "Marin"
    ],
@@ -3684,7 +3684,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1841 by Gov. Alvarado to Robert E. Eaton. 700 acres. U.S. land case ND 237: Confirmed.",
+   "summary": "Granted 1841 by Gov. Alvarado to Jacob P. Leese. Claimant before the Land Commission: Robert E. Eaton. 700 acres. U.S. land case ND 237: Confirmed.",
    "owner": "Robert E. Eaton",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-ca-ada-de-guadalupe-la-visitacion-y-rodeo---rec78486.jpg",
    "land_case": "ND 237",
@@ -3698,7 +3698,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256571"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Robert E. Eaton, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Jacob P. Leese.",
    "tags": [],
    "polygon": [
     [
@@ -5390,7 +5390,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Joshua S. Brackett. Present-day Marin County. 2,492 acres. U.S. land case ND 329: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Ramon Mesa. Claimant before the Land Commission: Joshua S. Brackett. Present-day Marin County. 2,492 acres. U.S. land case ND 329: Confirmed.",
    "owner": "Joshua S. Brackett",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-part-of-the-rancho-soulajule-finally-confirmed-to-le--rec79183-1.jpg",
    "land_case": "ND 329",
@@ -5404,7 +5404,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256656"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Joshua S. Brackett, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ramon Mesa.",
    "tags": [
     "Marin"
    ],
@@ -6540,7 +6540,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1838 by Gov. Alvarado to Francisco Berreyesa. Present-day Santa Clara County. 1,844 acres. U.S. land case ND 239: Confirmed.",
+   "summary": "Granted 1838 by Gov. Alvarado to Ygnacio Alviso. Claimant before the Land Commission: Francisco Berreyesa. Present-day Santa Clara County. 1,844 acres. U.S. land case ND 239: Confirmed.",
    "owner": "Francisco Berreyesa",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-rincon-de-los-esteros-santa-clara-co-calif--rec78664.jpg",
    "land_case": "ND 239",
@@ -6554,7 +6554,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256573"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Francisco Berreyesa, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ygnacio Alviso.",
    "tags": [
     "Santa Clara"
    ],
@@ -6913,7 +6913,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Martin F. Gormley. 2,266 acres. U.S. land case ND 334: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Ramon Mesa. Claimant before the Land Commission: Martin F. Gormley. 2,266 acres. U.S. land case ND 334: Confirmed.",
    "owner": "Martin F. Gormley",
    "image": null,
    "land_case": "ND 334",
@@ -6927,7 +6927,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264171"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Martin F. Gormley, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ramon Mesa.",
    "tags": [],
    "polygon": [
     [
@@ -8814,7 +8814,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Pedro J. Vasquez. Present-day Marin County. 3,774 acres. U.S. land case ND 331: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Ramon Mesa. Claimant before the Land Commission: Pedro J. Vasquez. Present-day Marin County. 3,774 acres. U.S. land case ND 331: Confirmed.",
    "owner": "Pedro J. Vasquez",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-part-of-the-rancho-soulajule-finally-confirmed-to-le--rec79183-1.jpg",
    "land_case": "ND 331",
@@ -8828,7 +8828,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264168"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Pedro J. Vasquez, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ramon Mesa.",
    "tags": [
     "Marin"
    ],
@@ -9171,7 +9171,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1845 by Gov. Pío Pico to Jacob D. Hoppe. Present-day Santa Clara County. 2,217 acres. U.S. land case ND 323: Confirmed.",
+   "summary": "Granted 1845 by Gov. Pío Pico to Marcelo Pio and Cristoval. Claimant before the Land Commission: Jacob D. Hoppe. Present-day Santa Clara County. 2,217 acres. U.S. land case ND 323: Confirmed.",
    "owner": "Jacob D. Hoppe",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/sketches-of-rancho-ulistac-santa-clara-co-calif--rec79163.jpg",
    "land_case": "ND 323",
@@ -9185,7 +9185,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256650"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Jacob D. Hoppe, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Marcelo Pio and Cristoval.",
    "tags": [
     "Santa Clara"
    ],
@@ -10656,8 +10656,8 @@
    "id": "rancho-azusa",
    "name": "Azusa (Dalton)",
    "date": {
-    "iso": "1841",
-    "display": "1841",
+    "iso": "1837",
+    "display": "1837",
     "confidence": "year"
    },
    "coords": [
@@ -10681,7 +10681,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265862"
     }
    ],
-   "notes": "⚠ The map's grantor field read 'Alvarado; Luis Arenas; Jimeno'. Luis Arenas was a grantee, not a granting officer. Hoffman (commission 364, S.D. 121) names Arenas as the grantor of the second instrument of 14 March 1840 while counting the leagues to Alvarado, Bancroft names no grantor for 1840, and the two cannot be reconciled from the printed record, so no grantor is asserted here for the 1840 league.",
+   "notes": "⚠ The map's grantor field read 'Alvarado; Luis Arenas; Jimeno'. Luis Arenas was a grantee, not a granting officer. Hoffman (commission 364, S.D. 121) names Arenas as the grantor of the second instrument of 14 March 1840 while counting the leagues to Alvarado, Bancroft names no grantor for 1840, and the two cannot be reconciled from the printed record, so no grantor is asserted here for the 1840 league. The pin is dated to the first instrument, 15 April 1837, and coloured for Alvarado's administration. The register carried 1841, which matches neither instrument Hoffman prints.",
    "tags": [
     "Los Angeles"
    ],
@@ -12975,7 +12975,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1840 by Gov. Alvarado to Juana Briones de Miranda. Present-day Santa Clara County. 4,438 acres. U.S. land case ND 130: Confirmed.",
+   "summary": "Granted 1840 by Gov. Alvarado to José Gorgonio and Jose Ramon. Claimant before the Land Commission: Juana Briones de Miranda. Present-day Santa Clara County. 4,438 acres. U.S. land case ND 130: Confirmed.",
    "owner": "Juana Briones de Miranda",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plan-dise-o-del-ferreno-de-la-purisima-concepcion-en-la-comp--rec78464.jpg",
    "land_case": "ND 130",
@@ -12989,7 +12989,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265490"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Juana Briones de Miranda, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names José Gorgonio and Jose Ramon.",
    "tags": [
     "Santa Clara"
    ],
@@ -14098,7 +14098,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "echeandia",
-   "summary": "Granted 1828 by Gov. Echeandía to José Rocha, José J. Rocha, and Josefa de la Merced de Jordan. Present-day Los Angeles County. 4,439 acres. U.S. land case SD 287: Confirmed.",
+   "summary": "Granted 1828 by José Antonio Carrillo, first alcalde and judge of the first instance, to José Rocha, José J. Rocha, and Josefa de la Merced de Jordan. Present-day Los Angeles County. 4,439 acres. U.S. land case SD 287: Confirmed.",
    "owner": "José Rocha, José J. Rocha, and Josefa de la Merced de Jordan",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-rincon-de-la-brea-calif--rec78832.jpg",
    "land_case": "SD 287",
@@ -14112,7 +14112,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268914"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: José Antonio Carrillo acted as alcalde. Verbatim: \"I was at the time First Alcalde and Judge of the First Instance... I was President of the Ayuntamiento\" (Carrillo deposition, transcript pp.9-10)",
    "tags": [
     "Los Angeles"
    ],
@@ -14197,7 +14197,7 @@
    "acres": 4439,
    "rank_note": "368th of 493 by area (4,439 acres)",
    "grantee": "José Rocha, José J. Rocha, and Josefa de la Merced de Jordan",
-   "governor_name": "Echeandía",
+   "governor_name": "José Antonio Carrillo",
    "outcome": "Confirmed",
    "patent": {
     "to": "AJ Rocha et al",
@@ -14387,7 +14387,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1837 by Gov. Alvarado to Joaquín Gutierrez. Present-day Monterey County. 4,306 acres. U.S. land case SD 333: Confirmed.",
+   "summary": "Granted 1837 by Gov. Alvarado to Fructuoso. Claimant before the Land Commission: Joaquín Gutierrez. Present-day Monterey County. 4,306 acres. U.S. land case SD 333: Confirmed.",
    "owner": "Joaquín Gutierrez",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-el-potrero-de-san-carlos-calif--rec78970.jpg",
    "land_case": "SD 333",
@@ -14401,7 +14401,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268956"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Joaquín Gutierrez, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Fructuoso.",
    "tags": [
     "Monterey"
    ],
@@ -14739,7 +14739,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1839 by Gov. Alvarado to Domingo Saenz (Sais). Present-day Marin County. 6,658 acres. U.S. land case ND 065: Confirmed.",
+   "summary": "Granted 1839 by Manuel Jimeno, acting governor, to Domingo Saenz (Sais). Present-day Marin County. 6,658 acres. U.S. land case ND 065: Confirmed.",
    "owner": "Domingo Saenz (Sais)",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-ca-ada-de-herrera-marin-co-calif--rec78578.jpg",
    "land_case": "ND 065",
@@ -14753,7 +14753,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264449"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"primer vocal propietario de la Excma Junta del Departto de las Californias\" (grant decree, transcript p.10)",
    "tags": [
     "Marin"
    ],
@@ -14830,7 +14830,7 @@
    "acres": 6658,
    "rank_note": "328th of 493 by area (6,658 acres)",
    "grantee": "Domingo Saenz (Sais)",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "to": "the legal representatives and heirs of Domingo Sais",
@@ -15487,7 +15487,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1835 by José Castro, then gefe político ad interim, to Josefa de Haro. Present-day San Mateo County. 2,219 acres. U.S. land case ND 380: Confirmed.",
+   "summary": "Granted 1835 by José Castro, then gefe político ad interim,, to Jose Antonio Galindo. Claimant before the Land Commission: Josefa de Haro. Present-day San Mateo County. 2,219 acres. U.S. land case ND 380: Confirmed.",
    "owner": "Josefa de Haro",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-terreno-que-nombran-de-la-laguna-de-la-merced-y-p--rec78757.jpg",
    "land_case": "ND 380",
@@ -15501,7 +15501,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264231"
     }
    ],
-   "notes": "The map said only 'the interim government'. Hoffman names José Castro, who succeeded as gefe político ad interim on Figueroa's death, 29 September 1835, and held the office to 2 January 1836.",
+   "notes": "The map said only 'the interim government'. Hoffman names José Castro, who succeeded as gefe político ad interim on Figueroa's death, 29 September 1835, and held the office to 2 January 1836. ⚠ The map gave the grantee as Josefa de Haro, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Jose Antonio Galindo.",
    "tags": [
     "San Mateo"
    ],
@@ -15924,7 +15924,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1821 by a Spanish governor to Juan M. Anzar. Present-day Monterey County. 4,310 acres. U.S. land case SD 245: Confirmed.",
+   "summary": "Granted 1821 by a Spanish governor to Antonio Maria Castro. Claimant before the Land Commission: Juan M. Anzar. Present-day Monterey County. 4,310 acres. U.S. land case SD 245: Confirmed.",
    "owner": "Juan M. Anzar",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-vega-del-rio-del-pajaro-calif--rec79351-1.jpg",
    "land_case": "SD 245",
@@ -15938,7 +15938,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/267586"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Juan M. Anzar, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Antonio Maria Castro.",
    "tags": [
     "Monterey"
    ],
@@ -16846,7 +16846,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1842 by Gov. Alvarado to José Miguel Gomez. Present-day San Luis Obispo County. 4,468 acres. U.S. land case SD 320: Confirmed.",
+   "summary": "Granted 1842 by Gov. Alvarado to Jose Ramon Estrada. Claimant before the Land Commission: José Miguel Gomez. Present-day San Luis Obispo County. 4,468 acres. U.S. land case SD 320: Confirmed.",
    "owner": "José Miguel Gomez",
    "image": null,
    "land_case": "SD 320",
@@ -16860,7 +16860,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268944"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as José Miguel Gomez, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Jose Ramon Estrada.",
    "tags": [
     "San Luis Obispo"
    ],
@@ -19323,7 +19323,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1842 by Gov. Alvarado to José M. Sanchez and, on his death, Vicente Sanchez. Present-day San Benito County. 6,659 acres. U.S. land case SD 105: Confirmed.",
+   "summary": "Granted 1842 by Gov. Alvarado to José Antonio Castro. Claimant before the Land Commission: José M. Sanchez and, on his death, Vicente Sanchez. Present-day San Benito County. 6,659 acres. U.S. land case SD 105: Confirmed.",
    "owner": "José M. Sanchez and, on his death, Vicente Sanchez",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-lomerias-muertas-calif--rec78521.jpg",
    "land_case": "SD 105",
@@ -19337,7 +19337,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265847"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as José M. Sanchez and, on his death, Vicente Sanchez, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names José Antonio Castro.",
    "tags": [
     "San Benito"
    ],
@@ -23435,7 +23435,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1840 by Gov. Alvarado to David W. Alexander and Francisc Mellus. Present-day Los Angeles County. 6,660 acres. U.S. land case SD 052: Confirmed.",
+   "summary": "Granted 1840 by Gov. Alvarado to Pedro Lopez et al. Claimant before the Land Commission: David W. Alexander and Francisc Mellus. Present-day Los Angeles County. 6,660 acres. U.S. land case SD 052: Confirmed.",
    "owner": "David W. Alexander and Francisc Mellus",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-tujunga-calif--rec78824.jpg",
    "land_case": "SD 052",
@@ -23449,7 +23449,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266089"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as David W. Alexander and Francisc Mellus, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Pedro Lopez et al.",
    "tags": [
     "Los Angeles"
    ],
@@ -23665,7 +23665,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1838 by Gov. Alvarado to Ellen E. White. Present-day Santa Clara County. 2,000 acres. U.S. land case ND 238: Confirmed.",
+   "summary": "Granted 1838 by Gov. Alvarado to Ygnacio Alviso. Claimant before the Land Commission: Ellen E. White. Present-day Santa Clara County. 2,000 acres. U.S. land case ND 238: Confirmed.",
    "owner": "Ellen E. White",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-rincon-de-los-esteros-santa-clara-co-calif--rec78664.jpg",
    "land_case": "ND 238",
@@ -23679,7 +23679,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256572"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Ellen E. White, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ygnacio Alviso.",
    "tags": [
     "Santa Clara"
    ],
@@ -27190,7 +27190,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1841 by Gov. Alvarado to José Dolores Ortega. Present-day Santa Barbara County. 8,875 acres. U.S. land case SD 152: Confirmed.",
+   "summary": "Granted 1841 by Manuel Jimeno, acting governor, to José Dolores Ortega. Present-day Santa Barbara County. 8,875 acres. U.S. land case SD 152: Confirmed.",
    "owner": "José Dolores Ortega",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-corral-de-quati-calif--rec78512.jpg",
    "land_case": "SD 152",
@@ -27204,7 +27204,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266112"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"1er Vocal propietario de la Exma Junta Departamental en ejercicio del Gobierno del mismo\" (grant decree, transcript p.11)",
    "tags": [
     "Santa Barbara"
    ],
@@ -27343,7 +27343,7 @@
    "acres": 8875,
    "rank_note": "279th of 493 by area (8,875 acres)",
    "grantee": "José Dolores Ortega",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "to": "Jose D. Ortega",
@@ -27657,7 +27657,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1839 by Gov. Alvarado to Mariano Malarin. Present-day Monterey County. 6,714 acres. U.S. land case SD 108: Confirmed.",
+   "summary": "Granted 1839 by Manuel Jimeno, acting governor, to Gabriel de la Torre. Claimant before the Land Commission: Mariano Malarin. Present-day Monterey County. 6,714 acres. U.S. land case SD 108: Confirmed.",
    "owner": "Mariano Malarin",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-zanjones-rancho-calif-finally-confirmed-to-maria--rec79293-1.jpg",
    "land_case": "SD 108",
@@ -27671,7 +27671,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265849"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"primer vocal de la Exma. Junta de este Departamento, en ejercicio del gobierno del mismo\" (titulo, stamped pp.20-21) ⚠ The map gave the grantee as Mariano Malarin, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Gabriel de la Torre.",
    "tags": [
     "Monterey"
    ],
@@ -27756,7 +27756,7 @@
    "acres": 6714,
    "rank_note": "318th of 493 by area (6,714 acres)",
    "grantee": "Mariano Malarin",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "glo": "271",
@@ -31456,7 +31456,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1839 by Gov. Alvarado to Jasper O'Farrell. Present-day Sonoma County. 8,849 acres. U.S. land case ND 041: Confirmed.",
+   "summary": "Granted 1839 by Manuel Jimeno, acting governor, to Ed. Manuel McIntosh. Claimant before the Land Commission: Jasper O'Farrell. Present-day Sonoma County. 8,849 acres. U.S. land case ND 041: Confirmed.",
    "owner": "Jasper O'Farrell",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-estero-americano-sonoma-co-calif--rec78565.jpg",
    "land_case": "ND 041",
@@ -31470,7 +31470,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264428"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"Manuel Jimeno Governor of California by virtue of authority in him vested\" (petition, PDF p.11 / transcript p.5) ⚠ The map gave the grantee as Jasper O'Farrell, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Ed. Manuel McIntosh.",
    "tags": [
     "Sonoma"
    ],
@@ -31603,7 +31603,7 @@
    "acres": 8849,
    "rank_note": "290th of 493 by area (8,849 acres)",
    "grantee": "Jasper O'Farrell",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "to": "Jasper O'Farrell",
@@ -33255,7 +33255,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1842 by Gov. Alvarado to Mariano Castro. Present-day Santa Clara County. 4,172 acres. U.S. land case ND 097: Confirmed.",
+   "summary": "Granted 1842 by Gov. Alvarado to Francisco Estrada. Claimant before the Land Commission: Mariano Castro. Present-day Santa Clara County. 4,172 acres. U.S. land case ND 097: Confirmed.",
    "owner": "Mariano Castro",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-del-refugio-o-pastoria-de-las-borregas-san--rec78456.jpg",
    "land_case": "ND 097",
@@ -33269,7 +33269,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265458"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Mariano Castro, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Francisco Estrada.",
    "tags": [
     "Santa Clara"
    ],
@@ -34406,7 +34406,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1839 by Gov. Alvarado to Mariano Malarin. Present-day Monterey County. 8,889 acres. U.S. land case SD 110: Confirmed.",
+   "summary": "Granted 1839 by Manuel Jimeno, acting governor, to Mariano Malarin. Present-day Monterey County. 8,889 acres. U.S. land case SD 110: Confirmed.",
    "owner": "Mariano Malarin",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-chualar-calif--rec79296.jpg",
    "land_case": "SD 110",
@@ -34420,7 +34420,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265851"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"primer Vocal propietario de la Exma Junta del Departamento de las Californias en ejercicio del gobierno del mismo\" (titulo, stamped p.14)",
    "tags": [
     "Monterey"
    ],
@@ -34507,7 +34507,7 @@
    "acres": 8889,
    "rank_note": "266th of 493 by area (8,889 acres)",
    "grantee": "Mariano Malarin",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "to": "Mariano Malarin, executor",
@@ -35177,7 +35177,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1846 by Gov. Pío Pico to Jasper O'Farrell. Present-day Sonoma County. 10,786 acres. U.S. land case ND 048: Confirmed.",
+   "summary": "Granted 1846 by Gov. Pío Pico to James Black. Claimant before the Land Commission: Jasper O'Farrell. Present-day Sonoma County. 10,786 acres. U.S. land case ND 048: Confirmed.",
    "owner": "Jasper O'Farrell",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-ca-ada-de-jonive-sonoma-co-calif--rec78570.jpg",
    "land_case": "ND 048",
@@ -35191,7 +35191,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264435"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Jasper O'Farrell, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names James Black.",
    "tags": [
     "Sonoma"
    ],
@@ -36076,7 +36076,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "figueroa",
-   "summary": "Granted 1835 by Gov. Figueroa to Bernard Murphy. Present-day Santa Clara County. 8,927 acres. U.S. land case ND 379: Confirmed.",
+   "summary": "Granted 1835 by Gov. Figueroa to Juan Maria Hernandez. Claimant before the Land Commission: Bernard Murphy. Present-day Santa Clara County. 8,927 acres. U.S. land case ND 379: Confirmed.",
    "owner": "Bernard Murphy",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-ojo-de-agua-de-la-coche-santa-clara-co-cal--rec78755.jpg",
    "land_case": "ND 379",
@@ -36090,7 +36090,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264230"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Bernard Murphy, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Juan Maria Hernandez.",
    "tags": [
     "Santa Clara"
    ],
@@ -40382,7 +40382,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1840 by Gov. Alvarado to Guadalupe Vasquez. Present-day Sonoma County. 6,663 acres. U.S. land case ND 326: Confirmed.",
+   "summary": "Granted 1840 by Gov. Alvarado to Marcus West. Claimant before the Land Commission: Guadalupe Vasquez. Present-day Sonoma County. 6,663 acres. U.S. land case ND 326: Confirmed.",
    "owner": "Guadalupe Vasquez",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/san-miguel-de-marcos-west-6-leguas-sonoma-county-calif--rec79166.jpg",
    "land_case": "ND 326",
@@ -40396,7 +40396,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256653"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Guadalupe Vasquez, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Marcus West.",
    "tags": [
     "Sonoma"
    ],
@@ -42304,7 +42304,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1842 by Gov. Alvarado to Francis Branch. Present-day San Luis Obispo County. 15,684 acres. U.S. land case SD 196: Confirmed.",
+   "summary": "Granted 1842 by Gov. Alvarado to Mariano Bonilla. Claimant before the Land Commission: Francis Branch. Present-day San Luis Obispo County. 15,684 acres. U.S. land case SD 196: Confirmed.",
    "owner": "Francis Branch",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-huerhuero-calif--rec78891-1.jpg",
    "land_case": "SD 196",
@@ -42318,7 +42318,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/267540"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Francis Branch, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Mariano Bonilla.",
    "tags": [
     "San Luis Obispo"
    ],
@@ -45169,7 +45169,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1839 by Gov. Alvarado to J. de Jesus Bernal. Present-day Santa Clara County. 15,714 acres. U.S. land case ND 373: Confirmed.",
+   "summary": "Granted 1839 by José Castro, prefect of the first district, to J. de Jesus Bernal. Present-day Santa Clara County. 15,714 acres. U.S. land case ND 373: Confirmed.",
    "owner": "José de Jesus Bernal, José Antonio Bernal, and Juan Bernal y Castro",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-pala-santa-clara-co-calif--rec78781.jpg",
    "land_case": "ND 373",
@@ -45183,7 +45183,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264209"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: José Castro acted as prefect. Verbatim: \"The Same Dn Jose Castro Prefect of the 1st District that orders decrees and signs which I attest\" (grant instrument, transcript p.27)",
    "tags": [
     "Santa Clara"
    ],
@@ -45303,7 +45303,7 @@
    "rank_note": "181st of 493 by area (15,714 acres)",
    "outcome": "Confirmed",
    "grantee": "J. de Jesus Bernal",
-   "governor_name": "Alvarado",
+   "governor_name": "José Castro",
    "patent": {
     "to": "José de Jesus Bernal, José Antonion Bernal, and Juan Bernal y Castro",
     "date": "Mar. 9, 1863",
@@ -46379,7 +46379,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1841 by Gov. Alvarado to Cayetano Juarez. Present-day Napa County. 8,865 acres. U.S. land case ND 045: Confirmed.",
+   "summary": "Granted 1841 by Manuel Jimeno, acting governor, to Cayetano Juarez. Present-day Napa County. 8,865 acres. U.S. land case ND 045: Confirmed.",
    "owner": "Cayetano Juarez",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-tulucay-napa-co-calif--rec79014.jpg",
    "land_case": "ND 045",
@@ -46393,7 +46393,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264432"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"1er vocal propietario de la Excma Junta Departamental en ejercicio del Gobierno del mismo\" (titulo heading, PDF p.22)",
    "tags": [
     "Napa"
    ],
@@ -46692,7 +46692,7 @@
    "acres": 8865,
    "rank_note": "287th of 493 by area (8,865 acres)",
    "grantee": "Cayetano Juarez",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "to": "Cayetano Juarez",
@@ -50643,7 +50643,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1845 by Gov. Pío Pico to Charles J. Brenham. Present-day Butte County. 17,767 acres. U.S. land case ND 398: Confirmed.",
+   "summary": "Granted 1845 by Gov. Pío Pico to Sebastian Keyser. Claimant before the Land Commission: Charles J. Brenham. Present-day Butte County. 17,767 acres. U.S. land case ND 398: Confirmed.",
    "owner": "Charles J. Brenham",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-llano-seco-calif-john-bidwell--rec78776.jpg",
    "land_case": "ND 398",
@@ -50657,7 +50657,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264245"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Charles J. Brenham, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Sebastian Keyser.",
    "tags": [
     "Butte"
    ],
@@ -52915,7 +52915,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Joaquín Carrillo. Present-day Sonoma County. 13,316 acres. U.S. land case ND 058: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Marcus West. Claimant before the Land Commission: Joaquín Carrillo. Present-day Sonoma County. 13,316 acres. U.S. land case ND 058: Confirmed.",
    "owner": "Joaquín Carrillo",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-llano-de-santa-rosa-calif--rec78576.jpg",
    "land_case": "ND 058",
@@ -52929,7 +52929,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264444"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Joaquín Carrillo, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Marcus West.",
    "tags": [
     "Sonoma"
    ],
@@ -60442,7 +60442,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "figueroa",
-   "summary": "Granted 1833 by Gov. Figueroa to José Domingo Peralta. Present-day Contra Costa County. 8,917 acres. U.S. land case ND 322: Confirmed.",
+   "summary": "Granted 1833 by Gov. Figueroa to Bartolo Pacheco and Mariano Castro. Claimant before the Land Commission: José Domingo Peralta. Present-day Contra Costa County. 8,917 acres. U.S. land case ND 322: Confirmed.",
    "owner": "José Domingo Peralta",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-san-ramon-carpentier-calif--rec78446-1.jpg",
    "land_case": "ND 322",
@@ -60456,7 +60456,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256649"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as José Domingo Peralta, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Bartolo Pacheco and Mariano Castro.",
    "tags": [
     "Contra Costa"
    ],
@@ -61098,7 +61098,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1839 by Gov. Alvarado to Maria Jesus Olivera de Cota. Present-day Santa Barbara County. 15,526 acres. U.S. land case SD 294: Confirmed.",
+   "summary": "Granted 1839 by Manuel Jimeno, acting governor, to Maria Jesus Olivera de Cota. Present-day Santa Barbara County. 15,526 acres. U.S. land case SD 294: Confirmed.",
    "owner": "Maria Jesus Olivera de Cota",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-santa-rosa-santa-barbara-county-calif--rec78544.jpg",
    "land_case": "SD 294",
@@ -61112,7 +61112,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/102019"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"Gobernador Interino del Departamento de las Californias\" (grant decree, transcript p.24)",
    "tags": [
     "Santa Barbara"
    ],
@@ -61229,7 +61229,7 @@
    "acres": 15526,
    "rank_note": "184th of 493 by area (15,526 acres)",
    "grantee": "Maria Jesus Olivera de Cota",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "scan_url": "https://digicoll.lib.berkeley.edu/record/102019",
    "patent": {
@@ -62739,7 +62739,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "interim",
-   "summary": "Granted 1836 by Nicolás Gutiérrez, acting governor, to Bethuel Phelps. Present-day Marin County. 13,644 acres. U.S. land case ND 418: Confirmed.",
+   "summary": "Granted 1836 by Nicolás Gutiérrez, acting governor,, to James Richard Berry. Claimant before the Land Commission: Bethuel Phelps. Present-day Marin County. 13,644 acres. U.S. land case ND 418: Confirmed.",
    "owner": "Bethuel Phelps",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-rancho-tomales-y-baulines-finally-confirmed-to-r--rec79031-1.jpg",
    "land_case": "ND 418",
@@ -62753,7 +62753,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264264"
     }
    ],
-   "notes": "The map said only 'the interim government'. Hoffman names Nicolás Gutiérrez.",
+   "notes": "The map said only 'the interim government'. Hoffman names Nicolás Gutiérrez. ⚠ The map gave the grantee as Bethuel Phelps, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names James Richard Berry.",
    "tags": [
     "Marin"
    ],
@@ -67407,7 +67407,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Samuel G. Reed and Ruben S. Wade. Present-day Stanislaus County. 13,340 acres. U.S. land case ND 330: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Mariano Hernandez et al. Claimant before the Land Commission: Samuel G. Reed and Ruben S. Wade. Present-day Stanislaus County. 13,340 acres. U.S. land case ND 330: Confirmed.",
    "owner": "Samuel G. Reed and Ruben S. Wade",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-del-puerto-stanislaus-co-calif--rec78700.jpg",
    "land_case": "ND 330",
@@ -67421,7 +67421,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256657"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Samuel G. Reed and Ruben S. Wade, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Mariano Hernandez et al.",
    "tags": [
     "Stanislaus"
    ],
@@ -68656,7 +68656,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1845 by Gov. Pío Pico to James B. Huie. Present-day Santa Barbara County. 35,485 acres. U.S. land case SD 310: Confirmed.",
+   "summary": "Granted 1845 by Gov. Pío Pico to Maria Antonio Caballero. Claimant before the Land Commission: James B. Huie. Present-day Santa Barbara County. 35,485 acres. U.S. land case SD 310: Confirmed.",
    "owner": "James B. Huie",
    "image": null,
    "land_case": "SD 310",
@@ -68670,7 +68670,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268936"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as James B. Huie, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Maria Antonio Caballero.",
    "tags": [
     "Santa Barbara"
    ],
@@ -69655,7 +69655,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256561"
     }
    ],
-   "notes": "⚠ The map paired Figueroa with 1836; he died on 29 September 1835. Hoffman (commission 193, N.D. 227) prints both instruments, and the rancho portal's grantor-office audit read the case file and found the same, recording Gutiérrez as acting governor.",
+   "notes": "⚠ The map paired Figueroa with 1836; he died on 29 September 1835. Hoffman (commission 193, N.D. 227) prints both instruments, and the rancho portal's grantor-office audit read the case file and found the same, recording Gutiérrez as acting governor. Two instruments. The pin is dated and coloured for the second, Gutiérrez's of 24 February 1836, under which the title was completed; Figueroa's grant of 31 December 1833 is the earlier one.",
    "tags": [],
    "polygon": [
     [
@@ -72810,7 +72810,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Ellen E. White. 26,621 acres. U.S. land case SD 071: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Mauricio Gonzalez. Claimant before the Land Commission: Ellen E. White. 26,621 acres. U.S. land case SD 071: Confirmed.",
    "owner": "Ellen E. White",
    "image": null,
    "land_case": "SD 071",
@@ -72824,7 +72824,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265821"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Ellen E. White, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Mauricio Gonzalez.",
    "tags": [],
    "polygon": [
     [
@@ -73091,7 +73091,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to William Johnson. Present-day Yuba County. 22,197 acres. U.S. land case ND 397: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Pablo Gutierrez. Claimant before the Land Commission: William Johnson. Present-day Yuba County. 22,197 acres. U.S. land case ND 397: Confirmed.",
    "owner": "William Johnson",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-johnson-s-rancho-yuba-co-calif--rec78775.jpg",
    "land_case": "ND 397",
@@ -73105,7 +73105,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264244"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as William Johnson, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Pablo Gutierrez.",
    "tags": [
     "Yuba"
    ],
@@ -74709,7 +74709,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1837 by Gov. Alvarado to Luis T. Burton and José Carrillo. Present-day Santa Barbara County. 42,184 acres. U.S. land case SD 268: Confirmed.",
+   "summary": "Granted 1837 by Gov. Alvarado to Lucas Olivera et al. Claimant before the Land Commission: Luis T. Burton and José Carrillo. Present-day Santa Barbara County. 42,184 acres. U.S. land case SD 268: Confirmed.",
    "owner": "Luis T. Burton and José Carrillo",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-rio-de-jes-s-maria-yolo-co-calif--rec78428.jpg",
    "land_case": "SD 268",
@@ -74723,7 +74723,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/267609"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Luis T. Burton and José Carrillo, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Lucas Olivera et al.",
    "tags": [
     "Santa Barbara"
    ],
@@ -76083,7 +76083,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1838 by Gov. Alvarado to William (Guillermo) A. Richardson. Present-day Marin County. 19,571 acres. U.S. land case ND 083: Confirmed.",
+   "summary": "Granted 1838 by Gov. Alvarado to Jose Antonio Galindo. Claimant before the Land Commission: William (Guillermo) A. Richardson. Present-day Marin County. 19,571 acres. U.S. land case ND 083: Confirmed.",
    "owner": "William (Guillermo) A. Richardson",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-saucelito-marin-co-calif--rec79041.jpg",
    "land_case": "ND 083",
@@ -76097,7 +76097,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265445"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as William (Guillermo) A. Richardson, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Jose Antonio Galindo.",
    "tags": [
     "Marin"
    ],
@@ -77346,7 +77346,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1841 by Gov. Alvarado to Joaquín Estrada. Present-day San Luis Obispo County. 17,734 acres. U.S. land case SD 149: Confirmed.",
+   "summary": "Granted 1841 by Manuel Jimeno, acting governor, to Joaquín Estrada. Present-day San Luis Obispo County. 17,734 acres. U.S. land case SD 149: Confirmed.",
    "owner": "Joaquín Estrada",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-san-pedro-santa-margarita-y-las-gallinas-c--rec78418.jpg",
    "land_case": "SD 149",
@@ -77360,7 +77360,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266109"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"1st Regular Vocal of the Most Excellent Departmental Junta in exercise of the Government of the same\" (titulo, sworn translation, stamped p.15)",
    "tags": [
     "San Luis Obispo"
    ],
@@ -77627,7 +77627,7 @@
    "acres": 17734,
    "rank_note": "162nd of 493 by area (17,734 acres)",
    "grantee": "Joaquín Estrada",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "to": "Joaquin Estrada",
@@ -80819,7 +80819,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1845 by Gov. Pío Pico to T. W. Sutherland. Present-day San Diego County. 48,799 acres. U.S. land case SD 114: Confirmed.",
+   "summary": "Granted 1845 by Gov. Pío Pico to Maria Antonia Estudillo de Pedrorena. Claimant before the Land Commission: T. W. Sutherland. Present-day San Diego County. 48,799 acres. U.S. land case SD 114: Confirmed.",
    "owner": "T. W. Sutherland",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-cajo-de-sn-alijo-calif--rec78921.jpg",
    "land_case": "SD 114",
@@ -80833,7 +80833,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265855"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as T. W. Sutherland, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Maria Antonia Estudillo de Pedrorena.",
    "tags": [
     "San Diego"
    ],
@@ -81336,7 +81336,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Samuel Norris. Present-day Sacramento County. 44,371 acres. U.S. land case ND 053: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Eliab Grimes. Claimant before the Land Commission: Samuel Norris. Present-day Sacramento County. 44,371 acres. U.S. land case ND 053: Confirmed.",
    "owner": "Samuel Norris",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-del-paso-sacramento-co-calif--rec78438.jpg",
    "land_case": "ND 053",
@@ -81350,7 +81350,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264440"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Samuel Norris, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Eliab Grimes.",
    "tags": [
     "Sacramento"
    ],
@@ -82324,7 +82324,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Thomas O. Larkin. Present-day Sutter County. 22,184 acres. U.S. land case ND 358: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Charles William Flugge. Claimant before the Land Commission: Thomas O. Larkin. Present-day Sutter County. 22,184 acres. U.S. land case ND 358: Confirmed.",
    "owner": "Thomas O. Larkin",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-boga-calif-john-bidwell--rec78492-1.jpg",
    "land_case": "ND 358",
@@ -82338,7 +82338,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264195"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Thomas O. Larkin, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Charles William Flugge.",
    "tags": [
     "Sutter"
    ],
@@ -83003,7 +83003,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to James Swanson, administrator. Present-day Contra Costa County. 13,292 acres. U.S. land case ND 087: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to William Welch. Claimant before the Land Commission: James Swanson, administrator. Present-day Contra Costa County. 13,292 acres. U.S. land case ND 087: Confirmed.",
    "owner": "James Swanson, administrator",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dese-o-de-la-parte-occidental-del-terreno-llamada-las-juntas--rec79043.jpg",
    "land_case": "ND 087",
@@ -83017,7 +83017,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265449"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as James Swanson, administrator, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names William Welch.",
    "tags": [
     "Contra Costa"
    ],
@@ -85492,7 +85492,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to William H. McKee. Present-day Glenn County. 35,487 acres. U.S. land case ND 056: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Jacinto Rodriguez. Claimant before the Land Commission: William H. McKee. Present-day Glenn County. 35,487 acres. U.S. land case ND 056: Confirmed.",
    "owner": "William H. McKee",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-parage-llamado-el-potrero-de-san-jacinto-calif--rec78823-1.jpg",
    "land_case": "ND 056",
@@ -85506,7 +85506,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264442"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as William H. McKee, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Jacinto Rodriguez.",
    "tags": [
     "Glenn"
    ],
@@ -90247,7 +90247,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "spanish",
-   "summary": "Granted 1805 by a Spanish governor to Leon V. Prudhomme. Present-day Los Angeles County. 13,315 acres. U.S. land case SD 147: Confirmed.",
+   "summary": "Granted 1805 by a Spanish governor to Jose Bartolome Tapia. Claimant before the Land Commission: Leon V. Prudhomme. Present-day Los Angeles County. 13,315 acres. U.S. land case SD 147: Confirmed.",
    "owner": "Leon V. Prudhomme",
    "image": null,
    "land_case": "SD 147",
@@ -90261,7 +90261,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266107"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Leon V. Prudhomme, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Jose Bartolome Tapia.",
    "tags": [
     "Los Angeles"
    ],
@@ -91399,7 +91399,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to John Bidwell. Present-day Butte County. 22,214 acres. U.S. land case ND 038: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to William Dickey. Claimant before the Land Commission: John Bidwell. Present-day Butte County. 22,214 acres. U.S. land case ND 038: Confirmed.",
    "owner": "John Bidwell",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-arroyo-chico-calif-john-bidwell--rec78472.jpg",
    "land_case": "ND 038",
@@ -91413,7 +91413,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264425"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as John Bidwell, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names William Dickey.",
    "tags": [
     "Butte"
    ],
@@ -91885,7 +91885,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1846 by Gov. Pío Pico to T. W. Sutherland, guardian. Present-day Riverside County. 48,861 acres. U.S. land case SD 082: Confirmed.",
+   "summary": "Granted 1846 by Gov. Pío Pico to Miguel Pedrorena. Claimant before the Land Commission: T. W. Sutherland, guardian. Present-day Riverside County. 48,861 acres. U.S. land case SD 082: Confirmed.",
    "owner": "T. W. Sutherland, guardian",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-san-jacinto-calif-comprendiendo-el-terreno--rec79612.jpg",
    "land_case": "SD 082",
@@ -91899,7 +91899,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265830"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as T. W. Sutherland, guardian, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Miguel Pedrorena.",
    "tags": [
     "Riverside"
    ],
@@ -93287,7 +93287,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1842 by Gov. Alvarado to José Antonio Estudillo. Present-day Riverside County. 35,503 acres. U.S. land case SD 233: Confirmed.",
+   "summary": "Granted 1842 by Manuel Jimeno, acting governor, to José Antonio Estudillo. Present-day Riverside County. 35,503 acres. U.S. land case SD 233: Confirmed.",
    "owner": "José Antonio Estudillo",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-san-jacinto-viejo-calif--rec78924.jpg",
    "land_case": "SD 233",
@@ -93301,7 +93301,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/267574"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Manuel Jimeno acted as acting governor. Verbatim: \"el Exmo Sr Gobernador Interino del Departamento Dn Manuel Jimeno\" (judicial possession, transcript p.22)",
    "tags": [
     "Riverside"
    ],
@@ -93492,7 +93492,7 @@
    "acres": 35503,
    "rank_note": "61st of 493 by area (35,503 acres)",
    "grantee": "José Antonio Estudillo",
-   "governor_name": "Alvarado",
+   "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
    "patent": {
     "to": "the heirs of Jose A Estudillo",
@@ -94245,7 +94245,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1843 by Gov. Micheltorena to María Anastasia Higuera de Berreyesa. Present-day Napa County. 35,515 acres. U.S. land case ND 175: Confirmed.",
+   "summary": "Granted 1843 by Gov. Micheltorena to Jose de Jesus y Sisto Berreyesa. Claimant before the Land Commission: María Anastasia Higuera de Berreyesa. Present-day Napa County. 35,515 acres. U.S. land case ND 175: Confirmed.",
    "owner": "María Anastasia Higuera de Berreyesa",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/rancho-de-las-putas-on-putas-river-in-napa-county-california--rec79515.jpg",
    "land_case": "ND 175",
@@ -94259,7 +94259,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265535"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as María Anastasia Higuera de Berreyesa, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Jose de Jesus y Sisto Berreyesa.",
    "tags": [
     "Napa"
    ],
@@ -95317,8 +95317,8 @@
    "id": "rancho-pulgas",
    "name": "Pulgas",
    "date": {
-    "iso": "1820",
-    "display": "1820",
+    "iso": "1835",
+    "display": "1835",
     "confidence": "year"
    },
    "coords": [
@@ -95327,8 +95327,8 @@
    ],
    "coord_precision": "exact",
    "type": "rancho",
-   "layer": "spanish",
-   "summary": "Granted 1820 by a Spanish governor to Luis Arguello. Present-day San Mateo County. 35,240 acres. U.S. land case ND 054: Confirmed.",
+   "layer": "interim",
+   "summary": "Granted 1835 by José Castro, acting governor, to Luis Arguello. Present-day San Mateo County. 35,240 acres. U.S. land case ND 054: Confirmed.",
    "owner": "María de la Soledad Ortega de Argüello",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-pulgas-calif-francisco-del-castillo-negret--rec78441.jpg",
    "land_case": "ND 054",
@@ -95342,7 +95342,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264441"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: José Castro acted as acting governor. Verbatim: \"the Political Chief or Governor of Alta California\", and of the decree of concession of 26 November 1835, \"the said Governor or Political Chief\" (claimants' petition, PDF p.19) ⚠ The map dated this 1820. The register carried year 1820 and era 'spanish' on the strength of the phrase 'a Spanish governor', which this correction retires. Leaving either would go on asserting a Spanish-period grant after the operative title has been established as Mexican. Hoffman's printed year is 1835, and Castro's acti",
    "tags": [
     "San Mateo"
    ],
@@ -95861,7 +95861,7 @@
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Luis Arguello",
-   "governor_name": "a Spanish governor",
+   "governor_name": "José Castro",
    "patent": {
     "to": "Mar\\u00eda de la Soledad Ortega de Arg\\u00fcello et al",
     "date": "Oct. 2, 1857",
@@ -103431,7 +103431,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Charles M. Weber. Present-day San Joaquin County. 48,747 acres. U.S. land case ND 298: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Guillermo Gulnack. Claimant before the Land Commission: Charles M. Weber. Present-day San Joaquin County. 48,747 acres. U.S. land case ND 298: Confirmed.",
    "owner": "Charles M. Weber",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plat-of-the-rancho-campo-de-los-franceses-finally-confirmed---rec79563-1.jpg",
    "land_case": "ND 298",
@@ -103445,7 +103445,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256627"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Charles M. Weber, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Guillermo Gulnack.",
    "tags": [
     "San Joaquin"
    ],
@@ -103793,7 +103793,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1843 by Gov. Micheltorena to James M. Harbin. Present-day Yolo County. 26,637 acres. U.S. land case ND 360: Confirmed.",
+   "summary": "Granted 1843 by Gov. Micheltorena to Tomas Hardy. Claimant before the Land Commission: James M. Harbin. Present-day Yolo County. 26,637 acres. U.S. land case ND 360: Confirmed.",
    "owner": "James M. Harbin",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-rio-de-jes-s-maria-yolo-co-calif--rec78428.jpg",
    "land_case": "ND 360",
@@ -103807,7 +103807,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264197"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as James M. Harbin, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Tomas Hardy.",
    "tags": [
     "Yolo"
    ],
@@ -108002,7 +108002,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Charles Covillaud. Present-day Yuba County. 31,079 acres. U.S. land case ND 301: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Teodoro Cordua. Claimant before the Land Commission: Charles Covillaud. Present-day Yuba County. 31,079 acres. U.S. land case ND 301: Confirmed.",
    "owner": "Charles Covillaud",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-honcut-calif--rec78572.jpg",
    "land_case": "ND 301",
@@ -108016,7 +108016,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/256630"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Charles Covillaud, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Teodoro Cordua.",
    "tags": [
     "Yuba"
    ],
@@ -113688,8 +113688,8 @@
    "id": "rancho-petaluma",
    "name": "Petaluma",
    "date": {
-    "iso": "1834",
-    "display": "1834",
+    "iso": "1843",
+    "display": "1843",
     "confidence": "year"
    },
    "coords": [
@@ -113698,8 +113698,8 @@
    ],
    "coord_precision": "exact",
    "type": "rancho",
-   "layer": "figueroa",
-   "summary": "Granted 1834 by Gov. Figueroa to M.G. Vallejo. Present-day Sonoma County. 66,622 acres. U.S. land case ND 321: Confirmed.",
+   "layer": "micheltorena",
+   "summary": "Granted 1843 by Gov. Micheltorena to M.G. Vallejo. Present-day Sonoma County. 66,622 acres. U.S. land case ND 321: Confirmed.",
    "owner": "M.G. Vallejo",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/map-of-the-land-of-petaluma-sonoma-co-calif--rec78692.jpg",
    "land_case": "ND 321",
@@ -113713,7 +113713,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/102021"
     }
    ],
-   "notes": null,
+   "notes": "Office read at the Bancroft land case file, independently re-checked and cross-checked against Hoffman: Micheltorena acted as governor. Verbatim: \"In conformity with the report, let the title be issued with the conditions of the law. (signed) Micheltorena\" (decree, Monterey, October 1843, p.46) ⚠ The map dated this 1834. Micheltorena was not governor in 1834. Correcting the grantor without the year would leave the row contradicting itself. Hoffman and the case file both date the operative grant to October 1843, which falls in Micheltorena's administration, so era moves with it.",
    "tags": [
     "Sonoma"
    ],
@@ -114794,7 +114794,7 @@
    "acres": 66622,
    "rank_note": "6th-largest of 493 mapped grants (66,622 acres)",
    "grantee": "M.G. Vallejo",
-   "governor_name": "Figueroa",
+   "governor_name": "Micheltorena",
    "outcome": "Confirmed",
    "patent": {
     "to": "M.G. Vallejo",
@@ -119356,7 +119356,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1843 by Gov. Micheltorena to Hiram Grimes, Francis W. Grimes and William H. McKee. 35,446 acres. U.S. land case ND 137: Confirmed.",
+   "summary": "Granted 1843 by Gov. Micheltorena to Valentin Higuera and Rafael Feliz. Claimant before the Land Commission: Hiram Grimes, Francis W. Grimes and William H. McKee. 35,446 acres. U.S. land case ND 137: Confirmed.",
    "owner": "Hiram Grimes, Francis W. Grimes and William H. McKee",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-san-antonio-o-pescadero-san-mateo-co-calif--rec78594.jpg",
    "land_case": "ND 137",
@@ -119370,7 +119370,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265497"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Hiram Grimes, Francis W. Grimes and William H. McKee, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Valentin Higuera and Rafael Feliz.",
    "tags": [],
    "polygon": [
     [
@@ -120626,7 +120626,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Thomas O. Larkin and John S. Missroon. 48,854 acres. U.S. land case ND 023: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Manuel Jimeno. Claimant before the Land Commission: Thomas O. Larkin and John S. Missroon. 48,854 acres. U.S. land case ND 023: Confirmed.",
    "owner": "Thomas O. Larkin and John S. Missroon",
    "image": null,
    "land_case": "ND 023",
@@ -120640,7 +120640,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264412"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Thomas O. Larkin and John S. Missroon, who was the claimant before the Land Commission in the 1850s, not the Mexican grantee. Hoffman's printed 1862 appendix names Manuel Jimeno.",
    "tags": [],
    "polygon": [
     [
