@@ -1,0 +1,3 @@
+
+# editor and script backups must never be published: GitHub Pages serves data/
+*.bak
