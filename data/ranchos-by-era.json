@@ -4866,7 +4866,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/267527"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Hoffman's parsed entry gives the grantees as 'Andres and Jose Manuel' where the map names 'Andrés, Solmé and Catarina'. No raw line survives for this docket.",
    "tags": [
     "San Diego"
    ],
@@ -6261,7 +6261,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Grantee: Isaac Graham and William Ware. Granted 1834, and again on 22 April 1841 by Gov. Juan B. Alvarado to Juan José Crisóstomo Mayor, which is the instrument Hoffman prints. 2,658 acres. U.S. land case ND 342: Confirmed.",
+   "summary": "Granted 1834, and again on 22 April 1841 by Gov. Juan B. Alvarado to Juan José Crisóstomo Mayor, which is the instrument Hoffman prints. Claimant before the Land Commission: Isaac Graham and William Ware. 2,658 acres. U.S. land case ND 342: Confirmed.",
    "owner": "Isaac Graham and William Ware",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-zayanta-santa-cruz-co-calif-by-james-w-wee--rec78712.jpg",
    "land_case": "ND 342",
@@ -6275,7 +6275,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264179"
     }
    ],
-   "notes": "Two instruments. The pin is coloured for Alvarado's administration, under which the operative grant was made; the 1834 date is the earlier one, under Figueroa.",
+   "notes": "Two instruments. The pin is coloured for Alvarado's administration, under which the operative grant was made; the 1834 date is the earlier one, under Figueroa. ⚠ The summary opened 'Grantee: Isaac Graham and William Ware', which is the Land Commission claimant, not the Mexican grantee; Hoffman names Juan José Crisóstomo Mayor.",
    "tags": [],
    "polygon": [
     [
@@ -7950,7 +7950,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265797"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Grantee unsettled. Hoffman's parsed entry names Ygnacio Alviso where the map names Rafael Alviso. No raw line survives for this docket, and Hoffman's parsed fields have been shown elsewhere in this register to disagree with their own raw line, so the map is left as it stands.",
    "tags": [
     "Santa Clara"
    ],
@@ -11605,7 +11605,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/264243"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Hoffman's parsed entry gives the grantees as D. Peralta AND Maximo Martinez; the map names only Domingo Peralta. No raw line survives to confirm the second name.",
    "tags": [
     "San Mateo"
    ],
@@ -15325,7 +15325,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266100"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Grantee unsettled. Hoffman's printed 1862 appendix for S.D. 65 reads 'Raimundo Olivas et al., claimants for San Miguel, 14 square leagues, in Santa Barbara county, granted July 6th, 1841, by Juan B. Alvarado to E. Olivas et al.' The map names P. Apis and gives 4,693 acres against Hoffman's fourteen square leagues, so the two may not be describing the same claim. Not changed here.",
    "tags": [],
    "polygon": [
     [
@@ -29917,7 +29917,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1842 by Gov. Alvarado to James McKinley. 8,874 acres. U.S. land case SD 034: Confirmed.",
+   "summary": "Granted 1842 by Gov. Alvarado to Rafael Estrada. Claimant before the Land Commission: James McKinlay. 8,874 acres. U.S. land case SD 034: Confirmed.",
    "owner": "James McKinley",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-san-lucas-calif--rec78809-1.jpg",
    "land_case": "SD 034",
@@ -29931,7 +29931,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266073"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as James McKinlay, who was the claimant before the Land Commission in the 1850s. Hoffman's printed 1862 appendix names Rafael Estrada as the Mexican grantee.",
    "tags": [],
    "polygon": [
     [
@@ -32223,7 +32223,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266042"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Grantee unsettled. Hoffman's parsed entry for S.D. 1 gives the grantee as Juan B. Alvarado, which is the name of the governor and looks like a parsing slip rather than a reading; no raw line survives to check it against. The map's John B. R. Cooper is left standing and the disagreement is recorded rather than resolved.",
    "tags": [
     "Monterey"
    ],
@@ -38644,7 +38644,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1837 by Gov. Alvarado to James McKinley. Present-day San Luis Obispo County. 8,845 acres. U.S. land case SD 155: Confirmed.",
+   "summary": "Granted 1837 by Gov. Alvarado to Martín Olivera, with the second league to Vicente Féliz. Claimant before the Land Commission: James McKinlay. Present-day San Luis Obispo County. 8,845 acres. U.S. land case SD 155: Confirmed.",
    "owner": "James McKinley",
    "image": null,
    "land_case": "SD 155",
@@ -38658,7 +38658,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266115"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as James McKinlay, who was the claimant before the Land Commission in the 1850s. Hoffman's printed 1862 appendix names Martín Olivera, with the second league to Vicente Féliz as the Mexican grantee. ⚠ Hoffman (commission 529, S.D. 155) describes two leagues: one 'granted April 27th, 1842, to Martin Olivera' with no grantor named, and 'the other by Juan B. Alvarado to Vicente Feliz' with no date. The map's year of 1837 is supported by neither, and is left as the register has it rather than replaced by a guess.",
    "tags": [
     "San Luis Obispo"
    ],
@@ -39112,7 +39112,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "pico",
-   "summary": "Granted 1846 by Gov. Pío Pico to Juan Forster. Present-day San Diego County. 9,972 acres. U.S. land case SD 329: Confirmed.",
+   "summary": "Granted 1846 by Gov. Pío Pico to Felipe Castillo. Claimant before the Land Commission: Juan Forster. Present-day San Diego County. 9,972 acres. U.S. land case SD 329: Confirmed.",
    "owner": "Juan Forster",
    "image": null,
    "land_case": "SD 329",
@@ -39126,7 +39126,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268952"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Juan Forster, who was the claimant before the Land Commission in the 1850s. Hoffman's printed 1862 appendix names Felipe Castillo as the Mexican grantee.",
    "tags": [
     "San Diego"
    ],
@@ -43429,7 +43429,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/102016"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Hoffman's parsed entry names José Francisco Snook where the map names Maria Antonio [ie. Antonia] Snook, an editorial gloss that has been carried into the data as if it were part of the name. No raw line survives to settle which Snook received the grant.",
    "tags": [],
    "polygon": [
     [
@@ -45696,7 +45696,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "alvarado",
-   "summary": "Granted 1841 by Gov. Alvarado to Manuel Alviso. Present-day Santa Clara County. 309 acres. U.S. land case ND 226: Confirmed.",
+   "summary": "Granted 1841 by Gov. Alvarado to José Z. Fernández and José Noriega. Claimant before the Land Commission: Manuel Alviso. Present-day Santa Clara County. 309 acres. U.S. land case ND 226: Confirmed.",
    "owner": "Manuel Alviso",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/plano-del-parage-conscido-por-rancho-de-quito-calif-jose-fer--rec78649.jpg",
    "land_case": "ND 226",
@@ -45710,7 +45710,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266038"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Manuel Alviso, who was the claimant before the Land Commission in the 1850s. Hoffman's printed 1862 appendix names José Z. Fernández and José Noriega as the Mexican grantee.",
    "tags": [
     "Santa Clara"
    ],
@@ -49086,7 +49086,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1843 by Gov. Micheltorena to Manuel Anguisola. 13,339 acres. U.S. land case SD 153: Confirmed.",
+   "summary": "Granted 1843 by Gov. Micheltorena to Francisco López and others. Claimant before the Land Commission: Manuel Arguisola. 13,339 acres. U.S. land case SD 153: Confirmed.",
    "owner": "Manuel Anguisola",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-temascal-los-angeles-and-ventura-counties---rec78853.jpg",
    "land_case": "SD 153",
@@ -49100,7 +49100,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266113"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Manuel Arguisola, who was the claimant before the Land Commission in the 1850s. Hoffman's printed 1862 appendix names Francisco López and others as the Mexican grantee.",
    "tags": [],
    "polygon": [
     [
@@ -51527,7 +51527,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "figueroa",
-   "summary": "Grantee: Liberta Ceseña Bull. Granted 1823. 19,972 acres. U.S. land case ND 211: Confirmed.",
+   "summary": "Granted 23 July 1834 by Gov. José Figueroa to Juan Alvírez. Claimant before the Land Commission: Liberata Ceseña Bull and others, heirs of William Fisher. 19,972 acres. U.S. land case ND 211: Confirmed.",
    "owner": "Liberta Ceseña Bull",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-laguna-seca-calif--rec78503.jpg",
    "land_case": "ND 211",
@@ -51541,7 +51541,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265803"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map read 'Grantee: Liberta Ceseña Bull. Granted 1823.' Both were wrong: Bull was the claimant, and Hoffman's printed 1862 appendix (commission 244, N.D. 211) reads 'granted July 23d, 1834, by José Figueroa to Juan Alvirez'. The date field already held 1834.",
    "tags": [],
    "polygon": [
     [
@@ -85850,7 +85850,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Petrenelo Ríos. Present-day San Luis Obispo County. 25,993 acres. U.S. land case SD 351: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Pedro Narváez. Claimant before the Land Commission: Petronilo Ríos. Present-day San Luis Obispo County. 25,993 acres. U.S. land case SD 351: Confirmed.",
    "owner": "Petrenelo Ríos",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-paso-de-robles-calif--rec78896.jpg",
    "land_case": "SD 351",
@@ -85864,7 +85864,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/268973"
     }
    ],
-   "notes": null,
+   "notes": "⚠ The map gave the grantee as Petronilo Ríos, who was the claimant before the Land Commission in the 1850s. Hoffman's printed 1862 appendix names Pedro Narváez as the Mexican grantee.",
    "tags": [
     "San Luis Obispo"
    ],
@@ -93126,7 +93126,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/265828"
     }
    ],
-   "notes": null,
+   "notes": "⚠ Hoffman's parsed entry names María del Rosario Estudillo de Aguirre where the map names her husband José Antonio Aguirre. No raw line survives to settle which of them the grant names.",
    "tags": [
     "Riverside"
    ],
@@ -101504,7 +101504,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Grantee: Manuela Carrillo de Jones. Granted 4 October 1843 by Gov. Manuel Micheltorena to José Antonio and Carlos Carrillo. 62,696 acres. U.S. land case SD 056: Confirmed.",
+   "summary": "Granted 4 October 1843 by Gov. Manuel Micheltorena to José Antonio and Carlos Carrillo. Claimant before the Land Commission: Manuela Carrillo de Jones. 62,696 acres. U.S. land case SD 056: Confirmed.",
    "owner": "Manuela Carrillo de Jones",
    "image": "https://maps.archivesofcalifornia.com/gallery/disenos-img/dise-o-del-rancho-santa-rosa-santa-barbara-county-calif--rec78544.jpg",
    "land_case": "SD 056",
@@ -101518,7 +101518,7 @@
      "url": "https://digicoll.lib.berkeley.edu/record/266093"
     }
    ],
-   "notes": "⚠ The map dated this 1841, under Alvarado. Hoffman (commission 117, S.D. 56) reads 'granted October 4th, 1843, by Manuel Micheltorena to Jose Antonio and Carlos Carrillo'. Manuela Carrillo de Jones was the claimant, not the grantee.",
+   "notes": "⚠ The map dated this 1841, under Alvarado. Hoffman (commission 117, S.D. 56) reads 'granted October 4th, 1843, by Manuel Micheltorena to Jose Antonio and Carlos Carrillo'. Manuela Carrillo de Jones was the claimant, not the grantee. ⚠ The summary opened 'Grantee: Manuela Carrillo de Jones', which is the Land Commission claimant, not the Mexican grantee; Hoffman names José Antonio and Carlos Carrillo.",
    "tags": [],
    "polygon": [
     [
