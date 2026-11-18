@@ -462,7 +462,12 @@
    "quote": null,
    "sources": [
     {
-     "citation": "C-A 13 Docs 263–264 (Podushkin's request, 22 Apr 1817; Baranov's protest, 2 Feb 1817).",
+     "citation": "C-A 13 Doc 263: Lt. Yakov Podushkin (RAC) to Gov. Solá, Monterey, 22 Apr 1817 · his request for the return of a deserted Kodiak sailor of the Chirikoff.",
+     "ca_record": "ca13-d263",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "C-A 13 Doc 264: Alexander Baranov to Gov. Solá, Novo-Arkhangelsk, 2 Feb 1817 · the RAC protest carried on the same voyage.",
      "ca_record": "ca13-d264",
      "ia_leaf_url": null
     }

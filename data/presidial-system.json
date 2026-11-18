@@ -338,8 +338,13 @@
    "quote": null,
    "sources": [
     {
-     "citation": "Presidio garrison & artillery register (vault); build cost C-A 24 Docs 62, 70",
+     "citation": "Presidio garrison & artillery register (vault); build cost C-A 24 Doc 70 (Borica, 20 Jan 1795: the castillo cost $6,491 4r 7g, excluding the mule freight owed Missions San Francisco and Santa Clara)",
      "ca_record": "ca24-d70",
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "C-A 24 Doc 62 (Borica, 24 Dec 1794: the blessing of the fuerte de San Joaquín, performed 'con toda solemnidad')",
+     "ca_record": "ca24-d62",
      "ia_leaf_url": null
     }
    ],
