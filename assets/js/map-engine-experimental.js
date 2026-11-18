@@ -120,13 +120,11 @@
       f.disenos.forEach(function (d) {
         h += '<img class="popup-diseno" src="' + esc(d.thumb) + '" data-full="' + esc(d.img) + '" title="' + esc(d.title || '') + '" loading="lazy" alt="Diseño (land-case map)" onclick="window.__disenoLB(this)">';
       });
-      // Attached by rancho NAME, not by land case: 513 of the 1,092 distinct images sit on more than one
-      // feature, and every rancho called San Antonio receives all 82 San Antonio images. Until the
-      // attachment is keyed on the land case the caption must not call these the grant's own map.
-      h += '</div><span class="diseno-cap">' + f.disenos.length + ' land-case map' + (f.disenos.length > 1 ? 's' : '')
-         + ' from the Bancroft Library, matched to this rancho by name and not by land case, so'
-         + (f.disenos.length > 1 ? ' some may' : ' it may')
-         + ' belong to another grant of the same name (click to enlarge)</span>';
+      // Keyed on land case since 2026-11-17: an image is attached only when the Bancroft catalogue
+      // record files it in this feature's land case (MARC 710 / 500 note); a record filed in several
+      // cases must also name the rancho in its title. See vault maps-verification-2026-11/apply_diseno_cases.py.
+      h += '</div><span class="diseno-cap">' + f.disenos.length + ' map' + (f.disenos.length > 1 ? 's' : '')
+         + ' filed in U.S. land case ' + esc(f.land_case || '') + ', per the Bancroft Library catalogue (click to enlarge)</span>';
     }
     if (f.series && f.series.length) {
       h += '<details class="series-box"><summary>' + esc(f.series_label || 'Dated series') +
