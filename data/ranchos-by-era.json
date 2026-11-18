@@ -3808,7 +3808,7 @@
     }
    ],
    "acres": 7424,
-   "rank_note": "313th of 493 by area (7,424 acres)",
+   "rank_note": "312th of 493 by area (7,424 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "G. C. Yount",
@@ -5187,7 +5187,7 @@
     }
    ],
    "acres": 8813,
-   "rank_note": "296th of 493 by area (8,813 acres)",
+   "rank_note": "295th of 493 by area (8,813 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Catalina Manzaneli de Munras",
@@ -5729,7 +5729,7 @@
     }
    ],
    "acres": 8991,
-   "rank_note": "248th of 493 by area (8,991 acres)",
+   "rank_note": "247th of 493 by area (8,991 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Juan Crispin Perez",
@@ -7237,7 +7237,7 @@
     }
    ],
    "acres": 4481,
-   "rank_note": "354th of 493 by area (4,481 acres)",
+   "rank_note": "353rd of 493 by area (4,481 acres)",
    "outcome": "Confirmed",
    "leagues": "6/7 of 1",
    "grantee": "Vicente Sanchez",
@@ -7599,7 +7599,7 @@
     }
    ],
    "acres": 4458,
-   "rank_note": "357th of 493 by area (4,458 acres)",
+   "rank_note": "356th of 493 by area (4,458 acres)",
    "grantee": "María Antonio de la Guerra Lataillade",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -8255,7 +8255,7 @@
     }
    ],
    "acres": 4431,
-   "rank_note": "380th of 493 by area (4,431 acres)",
+   "rank_note": "379th of 493 by area (4,431 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "A. Ybarra",
@@ -8283,7 +8283,7 @@
    "coord_precision": "exact",
    "type": "rancho",
    "layer": "micheltorena",
-   "summary": "Granted 1844 by Gov. Micheltorena to Bishop S. Alemany. Present-day San Luis Obispo County. 35,499 acres. U.S. land case SD 388: Confirmed.",
+   "summary": "Granted 1844 by Gov. Micheltorena to Bishop S. Alemany. Present-day San Luis Obispo County. 4,157 acres. U.S. land case SD 388: Confirmed.",
    "owner": "Bishop S. Alemany",
    "image": null,
    "land_case": "SD 388",
@@ -8295,9 +8295,13 @@
     {
      "citation": "Land case file SD 388, Bancroft Library (digicoll)",
      "url": "https://digicoll.lib.berkeley.edu/record/269007"
+    },
+    {
+     "citation": "Hoffman, Reports of Land Cases Determined in the United States District Court for the Northern District of California (1862), appendix, claim 609 (N.D. 425, S.D. 388)",
+     "url": "https://archive.org/details/reportsoflandcas01hoff"
     }
    ],
-   "notes": "⚠ U.S. land case SD 388 is carried by 2 features on this map (Canada De Los Pinos Or College Rancho, Laguna), and each one repeats the whole case's 35,499 acres, so the acreage and the size rank count this grant 2 times. The pins stand up to 96 km apart. Several of these are the claimant parcels of a partitioned case rather than separate grants; the map does not yet divide the acreage between them.",
+   "notes": "La Laguna and the Cañada de los Pinos (College Rancho) are two separate properties in one claim, Archbishop Alemany's claim for the mission lands, land case SD 388 (ND 425). Hoffman's 1862 appendix lists 'La Laguna, 1 square league, in San Luis Obispo county; containing 4,157.02 acres. Patented.' This map previously gave Laguna the College Rancho's 35,499 acres. Hoffman gives no grant date or grantor for La Laguna; the 1844 Micheltorena grant shown here comes from the rancho register and is unverified for this property.",
    "tags": [
     "San Luis Obispo"
    ],
@@ -8333,17 +8337,12 @@
      "url": "https://digicoll.lib.berkeley.edu/record/79241"
     }
    ],
-   "acres": 35499,
-   "rank_note": "62nd of 493 by area (35,499 acres)",
+   "acres": 4157,
+   "rank_note": "402nd of 493 by area (4,157 acres)",
    "grantee": "Bishop S. Alemany",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
-   "patent": {
-    "to": "Bishop Joseph S. Alemany",
-    "date": "Feb. 28, 1861",
-    "acres": "35,499.37",
-    "glo": "363"
-   },
+   "patent": null,
    "scan_url": "https://digicoll.lib.berkeley.edu/record/269007"
   },
   {
@@ -8426,7 +8425,7 @@
     }
    ],
    "acres": 4453,
-   "rank_note": "360th of 493 by area (4,453 acres)",
+   "rank_note": "359th of 493 by area (4,453 acres)",
    "grantee": "George C. Yount",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -8725,7 +8724,7 @@
    ],
    "disenos": [],
    "acres": 4493,
-   "rank_note": "352nd of 493 by area (4,493 acres)",
+   "rank_note": "351st of 493 by area (4,493 acres)",
    "grantee": "Manuel Larios",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -8835,7 +8834,7 @@
     }
    ],
    "acres": 4438,
-   "rank_note": "371st of 493 by area (4,438 acres)",
+   "rank_note": "370th of 493 by area (4,438 acres)",
    "outcome": "Confirmed",
    "grantee": "Antonio del Valle",
    "governor_name": "Manuel Micheltorena",
@@ -8951,7 +8950,7 @@
     }
    ],
    "acres": 4389,
-   "rank_note": "393rd of 493 by area (4,389 acres)",
+   "rank_note": "392nd of 493 by area (4,389 acres)",
    "grantee": "Guadalupe Cantua",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -9077,7 +9076,7 @@
     }
    ],
    "acres": 4450,
-   "rank_note": "362nd of 493 by area (4,450 acres)",
+   "rank_note": "361st of 493 by area (4,450 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Jose Maria Amador",
@@ -9181,7 +9180,7 @@
    ],
    "disenos": [],
    "acres": 4449,
-   "rank_note": "363rd of 493 by area (4,449 acres)",
+   "rank_note": "362nd of 493 by area (4,449 acres)",
    "grantee": "María Rita Valdez",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -9268,7 +9267,7 @@
    ],
    "disenos": [],
    "acres": 4439,
-   "rank_note": "367th of 493 by area (4,439 acres)",
+   "rank_note": "366th of 493 by area (4,439 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Francisco Abila",
@@ -9377,7 +9376,7 @@
     }
    ],
    "acres": 4443,
-   "rank_note": "366th of 493 by area (4,443 acres)",
+   "rank_note": "365th of 493 by area (4,443 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Jose de Jesus Noe",
@@ -9623,7 +9622,7 @@
     }
    ],
    "acres": 4348,
-   "rank_note": "397th of 493 by area (4,348 acres)",
+   "rank_note": "396th of 493 by area (4,348 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Trifon Garcia",
@@ -9716,7 +9715,7 @@
     }
    ],
    "acres": 4437,
-   "rank_note": "375th of 493 by area (4,437 acres)",
+   "rank_note": "374th of 493 by area (4,437 acres)",
    "outcome": "Confirmed",
    "grantee": "Zeferino Carlon",
    "governor_name": "Alvarado",
@@ -9864,7 +9863,7 @@
     }
    ],
    "acres": 4460,
-   "rank_note": "356th of 493 by area (4,460 acres)",
+   "rank_note": "355th of 493 by area (4,460 acres)",
    "grantee": "Quintin Ortega",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -9982,7 +9981,7 @@
     }
    ],
    "acres": 4431,
-   "rank_note": "381st of 493 by area (4,431 acres)",
+   "rank_note": "380th of 493 by area (4,431 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Ignacio Palomares and Ricardo Vejar; Luis Arenas",
@@ -10217,7 +10216,7 @@
    ],
    "disenos": [],
    "acres": 4437,
-   "rank_note": "376th of 493 by area (4,437 acres)",
+   "rank_note": "375th of 493 by area (4,437 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "J. A. Estudillo",
@@ -10344,7 +10343,7 @@
     }
    ],
    "acres": 4438,
-   "rank_note": "372nd of 493 by area (4,438 acres)",
+   "rank_note": "371st of 493 by area (4,438 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Q. Ortega",
@@ -10903,7 +10902,7 @@
     }
    ],
    "acres": 4438,
-   "rank_note": "373rd of 493 by area (4,438 acres)",
+   "rank_note": "372nd of 493 by area (4,438 acres)",
    "grantee": "María Z. Berreyesa",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -11077,7 +11076,7 @@
     }
    ],
    "acres": 4457,
-   "rank_note": "358th of 493 by area (4,457 acres)",
+   "rank_note": "357th of 493 by area (4,457 acres)",
    "grantee": "José María Alviso",
    "governor_name": "the interim government",
    "outcome": "Confirmed",
@@ -11175,7 +11174,7 @@
     }
    ],
    "acres": 4431,
-   "rank_note": "382nd of 493 by area (4,431 acres)",
+   "rank_note": "381st of 493 by area (4,431 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Manuel Antonio",
@@ -11274,7 +11273,7 @@
     }
    ],
    "acres": 4452,
-   "rank_note": "361st of 493 by area (4,452 acres)",
+   "rank_note": "360th of 493 by area (4,452 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "G. Ybarra",
@@ -11393,7 +11392,7 @@
     }
    ],
    "acres": 22340,
-   "rank_note": "115th of 493 by area (22,340 acres)",
+   "rank_note": "114th of 493 by area (22,340 acres)",
    "outcome": "Confirmed",
    "grantee": "R. Vejar, Ignacio Palomares and Luis Arenas",
    "governor_name": "Alvarado",
@@ -11682,7 +11681,7 @@
     }
    ],
    "acres": 4424,
-   "rank_note": "387th of 493 by area (4,424 acres)",
+   "rank_note": "386th of 493 by area (4,424 acres)",
    "grantee": "Fermin Espinoza de Perez",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -11834,7 +11833,7 @@
     }
    ],
    "acres": 4426,
-   "rank_note": "385th of 493 by area (4,426 acres)",
+   "rank_note": "384th of 493 by area (4,426 acres)",
    "grantee": "Daniel (Antonio) Hill",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -11909,7 +11908,7 @@
    ],
    "disenos": [],
    "acres": 4411,
-   "rank_note": "392nd of 493 by area (4,411 acres)",
+   "rank_note": "391st of 493 by area (4,411 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Juan Antonio Munoz",
@@ -12104,7 +12103,7 @@
     }
    ],
    "acres": 4438,
-   "rank_note": "374th of 493 by area (4,438 acres)",
+   "rank_note": "373rd of 493 by area (4,438 acres)",
    "grantee": "Juana Briones de Miranda",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -12244,7 +12243,7 @@
     }
    ],
    "acres": 4591,
-   "rank_note": "349th of 493 by area (4,591 acres)",
+   "rank_note": "348th of 493 by area (4,591 acres)",
    "outcome": "Confirmed",
    "grantee": "Antonio Romero",
    "governor_name": "Alvarado",
@@ -12664,7 +12663,7 @@
     }
    ],
    "acres": 4384,
-   "rank_note": "394th of 493 by area (4,384 acres)",
+   "rank_note": "393rd of 493 by area (4,384 acres)",
    "grantee": "The",
    "governor_name": "Pablo Vicente de Solá",
    "outcome": "Confirmed",
@@ -12870,7 +12869,7 @@
     }
    ],
    "acres": 4436,
-   "rank_note": "377th of 493 by area (4,436 acres)",
+   "rank_note": "376th of 493 by area (4,436 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "T. Vasquez",
@@ -13033,7 +13032,7 @@
     }
    ],
    "acres": 4366,
-   "rank_note": "396th of 493 by area (4,366 acres)",
+   "rank_note": "395th of 493 by area (4,366 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Lazaro Soto",
@@ -13152,7 +13151,7 @@
     }
    ],
    "acres": 4439,
-   "rank_note": "368th of 493 by area (4,439 acres)",
+   "rank_note": "367th of 493 by area (4,439 acres)",
    "grantee": "José Rocha, José J. Rocha, and Josefa de la Merced de Jordan",
    "governor_name": "José Antonio Carrillo",
    "outcome": "Confirmed",
@@ -13256,7 +13255,7 @@
     }
    ],
    "acres": 4436,
-   "rank_note": "378th of 493 by area (4,436 acres)",
+   "rank_note": "377th of 493 by area (4,436 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Juan Jose Crisostomo Mayor",
@@ -13391,7 +13390,7 @@
     }
    ],
    "acres": 4306,
-   "rank_note": "399th of 493 by area (4,306 acres)",
+   "rank_note": "398th of 493 by area (4,306 acres)",
    "grantee": "Joaquín Gutierrez",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -13505,7 +13504,7 @@
     }
    ],
    "acres": 4434,
-   "rank_note": "379th of 493 by area (4,434 acres)",
+   "rank_note": "378th of 493 by area (4,434 acres)",
    "outcome": "Confirmed",
    "grantee": "Guadalupe Figueroa",
    "governor_name": "Nicolas Gutierrez",
@@ -13725,7 +13724,7 @@
     }
    ],
    "acres": 6658,
-   "rank_note": "328th of 493 by area (6,658 acres)",
+   "rank_note": "327th of 493 by area (6,658 acres)",
    "grantee": "Domingo Saenz (Sais)",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -13811,7 +13810,7 @@
     }
    ],
    "acres": 6671,
-   "rank_note": "322nd of 493 by area (6,671 acres)",
+   "rank_note": "321st of 493 by area (6,671 acres)",
    "outcome": "Confirmed",
    "leagues": "1½",
    "grantee": "Francisco Garcia",
@@ -14056,7 +14055,7 @@
     }
    ],
    "acres": 4418,
-   "rank_note": "390th of 493 by area (4,418 acres)",
+   "rank_note": "389th of 493 by area (4,418 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Gil Sanchez",
@@ -14171,7 +14170,7 @@
     }
    ],
    "acres": 4439,
-   "rank_note": "369th of 493 by area (4,439 acres)",
+   "rank_note": "368th of 493 by area (4,439 acres)",
    "outcome": "Confirmed",
    "grantee": "Santiago Johnson",
    "governor_name": "Micheltorena",
@@ -14292,7 +14291,7 @@
    ],
    "disenos": [],
    "acres": 4693,
-   "rank_note": "348th of 493 by area (4,693 acres)",
+   "rank_note": "347th of 493 by area (4,693 acres)",
    "outcome": "Confirmed",
    "grantee": "P. Apis",
    "governor_name": "Alvarado",
@@ -14764,7 +14763,7 @@
     }
    ],
    "acres": 4424,
-   "rank_note": "388th of 493 by area (4,424 acres)",
+   "rank_note": "387th of 493 by area (4,424 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "C. Miramontes",
@@ -14969,7 +14968,7 @@
     }
    ],
    "acres": 4310,
-   "rank_note": "398th of 493 by area (4,310 acres)",
+   "rank_note": "397th of 493 by area (4,310 acres)",
    "grantee": "Juan M. Anzar",
    "governor_name": "a Spanish governor",
    "outcome": "Confirmed",
@@ -15219,7 +15218,7 @@
    ],
    "disenos": [],
    "acres": 6657,
-   "rank_note": "329th of 493 by area (6,657 acres)",
+   "rank_note": "328th of 493 by area (6,657 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "M. Estudillo",
@@ -15308,7 +15307,7 @@
     }
    ],
    "acres": 6624,
-   "rank_note": "336th of 493 by area (6,624 acres)",
+   "rank_note": "335th of 493 by area (6,624 acres)",
    "outcome": "Confirmed",
    "leagues": "1½",
    "grantee": "Jose M. Boronda and Vicente Blas Martinez",
@@ -15589,7 +15588,7 @@
     }
    ],
    "acres": 4426,
-   "rank_note": "386th of 493 by area (4,426 acres)",
+   "rank_note": "385th of 493 by area (4,426 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Fabian Barretto",
@@ -15829,7 +15828,7 @@
    ],
    "disenos": [],
    "acres": 4468,
-   "rank_note": "355th of 493 by area (4,468 acres)",
+   "rank_note": "354th of 493 by area (4,468 acres)",
    "grantee": "José Miguel Gomez",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -16001,7 +16000,7 @@
     }
    ],
    "acres": 4431,
-   "rank_note": "383rd of 493 by area (4,431 acres)",
+   "rank_note": "382nd of 493 by area (4,431 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Juan Bandini",
@@ -16097,7 +16096,7 @@
    ],
    "disenos": [],
    "acres": 6607,
-   "rank_note": "337th of 493 by area (6,607 acres)",
+   "rank_note": "336th of 493 by area (6,607 acres)",
    "grantee": "Emigdio Vejar",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -16281,7 +16280,7 @@
     }
    ],
    "acres": 4379,
-   "rank_note": "395th of 493 by area (4,379 acres)",
+   "rank_note": "394th of 493 by area (4,379 acres)",
    "grantee": "Vicente Cane",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -16586,7 +16585,7 @@
    ],
    "disenos": [],
    "acres": 4166,
-   "rank_note": "402nd of 493 by area (4,166 acres)",
+   "rank_note": "401st of 493 by area (4,166 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Ysabel Ortega",
@@ -16793,7 +16792,7 @@
     }
    ],
    "acres": 8824,
-   "rank_note": "294th of 493 by area (8,824 acres)",
+   "rank_note": "293rd of 493 by area (8,824 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Juan Maria Osuna",
@@ -16888,7 +16887,7 @@
     }
    ],
    "acres": 6698,
-   "rank_note": "319th of 493 by area (6,698 acres)",
+   "rank_note": "318th of 493 by area (6,698 acres)",
    "outcome": "Confirmed",
    "leagues": "1.5",
    "grantee": "Mariano R. Roldan",
@@ -17341,7 +17340,7 @@
     }
    ],
    "acres": 6659,
-   "rank_note": "325th of 493 by area (6,659 acres)",
+   "rank_note": "324th of 493 by area (6,659 acres)",
    "grantee": "José M. Sanchez and, on his death, Vicente Sanchez",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -17475,7 +17474,7 @@
     }
    ],
    "acres": 4454,
-   "rank_note": "359th of 493 by area (4,454 acres)",
+   "rank_note": "358th of 493 by area (4,454 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Jose Higuera",
@@ -17588,7 +17587,7 @@
     }
    ],
    "acres": 6685,
-   "rank_note": "320th of 493 by area (6,685 acres)",
+   "rank_note": "319th of 493 by area (6,685 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "R. Castro",
@@ -17735,7 +17734,7 @@
     }
    ],
    "acres": 8659,
-   "rank_note": "302nd of 493 by area (8,659 acres)",
+   "rank_note": "301st of 493 by area (8,659 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Juan Miguel Anzar",
@@ -17926,7 +17925,7 @@
     }
    ],
    "acres": 4421,
-   "rank_note": "389th of 493 by area (4,421 acres)",
+   "rank_note": "388th of 493 by area (4,421 acres)",
    "outcome": "Patented",
    "leagues": "1",
    "grantee": "R. Rodriguez and F. Alviso",
@@ -18217,7 +18216,7 @@
     }
    ],
    "acres": 5473,
-   "rank_note": "347th of 493 by area (5,473 acres)",
+   "rank_note": "346th of 493 by area (5,473 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jacob P. Leese",
@@ -18327,7 +18326,7 @@
    ],
    "disenos": [],
    "acres": 6647,
-   "rank_note": "333rd of 493 by area (6,647 acres)",
+   "rank_note": "332nd of 493 by area (6,647 acres)",
    "outcome": "Confirmed",
    "leagues": "1.5",
    "grantee": "M. I. Berdugo",
@@ -18446,7 +18445,7 @@
     }
    ],
    "acres": 6595,
-   "rank_note": "338th of 493 by area (6,595 acres)",
+   "rank_note": "337th of 493 by area (6,595 acres)",
    "outcome": "Confirmed",
    "leagues": "1.5",
    "grantee": "A. Duarte",
@@ -18538,7 +18537,7 @@
    ],
    "disenos": [],
    "acres": 5941,
-   "rank_note": "342nd of 493 by area (5,941 acres)",
+   "rank_note": "341st of 493 by area (5,941 acres)",
    "outcome": "Confirmed",
    "leagues": "1⅓",
    "grantee": "Feliciano Soberanes et al",
@@ -18657,7 +18656,7 @@
     }
    ],
    "acres": 6659,
-   "rank_note": "326th of 493 by area (6,659 acres)",
+   "rank_note": "325th of 493 by area (6,659 acres)",
    "grantee": "Joaquína Alvarado",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -18883,7 +18882,7 @@
     }
    ],
    "acres": 6685,
-   "rank_note": "321st of 493 by area (6,685 acres)",
+   "rank_note": "320th of 493 by area (6,685 acres)",
    "grantee": "Barbara Soto",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -19041,7 +19040,7 @@
     }
    ],
    "acres": 6631,
-   "rank_note": "335th of 493 by area (6,631 acres)",
+   "rank_note": "334th of 493 by area (6,631 acres)",
    "outcome": "Confirmed",
    "leagues": "1.5",
    "grantee": "S. Peralta and J. Hernandez",
@@ -19144,7 +19143,7 @@
     }
    ],
    "acres": 6584,
-   "rank_note": "339th of 493 by area (6,584 acres)",
+   "rank_note": "338th of 493 by area (6,584 acres)",
    "outcome": "Confirmed",
    "leagues": "1½",
    "grantee": "Francisco Lugo",
@@ -19297,7 +19296,7 @@
     }
    ],
    "acres": 8877,
-   "rank_note": "275th of 493 by area (8,877 acres)",
+   "rank_note": "274th of 493 by area (8,877 acres)",
    "grantee": "Juana Tico de Rodríguez",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -19408,7 +19407,7 @@
    ],
    "disenos": [],
    "acres": 8446,
-   "rank_note": "306th of 493 by area (8,446 acres)",
+   "rank_note": "305th of 493 by area (8,446 acres)",
    "grantee": "David Spence",
    "governor_name": "Luis Antonio Argüello",
    "outcome": "Confirmed",
@@ -19600,7 +19599,7 @@
     }
    ],
    "acres": 8880,
-   "rank_note": "269th of 493 by area (8,880 acres)",
+   "rank_note": "268th of 493 by area (8,880 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "C. A. Carrillo",
@@ -19683,7 +19682,7 @@
     }
    ],
    "acres": 8874,
-   "rank_note": "281st of 493 by area (8,874 acres)",
+   "rank_note": "280th of 493 by area (8,874 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Victor Linares",
@@ -19787,7 +19786,7 @@
    ],
    "disenos": [],
    "acres": 6656,
-   "rank_note": "330th of 493 by area (6,656 acres)",
+   "rank_note": "329th of 493 by area (6,656 acres)",
    "outcome": "Confirmed",
    "leagues": "1.5",
    "grantee": "Francisco Marques et al",
@@ -19904,7 +19903,7 @@
     }
    ],
    "acres": 8794,
-   "rank_note": "297th of 493 by area (8,794 acres)",
+   "rank_note": "296th of 493 by area (8,794 acres)",
    "outcome": "Confirmed",
    "leagues": "2½",
    "grantee": "M. J. Soberanes",
@@ -20007,7 +20006,7 @@
     }
    ],
    "acres": 5668,
-   "rank_note": "345th of 493 by area (5,668 acres)",
+   "rank_note": "344th of 493 by area (5,668 acres)",
    "outcome": "Confirmed",
    "grantee": "Jose Ramon Estrada",
    "governor_name": "the interim government",
@@ -20135,7 +20134,7 @@
     }
    ],
    "acres": 8841,
-   "rank_note": "292nd of 493 by area (8,841 acres)",
+   "rank_note": "291st of 493 by area (8,841 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "A. Olivera",
@@ -20318,7 +20317,7 @@
     }
    ],
    "acres": 4413,
-   "rank_note": "391st of 493 by area (4,413 acres)",
+   "rank_note": "390th of 493 by area (4,413 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "G. Espinoza",
@@ -20447,7 +20446,7 @@
     }
    ],
    "acres": 8878,
-   "rank_note": "273rd of 493 by area (8,878 acres)",
+   "rank_note": "272nd of 493 by area (8,878 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jose Maria Dominguez",
@@ -20672,7 +20671,7 @@
     }
    ],
    "acres": 7766,
-   "rank_note": "311th of 493 by area (7,766 acres)",
+   "rank_note": "310th of 493 by area (7,766 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "F. G. Palomares",
@@ -20827,7 +20826,7 @@
     }
    ],
    "acres": 6633,
-   "rank_note": "334th of 493 by area (6,633 acres)",
+   "rank_note": "333rd of 493 by area (6,633 acres)",
    "grantee": "Vicente Cantua",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -20959,7 +20958,7 @@
     }
    ],
    "acres": 6794,
-   "rank_note": "317th of 493 by area (6,794 acres)",
+   "rank_note": "316th of 493 by area (6,794 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "F. D. Pacheco",
@@ -21109,7 +21108,7 @@
    ],
    "disenos": [],
    "acres": 8701,
-   "rank_note": "301st of 493 by area (8,701 acres)",
+   "rank_note": "300th of 493 by area (8,701 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Rafael Cacho",
@@ -21220,7 +21219,7 @@
     }
    ],
    "acres": 6660,
-   "rank_note": "324th of 493 by area (6,660 acres)",
+   "rank_note": "323rd of 493 by area (6,660 acres)",
    "grantee": "David W. Alexander and Francisc Mellus",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -21340,7 +21339,7 @@
     }
    ],
    "acres": 8919,
-   "rank_note": "254th of 493 by area (8,919 acres)",
+   "rank_note": "253rd of 493 by area (8,919 acres)",
    "grantee": "Antonio M. Villa",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -21915,7 +21914,7 @@
     }
    ],
    "acres": 30848,
-   "rank_note": "80th of 493 by area (30,848 acres)",
+   "rank_note": "79th of 493 by area (30,848 acres)",
    "grantee": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -22073,7 +22072,7 @@
     }
    ],
    "acres": 8911,
-   "rank_note": "257th of 493 by area (8,911 acres)",
+   "rank_note": "256th of 493 by area (8,911 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Joaquin Castro",
@@ -22230,7 +22229,7 @@
     }
    ],
    "acres": 8878,
-   "rank_note": "274th of 493 by area (8,878 acres)",
+   "rank_note": "273rd of 493 by area (8,878 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "J. Martin",
@@ -22561,7 +22560,7 @@
     }
    ],
    "acres": 4439,
-   "rank_note": "370th of 493 by area (4,439 acres)",
+   "rank_note": "369th of 493 by area (4,439 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Romana Sanchez",
@@ -22794,7 +22793,7 @@
     }
    ],
    "acres": 5496,
-   "rank_note": "346th of 493 by area (5,496 acres)",
+   "rank_note": "345th of 493 by area (5,496 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "S. Rodriguez",
@@ -23033,7 +23032,7 @@
     }
    ],
    "acres": 9563,
-   "rank_note": "245th of 493 by area (9,563 acres)",
+   "rank_note": "244th of 493 by area (9,563 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "F. Higuera",
@@ -23152,7 +23151,7 @@
     }
    ],
    "acres": 8893,
-   "rank_note": "264th of 493 by area (8,893 acres)",
+   "rank_note": "263rd of 493 by area (8,893 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "H. Dalton",
@@ -23511,7 +23510,7 @@
     }
    ],
    "acres": 6829,
-   "rank_note": "316th of 493 by area (6,829 acres)",
+   "rank_note": "315th of 493 by area (6,829 acres)",
    "grantee": "José Joaquín Estudillo",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -23607,7 +23606,7 @@
     }
    ],
    "acres": 9998,
-   "rank_note": "242nd of 493 by area (9,998 acres)",
+   "rank_note": "241st of 493 by area (9,998 acres)",
    "outcome": "Confirmed",
    "grantee": "Jose Pedro Ruiz",
    "governor_name": "Alvarado",
@@ -23742,7 +23741,7 @@
    ],
    "disenos": [],
    "acres": 8887,
-   "rank_note": "267th of 493 by area (8,887 acres)",
+   "rank_note": "266th of 493 by area (8,887 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "James Richard Berry",
@@ -23965,7 +23964,7 @@
     }
    ],
    "acres": 8991,
-   "rank_note": "249th of 493 by area (8,991 acres)",
+   "rank_note": "248th of 493 by area (8,991 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Juan Crispin Perez",
@@ -24046,7 +24045,7 @@
     }
    ],
    "acres": 8894,
-   "rank_note": "262nd of 493 by area (8,894 acres)",
+   "rank_note": "261st of 493 by area (8,894 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "William Gordon",
@@ -24201,7 +24200,7 @@
     }
    ],
    "acres": 8642,
-   "rank_note": "303rd of 493 by area (8,642 acres)",
+   "rank_note": "302nd of 493 by area (8,642 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "M. Butron and N. Alviso",
@@ -24296,7 +24295,7 @@
     }
    ],
    "acres": 4500,
-   "rank_note": "351st of 493 by area (4,500 acres)",
+   "rank_note": "350th of 493 by area (4,500 acres)",
    "outcome": "Confirmed",
    "grantee": "Maria Ygnacia Lopez",
    "governor_name": "Jimeno",
@@ -24432,7 +24431,7 @@
     }
    ],
    "acres": 8900,
-   "rank_note": "260th of 493 by area (8,900 acres)",
+   "rank_note": "259th of 493 by area (8,900 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Tomas Olivera",
@@ -24632,7 +24631,7 @@
     }
    ],
    "acres": 5832,
-   "rank_note": "343rd of 493 by area (5,832 acres)",
+   "rank_note": "342nd of 493 by area (5,832 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Ygnacio Coronel",
@@ -24763,7 +24762,7 @@
     }
    ],
    "acres": 8875,
-   "rank_note": "279th of 493 by area (8,875 acres)",
+   "rank_note": "278th of 493 by area (8,875 acres)",
    "grantee": "José Dolores Ortega",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -25095,7 +25094,7 @@
     }
    ],
    "acres": 5826,
-   "rank_note": "344th of 493 by area (5,826 acres)",
+   "rank_note": "343rd of 493 by area (5,826 acres)",
    "grantee": "Pedro Sainsevain",
    "governor_name": "Micheltorena; Pico",
    "outcome": "Confirmed",
@@ -25225,7 +25224,7 @@
     }
    ],
    "acres": 6714,
-   "rank_note": "318th of 493 by area (6,714 acres)",
+   "rank_note": "317th of 493 by area (6,714 acres)",
    "grantee": "Mariano Malarin",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -25465,7 +25464,7 @@
     }
    ],
    "acres": 8512,
-   "rank_note": "305th of 493 by area (8,512 acres)",
+   "rank_note": "304th of 493 by area (8,512 acres)",
    "grantee": "Vicente Cordero",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -25697,7 +25696,7 @@
     }
    ],
    "acres": 4540,
-   "rank_note": "350th of 493 by area (4,540 acres)",
+   "rank_note": "349th of 493 by area (4,540 acres)",
    "grantee": "Antonio and Faustino German",
    "governor_name": "the interim government",
    "outcome": "Confirmed",
@@ -25894,7 +25893,7 @@
    ],
    "disenos": [],
    "acres": 9416,
-   "rank_note": "247th of 493 by area (9,416 acres)",
+   "rank_note": "246th of 493 by area (9,416 acres)",
    "grantee": "Ignacio Peralta",
    "governor_name": "Sola; Arguello; Micheltorena",
    "outcome": "Confirmed",
@@ -26509,7 +26508,7 @@
     }
    ],
    "acres": 4446,
-   "rank_note": "365th of 493 by area (4,446 acres)",
+   "rank_note": "364th of 493 by area (4,446 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Jose Cornelio de Bernal",
@@ -26692,7 +26691,7 @@
     }
    ],
    "acres": 4482,
-   "rank_note": "353rd of 493 by area (4,482 acres)",
+   "rank_note": "352nd of 493 by area (4,482 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "David Littlejohn",
@@ -26791,7 +26790,7 @@
     }
    ],
    "acres": 8874,
-   "rank_note": "282nd of 493 by area (8,874 acres)",
+   "rank_note": "281st of 493 by area (8,874 acres)",
    "grantee": "James McKinley",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -26893,7 +26892,7 @@
     }
    ],
    "acres": 13311,
-   "rank_note": "223rd of 493 by area (13,311 acres)",
+   "rank_note": "222nd of 493 by area (13,311 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "J. M. Marron",
@@ -27126,7 +27125,7 @@
     }
    ],
    "acres": 4448,
-   "rank_note": "364th of 493 by area (4,448 acres)",
+   "rank_note": "363rd of 493 by area (4,448 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "D. Feliz",
@@ -27285,7 +27284,7 @@
     }
    ],
    "acres": 8759,
-   "rank_note": "300th of 493 by area (8,759 acres)",
+   "rank_note": "299th of 493 by area (8,759 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jose Joaquin Gomez",
@@ -27536,7 +27535,7 @@
     }
    ],
    "acres": 8858,
-   "rank_note": "288th of 493 by area (8,858 acres)",
+   "rank_note": "287th of 493 by area (8,858 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jose Antonio Mesa et al",
@@ -27806,7 +27805,7 @@
     }
    ],
    "acres": 6438,
-   "rank_note": "340th of 493 by area (6,438 acres)",
+   "rank_note": "339th of 493 by area (6,438 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Cayetano Arenas",
@@ -27901,7 +27900,7 @@
     }
    ],
    "acres": 13309,
-   "rank_note": "224th of 493 by area (13,309 acres)",
+   "rank_note": "223rd of 493 by area (13,309 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "J. A. Serano et al",
@@ -28124,7 +28123,7 @@
     }
    ],
    "acres": 6656,
-   "rank_note": "331st of 493 by area (6,656 acres)",
+   "rank_note": "330th of 493 by area (6,656 acres)",
    "outcome": "Confirmed",
    "leagues": "1½",
    "grantee": "Pedro Cordero",
@@ -28297,7 +28296,7 @@
     }
    ],
    "acres": 8849,
-   "rank_note": "290th of 493 by area (8,849 acres)",
+   "rank_note": "289th of 493 by area (8,849 acres)",
    "grantee": "Jasper O'Farrell",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -28399,7 +28398,7 @@
     }
    ],
    "acres": 13322,
-   "rank_note": "208th of 493 by area (13,322 acres)",
+   "rank_note": "207th of 493 by area (13,322 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Agustin Davila",
@@ -28478,7 +28477,7 @@
     }
    ],
    "acres": 8872,
-   "rank_note": "283rd of 493 by area (8,872 acres)",
+   "rank_note": "282nd of 493 by area (8,872 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Julian Pope",
@@ -28677,7 +28676,7 @@
     }
    ],
    "acres": 11814,
-   "rank_note": "235th of 493 by area (11,814 acres)",
+   "rank_note": "234th of 493 by area (11,814 acres)",
    "grantee": "George C. Yount",
    "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
@@ -28915,7 +28914,7 @@
     }
    ],
    "acres": 8418,
-   "rank_note": "307th of 493 by area (8,418 acres)",
+   "rank_note": "306th of 493 by area (8,418 acres)",
    "outcome": "Confirmed",
    "grantee": "Jose Peua",
    "governor_name": "Alvarado",
@@ -29117,7 +29116,7 @@
     }
    ],
    "acres": 8949,
-   "rank_note": "250th of 493 by area (8,949 acres)",
+   "rank_note": "249th of 493 by area (8,949 acres)",
    "grantee": "John B. R. Cooper",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -29252,7 +29251,7 @@
    ],
    "disenos": [],
    "acres": 7725,
-   "rank_note": "312th of 493 by area (7,725 acres)",
+   "rank_note": "311th of 493 by area (7,725 acres)",
    "grantee": "Mariano Malarin, attorney for José S. Estrada",
    "governor_name": "",
    "outcome": "Confirmed",
@@ -29540,7 +29539,7 @@
     }
    ],
    "acres": 13353,
-   "rank_note": "197th of 493 by area (13,353 acres)",
+   "rank_note": "196th of 493 by area (13,353 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Teodora Soto",
@@ -29695,7 +29694,7 @@
     }
    ],
    "acres": 4172,
-   "rank_note": "401st of 493 by area (4,172 acres)",
+   "rank_note": "400th of 493 by area (4,172 acres)",
    "grantee": "Mariano Castro",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -29871,7 +29870,7 @@
     }
    ],
    "acres": 13693,
-   "rank_note": "195th of 493 by area (13,693 acres)",
+   "rank_note": "194th of 493 by area (13,693 acres)",
    "outcome": "Confirmed",
    "leagues": "3.5",
    "grantee": "M. Garfias",
@@ -30042,7 +30041,7 @@
     }
    ],
    "acres": 8838,
-   "rank_note": "293rd of 493 by area (8,838 acres)",
+   "rank_note": "292nd of 493 by area (8,838 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jose Ortega",
@@ -30213,7 +30212,7 @@
     }
    ],
    "acres": 6415,
-   "rank_note": "341st of 493 by area (6,415 acres)",
+   "rank_note": "340th of 493 by area (6,415 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "S. Espinoza",
@@ -30358,7 +30357,7 @@
     }
    ],
    "acres": 10668,
-   "rank_note": "239th of 493 by area (10,668 acres)",
+   "rank_note": "238th of 493 by area (10,668 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "J. Serano",
@@ -30489,7 +30488,7 @@
     }
    ],
    "acres": 13329,
-   "rank_note": "206th of 493 by area (13,329 acres)",
+   "rank_note": "205th of 493 by area (13,329 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Joaquin Soto",
@@ -30668,7 +30667,7 @@
     }
    ],
    "acres": 13919,
-   "rank_note": "194th of 493 by area (13,919 acres)",
+   "rank_note": "193rd of 493 by area (13,919 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "Agustin Machado et al",
@@ -30783,7 +30782,7 @@
     }
    ],
    "acres": 8889,
-   "rank_note": "266th of 493 by area (8,889 acres)",
+   "rank_note": "265th of 493 by area (8,889 acres)",
    "grantee": "Mariano Malarin",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -31139,7 +31138,7 @@
     }
    ],
    "acres": 6659,
-   "rank_note": "327th of 493 by area (6,659 acres)",
+   "rank_note": "326th of 493 by area (6,659 acres)",
    "outcome": "Confirmed",
    "leagues": "1½",
    "grantee": "Y. Pacheco",
@@ -31254,7 +31253,7 @@
     }
    ],
    "acres": 10786,
-   "rank_note": "238th of 493 by area (10,786 acres)",
+   "rank_note": "237th of 493 by area (10,786 acres)",
    "grantee": "Jasper O'Farrell",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -31385,7 +31384,7 @@
    ],
    "disenos": [],
    "acres": 10241,
-   "rank_note": "241st of 493 by area (10,241 acres)",
+   "rank_note": "240th of 493 by area (10,241 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jose Tiburcio Castro",
@@ -31604,7 +31603,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "211th of 493 by area (13,316 acres)",
+   "rank_note": "210th of 493 by area (13,316 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "J. Moraga and Juan Bernal",
@@ -31799,7 +31798,7 @@
     }
    ],
    "acres": 8917,
-   "rank_note": "255th of 493 by area (8,917 acres)",
+   "rank_note": "254th of 493 by area (8,917 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Angel Castro",
@@ -31910,7 +31909,7 @@
     }
    ],
    "acres": 8875,
-   "rank_note": "280th of 493 by area (8,875 acres)",
+   "rank_note": "279th of 493 by area (8,875 acres)",
    "outcome": "Confirmed",
    "grantee": "Mariano Castro",
    "governor_name": "Figueroa",
@@ -32044,7 +32043,7 @@
     }
    ],
    "acres": 8881,
-   "rank_note": "268th of 493 by area (8,881 acres)",
+   "rank_note": "267th of 493 by area (8,881 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "A. Lorenzana",
@@ -32191,7 +32190,7 @@
     }
    ],
    "acres": 8927,
-   "rank_note": "251st of 493 by area (8,927 acres)",
+   "rank_note": "250th of 493 by area (8,927 acres)",
    "grantee": "Bernard Murphy",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -32506,7 +32505,7 @@
    ],
    "disenos": [],
    "acres": 12147,
-   "rank_note": "234th of 493 by area (12,147 acres)",
+   "rank_note": "233rd of 493 by area (12,147 acres)",
    "outcome": "Confirmed",
    "grantee": "Jose Bolcoff",
    "governor_name": "Alvarado",
@@ -32638,7 +32637,7 @@
     }
    ],
    "acres": 8900,
-   "rank_note": "261st of 493 by area (8,900 acres)",
+   "rank_note": "260th of 493 by area (8,900 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "M. Soberanes",
@@ -32813,7 +32812,7 @@
     }
    ],
    "acres": 8893,
-   "rank_note": "265th of 493 by area (8,893 acres)",
+   "rank_note": "264th of 493 by area (8,893 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "R. Vilavicencio",
@@ -32952,7 +32951,7 @@
     }
    ],
    "acres": 8787,
-   "rank_note": "298th of 493 by area (8,787 acres)",
+   "rank_note": "297th of 493 by area (8,787 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Tomas Bonn",
@@ -33083,7 +33082,7 @@
     }
    ],
    "acres": 13298,
-   "rank_note": "226th of 493 by area (13,298 acres)",
+   "rank_note": "225th of 493 by area (13,298 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Jose Maria Orosio",
@@ -33416,7 +33415,7 @@
     }
    ],
    "acres": 6915,
-   "rank_note": "315th of 493 by area (6,915 acres)",
+   "rank_note": "314th of 493 by area (6,915 acres)",
    "grantee": "John B. R. Cooper",
    "governor_name": "Pablo Vicente de Solá",
    "outcome": "Confirmed",
@@ -33548,7 +33547,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "212th of 493 by area (13,316 acres)",
+   "rank_note": "211th of 493 by area (13,316 acres)",
    "outcome": "Confirmed",
    "grantee": "Jose Noriega",
    "governor_name": "Jose Castro",
@@ -33978,7 +33977,7 @@
     }
    ],
    "acres": 8905,
-   "rank_note": "259th of 493 by area (8,905 acres)",
+   "rank_note": "258th of 493 by area (8,905 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jose Maria Alvisu",
@@ -34144,7 +34143,7 @@
     }
    ],
    "acres": 13341,
-   "rank_note": "202nd of 493 by area (13,341 acres)",
+   "rank_note": "201st of 493 by area (13,341 acres)",
    "grantee": "Agustín Yansens",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -34260,7 +34259,7 @@
     }
    ],
    "acres": 13988,
-   "rank_note": "193rd of 493 by area (13,988 acres)",
+   "rank_note": "192nd of 493 by area (13,988 acres)",
    "outcome": "Confirmed",
    "grantee": "J. Sanchez",
    "governor_name": "Alvarado",
@@ -34510,7 +34509,7 @@
     }
    ],
    "acres": 8780,
-   "rank_note": "299th of 493 by area (8,780 acres)",
+   "rank_note": "298th of 493 by area (8,780 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Antonio Cazares",
@@ -34610,7 +34609,7 @@
    ],
    "disenos": [],
    "acres": 12653,
-   "rank_note": "232nd of 493 by area (12,653 acres)",
+   "rank_note": "231st of 493 by area (12,653 acres)",
    "grantee": "Juan B. Alvarado",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -34817,7 +34816,7 @@
    ],
    "disenos": [],
    "acres": 8845,
-   "rank_note": "291st of 493 by area (8,845 acres)",
+   "rank_note": "290th of 493 by area (8,845 acres)",
    "grantee": "James McKinley",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -35071,7 +35070,7 @@
     }
    ],
    "acres": 8926,
-   "rank_note": "252nd of 493 by area (8,926 acres)",
+   "rank_note": "251st of 493 by area (8,926 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "F. Sanchez",
@@ -35180,7 +35179,7 @@
     }
    ],
    "acres": 9972,
-   "rank_note": "243rd of 493 by area (9,972 acres)",
+   "rank_note": "242nd of 493 by area (9,972 acres)",
    "grantee": "Juan Forster",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -35320,7 +35319,7 @@
     }
    ],
    "acres": 8866,
-   "rank_note": "285th of 493 by area (8,866 acres)",
+   "rank_note": "284th of 493 by area (8,866 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Francisco Berreyesa",
@@ -35461,7 +35460,7 @@
     }
    ],
    "acres": 8858,
-   "rank_note": "289th of 493 by area (8,858 acres)",
+   "rank_note": "288th of 493 by area (8,858 acres)",
    "grantee": "Mariano Malarin",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -35599,7 +35598,7 @@
     }
    ],
    "acres": 13284,
-   "rank_note": "229th of 493 by area (13,284 acres)",
+   "rank_note": "228th of 493 by area (13,284 acres)",
    "grantee": "Raimundo Carrillo",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -35835,7 +35834,7 @@
     }
    ],
    "acres": 13296,
-   "rank_note": "227th of 493 by area (13,296 acres)",
+   "rank_note": "226th of 493 by area (13,296 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Jesus Molina and Petronillo Rios",
@@ -35966,7 +35965,7 @@
     }
    ],
    "acres": 17742,
-   "rank_note": "161st of 493 by area (17,742 acres)",
+   "rank_note": "160th of 493 by area (17,742 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "J. de los Santos Berreyesa",
@@ -36109,7 +36108,7 @@
     }
    ],
    "acres": 8926,
-   "rank_note": "253rd of 493 by area (8,926 acres)",
+   "rank_note": "252nd of 493 by area (8,926 acres)",
    "outcome": "Patented",
    "leagues": "2",
    "grantee": "Pio Pico",
@@ -36410,7 +36409,7 @@
     }
    ],
    "acres": 9647,
-   "rank_note": "244th of 493 by area (9,647 acres)",
+   "rank_note": "243rd of 493 by area (9,647 acres)",
    "grantee": "Agustín Bernal",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -36672,7 +36671,7 @@
     }
    ],
    "acres": 6663,
-   "rank_note": "323rd of 493 by area (6,663 acres)",
+   "rank_note": "322nd of 493 by area (6,663 acres)",
    "grantee": "Guadalupe Vasquez",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -36984,7 +36983,7 @@
     }
    ],
    "acres": 8879,
-   "rank_note": "272nd of 493 by area (8,879 acres)",
+   "rank_note": "271st of 493 by area (8,879 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "J. A. Narvaez",
@@ -37149,7 +37148,7 @@
     }
    ],
    "acres": 17602,
-   "rank_note": "171st of 493 by area (17,602 acres)",
+   "rank_note": "170th of 493 by area (17,602 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Josefa Cota de Nieto",
@@ -37460,7 +37459,7 @@
     }
    ],
    "acres": 8877,
-   "rank_note": "276th of 493 by area (8,877 acres)",
+   "rank_note": "275th of 493 by area (8,877 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "C. Ynitia",
@@ -37895,7 +37894,7 @@
     }
    ],
    "acres": 15207,
-   "rank_note": "188th of 493 by area (15,206 acres)",
+   "rank_note": "187th of 493 by area (15,206 acres)",
    "grantee": "Luís María Peralta",
    "governor_name": "Solá",
    "outcome": "Confirmed",
@@ -38034,7 +38033,7 @@
     }
    ],
    "acres": 15684,
-   "rank_note": "182nd of 493 by area (15,684 acres)",
+   "rank_note": "181st of 493 by area (15,684 acres)",
    "grantee": "Francis Branch",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -38158,7 +38157,7 @@
     }
    ],
    "acres": 15218,
-   "rank_note": "187th of 493 by area (15,218 acres)",
+   "rank_note": "186th of 493 by area (15,218 acres)",
    "grantee": "Teodora Gonzales",
    "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
@@ -38284,7 +38283,7 @@
     }
    ],
    "acres": 13045,
-   "rank_note": "231st of 493 by area (13,045 acres)",
+   "rank_note": "230th of 493 by area (13,045 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Tiburcio Tapia",
@@ -38439,7 +38438,7 @@
     }
    ],
    "acres": 13322,
-   "rank_note": "209th of 493 by area (13,322 acres)",
+   "rank_note": "208th of 493 by area (13,322 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Y. M. Alvarado",
@@ -38644,7 +38643,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "213th of 493 by area (13,316 acres)",
+   "rank_note": "212th of 493 by area (13,316 acres)",
    "grantee": "Jose Ramon Malo",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -38920,7 +38919,7 @@
     }
    ],
    "acres": 13353,
-   "rank_note": "198th of 493 by area (13,353 acres)",
+   "rank_note": "197th of 493 by area (13,353 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Teodora Soto",
@@ -39015,7 +39014,7 @@
     }
    ],
    "acres": 17763,
-   "rank_note": "154th of 493 by area (17,763 acres)",
+   "rank_note": "153rd of 493 by area (17,763 acres)",
    "grantee": "Jose Francisco Snook",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -39301,7 +39300,7 @@
     }
    ],
    "acres": 30848,
-   "rank_note": "81st of 493 by area (30,848 acres)",
+   "rank_note": "80th of 493 by area (30,848 acres)",
    "grantee": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -39597,7 +39596,7 @@
     }
    ],
    "acres": 8866,
-   "rank_note": "286th of 493 by area (8,866 acres)",
+   "rank_note": "285th of 493 by area (8,866 acres)",
    "grantee": "José de Jesús Vallejo",
    "governor_name": "a Spanish governor",
    "outcome": "Confirmed",
@@ -39701,7 +39700,7 @@
     }
    ],
    "acres": 21522,
-   "rank_note": "133rd of 493 by area (21,522 acres)",
+   "rank_note": "132nd of 493 by area (21,522 acres)",
    "grantee": "Crisogono Ayala and Cosme Vanegas",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -39851,7 +39850,7 @@
     }
    ],
    "acres": 16523,
-   "rank_note": "178th of 493 by area (16,523 acres)",
+   "rank_note": "177th of 493 by area (16,523 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "J. de la Torre",
@@ -40136,7 +40135,7 @@
     }
    ],
    "acres": 13183,
-   "rank_note": "230th of 493 by area (13,183 acres)",
+   "rank_note": "229th of 493 by area (13,183 acres)",
    "grantee": "Julian Estrada",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -40400,7 +40399,7 @@
     }
    ],
    "acres": 12545,
-   "rank_note": "233rd of 493 by area (12,545 acres)",
+   "rank_note": "232nd of 493 by area (12,545 acres)",
    "outcome": "Confirmed",
    "grantee": "John Coppinger",
    "governor_name": "Alvarado",
@@ -40510,7 +40509,7 @@
     }
    ],
    "acres": 15714,
-   "rank_note": "181st of 493 by area (15,714 acres)",
+   "rank_note": "180th of 493 by area (15,714 acres)",
    "outcome": "Confirmed",
    "grantee": "J. de Jesus Bernal",
    "governor_name": "José Castro",
@@ -40662,7 +40661,7 @@
     }
    ],
    "acres": 8241,
-   "rank_note": "308th of 493 by area (8,241 acres)",
+   "rank_note": "307th of 493 by area (8,241 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Robert F. Ridley",
@@ -40795,7 +40794,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "214th of 493 by area (13,316 acres)",
+   "rank_note": "213th of 493 by area (13,316 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "J. Abila et al",
@@ -40892,7 +40891,7 @@
     }
    ],
    "acres": 8545,
-   "rank_note": "304th of 493 by area (8,545 acres)",
+   "rank_note": "303rd of 493 by area (8,545 acres)",
    "grantee": "José B. Chiles",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -41360,7 +41359,7 @@
     }
    ],
    "acres": 10802,
-   "rank_note": "237th of 493 by area (10,802 acres)",
+   "rank_note": "236th of 493 by area (10,802 acres)",
    "outcome": "Confirmed",
    "grantee": "B. A. Escarilla",
    "governor_name": "Pio Pico",
@@ -41462,7 +41461,7 @@
     }
    ],
    "acres": 17754,
-   "rank_note": "158th of 493 by area (17,754 acres)",
+   "rank_note": "157th of 493 by area (17,754 acres)",
    "grantee": "Fernando Feliz",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -41634,7 +41633,7 @@
     }
    ],
    "acres": 4430,
-   "rank_note": "384th of 493 by area (4,430 acres)",
+   "rank_note": "383rd of 493 by area (4,430 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Y. Palomares",
@@ -41966,7 +41965,7 @@
    ],
    "disenos": [],
    "acres": 8865,
-   "rank_note": "287th of 493 by area (8,865 acres)",
+   "rank_note": "286th of 493 by area (8,865 acres)",
    "grantee": "Cayetano Juarez",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -42116,7 +42115,7 @@
     }
    ],
    "acres": 13319,
-   "rank_note": "210th of 493 by area (13,319 acres)",
+   "rank_note": "209th of 493 by area (13,319 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Perfecto Hugo Reid",
@@ -42644,7 +42643,7 @@
     }
    ],
    "acres": 8877,
-   "rank_note": "277th of 493 by area (8,877 acres)",
+   "rank_note": "276th of 493 by area (8,877 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Jose Maria Alvarado",
@@ -42867,7 +42866,7 @@
     }
    ],
    "acres": 16954,
-   "rank_note": "175th of 493 by area (16,954 acres)",
+   "rank_note": "174th of 493 by area (16,954 acres)",
    "outcome": "Confirmed",
    "grantee": "Francisco Branch",
    "governor_name": "Alvarado",
@@ -42993,7 +42992,7 @@
     }
    ],
    "acres": 17774,
-   "rank_note": "151st of 493 by area (17,774 acres)",
+   "rank_note": "150th of 493 by area (17,774 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "V. Sepulveda",
@@ -43440,7 +43439,7 @@
     }
    ],
    "acres": 15207,
-   "rank_note": "189th of 493 by area (15,206 acres)",
+   "rank_note": "188th of 493 by area (15,206 acres)",
    "grantee": "Luis María Peralta",
    "governor_name": "Solá",
    "outcome": "Confirmed",
@@ -43557,7 +43556,7 @@
     }
    ],
    "acres": 17708,
-   "rank_note": "167th of 493 by area (17,708 acres)",
+   "rank_note": "166th of 493 by area (17,708 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "J. J. Ortega and Eduardo Stokes",
@@ -43686,7 +43685,7 @@
     }
    ],
    "acres": 22283,
-   "rank_note": "116th of 493 by area (22,283 acres)",
+   "rank_note": "115th of 493 by area (22,283 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "Carlos Castro",
@@ -43837,7 +43836,7 @@
     }
    ],
    "acres": 13351,
-   "rank_note": "199th of 493 by area (13,351 acres)",
+   "rank_note": "198th of 493 by area (13,351 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "D. S. Spence",
@@ -43936,7 +43935,7 @@
     }
    ],
    "acres": 13339,
-   "rank_note": "204th of 493 by area (13,339 acres)",
+   "rank_note": "203rd of 493 by area (13,339 acres)",
    "grantee": "Manuel Anguisola",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -44072,7 +44071,7 @@
     }
    ],
    "acres": 22184,
-   "rank_note": "124th of 493 by area (22,184 acres)",
+   "rank_note": "123rd of 493 by area (22,184 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Santiago Arguello et al",
@@ -44641,7 +44640,7 @@
     }
    ],
    "acres": 10610,
-   "rank_note": "240th of 493 by area (10,610 acres)",
+   "rank_note": "239th of 493 by area (10,610 acres)",
    "grantee": "Tomás Pacheco and Agustín Alviso",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -44865,7 +44864,7 @@
     }
    ],
    "acres": 8894,
-   "rank_note": "263rd of 493 by area (8,894 acres)",
+   "rank_note": "262nd of 493 by area (8,894 acres)",
    "outcome": "Confirmed",
    "grantee": "J. D. Pacheco",
    "governor_name": "Alvarado",
@@ -45247,7 +45246,7 @@
     }
    ],
    "acres": 30848,
-   "rank_note": "82nd of 493 by area (30,848 acres)",
+   "rank_note": "81st of 493 by area (30,848 acres)",
    "grantee": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -45395,7 +45394,7 @@
     }
    ],
    "acres": 15439,
-   "rank_note": "186th of 493 by area (15,439 acres)",
+   "rank_note": "185th of 493 by area (15,439 acres)",
    "grantee": "José de Jesús Peña",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -45581,7 +45580,7 @@
     }
    ],
    "acres": 17767,
-   "rank_note": "153rd of 493 by area (17,767 acres)",
+   "rank_note": "152nd of 493 by area (17,767 acres)",
    "grantee": "Charles J. Brenham",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -45704,7 +45703,7 @@
    ],
    "disenos": [],
    "acres": 13316,
-   "rank_note": "215th of 493 by area (13,316 acres)",
+   "rank_note": "214th of 493 by area (13,316 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Francisco Maria Ruiz",
@@ -45800,7 +45799,7 @@
    ],
    "disenos": [],
    "acres": 17238,
-   "rank_note": "174th of 493 by area (17,238 acres)",
+   "rank_note": "173rd of 493 by area (17,238 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Juan Castaneda",
@@ -45939,7 +45938,7 @@
     }
    ],
    "acres": 15440,
-   "rank_note": "185th of 493 by area (15,440 acres)",
+   "rank_note": "184th of 493 by area (15,440 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Jose Amesti",
@@ -46128,7 +46127,7 @@
     }
    ],
    "acres": 16016,
-   "rank_note": "180th of 493 by area (16,016 acres)",
+   "rank_note": "179th of 493 by area (16,016 acres)",
    "grantee": "José M. Sanchez",
    "governor_name": "Castro",
    "outcome": "Confirmed",
@@ -46262,7 +46261,7 @@
     }
    ],
    "acres": 17760,
-   "rank_note": "155th of 493 by area (17,760 acres)",
+   "rank_note": "154th of 493 by area (17,760 acres)",
    "outcome": "Confirmed",
    "grantee": "Francisco Alvisu et al",
    "governor_name": "Micheltorena",
@@ -46390,7 +46389,7 @@
     }
    ],
    "acres": 19972,
-   "rank_note": "139th of 493 by area (19,972 acres)",
+   "rank_note": "138th of 493 by area (19,972 acres)",
    "grantee": "Liberta Ceseña Bull",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -46601,7 +46600,7 @@
    ],
    "disenos": [],
    "acres": 26605,
-   "rank_note": "106th of 493 by area (26,605 acres)",
+   "rank_note": "105th of 493 by area (26,605 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Salvador Oslo",
@@ -47028,7 +47027,7 @@
     }
    ],
    "acres": 6652,
-   "rank_note": "332nd of 493 by area (6,652 acres)",
+   "rank_note": "331st of 493 by area (6,652 acres)",
    "outcome": "Confirmed",
    "leagues": "1½",
    "grantee": "Tomaso A. Rodriguez",
@@ -47159,7 +47158,7 @@
     }
    ],
    "acres": 17709,
-   "rank_note": "166th of 493 by area (17,709 acres)",
+   "rank_note": "165th of 493 by area (17,709 acres)",
    "outcome": "Patented",
    "leagues": "4",
    "grantee": "Jose Antonio Dominguez",
@@ -47304,7 +47303,7 @@
     }
    ],
    "acres": 16516,
-   "rank_note": "179th of 493 by area (16,516 acres)",
+   "rank_note": "178th of 493 by area (16,516 acres)",
    "grantee": "José María Amador",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -47681,7 +47680,7 @@
    ],
    "disenos": [],
    "acres": 8877,
-   "rank_note": "278th of 493 by area (8,877 acres)",
+   "rank_note": "277th of 493 by area (8,877 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Juan B. R. Cooper",
@@ -47992,7 +47991,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "216th of 493 by area (13,316 acres)",
+   "rank_note": "215th of 493 by area (13,316 acres)",
    "grantee": "Joaquín Carrillo",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -48466,7 +48465,7 @@
     }
    ],
    "acres": 9467,
-   "rank_note": "246th of 493 by area (9,467 acres)",
+   "rank_note": "245th of 493 by area (9,467 acres)",
    "grantee": "Rafael García",
    "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
@@ -48682,7 +48681,7 @@
     }
    ],
    "acres": 11079,
-   "rank_note": "236th of 493 by area (11,079 acres)",
+   "rank_note": "235th of 493 by area (11,079 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Lorenzo Pineda",
@@ -49051,7 +49050,7 @@
     }
    ],
    "acres": 8911,
-   "rank_note": "258th of 493 by area (8,911 acres)",
+   "rank_note": "257th of 493 by area (8,911 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "G. Briones",
@@ -49328,7 +49327,7 @@
     }
    ],
    "acres": 17782,
-   "rank_note": "150th of 493 by area (17,782 acres)",
+   "rank_note": "149th of 493 by area (17,782 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "J. S. de Pacheco",
@@ -49473,7 +49472,7 @@
     }
    ],
    "acres": 26634,
-   "rank_note": "99th of 493 by area (26,634 acres)",
+   "rank_note": "98th of 493 by area (26,634 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "J. Carrillo et al",
@@ -49580,7 +49579,7 @@
     }
    ],
    "acres": 13338,
-   "rank_note": "205th of 493 by area (13,338 acres)",
+   "rank_note": "204th of 493 by area (13,338 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Julian Manriquez",
@@ -49885,7 +49884,7 @@
     }
    ],
    "acres": 13315,
-   "rank_note": "220th of 493 by area (13,315 acres)",
+   "rank_note": "219th of 493 by area (13,315 acres)",
    "grantee": "Guillermo G. Chard",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -50051,7 +50050,7 @@
     }
    ],
    "acres": 17719,
-   "rank_note": "164th of 493 by area (17,719 acres)",
+   "rank_note": "163rd of 493 by area (17,719 acres)",
    "grantee": "José Ortega and Eduardo Stokes",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -50555,7 +50554,7 @@
     }
    ],
    "acres": 17786,
-   "rank_note": "149th of 493 by area (17,786 acres)",
+   "rank_note": "148th of 493 by area (17,786 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "B. Yorba",
@@ -50788,7 +50787,7 @@
     }
    ],
    "acres": 22172,
-   "rank_note": "128th of 493 by area (22,172 acres)",
+   "rank_note": "127th of 493 by area (22,172 acres)",
    "grantee": "Alberto J. Toomes",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -51008,7 +51007,7 @@
     }
    ],
    "acres": 19982,
-   "rank_note": "136th of 493 by area (19,982 acres)",
+   "rank_note": "135th of 493 by area (19,982 acres)",
    "grantee": "Juan José and Victor Castro",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -51280,7 +51279,7 @@
     }
    ],
    "acres": 13328,
-   "rank_note": "207th of 493 by area (13,328 acres)",
+   "rank_note": "206th of 493 by area (13,328 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "B. Yorba",
@@ -51599,7 +51598,7 @@
     }
    ],
    "acres": 13344,
-   "rank_note": "201st of 493 by area (13,344 acres)",
+   "rank_note": "200th of 493 by area (13,344 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Antonino Buelna",
@@ -51938,7 +51937,7 @@
     }
    ],
    "acres": 14198,
-   "rank_note": "192nd of 493 by area (14,198 acres)",
+   "rank_note": "191st of 493 by area (14,198 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "M. Abila",
@@ -52033,7 +52032,7 @@
     }
    ],
    "acres": 26531,
-   "rank_note": "108th of 493 by area (26,531 acres)",
+   "rank_note": "107th of 493 by area (26,531 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "Rafael Gomez",
@@ -52396,7 +52395,7 @@
     }
    ],
    "acres": 4185,
-   "rank_note": "400th of 493 by area (4,185 acres)",
+   "rank_note": "399th of 493 by area (4,185 acres)",
    "outcome": "Confirmed",
    "leagues": "1/2",
    "grantee": "Pedro C. Carrillo",
@@ -52513,7 +52512,7 @@
     }
    ],
    "acres": 13299,
-   "rank_note": "225th of 493 by area (13,299 acres)",
+   "rank_note": "224th of 493 by area (13,299 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Antonio Chaves",
@@ -52618,7 +52617,7 @@
     }
    ],
    "acres": 26608,
-   "rank_note": "105th of 493 by area (26,608 acres)",
+   "rank_note": "104th of 493 by area (26,608 acres)",
    "grantee": "Luis Vignes",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -52854,7 +52853,7 @@
     }
    ],
    "acres": 17774,
-   "rank_note": "152nd of 493 by area (17,774 acres)",
+   "rank_note": "151st of 493 by area (17,774 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "F. Arce",
@@ -53077,7 +53076,7 @@
     }
    ],
    "acres": 18833,
-   "rank_note": "142nd of 493 by area (18,833 acres)",
+   "rank_note": "141st of 493 by area (18,833 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "John Wilson",
@@ -53312,7 +53311,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "217th of 493 by area (13,316 acres)",
+   "rank_note": "216th of 493 by area (13,316 acres)",
    "grantee": "María Manuela Valencia",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -53510,7 +53509,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "218th of 493 by area (13,316 acres)",
+   "rank_note": "217th of 493 by area (13,316 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Maximo Martinez",
@@ -53703,7 +53702,7 @@
     }
    ],
    "acres": 8880,
-   "rank_note": "270th of 493 by area (8,880 acres)",
+   "rank_note": "269th of 493 by area (8,880 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Salvio Pacheco",
@@ -53822,7 +53821,7 @@
     }
    ],
    "acres": 22178,
-   "rank_note": "126th of 493 by area (22,178 acres)",
+   "rank_note": "125th of 493 by area (22,178 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "J. M. Covarrubias",
@@ -54221,7 +54220,7 @@
     }
    ],
    "acres": 17753,
-   "rank_note": "160th of 493 by area (17,753 acres)",
+   "rank_note": "159th of 493 by area (17,753 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Simeon Castro",
@@ -54474,7 +54473,7 @@
     }
    ],
    "acres": 26623,
-   "rank_note": "103rd of 493 by area (26,623 acres)",
+   "rank_note": "102nd of 493 by area (26,623 acres)",
    "grantee": "José de la Guerra y Noriega",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -54692,7 +54691,7 @@
     }
    ],
    "acres": 30911,
-   "rank_note": "78th of 493 by area (30,911 acres)",
+   "rank_note": "77th of 493 by area (30,911 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "J. M. Villavicencia",
@@ -54997,7 +54996,7 @@
     }
    ],
    "acres": 8880,
-   "rank_note": "271st of 493 by area (8,880 acres)",
+   "rank_note": "270th of 493 by area (8,880 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "C. A. Carrillo",
@@ -55312,7 +55311,7 @@
     }
    ],
    "acres": 8917,
-   "rank_note": "256th of 493 by area (8,917 acres)",
+   "rank_note": "255th of 493 by area (8,917 acres)",
    "grantee": "José Domingo Peralta",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -55588,7 +55587,7 @@
     }
    ],
    "acres": 24342,
-   "rank_note": "113th of 493 by area (24,342 acres)",
+   "rank_note": "112th of 493 by area (24,342 acres)",
    "grantee": "Antonio Chaboya",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -55744,7 +55743,7 @@
     }
    ],
    "acres": 15526,
-   "rank_note": "184th of 493 by area (15,526 acres)",
+   "rank_note": "183rd of 493 by area (15,526 acres)",
    "grantee": "Maria Jesus Olivera de Cota",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -56326,7 +56325,7 @@
     }
    ],
    "acres": 8107,
-   "rank_note": "309th of 493 by area (8,107 acres)",
+   "rank_note": "308th of 493 by area (8,107 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "J. Ruiz",
@@ -56473,7 +56472,7 @@
     }
    ],
    "acres": 22135,
-   "rank_note": "130th of 493 by area (22,135 acres)",
+   "rank_note": "129th of 493 by area (22,135 acres)",
    "grantee": "José R. Gonzalez",
    "governor_name": "Jimeno; Alvarado",
    "outcome": "Confirmed",
@@ -56636,7 +56635,7 @@
     }
    ],
    "acres": 21220,
-   "rank_note": "134th of 493 by area (21,220 acres)",
+   "rank_note": "133rd of 493 by area (21,220 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "George Rock",
@@ -57049,7 +57048,7 @@
     }
    ],
    "acres": 17921,
-   "rank_note": "147th of 493 by area (17,921 acres)",
+   "rank_note": "146th of 493 by area (17,921 acres)",
    "outcome": "Confirmed",
    "grantee": "S. Pacheco",
    "governor_name": "José Figueroa",
@@ -57327,7 +57326,7 @@
     }
    ],
    "acres": 13644,
-   "rank_note": "196th of 493 by area (13,644 acres)",
+   "rank_note": "195th of 493 by area (13,644 acres)",
    "grantee": "Bethuel Phelps",
    "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
@@ -57493,7 +57492,7 @@
     }
    ],
    "acres": 17634,
-   "rank_note": "170th of 493 by area (17,634 acres)",
+   "rank_note": "169th of 493 by area (17,634 acres)",
    "grantee": "Silvestre de la Portilla",
    "governor_name": "Nicolás Gutiérrez",
    "outcome": "Confirmed",
@@ -57629,7 +57628,7 @@
     }
    ],
    "acres": 17754,
-   "rank_note": "159th of 493 by area (17,754 acres)",
+   "rank_note": "158th of 493 by area (17,754 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Francisco Guerrero",
@@ -57918,7 +57917,7 @@
     }
    ],
    "acres": 15534,
-   "rank_note": "183rd of 493 by area (15,534 acres)",
+   "rank_note": "182nd of 493 by area (15,534 acres)",
    "grantee": "Nicholás August Den",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -58018,7 +58017,7 @@
     }
    ],
    "acres": 26648,
-   "rank_note": "96th of 493 by area (26,648 acres)",
+   "rank_note": "95th of 493 by area (26,648 acres)",
    "grantee": "Luis Arrellanes and Emigdio Miguel Ortega",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -58466,7 +58465,7 @@
     }
    ],
    "acres": 18704,
-   "rank_note": "143rd of 493 by area (18,704 acres)",
+   "rank_note": "142nd of 493 by area (18,704 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "J. P. Leese",
@@ -58621,7 +58620,7 @@
     }
    ],
    "acres": 14335,
-   "rank_note": "191st of 493 by area (14,335 acres)",
+   "rank_note": "190th of 493 by area (14,335 acres)",
    "outcome": "Confirmed",
    "grantee": "Francisco Quijada",
    "governor_name": "Alvarado",
@@ -58829,7 +58828,7 @@
     }
    ],
    "acres": 22458,
-   "rank_note": "114th of 493 by area (22,458 acres)",
+   "rank_note": "113th of 493 by area (22,458 acres)",
    "grantee": "Antonio Ignacio Abila",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -59132,7 +59131,7 @@
     }
    ],
    "acres": 20772,
-   "rank_note": "135th of 493 by area (20,772 acres)",
+   "rank_note": "134th of 493 by area (20,772 acres)",
    "grantee": "Guillermo E. Hartnell",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -59400,7 +59399,7 @@
     }
    ],
    "acres": 26722,
-   "rank_note": "93rd of 493 by area (26,722 acres)",
+   "rank_note": "92nd of 493 by area (26,722 acres)",
    "grantee": "Guillermo Castro",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -59532,7 +59531,7 @@
     }
    ],
    "acres": 34619,
-   "rank_note": "69th of 493 by area (34,619 acres)",
+   "rank_note": "68th of 493 by area (34,619 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Jose Castro",
@@ -59887,7 +59886,7 @@
     }
    ],
    "acres": 17705,
-   "rank_note": "169th of 493 by area (17,705 acres)",
+   "rank_note": "168th of 493 by area (17,705 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "J. de Jesus Vallejo",
@@ -60054,7 +60053,7 @@
     }
    ],
    "acres": 24903,
-   "rank_note": "112th of 493 by area (24,903 acres)",
+   "rank_note": "111th of 493 by area (24,903 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "B. Bojorquez",
@@ -60371,7 +60370,7 @@
     }
    ],
    "acres": 17707,
-   "rank_note": "168th of 493 by area (17,707 acres)",
+   "rank_note": "167th of 493 by area (17,707 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Josiah Belden",
@@ -60618,7 +60617,7 @@
     }
    ],
    "acres": 13316,
-   "rank_note": "219th of 493 by area (13,316 acres)",
+   "rank_note": "218th of 493 by area (13,316 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "Juan Lopez",
@@ -60755,7 +60754,7 @@
     }
    ],
    "acres": 16887,
-   "rank_note": "177th of 493 by area (16,887 acres)",
+   "rank_note": "176th of 493 by area (16,887 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Juan Nepomaseno Padillo",
@@ -60890,7 +60889,7 @@
     }
    ],
    "acres": 13345,
-   "rank_note": "200th of 493 by area (13,345 acres)",
+   "rank_note": "199th of 493 by area (13,345 acres)",
    "outcome": "Confirmed",
    "leagues": "3",
    "grantee": "M. Soberanes et al",
@@ -61507,7 +61506,7 @@
     }
    ],
    "acres": 22193,
-   "rank_note": "121st of 493 by area (22,193 acres)",
+   "rank_note": "120th of 493 by area (22,193 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Jose Maria Rojo",
@@ -61547,9 +61546,13 @@
     {
      "citation": "Land case file SD 388, Bancroft Library (digicoll)",
      "url": "https://digicoll.lib.berkeley.edu/record/269007"
+    },
+    {
+     "citation": "Hoffman, Reports of Land Cases Determined in the United States District Court for the Northern District of California (1862), appendix, claim 609 (N.D. 425, S.D. 388)",
+     "url": "https://archive.org/details/reportsoflandcas01hoff"
     }
    ],
-   "notes": "⚠ U.S. land case SD 388 is carried by 2 features on this map (Canada De Los Pinos Or College Rancho, Laguna), and each one repeats the whole case's 35,499 acres, so the acreage and the size rank count this grant 2 times. The pins stand up to 96 km apart. Several of these are the claimant parcels of a partitioned case rather than separate grants; the map does not yet divide the acreage between them.",
+   "notes": "One of two properties in Archbishop Alemany's claim for the mission lands, land case SD 388 (ND 425); the other is La Laguna in San Luis Obispo County. Hoffman's 1862 appendix lists 'Canada de los Pinos or College Rancho, 6 square leagues, in Santa Barbara county; containing 35,499.37 acres. Patented.'",
    "tags": [
     "Santa Barbara"
    ],
@@ -61654,7 +61657,7 @@
     }
    ],
    "acres": 35499,
-   "rank_note": "63rd of 493 by area (35,499 acres)",
+   "rank_note": "62nd of 493 by area (35,499 acres)",
    "grantee": "Bishop S. Alemany",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -62040,7 +62043,7 @@
     }
    ],
    "acres": 13340,
-   "rank_note": "203rd of 493 by area (13,340 acres)",
+   "rank_note": "202nd of 493 by area (13,340 acres)",
    "grantee": "Samuel G. Reed and Ruben S. Wade",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -62332,7 +62335,7 @@
     }
    ],
    "acres": 21884,
-   "rank_note": "131st of 493 by area (21,884 acres)",
+   "rank_note": "130th of 493 by area (21,884 acres)",
    "grantee": "Feliciano Soberanes",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -62548,7 +62551,7 @@
     }
    ],
    "acres": 16938,
-   "rank_note": "176th of 493 by area (16,938 acres)",
+   "rank_note": "175th of 493 by area (16,938 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "C. C. Espinoza",
@@ -62661,7 +62664,7 @@
     }
    ],
    "acres": 22175,
-   "rank_note": "127th of 493 by area (22,175 acres)",
+   "rank_note": "126th of 493 by area (22,175 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "J. Ursua",
@@ -62869,7 +62872,7 @@
    ],
    "disenos": [],
    "acres": 35485,
-   "rank_note": "66th of 493 by area (35,485 acres)",
+   "rank_note": "65th of 493 by area (35,485 acres)",
    "grantee": "James B. Huie",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -62995,7 +62998,7 @@
     }
    ],
    "acres": 17716,
-   "rank_note": "165th of 493 by area (17,716 acres)",
+   "rank_note": "164th of 493 by area (17,716 acres)",
    "grantee": "Fernando Tico",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -63321,7 +63324,7 @@
     }
    ],
    "acres": 26631,
-   "rank_note": "101st of 493 by area (26,631 acres)",
+   "rank_note": "100th of 493 by area (26,631 acres)",
    "grantee": "Juan Forster",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -63787,7 +63790,7 @@
     }
    ],
    "acres": 14639,
-   "rank_note": "190th of 493 by area (14,639 acres)",
+   "rank_note": "189th of 493 by area (14,639 acres)",
    "grantee": "José de la Cruz Sánchez",
    "governor_name": "José Castro",
    "outcome": "Confirmed",
@@ -64045,7 +64048,7 @@
     }
    ],
    "acres": 17892,
-   "rank_note": "148th of 493 by area (17,892 acres)",
+   "rank_note": "147th of 493 by area (17,892 acres)",
    "outcome": "Confirmed",
    "leagues": "10½",
    "grantee": "J. B. R. Cooper",
@@ -64374,7 +64377,7 @@
     }
    ],
    "acres": 22193,
-   "rank_note": "122nd of 493 by area (22,193 acres)",
+   "rank_note": "121st of 493 by area (22,193 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Edward A. Farwell",
@@ -64637,7 +64640,7 @@
     }
    ],
    "acres": 19982,
-   "rank_note": "137th of 493 by area (19,982 acres)",
+   "rank_note": "136th of 493 by area (19,982 acres)",
    "outcome": "Confirmed",
    "leagues": "4½",
    "grantee": "Joel P. Dedmond",
@@ -64946,7 +64949,7 @@
     }
    ],
    "acres": 22193,
-   "rank_note": "123rd of 493 by area (22,193 acres)",
+   "rank_note": "122nd of 493 by area (22,193 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "S. Neal",
@@ -65425,7 +65428,7 @@
     }
    ],
    "acres": 31629,
-   "rank_note": "75th of 493 by area (31,629 acres)",
+   "rank_note": "74th of 493 by area (31,629 acres)",
    "outcome": "Confirmed",
    "grantee": "J. L. Sepulveda et al",
    "governor_name": "Pio Pico",
@@ -66392,7 +66395,7 @@
     }
    ],
    "acres": 22152,
-   "rank_note": "129th of 493 by area (22,152 acres)",
+   "rank_note": "128th of 493 by area (22,152 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "I. J. Sparks",
@@ -66525,7 +66528,7 @@
     }
    ],
    "acres": 30259,
-   "rank_note": "85th of 493 by area (30,259 acres)",
+   "rank_note": "84th of 493 by area (30,259 acres)",
    "grantee": "Francisco Sepulveda",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -66614,7 +66617,7 @@
    ],
    "disenos": [],
    "acres": 26621,
-   "rank_note": "104th of 493 by area (26,621 acres)",
+   "rank_note": "103rd of 493 by area (26,621 acres)",
    "grantee": "Ellen E. White",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -66806,7 +66809,7 @@
     }
    ],
    "acres": 19979,
-   "rank_note": "138th of 493 by area (19,979 acres)",
+   "rank_note": "137th of 493 by area (19,979 acres)",
    "grantee": "Concepción Munras",
    "governor_name": "the interim government",
    "outcome": "Confirmed",
@@ -67080,7 +67083,7 @@
     }
    ],
    "acres": 22197,
-   "rank_note": "120th of 493 by area (22,197 acres)",
+   "rank_note": "119th of 493 by area (22,197 acres)",
    "grantee": "William Johnson",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -67714,7 +67717,7 @@
     }
    ],
    "acres": 8870,
-   "rank_note": "284th of 493 by area (8,870 acres)",
+   "rank_note": "283rd of 493 by area (8,870 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "Fernando Feliz",
@@ -68149,7 +68152,7 @@
     }
    ],
    "acres": 29513,
-   "rank_note": "87th of 493 by area (29,513 acres)",
+   "rank_note": "86th of 493 by area (29,513 acres)",
    "outcome": "Confirmed",
    "grantee": "A. M. Lugo",
    "governor_name": "Alvarado",
@@ -68317,7 +68320,7 @@
     }
    ],
    "acres": 32408,
-   "rank_note": "73rd of 493 by area (32,408 acres)",
+   "rank_note": "72nd of 493 by area (32,408 acres)",
    "outcome": "Confirmed",
    "grantee": "D. Olivera and T. Arellanes",
    "governor_name": "Alvarado",
@@ -69085,7 +69088,7 @@
     }
    ],
    "acres": 17733,
-   "rank_note": "163rd of 493 by area (17,733 acres)",
+   "rank_note": "162nd of 493 by area (17,733 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Manuel Jimeno Casarin",
@@ -69382,7 +69385,7 @@
     }
    ],
    "acres": 30901,
-   "rank_note": "79th of 493 by area (30,901 acres)",
+   "rank_note": "78th of 493 by area (30,901 acres)",
    "outcome": "Confirmed",
    "leagues": "8",
    "grantee": "Simeon Castro",
@@ -69661,7 +69664,7 @@
     }
    ],
    "acres": 26637,
-   "rank_note": "97th of 493 by area (26,637 acres)",
+   "rank_note": "96th of 493 by area (26,637 acres)",
    "grantee": "John Francisco Dye",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -70327,7 +70330,7 @@
     }
    ],
    "acres": 19571,
-   "rank_note": "140th of 493 by area (19,571 acres)",
+   "rank_note": "139th of 493 by area (19,571 acres)",
    "grantee": "William (Guillermo) A. Richardson",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -70471,7 +70474,7 @@
     }
    ],
    "acres": 26597,
-   "rank_note": "107th of 493 by area (26,597 acres)",
+   "rank_note": "106th of 493 by area (26,597 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "V. Morago (Vicente Moraga and Luis Arenas)",
@@ -70930,7 +70933,7 @@
     }
    ],
    "acres": 30848,
-   "rank_note": "83rd of 493 by area (30,848 acres)",
+   "rank_note": "82nd of 493 by area (30,848 acres)",
    "grantee": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -71176,7 +71179,7 @@
     }
    ],
    "acres": 17734,
-   "rank_note": "162nd of 493 by area (17,734 acres)",
+   "rank_note": "161st of 493 by area (17,734 acres)",
    "grantee": "Joaquín Estrada",
    "governor_name": "Manuel Jimeno",
    "outcome": "Confirmed",
@@ -71352,7 +71355,7 @@
     }
    ],
    "acres": 26688,
-   "rank_note": "94th of 493 by area (26,688 acres)",
+   "rank_note": "93rd of 493 by area (26,688 acres)",
    "grantee": "Juan J. Warner",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -72097,7 +72100,7 @@
     }
    ],
    "acres": 8818,
-   "rank_note": "295th of 493 by area (8,818 acres)",
+   "rank_note": "294th of 493 by area (8,818 acres)",
    "outcome": "Patented",
    "leagues": "2",
    "grantee": "Marcelino Escobar",
@@ -72628,7 +72631,7 @@
     }
    ],
    "acres": 22234,
-   "rank_note": "117th of 493 by area (22,234 acres)",
+   "rank_note": "116th of 493 by area (22,234 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Antonio Maria Lugo",
@@ -72805,7 +72808,7 @@
     }
    ],
    "acres": 28027,
-   "rank_note": "88th of 493 by area (28,027 acres)",
+   "rank_note": "87th of 493 by area (28,027 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "Manuel Nieto",
@@ -73242,7 +73245,7 @@
     }
    ],
    "acres": 13315,
-   "rank_note": "221st of 493 by area (13,315 acres)",
+   "rank_note": "220th of 493 by area (13,315 acres)",
    "outcome": "Patented",
    "leagues": "3",
    "grantee": "Jose Francisco Armijo",
@@ -73837,7 +73840,7 @@
     }
    ],
    "acres": 17305,
-   "rank_note": "173rd of 493 by area (17,305 acres)",
+   "rank_note": "172nd of 493 by area (17,305 acres)",
    "grantee": "Dionisio Z. Fernandez, Máximo Z. Fernandez, Josiah Belden, and William R. Basham",
    "governor_name": "Pío Pico",
    "outcome": "Confirmed",
@@ -75517,7 +75520,7 @@
     }
    ],
    "acres": 7845,
-   "rank_note": "310th of 493 by area (7,845 acres)",
+   "rank_note": "309th of 493 by area (7,845 acres)",
    "grantee": "Juan Reed",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -75887,7 +75890,7 @@
     }
    ],
    "acres": 22184,
-   "rank_note": "125th of 493 by area (22,184 acres)",
+   "rank_note": "124th of 493 by area (22,184 acres)",
    "grantee": "Thomas O. Larkin",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -76875,7 +76878,7 @@
     }
    ],
    "acres": 13292,
-   "rank_note": "228th of 493 by area (13,292 acres)",
+   "rank_note": "227th of 493 by area (13,292 acres)",
    "grantee": "James Swanson, administrator",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -77006,7 +77009,7 @@
     }
    ],
    "acres": 26626,
-   "rank_note": "102nd of 493 by area (26,626 acres)",
+   "rank_note": "101st of 493 by area (26,626 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "Francisco Lopez et al",
@@ -77359,7 +77362,7 @@
     }
    ],
    "acres": 26518,
-   "rank_note": "110th of 493 by area (26,518 acres)",
+   "rank_note": "109th of 493 by area (26,518 acres)",
    "outcome": "Confirmed",
    "grantee": "Mariano Castro",
    "governor_name": "Félix Berenguer de Marquina (viceroy of New Spain); José Figueroa",
@@ -77920,7 +77923,7 @@
     }
    ],
    "acres": 17760,
-   "rank_note": "156th of 493 by area (17,760 acres)",
+   "rank_note": "155th of 493 by area (17,760 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Manuel Torres",
@@ -78940,7 +78943,7 @@
    ],
    "disenos": [],
    "acres": 35487,
-   "rank_note": "65th of 493 by area (35,487 acres)",
+   "rank_note": "64th of 493 by area (35,487 acres)",
    "grantee": "William H. McKee",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -79202,7 +79205,7 @@
     }
    ],
    "acres": 25993,
-   "rank_note": "111th of 493 by area (25,993 acres)",
+   "rank_note": "110th of 493 by area (25,993 acres)",
    "grantee": "Petrenelo Ríos",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -79456,7 +79459,7 @@
     }
    ],
    "acres": 32702,
-   "rank_note": "71st of 493 by area (32,702 acres)",
+   "rank_note": "70th of 493 by area (32,702 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "M. Castro",
@@ -80276,7 +80279,7 @@
     }
    ],
    "acres": 26761,
-   "rank_note": "91st of 493 by area (26,761 acres)",
+   "rank_note": "90th of 493 by area (26,761 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "Salvador Oslo",
@@ -80565,7 +80568,7 @@
     }
    ],
    "acres": 26788,
-   "rank_note": "90th of 493 by area (26,788 acres)",
+   "rank_note": "89th of 493 by area (26,788 acres)",
    "outcome": "Patented",
    "leagues": "8",
    "grantee": "Eugenio Montenegro",
@@ -80890,7 +80893,7 @@
     }
    ],
    "acres": 33460,
-   "rank_note": "70th of 493 by area (33,460 acres)",
+   "rank_note": "69th of 493 by area (33,460 acres)",
    "outcome": "Confirmed",
    "grantee": "Manuel Nieto",
    "governor_name": "Pedro Fages",
@@ -81619,7 +81622,7 @@
     }
    ],
    "acres": 17760,
-   "rank_note": "157th of 493 by area (17,760 acres)",
+   "rank_note": "156th of 493 by area (17,760 acres)",
    "grantee": "María Antonia Martínez de Richardson",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -82161,7 +82164,7 @@
     }
    ],
    "acres": 27654,
-   "rank_note": "89th of 493 by area (27,654 acres)",
+   "rank_note": "88th of 493 by area (27,654 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Manuela Nieto",
@@ -82787,7 +82790,7 @@
    ],
    "disenos": [],
    "acres": 18848,
-   "rank_note": "141st of 493 by area (18,848 acres)",
+   "rank_note": "140th of 493 by area (18,848 acres)",
    "grantee": "Vicente and Domingo Peralta",
    "governor_name": "Sola; Arguello; Micheltorena",
    "outcome": "Confirmed",
@@ -83062,7 +83065,7 @@
    ],
    "disenos": [],
    "acres": 13315,
-   "rank_note": "222nd of 493 by area (13,315 acres)",
+   "rank_note": "221st of 493 by area (13,315 acres)",
    "grantee": "Leon V. Prudhomme",
    "governor_name": "a Spanish governor",
    "outcome": "Confirmed",
@@ -83602,7 +83605,7 @@
     }
    ],
    "acres": 17962,
-   "rank_note": "145th of 493 by area (17,962 acres)",
+   "rank_note": "144th of 493 by area (17,962 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Edouardo A. Bale",
@@ -83926,7 +83929,7 @@
     }
    ],
    "acres": 30144,
-   "rank_note": "86th of 493 by area (30,144 acres)",
+   "rank_note": "85th of 493 by area (30,144 acres)",
    "outcome": "Confirmed",
    "leagues": "1",
    "grantee": "M. White",
@@ -84401,7 +84404,7 @@
     }
    ],
    "acres": 22214,
-   "rank_note": "118th of 493 by area (22,214 acres)",
+   "rank_note": "117th of 493 by area (22,214 acres)",
    "grantee": "John Bidwell",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -86370,7 +86373,7 @@
     }
    ],
    "acres": 30848,
-   "rank_note": "84th of 493 by area (30,848 acres)",
+   "rank_note": "83rd of 493 by area (30,848 acres)",
    "grantee": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -86798,7 +86801,7 @@
     }
    ],
    "acres": 31201,
-   "rank_note": "76th of 493 by area (31,201 acres)",
+   "rank_note": "75th of 493 by area (31,201 acres)",
    "grantee": "James Blair",
    "governor_name": "Figueroa",
    "outcome": "Confirmed",
@@ -87386,7 +87389,7 @@
     }
    ],
    "acres": 18661,
-   "rank_note": "144th of 493 by area (18,661 acres)",
+   "rank_note": "143rd of 493 by area (18,661 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Joaquin Sheldon",
@@ -88431,7 +88434,7 @@
     }
    ],
    "acres": 35240,
-   "rank_note": "68th of 493 by area (35,240 acres)",
+   "rank_note": "67th of 493 by area (35,240 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Luis Arguello",
@@ -89414,7 +89417,7 @@
     }
    ],
    "acres": 26666,
-   "rank_note": "95th of 493 by area (26,666 acres)",
+   "rank_note": "94th of 493 by area (26,666 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "Sebastian Nunez",
@@ -90089,7 +90092,7 @@
     }
    ],
    "acres": 26529,
-   "rank_note": "109th of 493 by area (26,529 acres)",
+   "rank_note": "108th of 493 by area (26,529 acres)",
    "grantee": "Antonio M. Ortega",
    "governor_name": "a Spanish governor",
    "outcome": "Confirmed",
@@ -90467,7 +90470,7 @@
     }
    ],
    "acres": 7424,
-   "rank_note": "314th of 493 by area (7,424 acres)",
+   "rank_note": "313th of 493 by area (7,424 acres)",
    "outcome": "Confirmed",
    "leagues": "2",
    "grantee": "C. Cervantes",
@@ -91637,7 +91640,7 @@
     }
    ],
    "acres": 21678,
-   "rank_note": "132nd of 493 by area (21,678 acres)",
+   "rank_note": "131st of 493 by area (21,678 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "T. Murphy",
@@ -93391,7 +93394,7 @@
     }
    ],
    "acres": 17938,
-   "rank_note": "146th of 493 by area (17,938 acres)",
+   "rank_note": "145th of 493 by area (17,938 acres)",
    "outcome": "Confirmed",
    "leagues": "4",
    "grantee": "Francisco Castro",
@@ -94779,7 +94782,7 @@
     }
    ],
    "acres": 26759,
-   "rank_note": "92nd of 493 by area (26,759 acres)",
+   "rank_note": "91st of 493 by area (26,759 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "Juan Vioget",
@@ -95810,7 +95813,7 @@
     }
    ],
    "acres": 26637,
-   "rank_note": "98th of 493 by area (26,637 acres)",
+   "rank_note": "97th of 493 by area (26,637 acres)",
    "grantee": "James M. Harbin",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -96258,7 +96261,7 @@
     }
    ],
    "acres": 22206,
-   "rank_note": "119th of 493 by area (22,206 acres)",
+   "rank_note": "118th of 493 by area (22,206 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "P. Lassen",
@@ -97107,7 +97110,7 @@
     }
    ],
    "acres": 32430,
-   "rank_note": "72nd of 493 by area (32,430 acres)",
+   "rank_note": "71st of 493 by area (32,430 acres)",
    "outcome": "Confirmed",
    "grantee": "Victor Linares",
    "governor_name": "Pico",
@@ -98357,7 +98360,7 @@
     }
    ],
    "acres": 35489,
-   "rank_note": "64th of 493 by area (35,489 acres)",
+   "rank_note": "63rd of 493 by area (35,489 acres)",
    "outcome": "Confirmed",
    "leagues": "8",
    "grantee": "Stephen Smith",
@@ -100321,7 +100324,7 @@
     }
    ],
    "acres": 31079,
-   "rank_note": "77th of 493 by area (31,079 acres)",
+   "rank_note": "76th of 493 by area (31,079 acres)",
    "grantee": "Charles Covillaud",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
@@ -101231,7 +101234,7 @@
     }
    ],
    "acres": 17580,
-   "rank_note": "172nd of 493 by area (17,580 acres)",
+   "rank_note": "171st of 493 by area (17,580 acres)",
    "outcome": "Confirmed",
    "leagues": "5",
    "grantee": "Ernest Rufus",
@@ -101889,7 +101892,7 @@
     }
    ],
    "acres": 26632,
-   "rank_note": "100th of 493 by area (26,632 acres)",
+   "rank_note": "99th of 493 by area (26,632 acres)",
    "outcome": "Confirmed",
    "leagues": "6",
    "grantee": "P. B. Reading",
@@ -103498,7 +103501,7 @@
     }
    ],
    "acres": 32259,
-   "rank_note": "74th of 493 by area (32,259 acres)",
+   "rank_note": "73rd of 493 by area (32,259 acres)",
    "grantee": "Juan Bandini",
    "governor_name": "Alvarado",
    "outcome": "Confirmed",
@@ -111821,7 +111824,7 @@
     }
    ],
    "acres": 35446,
-   "rank_note": "67th of 493 by area (35,446 acres)",
+   "rank_note": "66th of 493 by area (35,446 acres)",
    "grantee": "Hiram Grimes, Francis W. Grimes and William H. McKee",
    "governor_name": "Micheltorena",
    "outcome": "Confirmed",
