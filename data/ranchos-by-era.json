@@ -29302,7 +29302,7 @@
    "date": {
     "iso": "1842-05-18",
     "display": "18 May 1842",
-    "confidence": "day"
+    "confidence": "exact"
    },
    "coords": [
     37.9164,
@@ -38704,7 +38704,7 @@
    "date": {
     "iso": "1842-05-18",
     "display": "18 May 1842",
-    "confidence": "day"
+    "confidence": "exact"
    },
    "coords": [
     38.03372,
