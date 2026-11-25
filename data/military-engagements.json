@@ -1122,7 +1122,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "SOURCE CAUTION (25 Nov 2026): the one record linked here is related context, not an account of the siege; no source on this map attests the 'one chief killed, one soldier wounded' figures, which are unverified.",
    "symbol": "swords"
   },
   {
@@ -1163,7 +1163,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca16-d214 n129-n130): after the ranchería was found on the 9th, «para contenerlos hubo que emplear lanza y espada y matar un capitán; los demás huyeron»; ten Indian prisoners went to the San José escort; on the 11th Amador fell on seven rancherías and collected 21 Christians handed over by their captains, and «les quebré todas sus flechas y arcos». Every claim in the summary is on the leaf.",
    "symbol": "flame"
   },
   {
@@ -1171,9 +1171,9 @@
    "register_no": "12",
    "name": "Pacheco's Fight near Santa Clara",
    "date": {
-    "iso": "1801",
-    "display": "ca. 1801",
-    "confidence": "circa"
+    "iso": "1801-03",
+    "display": "March 1801 (reported 15 March)",
+    "confidence": "month"
    },
    "coords": [
     37.35,
@@ -1199,7 +1199,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca11-d31 n65, Pacheco to Amador, Santa Clara, 15 March 1801): sent to bring the capitanejo Gijigües before the padres of Santa Clara, the party was met with arms; with two horses and two Christian Indian auxiliaries already wounded, Pacheco «mandó hacer fuego, de lo que resultaron cinco gentiles muertos y varios heridos»; Gijigües was thought mortally wounded and the party returned with prisoners. A covering letter (Alberni to Arrillaga, 2 May 1801, n64) adds that Gijigües held two neophyte women.",
    "symbol": "swords"
   },
   {
@@ -1243,9 +1243,9 @@
    "register_no": "14",
    "name": "Attack on Padre Cueva",
    "date": {
-    "iso": "1805-01",
-    "display": "January 1805",
-    "confidence": "month"
+    "iso": "1805-01-15",
+    "display": "January 15, 1805",
+    "confidence": "exact"
    },
    "coords": [
     37.53,
@@ -1254,8 +1254,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase2",
-   "summary": "Ranchería 10–15 miles east of Mission San José, in Asisines/Luecheas territory (Diablo Range foothills). Spanish driven back.",
-   "result": "INDIGENOUS TACTICAL VICTORY",
+   "summary": "Ranchería 10–15 miles east of Mission San José, in Asisines/Luecheas territory (Diablo Range foothills). Padre Pedro Cuevas, escorted by soldiers Ignacio Alviso and Joaquín Higuera with the mayordomo Ignacio Higuera and mission Indians on foot, set out to confess the sick at a Christian ranchería; in fog the guide led them to a gentile one. Men of three rancherías shot at them from about noon until nightfall, killing the mayordomo and two mission Indians, wounding the padre in the face and Higuera in the thigh, and killing all their horses.",
+   "result": "Mayordomo and two mission Indians killed; padre wounded; party escaped on foot",
    "quote": null,
    "sources": [
     {
@@ -1287,7 +1287,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Bancroft cites this dossier by the C-A copybook pagination, not the original tomo pages: his 'Prov. St. Pap., MS., xix. 34-5' = Savage pp. 34-35 = Doc 25 (orig. pp. 66-67); 'xix. 36' and 'xix. 36-7' = Doc 26; 'xix. 29' = Doc 18; 'xix. 39-40' = Doc 31. That cross-check is what confirms the identifications. The Spanish reprisal (23 Jan 1805 battle) is mapped separately as reg-38; ca12-d35 (30 May 1805, pursuit of San Jose fugitives back to the Luechas rancheria) is later aftermath and is not linked here. Savage and Bancroft disagree on the rancheria name: Asisones/Asisines (Docs 18, 26) vs Luecheas/Luechas (Doc 35); Amador's Memorias calls them Loechas.",
+   "notes": "Bancroft cites this dossier by the C-A copybook pagination, not the original tomo pages: his 'Prov. St. Pap., MS., xix. 34-5' = Savage pp. 34-35 = Doc 25 (orig. pp. 66-67); 'xix. 36' and 'xix. 36-7' = Doc 26; 'xix. 29' = Doc 18; 'xix. 39-40' = Doc 31. That cross-check is what confirms the identifications. The Spanish reprisal (23 Jan 1805 battle) is mapped separately as reg-38; ca12-d35 (30 May 1805, pursuit of San Jose fugitives back to the Luechas rancheria) is later aftermath and is not linked here. Savage and Bancroft disagree on the rancheria name: Asisones/Asisines (Docs 18, 26) vs Luecheas/Luechas (Doc 35); Amador's Memorias calls them Loechas. READ AT THE LEAF (25 Nov 2026, ca12-d25 n35, Sánchez to Argüello, 16 Jan 1805): «el guía los llevó á una ranchería de gentiles diciendo que era de cristianos… acudieron de otras dos rancherías, mataron á Ignacio Higuera y dos indios de aquí. El Padre Cuevas recibió un jarazo en la cara, y Joaqn Higuera otro en el muslo… estuvieron jareando al padre y á los soldados desde cerca de mediodía hasta cerca de anochecer… Esto sucedió ayer»: 15 January 1805. The friar's name on the leaf is Cuevas.",
    "symbol": "swords"
   },
   {
@@ -1383,7 +1383,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase2",
-   "summary": "INDIGENOUS ECONOMIC WARFARE. Wheat crop burned. Moraga captured capitanejo from Santa Cruz (pursued 3 years). Signs of sublevación.",
+   "summary": "INDIGENOUS ECONOMIC WARFARE. Wheat crop burned. Sgt. Moraga pursued the burners and brought back 18 gentiles, a capitanejo, and a Christian of Santa Cruz who had been pursued for three years. Signs of sublevación.",
    "result": "Economic warfare; wheat crop destroyed",
    "quote": null,
    "sources": [
@@ -1411,7 +1411,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "WORDING CORRECTION FOR THE MAP: the capitanejo Moraga took was NOT 'from Santa Cruz'. C-A 11 Doc 23 says he returned 'trayendo 18 gentiles, un capitanejo, y cristiano de S.ta Cruz, el q.e se persigue hace tres anos' - eighteen gentiles, a capitanejo (of the Ausaymes), AND, separately, a fugitive Christian neophyte of Mission Santa Cruz pursued for three years. The C-A 25 version names two capitanejos, of the Ausaymes and of the 'Carcadero' (= Carnadero) rancherias; Bancroft's tally is 'eighteen captives including the chieftains of the Ansaime and the Carnadero rancherias'. Note also that the C-A 11 letter is mostly about a different affair (Amador vs the Sacalanes near Mission San Jose); the San Juan Bautista arson is its second half.",
+   "notes": "WORDING CORRECTION FOR THE MAP: the capitanejo Moraga took was NOT 'from Santa Cruz'. C-A 11 Doc 23 says he returned 'trayendo 18 gentiles, un capitanejo, y cristiano de S.ta Cruz, el q.e se persigue hace tres anos' - eighteen gentiles, a capitanejo (of the Ausaymes), AND, separately, a fugitive Christian neophyte of Mission Santa Cruz pursued for three years. The C-A 25 version names two capitanejos, of the Ausaymes and of the 'Carcadero' (= Carnadero) rancherias; Bancroft's tally is 'eighteen captives including the chieftains of the Ansaime and the Carnadero rancherias'. Note also that the C-A 11 letter is mostly about a different affair (Amador vs the Sacalanes near Mission San Jose); the San Juan Bautista arson is its second half. Leaf-confirmed (25 Nov 2026, ca11-d23 n33): «indios incendiaron los campos cerca de la Misión, quemándose toda la siembra de trigo; que envió á Sargto Moraga á perseguirlos y sin accidente regresó trayendo 18 gentiles, un capitanejo, y cristiano de Sta Cruz, el que se persigue hace tres años»; the summary now carries the correction this note asked for.",
    "symbol": "swords"
   },
   {
@@ -1459,9 +1459,9 @@
    "register_no": "47",
    "name": "Fugitive Neophytes: Sacalan & Cuchillones",
    "date": {
-    "iso": "1797",
-    "display": "1797",
-    "confidence": "year"
+    "iso": "1797-09-30",
+    "display": "Reported September 30, 1797",
+    "confidence": "exact"
    },
    "coords": [
     37.79,
@@ -1482,7 +1482,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Savage's abstract makes Argüello the writer and Landaeta the source of the report; the existing citation named only Landaeta. Corrected in the citation string. Date is exact (30 Sept 1797). Related but distinct documents, NOT linked here to avoid a false match: ca9-d52 (23 Aug 1797, four gentile Cuchillones bring in 11 Christian fugitives) and ca10-d102 (28 May 1798, 40 fugitive Sacalanes and Cuchillones surrender at San Francisco). Bancroft, Hist. Cal. I:709-11 narrates the wider 1797 flight but does not treat this three-man episode.",
+   "notes": "Savage's abstract makes Argüello the writer and Landaeta the source of the report; the existing citation named only Landaeta. Corrected in the citation string. Date is exact (30 Sept 1797). Related but distinct documents, NOT linked here to avoid a false match: ca9-d52 (23 Aug 1797, four gentile Cuchillones bring in 11 Christian fugitives) and ca10-d102 (28 May 1798, 40 fugitive Sacalanes and Cuchillones surrender at San Francisco). Bancroft, Hist. Cal. I:709-11 narrates the wider 1797 flight but does not treat this three-man episode. Leaf-confirmed (25 Nov 2026, ca9-d27 n30): «Dice le noticia el P. Martín Landaeta haberse huido de la Misión á sus tierras tres cristianos, uno Sacalan y dos Cuchillones».",
    "symbol": "standoff"
   },
   {
@@ -1561,9 +1561,9 @@
    "register_no": "50",
    "name": "Indian Killed at Monterey Presidio",
    "date": {
-    "iso": "1797",
-    "display": "1797",
-    "confidence": "year"
+    "iso": "1797-02-23",
+    "display": "February 23, 1797 (afternoon)",
+    "confidence": "exact"
    },
    "coords": [
     36.6,
@@ -1572,7 +1572,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase2",
-   "summary": "Indian Choychi grabbed musket at 2 AM, wounded guard Quesadas with bayonet. Soldiers entered; Marín struck him on head; died 1½ hours later \"echando sangre con espuma por la boca.\"",
+   "summary": "Choychí, a gentile from near San Luis Obispo held 22 days in the Monterey presidio guardhouse, took a musket with fixed bayonet from the arms rack on the afternoon of 23 Feb 1797 and wounded the volunteer soldier Manuel Quesadas, who was asleep beside it; Quesadas struck him on the head with a bar, and he fell under the rack 'echando sangre con espuma por la boca', dying about an hour and a half later. Four days earlier, at 2 a.m. on the 19th, a sentry had seen him make for a musket and locked him in the calabozo.",
    "result": "Indian killed resisting",
    "quote": null,
    "sources": [
@@ -1584,7 +1584,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Three corrections/flags. (1) The record is Sal's report of 28 Feb. 1797; it does not state the 2 a.m. hour the feature gives, so '2 AM' is unconfirmed from the catalog. (2) The feature treats 'guard Quesadas' and 'Marín' as two men; Savage names the wounded soldier 'Marín Quesadas' and the man who struck the blow 'soldier Marín'; ambiguous, possibly one person. Flagged, not reconciled. (3) For the 'result' field: surgeon Pablo Soler testified Choychi already had two fractured ribs when brought in from San Luis (injured at capture) and died more from the chest contusion than the head blow, which undercuts a flat 'killed resisting'. Bancroft vol. I has no mention of Choychi or Quesadas (grepped); episode appears unpublished, so no book source.",
+   "notes": "Three corrections/flags. (1) The record is Sal's report of 28 Feb. 1797; it does not state the 2 a.m. hour the feature gives, so '2 AM' is unconfirmed from the catalog. (2) The feature treats 'guard Quesadas' and 'Marín' as two men; Savage names the wounded soldier 'Marín Quesadas' and the man who struck the blow 'soldier Marín'; ambiguous, possibly one person. Flagged, not reconciled. (3) For the 'result' field: surgeon Pablo Soler testified Choychi already had two fractured ribs when brought in from San Luis (injured at capture) and died more from the chest contusion than the head blow, which undercuts a flat 'killed resisting'. Bancroft vol. I has no mention of Choychi or Quesadas (grepped); episode appears unpublished, so no book source. READ AT THE LEAF (25 Nov 2026, ca9-d365 n217-n218, Sal to Borica, 23 Feb 1797, with depositions): «á las tres de la tarde de este día el Indio preso llamado Choychí… hirió al soldº voluntº Manl Quesadas, y que éste, tomando una tranca le dió al citado Indio un palo en la cabeza de cuyo golpe murió»; the cabos Antonio Marín and Mateo Bello and soldiers Narciso Torres and Juan Pinto were witnesses: Marín turned for a weapon «al tiempo que el herido le dió un palo en la cabeza al Indio». The '2 AM' published here belonged to an earlier attempt on the 19th (the sentry Francisco Jiménez: «como á las dos de la mañana»), and 'Marín' was a witness, not the man who struck. Both resolve this note's earlier flags.",
    "symbol": "swords"
   },
   {
@@ -1620,7 +1620,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Discrepancy flagged, not reconciled: the killer's motive differs between the two documents. Briones's first report (ca9-d416, 8 Jan.) gives the witchcraft/poisoning accusation over the man's dead daughter; the accused's own statement after arrest (ca9-d364, 26 Jan.) gives a different, more mundane reason, that a Christian in Toribio's party had approached his house. The map summary carries only the first version. ca9-d364 also adds that Toribio's body was burned. Bancroft, Hist. Cal. I, does not narrate this killing.",
+   "notes": "Discrepancy flagged, not reconciled: the killer's motive differs between the two documents. Briones's first report (ca9-d416, 8 Jan.) gives the witchcraft/poisoning accusation over the man's dead daughter; the accused's own statement after arrest (ca9-d364, 26 Jan.) gives a different, more mundane reason, that a Christian in Toribio's party had approached his house. The map summary carries only the first version. ca9-d364 also adds that Toribio's body was burned. Bancroft, Hist. Cal. I, does not narrate this killing. Leaf-confirmed (25 Nov 2026, ca9-d416 n240 and ca9-d364 n215): Briones's first report has «un viejo Gentil acompañado de dos hijos suyos mató á Toribio… por sospecharle de haber enyerbado á su hija cristiana que murió en esta Misión»; after arrest the old man said he and one son («él y su hijo») followed the Christians because one of them had come to his house asking for 'el viejo capeador', and the body was burned. The party had gone to fetch a gentile woman to marry the Christian who had been her husband before baptism.",
    "symbol": "swords"
   },
   {
@@ -1651,7 +1651,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Leaf number corrected from n240 to n239 (the record opens on n239 and runs to n240; n240 alone lands on Doc 416, the Toribio killing = feature reg-51). Features reg-51 and reg-52 are consecutive documents in one manhunt: Toribio killed, Briones out 8 Jan. (d416), pursuit fails 14 Jan. (d415), gentiles taken 18 Jan., reported 26 Jan. (d364). Worth cross-linking on the map. The 'result: Failed pursuit' is right for 14 Jan. only; the January manhunt did in the end take the killers.",
+   "notes": "Leaf number corrected from n240 to n239 (the record opens on n239 and runs to n240; n240 alone lands on Doc 416, the Toribio killing = feature reg-51). Features reg-51 and reg-52 are consecutive documents in one manhunt: Toribio killed, Briones out 8 Jan. (d416), pursuit fails 14 Jan. (d415), gentiles taken 18 Jan., reported 26 Jan. (d364). Worth cross-linking on the map. The 'result: Failed pursuit' is right for 14 Jan. only; the January manhunt did in the end take the killers. Leaf-confirmed (25 Nov 2026, top of ca9 n240, Savage pp. 904-905): «una India vieja le dijo que los Gentiles de aquellos contornos se habían juntado enfrente del nacimiento como en demanda de los Tulares, que se volvió por falta de bastimento, y que intenta volver el 19 para sosegar también esa junta de Gentiles».",
    "symbol": "flame"
   },
   {
