@@ -2513,7 +2513,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "SERIOUS DISCREPANCY, not reconciled. The feature says December 1816, inter-indigenous (Christians against gentiles), 4 killed. The only documented Malmi engagement is Gabriel Moraga's expedition of June 1816, which was a Spanish military operation, not inter-indigenous, and which failed because the apostates had already left; no one was killed. Every C-A record dated Nov 1816 – Feb 1817 (about 80 records) was read, and there is no December 1816 action near Santa Cruz at all. 'Tasnil' appears nowhere: not in the 34,567-record catalogue, not in Bancroft's History of California vol. II. Bancroft II:390 says only that in 1815–16 'there had been expeditions after runaway neophytes of which not much is known, but the rancherias of Pitemas and of Malmi are named.' Either the feature belongs to June 1816 as a failed Spanish surprise, or its December 1816, four-killed and inter-indigenous details are unsourced. The two C-A records below are the records for the Malmi episode, not confirmation of the feature as written.",
+   "notes": "SERIOUS DISCREPANCY, not reconciled. The feature says December 1816, inter-indigenous (Christians against gentiles), 4 killed. The only documented Malmi engagement is Gabriel Moraga's expedition of June 1816, which was a Spanish military operation, not inter-indigenous, and which failed because the apostates had already left; no one was killed. Every C-A record dated Nov 1816 – Feb 1817 (about 80 records) was read, and there is no December 1816 action near Santa Cruz at all. 'Tasnil' appears nowhere: not in the 34,567-record catalogue, not in Bancroft's History of California vol. II. Bancroft II:390 says only that in 1815–16 'there had been expeditions after runaway neophytes of which not much is known, but the rancherias of Pitemas and of Malmi are named.' Either the feature belongs to June 1816 as a failed Spanish surprise, or its December 1816, four-killed and inter-indigenous details are unsourced. The two C-A records below are the records for the Malmi episode, not confirmation of the feature as written. Leaf-confirmed (25 Nov 2026, ca13-d110/d111 n103): 21 June 1816, «ya sale Moraga con fuerza para atacar á los indios apóstatas del pueblo de Malmi en la misión de Sta Cruz»; 30 June, «la sorpresa que se intentó dar á los cristianos apóstatas de la ranchª de Malmi no tuvo efecto pues ya no estaban allí».",
    "symbol": "swords"
   },
   {
@@ -2532,8 +2532,8 @@
    "coord_precision": "place",
    "type": "standoff",
    "layer": "phase3b",
-   "summary": "Sacramento River, ~50 miles from SF. Standoff; Spanish retreated.",
-   "result": "Standoff; Spanish retreated",
+   "summary": "Capt. Luis Argüello's 17-day reconnaissance up the river that empties into San Francisco Bay (the Sacramento), with 10 soldiers, was attacked once; 4 soldiers and some of the rowers who had landed held off the attack, one rower was badly wounded, and the attackers fled into the hills.",
+   "result": "Attack repulsed; one rower badly wounded",
    "quote": null,
    "sources": [
     {
@@ -2549,7 +2549,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "CITATION PROBLEM. Every occurrence of '1817' in Bancroft's Indian-affairs and explorations chapter of vol. II (the whole span from the chapter head through the notes on Indian affairs of the decade) was checked, and there is no May 1817 armed encounter on the Sacramento in Bancroft II. The bare citation 'Bancroft II.' cannot be verified as written. The closest Bancroft passage is II:331 with its note 37, resting on Luis Argüello's Hoja de Servicios: 'in this same month of May he went to explore the river that flows from the north into San Francisco Bay, that is the Sacramento, sailing on it for seventeen days, constantly threatened by the numerous Indians, and once landing with four men to fight them', which Bancroft assigns to May 1818 but then argues 'was probably made one or two years earlier.' DATE CONFLICT, unreconciled: the hoja as catalogued in C-A reads 1808; Bancroft read May 1818; Bancroft's own estimate is 1816–17; the map says May 1817. Four different dates for what may be one voyage. RESEARCH LEAD, not a claim: the May 1817 Sacramento voyage of Luis Argüello with Padres Narciso Durán and Ramón Abella is documented by Durán's own diary, which is not in C-A; if that is the map compiler's real source, the citation should be to Durán's diary. This is unverified.",
+   "notes": "CITATION PROBLEM. Every occurrence of '1817' in Bancroft's Indian-affairs and explorations chapter of vol. II (the whole span from the chapter head through the notes on Indian affairs of the decade) was checked, and there is no May 1817 armed encounter on the Sacramento in Bancroft II. The bare citation 'Bancroft II.' cannot be verified as written. The closest Bancroft passage is II:331 with its note 37, resting on Luis Argüello's Hoja de Servicios: 'in this same month of May he went to explore the river that flows from the north into San Francisco Bay, that is the Sacramento, sailing on it for seventeen days, constantly threatened by the numerous Indians, and once landing with four men to fight them', which Bancroft assigns to May 1818 but then argues 'was probably made one or two years earlier.' DATE CONFLICT, unreconciled: the hoja as catalogued in C-A reads 1808; Bancroft read May 1818; Bancroft's own estimate is 1816–17; the map says May 1817. Four different dates for what may be one voyage. RESEARCH LEAD, not a claim: the May 1817 Sacramento voyage of Luis Argüello with Padres Narciso Durán and Ramón Abella is documented by Durán's own diary, which is not in C-A; if that is the map compiler's real source, the citation should be to Durán's diary. This is unverified. READ AT THE LEAF (25 Nov 2026, ca56-d138 n120, Argüello's hoja de servicios, 31 Dec 1828): «salió á reconocer el río que desemboca en el puerto de San Francisco que corre Norte-Sur, con 10 soldos de fuerza; navegó 17 días por el citado río amenazado de la gentilidad numerosa… en que fué atacado una vez cuya acción resistió con sólos 4 hombres de tropa y algunos de los del remo que habían saltado á tierra, de cuya refriega salió herido uno de éstos gravemente, pero al fin se fugaron por los montes dejándonos dueños del sitio». An earlier version of this entry said the Spanish retreated. ⚠ The year on the leaf is indistinct (it can be read 1808 or 1818); May 1817 follows the existing dating and is unverified.",
    "symbol": "standoff"
   },
   {
@@ -2881,7 +2881,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Feature carried NO ca_record; nine C-A links added. Bancroft II:387-89 footnotes name the manuscripts (Prov. St. Pap. xix.323; Prov. Rec. xi.221-2/xii.223; Prov. St. Pap., Ben. Mil. xliv.21 and xlix.59-61; Prov. Rec. ix.138-9, xi.33) and each resolves to a subject-matching C-A record above (the page-interval resolver returned only neighbourhood noise; matches made on content). DISCREPANCY on the murderers' names: ca17-d153/d177 give Lino, Antonino, Vicente, Saturnino & Fulgencio; ca26-d106/d108 give Lino, Cesareo, Antonino, Julian, Fulgencio; ca25-d697 names complices Quirico, Julian y Alberto. Savage's own copies disagree; not harmonised. Killing date 12 Oct 1812 is independently confirmed by ca26-d108 ('noche del 12 Oct 1812').",
+   "notes": "Feature carried NO ca_record; nine C-A links added. Bancroft II:387-89 footnotes name the manuscripts (Prov. St. Pap. xix.323; Prov. Rec. xi.221-2/xii.223; Prov. St. Pap., Ben. Mil. xliv.21 and xlix.59-61; Prov. Rec. ix.138-9, xi.33) and each resolves to a subject-matching C-A record above (the page-interval resolver returned only neighbourhood noise; matches made on content). DISCREPANCY on the murderers' names: ca17-d153/d177 give Lino, Antonino, Vicente, Saturnino & Fulgencio; ca26-d106/d108 give Lino, Cesareo, Antonino, Julian, Fulgencio; ca25-d697 names complices Quirico, Julian y Alberto. Savage's own copies disagree; not harmonised. Killing date 12 Oct 1812 is independently confirmed by ca26-d108 ('noche del 12 Oct 1812'). Leaf-confirmed (25 Nov 2026, ca12-d405 n329, Argüello to Arrillaga, 13 Oct 1812): the Santa Cruz escort reported «haberse encontrado muerto en su misma cama al Rdo Pe Andrés Quintana; que el cabo con testigos examinó el cuerpo y no le hallaron señales de que la muerte fuese violenta». This is the official finding of a natural death that the summary refers to. The conspiracy and the manner of death rest on Asisara and the 1816 causa, not on this leaf.",
    "symbol": "swords"
   },
   {
@@ -2889,9 +2889,9 @@
    "register_no": "69",
    "name": "Sánchez SF Campaign",
    "date": {
-    "iso": "1820",
-    "display": "1820",
-    "confidence": "year"
+    "iso": "1819-10",
+    "display": "October 1819 (praised 6 Jan 1820)",
+    "confidence": "month"
    },
    "coords": [
     37.8,
@@ -2900,7 +2900,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase3b",
-   "summary": "SF area. Solá: campaign under Sargento Sánchez \"fue muy brillante.\" Recommended for alférez despite near-invalid status.",
+   "summary": "The San Francisco wing of the October 1819 campaign under Sargento Sánchez. Solá reported that the expeditions had not done well, but that 'la del rumbo de San Francisco mandada por el Sargento Sánchez fué muy brillante', and recommended him for alférez although his transfer to the invalids had already come.",
    "result": "Spanish success; \"muy brillante\"",
    "quote": null,
    "sources": [
@@ -2927,7 +2927,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "DATE CORRECTION: the feature is dated 1820, but the campaign ran in OCTOBER 1819; ca17-d300 (6 Jan 1820) is Sola's retrospective praise and promotion recommendation, presumably the source of '1820'. Bancroft II:335 has the march 'early in October' 1819 and the force back before the end of the month. NAME/PLACE DISCREPANCY: ca17-d300 calls it Sgt. Sanchez's 'Santa Cruz-direction' expedition, while ca17-d284 (the order forming it) and Bancroft both send Sanchez's San Francisco party through San Jose into the lower San Joaquin. Savage's rubric and the operational order disagree; flagged, not reconciled. No C-A record of Sanchez's own battle report was found: Bancroft says of the northern expeditions 'we know little more than the fact that they were made.'",
+   "notes": "DATE CORRECTION: the feature is dated 1820, but the campaign ran in OCTOBER 1819; ca17-d300 (6 Jan 1820) is Sola's retrospective praise and promotion recommendation, presumably the source of '1820'. Bancroft II:335 has the march 'early in October' 1819 and the force back before the end of the month. NAME/PLACE DISCREPANCY: ca17-d300 calls it Sgt. Sanchez's 'Santa Cruz-direction' expedition, while ca17-d284 (the order forming it) and Bancroft both send Sanchez's San Francisco party through San Jose into the lower San Joaquin. Savage's rubric and the operational order disagree; flagged, not reconciled. No C-A record of Sanchez's own battle report was found: Bancroft says of the northern expeditions 'we know little more than the fact that they were made.' READ AT THE LEAF (25 Nov 2026, ca17-d300 n240, Solá to Guerra, 6 Jan 1820): «las expediciones no han tenido muy buenos resultados hasta la fecha, pero que la del rumbo de Sn Fco mandada por el Sargto Sánchez fué muy brillante, por lo que recomienda al Virey dé á Sánchez el grado de Alferez, aunque ya vino su pase á inválidos». The leaf reads San Francisco, which settles this note's place discrepancy: the catalogue's 'Santa Cruz-direction' is a misreading. The date is now the campaign's (October 1819), as this note recommended.",
    "symbol": "swords"
   },
   {
@@ -3217,7 +3217,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Episode = Vancouver's third visit, Nov 1794 (boats sent from his ships at Monterey to Santa Cruz for provisions). DISCREPANCY: the feature says soldier Mesa was 'punished'; C-A 7 Doc 60 does say he was put in the cepo for a false report, but C-A 24 Doc 59 (3 Dec 1794) records Borica freeing him, finding no malice, with only an admonition to heed verbal orders. Both are in the record; the punishment was brief. The feature's forename 'Joaquin' Mesa is not given in either catalogue summary, which says only 'Mesa', and is unconfirmed.",
+   "notes": "Episode = Vancouver's third visit, Nov 1794 (boats sent from his ships at Monterey to Santa Cruz for provisions). DISCREPANCY: the feature says soldier Mesa was 'punished'; C-A 7 Doc 60 does say he was put in the cepo for a false report, but C-A 24 Doc 59 (3 Dec 1794) records Borica freeing him, finding no malice, with only an admonition to heed verbal orders. Both are in the record; the punishment was brief. The feature's forename 'Joaquin' Mesa is not given in either catalogue summary, which says only 'Mesa', and is unconfirmed. READ AT THE LEAF (25 Nov 2026, ca7-d60 n33): «en la mañana del 28 se retiraron las lanchas inglesas; los estrangeros no cometieron desórdenes ni falta… el soldado Joaqn Mesa tergiversó su recado sobre las lanchas inglesas; se ha mandado castigar al soldado poniéndole en el cepo». The forename Joaquín is on the leaf.",
    "symbol": "standoff"
   },
   {
@@ -3266,9 +3266,9 @@
    "register_no": "67",
    "name": "American Vessel Captured at Refugio",
    "date": {
-    "iso": "1816",
-    "display": "ca. 1816",
-    "confidence": "circa"
+    "iso": "1816-01",
+    "display": "January 14–20, 1816",
+    "confidence": "range"
    },
    "coords": [
     34.47,
@@ -3278,7 +3278,7 @@
    "type": "battle",
    "layer": "maritime",
    "summary": "Sargento Carlos Carrillo reported 2 vessels. Alférez with 14 men captured 2 Americans + 2 Indians + 1 negro. Then 6 more Americans + 2 captains. Goleta prisionera.",
-   "result": "Spanish capture American ship + crew",
+   "result": "American schooner taken as prize; two captains and their men seized ashore",
    "quote": null,
    "sources": [
     {
@@ -3314,7 +3314,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "IDENTIFICATION: this is the seizure of the American schooner Lydia (Capt. Henry Gyzelaar) and the arrest of Capt. William Smith of the ship Albatross at Rancho del Refugio, 14-20 Jan 1816 - not a vague 'ca. 1816'. DISCREPANCIES: the feature says '2 Americans + 2 Indians + 1 negro'; C-A 17 Doc 200 says 3 Americans, 2 Indians and Black prisoners; Bancroft (II:275n) names the Albatross men taken as Capt. Smith, 2 white sailors, 2 Kanakas (Hawaiians, not Indians) and 'the negro Bob', plus deserters Thomas Doak and Nathaniel Davis. The Albatross itself was NOT captured - only the Lydia was taken as prize, so the feature's result line should say one of the two ships escaped.",
+   "notes": "IDENTIFICATION: this is the seizure of the American schooner Lydia (Capt. Henry Gyzelaar) and the arrest of Capt. William Smith of the ship Albatross at Rancho del Refugio, 14-20 Jan 1816 - not a vague 'ca. 1816'. DISCREPANCIES: the feature says '2 Americans + 2 Indians + 1 negro'; C-A 17 Doc 200, read at the leaf (25 Nov 2026, n160), agrees with the feature: «conduciendo 2 Americanos, 2 Indios, y 1 negro prisioneros» (an earlier version of this note said 3 Americans); Bancroft (II:275n) names the Albatross men taken as Capt. Smith, 2 white sailors, 2 Kanakas (Hawaiians, not Indians) and 'the negro Bob', plus deserters Thomas Doak and Nathaniel Davis. The Albatross itself was NOT captured - only the Lydia was taken as prize, so the feature's result line should say one of the two ships escaped. READ AT THE LEAF (25 Nov 2026, ca17-d200 n160): Carrillo reported two vessels seen «por la bocana de las Islas»; the alférez went out «la misma noche con 14 hombres entre tropa, inválidos, y vecinos»; on the 15th «habiendo salido falsa la noticia de los barcos, regresaron… conduciendo 2 Americanos, 2 Indios, y 1 negro prisioneros, y este día en la noche llegó el bote apresado á Smith»; on the 19th the commandant came in «conduciendo seis Americanos y los dos capitanes apresados»; on the 20th «llegó la golª prisionera». Every figure in the summary is on the leaf.",
    "symbol": "swords"
   },
   {
@@ -3379,7 +3379,7 @@
    "coord_precision": "place",
    "type": "defense",
    "layer": "maritime",
-   "summary": "4 English frigates (22–24 guns each) raided Gulf of California shipping. Gov. Arrillaga: \"sin ningunos elementos de defensa.\" 50-man militia raised; battery formed at Puerto Escondido.",
+   "summary": "4 English frigates raided Gulf of California shipping (the captain of a captured balandra reported 24 vessels on the coast, of 22, 24 and 26 guns). Gov. Arrillaga: \"sin ningunos elementos de defensa.\" 50-man militia raised; battery formed at Puerto Escondido.",
    "result": "English naval dominance; Spanish desperate defense",
    "quote": null,
    "sources": [
@@ -3431,7 +3431,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "UNVERIFIED FEATURE DETAIL: '4 English frigates (22-24 guns each)'. The count of 4 is confirmed (C-A 14 Docs 19 and 21). The gun figure is not: the only C-A record that names the squadron, C-A 15 Doc 392, gives 18 guns + 14 carronades, 24/16, 18, and 14, not 22-24 apiece. That record does mention '22 prizes off Peru', a possible source of the confusion. No C-A record found states 22-24 guns each; the figure needs correcting or a source. Gov. Borica's 19 July 1799 alert (C-A 16 Doc 198) says 'no fewer than 12' enemy ships on the Cabo Corrientes-Cabo San Lucas run, a wider count than Arrillaga's 4 in the Gulf.",
+   "notes": "UNVERIFIED FEATURE DETAIL: '4 English frigates (22-24 guns each)'. The count of 4 is confirmed (C-A 14 Docs 19 and 21). The gun figure is not: the only C-A record that names the squadron, C-A 15 Doc 392, gives 18 guns + 14 carronades, 24/16, 18, and 14, not 22-24 apiece. That record does mention '22 prizes off Peru', a possible source of the confusion. No C-A record found states 22-24 guns each; the figure needs correcting or a source. Gov. Borica's 19 July 1799 alert (C-A 16 Doc 198) says 'no fewer than 12' enemy ships on the Cabo Corrientes-Cabo San Lucas run, a wider count than Arrillaga's 4 in the Gulf. Leaf note (25 Nov 2026, ca14-d17 n17): the '22–24 guns' figure is on the leaf but describes the 24 vessels the captured captain reported on the coast («24 buques en la Costa, con 22, 24 y 26 cañones»), not the four frigates; this resolves this note's earlier flag.",
    "symbol": "earthwork"
   },
   {
@@ -4860,7 +4860,7 @@
    "coord_precision": "place",
    "type": "defense",
    "layer": "maritime",
-   "summary": "Earliest known shore-battery firing at San Francisco. Hermenegildo Sal's guard sighted a sail at 8 a.m. and fired a warning shot; getting no reply, manned the Cantil Blanco battery (8 cannon; the future Castillo de San Joaquín / Fort Point) intending to sink her, and fired 8 cannon-shots from 11 a.m. until 5 p.m. Pilot Juan Carrasco then identified her as the Spanish navy schooner Saturnina, carrying Bodega y Quadra's Nootka dispatches, driven in for water.",
+   "summary": "Earliest known shore-battery firing at San Francisco. Hermenegildo Sal's guard sighted a sail at 8 a.m. and fired a warning shot; getting no reply, manned the Cantil Blanco battery (2 cannon; the future Castillo de San Joaquín / Fort Point) intending to sink her, and fired 8 cannon-shots from 11 a.m. until 5 p.m. Pilot Juan Carrasco then identified her as the Spanish navy schooner Saturnina, carrying Bodega y Quadra's Nootka dispatches, driven in for water.",
    "result": "Friendly-fire blunder; predates the 1803 Lelia Byrd as a battery-fires-on-ship episode",
    "quote": null,
    "sources": [
@@ -4872,7 +4872,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Bancroft NULL RESULT (recorded per the null-results rule): grepped vol1 for Saturnina, Carrasco, 'by mistake', 'fired upon' and read I:490-532. Bancroft nowhere narrates this friendly-fire episode, so there is no book source and no footnote to mine. The one Saturnina passage (I:532) is Borica's 1794 gulf voyage. Vessel identity corroborated but NOT linked: ca6-d141 has the goleta Saturnina 'procedente de Nuca' as the Limites-expedition schooner, ca6-d199 gives her alias 'La Orcasitas'.",
+   "notes": "Bancroft NULL RESULT (recorded per the null-results rule): grepped vol1 for Saturnina, Carrasco, 'by mistake', 'fired upon' and read I:490-532. Bancroft nowhere narrates this friendly-fire episode, so there is no book source and no footnote to mine. The one Saturnina passage (I:532) is Borica's 1794 gulf voyage. Vessel identity corroborated but NOT linked: ca6-d141 has the goleta Saturnina 'procedente de Nuca' as the Limites-expedition schooner, ca6-d199 gives her alias 'La Orcasitas'. READ AT THE LEAF (25 Nov 2026, ca55-d130 n68-n69): the guard «descubrió á las 8 de la mañana de aquel mismo día el barco y disparó un cañonazo para hacerle señal y no contestó; que al saber esto pasó luego al Cantil Blanco donde tenía los 2 cañones con repuesto de municiones, con ánimo de que si no respondía echarlo á pique. Que á las 11 se vió en la boca… le tiró 8 cañonazos, desde esta hora hasta las 5 de la tarde»; the pilot Juan Carrasco identified «la Goleta Saturnina, salida de Sn Blas el 11 Junio con pliegos para Comte de Espedición de Límites, Bodega y Quadra». An earlier version of this entry gave the battery 8 cannon: 8 was the number of shots.",
    "symbol": "earthwork"
   },
   {
@@ -4978,7 +4978,7 @@
    "coord_precision": "place",
    "type": "standoff",
    "layer": "phase2",
-   "summary": "A thwarted mission uprising: instigators Miguel and Marito used beads as recruitment currency; La Purísima gentiles were jailed and set to forced labor; the commandant downplayed it. Part of the 1794 unrest arc with the Santa Clara / SF crisis (#43); recurs in Arrillaga's \"Estado de las Californias\" (ringleaders sent to SF-fort forced labor).",
+   "summary": "A thwarted mission uprising: instigators Miguel and Morillo used beads as recruitment currency; La Purísima gentiles were jailed and set to forced labor; the commandant downplayed it. Part of the 1794 unrest arc with the Santa Clara / SF crisis (#43); recurs in Arrillaga's \"Estado de las Californias\" (ringleaders sent to SF-fort forced labor).",
    "result": "Conspiracy suppressed",
    "quote": null,
    "sources": [
@@ -5015,7 +5015,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "NAME DISCREPANCY: the instigators are 'Miguel & Marito' in ca7-d174 but 'Miguel & Morillo' in ca7-d287. Bancroft (I:547 n.42 and I:689 n.51) cites Prov. St. Pap. xii. 33, 49-53, 100-4, 124-32, 192-4 for this episode; those pages resolve to unrelated records (Santa Cruz sailors, Loreto musters), so Bancroft's tomo-xii page numbers do not agree with the catalogue's page column for C-A 7. The links here rest wholly on content, not page arithmetic. Bancroft also disagrees on scale: he says 'five ringleaders' were condemned, while ca7-d174 reports 9 Indians and 17 gentiles brought in.",
+   "notes": "NAME DISCREPANCY: the instigators are 'Miguel & Marito' in ca7-d174 but 'Miguel & Morillo' in ca7-d287. Bancroft (I:547 n.42 and I:689 n.51) cites Prov. St. Pap. xii. 33, 49-53, 100-4, 124-32, 192-4 for this episode; those pages resolve to unrelated records (Santa Cruz sailors, Loreto musters), so Bancroft's tomo-xii page numbers do not agree with the catalogue's page column for C-A 7. The links here rest wholly on content, not page arithmetic. Bancroft also disagrees on scale: he says 'five ringleaders' were condemned, while ca7-d174 reports 9 Indians and 17 gentiles brought in. NAME SETTLED AT THE LEAF (25 Nov 2026, ca7-d174 n108, Goycoechea to Arrillaga, 4 Sept 1794): Alf. Pablo Cota returned from La Purísima on 15 August «trayendo presos á 9 Indios crists y 17 gentiles, acusados de ser cómplices en el alzamto de los de Sn Luis. Dicen que fueron convidados por Miguel y Morillo». The catalogue's 'Marito' for this record is a misreading; both documents give Morillo.",
    "symbol": "standoff"
   },
   {
@@ -8840,31 +8840,31 @@
   {
    "id": "reg-141-corsairs-at-loreto",
    "register_no": "141",
-   "name": "Corsair squadron at Loreto",
+   "name": "Corsair squadron at Cerralvo (Gulf of California)",
    "date": {
-    "iso": "1799",
-    "display": "1799",
-    "confidence": "year"
+    "iso": "1799-06",
+    "display": "June 10–17, 1799",
+    "confidence": "range"
    },
    "coords": [
-    26.0115,
-    -111.3486
+    24.25,
+    -109.87
    ],
-   "coord_precision": "place",
+   "coord_precision": "conjectural",
    "type": "event",
    "layer": "maritime",
-   "summary": "Three English frigates (22–24 guns, 60–116 crew) anchor in the surgidero of Loreto; the capital itself; seizing a balandra, later ransomed for sugar, chocolate, and a church bell (~$8,000 losses). 'No dejan buque sin darle caza' (they leave no vessel unchased).",
+   "summary": "Four English frigates anchored on 10 June 1799 in the surgidero of Cerralvo, holding a balandra taken on 31 May. To keep them in port until the brig Activo with the supply memorias could get past, her captain, Bernardo Suárez Infanzón, ransomed her for cattle (6 head, then 14 on the 16th) and four dozen cheeses, and the frigates sailed on the 17th. The English officers kept part of her cargo (32 tercios of sugar, 20 cargas of panocha, 6 boxes of chocolate, 6 bars, a bell and cloth); losses about $3,000. He reported 24 vessels on the coast, of 22, 24 and 26 guns, that 'no dejan buque sin darle caza'.",
    "result": "Capital raided; shipping seized",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. St. Pap. (C-A 14), tomo xxi. 68–9 / scan n17, Doc 17 · Arrillaga to the Viceroy, 16 June 1799: three frigates anchored in the surgidero of Loreto, the capital itself; they left behind the captured balandra; intelligence that the ships carry 22–24 cannon and 60–116 crew and that 'no dejan buque sin darle caza'; the Revolución under 'Juan Pivoré' expected.",
+     "citation": "Prov. St. Pap. (C-A 14), tomo xxi. 68–9 / scan n17, Doc 17 · Arrillaga to the Viceroy, 26 June 1799 (the leaf's heading; catalogued as 16 June): four frigates anchored in the surgidero of Loreto, the capital itself; they left behind the captured balandra; intelligence that the ships carry 22–24 cannon and 60–116 crew and that 'no dejan buque sin darle caza'; the Revolución under 'Juan Pivoré' expected.",
      "ca_record": "ca14-d17",
      "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n17",
      "link_note": "link probable, not confirmed by the record itself"
     },
     {
-     "citation": "Prov. St. Pap. (C-A 14), tomo xxi. 69–70 / scan n18–n19, Doc 18 · report of Bernardo Juárez Infantzón, 27 June 1799: ransom of the balandra seized on 21 May, paid in sugar, chocolate and one church bell; losses about $8,000; the English held her from the 10th to the 16th.",
+     "citation": "Prov. St. Pap. (C-A 14), tomo xxi. 69–70 / scan n18–n19, Doc 18 · Arrillaga to the Viceroy, Loreto, 27 June 1799, relaying Capt. Bernardo Suárez Infanzón's account: ransom of the balandra seized on 21 May, paid in sugar, chocolate and one church bell; losses about $8,000; the English held her from the 10th to the 16th.",
      "ca_record": "ca14-d18",
      "ia_leaf_url": "https://archive.org/details/168036075_79_16_2/page/n18",
      "link_note": "link probable, not confirmed by the record itself"
@@ -8878,7 +8878,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "BOTH EXISTING LINKS ARE WRONG AND ARE CORRECTED HERE. They are off by exactly nine document numbers in each case (d8→d17, d9→d18), which suggests a systematic slip rather than two independent errors; worth checking whether neighbouring 1799 Baja features on this map carry the same offset. Substantively: every phrase in the map's feature summary; 'three English frigates (22–24 guns, 60–116 crew)', 'anchor in the surgidero of Loreto; the capital itself', 'seizing a balandra, later ransomed for sugar, chocolate, and a church bell (~$8,000 losses)', and the quoted 'No dejan buque sin d[etener]'; is drawn from ca14-d17 and ca14-d18, not from the linked records. Two small points on the map text: the manuscript's phrase is 'no dejan buque sin darle caza' ('they leave no vessel unchased'), so the map's bracketed expansion '[detener]' should read 'darle caza'; and the balandra was seized on 21 May 1799, six weeks before the June anchoring at Loreto, so 'seizing a balandra' at Loreto slightly compresses the sequence; Doc 17 says the frigates 'left behind' the already-captured balandra."
+   "notes": "BOTH EXISTING LINKS ARE WRONG AND ARE CORRECTED HERE. They are off by exactly nine document numbers in each case (d8→d17, d9→d18), which suggests a systematic slip rather than two independent errors; worth checking whether neighbouring 1799 Baja features on this map carry the same offset. Substantively: every phrase in the map's feature summary; 'three English frigates (22–24 guns, 60–116 crew)', 'anchor in the surgidero of Loreto; the capital itself', 'seizing a balandra, later ransomed for sugar, chocolate, and a church bell (~$8,000 losses)', and the quoted 'No dejan buque sin d[etener]'; is drawn from ca14-d17 and ca14-d18, not from the linked records. Two small points on the map text: the manuscript's phrase is 'no dejan buque sin darle caza' ('they leave no vessel unchased'), so the map's bracketed expansion '[detener]' should read 'darle caza'; and the balandra was seized on 21 May 1799, six weeks before the June anchoring at Loreto, so 'seizing a balandra' at Loreto slightly compresses the sequence; Doc 17 says the frigates 'left behind' the already-captured balandra. READ AT THE LEAF (25 Nov 2026, ca14-d17 n17 and ca14-d18 n18): «las 4 Fragatas que anclaron el 10 en el surgidero de Cerralvo, levaron ancla el 17… dejando libre la balandra… recibiendo como rescate 20 novillos y 4 docenas de quesos… balandra fué cautivada á 31 Mayo… hay 24 buques en la Costa, con 22, 24 y 26 cañones y 30 tripulantes: hacen el corso y pesca y no dejan buque sin darle caza»; Doc 18: «el 16 se entregaron 14 reses y 4 docenas quesos, y el 17 se fueron: faltaron á Infanzón del cargamento 32 tercios azúcar, 20 cargas panocha, 6 cajones chocolate, 6 barras, 1 campana, 1 tercio paño, tomados por la oficialidad; juntas estas pérdidas con las que causó la marinería, ascienden á $3,000». An earlier version of this entry put three frigates at Loreto itself, said the balandra was ransomed for sugar, chocolate and a bell (those were taken, not paid), gave losses of ~$8,000 and the guns as 22-24 per frigate. The point is moved from Loreto to the Cerralvo anchorage (approximate). The feature id is unchanged."
   },
   {
    "id": "reg-142-cabo-san-lucas",
