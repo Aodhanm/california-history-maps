@@ -240,9 +240,9 @@
    "register_no": "4",
    "name": "Ambush at San Juan (Briones killed)",
    "date": {
-    "iso": "1777-08",
-    "display": "August 1777",
-    "confidence": "month"
+    "iso": "1777-08-13",
+    "display": "August 13, 1777 (after midnight)",
+    "confidence": "exact"
    },
    "coords": [
     32.8,
@@ -252,11 +252,11 @@
    "type": "battle",
    "layer": "phase1",
    "summary": "Midnight ambush near San Diego. Corporal Briones killed.",
-   "result": "INDIGENOUS TACTICAL SUCCESS",
+   "result": "Corporal Briones killed, two soldiers wounded; attackers driven off after about an hour, horses kept",
    "quote": null,
    "sources": [
     {
-     "citation": "Tte. José Francisco de Ortega, diligencias on the death of Cabo Garci [Brito] Murillo, with inventory of his goods, relaying Sgt. Carrillo's report of the assault on the despatch party, San Diego, 17 Aug. 1777 · State Papers, Sacramento (C-A 55), orig. tomo vii, pp.~166–199 / Savage pp.199–200, scan n198–n199, Doc 231.",
+     "citation": "Tte. José Francisco de Ortega, diligencias on the death of Cabo José Antonio Briones (the leaf's heading; the catalogue's 'Garci [Brito] Murillo' is wrong), with inventory of his goods, relaying Sgt. Carrillo's report of the assault on the despatch party, San Diego, 17 Aug. 1777 · State Papers, Sacramento (C-A 55), orig. tomo vii, pp.~166–199 / Savage pp.199–200, scan n198–n199, Doc 231.",
      "ca_record": "ca55-d231",
      "ia_leaf_url": "https://archive.org/details/bancarchca_81_17/page/n198"
     },
@@ -283,7 +283,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The map's place is right but ambiguous, and the catalogue is probably wrong about it. Bancroft I:315 puts the ambush 'at a place called San Juan just above San Diego', and ca22-d127 names it precisely: the rancherías of the Arroyo de San Juan Bautista. The catalogue summary of ca55-d233 glosses it as 'the gentiles of San Juan [Capistrano]'; that bracketed expansion looks like an editorial error, since San Juan Capistrano is about 60 miles north of San Diego and the party was returning from San Diego. The place is better given as 'Arroyo de San Juan Bautista, above San Diego' than as San Juan Capistrano. A DATE CONTRADICTION INSIDE THE ARCHIVE: ca55-d231 is dated 17 Aug. 1777, yet its Savage abstract says the assault happened 'on ~13 Oct'; a 17 August document cannot report a 13 October event. ca22-d124 (Neve, 15 Apr. 1778) and Bancroft both give 13 August 1777, which the 17 August dateline supports. The likeliest reading is a Savage or cataloguing slip for '13 Ago'; it is not corrected in the catalogue without a leaf check. The corporal's full name is José Antonio Briones (Bancroft gives 'Antonio Briones'); the two wounded soldiers were Felipe Santiago Tapia and Joaquín Díaz, and the caballada was driven off.",
+   "notes": "The map's place is right but ambiguous, and the catalogue is probably wrong about it. Bancroft I:315 puts the ambush 'at a place called San Juan just above San Diego', and ca22-d127 names it precisely: the rancherías of the Arroyo de San Juan Bautista. The catalogue summary of ca55-d233 glosses it as 'the gentiles of San Juan [Capistrano]'; that bracketed expansion looks like an editorial error, since San Juan Capistrano is about 60 miles north of San Diego and the party was returning from San Diego. The place is better given as 'Arroyo de San Juan Bautista, above San Diego' than as San Juan Capistrano. A DATE CONTRADICTION INSIDE THE ARCHIVE: ca55-d231 is dated 17 Aug. 1777, yet its Savage abstract says the assault happened 'on ~13 Oct'; a 17 August document cannot report a 13 October event. ca22-d124 (Neve, 15 Apr. 1778) and Bancroft both give 13 August 1777, which the 17 August dateline supports. SETTLED AT THE LEAF (25 Nov 2026, ca55-d231 n198-n199): Carrillo's parte puts the assault «en el parage de San Juan Bautista, poco despues de media noche del día 13 del corriente», in a document dated 17 August: 13 August 1777. The abstract's October is wrong. The corporal's full name is José Antonio Briones (Bancroft gives 'Antonio Briones'); the leaf names the wounded «Felipe Santiago Moreno y Joaquín Díaz» (an earlier version of this note said Tapia). The caballada was NOT taken: the fight lasted «una hora mas que menos, haciendo por últ.o retirar á los indios sin que les robasen la caballada»; the corporal had taken «tres flechasos de muerte» before the men reached their cueras. An earlier version of this note said the horses were driven off.",
    "symbol": "swords"
   },
   {
@@ -324,7 +324,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "The manuscript is more precise than the map's 'March 1778': Sgt. Mariano Carrillo surprised Pamó at 3 a.m. on 31 March 1778; the four captains were examined and convicted on 4–6 April; the executions were on Saturday 11 April 1778, and Ortega reported them carried out on 12 April. The full span is therefore 31 March – 11 April 1778. The map's 'first public execution in California' is Bancroft's judgement (I:316), not the manuscript's, and is attributed to him here. The four captains are Achil, Aalcuirin[?], Aarán and Taguaqui[?] (Bancroft: Aachil, Aalcuirin, Aaaran, Taguagui). Casualties in the raid itself were 2 killed outright and an unspecified few burned in a hut they refused to leave. A related record is deliberately not linked: ca1-d126 (Ortega, Prov. St. Pap. tomo ii, orig. pp.1–8, scan n289–n294), the expediente on the February 1778 rising of the gentiles of San Juan Capistrano, San Mateo, La Laguna and San Flores. It is the document behind Bancroft's 'Prov. St. Pap., MS., ii. 1-6' in the same footnote and the immediate antecedent of the Pamó affair, but it concerns a different place and month. It would make a good standalone feature.",
+   "notes": "The manuscript is more precise than the map's 'March 1778': Sgt. Mariano Carrillo, with a corporal, 8 soldiers, an interpreter and 2 guides, left «en la tarde del 31 Marzo» and surprised Pamó «á las 3 A.M.», that is early on 1 April 1778; the captains reached the presidio on 2 April and were examined by Ortega before witnesses on 6 April (leaf, ca15-d46 n42-n43, read 25 Nov 2026; more than 1,500 arrows, eighty-odd bows and many macanas were burned); the executions were on Saturday 11 April 1778, and Ortega reported them carried out on 12 April. The full span is therefore 31 March – 11 April 1778. The map's 'first public execution in California' is Bancroft's judgement (I:316), not the manuscript's, and is attributed to him here. The four captains are Achil, Aalcuirin[?], Aarán and Taguaqui[?] (Bancroft: Aachil, Aalcuirin, Aaaran, Taguagui). Casualties in the raid itself were 2 killed outright and an unspecified few burned in a hut they refused to leave. A related record is deliberately not linked: ca1-d126 (Ortega, Prov. St. Pap. tomo ii, orig. pp.1–8, scan n289–n294), the expediente on the February 1778 rising of the gentiles of San Juan Capistrano, San Mateo, La Laguna and San Flores. It is the document behind Bancroft's 'Prov. St. Pap., MS., ii. 1-6' in the same footnote and the immediate antecedent of the Pamó affair, but it concerns a different place and month. It would make a good standalone feature.",
    "symbol": "flame"
   },
   {
@@ -744,7 +744,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca22-d2021 n280): the plan reaches us through Neve, Santa Bárbara, 30 April 1782: «Que Fages le informa el terror que tienen los Yumas á la tropa de esta Península y que su fuga desvanece en parte la idea de serenarlos para que verifiquen sus siembras, bien que podrá conseguirse si el capitanejo de S. Sebastián practica puntualmente sus encargos, lo que con la retirada de la tropa, la necesidad de sus cosechas y amor de sus tierras los ha de atraer, sin cuyo logro se dificultaría la aprehensión de los cabecillas.»",
    "symbol": "standoff"
   },
   {
@@ -775,7 +775,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca22-d320 n300, Savage pp. 286-8): «el 12 de Mzo salieron de Loreto 17 familias á cargo del alfz Ramon Laso para la bahia de S. Luis adonde llegó el 24 de Abl», José Zúñiga following with the rest; «saldrá el Sargto Juan José Robles con 12 soldados para el Colorado á encontrar al Capn Fernando Rivera», who was asked to send them back once his expedition was safely through. Every figure in the summary is on the leaf.",
    "symbol": "standoff"
   },
   {
@@ -783,9 +783,9 @@
    "register_no": "58",
    "name": "Colorado River Attacks (3 incidents)",
    "date": {
-    "iso": "1794",
-    "display": "1794–1808",
-    "confidence": "range"
+    "iso": "1796",
+    "display": "Summer 1796",
+    "confidence": "year"
    },
    "coords": [
     32.71,
@@ -806,7 +806,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca16-d162 n100): Arrillaga made the reconnaissance «el año pasado de noventa y seis durante el rigor del verano», and it led to the founding of Santa Catalina Mártir: «En el último reconocimto fué atacado tres veces por las numerosas rancherías del río Colorado; sin embargo del corto número de Tropa se defendió cuanto exigió la necesidad matando solo á cinco pudiendo vengarse de otros muchos.» The date was earlier shown as 1794-1808.",
    "symbol": "swords"
   },
   {
@@ -843,7 +843,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca17-d275 n220): Solá «pide informe si los 6 restantes que se pegaron con esos desde Sn Buenava fueron muertos ó le fueron heridos; pues el primer parte de Guerra decia que 'de los 21 que eran se mataron allí once, y que 10 eran los fugados.' El P. Señan, en carta de 3 del presente, dijo que fueron 10 los matados». The same letter approves putting four Indian prisoners to work.",
    "symbol": "swords"
   },
   {
@@ -926,7 +926,7 @@
   {
    "id": "reg-7-sacalanes-attack-on-neophyte-party",
    "register_no": "7",
-   "name": "Sacalanes Attack on Neophyte Party",
+   "name": "Chimenes attack on a Mission San Francisco neophyte party",
    "date": {
     "iso": "1795-03",
     "display": "March 1795",
@@ -939,8 +939,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase2",
-   "summary": "East Bay hills, Sacalan territory (Alameda Co. between Oakland and Mission SJ). Dantí sent ~30 neophytes (no soldiers) across the bay to recover fugitives. Sacalanes attacked, killed 8–10. Gov. Borica refused retaliation.",
-   "result": "INDIGENOUS VICTORY",
+   "summary": "Fr. Antonio Dantí sent 16 unarmed Christian Indians (7 old Christians and 9 new) across the bay to bring back fugitive Saclan neophytes. They found the Saclan ranchería empty and two days on reached the Chimenes, who attacked them 'con furia' and killed seven; six of the new Christians had fled at the start on their alcaldes' orders. Gov. Borica refused to seek revenge.",
+   "result": "Seven mission Indians killed; Borica refused reprisal",
    "quote": null,
    "sources": [
     {
@@ -981,7 +981,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca24-d569 n373-n374, Borica's full report of 23 June 1795): «Salieron los 7 Cristianos viejos con 9 Cristianos nuevos… Pasaron por la Ranchería de los Chaclanes, no había nadie, y en dos días llegaron á la de los Chimenes, adonde fueron atacados luego con furia»; the survivor Othon says the Chimenes kept shooting «hasta que mataron á siete, habiendo huido desde el principio de la acción 6 de los nuevos cristianos por habérselo así mandado los alcaldes». Borica «crée prudente no buscar venganza, porque en fin mataron á Indios y no vasallos del rey». An earlier version of this entry named the Sacalanes as the attackers and gave ~30 in the party and 8-10 killed. Pérez Fernández's second account (ca7-d633) gives the party as fourteen. The pin (Saclan country) is approximate; the Chimenes lay two days beyond.",
    "symbol": "swords"
   },
   {
@@ -1047,8 +1047,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase2",
-   "summary": "Sacalanes ranchería, ~6 leagues from Mission SJ, in redwoods (palos colorados) and sierras; probably Sunol/Niles Canyon area. Sgt. Pedro Amador with 22 soldiers vs. ~50 Sacalanes/Cuchillones. Sacalanes dug pit traps (pozos) to neutralize cavalry; forced Spanish to dismount and fight hand-to-hand for 2+ hours. 7–8 killed.",
-   "result": "Spanish victory; but innovative indigenous counter-cavalry tactics",
+   "summary": "Sacalan ranchería, about 6 leagues from Mission San José, in redwoods (palos colorados) and sierras; probably the Sunol/Niles Canyon area. Sgt. Pedro Amador with 20 invalids and vecinos and 2 soldiers (Borica's order) struck the ranchería at dawn on 15 July; its people, about 50 men and women, fought for more than two hours from pits dug 'como muralla' in the middle of the ranchería, from which they could strike without being struck, until the troops dismounted and drove them out with sword and lance. Seven were killed; one more died at the Cuchillon rancherías the next day. Amador had two men wounded and a horse killed.",
+   "result": "Spanish victory; the defenders fought from a fortified line of pits",
    "quote": null,
    "sources": [
     {
@@ -1086,7 +1086,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "READ AT THE LEAF (25 Nov 2026, ca8-d333 n318, Amador's diary, day 15): «Al amanecer le caymos á la dha ranchería, encontramos mucha resistencia… nos mataron un caballo, y nos hirieron dos… murieron siete, pues en más de dos horas no se quisieron dar y fue menester echar pie en tierra y con espada y lanza echarlos afuera, porque tenían unos pozos en medio de las rancherías como muralla, que pueden ofender y no pueden ser ofendidos: serían entre hombres y mugeres como 50 personas». An earlier version of this entry called the pits 'traps to neutralize cavalry', gave the force as '22 soldiers' and the defenders as '~50 Sacalanes/Cuchillones'.",
    "symbol": "swords"
   },
   {
