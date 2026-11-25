@@ -519,7 +519,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "This feature had no manuscript link, and there is one. C-A 22 leaf n350 (Savage stamp 349, tomo folio 132) carries Savage's abstract of Fages's letter to the Comandante General from San Gabriel, 30 Dec. 1785: 'Que halló aquí presos á 7 Indios cristos. y 4 gentiles INCLUSA LA AUTORA DEL MOTÍN, y dos capitancillos gentiles ademas, á cuyos cabecillas se forma la corresp.te sumaria, sentenciando á los restantes á la pena de 15 á 20 azotes.' 'La autora del motín', the female author of the rising, is Toypurina, named here only by her role. Immediately below, the entry of 5 Jan. 1786: 'Pasa las diligs. practicadas contra los cuatro Indios cabecillas del motín (de S. Gabl.) y que quedan castigados los 17 cómplices.' The C-A record therefore gives eleven prisoners held at San Gabriel (7 Christians, 4 gentiles), four ringleaders tried and 17 accomplices punished. There is an arithmetic tension, flagged and not reconciled, with Bancroft I:460, who says the corporal 'captured some twenty of the conspirators'; the counts may cover different moments. Two further checks were negative. (a) ca22-d2034 (Fages, 'Reflections on the Gabrieleño Indians' plan to kill padres & soldiers') looked like a candidate but is dated 10 Feb. 1784; leaf n315 and the surrounding entries are all January–February 1784, so it predates Toypurina by twenty months and is not linked. It may record a separate, earlier Gabrieleño conspiracy. (b) A search of C-A 4 and C-A 23 for Ugarte's Dec. 1787 sentence (Nicolás José to six years' presidio labour and exile, Toypurina to perpetual exile) found nothing; Bancroft cites it to Arch. Sta. Bárbara, MS., vi. 110-17, which is not a C-A document. The exile to Mission San Carlos Borromeo asserted in the map summary is not attested in these records.",
+   "notes": "This feature had no manuscript link, and there is one. C-A 22 leaf n350 (Savage stamp 349, tomo folio 132) carries Savage's abstract of Fages's letter to the Comandante General from San Gabriel, 30 Dec. 1785: 'Que halló aquí presos á 7 Indios cristos. y 4 gentiles INCLUSA LA AUTORA DEL MOTÍN, y dos capitancillos gentiles ademas, á cuyos cabecillas se forma la corresp.te sumaria, sentenciando á los restantes á la pena de 15 á 20 azotes.' 'La autora del motín', the female author of the rising, is Toypurina, named here only by her role. Immediately below, the entry of 5 Jan. 1786: 'Pasa las diligs. practicadas contra los cuatro Indios cabecillas del motín (de S. Gabl.) y que quedan castigados los 17 cómplices.' The C-A record therefore gives eleven prisoners held at San Gabriel (7 Christians, 4 gentiles), four ringleaders tried and 17 accomplices punished. There is an arithmetic tension, flagged and not reconciled, with Bancroft I:460, who says the corporal 'captured some twenty of the conspirators'; the counts may cover different moments. Two further checks were negative. (a) ca22-d2034 (Fages, 'Reflections on the Gabrieleño Indians' plan to kill padres & soldiers') looked like a candidate but is dated 10 Feb. 1784; leaf n315 and the surrounding entries are all January–February 1784, so it predates Toypurina by twenty months and is not linked. It may record a separate, earlier Gabrieleño conspiracy. (b) A search of C-A 4 and C-A 23 for Ugarte's Dec. 1787 sentence (Nicolás José to six years' presidio labour and exile, Toypurina to perpetual exile) found nothing; Bancroft cites it to Arch. Sta. Bárbara, MS., vi. 110-17, which is not a C-A document. The exile to Mission San Carlos Borromeo asserted in the map summary is not attested in these records. READ AT THE LEAF (25 Nov 2026, ca22-d2042 n349, Fages's register, 5 Dec [1785]): «los Indios cristos y gentes de Misn S. Gabl engañados por una gentil se arrojaron á la vivienda de los dos Misioneros para matarlos, pero que el cabo de la escolta consiguió hacerlos huir sin que de una ni otra parte se usase de las armas, y que dispuso se aprehendan á los cabecillas». On this leaf the rising was stopped by the escort corporal without a weapon being used, not by an informant; the betrayal and the exile to San Carlos rest on the secondary literature.",
    "symbol": "swords"
   },
   {
@@ -5769,9 +5769,9 @@
    "register_no": "88",
    "name": "Ambush near San Vicente / Santa Catalina",
    "date": {
-    "iso": "1800",
-    "display": "ca. 1800–05 (⚠ year TBD)",
-    "confidence": "range"
+    "iso": "1804-03",
+    "display": "c. 24–25 March 1804 (reported 9 April)",
+    "confidence": "month"
    },
    "coords": [
     31.33,
@@ -5780,7 +5780,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "phase2",
-   "summary": "An escort transporting 5 captured Indians was ambushed: 2 soldiers killed; Juan Camacho + one other; beaten on the head with stones, their muskets found loaded but broken; the prisoners escaped; the bodies buried at San Vicente. Distinct from #37 (the 1804 Santa Catalina Spanish victory).",
+   "summary": "An escort transporting 5 captured Indians was ambushed: 2 soldiers killed, Juan Camacho and José Peiquera (Savage's reading; possibly Pesquera); beaten on the head with stones, their muskets found loaded but broken; the prisoners escaped; the bodies buried at San Vicente. Distinct from #37 (the 1804 Santa Catalina Spanish victory).",
    "result": "Indigenous tactical success / Spanish defeat",
    "quote": null,
    "sources": [
@@ -5809,7 +5809,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "YEAR RESOLVED from the manuscript leaves (bancarchca_81_16 n468-n470), not inferred. Savage's heading verbatim: '1804 - Abril 9 - Sn Vicente. / Jose Manuel Ruiz al Gob. Arrillaga - Muerte violenta de dos soldados pr los indios qe llevaban presos y maniatados.' Narrative: at noon on the 25th of the previous month Ruiz got the oficio from the cabo of Santa Catalina; on the 26th at 9 a.m. word came both men were dead in the Sierra de Agua Blanca. So the ambush is c. 24-25 March 1804, reported 9 April 1804 - replace 'ca. 1800-05, year TBD'. The map's note that this is distinct from #37 still holds, but they are now the same year and directly linked (see ca11-d481). The second soldier is now named: Jose Peiquera (Savage's reading; possibly Pesquera).",
+   "notes": "YEAR RESOLVED from the manuscript leaves (bancarchca_81_16 n468-n470), not inferred. Savage's heading verbatim: '1804 - Abril 9 - Sn Vicente. / Jose Manuel Ruiz al Gob. Arrillaga - Muerte violenta de dos soldados pr los indios qe llevaban presos y maniatados.' Narrative: at noon on the 25th of the previous month Ruiz got the oficio from the cabo of Santa Catalina; on the 26th at 9 a.m. word came both men were dead in the Sierra de Agua Blanca. So the ambush is c. 24-25 March 1804, reported 9 April 1804 - replace 'ca. 1800-05, year TBD'. The map's note that this is distinct from #37 still holds, but they are now the same year and directly linked (see ca11-d481). The second soldier is now named: Jose Peiquera (Savage's reading; possibly Pesquera). Applied 25 Nov 2026: the date field now carries the year this note had already settled at the leaf; it had still read 'ca. 1800–05, year TBD'.",
    "symbol": "swords"
   },
   {
@@ -5828,7 +5828,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "yuma",
-   "summary": "Neve and Capt. José Antonio Romeu (108 men) march down the Colorado; Romeu with 40 men and 12 Indian allies (Jalchedunes/Cocomaricopas) routs the Yuma cavalry ('crecida mortandad'), 4 soldiers wounded; Fages escorts the rescued captives. An abortive plan to re-fortify the crossing follows. Neve's 'Antecedentes de una mortandad' names the revolt's causes: gifts withheld from Palma, women seized, mules destroying the mesquite.",
+   "summary": "Neve reaches the Colorado on 16 Sept with 60 men and finds Capt. José Romeu camped on the opposite bank with 108; Romeu marches with 50 soldiers and 12 Pima auxiliaries, is joined by some Jalchedunes and Cocomaricopas, and with 40 men and the 12 Pimas attacks a Yuma ranchería ('crecida mortandad'), 4 soldiers wounded and 3 mounts lost; Fages escorts the rescued captives. An abortive plan to re-fortify the crossing follows. Neve's 'Antecedentes de una mortandad' names the revolt's causes: gifts withheld from Palma, women seized, mules destroying the mesquite.",
    "result": "Spanish reprisal after the 1781 Yuma victory",
    "quote": null,
    "sources": [
@@ -5869,7 +5869,7 @@
     "Cocomaricopa"
    ],
    "tags": [],
-   "notes": "⚠ Discrepancy with the map text: the feature says 'Neve and Capt. Romeu (108 men) march down the Colorado.' ca22-d2019 actually reads that Neve went down with 60 men and found Romeu already holding the ruined pueblo of La Concepción WITH 108 men; the 50 soldiers + 12 settlers are a further breakdown. The '108 men' therefore belongs to Romeu's standing force, not to a joint column. Everything else in the map summary (Romeu with 40 men + 12 Indian allies, 'crecida mortandad', 4 soldiers wounded, Fages escorting the rescued captives, the abortive re-fortification of the crossing, and Neve's 'Antecedentes de una mortandad' on the revolt's causes) is confirmed verbatim across d2019, d2020 and d2024.",
+   "notes": "⚠ Discrepancy with the map text: the feature says 'Neve and Capt. Romeu (108 men) march down the Colorado.' ca22-d2019 actually reads that Neve went down with 60 men and found Romeu already holding the ruined pueblo of La Concepción WITH 108 men; the 50 soldiers + 12 Pima auxiliaries are the force Romeu marched with. The '108 men' therefore belongs to Romeu's standing force, not to a joint column. Everything else in the map summary (Romeu with 40 men + 12 Indian allies, 'crecida mortandad', 4 soldiers wounded, Fages escorting the rescued captives, the abortive re-fortification of the crossing, and Neve's 'Antecedentes de una mortandad' on the revolt's causes) is confirmed verbatim across d2019, d2020 and d2024. READ AT THE LEAF (25 Nov 2026, ca22-d2019 n271, Neve, Paraje de Sonoyta, 16 Oct 1782): «llegó el 16 Set. últ. al Colorado con 60 hombres… halló acampado al lado opuesto al capitán de dragones José Romeu con 108 hombres. Que marchó con 50 solds y 12 Pimas auxiliares… se le incorporaron algunos Jalchedunes y Cocomaricopas… Romeu con 40 hombres y 12 Pimas atacó la ranchería de los Yumas en quienes hizo crecida mortandad resultando 4 solds heridos y perdidas 3 caballerías». The summary's discrepancy (flagged above) is now fixed; it had also made the 12 allies Jalchedunes/Cocomaricopas (they were Pimas) and the target the Yuma cavalry (it was a ranchería).",
    "symbol": "swords"
   },
   {
@@ -6846,7 +6846,7 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "frontera",
-   "summary": "Twenty-five soldados and 50 gentiles auxiliares struck Jacum; 'el capitanejo Charagui… cargó con toda su gente y rodeando nuestras tropas nos las hicieron retirar, hiriéndonos á 9 soldados y 17 indios de los auxiliares… quedó el campo pr los enemigos.' The raiders had already run off the Misión San Diego caballada. Embedded in Zamorano's extermination-rhetoric letter; aftermath, Alvarado ordered all aid to Capt. Portilla for the pursuit (Aug 1837).",
+   "summary": "Twenty-five soldados and 50 gentiles auxiliares struck Jacum and at first beat back the raiders, but at midday 'el capitanejo Charagui… cargó con toda su gente y rodeando nuestras tropas nos las hicieron retirar, hiriéndonos á 9 soldados y 17 indios de los auxiliares… quedó el campo pr los enemigos.' The raiders had already run off the Misión San Diego caballada. Embedded in Zamorano's extermination-rhetoric letter; aftermath, Alvarado ordered all aid to Capt. Portilla for the pursuit (Aug 1837).",
    "result": "Indigenous victory; the field held by Charagui's force",
    "quote": null,
    "sources": [
@@ -6864,7 +6864,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Charagui's people are named only as gentiles of the Jacum region in the abstract. Bancroft's History of California has no account of this engagement: grep for 'Jacum' and 'Charagui' across both OCR copies of vol. III returns nothing. The C-A record is therefore the only narrative source, which raises this feature's value as a finding aid. Related but NOT linked (different event, 42 years earlier, same ranasheria): ca24-d570, Borica al Virrey, 1795, 'Sobre Indios de Jacom, S.n Diego' - alferez Pablo Grijalva's party to the Ranchería de Jacom.",
+   "notes": "Charagui's people are named only as gentiles of the Jacum region in the abstract. Bancroft's History of California has no account of this engagement: grep for 'Jacum' and 'Charagui' across both OCR copies of vol. III returns nothing. The C-A record is therefore the only narrative source, which raises this feature's value as a finding aid. Related but NOT linked (different event, 42 years earlier, same ranasheria): ca24-d570, Borica al Virrey, 1795, 'Sobre Indios de Jacom, S.n Diego' - alferez Pablo Grijalva's party to the Ranchería de Jacom. READ AT THE LEAF (25 Nov 2026, ca37-d188 n88): «dispuse saliese una partida de 25 hombres acompañados de 50 gentiles auxiliares, para que los batiesen en Jacum… allí estaban acampados el día de ayer los malhechores, donde nuestras fuerzas los batieron y rechazaron, pero al medio día fueron aquellos reforzados por el capitancillo Charaqui que cargó con toda su gente y rodeando nuestras tropas nos las hicieron retirar, hiriéndonos á 9 soldados y 17 indios de los auxiliares y aunque les hicimos algunos muertos y heridos quedó el campo por los enemigos». The leaf spells the leader Charaqui; the morning repulse was missing from the summary.",
    "symbol": "swords"
   },
   {
@@ -8920,9 +8920,9 @@
    "register_no": "143",
    "name": "Wilson's pursuit near San Bernardino",
    "date": {
-    "iso": "1845",
-    "display": "1845",
-    "confidence": "year"
+    "iso": "1845-06",
+    "display": "June 1845 (left 9 June)",
+    "confidence": "month"
    },
    "coords": [
     34.0455,
@@ -8931,7 +8931,7 @@
    "coord_precision": "area",
    "type": "raid",
    "layer": "mexican",
-   "summary": "Benjamin (Benito) Wilson with 200 mounted men pursues horse-raiding parties near San Bernardino; expedition diary filed, further campaign and remounts requested.",
+   "summary": "An expedition under Comandante Benito (Benjamin D.) Wilson left on 9 June 1845 to attack Indian horse thieves in the Sierra de San Bernardo. Three Indians who would not surrender were attacked and killed, and Wilson was wounded in the arm; later, leaving the Navajasos, the party met resistance and Capt. Gallego was wounded in the arm. Wilson then sought the handing-over of the thieves and horses through the capitanejos. A further campaign with enough remounts was requested, since 'los Amajahues y Cahuillas' would keep raiding the nearby ranchos.",
    "result": "Pursuit; raiders not destroyed",
    "quote": null,
    "sources": [
@@ -8948,7 +8948,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ DO NOT CONFUSE WITH THE 1846 EXPEDITION. The catalogue holds a second, later Wilson punitive expedition; ca31-d118, B. D. Wilson writing from Jurupa on 23 August 1846, 'Matanza de Indios', reporting his 22 August attack on a ranchería of the Amajaques. That is a different action, a year later, under a different government, and it must not be merged into this feature. DATE NOTE: ca30-d277 is dated to the month only (June 1845), so the feature's bare '1845' is correct and cannot honestly be sharpened from this record; the follow-up (d276) is 1 July 1845, which brackets the expedition as late June 1845. NUMBERS NOTE: '200 mounted men' comes straight from the manuscript abstract ('con 200 montados') and is Savage's summary of the diary's own claim, not an independent count. The map's 'raiders not destroyed' is a fair reading; the diary records a skirmish at Los Naranjos and the submission of the capitanejos, and d276 then asks for a further expedition, which implies the first did not settle the matter; but note the abstract also says Wilson 'somete á los capitanejos', so 'inconclusive' is a safer characterisation than 'failed'.",
+   "notes": "⚠ DO NOT CONFUSE WITH THE 1846 EXPEDITION. The catalogue holds a second, later Wilson punitive expedition; ca31-d118, B. D. Wilson writing from Jurupa on 23 August 1846, 'Matanza de Indios', reporting his 22 August attack on a ranchería of the Amajaques. That is a different action, a year later, under a different government, and it must not be merged into this feature. DATE NOTE: ca30-d277 is dated to the month only (June 1845), so the feature's bare '1845' is correct and cannot honestly be sharpened from this record; the follow-up (d276) is 1 July 1845, which brackets the expedition as late June 1845. NUMBERS NOTE: '200 mounted men' comes straight from the manuscript abstract ('con 200 montados') and is Savage's summary of the diary's own claim, not an independent count. The map's 'raiders not destroyed' is a fair reading; the diary records a skirmish at Los Naranjos and the submission of the capitanejos, and d276 then asks for a further expedition, which implies the first did not settle the matter; but note the abstract also says Wilson 'somete á los capitanejos', so 'inconclusive' is a safer characterisation than 'failed'. READ AT THE LEAF (25 Nov 2026, ca30-d277 n170, unsigned 'Diario de la expedición contra los Indios', June 1845): «el 9 salió la expedición al mando del Comte Benito Wilson para atacar los inds ladrones de caballada que andaban por sierra de S. Bernardo. Se encontraron 3 inds que no quisieron rendirse; se les atacó resultando herido de un brazo Wilson y los inds muertos. Más tarde, al salir de los Navajasos, encontraron varios inds que hicieron resistencia, hiriendo al Capn Gallego en un brazo». The '200 mounted men' of the earlier summary is not on this leaf and is unverified.",
    "symbol": "flame"
   },
   {
