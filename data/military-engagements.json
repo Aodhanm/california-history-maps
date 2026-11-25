@@ -4326,7 +4326,7 @@
    "type": "battle",
    "layer": "mexican",
    "summary": "50 Indian horse-thieves crossed Sacramento, appeared at Soscol with band of tame horses, aiming to stampede Sonoma horses. 34 killed in battle with Vallejo's men; rest surrendered. Chief CUMUCHÍ shot at Sonoma for his crimes.",
-   "result": "Decisive Mexican victory; 34 killed, 0 Mexican casualties",
+   "result": "Mexican victory; 34 killed according to Vallejo's later account (his 1838 letter says only 'some')",
    "quote": null,
    "sources": [
     {
@@ -4348,7 +4348,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "DISCREPANCY, flagged not reconciled: Bancroft (from Vallejo, Doc., v. 124) gives 34 killed and names the executed chief Cumuchí; the C-A record, Vallejo's own letter of 7 August 1838, says only 'tuvo un encuentro con algunos Indios depredadores y mataron algunos' and that he holds some prisoners. Savage's abstract carries no number and no chief's name. A search of the entire catalogue for Cumuchi / Cumuchí / Soscol / Suscol returned no hits, so the name Cumuchí and the figure 34 rest solely on the C-B circular. The map dates the engagement to August 1838 and places it at Soscol; Vallejo's C-A letter is dated Sonoma, 7 August 1838 and does not name the place.",
+   "notes": "DISCREPANCY, flagged not reconciled: Bancroft (from Vallejo, Doc., v. 124) gives 34 killed and names the executed chief Cumuchí; the C-A record, Vallejo's own letter of 7 August 1838, says only 'tuvo un encuentro con algunos Indios depredadores y mataron algunos' and that he holds some prisoners. Savage's abstract carries no number and no chief's name. A search of the entire catalogue for Cumuchi / Cumuchí / Soscol / Suscol returned no hits, so the name Cumuchí and the figure 34 rest solely on the C-B circular. The map dates the engagement to August 1838 and places it at Soscol; Vallejo's C-A letter is dated Sonoma, 7 August 1838 and does not name the place. Leaf-confirmed (25 Nov 2026, ca29-d253 n220): «tiene algos prisioneros en su poder; y que tuvo un encuentro con algs Indios depredadores, y mataron algs. Desea fundar un nuevo establecimto para contener las depredaciones». The 34 killed and the chief Cumuchí rest on Vallejo, Doc., and Bancroft, not on this letter.",
    "symbol": "swords"
   },
   {
@@ -6190,9 +6190,9 @@
    "register_no": "108",
    "name": "Twenty-one Mission San Jose neophytes killed",
    "date": {
-    "iso": "1826",
-    "display": "1826",
-    "confidence": "year"
+    "iso": "1826-11",
+    "display": "Early November 1826 (reported 3 Nov)",
+    "confidence": "month"
    },
    "coords": [
     38.1,
@@ -6218,7 +6218,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Location not given in the abstract; conjectural pin in the SD interior. TWO CORRECTIONS TO THE FEATURE TEXT. (1) The feature places this 'on the interior frontier of the San Diego district'. The manuscript is written from SAN JOSÉ; the victims were Mission San José neophytes killed by gentiles in the Cosumnes/San Joaquin country. It is a northern, not a southern, episode, and it is the outrage that provoked alférez José Sánchez's Nov 1826 Cosumnes campaign (Bancroft III:110). (2) Casualty figure: the manuscript says 21; Bancroft's narrative text says 'twenty or thirty of whom were killed, or at least never returned' while his own footnote quotes the 21 from this document. Page-system note: Bancroft cites 'Dept. St. Pap., MS., i. 135', which matches the record's SAVAGE page (~136), not its original tomo page (p.498–500).",
+   "notes": "Location not given in the abstract; conjectural pin in the SD interior. TWO CORRECTIONS TO THE FEATURE TEXT. (1) The feature places this 'on the interior frontier of the San Diego district'. The manuscript is written from SAN JOSÉ; the victims were Mission San José neophytes killed by gentiles in the Cosumnes/San Joaquin country. It is a northern, not a southern, episode, and it is the outrage that provoked alférez José Sánchez's Nov 1826 Cosumnes campaign (Bancroft III:110). (2) Casualty figure: the manuscript says 21; Bancroft's narrative text says 'twenty or thirty of whom were killed, or at least never returned' while his own footnote quotes the 21 from this document. Page-system note: Bancroft cites 'Dept. St. Pap., MS., i. 135', which matches the record's SAVAGE page (~136), not its original tomo page (p.498–500). Leaf-confirmed (25 Nov 2026, ca27-d145 n130): the writer is «José Bernal al Comandte de S. Franco», San José, 3 Nov 1826: on the road he learned «que el Indio Alcalde [E]smundo se había ido á la ranchería á donde tuvo la desgracia que le mataran 21 Cristianos los indios Gentiles; que esta noticia la trae uno de los mismos que vino huyendo del Combate… que la gente está muy alborotada». The 'holiday trip' is Bancroft's detail, not on the leaf.",
    "symbol": "flame"
   },
   {
@@ -6464,9 +6464,9 @@
    "register_no": "114",
    "name": "Ibarra's punitive battle at Santa Isabel ('veinte pares de orejas')",
    "date": {
-    "iso": "1826",
-    "display": "1826",
-    "confidence": "year"
+    "iso": "1826-04-05",
+    "display": "April 5, 1826 (dawn to noon)",
+    "confidence": "exact"
    },
    "coords": [
     33.11,
@@ -6475,8 +6475,8 @@
    "coord_precision": "place",
    "type": "battle",
    "layer": "frontera",
-   "summary": "A punitive action against ~100 or more hostile Indians, routed 4 leguas to San Felipe with Kumeyaay/Cahuilla auxiliaries; 28 killed, '20 pares de orejas' cut from the dead as proof, plus a prisoner summarily executed.",
-   "result": "Spanish-Mexican punitive victory; 28 killed",
+   "summary": "At dawn on 5 April 1826 'ciento y tantos' hostile Indians attacked Juan María Ibarra's post at Santa Isabel, warned the night before by a captured spy. Ibarra charged them and drove them 4 leagues down to the valley of San Felipe, joined on the way by the Indians of San Felipe and Agua Caliente; 28 of the attackers were left dead on the field, among them a capitancillo of the ranchería of Jagilla. He sent the Comandante General 20 pairs of ears ('las 8 restantes no se las mandó' because the bodies were far off and his men tired) and had the spy taken at San Felipe killed. His own losses were the soldier Gabriel Ibarra and 14 Indians wounded, and one gentile ally killed.",
+   "result": "Attack on Santa Isabel repulsed; 28 attackers killed",
    "quote": null,
    "sources": [
     {
@@ -6500,7 +6500,7 @@
     "Cahuilla"
    ],
    "tags": [],
-   "notes": "Abstract; the parte should be transcribed before the orejas line is quoted. Bancroft III:109 states that Ibarra had two fights at or near Santa Isabel in April 1826, sending 18 pairs of ears in one and 20 in the other, and that three Mazatlán-squadron soldiers had been murdered just before (probable provocation). Only the 20-pair report (ca42-d914) is in the C-A database; searches for 'orejas', 'pares de orejas' and 'Santa Isabel Ibarra' across all 63 volumes found no second report, recorded as a null. Bancroft's footnote also cites 'Dept. St. Pap., MS., i. 136-7' and 'S. Diego, Lib. Mision, MS., 96'. The DSP i.136-7 interval resolves only to ca27-d43/d44 (1824-25 Chumash-revolt and Romero-expedition items), a subject mismatch, so no link is given. The San Diego libro de misión is a mission register, not C-A.",
+   "notes": "Abstract; the parte should be transcribed before the orejas line is quoted. Bancroft III:109 states that Ibarra had two fights at or near Santa Isabel in April 1826, sending 18 pairs of ears in one and 20 in the other, and that three Mazatlán-squadron soldiers had been murdered just before (probable provocation). Only the 20-pair report (ca42-d914) is in the C-A database; searches for 'orejas', 'pares de orejas' and 'Santa Isabel Ibarra' across all 63 volumes found no second report, recorded as a null. Bancroft's footnote also cites 'Dept. St. Pap., MS., i. 136-7' and 'S. Diego, Lib. Mision, MS., 96'. The DSP i.136-7 interval resolves only to ca27-d43/d44 (1824-25 Chumash-revolt and Romero-expedition items), a subject mismatch, so no link is given. The San Diego libro de misión is a mission register, not C-A. READ AT THE LEAF (25 Nov 2026, ca42-d914 n312-n314, Ibarra's parte, Santa Isabel, 5 Apr 1826): «el día 5 al romper el día lo verificaron de atacarme en esta de Sta Isabel, cuyo número de enemigos se componía de ciento y tantos… les dí batería á una distancia de 4 leguas hasta bajarlos al valle de San Felipe y en este tránsito se me reunió la indiada de San Felipe y la de la Agua Caliente, quedando de la parte de los enemigos en el campo 28 muertos… Remito á V. 20 pares de orejas que mandé quitar; las 8 restantes no se las mando porque los cadáveres estaban muy distantes… El indio prisionero que cogieron en S. Felipe luego que me atacaron los indios lo mandé matar». An earlier version of this entry called it a punitive action; it was the repulse of an attack. The ears line can now be quoted. Savage notes that bad binding hides part of the text.",
    "symbol": "swords"
   },
   {
@@ -6665,7 +6665,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "District-court abstract; verify vs leaf before quoting. A SECOND, INDEPENDENT and fuller record of the same event was found and is added: ca39-d152, a verbatim causa/parte militar of the same date. Discrepancy between the two, not reconciled: ca42-d1219 (Sepulveda's summary to Pico) says 21 Indians, 18 dead, 2 wounded, 1 escaped unharmed; ca39-d152 (the military proceeding) says 18 indios killed, 1 taken prisoner, and reads the '2 heridos' as wounds on SALAZAR's side, with a 12-man force and 20 bows and 20 quivers confiscated. The map's date is given as '1846' with year confidence; both records date the report 26 March 1846, so the date can be tightened. Bancroft's footnote treats the affair in one sentence: '18 Ind. were killed at S. Francisco rancho, having revolted after being captured.'"
+   "notes": "District-court abstract; verify vs leaf before quoting. A SECOND, INDEPENDENT and fuller record of the same event was found and is added: ca39-d152, a verbatim causa/parte militar of the same date. Discrepancy between the two, not reconciled: ca42-d1219 (Sepulveda's summary to Pico) says 21 Indians, 18 dead, 2 wounded, 1 escaped unharmed; ca39-d152 (the military proceeding) says 18 indios killed, 1 taken prisoner, and reads the '2 heridos' as wounds on SALAZAR's side, with a 12-man force and 20 bows and 20 quivers confiscated. The map's date is given as '1846' with year confidence; both records date the report 26 March 1846, so the date can be tightened. Bancroft's footnote treats the affair in one sentence: '18 Ind. were killed at S. Francisco rancho, having revolted after being captured.' Leaf-confirmed (25 Nov 2026, ca42-d1219 n412, Sepúlveda to Pico, 26 Mar 1846): «Le dice Salazar que se presentaron en el rancho de Sn Francisco 21 indios armados; que logró desarmarlos mañosamente y quiso enviárselos presos, que se revelaron y lo atacaron con piedra, macetas y cuchillos y se vió precisado á hacerles fuego de donde resultaron 18 muertos y 2 heridos y uno se fugó sano»."
   },
   {
    "id": "reg-118-san-pedro-martir-indian-revolt-dominican-frontie",
