@@ -58,12 +58,17 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "First of the chain; destroyed in the 1775 revolt and rebuilt at this valley site.",
+   "summary": "First of the chain (1769); moved up the valley to Nipaguay in August 1774, burned in the 1775 revolt and rebuilt at this site.",
    "result": "",
    "quote": null,
    "sources": [
     {
      "citation": "Founding dates per the standard accounts (Bancroft, Hist. Cal.; Engelhardt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, Hist. Cal. i. 229-30 (the August 1774 removal to Nipaguay, 'about two leagues up the valley').",
      "ca_record": null,
      "ia_leaf_url": null
     }
@@ -148,7 +153,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The richest of the southern missions; Toypurina's 1785 revolt; the gateway of the overland routes.",
+   "summary": "The target of the 1785 plot led by Toypurina; the gateway of the overland routes.",
    "result": "",
    "quote": null,
    "sources": [
@@ -160,7 +165,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "'Richest of the southern missions' was removed on 2026-11-25 (unsourced superlative)."
   },
   {
    "id": "m-san-luis-obispo-de-tolosa",
@@ -298,7 +303,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The Channel mission Serra founded last in person; armed with cannon in the 1798 census.",
+   "summary": "The Channel mission Serra founded last in person; it held two 4-pounder cannon in the Santa Bárbara company's return of 31 December 1798.",
    "result": "",
    "quote": null,
    "sources": [
@@ -306,6 +311,11 @@
      "citation": "Founding dates per the standard accounts (Bancroft, Hist. Cal.; Engelhardt).",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 15) Doc 464 · Goycoechea, habilitado, return of the Santa Bárbara company, 31 Dec. 1798: 'En misión S.n Buenav.a 2 [cañones] de á 4'; Savage p. 309, scan n315 (read at the leaf 2026-11-25).",
+     "ca_record": "ca15-d464",
+     "ia_leaf_url": "https://archive.org/details/168035972_79_17_2/page/n315"
     }
    ],
    "native_groups": [],
@@ -366,6 +376,11 @@
      "citation": "Founding dates per the standard accounts (Bancroft, Hist. Cal.; Engelhardt).",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, Hist. Cal. ii. 531-2 (Estrada retook Purísima on 16 March 1824).",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -418,7 +433,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The lonely Salinas valley mission; two governors died within its walls.",
+   "summary": "The lonely Salinas valley mission; Governor Arrillaga died here on 24 July 1814.",
    "result": "",
    "quote": null,
    "sources": [
@@ -426,11 +441,16 @@
      "citation": "Founding dates per the standard accounts (Bancroft, Hist. Cal.; Engelhardt).",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, Hist. Cal. ii. 204 (Arrillaga 'died at Soledad Mission on July 24, 1814').",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Corrected 2026-11-25: an earlier version said two governors died here; Bancroft records only Arrillaga."
   },
   {
    "id": "m-san-jose",
@@ -538,7 +558,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The valley mission on the LA road; armed with 2-pounders in the 1805 census.",
+   "summary": "The valley mission on the LA road; it held one bronze 2-pounder, without a carriage, in the Santa Bárbara artillery return of 31 December 1805.",
    "result": "",
    "quote": null,
    "sources": [
@@ -546,6 +566,11 @@
      "citation": "Founding dates per the standard accounts (Bancroft, Hist. Cal.; Engelhardt).",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "Prov. St. Pap., Benicia (Mil.) (C-A 16) Doc 475 · José Raymundo Carrillo, Artillería, Santa Bárbara, 31 Dec. 1805: 'En S.n Fernando. 1 id. de bronce de á 2, bueno, sin cureña'; Savage p. 282, scan n281 (read at the leaf 2026-11-25).",
+     "ca_record": "ca16-d475",
+     "ia_leaf_url": "https://archive.org/details/168035972_79_18_2/page/n281"
     }
    ],
    "native_groups": [],
@@ -568,12 +593,17 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Founded 13 Jun 1798, 54 children baptized that day (C-A 24 Doc 277); the largest mission population; Duflot drew its plan in the gallery.",
+   "summary": "Founded 13 Jun 1798, 54 children baptized that day (C-A 24 Doc 277); its neophytes peaked at 2,869 in 1826; Duflot drew its plan in the gallery.",
    "result": "",
    "quote": null,
    "sources": [
     {
      "citation": "Founding dates per the standard accounts (Bancroft, Hist. Cal.; Engelhardt).",
+     "ca_record": null,
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Bancroft, Hist. Cal. ii. 553-4 ('its maximum of 2,869 neophytes in 1826').",
      "ca_record": null,
      "ia_leaf_url": null
     }
