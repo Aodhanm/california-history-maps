@@ -497,8 +497,8 @@
    "register_no": null,
    "name": "The Assembly authorizes outright sale",
    "date": {
-    "iso": "1846-04-03",
-    "display": "April 3, 1846",
+    "iso": "1846-03-30",
+    "display": "March 30, 1846 (published April 4)",
     "confidence": "exact"
    },
    "coords": [
@@ -508,7 +508,7 @@
    "coord_precision": "place",
    "type": "document",
    "layer": "decrees",
-   "summary": "Pico's government, invoking the common defense 'en caso de una invasión extranjera,' authorizes auctioning the missions to pay their creditors, any surplus to each mission's Indian community. The June 1846 deeds of sale cite this decree as their authority.",
+   "summary": "Pico's government, invoking the common defense 'en caso de una invasión extranjera,' authorizes auctioning the missions to pay their creditors, any surplus to each mission's Indian community. The June 1846 deeds of sale cite it as their authority, but misdated: the San Buenaventura deed has 'decreto de 13 de Abril último', and Bancroft counts the wrong date of the assembly's decree among the signs that some of Pico's deeds were antedated.",
    "result": "",
    "quote": null,
    "sources": [
@@ -521,6 +521,11 @@
      "citation": "St. Pap., Missions (C-A 51) Doc 449 (the San Buenaventura escritura quoting the 13 Apr decree).",
      "ca_record": "ca51-d449",
      "ia_leaf_url": "https://archive.org/details/bancarchca_81_13/page/n338"
+    },
+    {
+     "citation": "Bancroft, Hist. Cal. v. 559 n. (decree of the assembly, 30 March 1846, published by the governor 4 April) and v. 563 (the error in the decree's date among the irregularities of the deeds).",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
@@ -528,7 +533,7 @@
     "secularization",
     "decree"
    ],
-   "notes": "",
+   "notes": "Corrected 2026-11-26: the map dated the decree 3 April 1846; Bancroft gives 30 March, published 4 April. The deed's '13 de Abril' read at the leaf (C-A 51, Savage p. 340, scan n339).",
    "symbol": "scroll"
   },
   {
@@ -934,7 +939,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Among the last secularized: Gov. Chico ordered Fr. Blas Ordaz to hand it to Carlos Carrillo in June 1836 amid the constitutional-oath fight. Sold to its lessee José Arnaz in June 1846; 'dueño legítimo… para siempre'; followed by an 1846–48 asset-stripping dossier.",
+   "summary": "Among the last secularized: Gov. Chico ordered Fr. Blas Ordaz to hand it to Carlos Carrillo in June 1836 amid the constitutional-oath fight. Sold to its lessee José Arnaz in June 1846; 'venta real y efectiva enagenación perpetua para siempre', for $12,000 of the government's debts to him; followed by an 1846–48 asset-stripping dossier.",
    "result": "",
    "quote": null,
    "sources": [
@@ -958,7 +963,7 @@
    "tags": [
     "secularization"
    ],
-   "notes": "The 1846–48 fraud dossier on the lease is C-A 63 Doc 464.",
+   "notes": "The 1846–48 fraud dossier on the lease is C-A 63 Doc 464. The deed (C-A 51 Doc 449, read at the leaf 2026-11-26, Savage pp. 339-340) cites the decree as '13 de Abril', a misdating Bancroft (v. 563) treats as a mark of antedated deeds; Bancroft (v. 634-5 n.) also reports that in 1847-48 Arnaz 'was regarded merely as lessee, and that his bill of sale was not presented'.",
    "series": [
     [
      "1836 Jun 23",
@@ -1019,13 +1024,18 @@
      "citation": "Secularization year per the standard accounts (Krell; cross-checked against CA State Parks / NPS) · year grain.",
      "ca_record": null,
      "ia_leaf_url": null
+    },
+    {
+     "citation": "St. Pap., Missions (C-A 50) · Santa Bárbara general inventory, closing totals; Savage p. 413, scan n412 (read at the leaf 2026-11-26).",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
    "native_groups": [],
    "tags": [
     "secularization"
    ],
-   "notes": "",
+   "notes": "Read at the leaf 2026-11-26: the existencia total $113,960.88, liquid $112,960.88, with Rancho Dos Pueblos at $12,055 (Savage p. 413, scan n412); the linked Doc 457 is the church, sacristy and library extract ($25,518.75); the $2,484.37½ distribution list is the entry that follows it (p. 410).",
    "series": [
     [
      "1834",
@@ -1130,7 +1140,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Inventoried under article 15 of Figueroa's reglamento by comisionado Domingo Carrillo, with William Dana as appraiser: existencia $62,088.50 including ranchos Todos Santos and Guadalupe. One of the five missions Pico's reglamento listed for outright sale; bought by John Temple for $10,110 in December 1845.",
+   "summary": "Inventoried under article 13 and the second prevención of Figueroa's reglamento of 9 August 1834, by comisionado Domingo Carrillo with Guillermo G. Dana and Santiago Lugo as appraisers: existencia $62,058.50, including ranchos Todos Santos ($7,176) and Guadalupe ($4,065), debts $1,218.50, net $60,840. One of the five missions Pico's reglamento listed for outright sale; bought by John Temple for $10,110 in December 1845.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1154,7 +1164,7 @@
    "tags": [
     "secularization"
    ],
-   "notes": "The survey flags the inventory digits as scale-2 reads pending verification.",
+   "notes": "Read at the leaf 2026-11-26 (C-A 50, Savage pp. 406-407, scans n405-n406). Corrected: article 13, not 15; the total $62,058.50, not $62,088.50 (Bancroft iii agrees: 'total $62,058; debt $1,218; net assets $60,840'). Savage heads the entry '1834 Febrero 18', impossible for an inventory made under the August 1834 reglamento; the true date is unresolved.",
    "series": [
     [
      "1834",
@@ -1540,7 +1550,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "Comisionado Ignacio del Valle inventoried ~$84,354 in December 1835. Listed for outright sale in Pico's reglamento; no sale appears in the vault; and in 1849 Hartnell judged that the priest 'has no right at all to sell any real estate or the mission Sta Cruz.'",
+   "summary": "Comisionado Ignacio del Valle inventoried the mission at $84,334.62 on 1 December 1835 (debts $4,979, net $79,355.62), with Fr. Antonio Suárez del Real and the mayordomo Juan González. Listed for outright sale in Pico's reglamento; no sale appears in the vault; and in 1849 Hartnell judged that the priest 'has no right at all to sell any real estate or the mission Sta Cruz.'",
    "result": "",
    "quote": null,
    "sources": [
@@ -1564,7 +1574,7 @@
    "tags": [
     "secularization"
    ],
-   "notes": "",
+   "notes": "Read at the leaf 2026-11-26 (C-A 50, Savage p. 417, scan n416); the earlier '~$84,354' was a digit slip (Bancroft iii. 353-4: 'Total, $84,334').",
    "series": [
     [
      "1835 Dec 1",
@@ -1779,7 +1789,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "missions",
-   "summary": "The poorest inventory of the set ($18,474, with Rancho Nicasio at $7,256), but the most direct distribution: 343 Indians received rams, ewes, horses, and mares by name. By Hartnell's 1840 visita they refused a mayordomo altogether; 'no querían ya misión.'",
+   "summary": "The poorest inventory of the set ($18,474, with Rancho Nicasio at $7,256), but the most direct distribution: by Figueroa's order 343 Indians of the new pueblo shared 463 rams, 828 ewes, 97 horses and 342 mares, about 2 rams, 3 ewes and 2 horses each. By Hartnell's 1840 visita they refused a mayordomo altogether; 'no querían ya misión.'",
    "result": "",
    "quote": null,
    "sources": [
@@ -1803,7 +1813,7 @@
    "tags": [
     "secularization"
    ],
-   "notes": "The reported $8,000 sale of 1846 is the standard account; no vault record.",
+   "notes": "The reported $8,000 sale of 1846 is the standard account; no vault record. Read at the leaf 2026-11-26 (C-A 50, Savage p. 421, scan n420): Ignacio Martínez's estado of 31 Dec 1834. The inventory that follows is headed '1834 Set. 31' (sic), by Fr. José Lorenzo Quijas and comisionados Martínez and Rafael García; its $18,474 total is on the next leaf, not re-read.",
    "series": [
     [
      "1834 Dec 31",
