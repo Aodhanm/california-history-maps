@@ -1320,7 +1320,7 @@
    "layer": "r1810a",
    "color": "#275d7a",
    "path_confidence": "reconstructed",
-   "citation": "Cook, ch. V, note [1]: route via Sunol, Dublin, Walnut Creek",
+   "citation": "Fr. José Viader, report of the trip of 15-28 August 1810, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820 (1960), ch. V, pp. 258-259; route via Sunol, Dublin, Walnut Creek per Cook's note 1 (checked against Cook's text 2026-11-26).",
    "stops": [
     {
      "id": "r1810a-1-mission-san-jose",
@@ -1918,7 +1918,7 @@
    "layer": "r1810b",
    "color": "#16a085",
    "path_confidence": "reconstructed",
-   "citation": "Cook, ch. V, note [14]",
+   "citation": "Fr. José Viader, report of 19-27 October 1810, trans. in Cook, Colonial Expeditions (1960), ch. V, pp. 259-260, with Cook's note 14 (checked against Cook's text 2026-11-26).",
    "stops": [
     {
      "id": "r1810b-1-mission-san-jose",

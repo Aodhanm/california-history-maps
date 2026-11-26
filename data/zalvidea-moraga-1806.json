@@ -1342,7 +1342,7 @@
    "layer": "zalvidea",
    "color": "#b87333",
    "path_confidence": "reconstructed",
-   "citation": "Zalvidea, Report of an expedition to the interior, 19 July to 14 August 1806, Santa Barbara Mission Archives IV: 49-68, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820, Anthropological Records 16(6) (Berkeley: University of California Press, 1960), 239-292, chap. III.",
+   "citation": "Zalvidea, Report of an expedition to the interior, 19 July to 14 August 1806, Santa Barbara Mission Archives IV: 49-68, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820, Anthropological Records 16(6) (Berkeley: University of California Press, 1960), 239-292, chap. III, pp. 245-247 (checked against the Gutenberg/IA text of Cook, 2026-11-26).",
    "stops": [
     {
      "id": "zalvidea-0-santa-barbara",
@@ -2006,7 +2006,7 @@
    "layer": "moraga-north",
    "color": "#8B2500",
    "path_confidence": "reconstructed",
-   "citation": "Munoz, Diary of the expedition made by Don Gabriel Moraga, Second Lieutenant of the Company of San Francisco, to the new discoveries in the Tulare Valley, 21 September to 2 November 1806, Santa Barbara Mission Archives IV: 1-47, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820, Anthropological Records 16(6) (Berkeley: University of California Press, 1960), 239-292, chap. III.",
+   "citation": "Munoz, Diary of the expedition made by Don Gabriel Moraga, Second Lieutenant of the Company of San Francisco, to the new discoveries in the Tulare Valley, 21 September to 2 November 1806, Santa Barbara Mission Archives IV: 1-47, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820, Anthropological Records 16(6) (Berkeley: University of California Press, 1960), 239-292, chap. III, pp. 247-254 (checked against the Gutenberg/IA text of Cook, 2026-11-26).",
    "stops": [
     {
      "id": "moraga-north-1-mission-san-juan-bautista",
@@ -2367,7 +2367,7 @@
    "layer": "moraga-south",
    "color": "#1a5276",
    "path_confidence": "reconstructed",
-   "citation": "Munoz, Diary of the expedition made by Don Gabriel Moraga, Second Lieutenant of the Company of San Francisco, to the new discoveries in the Tulare Valley, 21 September to 2 November 1806, Santa Barbara Mission Archives IV: 1-47, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820, Anthropological Records 16(6) (Berkeley: University of California Press, 1960), 239-292, chap. III.",
+   "citation": "Munoz, Diary of the expedition made by Don Gabriel Moraga, Second Lieutenant of the Company of San Francisco, to the new discoveries in the Tulare Valley, 21 September to 2 November 1806, Santa Barbara Mission Archives IV: 1-47, trans. in Cook, Colonial Expeditions to the Interior of California: Central Valley, 1800-1820, Anthropological Records 16(6) (Berkeley: University of California Press, 1960), 239-292, chap. III, pp. 247-254 (checked against the Gutenberg/IA text of Cook, 2026-11-26).",
    "stops": [
     {
      "id": "moraga-south-14-base-camp-turn-south",
