@@ -417,13 +417,59 @@
 
     var map = L.map('map', { center: data.center || [36.5, -120.5], zoom: data.zoom || 6 });
     state.map = map;
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+    // Keyless Esri basemaps. "Historic relief" (terrain + hillshade, no modern roads) is the
+    // default, matching the Mission Dolores panel maps; Satellite and Topographic stay selectable.
+    var ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/';
+    var baseHistoric = L.layerGroup([
+      L.tileLayer(ESRI + 'World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 17, maxNativeZoom: 13, attribution: 'Tiles &copy; <a href="https://www.esri.com/">Esri</a>; USGS, NOAA' }),
+      L.tileLayer(ESRI + 'World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 17, maxNativeZoom: 13, opacity: 0.35, attribution: '' })
+    ]).addTo(map);
+    var baseSatellite = L.layerGroup([
+      L.tileLayer(ESRI + 'World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 17, maxNativeZoom: 17, attribution: 'Imagery &copy; <a href="https://www.esri.com/">Esri</a>, Maxar, Earthstar Geographics' }),
+      L.tileLayer(ESRI + 'Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 17, maxNativeZoom: 17, attribution: '' })
+    ]);
+    var baseTopo = L.tileLayer(ESRI + 'World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
       maxZoom: 17, maxNativeZoom: 17,
       attribution: 'Tiles &copy; <a href="https://www.esri.com/">Esri</a>, HERE, Garmin, USGS, NGA, EPA, USDA, NPS'
-    }).addTo(map);
+    });
+    var baseLayers = { 'Historic relief': baseHistoric, 'Satellite': baseSatellite, 'Modern topographic': baseTopo };
 
     var layerColors = {};
     var overlays = {};
+
+    // SFEI historical baylands (ca. 1800), drawn live from the CDFW BIOS service (ds3201), as on
+    // the panel maps; not redistributed. Fetched only when switched on; on by default only when
+    // the map opens over the San Francisco Estuary, the only area it covers.
+    var BAYLANDS_FILL = {
+      'Tidal / Salt Marsh': '#cfe3a8', 'Tidal Flat': '#ded3b2', 'Marsh Panne / Salt Flat': '#e9e2c8',
+      'Beach': '#eadfba', 'Dune': '#e6d8a8', 'Lagoon': '#b9d2e2', 'Shallow Water': '#a9c8dc',
+      'Deep Water': '#8fb3cd', 'Grassland / Savanna': '#dde6c4'
+    };
+    map.createPane('baylands'); map.getPane('baylands').style.zIndex = 350;
+    var baylands = L.layerGroup(), baylandsLoaded = false;
+    function loadBaylands() {
+      if (baylandsLoaded) return; baylandsLoaded = true;
+      fetch('https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/biosds3201_fpu/FeatureServer/0/query' +
+        '?where=' + encodeURIComponent("HEProject='Historical Baylands'") +
+        '&outFields=LegLabel&outSR=4326&geometryPrecision=5&maxAllowableOffset=0.0003&f=geojson&resultRecordCount=2000')
+        .then(function (r) { return r.json(); })
+        .then(function (gj) {
+          baylands.addLayer(L.geoJSON(gj, { pane: 'baylands', interactive: false,
+            attribution: 'Historical baylands &copy; SFEI, via CDFW BIOS',
+            style: function (ft) { return { stroke: false, fillOpacity: 0.8,
+              fillColor: BAYLANDS_FILL[ft.properties.LegLabel] || '#c9d8c2' }; } }));
+        })
+        .catch(function () { baylandsLoaded = false; });
+    }
+    map.on('overlayadd', function (e) { if (e.layer === baylands) loadBaylands(); });
+    overlays['<span class="swatch" style="background:#cfe3a8"></span> Pre-1850 baylands <em>(SFEI, ca. 1800; SF Estuary only)</em>'] = baylands;
+    if (map.getBounds().intersects(L.latLngBounds([37.0, -123.1], [38.6, -121.4]))) {
+      baylands.addTo(map); loadBaylands();
+    }
 
     // optional georeferenced period chart (approximate corner-pin); off until toggled
     var histOverlay = null, histSliderEl = null;
@@ -509,7 +555,7 @@
       retierSymbols();
     }
 
-    var lc = L.control.layers(null, overlays, { collapsed: true }).addTo(map);
+    var lc = L.control.layers(baseLayers, overlays, { collapsed: true }).addTo(map);
     if (window.innerWidth >= 700) lc.expand();
 
     // opacity slider for the period chart — visible only while the chart layer is on

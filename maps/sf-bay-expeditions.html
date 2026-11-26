@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 <link rel="stylesheet" href="../assets/css/site.css">
-<link rel="stylesheet" href="../assets/css/panels.css">
+<link rel="stylesheet" href="../assets/css/panels.css?v=4">
 <link rel="canonical" href="https://maps.archivesofcalifornia.com/maps/sf-bay-expeditions.html">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "San Francisco Bay Expeditions", "description": "Sea and land approaches to San Francisco Bay, 1542 to 1776, after the Mission Dolores exhibit panel, with Moraga's 1806 Central Valley expeditions on the same canvas.", "url": "https://maps.archivesofcalifornia.com/maps/sf-bay-expeditions.html", "license": "https://creativecommons.org/licenses/by/4.0/", "creator": {"@type": "Person", "@id": "https://aodhancoyne.com/#person", "name": "Aodhan Coyne", "url": "https://aodhancoyne.com/", "sameAs": "https://orcid.org/0009-0002-8630-3768"}, "publisher": {"@type": "Person", "@id": "https://aodhancoyne.com/#person", "name": "Aodhan Coyne", "url": "https://aodhancoyne.com/", "sameAs": "https://orcid.org/0009-0002-8630-3768"}, "isPartOf": {"@type": "WebSite", "url": "https://maps.archivesofcalifornia.com/", "name": "California History Maps"}, "isBasedOn": "https://archivesofcalifornia.com/", "inLanguage": "en", "temporalCoverage": "1542/1815", "spatialCoverage": {"@type": "Place", "name": "California"}, "abstract": "The exploration of the San Francisco and Monterey coast as the Mission Dolores exhibit panel presents it: five sea approaches, Ayala's longboat surveys inside the bay in 1775, and the land expeditions of 1769 to 1776. Every course drawn here is interpretive, a generalized line meaning the party passed roughly this way, traced after the panel and the published diaries, and never a surveyed track. The stops carry the diary account of what happened at each place, and say where the published reconstructions disagree with each other. Links to records in the Archives of California are catalogue-level matches, not leaf-verified.", "variableMeasured": "14 route courses and 16 diary stops, each cited to its source"}</script>
 </head>
@@ -31,6 +31,8 @@
   <h1 id="map-title">San Francisco Bay Expeditions</h1>
   <p class="subtitle">Sea and land, 1542-1776, after the Mission Dolores exhibit panel; every course interpretive, every anchor labeled.</p>
 </div>
+<details class="headfold">
+<summary><span class="arr">▸</span> Map notes, layers &amp; baylands <span id="feat-count-mirror" class="fcmirror"></span></summary>
 <div class="panel-note" id="panel-note"></div>
 <div class="base-controls">
   <label><input type="checkbox" id="baylands-toggle" checked> Pre-1850 baylands (SFEI, ca. 1800)</label>
@@ -38,10 +40,20 @@
   <span id="feat-count"></span>
 </div>
 <div class="layer-boxes" id="layer-boxes"></div>
+</details>
+<script>
+(function(){var d=document.querySelector('.headfold');
+ d.addEventListener('toggle',function(){d.querySelector('.arr').textContent=d.open?'\u25be':'\u25b8';});
+ // mirror the feature count onto the folded bar
+ var mo=new MutationObserver(function(){var c=document.getElementById('feat-count').textContent;
+   document.getElementById('feat-count-mirror').textContent=c?('\u00b7 '+c):'';});
+ mo.observe(document.getElementById('feat-count'),{childList:true,characterData:true,subtree:true});
+})();
+</script>
 <div id="map" role="application" aria-label="Interactive historical map"></div>
 <p class="baylands-credit">Historical baylands drawn live from the State of California (CDFW BIOS ds3201) public map service: the San Francisco Estuary Institute’s historical ecology compilation of habitats at European contact, traced largely from 1850s U.S. Coast Survey T-sheets. © SFEI; served by CDFW; not redistributed by this site. Coverage is the San Francisco Estuary.</p>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<script src="../assets/js/panels-engine.js?v=2"></script>
+<script src="../assets/js/panels-engine.js?v=4"></script>
 </body>
 </html>

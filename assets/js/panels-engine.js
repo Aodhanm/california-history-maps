@@ -294,12 +294,21 @@
 
   // ---------- map ----------
   var map = L.map('map', { center: [37.45, -122.1], zoom: 9, zoomSnap: 0.5 });
-  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
-    attribution: 'Tiles © Esri; USGS, NOAA', maxZoom: 13
-  }).addTo(map);
-  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
-    attribution: '', maxZoom: 13, opacity: 0.35
-  }).addTo(map);
+  var ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/';
+  var baseHistoric = L.layerGroup([
+    L.tileLayer(ESRI + 'World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Tiles © Esri; USGS, NOAA', maxZoom: 17, maxNativeZoom: 13 }),
+    L.tileLayer(ESRI + 'World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+      attribution: '', maxZoom: 17, maxNativeZoom: 13, opacity: 0.35 })
+  ]).addTo(map);
+  var baseSatellite = L.layerGroup([
+    L.tileLayer(ESRI + 'World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Imagery © Esri, Maxar, Earthstar Geographics', maxZoom: 17 }),
+    L.tileLayer(ESRI + 'Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}', {
+      attribution: '', maxZoom: 17 })
+  ]);
+  L.control.layers({ 'Historic relief': baseHistoric, 'Satellite': baseSatellite }, null,
+    { collapsed: true, position: 'topright' }).addTo(map);
   map.createPane('baylands'); map.getPane('baylands').style.zIndex = 350;
   map.createPane('quilt');    map.getPane('quilt').style.zIndex = 390;
   map.createPane('casing');   map.getPane('casing').style.zIndex = 430;
