@@ -63,17 +63,17 @@
     "display": "founded 1776",
     "confidence": "year"
    },
-   "summary": "Founded 17 Sep 1776 by José Joaquín Moraga. A 1792 inventory found just one 3-pounder brass cannon; guns were concentrated at the Castillo, not the quadrangle.",
+   "summary": "Founded 17 Sep 1776 by José Joaquín Moraga. When Vancouver entered in November 1792 he was saluted by a brass 3-pounder lashed to a log at Fort Point and saw another on a rotten carriage before the presidio; the commandant, Sal, reported that the presidio's one cannon had burst.",
    "result": "Preserved; NPS/Presidio Trust Main Post",
    "sources": [
     {
-     "citation": "Bancroft, History of California, vol. I; NPS Golden Gate NRA",
+     "citation": "Bancroft, History of California, i. 698 and n.; NPS Golden Gate NRA",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.militarymuseum.org/PSF.html"
     }
    ],
-   "notes": "Vancouver (1792) saw a brass 3-pdr lashed to a log at Fort Point and one on a rotten carriage here.",
+   "notes": "Bancroft i. 698 and n.: Sal reported a gun burst into ten pieces firing a saint's-day salute (30 Sep 1792), and on 31 Oct wrote that there was only one cannon and it had burst, so Bancroft doubts Vancouver's salute. An earlier version cited 'a 1792 inventory' and guns 'concentrated at the Castillo', which was not begun until August 1793; both removed 2026-11-26.",
    "symbol": "presidio"
   },
   {
@@ -91,17 +91,22 @@
     "display": "1793",
     "confidence": "year"
    },
-   "summary": "Six mounted guns on a barbette platform Vancouver saw natives erecting in 1793, on Anza's 1776 cross site; superseded that August by the permanent Castillo.",
+   "summary": "The Cantil Blanco, the white cliff at Fort Point. On 10 Sep 1792 it held two cannon, from which Sal's guard fired eight shots at the schooner Saturnina before she was identified. In 1793 Vancouver saw natives building what looked like a platform or barbette battery here, with eleven brass 9-pounders lying on the beach: it was the start of the Castillo de San Joaquín, begun in August 1793, and by 31 Jan 1794 six guns stood in the battery facing the harbor.",
    "result": "Superseded; nothing survives",
    "sources": [
     {
-     "citation": "Bancroft, History of California, vol. I",
+     "citation": "Bancroft, History of California, i. 698-700 and nn. (Vancouver's 1793 observation; work begun August 1793; '6 guns in the battery facing the harbor', 31 Jan 1794).",
      "ca_record": null,
-     "ia_leaf_url": null,
-     "url": "https://www.militarymuseum.org/CastilloSanJoaquin.html"
+     "ia_leaf_url": null
+    },
+    {
+     "citation": "Prov. Rec. (C-A 55) Doc 130 · Sal's report of the Saturnina affair, 10 Sep 1792: 'pasó luego al Cantil Blanco donde tenía los 2 cañones' (read at the leaf 2026-11-25, scans n68-n69).",
+     "ca_record": "ca55-d130",
+     "ia_leaf_url": null
     }
    ],
-   "symbol": "earthwork"
+   "symbol": "earthwork",
+   "notes": "Corrected 2026-11-26. An earlier version made this a separate six-gun earthwork 'superseded that August by the Castillo'; Bancroft (i. 698-700 and n.) describes the 1793 platform as the Castillo's own beginning, and the six guns are Sal's report of 31 Jan 1794. The two-cannon figure is from the leaf read for the military map (reg-89, C-A 55 Doc 130). Anza's 1776 cross at this site is not checked here."
   },
   {
    "id": "castillo-san-joaquin",
@@ -118,11 +123,11 @@
     "display": "dedicated 8 Dec 1794",
     "confidence": "exact"
    },
-   "summary": "The flagship Spanish work, on the Fort Point bluff. Armed 1794 with eleven brass 9-pounders landed from the Aránzazu; rebuilt to a horseshoe c.1815; embrasures for 16 guns. Built by mission Native laborers. ⭐ The SF presidio company's monthly artillery relaciones give the post-rebuild armament: by 1 Apr 1816 the battery mounted 3 iron 24-pdrs, 1 iron 12-pdr (+1 burst), and 8 bronze half-culverins (8-pdr), with 2 bronze pedreros at the presidio; three iron 8-pdrs were added by May 1817 (a dozen+ serviceable guns at its Spanish-era peak). A standing 2-man 'vigía en la costa' coastal watch appears by Jan 1820 (post-Bouchard); the fort guard was 1 corporal + 4 soldiers. ⭐ The 1 Feb 1820 estado records a major post-Bouchard reconfiguration: a new iron 32-pounder, the bronze half-culverins cut from 8 to 6, three iron 4-pounders redistributed to Mission Santa Clara, and a second (new) royal flag. Into the Mexican era, the 7 Jan 1837 San Francisco artillery-park inventory (Comandante General M. G. Vallejo handing the parque to Capt. Francisco Sánchez) lists iron cannon of 24/12/8/4-lb and bronze of 10/8/2½-lb with garrison gun-carriages; by 1839 the SF, Sonoma, Monterey and Santa Bárbara detachments each held only small ordnance stocks and chronically short cartridges.",
+   "summary": "The flagship Spanish work, on the Fort Point bluff. Eleven brass 9-pounders came from San Blas in the Aránzazu in 1793; the fort, horseshoe-shaped and about 100 by 120 feet, was blessed on 8 Dec 1794 with eight guns mounted. Built by hired neophytes of Mission San Francisco and gentiles from San José, with the troops. In Sept 1796 Córdoba found only two of its thirteen 24-pounders serviceable; at 31 Dec 1798 it had 3 iron 24-pdrs, 1 iron 12-pdr and 8 brass 8-pdrs. ⭐ The SF presidio company's monthly artillery relaciones give the post-rebuild armament: by 1 Apr 1816 the battery mounted 3 iron 24-pdrs, 1 iron 12-pdr (+1 burst), and 8 bronze half-culverins (8-pdr), with 2 bronze pedreros at the presidio; three iron 8-pdrs were added by May 1817 (a dozen+ serviceable guns at its Spanish-era peak). A standing 2-man 'vigía en la costa' coastal watch appears by Jan 1820 (post-Bouchard); the fort guard was 1 corporal + 4 soldiers. ⭐ The 1 Feb 1820 estado records a major post-Bouchard reconfiguration: a new iron 32-pounder, the bronze half-culverins cut from 8 to 6, three iron 4-pounders redistributed to Mission Santa Clara, and a second (new) royal flag. Into the Mexican era, the 7 Jan 1837 San Francisco artillery-park inventory (Comandante General M. G. Vallejo handing the parque to Capt. Francisco Sánchez) lists iron cannon of 24/12/8/4-lb and bronze of 10/8/2½-lb with garrison gun-carriages; by 1839 the SF, Sonoma, Monterey and Santa Bárbara detachments each held only small ordnance stocks and chronically short cartridges.",
    "result": "Demolished 1853; cliff cut down for Fort Point",
    "sources": [
     {
-     "citation": "Bancroft, History of California, vol. I; Thompson, Seacoast Fortifications SF Harbor (HRS 1979)",
+     "citation": "Bancroft, History of California, i. 698-701 and nn.; Thompson, Seacoast Fortifications SF Harbor (HRS 1979)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.militarymuseum.org/CastilloSanJoaquin.html"
@@ -134,7 +139,7 @@
      "ia_leaf_url": null
     }
    ],
-   "notes": "Six seventeenth-century Peruvian bronze cannon survive on the Presidio. Bancroft V records that one of the insurgent parties that crossed the bay on 1 and 2 July 1846 spiked the guns in the abandoned fort, and that when Lieutenant Misroon toured the place on the 11th he found the cannon 'just as Fremont had left them on July 1st, spiked, and requiring much labor to render them of any service'. He gives no count for the fort; the four spiked guns in Bancroft V belong to Castro's abandoned camp outside Los Angeles, where ten pieces were found, four of them spiked.",
+   "notes": "Six seventeenth-century Peruvian bronze cannon survive on the Presidio. Bancroft V records that one of the insurgent parties that crossed the bay on 1 and 2 July 1846 spiked the guns in the abandoned fort, and that when Lieutenant Misroon toured the place on the 11th he found the cannon 'just as Fremont had left them on July 1st, spiked, and requiring much labor to render them of any service'. He gives no count for the fort; the four spiked guns in Bancroft V belong to Castro's abandoned camp outside Los Angeles, where ten pieces were found, four of them spiked. Checked 2026-11-26 against Bancroft i. 698-701: an earlier version said the fort was 'armed 1794 with eleven' 9-pounders (eight were mounted at the blessing) and 'rebuilt to a horseshoe c.1815' (Bancroft gives the horseshoe plan for the 1794 work). The 1798 armament Bancroft gives matches the 1816 relación's exactly.",
    "symbol": "castillo"
   },
   {
@@ -152,17 +157,17 @@
     "display": "Apr–Jun 1797",
     "confidence": "range"
    },
-   "summary": "Built under Gov. Borica on Point San José (Black Point) to cover the Yerba Buena anchorage; brushwood fascines, eight embrasures, five bronze 8-pounders sent over from the Castillo. No permanent garrison.",
+   "summary": "Built under Gov. Borica on Point San José (Black Point) to cover the Yerba Buena anchorage; brushwood fascines, eight embrasures, five 8-pounders not needed at the Castillo. No permanent garrison, but until after 1800 a sentinel visited it daily.",
    "result": "Gone; site became Fort Mason",
    "sources": [
     {
-     "citation": "Bancroft, History of California, vol. I (Prov. St. Pap. xvi.55, xvii.148–9)",
+     "citation": "Bancroft, History of California, i. 701-2 and n. (Prov. St. Pap. xvi.55, xvii.148–9)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://www.nps.gov/goga/learn/historyculture/bateria-de-yerba-buena.htm"
     }
    ],
-   "notes": "Second-oldest Spanish battery on the bay; derelict by 1806.",
+   "notes": "Second-oldest Spanish battery on the bay. 'Derelict by 1806' is not in Bancroft and is unchecked.",
    "symbol": "cannon"
   },
   {
@@ -1313,7 +1318,7 @@
     "display": "1900",
     "confidence": "year"
    },
-   "summary": "Two 5-inch M1900 guns on pedestal mounts in the national-cemetery area, Fort Scott; ; no other SF Endicott battery mounted this armament..",
+   "summary": "Two 5-inch M1900 guns on pedestal mounts in the national-cemetery area, Fort Scott.",
    "result": "Extant concrete (GGNRA)",
    "sources": [
     {
@@ -1324,7 +1329,8 @@
     }
    ],
    "symbol": "rifle",
-   "symbol_count": 2
+   "symbol_count": 2,
+   "notes": "2026-11-26: 'no other SF Endicott battery mounted this armament' removed; Batteries Ledyard, Call and Bruff on this map also mounted 5-inch M1900 guns."
   },
   {
    "id": "battery-slaughter",
@@ -1765,7 +1771,7 @@
     "display": "1938–1948",
     "confidence": "range"
    },
-   "summary": "Two 16-inch guns on casemated carriages on Wolf Ridge, Fort Cronkhite; the largest guns ever emplaced at the Golden Gate; first fired 1 July 1940, first fired 1 July 1940; no 16-inch gun had ever fired from the U.S. Pacific coast until then..",
+   "summary": "Two 16-inch guns on casemated carriages on Wolf Ridge, Fort Cronkhite; the largest guns ever emplaced at the Golden Gate; first fired 1 July 1940; no 16-inch gun had ever fired from the U.S. Pacific coast until then.",
    "result": "Extant casemated battery, partly restored; display 16-inch gun since 2012",
    "sources": [
     {
@@ -2248,7 +2254,7 @@
     "display": "1937–1945",
     "confidence": "range"
    },
-   "summary": "Four mobile 155 mm guns on Panama mounts; ; no other San Francisco battery used them.. The original clifftop site eroded, forcing a move south; original mounts remain in the surf.",
+   "summary": "Four mobile 155 mm guns on Panama mounts; no other San Francisco battery used them. The original clifftop site eroded, forcing a move south; original mounts remain in the surf.",
    "result": "Panama mounts visible at the cliff base (GGNRA)",
    "sources": [
     {
