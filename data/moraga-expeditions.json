@@ -3237,7 +3237,7 @@
    "layer": "rRoss1813",
    "color": "#e67e22",
    "path_confidence": "conjectural",
-   "citation": "Prov. St. Pap. (C-A 12) Doc 439 (San Francisco, 30 July 1814) — Moraga's detailed reconnaissance and defence assessment of the Russian establishment at Ross: the approach too difficult for artillery without a better road, about forty *personas de razón* and many Kodiaks. ⚠ This document belongs to the 1814 visit; the January 1813 cattle drive rests on Langelier & Rosen and is not checked against C-A.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 439 (San Francisco, 30 July 1814) — Moraga's detailed reconnaissance and defence assessment of the Russian establishment at Ross: the approach too difficult for artillery without a better road, about forty *personas de razón* and many Kodiaks. The January 1813 visit itself is C-A 12 Doc 424 (leaf-read); Doc 439 belongs to the 1814 visit.",
    "stops": [
     {
      "id": "rross1813-1-presidio-of-san-francisco",
@@ -3255,7 +3255,7 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "rRoss1813",
-     "summary": "January 1813. Moraga drives 20 cattle and 3 horses to Fort Ross — practical diplomacy. Returns again in 1814 with Cadet Gervasio Argüello.",
+     "summary": "January 1813. Moraga visits the Russians north of Bodega and is back on the 27th; Argüello infers they wanted trade in provisions on Rezanov's terms, and Kuskov asks for his deserters back. Returns in 1814 with Cadet Gervasio Argüello.",
      "result": "",
      "quote": null,
      "sources": [
@@ -3263,11 +3263,16 @@
        "citation": "Langelier & Rosen, Ch. 3.",
        "ca_record": null,
        "ia_leaf_url": null
+      },
+      {
+       "citation": "Prov. St. Pap. (C-A 12) Doc 424 · Luis Argüello to Arrillaga, San Francisco, 31 Jan 1813, 'Visita á los rusos'; Savage pp. 342-343, scans n349-n350 (read at the leaf 2026-11-26).",
+       "ca_record": "ca12-d424",
+       "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n349"
       }
      ],
      "native_groups": [],
      "tags": [],
-     "notes": ""
+     "notes": "The '20 cattle and 3 horses' of Langelier & Rosen are not in Argüello's report and are unchecked."
     },
     {
      "id": "rross1813-2-bay-crossing-to-marin",
