@@ -28,6 +28,8 @@ for page in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
         if u.startswith("/california-history-maps/"):  # Pages site-root absolute
             target = os.path.normpath(os.path.join(ROOT, u[len("/california-history-maps/"):]) or ROOT)
             if u.endswith("/"): target = os.path.join(target, "index.html") if os.path.isdir(target) else target
+        elif u.startswith("/"):  # custom-domain site root (maps.archivesofcalifornia.com)
+            target = os.path.normpath(os.path.join(ROOT, u.lstrip("/")))
         else:
             target = os.path.normpath(os.path.join(base, u))
         if os.path.isdir(target) and os.path.exists(os.path.join(target, "index.html")):
@@ -58,9 +60,18 @@ print(f"deep links checked: {n_links}")
 
 # 3. every map shell's data file exists; every data map has a shell + landing card
 index = open(os.path.join(ROOT, "index.html")).read()
+# exhibit (panels-engine) pages, source-list pages and redirect stubs have no data-map shell by design;
+# data files that feed an exhibit map are reached through that page, not a shell of their own
+panels_js = open(os.path.join(ROOT, "assets", "js", "panels-engine.js")).read()
+exhibit_data = set(re.findall(r"\.\./data/([a-z0-9-]+)\.json", panels_js))
+def _exempt_shell(html):
+    return 'data-panel=' in html or 'http-equiv="refresh"' in html or 'class="sources-page' in html
 for shell in glob.glob(os.path.join(ROOT, "maps", "*.html")):
-    mid = re.search(r'data-map="([^"]+)"', open(shell).read())
+    html = open(shell).read()
+    mid = re.search(r'data-map="([^"]+)"', html)
     if not mid:
+        if _exempt_shell(html) or shell.endswith("sources.html"):
+            continue
         err(f"{shell}: no data-map attr"); continue
     if not os.path.exists(os.path.join(ROOT, "data", mid.group(1) + ".json")):
         err(f"{shell}: missing data file {mid.group(1)}.json")
@@ -68,7 +79,15 @@ for p in glob.glob(os.path.join(ROOT, "data", "*.json")):
     d = json.load(open(p))
     if "id" not in d or "features" not in d:
         continue
-    if not os.path.exists(os.path.join(ROOT, "maps", d["id"] + ".html")):
+    shell_p = os.path.join(ROOT, "maps", d["id"] + ".html")
+    redirect = os.path.exists(shell_p) and 'http-equiv="refresh"' in open(shell_p).read()
+    if d["id"] in exhibit_data and not os.path.exists(shell_p):
+        if f'"{d["id"]}"' not in index:
+            err(f"{d['id']}: exhibit data missing from landing stats array")
+        continue
+    if redirect:
+        continue  # superseded map; its page forwards to the replacement
+    if not os.path.exists(shell_p):
         err(f"{d['id']}: no shell page")
     if d["id"] + ".html" not in index:
         err(f"{d['id']}: no landing card")

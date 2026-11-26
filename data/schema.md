@@ -30,7 +30,7 @@ Every map = one JSON file in `data/`, rendered by `assets/js/map-engine.js`. Add
   "register_no": "121",                   // military-register # where applicable, else null
   "name": "The Jacum battle — capitanejo Charagui defeats the San Diego column",
   "date": {"iso": "1837-05", "display": "May 1837", "confidence": "month"},
-       // confidence: exact | month | year | circa | range
+       // confidence: exact | month | year | circa | range | unknown (undated reference points only)
   "coords": [32.62, -116.19],
   "coord_precision": "place",             // exact | place | area | conjectural
        // exact = the source pins the spot; place = known settlement/feature;
