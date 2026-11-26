@@ -21503,8 +21503,8 @@
    "register_no": null,
    "name": "The 19 Chumash rancherías of the channel, counted 1796",
    "date": {
-    "iso": null,
-    "display": "",
+    "iso": "1796-03-12",
+    "display": "12 March 1796",
     "confidence": "exact"
    },
    "coords": [
@@ -21514,19 +21514,19 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "The colonial state's one attempt to count the people it had not yet reduced. A nominal census of about nineteen coastal Chumash rancherías, each entered with its own name, its captain's name in his own language, its distance from the last, and its number of gentile souls: 1,983 people over 31 leagues of coast. It closes with a proposal to instruct them in their own rancherías rather than force them into the missions, with grain as the inducement.",
+   "summary": "Goycoechea's answer to Governor Borica's order of 27 February 1796 to report the gentile rancherías fixed on the Channel shore. A nominal table of nineteen rancherías from Sisolopo at San Buenaventura to Pedernales, each with its name, its captain's name (one, at El Montecito, a woman: Sagapueje, 'muger'), its distance from the last and its approximate number of souls: 31 leagues and 1,783 souls in all. The gentiles, he wrote, told him they would not be baptised because it meant going to live at the mission, leaving their sites and losing their fishing; he proposed instructing them partly at the missions and partly in their own rancherías, with grain as an inducement.",
    "result": "",
    "quote": null,
    "sources": [
     {
-     "citation": "St. Pap., Missions (BANC MSS C-A 50) Doc 213, 12 March 1796: *Rancherías de Gentiles*, a nominal census of about nineteen coastal Chumash rancherías, each with its name, its captain's indigenous name, its distance and its count of gentile souls; 31 leguas and 1,983 souls in all, with a reduction proposal attached. Doc 200, formerly cited, is the Monterey presidio's livestock and crop return for 1796.",
+     "citation": "St. Pap., Missions (BANC MSS C-A 50) Doc 213, 12 March 1796: *Rancherías de Gentiles*, a nominal census of about nineteen coastal Chumash rancherías, each with its name, its captain's indigenous name, its distance and its count of gentile souls; 31 leguas and 1,783 souls in all (the table's own 'Sumas'; the nineteen entries as read add to 1,784), with a reduction proposal attached. Doc 200, formerly cited, is the Monterey presidio's livestock and crop return for 1796.",
      "ca_record": "ca50-d213",
      "ia_leaf_url": "https://archive.org/details/bancarchca_81_12/page/n228"
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ Placed on the channel as a group. The nineteen rancherías are named individually in the manuscript; itemising and locating them requires a leaf-by-leaf read, which has not been done. This feature stands for the census, not for a single place.",
+   "notes": "⚠ Placed on the channel as a group; the nineteen rancherías are named in the table (Savage p. 230, scan n229) but not yet located individually. Read at the leaf 2026-11-25: an earlier version of this feature gave the total as 1,983; the manuscript's 'Sumas' is 1,783. The 'one attempt to count' claim was dropped: Borica's order implies parallel reports, which have not been looked for.",
    "symbol": "rancheria"
   },
   {
@@ -21545,7 +21545,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "Serra counted his neophytes not as a mission population but by the rancherías they came from: San Carlos 23 married men and 1 widower, San José 14, Santa Teresa 21, San Miguel 15, San Francisco 18; 96 adult males in all, though the named rancherías as listed sum to 92. Behind the mission's single number stand five named communities. Since the mission's founding 659 Indians had been baptised and 243 had died.",
+   "summary": "Serra listed his adult neophyte men not as one mission population but by the rancherías they came from: San Carlos 23 married and 1 widower; San José 14 married; Santa Teresa 21; San Miguel 15 married, 1 widower, 1 single; San Francisco 18 married, 1 widower, 1 single; 96 in all. The list was made for the king's donativo for the war: the 96 gave $96. Separately he counted long-standing apostates, 9 married, 2 widowers and 4 single, whose recovery had needed the troops. Since the mission's founding 659 Indians had been baptised and 243 had died.",
    "result": "",
    "quote": null,
    "sources": [
@@ -21557,7 +21557,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ The ranchería names here are the mission's Spanish names for them, recorded at Carmel. Their locations are not given in the document.",
+   "notes": "⚠ The ranchería names here are the mission's Spanish names for them, recorded at Carmel; their locations are not given in the document. Read at the leaf 2026-11-25 (Savage p. 128, scan n130): an earlier version said the rancherías 'sum to 92, four short'. That misread the ditto columns; with the widowers and single men the rows add to 96, the padrón's own total.",
    "symbol": "rancheria"
   },
   {
@@ -21576,7 +21576,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "A boundary description that is also a gazetteer. Setting the limits of Mission San Rafael, the document runs west some eight leagues to the estero coming from the port of Bodega 'llamado de Tamales' (Tomales), and north nine leagues over the sierra to the plains of Livantonomi[?], where a house and sown fields were to draw the gentilidad in 'con suavidad y blandura'. It carries a dense layer of Coast Miwok names: the ranchería of Olompalí, the Laguna Ocolom, the cañadas de las Gallinas.",
+   "summary": "A boundary description that is also a gazetteer. Undated and unsigned (1828), it reports the mission's limits according to its minister, Fr. Juan Amorós: west, some eight leagues of hills and then the estero from the port of Bodega 'que se llama de Tamales' (Tomales); north, nine leagues of sierra and then the plains of Livantonorné[?], where a house had been built and land marked out for sowing to draw the gentilidad in 'con suavidad y blandura'. It carries a dense layer of Coast Miwok names: the ranchería of Annamas (San Pedro Alcántara) at Corte Madera, the cañada of Aranques, the ranchería of Olompalí, whose capitanejo was a Christian, the cañadas of Las Gallinas, Novato, Colomaché and Echatamal, Olemochoé, and the Laguna Ocolom, where 'los salvages son belicosos'.",
    "result": "",
    "quote": null,
    "sources": [
@@ -21588,7 +21588,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ Placed between San Rafael and Tomales Bay to span the described limits; the boundary itself is not mapped here.",
+   "notes": "⚠ Placed between San Rafael and Tomales Bay to span the described limits; the boundary itself is not mapped here. Read at the leaf 2026-11-25 (Savage pp. 76-77, scans n75-76); the plains' name is uncertain in Savage's hand.",
    "symbol": "rancheria"
   },
   {
@@ -21596,8 +21596,8 @@
    "register_no": null,
    "name": "The ranchería de Amajaba (Mojave), 1819",
    "date": {
-    "iso": null,
-    "display": "",
+    "iso": "1819-11-03",
+    "display": "3 November 1819",
     "confidence": "exact"
    },
    "coords": [
@@ -21607,7 +21607,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "The furthest place the Californian military reached toward. In 1819 the ranchería de Amajaba was reported to have threatened Missions San Gabriel and San Fernando, and Moraga was ordered to march with fifty men; thirty-five cavalry from both presidios, fifteen Mazatlán troops under Fabregat, four artillerymen and a cannon with grape and ball; to make the *capitanejos* surrender the fugitive Christian Indians, then leave garrisons of fifteen at each mission.",
+   "summary": "On 3 November 1819 Governor Solá, told by the San Gabriel escort that the people of the ranchería of Amajava 'intentan venir á hostilizar' San Gabriel or San Fernando, ordered Lt. Gabriel Moraga to march with fifty men: thirty-five cavalry of the San Diego and Santa Bárbara companies, fifteen of the Mazatlán company under Lt. Narciso Fabregat, and the small cannon brought by Lt. Francisco María Ruiz with four artillerymen, grape and ball. The capitanejos were to hand over the Christian Indians of both sexes they held; on return fifteen men were to stay at each mission. The column never reached the Amajava rancherías.",
    "result": "",
    "quote": null,
    "sources": [
@@ -21619,7 +21619,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ Placed at the Mojave villages on the Colorado. The document names the people, not a mapped location.",
+   "notes": "⚠ Placed at the Mojave villages on the Colorado. The document names the people, not a mapped location. Read at the leaf 2026-11-25 (Savage pp. 236-238, scans n235-237); the failed march itself is on the military map (reg-68).",
    "symbol": "rancheria"
   },
   {
@@ -21638,7 +21638,7 @@
    "coord_precision": "conjectural",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "Arrillaga ordered Alférez Gabriel Moraga of the San Francisco company against the gentiles of the ranchería 'llamada Sespesuya' north of the presidio, who in three years of nominal peace had killed sixteen Christians. The ranchería lay across the estero de San Francisco and the troops had no launches; 'las tropas no tienen lanchas'; so they crossed by relays in one small boat found on the shore. Moraga took eighteen gentile prisoners, released because they were too badly wounded.",
+   "summary": "Arrillaga ordered Alférez Gabriel Moraga of the San Francisco company against the gentiles of the ranchería 'llamada Sespesuya' north of the presidio, who in three years of nominal peace had killed sixteen Christians. The ranchería lay across the estero de San Francisco and the troops had no launches; 'las tropas no tienen lanchas'; so the alférez, his troops and their horses crossed in several trips in the one very small boat that was found ('una muy chica'). Moraga took eighteen gentile prisoners, released because they were too badly wounded.",
    "result": "",
    "quote": null,
    "sources": [
@@ -21650,7 +21650,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CONJECTURAL. The document says only 'north of the presidio' and 'across the estero de San Francisco'. The pin marks the north bay generally and should not be read as a located site.",
+   "notes": "⚠ CONJECTURAL. The document says only 'north of the presidio' and 'across the estero de San Francisco'. The pin marks the north bay generally and should not be read as a located site. Read at the leaf 2026-11-25 (Savage pp. 371-372, scans n374-375): the governor's summary matches; the battle is on the military map (reg-21).",
    "symbol": "rancheria"
   },
   {
@@ -21658,8 +21658,8 @@
    "register_no": null,
    "name": "The rancherías of Tinoqui and Napalayagua, 1790",
    "date": {
-    "iso": null,
-    "display": "",
+    "iso": "1790-08-29",
+    "display": "29 August 1790",
     "confidence": "exact"
    },
    "coords": [
@@ -21669,7 +21669,7 @@
    "coord_precision": "conjectural",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "Interior Chumash politics visible through a colonial patrol. A Santa Bárbara sergeant sent after a deserter to the ranchería de Tinoqui was joined by nine Indians of Napalayagua, 'enemies of Tinoqui'. The camp was attacked from the rear by more than sixty; soldiers Gabriel Espinosa and Ignacio Carlón were killed. The record preserves an alliance and an enmity between two named communities that the territorial map cannot show.",
+   "summary": "Interior Chumash politics visible through a colonial patrol. Sergeant José Ignacio Olivera and eight men, sent from Santa Bárbara on 24 August 1790 after a deserter at the ranchería of Tinoqui and to look for metal veins, were joined by three Indians of Napalayegua, 'enemigos de Tinoqui'; fifteen more joined at dawn on the 29th and left about eleven. While the sergeant and one soldier scouted, more than sixty Indians attacked him from behind; at the same time the camp was attacked and its two guards, Gabriel Espinosa and Carlón, were killed, Carlón in his sleep. The record preserves an alliance and an enmity between two named communities that the territorial map cannot show.",
    "result": "",
    "quote": null,
    "sources": [
@@ -21681,7 +21681,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CONJECTURAL. Placed in the interior behind Santa Bárbara; neither ranchería's site is given in the document.",
+   "notes": "⚠ CONJECTURAL. Placed in the interior behind Santa Bárbara; neither ranchería's site is given in the document. Read at the leaf 2026-11-25 (Goycoechea to Fages, 2 Sept. 1790; Savage pp. 209-211, scans n214-216). An earlier version said nine Napalayagua joined and that the sixty attacked the camp: the leaf has three allies, and the sixty attacked the sergeant's two-man scout while a separate attack killed the camp guards. Savage writes 'Ignacio Carlón'; the habilitado's accounts (ca5-d184/185) name him Hilario, so the first name is left out.",
    "symbol": "rancheria"
   },
   {
@@ -21689,8 +21689,8 @@
    "register_no": null,
    "name": "The ranchería of Huilantuliyami, 1823",
    "date": {
-    "iso": null,
-    "display": "",
+    "iso": "1823-06-11",
+    "display": "11 June 1823",
     "confidence": "exact"
    },
    "coords": [
@@ -21700,7 +21700,7 @@
    "coord_precision": "conjectural",
    "type": "event",
    "layer": "archive-rancherias",
-   "summary": "A corporal took a small party to the ranchería 'nombrada Huilantuliyami' after runaway Christian Indians, and was reprimanded for it: no such sortie 'debe verificarse sin ántes consultarlo', given the risk to so small a party against 'una Rancheria tan belicosa como es la de Huilantuliyami'. At least ten men should have been sent. The archive names the place because the army was afraid of it.",
+   "summary": "On 11 June 1823 Governor Argüello wrote to the commandant of the San Francisco presidio about the sortie that cabo José Herrera, brevet sergeant, had made with troops to the ranchería 'nombrada Huilantuliyami' after runaway Christian Indians. No such sortie, he told the commandant, 'debe verificarse sin ántes consultarlo', given the risk of sending so small a party against 'una Rancheria tan belicosa como es la de Huilantuliyami'; at least ten men should have gone. The archive names the place because the army was afraid of it.",
    "result": "",
    "quote": null,
    "sources": [
@@ -21712,7 +21712,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CONJECTURAL. Placed in the San Joaquín/Tulares interior, the usual destination of Monterey-district fugitive pursuits. The document gives no location.",
+   "notes": "⚠ CONJECTURAL. The document gives no location; the pin sits in the San Joaquín interior, where San Francisco-district pursuits of runaways usually went. Read at the leaf 2026-11-25 (Savage p. 66, scan n65): an earlier version made this a Monterey matter and had the corporal reprimanded; the letter is to the San Francisco commandant who sent the party.",
    "symbol": "rancheria"
   }
  ],
