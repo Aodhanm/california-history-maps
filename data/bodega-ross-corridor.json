@@ -1625,7 +1625,7 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "overland",
-     "summary": "October 3, 1810. Governor orders Moraga to investigate Russian fur-hunting at Bodega Bay. 10-day reconnaissance.",
+     "summary": "23 September 1810, 2:30 p.m.: Alférez Moraga 'salió embarcado', crossing the port and heading north, to look into the Russian hunting at Bodega; his diary runs to 2 October and is dated San Francisco, 3 October.",
      "result": "",
      "quote": null,
      "sources": [
@@ -1633,11 +1633,16 @@
        "citation": "Langelier & Rosen, fn. 52: 'Gabriel Moraga's Diary of his Expedition to the Port of Bodega, Oct. 3, 1810, Prov. St. Pap., XII, 276–79.' Diary survives in the Archives of California.",
        "ca_record": null,
        "ia_leaf_url": null
+      },
+      {
+       "citation": "Prov. St. Pap. (C-A 12) Doc 335 · Moraga's Bodega diary; Savage p. 276, scan n279 (read at the leaf 2026-11-26).",
+       "ca_record": "ca12-d335",
+       "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n279"
       }
      ],
      "native_groups": [],
      "tags": [],
-     "notes": ""
+     "notes": "Corrected 2026-11-26: the departure was 23 September, not 3 October (the diary's date); the leaf names no governor's order."
     },
     {
      "id": "rbodega-2-bay-crossing-to-marin",

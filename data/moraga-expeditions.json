@@ -272,7 +272,7 @@
    "coord_precision": "exact",
    "type": "mission",
    "layer": "refs",
-   "summary": "1812. Russian-American Company. Kuskov. 95 Russians + ~80 Aleut hunters. Moraga visited 1812, 1813, 1814.",
+   "summary": "1812. Russian-American Company. Kuskov. About 95 Russians and 80 Alaska Native hunters in the later literature; Moraga's 1812 reconnaissance reported about 80 men. Moraga visited 1812, 1813, 1814.",
    "result": "",
    "quote": null,
    "sources": [],
@@ -2607,7 +2607,7 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "rSuisun",
-     "summary": "May 1810. Governor Arrillaga orders Moraga to pursue the Suisun, who have killed 16 Christians over 3 years. Moraga departs with 17 men.",
+     "summary": "May 1810. Governor Arrillaga orders Moraga against the ranchería 'llamada Sespesuya' north of the presidio (the Suisun), who in three years had killed 16 Christians. The '17 men' of the standard accounts is not in Arrillaga's report.",
      "result": "",
      "quote": null,
      "sources": [
@@ -2615,6 +2615,11 @@
        "citation": "Arrillaga report, Prov. Rec. ix. 122–3 (C-A 25).",
        "ca_record": null,
        "ia_leaf_url": null
+      },
+      {
+       "citation": "Prov. Rec. (C-A 25) Doc 686 · Arrillaga to the Viceroy, Monterey, 28 June 1810; Savage pp. 371-372 (hand ff. 122-123), scans n374-n375 (read at the leaf 2026-11-25).",
+       "ca_record": "ca25-d686",
+       "ia_leaf_url": "https://archive.org/details/168036074_80_7_2/page/n374"
       }
      ],
      "native_groups": [],
@@ -2839,7 +2844,7 @@
      "coord_precision": "area",
      "type": "expedition-leg",
      "layer": "rBodega",
-     "summary": "October 3, 1810. Governor orders Moraga to investigate Russian fur-hunting at Bodega Bay. 10-day reconnaissance.",
+     "summary": "23 September 1810, 2:30 p.m.: Alférez Moraga 'salió embarcado', crossing the port and heading north, to look into the Russian hunting at Bodega; his diary runs to 2 October and is dated San Francisco, 3 October.",
      "result": "",
      "quote": null,
      "sources": [
@@ -2847,11 +2852,16 @@
        "citation": "Langelier & Rosen, n. 281: 'Gabriel Moragas Diary of his Expedition to the Port of Bodega, Oct. 3, 1810, Prov. St. Pap., XII, 276–79. Diary survives in the Archives of California.",
        "ca_record": null,
        "ia_leaf_url": null
+      },
+      {
+       "citation": "Prov. St. Pap. (C-A 12) Doc 335 · Gabriel Moraga, Diario de su espedición al puerto de Bodega, San Francisco, 3 Oct. 1810; Savage p. 276, scan n279 (read at the leaf 2026-11-26).",
+       "ca_record": "ca12-d335",
+       "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n279"
       }
      ],
      "native_groups": [],
      "tags": [],
-     "notes": ""
+     "notes": "Corrected 2026-11-26: an earlier version dated the departure 3 October (the diary's date) and said the governor ordered it; the leaf has the departure on 23 September and names no order."
     },
     {
      "id": "rbodega-2-bay-crossing-to-marin",
@@ -3227,7 +3237,7 @@
    "layer": "rRoss1813",
    "color": "#e67e22",
    "path_confidence": "conjectural",
-   "citation": "Prov. St. Pap. (C-A 12) Doc 439 — Moraga's detailed reconnaissance and defence assessment of the Russian establishment at Ross: the approach too difficult for artillery without a better road, about forty *personas de razón* and many Kodiaks.",
+   "citation": "Prov. St. Pap. (C-A 12) Doc 439 (San Francisco, 30 July 1814) — Moraga's detailed reconnaissance and defence assessment of the Russian establishment at Ross: the approach too difficult for artillery without a better road, about forty *personas de razón* and many Kodiaks. ⚠ This document belongs to the 1814 visit; the January 1813 cattle drive rests on Langelier & Rosen and is not checked against C-A.",
    "stops": [
     {
      "id": "rross1813-1-presidio-of-san-francisco",
