@@ -1515,7 +1515,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Arrillaga, at Soledad on 2 October 1811, approved the Santa Bárbara commandant's sending Cabo Juan Ortega after the gentiles of the ranchería of Quipaquix; on 31 October he noted that Ortega had come back without capturing the gentile 'Guipaquia'. On 29 April 1812 he acknowledged that Capitán Quipaquix had asked for troops to take back fugitive neophytes who were in his ranchería.",
+   "summary": "Arrillaga, at Soledad on 2 October 1811, approved the Santa Bárbara commandant's sending Cabo Juan Ortega after the gentiles of the ranchería of Quipaquix; on 31 October he noted that Ortega had come back without capturing the gentile Quipaquix. On 29 April 1812 he acknowledged that Capitán Quipaquix had asked for troops to take back fugitive neophytes who were in his ranchería.",
    "result": "Indigenous autonomy; Spanish military cannot operate here",
    "quote": null,
    "sources": [
@@ -1525,19 +1525,19 @@
      "ca_record": "ca26-d53"
     },
     {
-     "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 64-66 / Savage p. 17 / scan n16, Doc 56. Arrillaga, Soledad, 31 October 1811: Cabo Ortega returned without having taken the gentile «Guipaquia».",
+     "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 64-66 / Savage p. 17 / scan n16, Doc 56. Arrillaga, Soledad, 31 October 1811: Cabo Ortega returned without having taken the gentile «Quipaquix».",
      "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n16",
      "ca_record": "ca26-d56"
     },
     {
      "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 67-68 / Savage p. 17 / scan n16: Arrillaga, Monterey, 29 April 1812, «Quedar enterado de q.e Cap.n Quipaquix solicitó tropa p.a conducir neófitos fugitivos q.e se hallan en su Ranch.a».",
-     "ca_record": null,
+     "ca_record": "ca26-d59",
      "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n16"
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "⚠ CONJECTURAL placement in the Santa Bárbara backcountry: all three letters go to the Comandante of Santa Bárbara and the ranchería is not located. Corrected at the leaf 2026-11-26 (Savage pp. 16-17, scans n15-n16): an earlier version spelled the name 'Suispaques', placed it on the Suisun plain, some 300 miles north, and said the captain offered to return fugitives 'on his own terms'; he asked for troops to take them back."
+   "notes": "⚠ CONJECTURAL placement in the Santa Bárbara backcountry: all three letters go to the Comandante of Santa Bárbara and the ranchería is not located. Corrected at the leaf 2026-11-26 (Savage pp. 16-17, scans n15-n16): an earlier version, following the catalogue, spelled the name 'Suispaques' (all three of Savage's entries read Quipaquix, with the same initial as 'Quedar' on the same page), placed it on the Suisun plain, some 300 miles north, and said the captain offered to return fugitives 'on his own terms'; he asked for troops to take them back."
   },
   {
    "id": "chief-valli-ela-requests-russian-flag",
