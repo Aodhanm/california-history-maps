@@ -209,7 +209,7 @@
       <div class="thumb" style="background-image:url(assets/previews/sf-bay-expeditions.jpg)"></div>
       <div class="body">
         <h3>San Francisco Bay Expeditions</h3>
-        <p class="meta">Sea &amp; land, 1542–1776 · plus Moraga 1806</p>
+        <p class="meta" data-count="sf-bay-expeditions">Sea &amp; land, 1542–1776 · plus Moraga 1806</p>
         <p>Five sea approaches as coastal ribbons, Ayala's longboat surveys, and the six land
         expeditions of 1769–1776, each stop carrying the diary's account of the day.</p>
       </div>
@@ -218,7 +218,7 @@
       <div class="thumb" style="background-image:url(assets/previews/ranchos-by-era.jpg)"></div>
       <div class="body">
         <h3>Ranchos by Era</h3>
-        <p class="meta">The portal's boundaries · Spanish vs Mexican, or by governor</p>
+        <p class="meta" data-count="ranchos-by-era">The portal's boundaries · Spanish vs Mexican, or by governor</p>
         <p>The rancho portal's own boundaries overlaid by era or by granting governor; every
         parcel keeps its portal record, land case, and diseño links.</p>
       </div>
@@ -303,7 +303,10 @@
 
 <script>
 (function () {
-  var maps = ["possession-acts", "native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806", "lumber-ports", "lighthouses"];
+  var maps = ["possession-acts", "native-california", "military-engagements", "bay-coastal-defense", "presidial-system", "bodega-ross-corridor", "ranchos", "secularization-missions", "population-californias", "borderlands-frontier", "moraga-expeditions", "zalvidea-moraga-1806", "lumber-ports", "lighthouses",
+    "missionization-establishments", "missionization-extras", "sf-bay-expeditions", "ranchos-by-era"];
+  // one entry per landing card; the four exhibit maps draw on the data files above (no double counting)
+  var mapCount = document.querySelectorAll('a.card[href^="maps/"]').length;
   var total = 0, done = 0, engagements = 0;
   maps.forEach(function (id) {
     fetch("data/" + id + ".json").then(function (r) { return r.json(); }).then(function (d) {
@@ -318,7 +321,7 @@
       var meta = document.querySelector('[data-count="' + id + '"]');
       if (meta) meta.textContent = n + " features · " + meta.textContent;
       if (++done === maps.length) {
-        document.getElementById("stat-maps").textContent = maps.length;
+        document.getElementById("stat-maps").textContent = mapCount;
         document.getElementById("stat-features").textContent = total.toLocaleString();
         document.getElementById("stat-engagements").textContent = engagements;
       }
