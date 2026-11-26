@@ -290,10 +290,15 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "Moraga with 4 soldiers investigates grounded vessel. Discovers Fort Ross: ~80 men, Kuskov commanding, all from Unalaska/Kamchatka. Vessel 8 leagues above Bodega. No opposition.",
+   "summary": "Lt. Gabriel Moraga and four soldiers left San Francisco on 25 August 1812 (Savage's copy says October, with his own query) and returned on 1 September. About eight leagues above Bodega he found the grounded vessel, a small schooner or brigantine, and its crew of about eighty under a commandant called 'Coscof' (Kuskov), 'todos son rusos de la Onalasca ó Camchaca', who said they had come some five months before in a leaking ship. They had already closed a wooden quadrangle about 150 varas round and 3½ to 4 varas high, with two raised towers mounting artillery, and were building houses inside: Fort Ross. No opposition.",
    "result": "Discovery; no confrontation possible",
    "quote": null,
    "sources": [
+    {
+     "citation": "Prov. St. Pap. (C-A 12) Doc 407 · Luis Argüello to Arrillaga, San Francisco, 7 Sept 1812; Savage pp. 323-325, scans n330-n332 (read at the leaf 2026-11-26).",
+     "ca_record": "ca12-d407",
+     "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n330"
+    },
     {
      "citation": "Prov. St. Pap. (BANC MSS C-A 12), tomo xix, orig. pp. 1045-1048 / Savage pp. 320-322 / scan n327-n329. Luis Arguello to Arrillaga, San Francisco, 31 July 1812, on the otter hunters in the bay and the first verification mission to Bodega; leaf read.",
      "ia_leaf_url": "https://archive.org/details/168036075_79_14/page/n327",
@@ -310,7 +315,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "The 31 July 1812 letter (Doc 404) records only the first check, by four Christian Indians of the mission who got no further than Bodega; Moraga's own visit is Doc 407. ⚠ The catalogue abstract of Doc 407 says the grounded ship was 'repaired and gone'; that was the Indians' rumour, and the leaf says Moraga found it still aground."
   },
   {
    "id": "moraga-s-fort-ross-defense-assessment",
@@ -636,7 +641,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "british",
-   "summary": "English ship arrives at Santa Cruz port, 60 miles from SF Bay. Vallejo coordinates with alcalde; no military officer available. Thin defense exposed.",
+   "summary": "1 October 1797: told by the escort corporals that an English vessel had arrived at the port of Santa Cruz, Comisionado Vallejo agreed with the alcalde of the vecindario to march to its aid if needed. He did not doubt that the 'oficial de guerra' at that port would have reported it, and stood ready to go when ordered.",
    "result": "No military response possible",
    "quote": null,
    "sources": [
@@ -648,7 +653,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "Corrected at the leaf 2026-11-26 (Savage p. 351, scan n348): an earlier version said no military officer was available; the letter says there was one at the port.",
    "symbol": "ship"
   },
   {
@@ -684,9 +689,9 @@
    "register_no": null,
    "name": "HMS Raccoon at San Francisco",
    "date": {
-    "iso": "1814-03",
-    "display": "March 1814",
-    "confidence": "month"
+    "iso": "1814-03-29",
+    "display": "29 March 1814",
+    "confidence": "exact"
    },
    "coords": [
     37.826,
@@ -695,7 +700,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "british",
-   "summary": "British warship from Columbia River. HMS Raccoon had seized Fort Astoria Dec 1813. Needed gunpowder. Crew deserting to Spanish protection as \"Roman Catholics.\" Written in English in the archive.",
+   "summary": "Capt. Black of HMS Raccoon, the British sloop that had taken Astoria in December 1813, wrote from San Francisco on 29 March 1814: the ship had grounded on the bar leaving the Columbia and 'made much water which ruined her powder'; he asked for 1,400 to 1,500 lb of powder on bills on the British government, to go after the Americans at the Sandwich Islands, and warned that several of his men meant to desert and claim Spanish protection 'under plea of being Roman Catholics'. Savage abstracted the letters in English.",
    "result": "British warship uses SF as supply port; War of 1812 reaches Pacific",
    "quote": null,
    "sources": [
@@ -707,7 +712,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "Read at the leaf 2026-11-26 (Savage p. 373, scan n380). The Astoria capture is general knowledge, not from this document.",
    "symbol": "ship"
   },
   {
@@ -972,7 +977,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Luis Arguello reports to Governor Sola the arrival of the Russian war corvettes Otkrytie and Blagonamerennyi, anchored on the 22nd at three in the afternoon, and says he will receive them cordially and hospitably, as his standing orders required. They had sailed past a fort that by its own commander's account four months earlier had six serviceable guns.",
+   "summary": "Luis Arguello reports to Governor Sola the arrival of the Russian war corvettes Otkrytie and Blagonamerennyi, anchored on the 22nd at three in the afternoon, and says he will receive them cordially and hospitably, as his standing orders required. They had sailed past a fort that, by its artillery officer Manuel Gómez's report of 20 March 1820, had six serviceable guns.",
    "result": "Russian warships pass an unserviceable fort and are received as guests",
    "quote": null,
    "sources": [
@@ -984,7 +989,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "2026-11-26: 'four months earlier' and 'its own commander's' corrected; Gómez's report (C-A 13 Doc 332) is dated 20 March 1820, eight months before.",
    "symbol": "ship"
   },
   {
@@ -1497,37 +1502,42 @@
   {
    "id": "suispaques-evade-cabo-ortega",
    "register_no": null,
-   "name": "Suispaques Evade Cabo Ortega",
+   "name": "Cabo Ortega and Capitán Quipaquix",
    "date": {
     "iso": "1811",
     "display": "1811",
     "confidence": "year"
    },
    "coords": [
-    38.15,
-    -122.05
+    34.62,
+    -119.9
    ],
-   "coord_precision": "place",
+   "coord_precision": "area",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Cabo Ortega dispatched to capture Suispaques/Guispaques; returned without success. Indigenous captain later offered to return fugitives himself; on his own terms.",
+   "summary": "Arrillaga, at Soledad on 2 October 1811, approved the Santa Bárbara commandant's sending Cabo Juan Ortega after the gentiles of the ranchería of Quipaquix; on 31 October he noted that Ortega had come back without capturing the gentile 'Guipaquia'. On 29 April 1812 he acknowledged that Capitán Quipaquix had asked for troops to take back fugitive neophytes who were in his ranchería.",
    "result": "Indigenous autonomy; Spanish military cannot operate here",
    "quote": null,
    "sources": [
     {
-     "citation": "Prov. Rec. (BANC MSS C-A 26), tomo xi, orig. p. 63 / Savage p. 16 / scan n15, Doc 53. Arrillaga, Soledad, 2 October 1811, approving the despatch of Cabo Juan Ortega in pursuit of the gentiles of the rancheria of Suispaques.",
+     "citation": "Prov. Rec. (BANC MSS C-A 26), tomo xi, orig. p. 63 / Savage p. 16 / scan n15, Doc 53. Arrillaga, Soledad, 2 October 1811, approving the despatch of Cabo Juan Ortega in pursuit of the gentiles of the ranchería of Quipaquix (Savage: «Ranch.a de Quipaquix»), to the Comandante of Santa Bárbara.",
      "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n15",
      "ca_record": "ca26-d53"
     },
     {
-     "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 64-66 / Savage p. 17 / scan n16, Doc 56. Arrillaga, Soledad, 31 October 1811: Cabo Ortega returned without having taken the gentile Suispaques.",
+     "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 64-66 / Savage p. 17 / scan n16, Doc 56. Arrillaga, Soledad, 31 October 1811: Cabo Ortega returned without having taken the gentile «Guipaquia».",
      "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n16",
      "ca_record": "ca26-d56"
+    },
+    {
+     "citation": "Prov. Rec. (C-A 26), tomo xi, orig. pp. 67-68 / Savage p. 17 / scan n16: Arrillaga, Monterey, 29 April 1812, «Quedar enterado de q.e Cap.n Quipaquix solicitó tropa p.a conducir neófitos fugitivos q.e se hallan en su Ranch.a».",
+     "ca_record": null,
+     "ia_leaf_url": "https://archive.org/details/168036074_80_8_2/page/n16"
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "⚠ CONJECTURAL placement in the Santa Bárbara backcountry: all three letters go to the Comandante of Santa Bárbara and the ranchería is not located. Corrected at the leaf 2026-11-26 (Savage pp. 16-17, scans n15-n16): an earlier version spelled the name 'Suispaques', placed it on the Suisun plain, some 300 miles north, and said the captain offered to return fugitives 'on his own terms'; he asked for troops to take them back."
   },
   {
    "id": "chief-valli-ela-requests-russian-flag",
