@@ -264,9 +264,9 @@
    "register_no": null,
    "name": "Fifty Bidarkas in the Bay, 130 Reported on the Coast",
    "date": {
-    "iso": "1811",
-    "display": "1811",
-    "confidence": "year"
+    "iso": "1811-05-30",
+    "display": "30 May 1811",
+    "confidence": "exact"
    },
    "coords": [
     37.812,
@@ -275,7 +275,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "Luis Arguello reports fifty bidarkas counted inside San Francisco Bay, and 130 reported to him between Point Bonita and San Antonio; the hunters' canoes between them held more men than the whole mission. Six neophytes out hunting seals for their padres were briefly held by the hunters as suspected spies and then let go. No ship was seen. The coast figure is what the Indians told him, not what the Spanish counted.",
+   "summary": "Luis Arguello reports fifty bidarkas counted inside San Francisco Bay, and 130 reported to him between Point Bonita and San Antonio; the hunters' canoes between them held more men than the whole mission. Six neophytes out hunting seals for their padres were briefly held by the hunters as suspected spies and then let go. No ship was seen. The coast figure is what the Indians told him, not what the Spanish counted. A sergeant sent along the coast toward San Pedro and Los Pilares rode three days and found neither canoes nor signs of landings.",
    "result": "Russian hunting inside the bay, in numbers the presidio could not match",
    "quote": null,
    "sources": [
@@ -287,7 +287,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "Read at the leaf 2026-11-26 (Savage pp. 306-307, scans n311-n312).",
    "symbol": "kayak"
   },
   {
@@ -386,9 +386,9 @@
    "register_no": null,
    "name": "Spanish Missions Supply Kuskov at Fort Ross",
    "date": {
-    "iso": "1816",
-    "display": "1816",
-    "confidence": "year"
+    "iso": "1816-11-11",
+    "display": "11 November 1816",
+    "confidence": "exact"
    },
    "coords": [
     38.51,
@@ -397,7 +397,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "russian",
-   "summary": "The Spanish missions supplying Kuskov's Russian colony; Spain's own establishments provisioning the foreign outpost on the ground it claimed. The open coast as routine economic fact, running in Spain's disfavor.",
+   "summary": "On 11 November 1816 Fr. Vicente Francisco de Sarría, writing from Mission San Carlos, answered Governor Solá's charge that Missions San Francisco, San José and Santa Clara had supplied the commandant of the Russian establishment, 'D. Juan Alex. Cuscoff' (Kuskov), against the royal dispositions: he would look into it on his visitation, but understood that what the missions had supplied in earlier times had been by order of the governor then in office. Spain's own establishments had provisioned the foreign outpost on ground Spain claimed.",
    "result": "Spain provisions the colony it was ordered to uproot",
    "quote": null,
    "sources": [
@@ -405,11 +405,16 @@
      "citation": "C-A 55 Doc 244 (1816).",
      "ca_record": "ca55-d244",
      "ia_leaf_url": null
+    },
+    {
+     "citation": "St. Pap., Sac. (C-A 55) Doc 244 · Sarría to Solá, Mission San Carlos, 11 Nov 1816; Savage p. 209, scan n208 (read at the leaf 2026-11-26).",
+     "ca_record": "ca55-d244",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_17/page/n208"
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Read at the leaf 2026-11-26: the 1816 document is the inquiry; the supplying itself was earlier and, per Sarría, on a former governor's order."
   },
   {
    "id": "fort-ross-abandonment-resolved",
@@ -482,9 +487,9 @@
    "register_no": null,
    "name": "Yanovsky's RAC Trade Overture",
    "date": {
-    "iso": "1820",
-    "display": "ca. 1820",
-    "confidence": "circa"
+    "iso": "1820-08-02",
+    "display": "1820 (Solá's reply, 2 August 1820)",
+    "confidence": "exact"
    },
    "coords": [
     38.508,
@@ -501,11 +506,16 @@
      "citation": "C-A 55 Docs 333–334 (Yanovsky / Solá, ~1820).",
      "ca_record": "ca55-d333",
      "ia_leaf_url": null
+    },
+    {
+     "citation": "St. Pap., Sac. (C-A 55) Doc 334 · Solá to the governor of Sitka, Simón Yanovsky, Monterey, 2 Aug 1820, 'Sobre semillas, pesca de nutria &a'; Savage p. 287, scan n286 (heading read at the leaf 2026-11-26).",
+     "ca_record": "ca55-d334",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_17/page/n286"
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Savage dates Solá's reply 2 August 1820 (the catalogue has 4 August)."
   },
   {
    "id": "the-suvorov-at-sf-the-rac-proclamation-to-califo",
@@ -1135,7 +1145,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "russian",
-   "summary": "Russian-American Company hunting reaches inside the bay itself. On 30 May 1811 Argüello reported Aleut baidarkas working the port, up to fifty together, and some 130 counted between Punta Bonita and Punta San Antonio; six neophytes sent across to fish sea lions for their padres were held for some hours as suspected spies before being released. Spain's inner waters were a Russian hunting ground a year before Ross was founded.",
+   "summary": "Russian-American Company hunting reaches inside the bay itself. On 30 May 1811 Argüello reported Aleut baidarkas working the port, up to fifty together, and 130 more reported by mission neophytes between Punta Bonete and Punta San Antonio; six neophytes sent across to fish sea lions for their padres were held for some hours as suspected spies before being released. Spain's inner waters were a Russian hunting ground a year before Ross was founded.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1154,7 +1164,7 @@
     "Unangan/Alutiiq (Aleut) hunters"
    ],
    "tags": [],
-   "notes": "",
+   "notes": "Corrected at the leaf 2026-11-26: the 130 were reported by the six neophytes, not counted by the Spanish; the neophytes judged the canoes' crews more numerous than the whole mission, women among them.",
    "symbol": "kayak"
   },
   {
@@ -1173,7 +1183,7 @@
    "coord_precision": "exact",
    "type": "event",
    "layer": "russian",
-   "summary": "M. G. Vallejo's confidential report on Ross: about 300 people, a wooden stockade, cannon in the towers, and Russian-American Company intelligence gathered through Wrangel's circle. The fullest Mexican-era picture of the colony, twenty years in.",
+   "summary": "Alférez M. G. Vallejo's 'informe reservado sobre el Establecimiento de Ross' to the Comandante General, San Francisco, 5 May 1833. He left Ross on 28 April for Bodega, seven leagues off, where the Russians had two wooden warehouses for loading and storing produce; there was no fortification at all, only the Tiutuye ranchería of 43 people under its captain Gualinela, who guarded the Russian buildings and were not molested by them. Gualinela told him that 200 armed men, gentiles and Christians of San Rafael, had come a few days earlier to learn whether troops had passed, roused by Toribio of San Rafael.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1181,11 +1191,16 @@
      "citation": "St. Pap., Missions & Colonization (C-A 53), Doc 45 (n97–n111)",
      "ca_record": "ca53-d45",
      "ia_leaf_url": null
+    },
+    {
+     "citation": "St. Pap., Missions & Colonization (C-A 53) · Vallejo, informe reservado, 5 May 1833; Savage pp. 98-99, scans n97-n98 (opening leaves read 2026-11-26).",
+     "ca_record": "ca53-d45",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_15/page/n97"
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Corrected 2026-11-26: the earlier summary ('about 300 people, a wooden stockade, cannon in the towers, intelligence through Wrangel's circle') was not checked against the leaves and is withdrawn until the Ross section (later leaves, to n111) is read."
   },
   {
    "id": "ross-sale-1841",
