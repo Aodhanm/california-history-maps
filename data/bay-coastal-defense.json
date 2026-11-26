@@ -662,11 +662,11 @@
     "display": "1893–1897",
     "confidence": "range"
    },
-   "summary": "Three 12-inch M1888 guns on barbette carriages, on the Lime Point ridge above the Gate; one of the most famous surviving Endicott batteries.",
+   "summary": "Three 12-inch M1888 guns on barbette carriages, on the Lime Point ridge above the Gate; the first Endicott battery built on the north side of the Golden Gate and the highest of the bay's Endicott batteries. Gun 3 was dismounted in 1918, the other two salvaged in 1943.",
    "result": "Extant (GGNRA); iconic Gate viewpoint",
    "sources": [
     {
-     "citation": "FortWiki; Thompson HRS 1979",
+     "citation": "FortWiki; Thompson HRS 1979 p. 437",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://fortwiki.com/Battery_Spencer"
@@ -1005,18 +1005,19 @@
     "display": "1892–1896",
     "confidence": "range"
    },
-   "summary": "Three 12-inch M1888 guns on barbette carriages; the first Endicott battery completed in the San Francisco defenses.",
+   "summary": "Three 12-inch M1888 guns on barbette carriages; the second Endicott battery begun in the Bay Area (1892) and the largest gun battery at Fort Winfield Scott. Its first platform, laid in 1894, was the first 12-inch barbette platform built in the United States.",
    "result": "Extant concrete (GGNRA)",
    "sources": [
     {
-     "citation": "FortWiki; Thompson HRS 1979",
+     "citation": "FortWiki; Thompson HRS 1979 p. 433",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://fortwiki.com/Battery_Godfrey"
     }
    ],
    "symbol": "rifle",
-   "symbol_count": 3
+   "symbol_count": 3,
+   "notes": "2026-11-26: 'the first Endicott battery completed in the San Francisco defenses' replaced; Thompson p. 433 calls it the second undertaken and does not say it was the first completed."
   },
   {
    "id": "battery-saffold",
@@ -1330,7 +1331,7 @@
    ],
    "symbol": "rifle",
    "symbol_count": 2,
-   "notes": "2026-11-26: 'no other SF Endicott battery mounted this armament' removed; Batteries Ledyard, Call and Bruff on this map also mounted 5-inch M1900 guns."
+   "notes": "2026-11-26: 'no other SF Endicott battery mounted this armament' removed. Thompson says so (pp. 427-28) but on p. 429 says Battery Ledyard on Angel Island duplicated Sherwood, and Batteries Call and Bruff on this map also mounted 5-inch M1900 guns."
   },
   {
    "id": "battery-slaughter",
@@ -1416,7 +1417,8 @@
    ],
    "symbol": "rifle",
    "symbol_count": 4,
-   "symbol_major": true
+   "symbol_major": true,
+   "notes": "⚠ Mount type disputed: Thompson p. 428 says the four 3-inch guns were on 'pillar mounts' (and calls Blaney the only battery of its type at San Francisco); the masking-parapet carriage is FortWiki's. Not reconciled."
   },
   {
    "id": "battery-dynamite",
@@ -1461,7 +1463,7 @@
     "display": "1903–1948",
     "confidence": "range"
    },
-   "summary": "Six-inch guns on disappearing carriages at Baker Beach; Fort Scott's final coast battery to stand down (1948), with the only operating disappearing-gun display on the West Coast (Smithsonian gun installed 1977).",
+   "summary": "Six-inch guns on disappearing carriages at Baker Beach; Fort Scott's final coast battery to stand down (1948), with the only operating disappearing-gun display on the West Coast (a 6-inch disappearing gun remounted in 1976).",
    "result": "Extant (GGNRA); NPS tours",
    "sources": [
     {
@@ -1469,9 +1471,15 @@
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://fortwiki.com/Battery_Chamberlin"
+    },
+    {
+     "citation": "Thompson HRS 1979 p. 434 (four 6-inch disappearing guns, dismounted 1917; two emplacements rebuilt for barbette carriages 1920; a 6-inch gun on a disappearing carriage mounted 1976).",
+     "ca_record": null,
+     "ia_leaf_url": null
     }
    ],
-   "symbol": "rifle"
+   "symbol": "rifle",
+   "notes": "2026-11-26: the display gun's year changed from 1977 to 1976 per Thompson, writing in 1979. 'Final coast battery to stand down (1948)' is not in Thompson and is unchecked."
   },
   {
    "id": "battery-livingston",
@@ -1775,13 +1783,14 @@
    "result": "Extant casemated battery, partly restored; display 16-inch gun since 2012",
    "sources": [
     {
-     "citation": "FortWiki; Thompson HRS 1979; Chin, Artillery at the Golden Gate (1994)",
+     "citation": "FortWiki; Thompson HRS 1979 p. 444; Chin, Artillery at the Golden Gate (1994)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://fortwiki.com/Battery_Townsley"
     }
    ],
-   "symbol": "casemate"
+   "symbol": "casemate",
+   "notes": "Thompson p. 444 has Townsley turned over to the Coast Artillery in July 1940, the first of the two 16-inch batteries; the 1 July 1940 first firing and the Pacific-coast first are from Chin and not checked."
   },
   {
    "id": "aa-battery-1-cronkhite",
@@ -2168,17 +2177,18 @@
     "display": "1936–1948",
     "confidence": "range"
    },
-   "summary": "Two 16-inch navy guns in earth-covered concrete casemates; the first casemated 16-inch battery in the United States and the engineering prototype for the whole WWII casemated program. Tubes were originally forged for the cancelled battlecruiser USS Saratoga.",
+   "summary": "Two 16-inch navy guns in earth-covered concrete casemates; the first 16-inch battery undertaken at San Francisco and, in Thompson's words, 'the prototype for gun casemates of modern batteries'. Tubes were originally forged for the cancelled battlecruiser USS Saratoga.",
    "result": "Extant concrete, largely dune-buried (GGNRA)",
    "sources": [
     {
-     "citation": "FortWiki; Thompson HRS 1979; Chin (1994)",
+     "citation": "FortWiki; Thompson HRS 1979 p. 444; Chin (1994)",
      "ca_record": null,
      "ia_leaf_url": null,
      "url": "https://fortwiki.com/Battery_Davis_(2)"
     }
    ],
-   "symbol": "casemate"
+   "symbol": "casemate",
+   "notes": "The Saratoga origin of the tubes is from the secondary sources and not checked against Thompson."
   },
   {
    "id": "battery-howe-funston",
