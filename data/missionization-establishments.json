@@ -1391,7 +1391,7 @@
    "coord_precision": "exact",
    "type": "parish",
    "layer": "parish",
-   "summary": "La Iglesia de Nuestra Señora de los Ángeles; The pueblo's own church, begun 1818 and dedicated in December 1822; built because Los Ángeles had none: in 1810 the San Gabriel padre refused to come confess the vecinos, and the pueblo's representation went up to the Padre Presidente. The largest town in California finally got an altar of its own.",
+   "summary": "La Iglesia de Nuestra Señora de los Ángeles; The pueblo's own church, begun 1818 and dedicated in December 1822; built because Los Ángeles had none: in March 1810 the padres of San Gabriel refused to confess the vecinos of Los Ángeles, and the vecinos' representation went up to the Padre Presidente, whose answer Arrillaga forwarded in April. The largest town in California finally got an altar of its own.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1410,7 +1410,7 @@
    "tags": [
     "parish-church"
    ],
-   "notes": ""
+   "notes": "Read at the leaf 2026-11-26 (C-A 26 Doc 11, Savage p. 5, scan n4): 'Haberse negado P.s de S.n Gabriel á confesar vecinos de los Angeles' (9 Mar 1810)."
   },
   {
    "id": "st-josephs-chapel-san-jose",

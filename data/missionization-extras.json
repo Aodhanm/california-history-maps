@@ -79,7 +79,7 @@
    "coord_precision": "place",
    "type": "pueblo",
    "layer": "pueblos",
-   "summary": "The third and last Spanish civil settlement, laid out across the San Lorenzo from Mission Santa Cruz for invalid-soldier colonists; under-funded from birth and a permanent irritant to the mission. The pobladores' ration appears in C-A 8 within weeks of their arrival.",
+   "summary": "The third and last Spanish civil settlement, laid out across the San Lorenzo from Mission Santa Cruz for invalid-soldier colonists; under-funded from birth and a permanent irritant to the mission. Within weeks of their arrival the Santa Cruz escort corporal, Pedro Peralta, reported (9 May 1797) that he had asked the missionaries what ration they could supply the families of pobladores, and they answered that they could not give maize, having no more than the escort's own ration.",
    "sources": [
     {
      "citation": "Founding: Bancroft, History of California I (vault full text)."
@@ -88,7 +88,8 @@
      "citation": "Branciforte pobladores' ration, May 1797: C-A 8 Doc 374",
      "ca_record": "ca8-d374"
     }
-   ]
+   ],
+   "notes": "Read at the leaf 2026-11-26 (C-A 8 Doc 374, Savage p. 382, scan n380): an earlier version implied a ration was supplied; the missionaries declined."
   },
   {
    "id": "x-castillo-san-joaquin-sf",
