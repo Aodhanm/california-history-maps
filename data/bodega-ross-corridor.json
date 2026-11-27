@@ -1183,7 +1183,7 @@
    "coord_precision": "exact",
    "type": "event",
    "layer": "russian",
-   "summary": "Alférez M. G. Vallejo's 'informe reservado sobre el Establecimiento de Ross' to the Comandante General, San Francisco, 5 May 1833. He left Ross on 28 April for Bodega, seven leagues off, where the Russians had two wooden warehouses for loading and storing produce; there was no fortification at all, only the Tiutuye ranchería of 43 people under its captain Gualinela, who guarded the Russian buildings and were not molested by them. Gualinela told him that 200 armed men, gentiles and Christians of San Rafael, had come a few days earlier to learn whether troops had passed, roused by Toribio of San Rafael.",
+   "summary": "Alférez M. G. Vallejo's 'informe reservado sobre el Establecimiento de Ross' to the Comandante General, San Francisco, 5 May 1833. He left Ross on 28 April for Bodega, seven leagues off, where the Russians had two wooden warehouses for loading and storing produce; there was no fortification at all, only the Tiutuye ranchería of 43 people under its captain Gualinela, who guarded the Russian buildings and were not molested by them. Gualinela told him that 200 armed men, gentiles and Christians of San Rafael, had come a few days earlier to learn whether troops had passed, roused by Toribio of San Rafael. At Ross, by his own count and what the commandant Pedro Kostromitinov told him: 300 people, men, women and children, of whom only some seventy were Russians and the rest mostly Russian-Kodiak mestizos and natives of the country; a wooden stockade, a square of 100 varas, 'en deterioro'; twelve 8-pounders, six on each of two corner platforms, six more in a loopholed barracks by the gate and three behind the commandant's house, with two 3-pounders on the main stair; a fusil in every trusted man's house, 60 spare and 11 rifles. No military force: 'todos son negociantes'. A 400-tree orchard, a 700-vine vineyard, a windmill and a watermill, a shipyard that had built four brigantines, and 800 cattle, 700 horses, 2,000 sheep. Kostromitinov offered to ride against the Indians with thirty men; Vallejo declined.",
    "result": "",
    "quote": null,
    "sources": [
@@ -1196,11 +1196,16 @@
      "citation": "St. Pap., Missions & Colonization (C-A 53) · Vallejo, informe reservado, 5 May 1833; Savage pp. 98-99, scans n97-n98 (opening leaves read 2026-11-26).",
      "ca_record": "ca53-d45",
      "ia_leaf_url": "https://archive.org/details/bancarchca_81_15/page/n97"
+    },
+    {
+     "citation": "St. Pap., Missions & Colonization (C-A 53) Doc 45 · Vallejo, informe reservado, Ross section; Savage pp. 106-110, scans n105-n109 (read at the leaf 2026-11-26).",
+     "ca_record": "ca53-d45",
+     "ia_leaf_url": "https://archive.org/details/bancarchca_81_15/page/n105"
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "Corrected 2026-11-26: the earlier summary ('about 300 people, a wooden stockade, cannon in the towers, intelligence through Wrangel's circle') was not checked against the leaves and is withdrawn until the Ross section (later leaves, to n111) is read."
+   "notes": "Corrected 2026-11-26: the earlier summary ('about 300 people, a wooden stockade, cannon in the towers, intelligence through Wrangel's circle') was withdrawn, then re-read at the leaf the same day (Savage pp. 106-110, scans n105-n109): the 300 is confirmed; 'Wrangel's circle' is not in the text (the source is the Ross commandant Kostromitinov). Savage's figure for the Russians reads 70 or 76."
   },
   {
    "id": "ross-sale-1841",
