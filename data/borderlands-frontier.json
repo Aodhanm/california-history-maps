@@ -352,9 +352,9 @@
    "register_no": null,
    "name": "Argüello's Northern Expedition",
    "date": {
-    "iso": "1821-10",
-    "display": "October 1821",
-    "confidence": "month"
+    "iso": "1821-10-18",
+    "display": "18 October to November 1821",
+    "confidence": "exact"
    },
    "coords": [
     38.07,
@@ -363,7 +363,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "spanMil",
-   "summary": "55 men; one of the largest Spanish/Mexican expeditions in CA history. Two full days spent ferrying horses across Carquinez Strait with 4 assembled boats. A power that needs a weekend to cross a channel does not control the territory beyond it.",
+   "summary": "Thirty-five soldados de cuera and twenty infantry under Capt. Luis Argüello, with Padre Blas Ordaz as chaplain and John Gilroy as interpreter, sailed from San Francisco on 18 October 1821 in the presidio and mission launches, were joined by two more boats at the Carquinez, and spent Saturday and Sunday ferrying the horses across the strait before marching north on the 22nd. A power that needed a weekend to cross a channel did not control the territory beyond it.",
    "result": "Two days to cross the Strait; not an empire moving through its own territory",
    "quote": null,
    "sources": [
@@ -375,7 +375,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": ""
+   "notes": "Checked 2026-11-26 against Bancroft ii. 445-6: '55 men', the two days and the four boats confirmed; 'one of the largest expeditions in California history' removed as unsupported."
   },
   {
    "id": "colnett-s-argonaut-at-bodega",
@@ -1038,7 +1038,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "american",
-   "summary": "First naval engagement between a Spanish battery and foreign vessel. American smuggling + armed rescue + artillery duel. Shaler's crew put pistols to Spanish guards' chests. Ship escaped under grapeshot fire. Spanish soldiers were complicit in the otter skin trade.",
+   "summary": "American smuggling + armed rescue + artillery duel. Shaler's crew put pistols to Spanish guards' chests. Ship escaped under grapeshot fire. Spanish soldiers were complicit in the otter skin trade.",
    "result": "First foreign attack on California; American smugglers",
    "quote": null,
    "sources": [
@@ -1051,7 +1051,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "2026-11-26: 'first naval engagement between a Spanish battery and a foreign vessel' removed as an unsupported superlative (the Cantil Blanco battery fired on the Saturnina in 1792, though she was Spanish).",
    "symbol": "swords"
   },
   {
@@ -1247,19 +1247,19 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "bouchard",
-   "summary": "Bouchard anchors. Guerra bluffs with marching troops trick; soldiers march around a hill repeatedly to look like a large army. Prisoner exchange. No fighting.",
+   "summary": "Bouchard anchored off Santa Bárbara under a flag of truce and proposed an exchange of prisoners. Guerra gave up the three men taken at Refugio; what Bouchard returned was a single 'prisoner', the drunken Molina, left behind drunk at Monterey, and Solá reprimanded Guerra severely for parleying at all. No fighting. The story that Guerra marched his troops round a hill again and again to look like a large army comes from Romero's memoir, as Bancroft reports it in a note.",
    "result": "Bluff succeeds; no attack",
    "quote": null,
    "sources": [
     {
-     "citation": "Bancroft II:237–239.",
+     "citation": "Bancroft, History of California II, 237-40 and n. (Romero, Memorias, MS., 1-12, for the hill march).",
      "ca_record": null,
      "ia_leaf_url": null
     }
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "Checked 2026-11-26 against Bancroft ii. 237-40: the hill-march trick is a later memoir's story, now attributed; the unequal exchange added.",
    "symbol": "ship"
   },
   {
@@ -1267,9 +1267,9 @@
    "register_no": null,
    "name": "Bouchard at San Juan Capistrano",
    "date": {
-    "iso": "1818-12",
-    "display": "December 1818",
-    "confidence": "month"
+    "iso": "1818-12-14",
+    "display": "14 to 16 December 1818",
+    "confidence": "exact"
    },
    "coords": [
     33.502,
@@ -1278,7 +1278,7 @@
    "coord_precision": "place",
    "type": "event",
    "layer": "bouchard",
-   "summary": "Bouchard lands. Minor damage; straw houses burned, wine spilled. 4 insurgent deserters surrender.",
+   "summary": "Bouchard landed on 14 December 1818 and asked for supplies; Alférez Santiago Argüello, posted with thirty men on a hill near the mission, refused. Solá says the insurgents burned a few neophyte straw houses, and later witnesses that wine and brandy were spilled; Bancroft did not think any damage certain. After the ships sailed on the 15th or 16th four deserters came in and asked for pardon.",
    "result": "Minor damage",
    "quote": null,
    "sources": [
@@ -1290,7 +1290,7 @@
    ],
    "native_groups": [],
    "tags": [],
-   "notes": "",
+   "notes": "Checked 2026-11-26 against Bancroft ii. 240-1.",
    "symbol": "swords"
   },
   {
@@ -3567,7 +3567,7 @@
    "coord_precision": "area",
    "type": "event",
    "layer": "indigenous",
-   "summary": "Padre Mercado of San Rafael, claiming he feared an attack to free the visitors he had already seized, sent his majordomo Molina out on the morning of 20 May with thirty-seven armed neophytes. They surprised the strangers, killed twenty-one, wounded many more and took twenty men, women and children prisoner, against five wounded of their own, one mortally. Mercado reported it coolly to Figueroa five days later and asked for reinforcements. Figueroa, indignant that his promises to the Indians had been violated, sent the case to Prefect Garcia Diego as the competent ecclesiastical judge, and it was the prefect who suspended Mercado from his ministry and summoned him to Santa Clara. Vallejo, on Figueroa's orders, freed the prisoners at San Francisco and San Rafael and toured the rancherias to calm them. Mercado was out of arrest by the middle of the following year.",
+   "summary": "Padre Mercado of San Rafael, claiming he feared an attack to free the visitors he had already seized, sent his majordomo Molina out on the morning of 20 November with thirty-seven armed neophytes. They surprised the strangers, killed twenty-one, wounded many more and took twenty men, women and children prisoner, against five wounded of their own, one mortally. Mercado reported it coolly to Figueroa five days later and asked for reinforcements. Figueroa, indignant that his promises to the Indians had been violated, sent the case to Prefect Garcia Diego as the competent ecclesiastical judge, and it was the prefect who suspended Mercado from his ministry and summoned him to Santa Clara. Vallejo, on Figueroa's orders, freed the prisoners at San Francisco and San Rafael and toured the rancherias to calm them. Mercado was out of arrest by the middle of the following year.",
    "result": "Figueroa refers the case; the prefect suspends the padre",
    "quote": null,
    "sources": [
@@ -3581,7 +3581,7 @@
    "tags": [
     "north-bay-crisis"
    ],
-   "notes": "",
+   "notes": "2026-11-26: 'morning of 20 May' corrected to 20 November, the point's own date and the military map's leaf-read date.",
    "symbol": "swords"
   },
   {
