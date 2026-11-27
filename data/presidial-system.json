@@ -62,8 +62,8 @@
      "C-A 22 Doc 105"
     ],
     [
-     "1780",
-     "26 men (Moraga)",
+     "1784 Mar 1",
+     "26 soldiers + 4 cabos, Sgt. Grijalva, Alf. Lazo, Lt. Moraga (Savage's heading 1 Mar 1784; the catalogue's 1 May 1780 is wrong, leaf n80 read 2026-11-26)",
      "C-A 21 Doc 152"
     ],
     [
@@ -415,7 +415,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The capital's presidio and the largest company in the province, with the Real Cuerpo de Artillería headquartered here. Even so, in 1809 its ~85 men were dispersed as mission escorts and herd guards, with only 4 men on the battery. Its Mexican-era arithmetic survives month by month: March 1829, a lieutenant, an alférez, sergeants, ten corporals and sixty soldiers drawing $1,668, Mariano Vallejo keeping the books as habilitado; by November 1833 the same company musters 35 men.",
+   "summary": "The capital's presidio and the largest company in the province, with the Real Cuerpo de Artillería headquartered here. Even so, in November 1809 its 89 men were dispersed as mission escorts and herd guards, with a corporal and four men guarding the battery. Its Mexican-era arithmetic survives month by month: March 1829, a lieutenant, an alférez, sergeants, ten corporals and sixty soldiers drawing $1,668, Mariano Vallejo keeping the books as habilitado; by November 1833 the same company musters 35 men.",
    "series": [
     [
      "1781",
@@ -495,7 +495,7 @@
     ],
     [
      "1809 Nov",
-     "~85 men but dispersed; only 4 on the battery",
+     "89 men (73 soldiers incl. 5 artillerymen) but dispersed; battery guard 1 cabo + 4 (leaf n423 read 2026-11-26)",
      "C-A 54 Doc 239 [reg. IV-49]"
     ],
     [

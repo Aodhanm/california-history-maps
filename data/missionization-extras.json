@@ -283,7 +283,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran from 26 men in 1780 to a peak of 73 in 1808, and it did not grow to meet the Russian arrival of 1812: 57 soldiers and 4 artillerymen in 1815, 54 in 1818.",
+   "summary": "The northernmost presidio, founded 1776, responsible for the whole contested frontier facing Bodega and Ross. Its company ran from 26 soldiers in 1784 to a peak of 73 in 1808, and it did not grow to meet the Russian arrival of 1812: 57 soldiers and 4 artillerymen in 1815, 54 in 1818.",
    "sources": [
     {
      "citation": "Presidio garrison & artillery register (vault), compiled from C-A 10, 16, 21, 54",
@@ -295,7 +295,7 @@
      "ca_record": "ca22-d170"
     },
     {
-     "citation": "SF founding company list, 1 May 1780 — Moraga, Grijalva, 4 cabos, 26 soldiers: C-A 21 Doc 152",
+     "citation": "SF company list, 1 Mar 1784 (Savage's heading; the catalogue dates it 1 May 1780) — Lt. Moraga, Alf. Lazo, Sgt. Grijalva, 4 cabos, 26 soldiers: C-A 21 Doc 152, scan n80 (read at the leaf 2026-11-26)",
      "ca_record": "ca21-d152",
      "ia_leaf_url": null
     },
@@ -332,7 +332,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The capital's presidio and the largest company in the province, with the Real Cuerpo de Artillería headquartered here. Even so, in 1809 its ~85 men were dispersed as mission escorts and herd guards, with only 4 men on the battery.",
+   "summary": "The capital's presidio and the largest company in the province, with the Real Cuerpo de Artillería headquartered here. Even so, in November 1809 its 89 men (73 soldiers, 5 of them artillerymen) were dispersed as mission escorts and herd guards, with a corporal and four men guarding the battery.",
    "sources": [
     {
      "citation": "Presidio garrison & artillery register (vault)",
@@ -344,7 +344,7 @@
      "ca_record": "ca1-d23"
     },
     {
-     "citation": "Estudillo's estado de fuerza efectiva, Monterey, 1 Nov 1809 — the garrison dispersed, 4 men on the battery: C-A 54 Doc 239",
+     "citation": "Estudillo's estado de fuerza efectiva, Monterey, 1 Nov 1809 — 89 men, the garrison dispersed, battery guard 1 cabo + 4 (read at the leaf 2026-11-26, scan n423): C-A 54 Doc 239",
      "ca_record": "ca54-d239",
      "ia_leaf_url": null
     },
@@ -446,7 +446,7 @@
    "coord_precision": "exact",
    "type": "presidio",
    "layer": "presidios",
-   "summary": "The old Baja capital, included for context: its company ran from 44 men in 1783 to 85 in 1805, with a marine department attached — six rated men in 1783, and thirty of maestranza y marinería alongside 68 plazas in Borica's Estado of 1799. It was comparable to any Alta California presidio.",
+   "summary": "The old Baja capital, included for context: its company ran from 47 officers and men in 1783 to 85 in 1805, with a marine department attached — six rated men in 1783, and thirty of maestranza y marinería alongside 68 plazas in Borica's Estado of 1799. It was comparable to any Alta California presidio.",
    "sources": [
     {
      "citation": "Presidio garrison & artillery register (vault)",
